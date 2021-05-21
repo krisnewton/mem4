@@ -1,0 +1,4524 @@
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+LAPORAN KEUANGAN
+Gambar 1.1 laporan keuangan sebagai alat analisa kondisi dan kinerja perusahaan
+Kurikulum Siswa mengetahui jenis-jenis Laporan Keuangan Abstrak Akuntansi sebagai sebuah proses tentu menghasilkan output. Out put atau produk akuntansi adalah laporan keuangan. Laporan keuangan dihasilkan dari pencatatan, pengelompokkan dan pengikhtisaran transaksi keuangan suatu unit usaha. Laporan keuangan dapat dijadikan alat bantu manajemen perusahaan dalam pengambilan keputusan. Pihak luar juga dapat menilai kondisi dan kinerja suatu perusahaan berdasarkan laporan keuangan tersebut. Laporan keuangan umumnya terdiri dari neraca, laporan laba rugi, laporan arus kas dan laporan perubahan modal. Kata Kunci: Laporan keungan, neraca, laba-rugi, arus kas, laporan
+perubahan modal
+Pengertian Laporan Keuangan
+Produk dari akuntansi adalah laporan keuangan. Laporan keuangan ini berisi informasi yang menggambarkan kondisi dan kinerja suatu perusahaan. Informasi ini berguna untuk pengambilan keputusan. Untuk siapa laporan keuangan dihasilkan ?
+Pemakai laporan keuangan sebenarnya bisa dibagi dua yaitu pihak internal dan eksternal. Pihak internal adalah manajemen perusahaan. Sedangkan pihak eksternal adalah fiskus (pajak), bank, investor dan akuntan publik.
+Umumnya laporan keuangan terdiri dari neraca (balance sheet), laporan laba-rugi (profit and loss statement), laporan perubahan modal,
+1
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+arus kas (cash flow statement) dan catatan atas laporan keuangan (notes of financial statement).
+Jenis perusahaan pada dasarnya bisa dibagi menjadi tiga yaitu perusahaan dagang, jasa dan industri. Karakteristik ketiga jenis perusahaan ini tentu berbeda sehingga laporan keuangannya juga berbeda. Perusahaan dagang aktivitasnya membeli barang, menyimpan kemudian menjualnya. Contoh perusahaan dagang: super market, toko buah-buahan, toko buku, distibutor dan sebagainya.
+Perusahaan jasa aktivitasnya memberikan jasa (service) kepada pelanggan. Contohnya: salon, perusahaan transportasi, akuntan publik, konsultan dan sebagainya. Perusahaan industri aktivitasnya membeli bahan baku, mengolahnya menjadi barang jadi kemudian menjual barang jadi tersebut. Jadi ada proses produksi yaitu pengolahan bahan baku (raw material) menjadi barang jadi (finished goods).
+Buku ini akan membahas bagaimana menyiapkan laporan keuangan untuk perusahaan dagang dan jasa.
+NERACA
+Neraca adalah laporan yang menggambarkan posisi keuangan perusahaan pada saat tertentu. Isinya terdiri dari harta (asset / aktiva), hutang (kewajiban / liabilities) dan modal (ekuitas / equity). Biasanya neraca disiapkan pada akhir periode akuntansi (akhir bulan atau tahun). Untuk memudahkan analisa biasanya dibuat neraca perbandingan / komparatif antara bulan berjalan dengan bulan sebelumnya.
+Neraca secara harafiah berarti timbangan. Dalam bahasa Inggrisnya Balance Sheet yang berarti lembar keseimbangan. Alasan penamaan tersebut adalah jumlah aktiva harus seimbang (balance) dengan kewajiban ditambah modal. Jika digambarkan maka tampak seperti berikut ini:
+Aktiva = Kewajiban + Modal
+Anatomi Neraca
+Neraca terdiri dari dua bagian yaitu: 1. Judul (Heading) terdiri dari: a. Nama Perusahaan b. Neraca (nama laporan) c. Tanggal neraca 2. Isi Neraca
+Format neraca juga ada dua yaitu bentuk Report Form (bentuk laporang) dan T Account Form (bentuk perkiraan T). Report Form bentuknya memanjang sedangkan T account ke samping. Perbedaan antara neraca
+2
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+perusahaan dagang dengan perusahaan jasa terletak pada persediaan barang dagangan (merchandise inventory). Pada perusahaan dagang ada perkiraan barang dagangan pada kelompok harta. Sedangkan pada perusahaan jasa tidak ada karena perusahaan jasa tidak memiliki persediaan. Berikut ini disajikan contoh neraca perusahaan dagang dan jasa. Bentuk laporan (report form) menyajikan neraca perusahaan dagang. Bentuk T Account menyajikan neraca perusahaan jasa.
+
+AKTIVA Aktiva Lancar Kas Piutang Dagang Persediaan Asuransi Dibayar Dimuka
+
+PT JAGA KARSA NERACA
+Per 31 Januari 2007
+150.000 550.000 600.000 125.000
+
+Jumlah Aktiva Lancar
+
+1.425.000
+
+Aktiva Tetap
+
+Tanah
+
+Gedung
+
+350.000
+
+Akumulasi Penyusutan 100.000
+
+600.000
+
+Jumlah AKTIVA
+
+250.000
+
+850.000
+
+PASSIVA
+
+KEWAJIBAN
+
+Kewajiban Lancar
+
+Hutang Dagang
+
+225.000
+
+Hutang Gaji
+
+325.000
+
+Jumlah Kewajiban Lancar
+
+550.000
+
+Kewajiban Jangka Panjang
+
+Pinjaman Bank
+
+Jumlah Kewajiban
+
+Ekuitas
+
+Modal Saham
+
+1.000.000
+
+Laba Ditahan
+
+275.000
+
+Jumlah Ekuitas
+
+Jumlah PASSIVA
+
+450.000
+
+1.000.000 1.275.000
+
+2.275.000 2.275.000
+
+3
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+SYAHID CONSULTING NERACA Per 31 Januari 2007
+
+AKTIVA Aktiva lancar Kas Piutang Dagang Perlengkapan Kantor Jumlah (1)
+Aktiva Tetap Tanah Gedung Akm Peny. Gedung Jumlah (2)
+Jumlah Aktiva (1)+(2)
+
+500.000 1.500.000 1.200.000 3.200.000
+
+KEWAJIBAN Kewajiban Lancar Hutang Dagang Hutang Bank Jatuh Tempo Jumlah (1) Kewajiban Jk panjang
+
+1600000 600000
+2200000
+
+10.500.000 3.600.000 (1.200.000)
+12.900.000
+
+Pinjaman Bank (2)
+Ekuitas Modal Sahan Laba Ditahan Jumlah (3)
+
+4800000
+8000000 1100000 9.100.000
+
+16.100.000 Jumlah kewajiban dan ekuitas (1)+(2)+(3)
+
+16.100.000
+
+4
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Dari kedua contoh neraca di atas dapat dilihat bentuk T account, di sebelah kanan aktiva sedangkan di sebelah kiri kewajiban dan Modal (passiva). Aktiva diurutkan berdasarkan likuiditasnya, kewajiban diurutkan berdasarkan jatuh temponya. Modal diurutkan berdasarkan kekekalannya. Urutan lengkapnya sebagai berikut:
+Aktiva Aktiva Lancar Investasi Aktiva Tetap Aktiva Tak Berwujud Aktiva Lain-lain
+Kewajiban Kewajiban lancar Kewajiban Jangka Panjang Kewajiban Lain-lain
+Ekuitas (Modal) Modal Saham Agio Saham Laba Ditahan
+Laporan Laba Rugi
+Laporan laba rugi adalah daftar yang mencerminkan kinerja suatu perusahaan dalam suatu periode akuntansi. Periode akuntansi bisa mingguan, bulanan, triwulan atau tahunan. Namun, umumnya laporan laba rugi disusun bulanan. Laporan laba rugi berisi pendapatan dan beban (expense) yang terjadi pada suatu periode akuntansi.
+Pendapatan (revenue/income) adalah peningkatan aktiva atau penurunan kewajiban akibat penyerahan barang atau jasa pada suatu periode akuntansi. Beban adalah sejumlah pengorbanan untuk menghasilkan pendapatan atau memberikan manfaat ekonomis pada suatu periode akuntansi. Contoh: beban gaji (salaries expense), beban sewa (rent expense), beban penyusutan (depreciation expense) dan sebagainya.
+Biasanya pendapatan dikelompokkan menjadi pendapatan dan pendapatan lain-lain. Pendapatan lain-lain adalah pendapatan yang tidak berhubungan langsung dengan aktivitas utama. Contohnya pendapatan bunga bank (interesrs earning). Pendapatan lain-lain disajikan setelah beban usaha.
+Begitu juga dengan beban dibagi menjadi beban usaha dan beban lain-lain. Beban lain-lain merupakan beban yang tidak langsung berhubungan dengan aktivitas usaha. Contohnya biaya administrasi bank.
+5
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Perusahaan adakalanya membagi lagi beban usaha menjadi beban penjualan dan beban administrasi dan umum.
+Perbedaan laporan laba rugi antara perusahaan dagang dan jasa, pada perusahaan dagang memuat perkiraan harga pokok penjualan. Umumnya laporan laba rugi disajikan dalam bentuk laporan (report form).
+Berikut ini contoh laporan laba rugi untuk perusahaan dagang dan jasa.
+PT SUKAWANA LAPORAN LABA-RUGI Bulan Januari 2007
+Penjualan Barang Dagangan Harga Pokok Penjualan Persediaan Awal Barang Dagangan Pembelian Persediaan Akhir Barang Dagangan Harga Pokok Penjualan Beban Gaji Beban Angkut Beban penyusutan Beban lainnya Pendapatan Lain-lain Bunga Bank Beban Lain-lain Biaya Administrasi Bank Laba sebelum pajak
+SALON ONENG Pendapatan Beban Usaha Gaji Komisi Listrik Gas Air
+Laporan Perubahan Modal
+Biasanya sebagai pelengkap perusahaan membuat laporan perubahan modal. Laporan ini berisi perubahan modal suatu perusahaan. Perusahaan yang berbentuk perseorangan biasanya menamakan laporan perubahan modal. Sedangkan bentuk perseroan terbatas (PT)
+6
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+menamakan laporan saldo laba. Berikut ini disajika contoh untuk kedua jenis perusahaan tersebut.
+
+SALON ONENG LAPORAN PERUBAHAN MODAL Per 31 Januari 207
+
+Modal Oneng 1 Januari 2007
+
+Pendapatan bersih Januari 250.000
+
+Pengambilan (Prive)
+
+100.000
+
+400.000
+
+Kenaikan Modal
+
+150.000
+
+Modal Oneng 31 Januari 2007
+
+550.000
+
+PT NANA JAYANA LAPORAN SALDO LABA Per 31 Januari 2007
+Saldo Laba 1 Januari 2007 Pendapatan bersih Januari Dividen
+Kenaikan Saldo Laba
+Saldo Laba 31 Januari 2007
+
+850.000 300.000
+
+900.000
+550.000 1.450.000
+
+Laporan Arus Kas
+Laporan arus kas adalah laporan yang berisi sumber dan penggunaan kas. Laporan kasi terdiri 3 bagian yaitu kas dari aktivitas operasi, kas dari aktivitas investasi dan kas dari aktivitas pendanaan.
+Kas dari aktivitas operasi adalah kas dari kegiatan utama perusahaan. Unsur-unsurnya antara laian: penerimaan piutang, pembayaran hutang dagang, pembayaran gaji karyawan. Kas aktivitas investasi adalah kas yang berhubungan dengan perolehan atau penjualan aktiva tetap. Kas aktivitas pendanaan adalah kas yang berhubungan dengan penambahan atau pengurangan modal.
+Penyusunan laporan arus kas memerlukan pemahaman konsep akuntansi yang memadai. Bahkan terkesan paling rumit dibandingkan laporan keuangan lainnya. Berikut contoh laporan arus kas.
+
+7
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+PT Saharita Laporan Arus Kas per 31 Januari 2007
+
+Aktivitas Operasi Laba Bersih penyusutan piutang usaha utang usaha Persediaan Kas tersedia dari Aktivitas Operasi
+
+1.500.000 750.000 860.000 (540.000) 658.000
+3.228.000
+
+Aktivitas Investasi pembelian aktiva penjualan aktiva akuisisi Kas untuk Aktivitas Investasi
+
+(650.000) 1.235.000
+(720.000) (135.000)
+
+Aktivitas Pendanaan dividen yang dibayarkan pembelian kembali saham biasa kas untuk Aktivitas Pendanaan Kenaikan Kas Kas & Setara Kas 1/1-2007 Kas & Setara Kas 31/1-2007
+
+(640.000) (350.000) (990.000) 2.103.000 1.230.000 3.333.000
+
+Kegiatan
+Carilah di surat kabar iklan yang memuat laporan keuangan suatu perusahaan. Coba perkirakan jenis perusahaan tersebut. Diskusikan dari laporan keuangan tersebut informasi apa yang dapat diketahui.
+Pilihan Ganda 1) Pemakai Laporan Keuangan pihak intern adalah:
+a. Akuntan publik b. Konsultan c. Fiskus d. Manajemen e. Investor
+2) Berikut ini adalah jenis laporan keuangan kecuali
+
+8
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+a. Neraca b. Laporan arus kas c. Laporan absensi d. Laporan laba rugi e. Laporan perubahan modal
+3) Piutang dagang terdapat dalam :
+a. Neraca b. Laporan arus kas c. Laporan penjualan d. Laporan laba rugi e. Laporan perubahan modal 4) Laporan keuangan yang menggambarkan kinerja perusahaan adalah a. Neraca b. Laporan arus kas c. Laporan penjualan d. Laporan laba rugi e. Laporan perubahan modal 5) Aktiva diurutkan berdasarkan a. Jatuh tempo b. Likuiditas c. Kekekalan d. Jumlah e. Abjad 6) Laporan perubahan modal adalah a. Daftar pemodal b. Jumlah modal c. Sumber modal d. Perubahan modal pada periode tertentu e. Pinjaman modal pada periode tertentu 7) Laporan perubahan modal untuk perusahaan berbentuk PT adalah a. Laporan modal PT b. Laporan perubahan modal c. Laporan saldo laba d. Laporan PT e. Laporan kas
+Isian 1. Sebutkan pengertian neraca, laporan laba rugi dan laporan
+perubahan modal 2. Jelaskan perbedaan laporan keuangan antara perusahaan dagang
+dengan perusahaan jasa 3. Sebutkan komponen penyusun neraca 4. Dalam kondisi seperti apakah suatu perusahaan mengalami laba?
+Sebaliknya jika mengalami rugi?
+9
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+5. Susunlah laporan laba rugi untuk perusahaan dagang dan jasa! Essay 1. berikut ini data perkiraan perusahaan PT Asariweuh pada 31
+Desember 2006. Susunlah laporan keuangan yaitu neraca, laporan laba rugi dan laporan saldo laba.
+
+Perkiraan Akumulasi Penyusutan Bangunan Akumulasi Penyusutan Peralatan Asuransi Dibayar Dimuka Bangunan Beban Asuransi Beban Gaji Beban Iklan Beban Penyusutan Hutang Dagang Hutang Gaji Kas Modal Saham Pendapatan Peralatan Piutang Usaha Tanah
+
+Jumlah (Rp)
+(580.000)
+(420.000) 1.500.000 9.750.000
+820.000 900.000 255.000 365.000 3.200.000 4.500.000 1.200.000 10.000.000 2.520.000 1.890.000 2.400.000 5.000.000
+
+Saldo laba per 1 Desember 2006 Rp 4.120.000. Dividen yang dibayarkan Rp 1.260.000. format neraca dan laporan laba rugi bentuk report form. Laporan keuangan mencantumkan judul dan isi. Untuk neraca harus terpisah antara aktiva lancar dengan aktiva tetap.
+
+10
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+BAB 2 KKOODDEE PPEERRKKIIRRAAAANN
+Kurikulum Siswa mampu menyusun daftar kode perkiraan (chart of account) secara sederhana dan sistematis.
+Abstrak
+Perkiraan merupakan catatan untuk menampung suatu transaksi yang dicatat lewat jurnal. Sekumpulan perkiraan biasa disebut dengan istilah buku besar atau ledger. Perkiraan-perkiraan tersebut biasanya diberi nomer dan dikelompokkan berdasarkan kemunculannya di neraca atau laba rugi. Ada beberapa metode penomeran perkiraan. Tiap metode memiliki kelebihan dan kekurangan masing-masing. Walaupun dalam praktek lebih sering digunakan metode decimal. Kita boleh memilih metode mana saja, tetapi yang penting penyusunannya harus sistematis, praktis dan bisa mengantisipasi perubahan di masa datang.
+Kata Kunci: Kode perkiraan, chart of account, metode decimal, metode menmonic, metode kombinasi
+Pengertian Kode Perkiraan
+Pengkodean perkiraan gunanya memudahkan pencatatan ke perkiraan atau buku besar (posting). Selain itu untuk memudahkan klasifikasi perkiraan dan penyusunan laporan keuangan. Biasanya sebuah perusahaan membuat daftar kode perkiraan atau chart of account.
+Perkiraan dapat dikelompokkan menjadi perkiraan neraca dan perkiraan laba-rugi. Perkiraan neraca adalah perkiraan yang termasuk kelompok harta, kewajiban dan modal. Sedangkan perkiraan laba rugi adalah perkiraan yang termasuk kelompok pendapatan dan beban.
+Hal-hal yang harus diperhatikan dalam pembuatan chart of account : 1. nomer harus unik. Artinya satu nomer digunakan untuk satu perkiraan. 2. perkiraan dimasukkan ke dalam kelompok atau sub kelompol. Misalnya:
+kas, piutand dagang dan persediaan dimasukkan ke dalam kelompok aktiva lancar. 3. perkiraan yang berkaitan sebaiknya disusun berurutan. Misalnya piutang usaha dengan penyisihan piutang ragu-ragu. 4. penomeran jangan terlalu ketat sehingga jika terjadi penambahan kemudian hari masih bisa tertampung. Misalnya kelompok beban diberi nomer 500. 569 beban angkutan. 599 beban lainnya. Jika kemudian hari akan menambahkan akun beban, maka dapat diselipkan antara 569 sampai 599. 5. nama rekening sebaiknya singkat dan jelas. Contoh lebih baik "Beban perjalan dinas" daripada "beban perjalanan ke luar kota untuk direksi".
+11
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Jenis-jenis Kode Perkiraan Kode perkiraan bisa disepertikan plat nomer pada kendaraan. Sebuah
+motor mempunyai nomer: D1234AB. Dari nomer tersebut kita bisa tahu kalau motor tersebut dari Bandung karena huruf awalnya D. Angka 1234 menunjukkan nomer urut motor. Sedangkan huruf AB biasanya menunjukkan wilayah.
+Sistem Decimal
+Dasar kode perkiraan sistem decimal yaitu dengan memberi nomer 1 sampai 9 untuk kelompok perkiraan. Contoh:
+1 Aktiva 2 Kewajiban 3 Ekuitas 4 Pendapatan 5 Harga Pokok Penjualan 6 Beban Penjualan 7 Beban Administrasi dan Umum 8 Pendapatan Lain-lain 9 Beban Lain-lain
+Penerapan nomer seperti di atas tidak mutlak. Bisa saja hanya dari angka 1 sampai 7. Yang penting suatu angka menunjukkan kelompok. Dengan cara ini bisa diketahui suatu perkiraan termasuk kelompok mana. Misalnya perkiraan dengan nomer 1109, bisa dipastikan perkiraan tersebut adalah kelompok Aktiva, karena nomer depannya angka 1.
+Sistem decimal lebih banyak dipakai di dalam praktek karena sistematis dan fleksibel. Nomer perkiraan juga tak terbatas mulai dari dua nomer sampai jutaan. Umumnya perusahaan menengah menggunakan nomer perkiraan 5 digit.
+Berikut ini contoh chart of account sistem decimal 3 digit:
+1 AKTIVA 11 Aktiva Lancar 111 Kas 112 Piutang Dagang 113 Perlengkapan Kantor 114 Sewa Dibayar Dimuka 12 Aktiva Tetap 121 Peralatan Kantor 122 Akumulasi Penyusutan Peralatan Kantor
+2 KEWAJIBAN 21 Kewajiban lancar 2.1.1 Hutand Dagang 2.1.1 Wesel Bayar 22 Kewajiban Jangka Panjang 221 Hutang Bank
+12
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+3 MODAL 310 Modal Saham 320 Saldo Laba
+4 PENDAPATAN 410 jasa Konsultasi 420 Pendapatan Training
+5 BEBAN 501 Beban Gaji 502 Beban Sewa 503 Beban Penyusutan 599 Beban Lain-lain
+
+Sistem Mnemonic
+
+Mnemonic berasal dari Bahasa Inggris yang artinya membantu ingatan. Pengkodean perkiraan dengan sistem mnemonic adalah membuat kode yang mudah diingat. Biasa menggunakan singkatan atau kode huruf. Contoh AL untuk Aktiva Lancar, AT untuk Aktiva Tetap, KL untuk Kewajiban Lancar, KJP untuk Kewajiban Jangka Panjang. Berikut beberapa contoh lainnya:
+
+AL-KK AL-PBD AT-Bang B.Gj B.Lst B.Sw
+
+Kas Kecil Persediaan Barang Dagangan Bangunan Beban Gaji Beban Listrik Beban Sewa
+
+Sistem Kombinasi
+
+Sistem ini menggabungkan huruf dengan angka untuk membuat kode
+
+perkiraan. Huruf biasanya diambil dari sistem Menemonic. Berikut contohnya:
+
+AL.01
+
+Kas
+
+AL.02
+
+Piutang Dagang
+
+AT.01
+
+Tanah
+
+AT.02
+
+Bangunan
+
+AT.03
+
+Akumulasi Penyusutan Bangunan
+
+KL.01
+
+Hutan Dagang
+
+M.01
+
+Modal Saham
+
+B.01
+
+Beban Gaji
+
+13
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Kegiatan Carilah contoh chart of account suatu perusahaan, anda bisa mencarinya di internet, program akuntansi atau buku-buku yang menyajikan contoh chart of account perusahaan (bukan fiksi). Kemudian tentukan metode apa yang digunakan. Analisa kelbihan dan kekuranganya.
+Pilihan Ganda
+1. Apa tujuan pengkodean perkiraan a. Untuk membuat plat nomer b. Agar perkiraan teratur c. Memudahkan pencatatan d. Memudahkan pengendalian e. Memudahkan pembayaran
+2. Sistem apakah yang paling banyak digunakan dalam praktek a. Sistem bebas b. Sistem numeric c. Sistem Mnemonic d. Sistem Kombinasi e. Sistem Decimal
+3. Sistem pengkodean perkiraan yang berdasarkan kelompok perkiraan dengan menggunakan angka 1-9 adalah: a. Sistem ABC b. Sistem numeric c. Sistem Mnemonic d. Sistem Kombinasi e. Sistem Decimal
+4. Apa yang biasa digunakan dalam sistem Mnemonic? a. Angka b. Huruf c. Angka dan Huruf d. Huruf dan Angka e. Tidak ada jawaban yang benar
+5. perkiraan tanah dalam pengkodean sistem Mnemonic ditulis ? a. AL-Tnh b. AU-Tnh c. AD-Tnh d. AA-Tnh e. AT-Tnh
+6. Dalam sistem Decimal, sebuah perkiraan mempunyai nomer 1234. Termasuk kelompok apakah perkiraan tersebut ? a. Kewajiban b. Modal c. Pendapatan d. Beban e. Aktiva
+14
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+7. Dalam sistem kombinasi sebuah perkiraan berkode M.02. Perkiraan tersebut adalah ? a. Piutang Dagang b. Sewa Dibayar Dimuka c. Peralatan Kantor d. Hutang Gaji e. Saldo Laba
+Isian 1. Sebutkan tujuan pengkodean perkiraan 2. Dari ketiga sistem pengkodean perkiraan, manakah yang paling banyak
+digunakan dalam praktek,? Jelaskan ! 3. Hal-hal apa saja yang harus diperhatikan dalam pengkodean perkiraan ? 4. Jelaskan perbedaan ketiga sistem pengkodean perkiraan 5. Dimanakah letak perbedaan penyusunan daftar perkiraan untuk perusahaan
+dagang dengan industri
+Essay 1. Dari perkiraan-perkiraan berikut ini, susunlah dengan sistem decimal,
+Mnemonic dan Kombinasi.
+Akumulasi Penyusutan Gedung Asuransi Dibayar Dimuka Beban Asuransi Beban Gaji Beban Listrik Beban Penyusutan Gedung Hutang Dagang Hutang Gaji Kas Kendaraan Modal Tn. Nana Pendapatan Jasa Pengambilan Tn. Nana Piutang Dagang
+2. Buatlah kode perkiraan untuk perusahaan dagang dan jasa dengan memakai salah satu sistem. Tunjukkan dimana letak perbedaannya.
+15
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+BBAABB 33 JJUURRNNAALL
+Kurikulum: siswa mampu mencatat transaksi dengan jurnal umum
+Abstrak Transaksi-transaksi keuangan yang terjadi di dalam suatu perusahaan perlu dicatat. Catatan untuk mencatat transaksi tersebut disebut jurnal. Jadi, jurnal merupakan media pencatatan sebelum transaksi tersebut dikelompokkan dan diikhtisarkan. Sebenarnya jurnal dapat dibedakan menjadi jurnal umum dan jurnal khusus. Namun dalam bab ini hanya membahas jurnal umum. Jurnal khusus akan dibahas kemudian. Jurnal umum biasanya dibuat dua atau empat kolom. Cara mencatat pada jurnal yang paling krusial adalah menentukan mana transaksi debit dan mana transaksi kredit. Bila terbalik, maka laporan yang dihasilkan menjadi salah. Jurnal umum empat kolom biasanya dibuat jika transaksi kas cukup banyak. Dengan cara ini bisa menjurnal lebih efesien karena perkiraan kas tidak perlu ditulis lagi.
+Kata Kunci: Jurnal, jurnal umum, jurnal umum dua kolom, jurnal umum empat kolom
+
+Pengertian Jurnal
+Jurnal adalah media untuk mencatat transaksi. Alasan kenapa transaksi harus dicatat lewat jurnal, karena kemungkinan kesalahan akan lebih besar bila langsung dicatat ke perkiraan (account). Jurnal disebut juga Book of Origin Entry (*buku pemasukan asli)
+Arus data akuntansi tampak pada gambar berikut
+
+Transaksi
+
+Jurnal
+
+Perkiraan
+
+Bentuk Jurnal Pada dasarnya jurnal dapat dibagi dua yaitu jurnal umum dan jurnal
+khusus. Jurnal khusus terdiri dari jurnal penerimaan kas, jurnal pengeluaran kas, jurnal pembelian kredit dan jurnal penjualan kredit. Modul ini membahas jurnal umum.
+Dilihat dari sisi bentuknya, jurnal umum dapat dibuat menjadi jurnal dua kolom dan jurnal empat kolom.
+
+16
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tanggal
+
+Jurnal Umum
+
+Halaman 1
+
+Keterangan
+
+Ref Debit Kredit
+
+Jurnal Umum dua Kolom
+Cara pencatatan transaksi ke dalam jurnal umum dua kolom biasanya sebagai berikut:  Kolom tanggal diisi dengan tanggal transaksi. Pada kolom yang lebih lebar
+diisi dengan nama bulan seperti Januari, Februari, Maret dan seterusnya. Tanggal diisikan pada kolom yang lebih kecil. Tahun biasanya ditulis pada baris paling atas dengan angka seperti 2006. Penulisan nama bulan tidak perlu per transaksi cukup satu kali untuk bulan yang bersangkutan, kecuali pindah halaman.  Kolom keterangan diisi dengan nama perkiraan yang digunakan dalam transaksi. Perkiraan yang didebit ditulis pada baris atas. Perkiraan yang dikredit ditulis pada baris bawahnya dengan tulisan agak menjorok ke sebelah kanan. Penjelasan transaksi dicatat di bawah perkiraan.  Kolom Ref diisi dengan nomer perkiraan sebagai tanda transaksi tersebut telah diposting (dibukukan ke perkiraan atau buku besar).  Kolom Debit diisi dengan angka transaksi debit.  Kolom Debit diisi dengan angka transaksi kredit.
+Jurnal empat kolom biasanya digunakan jika transaksi kas banyak terjadi. Pada jurnal empat kolom ini dibuat kolom kas yang terdiri dari debit dan kredit. Jika ada transaksi kas, angkanya langsung ditempatkan pada kolom kas, baik sebelah debit maupun kredit. Dengan cara ini penulisan perkiraan kas tidak diperlukan. Bentuk jurnal empat kolom tampak seperti berikut ini :
+JURNAL UMUM
+17
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Halaman 1
+
+Kas Debit Kredit
+
+Tanggal
+
+Serba-serbi Keterangan Ref Debit Kredit
+
+Pencatatan ke dalam jurnal umum empat kolom biasanya sebagai berikut:
+ Kolom kas untuk mencatat transaksi yang berhubungan dengan kas, baik sebelah debit maupun kredit. Jika ada transaksi kas, angkanya tinggal dimasukkan pad kolom debit atau kredit.
+ Kolom tanggal diisi dengan tanggal transaksi. Pada kolom yang lebih lebar diisi dengan nama bulan seperti Januari, Februari, Maret dan seterusnya. Tanggal diisikan pada kolom yang lebih kecil. Tahun biasanya ditulis pada baris paling atas dengan angka seperti 2006. Penulisan nama bulan tidak perlu per transaksi cukup satu kali untuk bulan yang bersangkutan, kecuali pindah halaman.
+ Kolom keterangan diisi dengan nama perkiraan yang digunakan dalam transaksi. Perkiraan yang didebit ditulis pada baris atas. Perkiraan yang dikredit ditulis pada baris bawahnya, tulisannya tidak perlu agak menjorok ke sebelah kanan. Penjelasan transaksi dicatat di bawah perkiraan. Angka transaksi dicatat pada kolom Serba-serbi di sebelah debit atau kredit
+ Kolom Ref diisi dengan nomer perkiraan sebagai tanda transaksi tersebut telah diposting (dibukukan ke perkiraan atau buku besar). Pengisian kolom ini untuk perkiraan selain kas.
+Pencatatan ke dalam Jurnal
+Agar lebih jelas bagaimana mencatat transaksi ke dalam jurnal, berikut disajikan langsung dengan contoh kasus.
+Pada tanggal 1 Januari 2007 Jojo memulai usaha penerbitan dengan menyetor modal sebesar Rp 4.550.000. Modal tersebut dibelikan bangunan Rp
+18
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+2.500.000, perlengkapan kantor Rp 1.300.000 sisanya dalam bentuk kas Rp 750.000
+
+Tanggal
+
+Keterangan
+
+2007 Januari
+
+1 Kas Perlengkapan Kantor Bangunan Modal Jojo Setoran modal Jojo
+
+Ref Debit
+
+Kredit
+
+750.000 1.300.000 2.500.000
+
+4.550.000
+
+Keterangan: transaksi ini di satu sisi menambah asset yaitu kas, perlengkapan kantor dan bangunan. Di sisi lain menambah perkiraan modal Tuan Jojo. Perkiraan asset dicatat di sebelah debit, sedangkan modal dicatat di sebelah kredit.
+Tanggal 5 Januari 2007 membeli peralatan kantor seharga Rp130.000, tunai.
+
+Tanggal
+
+Keterangan
+
+Januari
+
+5 Peralatan Kantor Kas
+beli peralatan kantor tunai
+
+Ref Debit Kredit
+130.000 130.000
+
+Keterangan: transaksi ini mempengaruhi dua perkiraan asset yaitu kas dan peralatan kantor. Peralatan kantor bertambah sehingga dicatat di sebelah kredit. Sedangkan perkiraan kas berkurang sehingga dicatat di sebelah kredit.
+Tanggal 8 membeli perlengkapan kantor seharga 500.000 kepada CV Sumber Waras secara kredit.
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+19
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Januari
+
+8 Perlengkapan Kantor Hutang Dagang
+Beli perlengkapan kantor, kredit
+
+500.000 500.000
+
+Keterangan: transaksi ini merupakan pembelian kredit sehingga menambah perkiraan hutang dagang. Bertambahnya perkiraan hutang dagang yang merupakan kelompok kewajiban, dicatat di sebelah kredit. Sedangkan perlengkapan kantor yang merupakan kelompok asset, dicatat di sebelah debit karena ada penambahan.
+Tanggal 12 januari membebankan jasa kepada langganan secara kredit dengan nilai Rp 850.000
+
+Tanggal
+
+Keterangan
+
+Januari
+
+12 Piutang Dagang Pendapatan
+Mencatat pendapatan
+
+Ref Debit Kredit
+850.000 850.000
+
+Keterangan: transaksi ini merupakan penjualan kredit. Bila terjadi transaksi seperti ini, maka akan berpengaruh terhadap perkiraan piutang dagang dan perkiraan pendapatan atau penjualan. Piutang bertambah di sebelah debit sedangkan pendapatan bertambah di sebelah kredit.
+Tanggal 13 Januari dibayar asuransi untuk 6 bulan ke depan sebesar Rp 120.000.
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+Januari
+
+13 Asuransi Dibayar Dimuka Kas Membayar asuransi untuk 6 bulan kemudian
+
+120.000 120.000
+
+Keterangan: asuransi sebenarnya merupakan biaya. Namun, dalam kasus ini, biaya tersebut mempunyai masa manfaat melebihi periode akuntansi (6 bulan).
+
+20
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Bila terjadi hal seperti itu, maka biaya asuransi dicatat pada perkiraan Asuransi Dibayar Dimuka (prepaid expense) yang merupakan kelompok asset. Bertambahnya asset dicatat di sebelah debit. Transaksi ini juga berpengaruh terhadap kas, yang berkurang karena ada pembayaran. Kas berkurang dicatat di sebelah kredit. Jika asuransi tersebut hanya untuk bulan Januari, maka langsung dicatat sebagai beban sewa.
+Tanggal 14 Januari membayar beban iklan sebesar Rp 135.000 secara tunai.
+
+Tanggal
+
+Keterangan
+
+Januari
+
+14 Beban Iklan Kas
+Mencatat beban iklan
+
+Ref Debit Kredit
+135.000 135.000
+
+Keterangan: transaksi ini adalah pembayaran kas untuk beban iklan. Beban bertambah di sebelah debit sedangkan kas berkurang di sebelah kredit.
+Tanggal 16 Januari membayar sewa kendaraan untuk 3 bulan ke depan sebesar Rp 150.000.
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+Januari
+
+16 Sewa Dibayar Dimuka Kas
+Mencatat sewa dibayar dimuka untuk 3 bulan.
+
+150.000 150.000
+
+Keterangan: transaksi ini hampir sama dengan transaksi tanggal 13, pembayaran asuransi dibayar dimuka. Sewa juga sebenarnya merupakan beban, tetapi karena masa manfaatnya untuk 3 bulan, maka dicatat sebagai sewa dibayar dimuka (prepaid rent) yang merupakan kelompok asset.
+Tanggal 17 menerima pembayaran dari penjualan tanggal 12 Januari.
+
+21
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tanggal
+
+Keterangan
+
+Januari
+
+17 Kas Piutang Dagang
+Mencatat penerimaan piutang dagang
+
+Ref Debit Kredit
+850.000 850.000
+
+Keterangan: transaksi ini merupakan penerimaan piutang dagang. Artinya perkiraan piutang dagang berkurang sedangkan perkiraan kas bertambah. Kas dicatat di sebelah debit sedangkan piutang di sebelah kredit.
+Tanggal 18 Januari membayar hutang dagang untuk transaksi tanggal 8 Januari sebesar Rp 500.000
+
+Tanggal
+
+Keterangan
+
+Januari
+
+17 Hutang Dagang Kas
+Mencatat pembayaran hutang dagang
+
+Ref Debit Kredit
+500.000 500.000
+
+Keterangan: transaksi ini merupakan pembayaran hutang dagang. Artinya hutang dagang berkurang sedangkan kas juga berkurang. Hutang dagang berkurang dicatat di sebelah debit. Sedangkan kas berkurang dicatat di sebelah kredit.
+Tanggal 18 Januari membebankan kepada langganan atas jasa yang diberikan sebesar Rp750.000 secara tunai.
+
+Tanggal
+
+Keterangan
+
+Januari
+
+18 Kas Pendapatan
+Mencatat penjualan tunai
+
+Ref Debit Kredit
+750.000 750.000
+
+22
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Keterangan: transaksi ini merupakan penjualan tunai. Penjualan (pendapatan) dicatat di sebelah kredit karena bertambah. Sedangkan kas dicatat di sebelah kredit karena bertambah juga. Tanggal 20 Januari membayar beban rupa-rupa sebesar Rp 50.000
+
+Tanggal
+
+Keterangan
+
+Januari
+
+20 Beban Rupa-rupa Kas
+Mencatat beban ruparupa
+
+Ref Debit 50.000
+
+Kredit 50.000
+
+Keterangan: Transaksi ini sama dengan transaksi tanggal 14 Januari yaitu pembayaran beban. Beban bertambah di sebelah kredit sedangkan kas berkurang di sebelah kredit.
+Tanggal 21 pembelian perlengkapan kantor seharga 200.000 secara kredit
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+Januari
+
+21 Perlengkapan Kantor Hutang Dagang
+Mencatat pembelian perlengkapan kantor secar kredit
+
+200.000 200.000
+
+Keterangan: transaksi ini sama dengan tanggal Januari Tanggal 27 dibayarkan gaji karyawan sebesar Rp 500.000
+
+Tanggal
+
+Keterangan
+
+Januari
+
+27 Beban Gaji Kas
+Mencatat beban gaji
+
+Ref Debit Kredit
+500.000 500.000
+
+23
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Keterangan: transaksi ini merupakan pembayaran beban gaji. Beban bertambah di sebelah debit. Sedangkan kas berkurang di sebelah kredit.
+
+Jurnal secara lengkap adalah sebagai berikut
+
+JURNAL UMUM
+
+Halaman 1
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+2007 Januari
+
+1 Kas Perlengkapan Kantor Bangunan Modal Tn. Jojo Setoran modal Tn. Jojo
+5 Peralatan Kantor Kas
+Mencatat pembelian peralatan kantor
+
+750.000 1.300.000 2.500.000
+
+4.550.000
+
+130.000 130.000
+
+8 Perlengkapan Kantor Hutang Dagang
+Mencatat pembelian perlengkapan kantor secara kredit
+12 Piutang Dagang Pendapatan
+Mencatat penjualan kredit
+13 Asuransi Dibayar Dimuka Kas Mencatat pembayaran asuransi untuk 6 bulan ke depan
+14 Beban Iklan Kas
+Mencatat beban iklan
+
+500.000 500.000
+
+850.000 850.000
+
+120.000
+
+120.000
+
+135.000 135.000
+
+Saldo Dipindahkan
+
+6.285.000 6.285.000
+
+24
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tanggal
+
+JURNAL UMUM
+
+Keterangan
+
+Ref
+
+Halaman 2
+
+Debit
+
+Kredit
+
+2007 Januari
+
+Pindahan
+
+16 Sewa Dibayar Dimuka Kas
+Mencatat sewa dibayar dimuka
+17 Kas Piutang Dagang
+Mencatat penerimaan piutang dagang
+
+18 Hutang Dagang Kas
+Mencatat pembayaran
+hutang dagang
+
+18
+
+Kas Pendapatan
+
+Mencatat penjualan
+
+tunai
+
+20 Beban Rupa-rupa Kas
+Mencatat beban ruparupa
+
+21 Perlengkapan Kantor Kas
+Mencatat pembelian perlengkapan kantor
+27 Beban Gaji Kas
+Mencatat beban gaji bulan Januari Jumlah
+
+6.285.000 6.285.000 150.000 150.000
+850.000 850.000
+500.000 500.000
+
+750.000 750.000
+
+50.000
+
+50.000
+
+200.000 200.000
+
+500.000 500.000
+9.285.000 9.285.000
+
+25
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Jurnal Koreksi
+Selama melakukan pencatatan transaksi ke dalam jurnal, kesalahan pencatatan sangat mungkin terjadi. Kesalahan ini bisa terletak pada jurnal maupun pada saat pemindahan ke buku besar (posting). Kesalahan pada saat mencatat jurnal tidak begitu sulit memperbaikinya. Asal caranya bukan dengan menghapus karena akan menimbulkan kecurigaan.
+Cara memperbaiki kesalahan pada jurnal cukup mencoret pada angka yang salah. Angka tersebut tetap harus terlihat. Kemudian mencatat angka yang seharusnya. Contohnya sebagai berikut:
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+Januari
+
+27 Beban Gaji Kas
+Mencatat beban gaji
+
+520.000 250.000
+
+520.000 250.000
+
+Kesalahan setelah posting tidak bisa seperti memperbaiki pada jurnal. Untuk memperbaiki kesalahan ini harus dibuat jurnal koreksi. Kemungkinan kesalahan yang terjadi adalah:  Salah memasukkan angka  Salah memasukkan perkiraan  Salah memasukkan angka dan perkiraan
+Salah Memasukkan Angka Kesalahan memasukkan angka adalah salah mencatat angka yang
+seharusnya. Misalnya, angka seharusnya Rp 32.000 dicatat 23.000. dari kesalahan ini terjadi kurang catat sebesar 9.000 yaitu dari 32.000 dikurang 23.000. Angka 9.000 inilah yang dijadikan jurnal koreksi.
+Contoh: tanggal 3 Februari perusahaan membayar beban iklan sebesar Rp 152.000. Ternyata pada saat posting, beban iklan tersebut dicatat Rp 125.000. Penyelesaian:
+Jurnal yang salah
+
+26
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tanggal
+
+Keterangan
+
+Februari 3 Beban Iklan Kas
+
+Ref Debit Kredit
+
+53 125.000
+
+11
+
+125.000
+
+Jurnal seharusnya
+
+Tanggal
+
+Keterangan
+
+Februari 3 Beban Iklan Kas
+
+Ref Debit Kredit
+
+53 152.000
+
+11
+
+152.000
+
+Dari jurnal di atas, kita ketahui ada selisih sebesar 152.000 dikurang 125.000 sama dengan 27.000. selisih tersebut merupakan kurang catat.
+Jurnal Koreksi
+Koreksi misalnya dilakukan tanggal 5 Februari
+
+Tanggal
+
+Keterangan
+
+Februari
+
+5 Beban Iklan Kas
+Koreksi tanggal 3
+
+Ref Debit
+53 9.000 11
+
+Kredit 9.000
+
+Jurnal koreksi tersebut pengaruhnya terhadap Buku Besar tampak pada gambar berikut ini:
+
+Kas 3/2
+
+125.000
+
+5/2 koreksi 27.000
+
+27
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Beban Iklan
+
+3/2
+
+125.000
+
+5/2 koreksi 27.000
+
+Salah Memasukkan Perkiraan Kesalahan ini adalah angkanya benar tetapi pemindahan ke buku besar
+(posting) salah. Misalnya, seharusnya diposting ke perkiraan hutang dagang tetapi dimasukkan ke perkiraan kas. Untuk memperbaiki kesalahan seperti ini, maka jurnal yang salah posting harus dibalik (reverse).
+Contoh: tanggal 6 Februari membeli perlengkapan kantor sebesar Rp 120.000 secara kredit. Ternyata transaksi tersebut dibukukan ke perkiraan kas yang berarti pembelian kredit. Tanggal 10 Februari diketahui kesalahan tersebut dan dibuat jurnal koreksi.
+Jurnal yang salah
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Februari 6 Perlengkapan Kantor 15 120.000
+
+Kas
+
+11
+
+Kredit 120.000
+
+Jurnal Seharusnya
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+Februari 6 Perlengkapan Kantor 15 120.000
+
+Hutang Dagang
+
+21
+
+120.000
+
+28
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Jurnal Koreksi
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+Februari
+
+10 Kas Hutang Dagang Koreksi tanggal 6
+
+11 120.000
+
+21
+
+120.000
+
+Pengaruh jurnal koreksi terhadap buku besar tampak pada gambar berikut ini:
+
+Kas
+
+6/2
+
+120.000
+
+10/2 koreksi 120.000
+
+Perlengkapan Kantor
+
+6/2
+
+120.000
+
+Hutang Dagang 6/2
+
+120.000
+
+Salah Memasukkan Angka dan Perkiraan Kesalahan ini adalah salah mencatat angka ditambah pada saat posting
+salah perkiraan. Kesalahan ini paling rumit dibandingkan yang lain. Contoh tanggal 12 Februari membeli peralatan kantor sebesar Rp
+520.000 secara tunai. Transaksi tersebut dijurnal dan dibukukan sebagai
+29
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+pembelian perlengkapan kantor secara kredit dengan nilai 250.000. Kesalahan ditemukan tanggal 18 Februari. Jurnal yang salah
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+Februari 12 Perlengkapan Kantor 15 250.000
+
+Hutang Dagang
+
+21
+
+250.000
+
+Jurnal Seharusnya
+
+Tanggal
+
+Keterangan
+
+Februari 12 Peralatan Kantor Kas
+
+Ref Debit
+18 520.000 11
+
+Kredit 520.000
+
+Jurnal Koreksi
+
+Tanggal
+
+Keterangan
+
+Ref Debit Kredit
+
+Februari
+
+18 Peralatan Kantor
+
+18 520.000
+
+Hutang Dagang
+
+21 250.000
+
+Kas
+
+11
+
+520.000
+
+Perlengkapan Kantor 15
+
+250.000
+
+Koreksi tanggal 12
+
+Pengaruh jurnal koreksi tersebut pada buku besar adalah:
+
+Kas
+
+30
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+18/2 koreksi
+
+520.000
+
+Perlengkapan Kantor
+
+12/2
+
+250.000
+
+18/2 koreksi
+
+250.000
+
+Peralatan Kantor 18/2 Koreksi 520.000
+
+Hutang Dagang 12/2
+18/2 koreksi 250.000
+
+250.000
+
+KKeeggiiaattaann
+Anda punya uang saku bukan, ada yang diberikan bulanan atau juga mingguan. Coba catat penerimaan dan pengeluaran uang saku tersebut dalam bentuk
+31
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+jurnal umum dua kolom. Coba analisa hasil pencatatan uang saku anda tersebut.
+Pilihan berganda
+1. Jurnal disebut juga dengan istilah a. Book of Oregon b. Book of Style c. Book of Origin Entry d. Book of Entry e. Tidak ada yang benar
+2. Alasan transaksi dicatat lewat jurnal adalah a. Lebih praktis b. Meminimalkan kesalahan c. Memaksimalkan pencatatan d. Meminimalkan pecatatan e. Agar seimbang antara debit dengan kredit
+3. Fungsi kolom Ref (reference) pada jurnal adalah a. Mencatat nomer urut jurnal b. Mencatat identitas jurnal c. Mencatat nomer perkiraan sebagai tanda telah diposting d. Mencatat nomer bukti transaksi e. Pelengkap jurnal
+4. jika terjadi pembayaran beban gaji, maka jurnalnya adalah a. kas debet, beban gaji kredit b. beban gaji debit, piutang dagang kredit c. beban gaji debit, kas debit d. beban gaji debit, piutang kredit e. beban gaji debit, kas kredit
+5. Kolom Keterangan pada jurnal berfungsi a. Mencatat tanggal b. Mencatat sumber jurnal c. Mencatat nama pegawai yang membuat jurnal d. Mencatat perkiraan e. Tidak ada yang benar
+6. Tujuan dibuat jurnal empat kolom adalah a. Agar kolomnya banyak b. Memudahkan mencatat beban gaji c. Tidak perlu mencatat perkiraan kas d. Tidak perlu mencatat perkiraan beban e. Memudahkan pembayaran gaji
+7. Biaya dibayar dimuka adalah kelompok
+32
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+a. Asset b. Kewajiban c. Modal d. Pendapatan e. Beban
+Isian
+1. Jelaskan perbedaan jurnal umum dua kolom dengan empat kolom 2. bila terjadi penjualan kredit, perkiraan apa saja yang terlibat ? jelaskan 3. apa saja penyebab kesalahan sehingga harus dibuat jurnal koreksi? 4. sebutkan alasan mencatat transaksi tidak langsung ke perkiraan atau buku
+besar? 5. sebutkan cara mencatat transaksi lewat jurnal !
+Essay
+Latihan 1
+Tn. Amir berniat membuat perusahaan angkutan. Berikut ini ringkasan transaksinya. Maret 1 menyetor modal sebesar 25.000.000 sebagai langkah awal. Setoran
+modal tersebut disimpan dalam bentuk kas. Maret 2 menerima pinjaman dari bank sebesar 20.000.000 yang akan
+dilunasi 2 tahun Maret 3 memberi kendaraan 3 buah masing-masing dengan harga
+3.500.000 secara kredit. Maret 5 membeli bangunan untuk kantor seharga 5.000.000, tunai. Maret 7 membayar beban iklan di media sebesar 2.500.000, tunai. Maret 8 membayar asuransi dibayar dimuka sebesar 1.200.000 untuk satu
+tahun, tunai. Maret 9 menerima pendapatan dari armada angkutan sebesar 650.000. Maret 10 membayar honor supir sebesar 125.000 Maret 12 membayar beban pembuatan poster dan spanduk sebesar 165.000. Maret 13 Membayar beban perbaikan kendaraan sebesar 75.000 Maret 17 menerima pendapatan dari jasa angkutan sebesar 250.000 Maret 22 membayar beban listrik sebesar 75.000 Maret 27 membeli 1 unit kendaraan seharga 15.000.000 Maret 30 membayar cicilan hutang ke bank sebesar 500.000 ditambah bunga
+sebesar 150.000
+Diminta: catat transaksi tersebut ke jurnal umum.
+33
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Latihan 2
+
+PT ABC adalah distributor komputer yang didirikan tanggal 1 April 2007. berikut ringkasan transaksinya.
+
+April 1 April 2
+April 3 April 5 April 7 April 8 April 10 April 12
+April 20 April 27
+
+menerima setoran dari pemegang saham sebesar 60.000.000 membeli sepuluh unit komputer masing-masing dengan harga 1.500.000 secara tunai membayar sewa kantor untuk satu tahun seharga 1.200.000. membayar beban iklan 750.000 membeli 5 unit komputer seharga 1.500.000 secara kredit menjual 3 unit komputer dengan harga 2.500.000/unit membeli meja dan kursi seharga 4.500.000 membayar biaya pengiriman komputer ke pelanggan sebesar 150.000 menjual 5 unit komputer dengan harga 2.500.000/unit tunai. membayar gaji karyawan Rp 3.500.000
+
+Diminta; catat transaksi di atas ke dalam jurnal dua kolom dan 4 kolom
+
+Perkiraan yang digunakan Kas Piutang Dagang Peralatan Kantor Hutang Dagang Modal Saham Penjualan Pembelian Beban Gaji Beban Iklan Beban Pengiriman
+
+34
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+BBAABB 44 BUKU BESAR
+Kurikulum : siswa mampu memindahkan transaksi dari jurnal ke buku besar (posting).
+Abstrak
+Buku besar merupakan sekumpulan perkiraan (account) suatu perusahaan. Bentuk paling sederhana suatu perkiraan adalah bentuk perkiraan T. sisi kiri bentuk tersebut disebut debit sedangkan sisi kanannya kredit. Pencatatan ke dalam perkiraan menggunakan sistem yang disebut double entry accounting. Dengan cara ini, kolom debit dan kredit akan tetap seimbang. Aktiva dan beban apabila bertambah akan dicatat di sebelah debit. Sebaliknya berkurang dicatat di sebelah kredit. Kewajiban, ekuitas dan pendapatan bertambah dicatat di sebelah kredit. Sebaliknya berkurang dicatat di sebelah debit.
+Kata kunci: Buku besar (ledger), perkiraan riil, perkiraan nominal, saldo normal.
+Perkiraan merupakan media untuk mengelompokkan transaksi sehingga transaksi yang memiliki sifat sama akan dilaporkan sebagai satu kesatuan. Kumpulan perkiraan disebut buku besar atau ledger.
+Pencatatan ke dalam perkiraan menggunakan sistem yang disebut double entry accounting. Artinya pencatatan transaksi minimal melibatkan dua perkiraan dan jumlah debit dengan kredit seimbang (balance).
+Perkiraan dapat dikelompokkan menjadi dua yaitu perkiraan neraca (perkiraan riil/real account) dan perkiraan laba rugi (perkiraan nominal/nominal account). Perkiraan riil terdiri dari perkiraan harta. Kewajiban dan modal. Sedangkan perkiraan nominal terdiri dari perkiraan pendapatan dan beban.
+Pencatatan ke dalam perkiraan ini berupa penambahan atau pengurangan. Suatu perkiraan memiliki kolom debit dan kredit untuk menampung penambahan dan pengurangan. Seperti sudah digambarkan pada pembahasan jurnal, bentuk paling sederhana perkiraan adalah T account. Sisi kiri untuk debit sedangkan sisi kanan kredit.
+
+Debit
+
+Kredit
+
+35
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Perkiraan dengan bentuk T account.
+Penambahan atau pengurangan pada perkiraan berbeda untuk tiap kelompok perkiraan. Berikut ini tabel yang menguraikan posisi debit atau kredit untuk penambahan atau pengurangan suatu perkiraan.
+
+Perkiraan Harta Kewajiban Modal Pendapatan Beban
+
+Penambahan Debit Kredit Kredit Kredit Debit
+
+Pengurangan Kredit Debit Debit Debit kredit
+
+Dari tabel di atas bisa disimpulkan, suatu perkiraan bertambah di sebelah debit adalah perkiraan harta dan beban. Sedangkan yang bertambah di sebelah kredit adalah kewajiban, modal dan pendapatan. Sebaliknya perkiraan yang berkurang di sebelah kredit adalan harta dan beban. Sedangkan yang berkurang di sebelah debit adalah kewajiban, modal dan pendapatan.
+Perkiraan juga memiliki saldo normal. Saldo normal adalah posisi perkiraan dalam kondisi normal. Artinya bila suatu persediaan saldonya berbeda dengan saldo normalnya, kemungkinan terjadi kesalahan pada perkiraan tersebut. Misalnya perkiraan hutang saldo normalnya kredit, tetapi pada suatu waktu bersaldo debit. Hal ini mengidentifikasi kemungkinan kesalahan pencatatan atau ketidakwajaran. Berikut tabel yang menggambarkan saldo normal tiap perkiraan.
+
+Perkiraan Harta
+
+Saldo Normal Debit
+
+Kewajiban
+
+Kredit
+
+Modal
+
+Kredit
+
+Pendapatan
+
+Kredit
+
+Beban
+
+Debit
+
+Tabel saldo normal perkiraan
+
+36
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Bentuk Perkiraan Pada praktek bentuk perkiraan T sangat jarang digunakan. Namun,
+bentuk yang digunakan umumnya pengembangan dari bentuk T. pengembangan ini untuk menampung informasi agar memadai. Bentuk-bentuk tersebut terdiri dari perkiraan dua kolom, tiga kolom dan empat kolom. Berikut contohnya.
+Tgl Keterangan Ref Debit Tgl Keterangan Ref kredit
+
+Perkiraan dua kolom Kas
+
+Tgl Keterangan Ref
+
+Debit
+
+kredit
+
+No.:11 saldo
+
+Perkiraan tiga kolom
+
+Tgl Keterangan Ref Debit
+
+Nomer Perkiraan : 11 Nama Perkiraan : Kas
+
+Kredit
+
+Saldo
+
+Debit kredit
+
+Perkiraan empat kolom Nama perkiraan dan nomer perkiraan bisa seperti perkiraan tiga kolom maupun perkiraan empat kolom. Ke dua cara ini bisa dipakai, tinggal dipiliha mana yang lebih informatif.
+37
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Perbedaan antara perkiraan tiga dan empat kolom terletak pada kolom saldo. Pada perkiraan tiga kolom, saldo tidak dibagi lagi menjadi debit dan kredit. Saldo negatif biasanya diberi tanda kurung atau ditulis dengan warna merah. Keuntungannya lebih praktis dan simpel. Kekurangannya harus tahu posisi saldo normal. Pada perkiraan empat kolom, pada kolom saldo terbagi menjadi debit dan kredit. Dengan cara ini posisi saldo lebih terlihat.
+
+Posting Posting adalah proses pemindahan dari jurnal ke perkiraan atau buku
+besar. Biasanya posting ini dilakukan setelah semua transaksi dicatat pada jurnal.
+Langkah-langkah posting adalah sebagai berikut 1. catat tanggal transaksi pada jurnal ke dalam kolom tanggal perkiraan. 2. masukkan angka transaksi pada jurnal ke perkiraan. Angka debit
+masukkan pada kolom debit perkiraan yang sesuai. Kemudian masukkan angka kredit pada kolom kredit perkiraan yang sesuai. 3. salin nomer halaman jurnal ke dlam kolom ref perkiraan yang sesuai. 4. terakhir, sebagai tanda transaksi tersebut telah diposting, salin nomer perkiraan ke dalam kolom ref jurnal.
+
+Untuk memberikan gambaran langkah-langkah posting tersebut, berikut ini contohnya.
+
+1 Mei Tn. Jojo menyetor modal sebesar 100.000 untuk memulai usaha.
+
+Jurnal Umum
+
+Tgl
+
+Keterangan
+
+2007 Mei
+
+1 Kas Modal Tn.
+Jojo
+
+Ref
+
+Debit
+
+11
+
+100.000
+
+31
+
+Halaman 1 kredit
+100.000
+
+1
+
+Kas
+
+3
+
+2
+
+Tgl Keterangan Ref
+
+Mei 1
+
+1
+
+Debit 100.000
+
+kredit
+
+4 11
+saldo 100.000
+
+Untuk perkiraan modal Jojo, caranya juga sama. Hanya saja angkanya kredit. Buku besar Tuan Jojo setelah posting tampak sebagai berikut:
+
+38
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Modal Tn. Jojo Lopes
+
+Tgl Keterangan Ref
+
+Mei 1
+
+1
+
+Debit
+
+kredit 100.000
+
+31 saldo 100.000
+
+Tanggal 2007 Januari 1
+5
+
+JURNAL UMUM
+
+Keterangan
+
+Ref
+
+Halaman 1
+
+Debit
+
+Kredit
+
+Kas
+
+11 750.000
+
+Perlengkapan Kantor 13 1.300.000
+
+Bangunan
+
+17 2.500.000
+
+Modal Tn. Jojo Setoran modal Tn. Jojo
+
+31
+
+4.550.000
+
+Peralatan Kantor Kas
+Mencatat pembelian peralatan kantor
+
+16 130.000
+
+11
+
+130.000
+
+8 Perlengkapan Kantor 13 500.000
+
+Hutang Dagang
+
+21
+
+500.000
+
+Mencatat pembelian
+
+perlengkapan kantor
+
+secara kredit
+
+12 Piutang Dagang Pendapatan
+Mencatat penjualan kredit
+
+12 850.000
+
+41
+
+850.000
+
+13 Asuransi Dibayar
+
+14
+
+Dimuka
+
+Kas
+
+11
+
+Mencatat pembayaran
+
+asuransi untuk 6 bulan
+
+ke depan
+
+14 Beban Iklan Kas
+
+52
+
+Mencatat beban iklan 11
+
+120.000
+
+120.000
+
+135.000 135.000
+
+Saldo Dipindahkan
+
+6.285.000 6.285.000
+
+39
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tanggal
+
+JURNAL UMUM
+
+Keterangan
+
+Ref
+
+Halaman 2
+
+Debit
+
+Kredit
+
+2007 Januari
+
+Pindahan
+
+6.285.000 6.285.000
+
+16 Sewa Dibayar Dimuka 16
+
+Kas Mencatat sewa dibayar
+
+11
+
+dimuka
+
+17 Kas
+
+11
+
+Piutang Dagang
+
+12
+
+Mencatat penerimaan
+
+piutang dagang
+
+150.000 150.000
+850.000 850.000
+
+18 Hutang Dagang
+
+21 500.000
+
+Kas
+
+11
+
+Mencatat pembayaran
+
+500.000
+
+hutang dagang
+
+18
+
+Kas Pendapatan
+
+Mencatat penjualan
+
+tunai
+
+11 750.000
+
+41
+
+750.000
+
+20 Beban Rupa-rupa
+
+53
+
+Kas
+
+11
+
+Mencatat beban rupa-
+
+rupa
+
+50.000 50.000
+
+21 Perlengkapan Kantor Kas
+Mencatat pembelian perlengkapan kantor
+27 Beban Gaji Kas
+Mencatat beban gaji bulan Januari Jumlah
+
+13 200.000
+
+11
+
+200.000
+
+51 500.000
+
+11
+
+500.000
+
+9.285.000 9.285.000
+
+Hasil posting dari jurnal di atas ke buku besarnya adalah sebagai berikut:
+
+40
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 11 Nama Perkiraan: Kas
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 1
+
+1
+
+5
+
+1
+
+13
+
+1
+
+14
+
+1
+
+16
+
+2
+
+17
+
+2
+
+18
+
+2
+
+18
+
+2
+
+20
+
+2
+
+27
+
+2
+
+Debit 750.000
+850.000 750.000
+
+kredit
+
+saldo
+
+130.000 120.000 135.000 150.000
+500.000
+50.000 500.000
+
+750.000 620.000 500.000 365.000 215.000 1.065.000 565.000 1.315.000 1.265.000 765.000
+
+No. Perkiraan : 12 Nama Perkiraan : Piutang Dagang
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+jan 12
+
+1
+
+17
+
+2
+
+Debit 850.000
+
+kredit 850.000
+
+saldo
+850.000 -
+
+No. Perkiraan : 13 Nama Perkiraan : Perlengkapan Kantor
+
+Tgl
+
+Keterangan Ref
+
+Debit
+
+2007 Jan 1
+8 21
+
+1 1.300.000
+
+2
+
+500.000
+
+2
+
+200.000
+
+kredit
+
+saldo
+
+1.300.000 1.800.000 2.000.000
+
+41
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 14 Nama Perkiraan : Asuransi Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 13
+
+1
+
+Debit 120.000
+
+kredit
+
+saldo
+
+120.000
+
+No. Perkiraan : 15 Nama Perkiraan : Sewa Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 16
+
+2
+
+Debit 150.000
+
+kredit
+
+saldo
+
+150.000
+
+No. Perkiraan : 16 Nama Perkiraan : Peralatan kantor
+
+Tgl Keterangan Ref
+
+2007
+
+Jan 5
+
+1
+
+Debit 130.000
+
+kredit
+
+saldo
+
+130.000
+
+No. Perkiraan : 17 Nama Perkiraan : Bangunan
+
+Tgl Keterangan Ref
+
+2007
+
+Jan 1
+
+1
+
+Debit 2.500.000
+
+kredit
+
+saldo
+
+2.500.000
+
+42
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 21 Nama Perkiraan : Hutang Dagang
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 8
+
+1
+
+18
+
+2
+
+21
+
+2
+
+Debit 500.000
+
+kredit
+
+saldo
+
+500.000 200.000
+
+500.000 -
+200.000
+
+No. Perkiraan : 41 Nama Perkiraan : Pendapatan
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 12
+
+1
+
+18
+
+2
+
+Debit
+
+kredit
+
+saldo
+
+850.000 850.000 750.000 1.600.000
+
+No. Perkiraan : 51 Nama Perkiraan : Beban Gaji
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 27
+
+2
+
+Debit 500.000
+
+kredit
+
+saldo
+
+500.000
+
+No. Perkiraan : 52 Nama Perkiraan : Beban Iklan
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 14
+
+1
+
+Debit 135.000
+
+kredit
+
+saldo
+
+135.000
+
+43
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 53 Nama Perkiraan : Beban Rupa-rupa
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 20
+
+2
+
+Debit 50.000
+
+kredit
+
+saldo 50.000
+
+Kegiatan
+Apakah Anda punya bisnis ? jika ya coba catat transaksi bisnis Anda ke dalam jurnal umum kemudian bukukan ke buku besarnya. Bila tidak Anda tentu punya uang saku bukan, coba bukukan pada buku besar penerimaan dan pengeluaran uang saku Anda.
+
+Pilihan berganda
+1. perkiraan dapat dikelompokkan menjadi dua yaitu: a. perkiraan neraca dan perkiraan riil b. perkiraan neraca dan real account c. perkiraan laba rugi dan perkiraan nominal d. perkiraan riil dan perkiraan nominal e. perkiraan laba rugi dan perkiraan laba ditahan
+2. istilah lain buku besar adalah a. buku tamu b. subsidiary ledger c. ledger d. general journal e. T account
+3. Perkiraan dapat dibuat dengan menggunakan kolom, kecuali a. Satu kolom b. Dua kolom c. Tiga kolom d. Empat kolom e. Tidak ada jawaban yang benar
+4. proses pemindahan transaksi dari jurnal ke buku besar disebut a. jurnal umum b. jurnal koreksi c. posting d. positioning e. postpone
+44
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+5. kolom ref pada jurnal umum diisi dengan a. nomer halaman b. nomer identitas karyawan c. nomer perusahaan d. nomer perdana e. nomer perkiraan
+6. pembayaran gaji sebesar Rp 5.000.000 dari kas akan berpengaruh pada a. harta dan modal b. harta dan kewajiban c. harta dan pendapatan d. harta dan beban e. harta dan benda
+7. perkiraan yang bersaldo normal debit adalah a. harta, kewajiban dan modal b. harta dan modal c. kewajiban, modal dan pendapatan d. modal dan beban e. harta dan beban
+isian 1. sebutkan langka-langkah posting 2. jelaskan perbedaan perkiraan dua kolom, tiga kolom dan empat kolom 3. apa yang dimaskud dengan saldo normal 4. buat jurnal untuk transaksi pembelian perlengakapan kantor seharga Rp 50.000 secara tunai. 5. dari transaksi no. 4. posting jurnal tersebut ke buku besarnya.
+Latihan 1 Agustus 1 Tn Ide menyetor modal dalam bentuk kas sebesar Rp 12.500.000, untuk memulai usaha agen tiket pesawat. Agustus 2 Membayar sewa kantor untuk 3 bulan sebesar 1.500.000 Agustus 3 membeli peralatan kantor sebesar 5.000.000 secara tunai Agustus 4 membeli perlengakapan kantor sebesar 3.500.000 kepada CV mandiri secara kredit. Agustus 5 mencatat pendapatan komisi sebesar 1.250.000 secara kas. Agustus 10 membeli perlengakapan kantor sebesar 500.000 secara tunai. Agustus 15 menjual tiket pesawat sebesar 20.000.000. dari penjualan ini perusahaan akan mendapat komisi sebesar 20%. Komisi akan dibayar tanggal 27 Agustus. Agustus 20 membayar biaya iklan sebesar 1.000.000 secara kas. Agustus 25 menjual tiket sebesar 8.000.000. dari penjualan ini telah diterima komisi sebesar 30% per kas. Agustus 26 menjual tiket pesawat sebesar 10.000.000. dari penjualan ini perusahaan akan mendapat komisi sebesar 20%. Komisi akan dibayar tanggal 2 September. Agustus 26 membayar sebagian hutang ke CV mandiri sebesar 1.000.000 Agustus 27 menerima komisi dari penjualan tiket tanggal 15.
+45
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Agustus 30 membayar gaji karyawan sebesar 2.500.000 Agustus 31 Tn Ide melakukan pengambilan (prive) sebesar Rp 750.000
+
+Diminta: 1. Susun kode rekening untuk mencatat transaksi di atas 2. catat transaksi tersebut ke dalam jurnal umum 3. lakukan posting atas jurnal yang telah dibuat.
+
+Latihan 2 Dari perkiraan-perkiraan berikut ini, tentukan di sebelah debit atau kredit perkiraan tersebut bertambah dan berkurang. Tentukan juga saldo normalnya.
+
+No Perkiraan
+
+Bertambah
+
+1 Kas 2 Piutang Dagang 3 Hutang Dagang 4 Prive 5 Saldo laba 6 Sewa dibayar dimuka 7 Penjualan 8 Beban listrik 9 Modal saham 10 Gaji 11 Persediaan 12 Harga pokok
+penjualan 13 Beban sewa 14 Akumulasi
+penyusutan 15 Beban penyusutan
+
+Berkurang
+
+Saldo normal
+
+PT Sejahtera adalah perusahaan yang bergerak di bidang penjualan alat-alat elektronik. Berikut ini saldo per 31 Juli 2007
+
+Kode perkiraan 111 112 113 113 114 121 122 123 124 211 212
+
+Perkiraan Kas Piutang Dagang Persediaan barang Dagangan Perlengkapan Kantor Asuransi Dibayar Dimuka Bangunan Akumulasi Penyusutan Bangunan Peralatan Kantor Akumulasi penyusutan peralatan Hutang Dagang Hutang gaji
+
+Saldo 1.500.000 7.500.000 4.000.000 2.500.000 1.200.000 5.000.000 1.000.000 3.500.000 1.200.000 3.000.000 1.500.000
+
+46
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+213
+
+Hutang Pajak
+
+310
+
+Modal Saham
+
+311
+
+Saldo laba
+
+401
+
+Penjualan
+
+501
+
+Pembelian
+
+601
+
+Beban gaji
+
+602
+
+Beban Iklan
+
+603
+
+Beban penyusutan
+
+604
+
+Beban asuransi
+
+605
+
+Beban rupa-rupa
+
+500.000 10.000.000 13.000.000
+
+Berikut ini transaksi yang terjadi bulan Agustus Agustus 1 membeli barang dagangan sebesar 5.000.000 kepada PT Swadaya secara kredit Agustus 4 membayar hutang pajak Agustus 5 menerima sebagian piutang sebesar 2.500.000 Agustus 6 membayar sebagian utang sebesar 1.000.000 Agustus 7 menjual barang dagangan sebesar 2.500.000 Agustus 8 membayar beban iklan sebesar 500.000 Agustus 20 membayar biaya listrik dan air sebesar 320.000 Agustus 25 membayar gaji sebesar 1.500.000
+
+Diminta: 1. catat transaksi di atas ke alam jurnal umum 2. bukukan ke buku besarnya masing-masing.
+
+47
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+BAB 5 NERACA LAJUR
+Kurikulum: siswa mampu menyelesaikan kertas kerja / neraca lajur
+Abstrak Setelah transaksi dibukukan pada jurnal dan diposkan pada buku besar, maka langkah selanjutnya menyiapkan neraca lajur. Neraca lajur ini merupakan kertas kerja untuk penyusunan laporan keuangan. Dengan demikian bukan merupakan bagian dari laporan keuangan. Dengan adanya kertas kerja ini, penyusunan laporan keuangan menjadi lebih mudah. Neraca lajur disusun dengan pertama-tama dengan memasukkan neraca saldo, kemudian membuat jurnal penyesuaian. Setelah itu dijumlahkan antara neraca saldo dan penyesuaian dan diisikan pada kolom "Setelah Penyesuaian". Setelah itu angkanya dimasukkan pada kolom "Laba rugi atau "Neraca".
+Kata Kunci: neraca lajur, neraca saldo, ayat jurnal penyesuaian, penyusunan laporan keuangan
+Neraca lajur (work sheet) adalah kertas kerja untuk menyiapkan laporan keuangan. Biasanya pencatatan transaksi belum lengkap dalam suatu periode, misalnya ada beban yang belum dicatat. Misalnya beban listrik. Listrik biasanya dibayar di bulan berikutnya sedangkan manfaatnya untuk bulan berjalan. Beban seperti ini biasanya dicatat dalam jurnal penyesuaian. Kadang-kadang buku besar juga jumlahnya tidak seimbang. Hal-hal seperti inilah yang menjadi alasan dibutuhkannya neraca lajur.
+Neraca lajur bukan merupakan bagian laporan keuangan. Neraca lajur hanya kertas kerja bagi penyusun laporan keuangan. Namun dengan kertas kerja ini memudahkan penyusunan laporan keuangan. Karena berupa kertas kerja, penyusunannya bisa menggunakan pensil. Dengan kata lain neraca lajur adalah media penyusunan laporan keuangan.
+Neraca Saldo
+Neraca saldo (trial balance) merupakan jumlah keseluruhan dari saldo buku besar. Jumlah debit dan kredit suatu neraca saldo harus seimbang (balance). Bila tidak seimbang, berarti terdapat kesalahan pencatatan pada jurnal atau pada saat posting. Walaupun begitu, neraca saldo yang seimbang bukan berarti bebas kesalahan. Salah mencatat perkiraan adalah contohnya. Misalnya transaksi pembelian peralatan kantor dicatat ke perkiraan perlengkapan kantor. Pencatatan salah ini akan membuat neraca saldo tetap seimbang.
+48
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Untuk mencari kesalahan yang ditemukan dalam neraca saldo, biasanya digunakan teknik telusur mundur (trace back). Caranya melihat saldo dalam neraca saldo kemudian mundur ke perkiraan (buku besar) kemudian mundur lagi ke jurnal.
+Neraca saldo merupakan bagian dari neraca lajur. Namun biasanya sebelum membuat kertas kerja dibuat terlebih dahulu neraca saldo. Tujuannya untuk menguji seimbang atau tidaknya jumlah debit dan kredit buku besar.
+Bentuk neraca saldo biasanya terdiri dari kolom: nomer perkiraan, nama perkiraan, debit dan kredit. Berikut ini contoh penyusunan neraca saldo dengan mengambil data dari buku besar bab sebelumnya.
+
+No. Perkiraan : 11 Nama Perkiraan: Kas
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 1
+
+1
+
+5
+
+1
+
+13
+
+1
+
+14
+
+1
+
+16
+
+2
+
+17
+
+2
+
+18
+
+2
+
+18
+
+2
+
+20
+
+2
+
+27
+
+2
+
+Debit 750.000
+850.000 750.000
+
+kredit
+
+saldo
+
+130.000 120.000 135.000 150.000
+500.000
+50.000 500.000
+
+750.000 620.000 500.000 365.000 215.000 1.065.000 565.000 1.315.000 1.265.000 765.000
+
+No. Perkiraan : 12 Nama Perkiraan : Piutang Dagang
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+jan 12
+
+1
+
+17
+
+2
+
+Debit 850.000
+
+kredit 850.000
+
+Saldo
+850.000 -
+
+No. Perkiraan : 13 Nama Perkiraan : Perlengkapan Kantor
+49
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 8
+
+1
+
+8
+
+21
+
+Debit
+1.300.000 500.000 200.000
+
+kredit
+
+Saldo
+
+1.300.000 1.800.000 2.000.000
+
+No. Perkiraan : 14 Nama Perkiraan : Asuransi Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 13
+
+1
+
+Debit 120.000
+
+kredit
+
+saldo
+
+120.000
+
+No. Perkiraan : 15 Nama Perkiraan : Sewa Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 16
+
+2
+
+Debit 150.000
+
+kredit
+
+saldo
+
+150.000
+
+No. Perkiraan : 16 Nama Perkiraan : Peralatan kantor
+
+Tgl Keterangan Ref
+
+2007
+
+Jan 5
+
+1
+
+Debit 130.000
+
+kredit
+
+saldo
+
+130.000
+
+50
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 17 Nama Perkiraan : Bangunan
+
+Tgl Keterangan Ref
+
+2007
+
+Jan 1
+
+1
+
+Debit 2.500.000
+
+kredit
+
+saldo
+
+2.500.000
+
+No. Perkiraan : 21 Nama Perkiraan : Hutang Dagang
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 8
+
+1
+
+18
+
+2
+
+21
+
+2
+
+Debit 500.000
+
+kredit
+
+saldo
+
+500.000 200.000
+
+500.000 -
+200.000
+
+No. Perkiraan : 41 Nama Perkiraan : Pendapatan
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 12
+
+1
+
+18
+
+2
+
+Debit
+
+kredit
+
+saldo
+
+850.000 850.000 750.000 1.600.000
+
+No. Perkiraan : 51 Nama Perkiraan : Beban Gaji
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 27
+
+2
+
+Debit 500.000
+
+kredit
+
+saldo
+
+500.000
+
+51
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 52 Nama Perkiraan : Beban Iklan
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 14
+
+1
+
+Debit 135.000
+
+kredit
+
+saldo
+
+135.000
+
+No. Perkiraan : 53 Nama Perkiraan : Beban Rupa-rupa
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 20
+
+2
+
+Debit 50.000
+
+kredit
+
+saldo 50.000
+
+Penerbit Jojo Lopez Neraca Saldo Per 31 Januari 2007
+
+No. Perk
+
+Perkiraan
+
+Debit
+
+Kredit
+
+11
+
+Kas
+
+765.000 -
+
+12
+
+Piutang Usaha
+
+-
+
+-
+
+13
+
+Perlengkapan Kantor
+
+2.000.000 -
+
+14
+
+Asuransi Dibayar Dimuka 120.000 -
+
+15
+
+Sewa Dibayar Dimuka
+
+150.000 -
+
+16
+
+Peralatan Kantor
+
+130.000 -
+
+17
+
+Bangunan
+
+2.500.000 -
+
+21
+
+Hutang Dagang
+
+-
+
+200.000
+
+31
+
+Modal Tn. Jojo Lopez
+
+-
+
+4.550.000
+
+41
+
+Pendapatan
+
+-
+
+1.600.000
+
+51
+
+Beban Gaji
+
+500.000 -
+
+52
+
+Beban Iklan
+
+135.000 -
+
+53
+
+Beban Rupa-rupa
+
+50.000 -
+
+Jumlah
+
+6.350.000 6.350.000
+
+52
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Jurnal Penyesuaian
+
+Ayat jurnal penyesuaian (adjusting journal entries) adalah jurnal untuk menyesuaikan saldo perkiraan agar tepat saldonya pada suatu periode akuntansi. Misalnya perkiraan sewa dibayar dimuka. Perkiraan ini mempunyai masa manfaat beberapa periode ke depan. Misalnya dibayarkan sebesar Rp 120.000 untuk satu tahun. Dari angka tersebut dapat diketahui beban per bulan adalah sebesar Rp 10.000 (120.000/12). Angka 10.000 inilah yang dijadikan jurnal penyesuaian untuk bulan berjalan.
+Perkiraan-perkiraan yang umum dilakukan penyesuaian (adjustment) adalah sebagai berikut:
+
+a. Perlengkapan Kantor (Office Supplies). Perkiraan ini perlu dilakukan penyesuaian untuk menentukan berapa beban yang digunakan. Beban ditentukan oleh banyaknya perlengkapan kantor yang terpakai. Misalnya pada neraca saldo diketahui saldo perlengkapan sejumlah Rp 2.000.000. Pada akhir bulan diketahui saldo perlengkapan kantor senilai 1.325.000. Dari data tersebut dapat dihitung berapa beban yang terpakai, yaitu:
+
+Saldo Perlengkapan Kantor 2.000.000
+
+Saldo akhir
+
+1.325.000
+
+Beban Perlengkapan Kantor 675.000
+
+Ayat jurnal untuk mencatat penyesuaian beban perlengkapan kantor (office supplies expense) di atas adalah
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+2007
+
+Jan 31 Beban Perlengkapan 54
+
+kantor
+
+Perlengkapan
+
+13
+
+Kantor
+
+Mencatat penyesuaian
+
+perlengkapan kantor
+
+675.000
+
+675.000
+
+b. Biaya Dibayar Dimuka. Biaya biaya dibayar dimuka (prepaid Expense) perlu dilakukan penyesuaian untuk menentukan beban periode berjalan. Prepaid expense contohnya Asuransi Dibayar Dimuka dan Sewa Dibayar Dimuka.
+
+53
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Contoh 1. Asuransi Dibayar Dimuka. Dari neraca saldo diketahui saldo asuransi dibayar dimuka senilai Rp 120.000. Nilai tersebut untuk 6 bulan. Jadi beban asuransi per bulan adalah Rp 20.000 (120.000/6 bulan).
+
+Ayat jurnal untuk mencatat penyesuaian beban asuransi
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+2007 Jan 31 Beban Asuransi
+Asuransi Dibayar Dimuka Mencatat penyesuaian beban asuransi
+
+55 20.000 14
+
+20.000
+
+Contoh 2. Sewa Dibayar Dimuka. Dari neraca saldo kita ketahui nilai Sewa Dibayar Dimuka adalah Rp 150.000. Nilai tersebut untuk 3 bulan ke depan. Beban sewa bulan Januari adalah Rp 50.000 (150.000/3 bulan).
+Ayat jurnal untuk mencatat penyesuaian sewa dibayar dimuka adalah:
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+2007
+
+Jan 31 Beban Sewa
+
+56
+
+Sewa Dibayar Dimuka 15
+Mencatat penyesuaian
+
+beban sewa bulan januari
+
+50.000
+
+50.000
+
+c. Beban Penyusutan. Penyusutan adalah penurunan nilai manfaat ekonomis suatu aktiva. Aktiva biasanya memiliki masa manfaat ekonomis, misalnya dua tahun. Untuk menghitung penyusutan bisa dengan cara nilai perolehan dibagi umur (masa) manfaat ekonomis. Contoh kendaraan dibeli dengan harga 3.600.000. kendaraan tersebut diperkirakan memiliki masa manfaat tiga tahun. Maka penyusutan dapat dihitung dengan cara
+
+3.600.000 36 bulan
+
+= 100.000 / bulan
+
+sebenarnya banyak metode untuk menentukan penyusutan, diantaranya metode garis lurus (straight line method), metode menurun (decline method). Penyusutan juga kadang-kadang dipengaruhi oleh nilai sisa atau nilai residu.
+
+54
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Namun untuk sementara kita abaikan dulu. Kita akan membahasnya pada kesempatan mendatang. Istilah penyusutan ini sebenarnya bisa diperluas untuk aktiva tetap dan aktiva tak berwujud. Beban penyusutan untuk aktiva tetap disebut beban depresiasi (depreciation expense). Sedangkan beban penyusutan untuk aktiva tak berwujud disebut amortisasi (amortization expense). Berbeda dengan biaya dibayar dimuka, pencatatan beban penyusutan tidak langsung terhadap aktivanya. Biasanya menggunakan perkiraan kontra (contra account) akumulasi penyusutan. Alasannya agar pada neraca tetap terlihat nilai perolehannya. Nilai perolehan dikurangi akumulasi penyusutannya merupakan nilai buku atau nilai bersih aktiva tersebut.
+Contoh 1. penyusutan peralatan kantor. Dari neraca saldo diketahui saldo peralatan kantor senilai Rp 130.000. umur ekonomis peralatan kantor tersebut diperkirakan13 bulan. Jadi beban penyusutan per bulan adalah 10.000 (130.000/13 bulan).
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+2007 Jan 31 Beban Penyusutan
+Akumulasi Peralatan Kantor
+Mencatat penyesuaian peralatan kantor
+
+10.000
+
+10.000
+
+Contoh 2. penyesuaian Bangunan. Dari neraca saldo diketahui saldo bangunan adalah Rp 2.500.000. Umur bangunan ditaksir selama 25 bulan. Jadi beban penyusutan per bulan adalah 100.000 (2.500.000/25).
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+2007 Jan 31 Beban Penyusutan
+Akumulasi Penyusutan Bangunan Mencatat penyesuaian Bangunan
+
+100.000
+
+100.000
+
+55
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+d. Biaya Yang Masih Harus Dibayar.(Accrued Expense). Adakalanya pada saat penyusunan laporan keuangan atau akhir periode, terdapat bebanbeban yang sudah didapat manfaatnya sedangkan pembayarannya belum. Beban seperti ini disebut biaya Accrual (accrued expense) atau jika diindonesiakan biaya yang masih harus dibayar. Biaya ini antara lain beban listrik, air dan telepon. Beban listrik, air dan telepon biasanya dibayar bulan berikutnya. Sedangkan manfaatnya sudah diperoleh bulan bersangkutan. Gaji kadang-kadang juga merupakan biaya accrual karena dibayar awal bulan berikutnya.
+Contoh: beban listrik, air dan telepon untuk bulan Januari masing=masing sebesar Rp 75.000, 80.000 dan 120.000. Pencatatan biaya accrual tersebut adalah:
+
+Tanggal
+
+Keterangan
+
+Ref Debit
+
+Kredit
+
+2007
+Jan 31 Beban listrik, air dan 59
+telepon Biaya Yg Masih Hrs 22
+Dibayar Mencatat penyesuaian beban listrik, air & telp
+
+275.000
+
+275.000
+
+Pengaruh jurnal penyesuaian terhadap buku besarnya. Seperti jurnal yang lain jurnal penyesuaian ini juga diposting ke buku besarnya. Pengaruhnya dapat dilihat pada bagan berikut ini.
+No. Perkiraan : 13 Nama Perkiraan : Perlengkapan Kantor
+
+Tgl
+
+Keterangan Ref
+
+Debit
+
+2007
+
+Jan 1
+
+1
+
+8
+
+1
+
+21
+
+2
+
+31 Penyesuaian
+
+1.300.000 500.000 200.000
+
+kredit
+
+saldo
+
+675.000
+
+1.300.000 1.800.000 2.000.000 1.325.000
+
+No. Perkiraan : 54 Nama Perkiraan : Beban Perlengkapan
+
+56
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit 675.000
+
+kredit
+
+saldo 675.000
+
+No. Perkiraan : 55 Nama Perkiraan : Beban Penyusutan Peralatan Kantor
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit 10.000
+
+kredit
+
+Saldo 10.000
+
+No. Perkiraan : 17 Nama Perkiraan : Akumulasi Penyusutan Peralatan Kantor
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 penyesuaian
+
+Debit
+
+kredit 10.000
+
+Saldo 10.000
+
+No. Perkiraan : 56 Nama Perkiraan : Beban Penyusutan Bangunan
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit 100.000
+
+kredit
+
+saldo 100.000
+
+57
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 18 Nama Perkiraan : Akumulasi Penyusutan Bangunan
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit 100.000
+
+kredit
+
+saldo 100.000
+
+No. Perkiraan : 57 Nama Perkiraan : Beban Asuransi
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit 20.000
+
+kredit
+
+saldo 20.000
+
+No. Perkiraan : 14 Nama Perkiraan : Asuransi Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 13
+
+1
+
+31 Penyesuaian
+
+Debit 120.000
+
+kredit
+
+saldo
+
+120.000 20.000 100.000
+
+No. Perkiraan : 15 Nama Perkiraan : Sewa Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 16
+
+2
+
+31 Penyesuaian
+
+Debit 150.000
+
+kredit
+
+saldo
+
+150.000 50.000 100.000
+
+58
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 58 Nama Perkiraan : Sewa Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit 50.000
+
+kredit
+
+saldo 50.000
+
+No. Perkiraan : 59 Nama Perkiraan : Beban Listrik, air & telp
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit 275.000
+
+kredit
+
+saldo 275.000
+
+No. Perkiraan : 22 Nama Perkiraan : Biaya Yang Msh Hrs Dibayar
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+
+Debit
+
+kredit
+
+saldo
+
+275.000 275.000
+
+Pembuatan Neraca Lajur Ada beberapa bentuk neraca lajur seperti bentuk 6 kolom, 8 kolom dan
+10 kolom. Yang dibahas di sini adalah bentuk 10 kolom karena lebih lazim digunakan. Kolom-kolom tersebut terdiri dari kolom neraca saldo (trial balance), kolom penyesuaian (adjustment), kolom setelah disesuaikan (as adjusted), kolom laba-rugi dan kolom neraca. Masing-masing kolom tersebut terdiri dari kolom debit dan kredit sehingga jumlahnya sepuluh kolom.
+Pembuatan neraca lajur bisa menggunakan program spread sheet seperti Lotus atau Excel. Dengan menggunakan program ini pembuatan neraca lajur menjadi lebih mudah. Kita tidak perlu direpotkan dengan urusan penjumlahan, apalagi kalau perkiraannya banyak. Program spread sheet
+59
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+mempunyai fungsi (rumus) untuk melakukan penjumlahan. Memindahkan saldo ke kolom neraca juga bisa menggunakan fungsi. Baris berikutnya tinggal copy and paste.
+Fungsi If adalah salah satu fungsi yang dapat digunakan untuk memindahkan saldo ke kolom laba-rugi atau neraca. Fungsi if ini adalah fungsi logika. Rumus umumnya adalah if(pernyataan, jika pernyataan benar (true), jika pernyataan salah (false)). Penerapan untuk memindahkan saldo ke laba-rugi misalnya: If (A7>39;I7;0). A7 adalah baris yang menunjukkan no perkiraan. No perkiraan untuk laba-rugi (nominal account) biasanya diawali angka 4 atau 40 jika dua digit. I7 adalah kolom debit pada kolom setelah penyesuaian.
+Selain program spread sheet pencatatan transaksi juga bisa menggunakan program aplikasi akuntansi seperti Myob, peach tree dan Dac Easy Accounting (DEA). Dengan program aplikasi ini penyusunan laporan keuangan lebih mudah lagi. Kita tidak direpotkan oleh urusan posting ke buku besar dan penyusunan neraca lajur. Tinggal catat transaksi melalui jurnal selanjutnya program yang akan memposting ke buku besar. Dari transaksi juga langsung dibuatkan laporan keuangan. Namun, pemahaman akuntansi manual tetap dibutuhkan. Jika tidak kita tidak akan pernah tahu apakah catatan atas transaksi yang kita buat itu benar atau salah.
+Langkah-langkah pembuatan neraca lajur (work sheet) adalah sebagai berikut:
+1. masukkan saldo perkiraan pada kolom neraca percobaan (trial balance). Saldo debit isikan pada kolom debit. Begitu juga saldo kredit masukkan pada kolom kredit.
+2. periksa penjumlahan pada kolom neraca saldo. Jumlah ini harus sama (balance) antara kolom debit dengan kredit. Jangan diteruskan bila jumlahnya tidak sama. Hal ini akan menambah kesalahan pada bagian selanjutnya.
+3. masukkan jurnal penyesuaian pada kolom penyesuaian (adjustment). Biasanya jurnal ini diberi tanda dengan huruf didepannya untuk memudahkan identifikasi jurnal penyesuaian tersebut. Huruf bisa diganti angka bila perlu. Perkiraan yang tidak ada pada neraca saldo dapat ditambahkan di baris berikutnya.
+4. periksa penjumlahan pada kolom penyesuaian. Jumlah ini harus sama (balance) antara kolom debit dengan kredit. Jangan diteruskan bila jumlahnya tidak sama. Hal ini akan menambah kesalahan pada bagian selanjutnya.
+5. pada kolom debit setelah penyesuaian (as adjusted), jumlahkan kolom debit pada neraca saldo dengan kolom debit pada kolom penyesuaian. Begitu juga untuk kolom kredit, jumlahkan saldo kredit pada neraca saldo dengan kolom kredit penyesuaian.
+6. periksa penjumlahan pada kolom "Setelah Penyesuaian". Jumlah ini harus sama (balance) antara kolom debit dengan kredit.
+7. Pada kolom debit kolom "Laba-rugi", masukkan saldo debit pada kolom "Setelah Penyesuaian". Saldo ini merupakan saldo perkiraan beban. Biasanya perkiraan beban bernomer 5 atau 6. hati-hati jangan sampai tertukar dengan perkiraan lain.
+60
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+8. Pada kolom kredit "laba-rugi" masukkan saldo kredit pendapatan yang ada pada kolom "Setelah Penyesuaian". Biasanya perkiraan pendapatan bernomer awal 4.
+9. Jumlahkan kolom "laba-rugi" baik debit maupun kredit. Kemudian catat selisihnya. Bila kredit lebih besar dari debit berarti laba. Sedangkan jika debit lebih besar dari kredit berarti rugi. Bila rugi catat selisih tersebut di kolom debit. Sebaliknya jika laba catat di sebelah kredit. Kemudian jumlahkan. Jumlah debit dan kredit setelah ditambah laba atau rugi harus sama.
+10. lakukan hal yang sama seperti pada kolom laba-rugi untuk kolom neraca. Sebelah debit adalah perkiraan aktiva kecuali akumulasi penyusutan. Sebelah kredit adalah perkiraan kewajiban dan modal.
+Lihat bagan berikut agar lebih jelas.
+61
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perk
+
+Perkiraan
+
+11 Kas 12 Piutang Usaha 13 Perlengkapan Kantor 14 Asuransi Dibayar Dimuka 15 Sewa Dibayar Dimuka 16 Peralatan Kantor 17 Bangunan 21 Hutang Dagang 31 Modal Tn. Jojo Lopez 41 Pendapatan 51 Beban Gaji 52 Beban Iklan 53 Beban Rupa-rupa
+Jumlah 54 Beban Perlengkapan Kantor 55 Beban Asuransi 56 Beban Sewa 57 B. Penyusutan Perl. Kantor 18 Akumulasi Peny. Perl. Kantor 58 B. Penyusutan Bangunan 19 Akumulasi Peny. Bangunan 59 Beban Listrik, air & tlp 22 Biaya YMHD
+
+Penerbit Jojo Lopez Neraca Lajur
+per 31 Januari 2007
+
+Neraca Saldo
+
+Debit 765.000
+
+Kredit -
+
+-
+
+-
+
+2.000.000
+
+-
+
+120.000
+
+-
+
+150.000
+
+-
+
+130.000
+
+-
+
+2.500.000
+
+-
+
+-
+
+200.000
+
+-
+
+4.550.000
+
+-
+
+1.600.000
+
+500.000
+
+0
+
+135.000
+
+0
+
+50.000
+
+0
+
+Debit
+
+Penyesuaian Kredit
+
+a 675.000
+
+b
+
+20.000
+
+c
+
+50.000
+
+6.350.000
+
+6.350.000 a b c d
+
+675.000 20.000 50.000 10.000
+
+e
+
+100.000
+
+f
+
+275.000
+
+1.130.000
+
+d
+
+10.000
+
+e 100.000
+
+f
+
+275.000
+
+1.130.000
+
+Stl Penyesuaian
+
+Debit
+
+Kredi
+
+765.000
+
+-
+
+-
+
+-
+
+2.000.000
+
+675.000
+
+120.000
+
+20.000
+
+150.000
+
+50.000
+
+130.000
+
+-
+
+2.500.000
+
+-
+
+-
+
+200.000
+
+-
+
+4.550.000
+
+-
+
+1.600.000
+
+500.000
+
+-
+
+135.000
+
+-
+
+50.000
+
+-
+
+675.000 20.000 50.000 10.000 -
+100.000 -
+275.000 -
+7.480.000
+
+10.000 100.000 275.000
+7.480.000
+
+62
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Penyusunan Laporan Keuangan Setelah neraca lajur selesai dibuat, maka langkah selanjutnya
+adalah menyusun laporan keuangan. Dari data yang ada pada neraca lajur kita bisa langsung menyusun neraca dan laporan laba-rugi. Namun, adakalanya urutan perkiraannya harus disesuaikan.
+Berikut ini laporan keuangan berdasarkan neraca lajur di atas.
+
+AKTIVA Aktiva Lancar Kas Piutang Usaha Perlengkapan Kantor Asuransi Dibayar Dimuka Sewa Dibayar Dimuka
+Aktiva Tetap Peralatan Kantor Akumulasi Peny. Perl. Kantor Nilai Buku Bangunan Akumulasi Peny. Bangunan Nilai Buku
+
+Penerbit Jojo Lopez Neraca
+per 31 Januari 2007
+
+765.000 -
+1.325.000 100.000 100.000
+
+2.290.000
+
+130.000 (10.000)
+2.500.000 (100.000)
+
+120.000
+2.400.000 2.520.000
+
+Jumlah Aktiva
+
+4.810.000
+
+Kewajiban Hutang Dagang Biaya YMHD Jumlah Kewajiban
+Modal Modal Tn. Jojo Lopez Laba Ditahan Jumlah Modal
+Jumlah Kewjiban dan Modal
+
+200.000 275.000
+
+475.000
+
+4.550.000 (215.000)
+
+4.335.000
+
+4.810.000
+
+63
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Penerbit Jojo Lopez Laporan Laba-Rugi Periode Januari 2007
+
+Pendapatan Pendapatan Jasa
+
+Beban Usaha Beban Gaji Beban Iklan Beban Perlengkapan Kantor Beban Asuransi Beban Sewa Beban Penyusutan Perl Kantor Beban Penyusutan Bangunan Beban Listrik, Air & Tlp Beban Rupa-rupa
+
+500.000 135.000 675.000
+20.000 50.000 10.000 100.000 275.000 50.000
+
+Rugi
+
+1.600.000
+1.815.000 215.000
+
+Penerbit Jojo Lopez Laporan Perubahan Modal
+Per 31 Januari 2007
+
+Saldo Modal Tn. Jojo 1 Januari 2007 4.550.000
+
+Kurang: rugi bulan Januari 2007
+
+215.000
+
+Saldo Modal Tn. Jojo 31 Januari 2007 4.335.000
+
+KKeeggiiaattaann
+Buatlah neraca lajur pada kasus di atas dengan menggunakan kertas khusus untuk pembuatan neraca lajur. Kemudian buat pula dengan program spread sheet seperti MS Excel. Manakah yang lebih praktis dari kedua cara itu. Kemudian sebagai gambaran, lihat bentuk neraca lajur pada salah satu program akuntansi seperti Myob. diskusikan perbedaannya
+
+64
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Pertanyaan berganda 1. apa yang dimaksud dengan work sheet a. kertas kerja b. neraca percobaan c. neraca lajur d. kertas neraca e. kertas percobaan 2. apa yang dimaksud dengan trial balance a. keseimbangan percobaan b. percobaan keseimbangan c. neraca keuangan d. neraca saldo e. saldo neraca 3. berikut ini perkiraan yang harus dilakukan jurnal penyesuaian, kecuali: a. Perlengkapan Kantor b. Peralatan kantor c. Biaya Asuransi Dibayar Dimuka d. Penyusutan Aktiva Tetap e. Piutang Dagang 4. Perlengkapan Kantor dibuat jurnal penyesuaian dengan jurnal: a. Debit : Perlengkapan kantor, kredit: Peraltan Kantor b. Debit : Peralatan Kantor, kredit: Perlengkapan Kantor c. Debit : Perlengkapan Kantor, kredit : beban perlengkapan kantor d. Debit: beban perlengkapan kantor, kredit: perlengkapan kantor e. Debit: beban perlengkapan kantor, kredit: perlengkapan kantor. 5. pada neraca lajur, selisih debit dan kredit kolom laba-rugi akan dipindahkan ke kolom: a. neraca saldo b. neraca percobaan c. penyesuaian d. neraca e. laba-rugi 6. Jika saldo perlengkapan kantor diketahui senilai 125.000 kemudian pada akhir periode diketahui saldonya tinggal 50.000, maka beban perlengkapan kantor adalah: a. 125.000 b. 50.000 c. 175.000 d. 75.000 e. 0
+65
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+7. Penyusutan biasanya dilakukan terhadap perkiraan: a. Hutang dagang b. Hutang jasa c. Aktiva tetap d. Aktiva lain-lain e. Pendapatan
+
+Isian 1. 2. 3.
+4.
+5.
+
+sebutkan manfaat neraca lajur sebutkan cara pembuatan neraca lajur jika pada suatu neraca lajur, pada kolom laba-rugi, jumlah debit menunjukkan angka 1.350.000 sedangkah jumlah kredit 1.500.000, selisihnya laba atau rugi, jelaskan sebutkan perkiraan-perkiraan yang harus dilakukan penyesuaian dengan alasannya. suatu perusahaan memiliki bangunan dengan nilai Rp 24.000.000. Bangunan tersebut ditaksir memiliki masa manfaat 4 tahun. Berapa beban penyusutan per bulan.
+
+Essay
+
+Latihan 1
+
+PT ABC adalah sebuah perusahaan jasa, berikut ini adalah trial balance per 31 Agustus 2007. Perkiraan pada neraca saldo tersebut masih tersusun secara alfabetis. Tugas Anda menyusun membuat nomer perkiraan dan menyusunnya sesuai hal yang umum berlaku. Jumlah debit dan kredit harus sama.
+
+Nama Perkiraan Akumulasi Peny. Bangunan Akumulasi Peny. Perl. Kantor Bangunan Beban Gaji Beban Iklan Beban Listrik Beban Penyusutah Bangunan Beban Penyusutah perl. Kantor Beban Perlengkapan Biaya Yang Msh Hrs Dibayar Hutang Dagang Kas Modal Saham Penjualan Jasa
+
+Debit 15.000.000
+
+Kredit 1.500.000
+800.000
+
+500.000
+
+500.000 1.500.000
+10.000.000 7.500.000
+
+66
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Peralatan Kantor Perlengkapan Kantor Piutang Dagang Saldo laba Sewa Dibayar Dimuka Tanah
+
+4.750.000 625.000 750.000
+1.200.000 5.000.000
+
+6.025.000
+
+Latihan 2
+Berdasarkan kasus latihan 1, berikut ini data untuk penyesuaian: 1. gaji bulan Agustus yang terutang sebesar Rp 250.000 2. saldo perlengkapan pada akhir Agustus diketahui senilai Rp 520.000 3. Sewa Dibayar Dimuka adalah biaya sewa selama satu tahun dan dimulai bulan agustus 2007. 4. beban listrik bulan Agustus adalah Rp 65.000. Pembayarannya akan dilakukan awal September 2007. 5. Penyusutan Bangunan sebesar Rp 120.000/bulan sedangkan Perlatan kantor sebesar Rp 75.000/bulan. Diminta: buatlah neraca lajur dan susun laporan keuangan untuk PT ABC. Latihan 3
+Berikut ini neraca saldo PT Suka Wangi per 1 Juni 2007
+
+No Perk Nama Perkiraan 111 Kas 112 Piutang Dagang 113 Perlengkapan Kantor 114 Asuransi Dibayar Dimuka 122 Bangunan 123 Akumulasi Peny. Bangunan 124 Peralatan Kantor 125 Akumulasi Peny. Perl, Kantor 211 Hutang Dagang 212 Biaya Yang Msh Hrs Dibayar 311 Modal Saham 312 Saldo laba 411 Penjualan Jasa 511 Beban Gaji 512 Beban Iklan 513 Beban Listrik 514 Beban Perlengkapan
+
+Debit 500.000 750.000 625.000 1.200.000 15.000.000
+4.750.000
+
+Kredit
+1.500.000 800.000
+1.500.000 500.000
+10.000.000 8.525.000
+
+67
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+515 Beban Penyusutan Bangunan 516 Beban Penyusutan perl. Kantor
+Jumlah
+
+22.825.000 22.825.000
+
+Transaksi-transaksi selama bulan juni adalah sebagai berikut:
+
+Juni 2 mencatat penjualan jasa kepada CV Makmur Rp 250.000 secara kredit. Juni 3 membeli perlengkapan kantor secara kredit senilai Rp 75.000 Juni 5 membayar gaji minggu pertama bulan Juni senilai 125.000 Juni 7 menerima pelunasan sebagian piutang sebesar Rp 200.000 Juni 10 membayar sebagian hutang dagang sebesar 150.000 Juni 12 membayar biaya iklan sebesar 135.000 Juni 14 membayar gaji minggu ke-2 sebesar 120.000 Juni 20 mencatat penjualan jasa sebesar Rp 500.000 secara tunai Juni 25 membayar biaya iklan sebesar Rp 50.000
+
+Data penyesuaian 1. saldo perlengkapan pada akhir Juni sebesar Rp 100.000 2. gaji bulan juni yang masih harus dibayar sebesar 210.000 3. beban listrik bulan Juni sebesar Rp 130.000 4. penyusutan bangunan sebesar 155.000 sedangkan penyusutan peralatan kantor sebesar 76.000
+
+diminta 1. buatlah jurnal dari transaksi di atas 2. lakukan posting ke perkiraannya masing-masing 3. susun neraca saldo 4. buatlah jurnal penyesuaian dengan data di atas 5. buatlah neraca lajur 6. susun laporan keuangan berdasarkan neraca lajur.
+
+68
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+BBAABB 66 AYAT JURNAL PENUTUP
+Kurikulum: siswa mampu membuat jurnal penutup (closing entries)
+Abstrak Ada beberapa perkiraan yang hanya dipakai pada satu periode akuntansi. Setelah masuk periode berikutnya, perkiraan-perkiraan tersebut harus ditutup (saldonya dinolkan) agar pada periode berikutnya dimulai dari awal lagi. Perkiraan-perkiraan yang harus ditutup adalah perkiraan nominal (laba rugi) dan perkiraan prive. Langkah-langkah membuat jurnal penutup adalah dengan mencatat saldo pada lawannya. Artinya perkiraan pendapatan didebitkan, perkiraan beban dikreditkan, prive dikreditkan. Dengan cara itu perkiraan-perkiraan tersebut saldonya menjadi nol. Untuk menampung jurnal penutup digunakan perkiraan sementara yang disebut "Ikhitisar laba rugi" (income summary).
+Kata kunci: jurnal penutup, ikhtisar laba-rugi, neraca saldo penutupan
+
+Ayat jurnal penutup (closing entries) adalah jurnal untuk menutup perkiraan ­ perkiraan nominal (laba-rugi). Dengan kata lain untuk membuat saldo perkiraan nominal tersebut menjadi nol. Alasannya agar periode berikutnya perkiraan-perkiraan tersebut mulai dari awal lagi.
+Selain perkiraan nominal yang perlu dilakukan jurnal penutup adalah perkiraan pengambilan pemilik (prive) . Jadi jika dijabarkarkan perkiraan yang harus ditutup adalah perkiraan pendapatan, beban, dan prive.
+Perkiraan riil (neraca) tidak perlu ditutup karena bersifat akumulatif. Jika terjadi penambahan atau pengurangan pada periode berikutnya, saldo perkiraan riil tinggal ditambah atau dikurang.
+Untuk lebih jelasnya berikut ini gambaran jurnal penutup dengan mengambil saldo pada bab sebelumnya.
+Jurnal Menutup Pendapatan
+
+Tgl
+
+Keterangan
+
+2007 Jan
+
+31 Pendapatan Ikhtisar laba-rugi
+Mencatat penutupan pendapatan
+
+Ref
+
+Debit
+
+41 1.600.000 33
+
+kredit 1.600.000
+
+69
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Jurnal Menutup Beban
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007
+
+Jan 31 Ikhtisar laba-rugi
+
+33
+
+Beban Gaji
+
+41
+
+Beban Iklan
+
+Beban Perlengkapan Kantor
+
+Beban Asuransi
+
+Beban Sewa
+
+Beban Penyusutan Perl Kantor
+
+Beban Penyusutan Bangunan
+
+Beban Listrik, Air & Tlp
+
+Beban Rupa-rupa Mencatat penutupan beban
+
+Debit
+1.815.000
+
+kredit
+500.000 135.000 675.000
+20.000 50.000 10.000 100.000 275.000 50.000
+
+Jurnal Menutup Perkiraan Ikhtisar Laba-Rugi
+
+Tgl
+
+Keterangan
+
+2007 Jan
+
+31 Laba Ditahan Ikhtisar laba-rugi
+Mencatat penutupan ikhtisar laba-rugi
+
+Ref
+
+Debit
+
+32 215.000 33
+
+kredit 215.000
+
+Dari jurnal di atas dapat disimpulkan langkah-langkah untuk membuat ayat jurnal penutup (closing entries) adalah sebagai berikut:
+1. Menutup Pendapatan. Catat saldo pendapatan di sebelah debit. Kemudian catat perkiraan Iktisar laba-rugi di sebelah kredit dengan angka yang sama. Dengan cara ini saldo pendapatan akan menjadi nol.
+2. Menutup beban. Catat perkiraan di sebelah debit. Kemudian catat perkiraan=perkiraan beban di sebelah kredit. Angka ikhtisar labarugi merupakan jumlah seluruh perkiraan beban. Setelah jurnal penutup ini saldo perkiraan beban menjadi nol.
+
+70
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+3. hitung selisih perkiraan Ikhtisar Laba-rugi. Bila selisih sebelah kredit seperti jurnal di atas, catat pada sebelah kredit jurnal. Kemudian di sebelah debit catat perkiraan Laba Ditahan. Pada perusahaan perorangan utnuk mencatat selisih Ikhtisar laba-rugi biasanya dimasukkan ke perkiraan modal. Contoh di atas sengaja dimasukkan ke perkiraan laba ditahan agar terpisah antara modal dengan hasil usaha (akumulasi laba atau rugi). Bila dianggap perlu perkiraan Laba Ditahan dapat diganti dengan perkiraan modal. Dengan cara ini selisih perkiraan Laba-rugi akan mengurangi modal pemilik. Artinya bila dalam suatu periode perusahaan mengalami rugi, maka rugi tersebut akan mengurangi modal pemilik. Sebaliknya bila perusahaan mendapatkan laba, maka laba akan menambah modal pemilik.
+4. Menutup Prive. Bila terjadi pengambilan oleh pemilik pada perusahaan perorangan, untuk menutup prive, caranya dengan mengkredit saldo prive tersebut. Sebagai lawannya di sebelah debit adalah perkiraan Modal Pemilik tersebut. Artinya prive atau pengambilan tersebut akan mengurangi modal pemilik.
+
+Pengaruh Jurnal penutupan terhadap buku besar dapat dilihat pada bagan berikut ini.
+
+No. Perkiraan : 11 Nama Perkiraan: Kas
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 1
+
+1
+
+5
+
+1
+
+13
+
+1
+
+14
+
+1
+
+16
+
+2
+
+17
+
+2
+
+18
+
+2
+
+18
+
+2
+
+20
+
+2
+
+27
+
+2
+
+Debit 750.000
+850.000 750.000
+
+kredit
+
+saldo
+
+130.000 120.000 135.000 150.000
+500.000
+50.000 500.000
+
+750.000 620.000 500.000 365.000 215.000 1.065.000 565.000 1.315.000 1.265.000 765.000
+
+No. Perkiraan : 12 Nama Perkiraan : Piutang Dagang
+71
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+jan 12
+
+1
+
+17
+
+2
+
+Debit 850.000
+
+kredit 850.000
+
+Saldo
+850.000 -
+
+No. Perkiraan : 13 Nama Perkiraan : Perlengkapan Kantor
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 8
+
+1
+
+8
+
+21
+
+Debit
+1.300.000 500.000 200.000
+
+kredit
+
+Saldo
+
+1.300.000 1.800.000 2.000.000
+
+No. Perkiraan : 14 Nama Perkiraan : Asuransi Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 13
+
+1
+
+Debit 120.000
+
+kredit
+
+saldo
+
+120.000
+
+No. Perkiraan : 15 Nama Perkiraan : Sewa Dibayar Dimuka
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 16
+
+2
+
+Debit 150.000
+
+kredit
+
+saldo
+
+150.000
+
+72
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 16 Nama Perkiraan : Peralatan kantor
+
+Tgl Keterangan Ref
+
+2007
+
+Jan 5
+
+1
+
+Debit 130.000
+
+kredit
+
+saldo
+
+130.000
+
+No. Perkiraan : 17 Nama Perkiraan : Bangunan
+
+Tgl Keterangan Ref
+
+2007
+
+Jan 1
+
+1
+
+Debit 2.500.000
+
+kredit
+
+saldo
+
+2.500.000
+
+No. Perkiraan : 21 Nama Perkiraan : Hutang Dagang
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 8
+
+1
+
+18
+
+2
+
+21
+
+2
+
+Debit 500.000
+
+kredit
+
+saldo
+
+500.000 200.000
+
+500.000 -
+200.000
+
+No. Perkiraan : 41 Nama Perkiraan : Pendapatan
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 12
+
+1
+
+18
+
+2
+
+31 closing
+
+Debit
+
+kredit
+
+saldo
+
+850.000 850.000
+
+750.000 1.600.000
+
+1.600.000
+
+0
+
+73
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 51 Nama Perkiraan : Beban Gaji
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 27
+
+2
+
+31 closing
+
+Debit 500.000
+
+kredit
+
+saldo
+
+500.000
+
+500.000
+
+-
+
+No. Perkiraan : 52 Nama Perkiraan : Beban Iklan
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 14
+
+1
+
+31 Closing
+
+Debit 135.000
+
+kredit
+
+saldo
+
+135.000
+
+135.000
+
+-
+
+No. Perkiraan : 53 Nama Perkiraan : Beban Rupa-rupa
+
+Tgl
+
+Keterangan Ref
+
+2007
+
+Jan 20
+
+2
+
+31
+
+Debit 50.000
+
+No. Perkiraan : 54 Nama Perkiraan : Beban Perlengkapan
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+31 closing
+
+Debit 675.000
+
+kredit 50.000
+
+saldo
+50.000 -
+
+kredit
+
+saldo
+
+675.000
+
+675.000 -
+
+74
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 55 Nama Perkiraan : Beban Penyusutan Peralatan Kantor
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+31 closing
+
+Debit 10.000
+
+kredit 10.000
+
+saldo
+10.000 -
+
+No. Perkiraan : 56 Nama Perkiraan : Beban Penyusutan Bangunan
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+31 closing
+
+Debit 100.000
+
+kredit 100.000
+
+saldo
+100.000 -
+
+No. Perkiraan : 57 Nama Perkiraan : Beban Asuransi
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+31 closing
+
+Debit 20.000
+
+kredit 20.000
+
+saldo
+20.000 -
+
+No. Perkiraan : 58 Nama Perkiraan : Beban Sewa
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+31 closing
+
+Debit 50.000
+
+kredit 50.000
+
+saldo
+50.000 -
+
+75
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+No. Perkiraan : 59 Nama Perkiraan : Beban Listrik, air & telp
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 Penyesuaian
+31 closing
+
+Debit 275.000
+
+kredit 275.000
+
+saldo
+275.000 -
+
+No. Perkiraan : 33 Nama Perkiraan : Ikhtisar Laba-rugi
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 closing
+31 closing 31 closing
+
+Debit 1.815.000
+
+kredit
+
+saldo
+
+1.815.000
+
+1.600.000 215.000
+
+215.000
+
+-
+
+No. Perkiraan : 32 Nama Perkiraan : Laba Ditahan
+
+Tgl
+
+Keterangan Ref
+
+2007 Jan 31 closing
+
+Debit 215.000
+
+kredit
+
+saldo 215.000
+
+Jika selisih Ikhtisar laba rugi dimasukkan ke perkiraan modal Tn Jojo maka pengaruhnya adalah sebagai berikut
+No. Perkiraan : 31 Nama Perkiraan : Modal Jojo Lopez
+
+Tgl
+
+Keterangan
+
+2007 Jan 1
+31 closing
+
+Ref
+
+Debit
+
+215.000
+
+kredit
+
+saldo
+
+4.550.000 4.550.000 4.335.000
+
+76
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Neraca Saldo Penutupan Neraca Saldo Penutupan adalah neraca saldo setelah ayat jurnal
+penutup diposting. Tujuannya adalah agar buku besar tetap seimbang pada periode berikutnya. Angka pada neraca saldo penutupan sebenarnya sama dengan saldo neraca. Berikut ini neraca saldo penutupan penerbit Jojo Lopez.
+
+Penerbit Jojo Lopez Neraca Saldo Penutupan Per 31 Januari 2007
+
+No. Perk
+
+Perkiraan
+
+11
+
+Kas
+
+12
+
+Piutang Usaha
+
+13
+
+Perlengkapan Kantor
+
+14
+
+Asuransi Dibayar Dimuka
+
+15
+
+Sewa Dibayar Dimuka
+
+16
+
+Peralatan Kantor
+
+Akumulasi Peny. Perl. Kantor
+
+17
+
+Bangunan
+
+Akumulasi Peny. Bangunan
+
+21
+
+Hutang Dagang
+
+22
+
+Biaya Yg Msh Hrs Dibayar
+
+31
+
+Modal Tn. Jojo Lopez
+
+41
+
+Laba Ditahan
+
+Debit
+765.000 -
+1.325.000 100.000 100.000 130.000
+
+Kredit
+10.000
+
+2.500.000
+-
+215.000
+
+100.000 200.000 275.000 4.550.000
+
+Jumlah
+
+5.135.000 5.135.000
+
+KKeeggiiaattaann
+Jika pencatatan transaksi menggunakan program spread sheet seperti Lotus atau Excel, apakah diperlukan jurnal penutup ? Diskusikan alasannya
+77
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Pertanyaan berganda
+1. istilah lain jurnal penutup adalah a. closing adjustmen b. closing entries c. closing the door d. closing book e. entry to close
+2. berikut ini perkiraan yang harus ditutup: a. piutang karyawan b. sewa dibayar dimuka c. modal Dadan Sukam d. prive e. hutang pajak
+3. alasan perkiraan neraca tidak perlu ditutup adalah a. neraca susah membuatnya b. neraca bersaldo positif c. neraca bersaldo negatif d. neraca bersaldo akumulatif e. neraca bersaldo kualitatif
+4. untuk menutup perkiraan digunakan perkiraan pembantu, yaitu: a. Ikhtisar laba b. Ikhtisar rapat c. Ikhtisar rugi d. Ikhtisar Laba-rugi e. Ikhtisar percobaan
+5. Jika perkiraan Ikhtisar Laba-rugi memiliki selisih sebelah debit, maka perusahaan tersebut mendapat a. Laba b. Rugi c. Impas d. Piutang usaha e. Hutang usaha
+6. setelah membuat ayat jurnal penutup maka langkah selanjutnya membuat: a. neraca saldo b. neraca percobaan c. laporan penutupan d. neraca saldo penutupan e. percobaan neraca
+7. tujuan dibuat neraca saldo penutupan adalah a. untuk membuat neraca b. untuk membuat laporan laba-rugi
+78
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+c. untuk menguji saldo buku besar agar tetap seimbang d. untuk menguji buku besar agar jumlahnya tetap e. tidak ada yang benar Isian 1. sebutkan langkah-langkah penyusunan work sheet 2. sebutkan beberapa perkiraan yang perlu dibuat jurnal penyesuaian. Berikan alasannya 3. sebutkan alsan kenapa aktiva tetap harus dibuat penyusutan 4. sebutkan tujuan dibuatnya neraca saldo penutupan 5. pada perkiraan ikhtisar laba-rugi di sebelah debit bersaldo Rp 4.500.000 di sebelah kredit Rp 7.200.000. laba atau rugi kondisi tersebut berapa besar laba atau ruginya
+79
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+BBAABB 77 AKUNTANSI PERUSAHAAN DAGANG
+Kurikulum: siswa mampu mencatat transaksi untuk perusahaan dagang
+Abstrak Perusahaan dagang aktivitasnya membeli dan menjual barang. Dengan demikian memiliki persediaan barang dagangan. Maka, fokus pencatatan pada persediaan barang dagangan itu. Ada dua metode pencatatan persediaan yaitu perpetual dan physical. Perbedaan mendasar pada kedua metode tersebut adalah pada perpetual setiap mutasi harus dicatat. Sedangkan pada metode physical tidak. Untuk mengetahui saldo akhir persediaan, pada metode physical, pada akhir periode biasnya dilakukan perhitungan fisik persediaan. Selain persediaan barang dagangan, pencatatan transaksi perusahaan dagang relatif sama dengan perusahaan jasa.
+Kata kunci: persediaan barang dagangan, penyesuaian persediaan, laporan keuangan perusahaan dagang
+Bab sebelumnya menitikberatkan pencatatan transaksi untuk perusahaan jasa. Bagaimana pencatatan akuntansi untuk perusahaan dagang ?
+Perusahaan dagang adalah perusahaan yang aktivitasnya membeli barang kemudian menjual kembali barang tersebut. Dengan demikian perusahaan dagang memiliki persediaan barang dagangan. Hal ini berbeda dengan perusahaan jasa yang tidak memiliki persediaan barang dagangan. Maka titik kritis (critical point) perusahaan dagang adalah pada persediaan barang dagangan.
+Pencatatan akuntansi untuk perusahaan dagang lebih rumit dibandingkan perusahaan jasa. Perusaan dagang harus memiliki sistem penerimaan barang dagangan, informasi barang yang tersedia untuk dijual, penjualan barang dagangan dan informasi harga pokok penjualan (cost of goods sold).
+Contoh perusahaan dagang antara lain super market, toko buku, apotek dan sebagainya. Bila Anda suka berbelanja ke super market coba perhatikan barang dagangan yang dipajang. Coba perkirakan ada berapa
+80
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+item yang ada di sana. Ambil contoh shampoo merk A. shampoo ini bisa terdiri dari beberap jenis dan ukuran yang berbeda. Bila menjual salah satu jenis shamoo ini, ternyata salah identifikasi bisa berakibat harga jual terlalu tinggi atau rendah. Begitu juga dengan harga pokoknya. Biasanya super market menggunakan program komputer untuk memudahkan pencatatan penjualan. Untuk memudahkan identifikasi biasanya menggunakan scanner.
+Metode Persediaan Metode persediaan ada dua yaitu perpetual dan periodical
+(physical). Pada metode perpetual jika terjadi pembelian barang dicatat pada perkiraan "persediaan barang dagangan" (merchandise inventory). Pada saat terjadi penjualan maka dicatat dengan perkiraan penjualan di sebelah kredit. Sebelah debit bisa kas atau piutang dagang, tergantung penjualan tunai atau kredit. Selain itu juga membuat jurnal harga pokok. Berikut ilustrasinya.
+
+Jurnal pembelian (kredit).
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007
+
+Juli
+
+5 Persediaan Barang
+
+13
+
+Dagangan
+
+Hutang Dagang
+
+21
+
+Mencatat pembelian
+
+barang dagangan
+
+Debit 650.000
+
+kredit 650.000
+
+Jurnal Penjualan (kredit)
+
+Tgl
+
+2007
+
+Juli
+
+8
+
+8
+
+Keterangan
+
+Ref
+
+Piutang Dagang
+
+12
+
+Penjualan
+
+41
+
+Mencatat penjualan
+
+barang dagangan
+
+Harga Pokok Penjualan 51 Persediaan Barang 13 Dagangan
+Mencatat harga pokok penjualan
+
+Debit 950.000
+650.000
+
+kredit 950.000 650.000
+
+81
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Pada metode periodical, pada saat pembelian dicatat pada perkiraan "Pembelian" (Purchases). Sedangkan pada saat penjualan dicatat pada perkiraan penjualan tanpa membuat jurnal harga pokok. Berikut ilustrasinya.
+
+Jurnal pembelian (kredit).
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007
+
+Juli
+
+5 Pembelian
+
+51
+
+Hutang Dagang
+
+21
+
+Mencatat pembelian
+
+barang dagangan
+
+Debit 650.000
+
+kredit 650.000
+
+Jurnal Penjualan (kredit)
+
+Tgl
+
+2007
+
+Juli
+
+8
+
+Keterangan
+Piutang Dagang Penjualan
+Mencatat penjualan barang dagangan
+
+Ref
+
+Debit
+
+12
+
+950.000
+
+41
+
+kredit 950.000
+
+Dari ilustrasi di atas dapat disimpulkan, metode perpetual jika terjadi pembelian langsung menambah saldo perkiraan persediaan barang dagangan. Sebaliknya jika terjadi penjualan maka mengurangi saldo persediaan barang dagangan. Dengan metode perpetual ini saldo perkiraan barang dagangan selalu ter-update. Artinya saldo persediaan barang dagangan bisa langsung diketahui saat itu juga.
+Metode periodical pada saat pembelian tidak mempengaruhi perkiraan persediaan barang dagangan. Begitu juga sebaliknya, jika terjadi penjualan tidak mempengaruhi persediaan barang dagangan. Dengan metode periodical ini, saldo persediaan barang dagangan tidak bisa diketahui setiap saat. Utnuk menemtukan saldo akhir, pada akhir periode dilakukan penghitungan fisik persediaan (stock count / stock
+
+82
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+opname). Saldo akhir inilah yang akan dijadikan saldo akhir persediaan. Untuk menghitung harga pokok dilakukan dengan cara:
+
+Saldo Awal Persediaan Barang Dagangan Pembelian
+Saldo Barang Tersedia untuk Dijual Saldo Akhir Persediaan Barang Dagangan
+Harga Pokok Penjualan
+
+XXXX XXXX
++ XXXX XXXX
+XXXX
+
+Pembelian Pembelian merupakan salah satu aktivitas perusahaan dagang. Pencatatan pembelian ini tergantung metode persediaan yang digunakan. Bagian ini akan membahas salah satu metode yaitu metode periodical. Seperti sudah diuraikan di atas pembelian dengan metode periodical dicatat ke perkiraan "Pembelian" (Purchases). Hal yang berhubungan dengan pembelian adalah pengembalian barang dagangan (retur pembelian / purchases return) dan potongan (diskon) pembelian.
+Retur Pembelian Adakalanya barang yang dibeli dikembalikan dengan bebarapa
+alasan, misalnya barang diterima dalam keadaan rusak atau barang yang dibeli tidak sesuai dengan pesanan. Pengembalian ini tentu saja akan mengurangi hutang jika dibeli secara kredit. Untuk memberi tahu penjual akan adanya retur biasanya dibuat memo debit. Dengan kata lain memo debit adalah surat pemberitahuan retur pembelian. Dengan berdasar memo debit ini maka si pembeli dapat mendebit perkiraan hutang dagangnya.
+Ada dua cara mencatat rtur pembelian. Pertama, langsung mengurangi hutang di satu sisi. Di sisi lain mengurangi pembelian. Kedua, menggunakan perkiraan pembantu yaitu perkiraan retur pembelian. Dengan cara ini tidak langsung mengurangi pembelian. Nilai barang yang dikembalikan dapat diketahui dari saldo perkiraan retur pembelian. Jadi, saldo pembelian dan saldo retur dicatat terpisah. Berikut ilustrasi kedua pencatatan tersebut.
+Cara pertama
+
+83
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007 Juli
+
+10 Hutang Dagang
+
+21
+
+Pembelian
+
+51
+
+Mencatat retur pembelian
+
+barang dagangan
+
+Debit 150.000
+
+kredit 150.000
+
+Cara kedua
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007 Juli
+
+10 Hutang Dagang
+
+21
+
+Retur Pembelian
+
+53
+
+Mencatat retur pembelian
+
+barang dagangan
+
+Debit 150.000
+
+kredit 150.000
+
+Potongan (diskon) Pembelian Potongan pembelian (Purchase discount) biasanya dilakukan pada
+pembelian kredit. Pembelian kredit biasanya diatur dalam suatu perjanjian kredit. Salah satu isi perjanjian kredit tersebut adalah jangka waktu pembayaran (credit terms).
+Credit terms merupakan jangka waktu pembayaran atau berapa lama pembelian tersebut harus dilunasi. Biasanya dinyatakan dalam hari, seperti 30 hari atau 60 hari. Penulisan jangka waktu pembayaran biasanya cukup ditulis dengan kode n/30 (net 30). Artinya jangka waktu pembayarannya tiga puluh hari.
+Untuk merangsang pembeli melunasi hutangnya sebelum jatuh tempo, pihak penjual biasanya memberikan diskon. Diskon ini dinyatakan dalam bentuk 2/10. Artinya bila dilunasi sampai hari ke-10 akan mendapat potongan 2%. Bila digabung dengan jangka pembayaran maka penulisannya n/30, 2/10. artinya jangka waktu pembayaran 30 hari, bila dilunasi sampai hari ke-10 mendapat diskon 2%.
+Cara mencatat diskon pembelian adalah dengan mengkredit perkiraan diskon pembelian (purchases discount). Sedangkan di sebelah debit adalah perkiraan hutang. Dengan kata lain diskon pembelian ini akan mengurangi hutang dagang. Berikut ilustrasinya.
+
+84
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Mencatat diskon pembelian
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007
+
+Juli
+
+11 Hutang Dagang
+
+21
+
+Diskon Pembelian 54
+
+Mencatat diskon
+
+pembelian barang
+
+dagangan
+
+Debit 50.000
+
+kredit 50.000
+
+Penjualan Penjualan merupakan sumber pendapatan perusahaan.
+Pendapatan pada perusahaan dagang biasanya dicatat melalui perkiraan "Penjualan" (Sales). Beberapa perusahaan membuat perkiraan ini lebih lengkap menjadi "Penjualan Barang Dagangan". Berbeda dengan perusahaan jasa, biasanya untuk mencatat pendapatan menggunakan perkiraan pendapatan jasa atau menggunakan istilah fee, seperti fee konsultan.
+Penjualan dapat dilakukan secara tunai maupun kredit. Penjualan tunai dicatat ke perkiraan kas. Sedangkan penjualan kredit dicatat ke perkiraan piutang dagang. Berikut ilustrasinya.
+
+Penjualan Tunai
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007 Juli
+
+11 Kas
+
+11
+
+Penjualan
+
+41
+
+Mencatat penjualan tunai
+
+Debit 950.000
+
+kredit 950.000
+
+Penjualan Kredit
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007 Juli
+
+12 Piutang Dagang
+
+12
+
+Penjualan
+
+41
+
+Mencatat penjualan kredit
+
+Debit 1.150.000
+
+kredit 1.150.000
+
+85
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Barang yang dijual adakalanya dikembalikan (retur penjualan / sales return) karena alasan tertentu. Selain itu penjual juga memberikan potongan ataudiskon penjualan.
+
+Retur Penjualan Bila terjadi retur penjualan, maka dapat dicatat langsung
+mengurangi penjualan dan piutang dagang. Secara lengkap, di sebelah debit penjualan, di sebelah kredit piutang dagang. Namun, adakalanya pencatatan retur ini dipisahkan dari penjualan. Tujuannya untuk mengetahui berapa nilai barang yang dikembalikan. Berikut ilustrasinya. Cara pertama, retur dicatat langsung mengurangi penjualan. Sedangkan cara kedua, retur penjualan dicatat melalui perkiraan retur penjualan.
+
+Cara pertama
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007 Juli
+
+13 Penjualan
+
+41
+
+Piutang Dagang
+
+12
+
+Mencatat retur penjualan
+
+Debit 450.000
+
+kredit 450.000
+
+Cara kedua
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007 Juli
+
+13 Retur Penjualan
+
+42
+
+Piutang Dagang
+
+12
+
+Mencatat retur penjualan
+
+Debit 450.000
+
+kredit 450.000
+
+Diskon Penjualan Seperti halnya pembelian, penjualan juga sering diberikan diskon
+penjualan. Biasanya diskon ini dicatat melalui perkiraan khusus yang bernama diskon (potongan) penjualan. Dengan dipisahkannya penjualan dan diskon penjualan dapat diketahui berapa besar diskon yang diberikan. Berikut ilustrasinya.
+86
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Pencatatan Diskon Penjualan
+
+Tgl
+
+Keterangan
+
+Ref
+
+2007
+
+Juli
+
+17 Diskon Penjualan
+
+43
+
+Piutang Dagang
+
+12
+
+Mencatat diskon
+
+penjualan
+
+Debit 125.000
+
+kredit 125.000
+
+Contoh Pencatatan Transaksi
+Berikut ini neraca saldo Symbol Apparel sebuah perusahaan yang bergerak di bidang penjualan baju.
+Symbol Apparel Neraca Saldo per 31 Mei 2007
+
+No Per
+
+Perkiraan
+
+11 Kas
+
+12 piutang Dagang
+
+13 Persediaan Barang Dagangan
+
+14 Perlengkapan kantor
+
+15 Peralatan Toko
+
+16 Akum. Peny. Perl. Toko
+
+17 Peralatan Kantor
+
+18 Akum. Peny. Perl. Kantor
+
+21 Hutang Dagang
+
+22 Hutang Pajak
+
+23 Biaya Yg Msh Hrs Dibayar
+
+31 Modal Saham
+
+32 Saldo Laba
+
+41 Penjualan
+
+42 Retur Penjualan
+
+43 Diskon Penjualan
+
+51 Pembelian
+
+52 Retur Pembelian
+
+Debit 850.000 1.450.000 2.300.000 900.000 4.600.000
+9.600.000
+
+Kredit
+960.000 1.200.000 2.450.000
+
+10.000.000 5.090.000
+
+87
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+53 Diskon Pembelian 61 Beban Gaji 62 Beban Iklan 63 Beban Rupa-rupa
+
+19.700.000 19.700.000
+
+Transaksi yang terjadi selama bulan juni adalah sebagai berikut
+
+Juni 5
+
+Membeli barang dagangan senilai Rp 500.000 secara kredit,
+
+dengan credit terms n/30, 2/10
+
+Juni 6
+
+membayar beban iklan sebesar Rp 130.000 tunai
+
+Juni 10
+
+menjual barang dagangan sebesar Rp 850.000 secara kredit
+
+Juni 13
+
+barang dagangan yang dibeli dikembalikan (retur) karena
+
+cacat senilai Rp 100.000
+
+Juni 15
+
+Membayar hutang dagang atas pembelian tanggal 5. nilai
+
+hutang tinggal 400.000 karena ada retur 100.000. Karena masih dalam
+
+waktu diskon, maka mendapat potongan sebesar Rp 20.000.
+
+Juni 17
+
+membayar biaya rupa-rupa sebesar Rp 75.000
+
+Juni 19
+
+Barang yang dijual bulan sebelumnya dikembalikan pembeli
+
+sebesar Rp 80.000.
+
+Juni 20
+
+pelunasan piutang dari penjualan tanggal 10 sebesar Rp
+
+770.000. Nilai tersebut berasal dari penjualan tanggal 10 dikurangi
+
+potongan penjualan sebesar Rp 80.000
+
+Juni 21
+
+Membeli barang dagangan sebesar Rp 425.000 secara
+
+kredit
+
+Juni 25
+
+menjual barang dagangan sebesar Rp 375.000, secara
+
+kredit.
+
+Data untuk penyesuaian 1. dari hasil stock opname diketahui saldo akhir persediaan barang senilai Rp. 2.150.000 2. Saldo akhir Perlengkapan Kantor senilai Rp 650.000 3. beban penyusutan peralatan toko sebesar rp 96.000. sedangkan penyusutan peralatan Kantor Rp 120.000. 4. gaji bulan Juni yang belum dibayarkan sebesar Rp 350.000
+
+Pencatatan transaksi di atas dengan jurnal umum adalah sebagai berikut:
+
+88
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Tanggal
+
+Keterangan
+
+2007
+
+Juni
+
+5 Pembelian
+
+Hutang Dagang
+
+6 Beban Iklan
+
+Kas
+
+10 Piutang Dagang
+
+Penjualan
+
+12 Hutang Dagang
+
+Retur Pembelian
+
+15 Hutang Dagang
+
+Diskon Pembelian
+
+Kas
+
+17 Beban Rupa-rupa
+
+Kas
+
+19 Retur Penjualan
+
+Piutang Dagang
+
+20 Kas
+
+Diskon Penjualan
+
+Piutang Dagang
+
+21 Pembelian Hutang Dagang
+
+25 Piutang Dagang Penjualan
+
+Ref
+51 21 62 11 12 41 21 52 21 53 11 63 11 42 12 11 43 12
+51 21
+12 41
+
+Debit 500.000 130.000 850.000 100.000 400.000
+75.000 80.000 770.000 80.000
+425.000
+375.000
+
+3.785.000
+
+Kredit
+500.000 130.000 850.000 100.000
+20.000 380.000
+75.000 80.000
+850.000
+425.000
+375.000
+3.785.000
+
+89
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Symbol Apparel Neraca lajur
+per 30 Juni 2007
+
+No Per
+
+Perkiraan
+
+11 Kas 12 piutang Dagang 13 Persediaan Barang Dagangan 14 Perlengkapan kantor 15 Peralatan Toko 16 Akum. Peny. Perl. Toko 17 Peralatan Kantor 18 Akum. Peny. Perl. Kantor 21 Hutang Dagang 22 Hutang Pajak 23 Biaya Yg Msh Hrs Dibayar 31 Modal Saham 32 Saldo Laba 41 Penjualan 42 Retur Penjualan 43 Diskon Penjualan 51 Pembelian 52 Retur Pembelian 53 Diskon Pembelian 61 Beban Gaji 62 Beban Iklan 69 Beban Rupa-rupa
+
+Neraca Saldo
+
+Dr
+
+Cr
+
+1.035
+
+1.745
+
+2.300
+
+-b
+
+900
+
+-
+
+4.600
+
+-
+
+-
+
+960
+
+9.600
+
+-
+
+-
+
+1.200
+
+2.875
+
+-
+
+-
+
+-
+
+-
+
+-
+
+10.000
+
+-
+
+5.090
+
+-
+
+1.225
+
+80
+
+-
+
+80
+
+-
+
+925
+
+-
+
+-
+
+100
+
+-
+
+20
+
+-
+
+-d
+
+130
+
+-
+
+75
+
+-
+
+21.470
+
+21.470
+
+54 Ikhtisar Laba-rugi
+
+a
+
+64 Beban Perlengkapan
+
+b
+
+65 Beban Peny. Perl. Toko
+
+e
+
+66 Beban Peny. Perl. Kantor
+
+f
+
+Penyesuaian Dr 2.150 a
+c e f d
+350
+2.300 b 250 96 120
+
+Cr 2.300
+250 96
+120 350
+2.150
+
+Setelah
+1.035 1.745 4.450
+900 4.600
+9.600
+80 80 925 350 130 75 21.47 2.300 250 96 120
+
+5.266
+
+5.266 48.20
+
+Laporan Keuangan Pada prinsipnya laporan keuangan perusahaan dagang sama saja dengan perusahaan jasa. Pada neraca perusahaan dagang terdapat perkiraan Persediaan Barang Dagangan. Sedangkan pada Laporan laba rugi terdapat unsur harga pokok penjualan. Selain harga pokok pada kelompok beban biasanya dipisahkan antara beban penjualan dengan
+90
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+beban administrasi kantor. Kelompok beban penjualan untuk menampung beban-beban yang berhubungan dengan penjualan, seperti gaji pegawai toko, penyusutan peralatan kantor dan sebagainya. Beban administrasi kantor menampung beban-beban selain beban penjualan. Misalnya gaji staf, biaya listrik dan sebagainya. Berikut laporan keuangan symbol Apparel
+
+AKTIVA Aktiva Lancar
+Kas Piutang Dagang Persediaan Barang Dagangan Perlengkapan kantor Jumlah Aktiva Tetap Aktiva Tetap Peralatan Toko Akum. Peny. Perl. Toko Peralatan Kantor Akum. Peny. Perl. Kantor
+Jumlah Aktiva
+
+Symbol Apparel Neraca
+Per 30 Juni 2007
+
+1.035 1.745
+2.150 650
+4.600 (1.056) 9.600 (1.320)
+
+5.580 11.824
+
+Kewajiban Hutang Dagang Biaya Yg Msh Hrs Dibayar
+
+2.875 350
+
+Ekuitas Modal Saham Saldo Laba
+
+10.000 4.179
+
+Jumlah Kewajiban dan Ekuitas
+
+3.225 14.179
+
+17.404 17.404
+
+91
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+
+Symbol Apparel Laporan Laba rugi periode Juni 2007
+
+Pendapatan Penjualan Retur Penjualan Diskon Penjualan Pendapatan Bersih Harga Pokok Penjualan Saldo Awal Persediaan Pembelian Retur Pembelian Diskon Pembelian Saldo Akhir Persediaan Harga Pokok Penjualan Laba Kotor Beban Operasi Beban Gaji Beban Iklan Beban Perlengkapan Beban Peny. Perl. Toko Beban Peny. Perl. Kantor Beban Rupa-rupa Jumlah Beban Operasi
+
+1.225 (80) (80)
+2.300 925 (100) (20)
+(2.150)
+350 130 250
+96 120
+75
+
+1.065 955
+
+Rugi
+
+110
+1.021 (911)
+
+Kegiatan
+Coba kunjungi salah satu super market atau mini market yang ada di kota Anda. Amati persediaan barang dagangan yang ada. Perkirakan metode apa yang digunakan. Selain yang terlihat di display apakah memiliki tempat penyimpanan persediaan yang lain. Diskusikan hasilnya.
+
+92
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+Pertanyaan berganda 1. apa aktivitas perusahaan dagang a. membeli barang b. menjual barang c. membeli jasa d. menjual jasa e. membeli dan menjual barang 2. apa yang menjadi perhatian pencatatan pada perusahaan dagang a. persediaan barang dagangan b. persediaan bahan baku c. persediaan barang jadi d. persediaan barang dalam proses e. persediaan barang kali 3. berikut ini contoh perusahaan dagang, kecuali a. apotik b. toko buku c. dokter d. mini market e. toko kaset 4. pernyataan berikut ini benar kecuali a. metode perpetuan mencatat setiap mutasi persediaan b. metode physical tidak mencatat setiap mutsi persediaan c. metode perpetual untuk mengetahui saldo akhir persediaan dilakukan dengan cara stock opname. d. Metode perpetual langsung mencatat harga pokok penjualan e. Metode physical harga pokok penjualan dicatat setelah stock opname. 5. pada saat terjadi retur pembelian dengan menggunakan metode tidak langsung, pencatatan tersebut dilakukan terhadap perkiraan a. potongan pembelian b. pembelian c. retur pembelian d. retur penjualan e. jawaban tidak ada yang benar.
+Isian 1. sebutkan perbedaan metode persediaan perpetual dengan physical 2. suatu penjualan memiliki credit term n/60, 5/10. Apa maksud pernyataan tersebut. 3. diketahui tanggal 20 juni 2007 suatu perusahaan membeli barang dagangan senilai Rp 2.860.000. Tanggal 22 dikembalikan barang yang dibeli senilai Rp 385.000. Pada tanggal 26 mendapat potongan sebesar Rp 200.000. Berapakah nilai bersih pembelian tersebut. 4. gambarkan penilaian harga pokok penjualan pada metode physical
+93
+
+Syarief HD: Akuntansi Dasar, Free Edition, Nov-09
+5. diketahui saldo awal persediaan 1/8 2007 sebesar Rp 5.630.000. Pembelian pada periode bulan 8 sebesar 8.790.000. Saldo akhir 31/8 2007 sebesar Rp 4.630.000, retur periode tersebut Rp 670.000. Hitung harga pokok penjualan.
+94

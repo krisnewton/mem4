@@ -1,0 +1,2592 @@
+ANALISIS PERBANDINGAN NET INCOME PERUSAHAAN SEBELUM DAN SESUDAH
+PENERBITAN SUKUK KORPORASI (Studi Pada Emiten Yang Tergabung Dalam JII
+Periode 2006-2014) SKRIPSI
+Disusun Guna Memenuhi Tugas dan Melengkapi Syarat Guna Memperoleh Gelar Sarjana Strata S.1 Dalam Ilmu Ekonomi Islam
+Disusun Oleh: EVANT ANDI AENUROHMAN
+NIM 112411080
+FAKULTAS EKONOMI DAN BISNIS ISLAM UNIVERSITAS ISLAM NEGERI WALISONGO
+SEMARANG 2015
+
+Rahman El Junusi, SE., M.Si. J. Nusa Indah III/1106 RT/RW 004/005 Tambakaji Ngaliyan Semarang 50185 A.Turmudhi, SH.,M. Ag. Jl. Madukara II No. F-27 Perum Sukoharjo Indah (PSI) RT/RW 05/08 Sukoharjo Margoharjo Pati
+
+PERSETUJUAN PEMBIMBING
+Lamp : 4 (empat) eks. Hal : Naskah Skripsi
+A.n. Sdr. Evant Andi Aenurohman
+
+Kepada Yth. Dekan Fakultas Ekonomi dan Bisnis Islam
+
+Assalamu'alaikum wr. wb.
+Setelah saya memberikan bimbingan dan koreksi seperlunya, bersama ini saya kirim naskah skripsi saudara: Nama : Evant Andi Aenurohman NIM : 112411080 Judul : "ANALISIS PERBANDINGAN NET INCOME
+PERUSAHAAN SEBELUM DAN SESUDAH PENERBITAN SUKUK KORPORASI (Studi Pada Emiten yang Tergabung dalam JII Periode 2006-2014)" Dengan ini, saya mohon kiranya skripsi saudara tersebut dapat segera dimunaqosahkan.
+Demikian harap menjadi maklum.
+
+Pembimbing I
+
+Pembimbing II
+
+Rahman El-Junusi, SE., M.M NIP. 19691118 200003 1 001
+
+A.Turmudhi, SH.,M. Ag. NIP. 19690708 200501 1004
+
+ii
+
+KEMENTERIAN AGAMA UNIVERSITAS ISLAM NEGERI WALISONGO SEMARANG
+FAKULTAS EKONOMI DAN BISNIS ISLAM Jl. Prof. Dr. Hamka Kampus III Ngaliyan Telp. (024) 7608454
+Semarang 50185
+
+PENGESAHAN
+
+Nama NIM Fakultas/Jurusan Judul Skripsi
+
+: Evant Andi Aenurohman : 112411080 : Ekonomi dan Bisnis Islam/ Ekonomi Islam : "ANALISIS PERBANDINGAN NET INCOME
+PERUSAHAAN SEBELUM DAN SESUDAH PENERBITAN SUKUK KORPORASI (Studi Pada Emiten yang Tergabung dalam JII Periode 2006-2014)"
+
+Telah dimunaqasahkan oleh Dewan penguji Fakultas Ekonomi dan Bisnis Islam Universitas Islam Negeri Walisongo Semarang dan dinyatakan lulus pada tanggal:
+17 Juni 2015 Dan dapat diterima sebagai pelengkap ujian akhir guna memperoleh gelar Sarjana (Strata Satu/ S1) dalam Ilmu Ekonomi Islam.
+
+Ketua Sidang
+
+Semarang, 17 Juni 2015 Sekretaris Sidang
+
+H. Ade Yusuf Mujaddid, M.Ag. NIP.19670119 199803 1 002
+Penguji I
+
+A. Turmudi, SH., M.Ag. NIP. 19690708 200501 1 004
+Penguji II
+
+H. Ahmad Furqon, LC. MA NIP. 19751218 200501 1 002
+Pembimbing I
+
+Drs. H. Hasyim Syarbani, MM. NIP. 19570913 198203 1 002
+Pembimbing II
+
+Rahman El Junusi, SE., MM. NIP. 1691118 200003 1 001
+
+A. Turmudi, SH., M.Ag. NIP. 19690708 200501 1 004
+
+iii
+
+MOTTO
+`'Barang siapa keluar untuk mencari ilmu maka dia berada di jalan Allah `' (HR.Turmudzi)
+Sesuatu yang belum dikerjakan, seringkali tampak mustahil; kita baru yakin kalau kita telah berhasil melakukannya dengan baik. - Evelyn
+Underhill "Hari ini kita adalah orang yang sama dengan kita di lima tahun mendatang, kecuali dua hal : orang-orang di sekeliling kita dan buku-
+buku yang kita baca"
+iv
+
+ABSTRAK
+Dewasa ini trend penerbitan sukuk korporasi menunjukkan pola up-trend. Namun, fenomena perkembangan tersebut tidak bisa memberikan jaminan akan kenaikan net income perusahaan secara terus menerus (mengalami fluktuatif). Oleh karena itu dibutuhkan analisis dan strategi oleh para emiten dalam mencari bentuk pendanaan untuk digunakan sebagai kegiatan dalam mengelola usahanya. Dari latar belakang masalah tersebut akhirnya penulis tertarik untuk melakukan penelitian dengan judul "Analisis Perbandingan Net Income Perusahaan Sebelum dan Sesudah Penerbitan Sukuk Korporasi (Studi Pada Emiten Yang Tergabung Dalam JII Periode 2006-2014)". Rumusan masalah dalam penelitian ini adalah (1) Apakah terdapat perbedaan yang signifikan net income perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang terdaftar di Jakarta Islamic Index, (2) Apakah tingkat net income perusahaan lebih tinggi setelah penerbitan sukuk korporasi pada emiten yang terdaftar di Jakarta Islamic Index. Tujuan penelitian ini adalah mengetahui perbandingan net income sebelum dan sesudah penerbitan sukuk korporasi dan mengetahui tingkat net income yang lebih tinggi setelah penerbitan sukuk.
+Populasi dalam penelitian adalah seluruh emiten yang tergabung dalam jakarta islamic index periode 2006 ­ 2014. Penentuan jumlah sampel menggunakan metode Purposive Sampling, yaitu pemilihan sampel berdasarkan kriteria tertentu, dan diperoleh jumlah sampel sebanyak 8 emiten. Metode pengumpulan data melalui study pustaka dan dokumentasi data sekunder, teknik yang digunakan adalah analis uji beda dengan menggunakan uji Paired-sample T-Test.
+Hasil perhitungan secara simultan diperoleh bahwa tidak terdapat perbedaan net income yang signifikan antara sebelum dan sesudah penerbitan sukuk korporasi. Hasil ini dibuktikan dari nilai t
+v
+
+hitung sebesar -1.350 dengan nilai probabilitas (Sig-t) sebesar 0.219 yang nilainya diatas level signifikan 0,05. Selain itu perbedaan net income dua tahun sebelum penerbitan sukuk korporasi dengan dua tahun sesudah penerbitan sukuk korporasi, menunjukkan adanya perbedaan rata-rata net income sebesar -5.55642E5 dimana net income rata-rata sesudah penerbitan (1.1043E6) tidak lebih baik dibandingkan dengan net income rata-rata sebelum penerbitan (5.4868E5). Dengan kata lain, semua Hipotesis (H1 dan H2) ditolak dan H0 di terima. Kata Kunci: Sukuk, Net income, listing di Jakarta Islamic Index
+vi
+
+PERSEMBAHAN
+Hanya sebuah karya sederhana yang dapat saya persembahkan, hanya seuntai kata yang mampu saya ucapkan kepada:  Allah SWT dan Nabi Muhammad SAW  Almamater saya UIN Walisongo Semarang, para Dosen Fakultas
+Ekonomi dan Bisnis Islam (khususnya dosen yang mengampu mata kuliah di Jurusan Ekonomi Islam)  Pembimbing Saya, Rahman El Junusi, SE.,MM, dan A. Turmudhi, SH.,M. Ag.  Kedua Orang Tua sekaligus orang yang paling berjasa dalam hidup saya (Abah Zaenal Abidin dan Umi Mujaziroh), 2 insan yang sangat saya cintai dan sayangi, semoga kebahagiaan, kesejahteraan dan ketentraman senantiasa berpihak pada kalian. Terima kasih atas curahan kasih sayangmu, pengorbanan besarmu, perhatianmu, keikhlasan cinta dan doa'mu yang tidak pernah berhenti mengalir  Kakak-kakak tercinta saya (Eti Yuliatun, Edy Riyadi dan M. Irfanul Amin), terima kasih atas motivasi, dukungan, pengorbanan serta kasih sayang yang telah diberikan.  Sahabat-sahabat saya tercinta "Ash-habul Kahfi", yang tak berhenti untuk selalu memberi dukungan, semangat dan bantuannya.  Keluarga besar "EIB Angkatan 2011" tersayang, terima kasih atas perhatian dan kehangatan kekeluargaan yang selalu tercurahkan.
+vii
+
+ Keluarga besar "KSPM Walisongo" terkasih, terima kasih atas kontribusi kekeluargaan yang intelektual.
+ Keluarga "Jaisul Islam" KAMMI Angkatan 2011, Wispres Qolbun Salim, BKC Walisongo, terima kasih telah memberi lingkungan yang baik selama penulis menuntut ilmu.
+ Semua pihak yang senantiasa memberikan doa, dukungan serta motivasi sehingga skripsi ini dapat terselesaikan.
+viii
+
+DEKLARASI Dengan penuh kejujuran dan tanggung jawab, penulis menyatakan bahwa skripsi ini tidak berisi materi yang telah ditulis oleh orang lain atau diterbitkan. Demikian juga skripsi ini tidak berisi satupun pikiran-pikiran orang lain, kecuali informasi yang terdapat dalam referensi yang dijadikan bahan rujukan.
+Semarang, 17 Juni 2015 Deklarator
+Evant Andi Aenurohman
+ix
+
+KATA PENGANTAR
+Bismillahirrahmanirrahim
+Alhamdulillahi robbil `alamin, puji syukur penyusun panjatkan atas karunia Allah SWT yang telah memberikan banyak nikmat, hidayah dan karunia-Nya. Dan dengan izin Allah penyusun bisa menyelesaikan skripsi dengan judul "ANALISIS PERBANDINGAN NET INCOME PERUSAHAAN SEBELUM DAN SESUDAH PENERBITAN SUKUK KORPORASI (STUDI PADA EMITEN YANG TERGABUNG DALAM JII PERIODE 2006-2014).
+Shalawat serta salam tetap tercurahkan kepada junjungan kita Nabi besar Muhammad SAW. Sang revolusioner sejati sekaligus pejuang bagi kaum yang tertindas yang telah merubah peradaban kemanusiaan yang lebih maju dan berkemanusiaan.
+Selama pelaksanaan penelitian banyak hambatan dan kesulitan yang dihadapi, namun berkat bantuan dan dorongan serta bimbingan dari berbagai pihak, pada akhirnya skripsi ini dapat diselesaikan. Untuk itu pada kesempatan ini pula dengan segala kerendahan hati penulis mengucapkan terima kasih yang sebesarbesarnya kepada: 1. Prof. Dr. Muhibbin, M.Ag. selaku Rektor UIN Walisongo
+Semarang. 2. Dr. Imam Yahya, M.Ag selaku Dekan Fakultas Ekonomi dan
+Bisnis Islam UIN Walisongo Semarang.
+x
+
+3. H. Nur Fatoni, M. Ag. selaku Kajur Ekonomi Islam dan Ahmad Furqon, LC., MA. selaku Sekjur Ekonomi Islam.
+4. Rahman El Junusi, SE., M.M selaku Dosen Pembimbing I, serta A. Turmudhi, SH.,M. Ag. selaku Dosen Pembimbing II, yang telah bersedia meluangkan waktu, tenaga dan pikiran untuk memberikan pengarahan dan bimbingan dalam menyusun skripsi ini.
+5. Semua Dosen dan Civitas Akademika Fakultas Ekonomi dan Bisnis Islam UIN Walisongo Semarang.
+6. Kedua Orang Tua (Abah Zaenal Abidin dan Umi Mujaziroh), dan seluruh keluarga yang telah memberikan dorongan baik moril maupun materiil, serta do'a dan kasih sayangnya.
+7. Teman-teman seperjuangan, yang setia melangkah bersama dalam suka maupun duka. Terima kasih atas kebaikan dan keikhlasan yang telah
+diberikan. Penulis hanya bisa berdo'a dan berikhtiar karena hanya Allah SWT-lah yang bisa membalas kebaikan untuk semua.
+Akhirnya penulis berharap semoga skripsi ini dapat memberikan kemanfaatan dan menambah khazanah keilmuan, khususnya bagi penulis sendiri dan tentunya bagi para pembaca pada umumnya.
+Semarang, 17 Juni 2015 Penulis
+Evant Andi Aenurohman 112411080
+xi
+
+DAFTAR ISI halaman
+HALAMAN JUDUL ............................................................. i HALAMAN PERSETUJUAN PEMBIMBING ..................... ii HALAMAN PENGESAHAN .............................................. iii HALAMAN MOTTO ............................................................ iv HALAMAN ABSTRAK ....................................................... v HALAMAN PERSEMBAHAN ............................................ vii HALAMAN DEKLARASI ................................................... ix HALAMAN KATA PENGANTAR ...................................... x HALAMAN DAFTAR ISI .................................................... xii HALAMAN TABEL ............................................................ xvi HALAMAN GAMBAR ......................................................... xvii
+BAB I PENDAHULUAN 1.1 Latar Belakang Masalah ................................... 1 1.2 Perumusan Masalah ......................................... 6 1.3 Tujuan dan Manfaat Penelitian ......................... 6 1.4 Sistematika Penulisan ...................................... 7
+BAB II TINJAUAN PUSTAKA 2.1 Pasar Modal ..................................................... 9 2.1.1 Definisi Pasar Modal .............................. 9 2.1.2 Pasar Modal Syariah .............................. 13 2.2 Sukuk ................................................................ 20 2.2.1 Pengertian Sukuk.................................... 20
+xii
+
+2.2.2 Karakteristik Sukuk ................................ 23 2.2.3 Jenis Sukuk ............................................ 28 2.2.4 Struktur Sukuk........................................ 31 2.2.5 Struktur Penerbitan Sukuk ...................... 39 2.2.6 Pihak-pihak yang terlibat dalam
+penerbitan Sukuk................................... 50 2.2.7 Sukuk Sebagai Sumber Pendanaan Bagi
+Perusahaan ............................................ 53 2.3 Net Income ........................................................ 55
+2.3.1 Pengertian Laba ...................................... 55 2.3.2 Net Income.............................................. 56 2.3.3 Tujuan Pelaporan Net Income ................. 57 2.3.4 Batas Maksimum Keuntungan ................ 57 2.3.5 Ketetapan Majelis Ulama Fiqh Mengenai
+Standarisasi Harga................................. 60 2.3.6 Syarat Keuntungan dan Kode Etik Pembagian
+Hasil Keuntungan .................................. 62 2.4 Penelitian Terdahulu ........................................ 64 2.5 Kerangka Pikir .................................................. 68 2.6 Hipotesis Penelitian........................................... 68
+BAB III METODE PENELITIAN 3.1 Jenis dan Sumber Data ..................................... 69 3.1.1 Jenis Penelitian ....................................... 69 3.1.2 Jenis Data .............................................. 70 3.1.3 Sumber Data .......................................... 71
+xiii
+
+3.2 Populasi dan Sampel ........................................ 72 3.2.1 Populasi ................................................. 72 3.2.2 Sampel ................................................... 73 3.2.3 Metode Pengambilan Sampel ................ 74
+3.3 Teknik Pengumpulan Data ............................... 75 3.4 Teknik Analisis Data ........................................ 76
+3.4.1 Analisis Deskriptif ................................. 76 3.4.2 Analisis dan Uji Hipotesis Penelitian ..... 77 3.4.2.1 Uji Normalitas .................................... 79 3.4.2.1 Uji Paired Sample T-test ..................... 79 3.5 Definisi Operasional Variabel ........................... 81 3.5.1 Obligasi Syariah (Sukuk) ....................... 81 3.5.2 Net Income ............................................. 82
+BAB IV ANALISIS DATA DAN PEMBAHASAN 74 4.1 Gambaran Umum Penelitian dan Data Deskriptif 83 4.1.1 Jakarta Islamic Index (JII) ..................... 83 4.1.2 Gambaran Umum Perusahaan Emiten ... 85 4.2 Deskripsi Variabel Penelitian ............................ 106 4.2.1 Deskripsi Sukuk Korporasi ..................... 106 4.2.2 Net Income.............................................. 107 4.3 Hasil Analisis dan Uji Hipotesis ....................... 109 4.3.1 Uji Normalitas ....................................... 110 4.3.1 Analisis Statistik ..................................... 111 4.3.2 Pengujian Hipotesis Pertama .................. 112 4.3.3 Pengujian Hipotesis Kedua..................... 115 xiv
+
+4.4 Pembahasan ...................................................... 117 4.4.1 Perbandingan Net income sebelum dan sesudah penerbitan sukuk korporasi ..... 117 4.4.2 Tingkat Net Income pada perusahaan yang menerbitkan sukuk korporasi ................ 120
+BAB V PENUTUP 5.1 Kesimpulan ...................................................... 121 5.2 Saran ................................................................ 123 5.3 Penutup ............................................................ 124
+DAFTAR PUSTAKA DAFTAR LAMPIRAN DAFTAR RIWAYAT HIDUP
+xv
+
+DAFTAR TABEL
+
+Tabel 2.1
+Tabel 4.1 Tabel 4.2 Tabel 4.3
+Tabel 4.4 Tabel 4.5
+Tabel 4.6 Tabel 4.7
+
+halaman Perbandingan Obligasi Syariah (Sukuk) dengan Obligasi Konvensional ....................................... 25
+Tahun Penerbitan Sukuk Korporasi .................. 105
+Tanggal Pencatatan Sukuk Korporasi ............... 107
+Net Income perusahaan yang menerbitkan sukuk korporasi ........................................................... 107
+Hasil Uji Normalitas ......................................... 110
+Rata-rata Net Income Sebelum dan Sesudah Penerbitan Sukuk ................................................................ 112
+Hasil Uji Paired Sample T-Test ........................ 113
+Hasil Analisis Deskriptif Rata-rata Net Income Sebelum dan Sesudah penerbitan sukuk ............ 115
+
+xvi
+
+DAFTAR GAMBAR halaman
+Gambar 1.1 Perkembangan Penerbitan Sukuk Korporasi ...... 4 Gambar 2.1 Struktur Sukuk Mudharabah ............................ 35 Gambar 2.2 Struktur Sukuk Ijarah......................................... 38 Gambar 2.3 Struktur Ijarah Transfer Kepemilikan Aset ....... 44 Gambar 2.4 Struktur Ijarah Transfer Manfaat Aset .............. 46 Gambar 2.5 Struktur Ijarah Transfer Manfaat Aset dengan
+Sublease ............................................................ 48 Gambar 2.6 Kerangka Pemikiran Teoritis ............................. 68
+xvii
+
+BAB I PENDAHULUAN
+1.1 Latar Belakang Dewasa ini perkembangan infrastruktur pasar modal
+global mengalami kemajuan yang cukup pesat. Pasar modal menjadi penghubung antara pihak yang memiliki kelebihan dana atau investor dengan pihak-pihak yang membutuhkan dana atau perusahaan dengan cara penawaran umum (go public), setiap hari terjadi transaksi milyaran melalui institusi ini. Perkembangan tersebut menunjukkan bahwa pasar modal semakin dibutuhkan oleh masyarakat terutama kalangan industri sebagai media alternatif penghimpun dana.1 Secara faktual, pasar modal telah menjadi financial nerve centre (saraf finansial dunia) ekonomi modern, bahkan perekonomian modern tidak akan mungkin eksis tanpa adanya pasar modal yang tangguh dan berdaya saing global serta terorganisir dengan baik. Peran dan fungsi pasar modal inilah yang menjadi faktor mengapa keberadaan pasar modal menjadi begitu penting.
+Di Indonesia Pasar modal merupakan salah satu tonggak penting dalam perkembangan perekonomianya, terbukti banyak industri dan perusahaan yang menggunakan
+1 Erry Firmansyah, Metamorfosa Bursa Efek, Penerbit Bursa Efek Indonesia, Jakarta, 2010, h.78.
+1
+
+2
+institusi ini sebagai media untuk menyerap investasi dan memperkuat posisi keuanganya. Instrumen-instrumen keuangan seperti saham, obligasi, rights issue, reksadana, serta derivatif lainnya diperdagangkan di pasar ini. Dengan adanya pasar modal perusahan-perusahaan yang terdaftar di Bursa Efek Indonesia (BEI) akan memperoleh banyak manfaat, diantaranya ketergantungan emiten terhadap bank menjadi berkurang. Pendanaan dari pasar modal dinilai lebih efektif, efisien, dan ekonomis jika dibandingkan dengan pendanaan yang bersumber dari perbankan atau lembaga keuangan lainnya. Tidak sedikit perusahaan yang mengeluhkan regulasi pinjaman dari perbankan yang cukup rumit, harus memiliki jaminan utang, pembayaran bunga pinjaman yang relatif tinggi, dan kapasitas pinjaman utang relatif kecil. Sedangkan melalui pasar modal jumlah dana yang diterima dari publik cukup besar, dan resiko finansial yang relatif ringan.
+Seiring dengan perkembangan zaman dan semakin diakuinya konsep keuangan berbasis syariah islam di dunia internasional seperti salah satu bentuk instrumen keuangan syariah yang banyak diterbitkan baik korporasi mapun negara adalah sukuk. Di beberapa negara, sukuk telah menjadi instrumen pembiayaan anggaran negara yang penting. Penerbitan pertama sukuk dengan mata uang dollar senilai $600 juta telah ditawarkan oleh Malaysia pada tahun 2002.
+
+3
+Diikuti dengan peluncuran $400 juta Trust Sukuk dari Islamic Development Bank pada bulan September 2003.2
+Pada saat ini, beberapa negara telah menjadi regular issuer dari sukuk, misalnya Malaysia, Bahrain, Brunei Darussalam, Uni Emirate Arab, Qatar, Pakistan, dan State of Saxony Anhalt ­ Jerman. Penerbitan sovereign sukuk biasanya ditunjukan untuk keperluan pembiayaan negara secara umum (general funding) atau untuk pembiayaan proyek-proyek tertentu, misalnya pembangunan bendungan, unit pembangkit listrik, pelabuhan, bandar udara, rumah sakit dan jalan tol. Selain itu, sukuk juga dapat digunakan untuk keperluan pembiayaan cash-mismatch, yaitu dengan menggunakan sukuk dengan jangka waktu pendek (Islamic Treasury Bills) yang juga dapat digunakan sebagai instrumen pasar uang.3
+Didalam negeri sendiri, pasar keuangan syariah, termasuk pasar sukuk juga tumbuh secara cepat, meskipun proporsinya dibanding pasar konvensional masih relatif sangat kecil. Untuk keperluan pengembangan basis sumber pembiayaan anggaran negara dan dalam rangka pengembangan pasar keuangan syariah dalam negeri.4
+2 Nurul Huda dan Mustafa Edwin Nasution, Investasi Pada Pasar Modal Syariah, Jakarta: Kencana, 2008, Cet. Ke-2, h. 136
+3 Heri Sudarsono, Bank dan Lembaga Keuangan Syariah Deskripsi dan Ilustrasi, Yogyakarta: Ekonisia, 2008, Cet. Ke-1, h. 305
+4 Direktorat Kebijakan Pembiayaan syariah Direktorat Jendral Pengelolaan utang departemen keuangan, Mengenal Sukuk Instrumen
+
+4 Gambar 1.1
+Perkembangan Penerbitan Sukuk Korporasi
+Sumber: OJK - Statistik Sukuk Melihat hal tersebut, tentu saja bukan hanya mencerminkan penerimaan dan pengakuan dari para investor yang memburu produk-produk syariah, tetapi sukuk juga telah diterima sebagai instrumen investasi syariah yang mampu mengembangkan pasar modal syariah dan memberikan kontribusi positif bagi Negara yang menerbitkan.5
+Investasi dan Pembiayaan Berbasis Syariah, Artikel diakses pada 13 mei 2015 dari www.dmo.or.id/dmodata/sukuk
+5 Sudarsono, Bank..., h. 313
+
+5
+Dengan adanya berbagai kemudahan di pasar modal, banyak perusahaan-perusahaan yang terdaftar di pasar modal berusaha memaksimalkan perolehan dana dari para investor sebagai upaya pengembangan usaha. Perusahaan dalam mencapai tujuan yang diinginkan membutuhkan sumber pembiayaan yang dapat diperoleh melalui pembiayaan internal dan pembiayaan eksternal. Keputusan pendanaan perusahaan akan berpengaruh terhadap kondisi struktur modal perusahaan yang merupakan bauran sumber pendanaan permanen. Pemilihan jenis pendanaan mempunyai pengaruh yang besar dalam pengambilan keputusan investasi perusahaan, dimana pada setiap sumber pendanaan ada biaya yang harus ditanggung.6 Biaya ini menjadi pertimbangan atas tingkat pengembalian yang diharapkan dari kegiatan investasi termasuk risiko dari investasi.
+Penerbitan surat berharga berupa sukuk ini akan mempengaruhi net income perusahaan yang tercermin dari laba usahanya. Sukuk merupakan suatu surat berharga jangka panjang berdasarkan prinsip syariah yang dikeluarkan emiten kepada pemegang sukuk yang mewajibkan emiten membayar pendapatan kepada pemegang sukuk berupa bagi hasil/ fee serta membayar kembali dana obligasi pada saat jatuh tempo.7
+6 Suad Husnan, Dasar-dasar Teori Portofolio dan Analisis Sekuritas, Yogyakarta: UPP AMP YKPN, h.428
+7 DSN-MUI, Obligasi Syariah Mudharabah, Fatwa Dewan Syariah Nasional Nomor: 33/DSN-MUI/IX/2002, h.4
+
+6
+Disisi lain sukuk berbeda dengan saham karena secara umum harus memberikan bagi hasil/ kupon dalam jumlah tertentu kepada investor secara berskala. Perusahaan diuntungkan jika kupon yang harus dibayar nilainya rendah atau bahkan lebih rendah dari suku bunga kredit bank sebagai substitusi sumber pembiayaan.
+Uraian di atas menunjukan pentingnya pemilihan jenis kegiatan investasi sebagai suatu strategi perusahaan dalam menjaring dana segarnya yang dilakukan dapat memberikakn keuntungan kedepanya. Hal inilah yang membuat penulis ingin mengulas serta mengangkat permasalah tersebut. Oleh karena itu penulis hendak mengulas dalam penelitian ini dengan judul "ANALISIS PERBANDINGAN NET INCOME PERUSAHAAN SEBELUM DAN SESUDAH PENERBITAN SUKUK KORPORASI (Studi Pada Emiten Yang Tergabung Dalam JII Periode 2006-2014)"
+1.2 Rumusan Masalah Dari latar belakang di atas, maka penulis merumuskan
+masalah yang akan diteliti adalah sebagai berikut: a. Apakah terdapat perbedaan yang signifikan net income
+perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang terdaftar di Jakarta Islamic Index?
+
+7
+b. Apakah tingkat net income perusahaan lebih tinggi setelah penerbitan sukuk korporasi pada emiten yang terdaftar di Jakarta Islamic Index?
+1.3 Tujuan dan Manfaat Penelitian 1.3.1 Tujuan Penelitian 1. Untuk mengetahui perbedaan net income perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang terdaftar di Jakarta Islamic Index. 2. Untuk mengetahui tingkat net income perusahaan yang lebih tinggi setelah penerbitan sukuk korporasi pada emiten yang terdaftar di Jakarta Islamic Index. 1.3.2 Manfaat Penelitian Penelitian ini diharapkan dapat memberikan manfaat bagi beberapa pihak, di antaranya: a. Bagi Akademik Memberikan manfaat secara teoritis dan aplikatif terhadap pengembangan ilmu ekonomi Islam khususnya di bidang investasi yang sesuai prinsip syariah. b. Bagi Emiten Penelitian ini diharapkan dapat menjadi salah satu acuan agar tetap mempertahankan dan menjalankan reputasi bisnis secara syariah.
+
+8
+c. Bagi Penelitian Selanjutnya Penelitian ini dapat dijadikan kerangka dalam melakukan penelitian selanjutnya terutama yang berkaitan dengan sukuk dan pasar modal syariah.
+1.4 Sistematika Penulisan Adapun sistematika penulisan dalam penelitian ini
+adalah sebagai berikut: BAB I Pendahuluan. Terdiri dari Latar belakang,
+Perumusan Masalah, Tujuan dan Manfaat Penelitian. BAB II Tinjauan Pustaka. Terdiri dari kerangka teori pendukung yang terdiri atas teori yang berkaitan dengan Pasar Modal, Sukuk, Net Income, Penelitian Terdahulu, Kerangka Pikir dan Hipotesis Penelitian. BAB III Metode Penelitian. Terdiri dari Jenis dan Sumber Data Penelitian, Populasi dan Sampel, Teknik Pengumpulan Data, Teknik Analisis Data, serta Definisi Operasional Variabel Penelitian BAB IV Analisis Data dan Pembahasan untuk menguraikan deskripsi objek penelitian, analisis kuantitatif, interpretasi hasil dan argumentasi terhadap hasil penelitian. BAB V Kesimpulan dan Saran. Terdiri dari Kesimpulan dan Saran dalam penelitian ini.
+
+BAB II TINJAUAN PUSTAKA 2.1 Pasar Modal 2.1.1 Definisi Pasar Modal
+Dalam Undang-Undang Pasar Modal No. 8 tahun 1995 Pasal 1 angka 13 mendefinisikan Pasar Modal secara umum sebagai kegiatan yang bersangkutan dengan Penawaran Umum dan perdagangan Efek, Perusahaan Publik yang berkaitan dengan Efek yang diterbitkannya, serta lembaga dan profesi yang berkaitan dengan Efek.1 Dengan demikian, pasar modal adalah sebuah tempat memperdagangklan efek yang diterbitkan oleh perusahaan publik yang melibatkan lembaga dan profesi yang terkait dengan efek. Karena pasar modal adalah tempat memperdagangkan efek maka pasar modal disebut juga dengan Bursa Efek.2
+Pengertian efek dalam Pasar Modal Indonesia pengaturannya dapat ditemukan dalam Pasal 1 angka 5 Undang-Undang Pasar Modal bahwa Efek adalah surat berharga, yaitu surat pengakuan utang, surat berharga komersial, saham , obligasi, tanda bukti
+1 Undang-Undang Republik Indonesia Nomor 8 Tahun 1995 tentang Pasar Modal, Jakarta: BAPEPAM-LK, h.2
+2 Tavinayati Yulia Qamariyanti, Hukum Pasar Modal di Indonesia, Jakarta: Sinar Grafika, 2009, h.2
+9
+
+10
+utang, Unit Penyertaan kontrak investasi kolektif, kontrak berjangka atas efek, dan setiap derivatif dari efek. Sedangkan efek bersifat ekuitas adalah efek yang memberikan hak dalam bentuk ekuiti, atau penyertaan modal kepada pemegang efeknya.3
+Pasar modal memiliki peran penting bagi perekonomian suatu negara karena pasar modal menjalankan dua fungsi, yaitu pertama sebagai sarana dalam pendanaan usaha atau sebagai sarana bagi perusahaan untuk mendapatkan dana dari masyarakat pemodal (investor). Dana yang diperoleh dari pasar modal dapat digunakan untuk pengembangan usaha, ekspansi, penambahan modal kerja dan lain-lain. Kedua, pasar modal menjadi sarana bagi masyarakat untuk berinvestasi pada instrument keuangan seperti saham, obligasi, reksa dana, dan lain-lain. Dengan demikian, masyarakat dapat menempatkan dana yang dimilikinya sesuai dengan karakteristik keuntungan dan risiko masing-masing instrumen.
+Secara umum, pasar modal mempunyai peran penting bagi perkembangan ekonomi suatu negara karena pasar modal dapat berfungsi sebagai:4
+3 Gunawan Wijaya, Efek Sebagai Benda, Jakarta: PT Raja Grafindo Persada, 2005, h. 23
+4 Qamariyanti, Hukum..., h.7
+
+11
+
+a. Sarana untuk menghimpun dana-dana masyarakat
+
+untuk disalurkan ke dalam kegiatan-kegiatan
+
+produktif;
+
+b. Sumber pembiayaan yang mudah, murah dan
+
+cepat bagi dunia usaha dan pembangunan
+
+nasional;
+
+c. Mendorong terciptanya kesempatan berusaha dan
+
+sekaligus menciptakan kesempatan kerja;
+
+d. Mempertinggi efisiensi alokasi sumber produksi;
+
+e. Memperkokoh beroperasinya
+
+mechanism
+
+financial market dalam menata sistem moneter,
+
+karena pasar modal dapat menjadi sarana open
+
+market operation sewaktu-waktu diperlukan oleh
+
+Bank Sentral;
+
+f. Menekan tingginya bunga menuju suatu rate
+
+yang reasonable;
+
+g. Sebagai alternatif investasi bagi para pemodal.
+
+Adapun manfaat pasar modal secara umum pada suatu negara adalah sebagai berikut:5
+
+a. Menyediakan sumber pendanaan atau
+
+pembiayaan (jangka panjang) bagi dunia usaha
+
+sekaligus memungkinkan alokasi sumber dana
+
+secara optimal.
+
+5 Tjiptono Darmadji, Pasar Modal di Indonesia- Pendekatan Tanya Jawab, Jakarta: Penerbit Salemba Empat, 2006, h. 3
+
+12
+b. Memberikan wahana investasi bagi investor sekaligus memungkinkan upaya diversifikasi.
+c. Menyediakan indikator utama (leading indicator) bagi tren ekonomi negara.
+d. Memungkinkan penyebaran kepemilikan perusahaan sampai lapisan masayarakat menengah.
+e. Menciptakan lapangan kerja/profesi yang menarik.
+f. Memberikan kesempatan memiliki perusahaan yang sehat dengan prospek yang baik.
+g. Alternatif investasi yang memberikan potensi keuntungan dengan risiko yang bisa diperhitungkan melalui keterbukaan, likuiditas, dan diversifikasi investasi.
+h. Membina iklim keterbukaan bagi dunia usaha dan memberikan akses kontrol sosial.
+i. Mendorong pengelolaan perusahaan dengan iklim keterbukaan, pemanfaatan manajemen profesional dan penciptaan iklim berusaha yang sehat.
+
+13
+
+2.1.2
+
+Adapun beberapa faktor yang mempengaruhi keberhasilan pasar modal syariah antara lain adalah:6
+a. Supply sekuritas, yaitu harus banyak perusahaan yang bersedia menerbitkan sekuritas di pasar modal.
+b. Demand akan sekuritas, bahwa harus terdapat anggota masyarakat yang memiliki jumlah dana yang cukup besar untuk dipergunakan membeli sekuritas-sekuritas yang ditawarkan.
+c. Kondisi politik dan ekonomi, yang akhirnya akan mempengaruhi supply dan demand akan sekuritas.
+d. Hukum dan peraturan. e. Keberadaan lembaga yang mengatur dan
+mengawasi kegiatan pasar modal dan berbagai lembaga yang memungkinkan dilakukan transaksi secara efisien. Pasar Modal Syariah
+Pasar modal syariah secara sederhana dapat diartikan sebagai pasar modal yang menerapkan prinsip-prinsip syariah dalam kegiatan transaksi
+
+6 Suad Husnan, Dasar..., h. 8-9
+
+14
+ekonomi dan terlepas dari hal-hal yang dilarang seperti: riba, perjudian, spekulasi dan lain-lain.7
+Berkembangnya pasar modal berbasis syariah di Indonesia dimulai pada tahun 1997, yakni dengan diluncurkannya Danareksa Syariah pada 3 Juli 1997 oleh PT. Danareksa Investment Management. Selanjutnya Bursa Efek Indonesia bekerjasama dengan PT. Danareksa Investment Management meluncurkan Jakarta Islamic Index (JII) pada tanggal 3 Juli 2000 yang bertujuan untuk memandu investor yang ingin menanamkan dananya secara syariah dan Indeks Saham Syariah Indonesia (ISSI) pada tanggal 12 Mei 2011. Dengan hadirnya indeks tersebut, maka para pemodal telah disediakan saham-saham yang dapat dijadikan sarana berinvestasi dengan penerapan prinsip syariah.
+Pasar modal syariah adalah pasar modal yang seluruh mekanisme kegiatannya terutama mengenai emiten, jenis efek yang diperdagangkan dan mekanisme perdagangannya telah sesuai dengan prinsip-prinsip syariah. Sedangkan yang dimaksud dengan efek syariah adalah efek sebagaimana dimaksud dalam peraturan-perundang-undangan di bidang Pasar Modal yang akad, pengelolaan
+7 Darmadji, Pasar..., h. 231
+
+15
+perusahaan maupun cara penerbitannya memenuhi prinsip-prinsip syariah.8
+Adapun yang dimaksud sebagai efek-efek syariah menurut Fatwa DSN MUI No.40/DSNMUI/X/2003 tentang Pasar Modal dan Pedoman Umum Penerapan Prinsip Syariah di Bidang Pasar Modal mencakup Saham Syariah, Reksadana Syariah, Kontrak Investasi Kolektif Efek Beragunan Aset Syariah, dan surat berharga lainnya yang sesuai dengan prinsip-prinsip syariah. Belakangan, instrumen keuangan syariah bertambah dengan adanya fatwa DSN-MUI Nomor: 65/DSNMUI/III/2008 tentang Hak Memesan Efek Terlebih Dahulu (HMETD) Syariah, fatwa DSN-MUI Nomor: 66/DSN-MUI/III/2008 tentang Waran Syariah pada tanggal 6 Maret 2008, fatwa DSN-MUI Nomor: 69/DSN-MUI/VI/2008 tentang Surat Berharga Syariah Negara.
+Adapun dasar diperbolehkannya transaksi jual-beli efek adalah Fatwa Dewan Syariah Nasional Majelis Ulama Indonesia (DSN-MUI) No. 80/DSNMUI/VI 2011 tentang Penerapan Prinsip Syariah dalam Mekanisme Perdagangkan Efek Bersifat
+8 Andri Soemitra, Bank dan Lembaga Keuangan Syariah, Jakarta: PT. Kencana Prenada Media Group, 2009, h. 113
+
+16 Ekuitas di Pasar Reguler Bursa Efek. Adapun isi utama fatwa mekanisme syariah perdagangan saham adalah9: a. Perdagangan Efek di Pasar Reguler Bursa Efek menggunakan akad jual beli (bai'). b. Efek yang ditransaksikan adalah efek yang bersifat ekuitas yang sesuai dengan prinsip syariah (terdapat dalam Daftar Efek Syariah) c. Pembeli boleh menjual Efek setelah transaksi terjadi, meskipun settlemen nya di kemudian hari (T+3) berdasarkan prinsip qabdh hukmi d. Mekanisme tawar menawar yang berkesinambungan menggunakan akad bai' almusawamah. Harga yang wajar dan disepakati akan menjadi harga yang sah. Hal ini sesuai dengan firman Allah dalam Surat An-Nisa ayat 29:
+                                             
+        
+9 PT Bursa Efek Indonesia, Sekolah Pasar Modal Syariah, 2011, h. 4
+
+17
+Artinya: "Hai orang-orang yang beriman, janganlah kamu saling memakan harta sesamamu dengan jalan yang batil, kecuali dengan jalan perniagaan yang berlaku dengan suka samasuka di antara kamu. dan janganlah kamu membunuh dirimu. Sesungguhnya Allah adalah Maha Penyayang kepadamu.(Q.S An-Nisa ayat 4)".10
+Ayat di atas menunjukkan perintah Allah kepada hamba-hamba-Nya yang beriman untuk beraktifitas bisnis dengan jalan yang halal, baik dan atas dasar suka sama suka. Transaksi akan sah jika antar kedua belah pihak suka sama suka (saling ridha) untuk melaksanakan transaksi tersebut. Tentunya yang perlu digaris bawahi adalah transaksi tersebut harus transaksi yang dibolehkan (dihalalkan) oleh syariat Islam bukan transaksi yang dilarang. e. SRO dapat mengenakan biaya (ujrah) untuk setiap jasa yang diberikan dalam menyelenggarakan perdagangan Efek bersifat Ekuitas.
+10 Departemen Agama RI, Al Quran dan Terjemahnya, Jakarta: CV. Pustaka Agung Harapan, 2006, h. 100
+
+18
+f. Tidak melakukan tindakan yang tidak sesuai dengan prinsip syariah dalam bertransaksi. Adapun fatwa-fatwa DSN-MUI secara
+lengkap yang terkait investasi syariah di pasar modal adalah:
+1. Fatwa No.20/DSN-MUI/IV/2001 tentang Pedoman Pelaksanaan Investasi Untuk Reksadana Syariah
+2. Fatwa No.32/DSN-MUI/IX/2002 tentang Obligasi Syariah.
+3. Fatwa No.33/DSN-MUI/IX/2002 tentang Obligasi Syariah Mudharabah.
+4. Fatwa No.40/DSN-MUI/X/2003 tentang Pasar Modal dan Pedoman Umum Penerapan Prinsip Syariah di Bidang Pasar Modal.
+5. Fatwa No.41/DSN-MUI/III/2004 tentang Obligasi Syariah Ijarah.
+6. Fatwa No.59/DSN-MUI/IV/2007 tentang Obligasi Syariah Mudharabah konversi
+7. Fatwa No.65/DSN-MUI/III/2008 tentang Hak Memesan Efek Terlebih Dahulu Syariah (HMETD Syariah)
+8. Fatwa No.66/DSN-MUI/III/2008 tentang Waran Syariah
+
+19
+9. Fatwa No.69/DSN-MUI/VI/2008 tentang Surat Berharga Syariah Negara (SBSN).
+10. Fatwa No.70/DSN-MUI/VI/2008 tentang Metode Penerbitan Surat Berharga Syariah Negara.
+11. Fatwa No.71/DSN-MUI/VI/2008 tentang Sale and Lease Back
+12. Fatwa No.72/DSN-MUI/VI/2008 tentang Surat Berharga Syariah Negara Ijarah Sale and Lease Back.
+13. Fatwa No.76/DSN-MUI/VI/2010 tentang SBSN Ijarah Asset To Be Leased
+14. Fatwa No.80/DSN-MUI/VI/2011 tentang Penerapan Prinsip Syariah dalam Mekanisme Perdagangan Efek Bersifat Ekuitas di Pasar Reguler Bursa Efek. Perkembangan produk syariah di pasar modal
+Indonesia dalam beberapa tahun terakhir memang cukup menggembirakan. Namun, pengembangan produk syariah tersebut juga mengalami beberapa hambatan. Berdasarkan hasil studi tentang investasi syariah di Indonesia oleh Tim Studi tentang investasi syariah di Indonesia BAPEPAM-LK menunjukkan terdapat beberapa hambatan dalam pengembangan
+
+20
+pasar modal berbasis syariah di Indonesia,11 di antaranya adalah sebagai berikut: a. Tingkat pengetahuan dan pemahaman tentang
+pasar modal syariah. b. Ketersediaan informasi tentang pasar modal
+syariah. c. Minat pemodal atas efek syariah d. Kerangka peraturan tentang penerbitan efek
+syariah. e. Pola pengawasan (dari sisi syariah) oleh lembaga
+terkait. f. Pra-proses (persiapan) penerbitan efek syariah. g. Kelembagaan atau Institusi yang mengatur dan
+mengawasi pasar modal syariah di Inonesia. 2.2 Sukuk
+2.2.1 Pengertian Sukuk Sukuk berasal dari bahasa arab "sak"
+(tunggal) dan "sukuk" (jamak) yang memiliki arti mirip dengan sertifikat atau note. Dalam pemahaman praktisnya, sukuk merupakan bukti (claim) kepemilikan.12 Sebuah sukuk mewakili kepentingan baik penuh maupun proporsional dalam sebuah atau
+11 Sunariyah, Pengantar Pengetahuan Pasar Modal, Yogyakarta: STIE YKPN, 2011, Edisi Keenam, h. 293-294
+12 Adrian Sutedi, Pasar Modal Syariah, Jakarta: Sinar Grafika: 2011, h.110
+
+21
+sekumpulan aset. Berbeda dengan obligasi konvensional selama ini, yakni obligasi yang bersifat utang dengan kewajiban membayar berdasarkan bunga.
+Dalam Shari'a Standart No.17 tentang Investment sukuk, Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI)13 mendefinisikan sukuk sebagai berikut: "Investment sukuk are certificates of equal value representing undivided share in ownership of tangible asset, usufructs and services, or (in the ownership of) the assets of particular project or special investment activity, however, this is true after receipt of the value of the sukuk, the closing of subscription and the employment of funds received for the purpose for which the sukuk were issued". (sukuk merupakan sertifikat bernilai sama yang mewakili bagian tak terpisahkan dalam kepemilikan suatu aset berwujud, manfaat atau jasa, atau kepemilikan dari aset suatu proyek atau aktivitas investasi tertentu, yang terjadi setelah adanya penerimaan dana sukuk, penutupan
+13 AAOIFI adalah suatu lembaga akuntansi dan auditing keuangan Islam Dunia yang tugasnya memfokuskan pada upaya modifikasi dan pengkajian standar-standar keuangan dan perbankan syariah
+
+22
+pemesanan dan dana yang diterima dimanfaatkan sesuai dengan tujuan penerbitan sukuk).
+Sementara itu, definisi sukuk menurut Peraturan Bapepam dan LK Nomor IX.A.13 tentang Penerbitan Efek Syariah memberikan definisi Sukuk sebagai berikut : "Sukuk merupakan efek Syariah berupa sertifikat atau bukti kepemilikan yang bernilai sama dan mewakili bagian yang tidak tertentu yang tidak terpisahkan atau tidak terbagi atas: 1) Kepemilikan aset berwujud tertentu. 2) Nilai manfaat dan jasa atas aset proyek tertentu
+atau aktivitas investasi tertentu; 3) Kepemilikan atas aset proyek tertentu atau
+aktivitas investasi tertentu.14 Adapun Dewan Syariah Nasional (DSN)
+Majelis Ulama Indonesia (MUI) belum menggunakan istilah sukuk dan masih menggunakan istilah obligasi syariah. Dalam fatwa No. 32/DSN-MUI/IX/2002 tentang Obligasi Syariah DSN-MUI mendefinisikan obligasi syariah sebagai: "... suatu surat berharga jangka panjang berdasarkan prinsip syariah yang dikeluarkan Emiten kepada pemegang Obligasi Syariah yang mewajibkan Emiten untuk membayar
+14 Departemen Keuangan RI Bapepam-LK Nomor IX.A.13 tentang Penerbitan Efek Syariah
+
+23
+
+2.2.2
+
+pendapatan kepada pemegang Obligasi Syariah berupa bagi hasil/ margin/ fee serta membayar kembali dana obligasi pada saat jatuh tempo".15 Karakteristik Sukuk
+Keunggulan sukuk terletak pada strukturnya yang berdasarkan aset nyata.16 Hal ini memperkecil kemungkinan terjadinya fasilitas pendanaan yang melebihi nilai dari aset yang mendasari transaksi sukuk. Pemegang sukuk berhak atas bagian pendapatan yang dihasilkan dari aset sukuk di samping hak dari penjualan aset sukuk. Ciri khas lain sukuk adalah, jika sertifikat tersebut mencerminkan kewajiban kepada pemegangnya, maka sertifikat tersebut tidak dapat diperjualbelikan pada pasar sekunder sehingga menjadi instrumen jangka panjang yang dimiliki hingga jatuh tempo atau dijual pada nilai nominal.
+Sukuk atau obigasi syariah ini mempunyai beberapa karakteristik. Pertama, obligasi syariah menekankan pendapatan investasi bukan berdasarkan kepada tingkat bunga (kupon) yang telah ditentukan sebelumnya. Tingkat pendapatan dalam obligasi
+
+15 Fatwa Dewan Syariah Nasional No. 32/DSN-MUI/IX/2002
+tentang Obligasi Syariah 16 Departemen Keuangan RI
+
+24
+syariah berdasar kepada tingkat rasio bagi hasil (nisbah) yang besarnya telah disepakati oleh pihak emiten dan investor. Kedua, dalam sistem pengawasannya selain diawasi oleh pihak wali amanat maka mekanisme obligasi syariah juga diawasi oleh Dewan Pengawas Syariah (di bawah Majelis Ulama Indonesia) sejak dari penerbitan obligasi sampai akhir dari masa penerbitan obligasi tersebut. Dengan adanya sistem ini maka prinsip kehati-hatian dan perlindungan kepada investor obligasi syariah diharapkan bisa lebih terjamin. Ketiga, jenis industri yang dikelola oleh emiten serta hasil pendapatan perusahaan penerbit obligasi harus terhindar dari unsur non halal.
+Sukuk pada prinsipnya mirip seperti obligasi konvensional dengan perbedaan pokok antara lain berupa penggunaan konsep imbalan dan bagi hasil sebagai pengganti bunga, adanya suatu transaksi pendukung (underlying transaction) berupa jumlah tertentu aset yang menjadi dasar penerbitan sukuk dan adanya akad atau perjanjian antara para pihak yang disusun berdasarkan prinsip-prinsip syariah. Selain itu, sukuk juga harus distruktur secara syariah agar instrumen keuangan ini aman dan terbebas dari riba, gharar, dan masyir.
+
+25
+
+Tabel 2.1
+
+Perbandingan Obligasi Syariah (Sukuk)
+
+dengan Obligasi Konvensional
+
+Deskripsi Obligasi Syariah
+
+Obligasi
+
+Konvensional
+
+Sifat
+
+Sertifikat
+
+Instrumen
+
+Instrumen
+
+kepemilikan/
+
+pengakuan
+
+penyertaan atas
+
+utang
+
+suatu
+
+aset
+
+Nilai Buku
+
+Minimum 51%
+
+Secara umum
+
+Aset
+
+aset berwujud
+
+tidak
+
+(tangiable asset) mensyaratkan
+
+Tuntutan
+
+Pemilik menuntut Kreditor
+
+(claim)
+
+atas aset/ proyek/ menuntut atas
+
+jasa yang
+
+peminjaman
+
+dijaminkan dan hutang
+
+lain-lain.
+
+Penghasilan Imbalan (fee), bagi Bunga kupon,
+
+hasil, Margin
+
+capital
+
+gain
+
+Underlying Perlu
+
+Tidak perlu
+
+Asset
+
+Investor
+
+Islami,
+
+Konvensional
+
+Konvensional
+
+Penggunaan Harus sesuai
+
+Bebas
+
+dana hasil
+
+syariah
+
+Penerbitan
+
+Sumber: Direktorat Kebijakan Pembiayaan Syariah
+
+Tidak semua emiten dapat menerbitkan obligasi syariah. Untuk menerbitkan obligasi Syariah, beberapa persyaratan berikut harus dipenuhi:17
+
+17 Sutedi, Pasar..., h.111
+
+26
+
+a. Aktivitas utama (core business) yang halal, tidak
+
+bertentangan dengan substansi Fatwa No.
+
+20/DSN-MUI/IV/2001.
+
+Fatwa
+
+tersebut
+
+menjelaskan bahwa jenis kegiatan usaha yang
+
+bertentangan dengan syariah islam diantaranya:
+
+(i) usaha perjudian dan permainan yang tergolong
+
+judi atau perdagangan yang dilarang; (ii) usaha
+
+lembaga keuangan konvensional (ribawi),
+
+termasuk perbankan dan asuransi konvensional;
+
+(iii) usaha yang memproduksi, mendistribusi,
+
+serta memperdagangkan makanan dan minuman
+
+haram; (iv) usaha yang memproduksi,
+
+mendistribusi, dan atau menyediakan barang-
+
+barang ataupun jasa merusak moral dan bersifat
+
+mudharat.
+
+b. Peringkat investment grade: (i) memiliki
+
+fundemental usaha yang kuat; (ii) memiliki
+
+fundemental keuangan yang kuat; (iii) memiliki
+
+citra yang baik bagi publik.
+
+c. Keuntungan tambahan jika termasuk dalam
+
+komponen Jakarta Islamic Indeks (JII).
+
+Secara umum, ketentuan mekanisme
+
+mengenai obligasi syariah adalah sebagai berikut:
+
+a. Obligasi syariah haruslah berdasarkan konsep
+
+syariah yang hanya memberikan pendapatan
+
+27
+kepada pemegang obligasi dalam bentuk bagi hasil atau revenue sharing serta pembayaran utang pokok pada saat jatuh tempo. b. Obligasi syariah mudharabah yang diterbitkan harus berdasarkan pada bentuk pembagian hasil keuntungan yang telah disepakati sebelumnya serta pendapatan yang diterima harus bersih dari non halal. c. Nisbah (rasio bagi hasil) harus ditentukan sesuai kesepakatan sebelum penerbitan obligasi tersebut. d. Pembagian pendapatan dapat dilakukan secara periodik atau sesuai ketentuan bersama, dan pada saat jatuh tempo hal itu diperhitungkan secara keseluruhan. e. Sistem pengawasan aspek syariah dilakukan oleh Dewan Pengawas Syariah atau oleh Tim Ahli Syariah yang ditunjuk oleh Dewan Syariah Nasional MUI. f. Apabila perusahaan penerbit obligasi melakukan kelalaian atau melanggar syarat perjanjian, wajib dilakukan pengembalian dana investor dan harus dibuat surat pengakuan utang. g. Apabila emiten berbuat kelalaian atau cedera janji maka pihak investor dapat menarik dananya.
+
+28
+h. Hak kepemilikan obligasi syariah mudharabah dapat dipindah tangan kepada pihak lain sesuai kesepakatan akad perjanjian.
+2.2.3 Jenis Sukuk Jenis sukuk berdasarkan Standar Syariah
+AAOIFI No.17 tentang Investment Sukuk, terdiri dari: 1) Sertifikat kepemilikan dalam aset yang disewakan. 2) Sertifikat kepemilikan atas manfaat, yang terbagi
+menjadi 4 (empat) tipe : Sertifikat kepemilikan atas manfaat aset yang telah ada, Sertifikat kepemilikan atas manfaat aset di masa depan, sertifikat kepemilikan atas jasa pihak tertentu dan Sertifikat kepemilikan atas jasa di masa depan. 3) Sertifikat salam. 4) Sertifikat istishna. 5) Sertifikat murabahah. 6) Sertifikat musyarakah. 7) Sertifikat muzara'a. 8) Sertifikat musaqa. 9) Sertifikat mugharasa.
+Sementara itu Academy for International Modern Studies (AIMS) mengklasifikasikan jenis sukuk sebagai berikut: 1) Sukuk mudharabah 2) Sukuk musyarakah
+
+29
+3) Sukuk ijarah 4) Sukuk murabahah 5) Sukuk salam 6) Sukuk istishna 7) Sukuk hybrid
+Di samping itu, AIMS juga membagi sukuk menjadi empat kelompok berdasarkan aset atau proyek yang menjadi dasar transaksinya, sebagai berikut: 1) Sukuk yang mewakili kepemilikan pada aset
+berwujud (sebagian besar berupa transaksi sale and lease back atau direct lease); 2) Sukuk yang mewakili kemanfaatan atau jasa (mendasarkan pada transaksi sub lease atau penjualan jasa/sale of service); 3) Sukuk yang mewakili bagian ekuitas dalam usaha atau portofolio investasi tertentu (berdasarkan akad musyarakah atau mudharabah); 4) Sukuk yang mewakili piutang atau barang yang diterima di masa depan (berdasarkan murabahah, salam, atau istishna).
+Atas dasar proyek atau aset yang mendasarinya tersebut di atas, sukuk dapat juga dikelompokkan menjadi dua yaitu sukuk yang dapat diperdagangkan (tradable sukuk) dan sukuk yang
+
+30
+tidak dapat diperdagangkan. Sukuk yang dapat diperdagangkan adalah sukuk yang mewakili aset berwujud atau porsi kepemilikan dari usaha atau portofolio investasi tertentu. Contohnya : sukuk ijarah, sukuk mudharabah, atau sukuk musyarakah. Sementara sukuk yang mewakili piutang dalam bentuk uang maupun barang tidak dapat diperdagangkan (non-tradable sukuk). Contohnya : sukuk salam, sukuk istishna, atau sukuk murabahah.
+Di Indonesia, fatwa DSN MUI baru mengatur beberapa jenis Obligasi Syariah yaitu Obligasi Syariah Mudharabah (fatwa Nomor 33/DSNMUI/IX/2002), Obligasi Syariah Ijarah (fatwa Nomor 41/DSN-MUI/III/2004) dan Obligasi Syariah Mudharabah Konversi (fatwa Nomor 59/DSNMUI/V/2007). Jenis-jenis sukuk yang dimungkinkan untuk diterbitkan berdasarkan Peraturan Bapepam dan LK Nomor IX.A.14 tentang Akad-Akad yang Digunakan Dalam Penerbitan Efek Syariah di Pasar Modal adalah sukuk Mudharabah dan sukuk Ijarah. Obligasi syariah mudharabah merupakan obligasi syariah yang menggunakan akad bagi hasil sedemikian sehingga pendapatan yang diperoleh investor atas obligasi tersebut diperoleh setelah mengetahui pendapatan emiten. Sedangkan obligasi
+
+31
+
+2.2.4
+
+syariah Ijarah merupakan obligasi syariah yang menggunakan akad sewa sehingga kupon (fee Ijarah) bersifat tetap, dan bisa diketahui/ diperhitungkan sejak awal obligasi diterbitkan.18 Struktur Sukuk
+Sukuk atau obligasi syariah sebagai sumber pendanaan dan sekaligus investasi, memungkinkan berbagai bentuk struktur yang dapat ditawarkan untuk tetap menghindarkan dari riba. Instrumen ini dapat memberi: 1. Bagi hasil berdasarkan akad Mudharabah,
+Muqaradhan, Qiradh atau musyarakah. Karena akad Mudharabah dan Musyarakah adalah kerjasama dengan skema bagi hasil pendapatan atau keuntungan, Jenis sukuk ini akan memberikan return dengan menggunakan term indicative/ expected return karena sifatnya yang floating dan tergantung pada kinerja pendapatan yang dibagihasilkan. 2. Margin/ Fee berdasarkan akad Murabahah atau salam atau Istisna atau Ijarah. Dengan akad tersebut sebagai bentuk jual beli dengan skema cost plus basis, sukuk jenis ini akan memberikan fixed return.
+
+18 Ibid, h. 111
+
+32
+Walaupun bentuk akad yang diterapkan dalam sukuk sangat beragam, namun dilihat dari akad yang diterapkan sampai saat ini baru dua jenis yang berkembang di Indonesia, yaitu sukuk Mudharabah dan sukuk Ijarah. Keduanya sesuai kaidah syariah namun berbeda dalam perhitungan, penilaian, dan pemberian hasil (return). 1. Sukuk Mudharabah
+Adalah akad perjanjian dimana pihak yang menyediakan dana (shahib al-mal) berjanji kepada pengelola usaha (mudharib) untuk menyerahkan modal dan pengelola (mudharib) berjanji untuk mengelola modal tersebut.19
+Sukuk Mudharabah adalah skema kerja sama dengan skema bagi hasil pendapatan atau keuntungan, sukuk jenis ini akan memberikan return dengan menggunakan term indicative/ expected return karena sifatnya yang floating dan tergantung pada kinerja pendapatan yang dibagihasilkan.
+19 Standar Akuntansi Syariah Pasar Modal, Tim Studi Standar Akuntansi Syariah di Pasar Modal Indonesia, Badan Pengawas Pasar Modal dan LK Departemen Keuangan RI, 2007, h. 13
+
+33
+Alasan memilih penerbitan sukuk dengan struktur mudharabah, dikarenakan sukuk jenis ini telah memiliki pedoman khusus, yaitu dengan disahkanya fatwa No. 33/DSNMUI/IX/2002. Dalam fatwa tersebut dinyatakan bahwa obligasi syariah mudharabah adalah obligasi syariah yang menggunakan akad mudharabah.
+Selain itu pemilihan sukuk mudharabah juga disebabkan karena: a. Bentuk pendanaan yang paling sesuai
+untuk investasi dalam jumlah besar dan jangka relatif panjang. b. Dapat digunakan untuk pendanaan umum (general financing) c. Mudharabah merupakan pencampuran kerja sama antara pemodal dan jasa (kegiatan usaha) sehingga menjadikan strukturnya memungkinkan untuk tidak memerlukan jaminan (collateral) atas aset yang spesifik. Hal ini berbeda dengan struktur yang menggunakan dasar akad jual beli yang mensyaratkan jaminan atas aset yang didanai.
+
+34
+
+d. Kecenderungan regional dan global, dari
+
+penggunaan struktur mudharabah dan bai-
+
+bitsaman ajil menjadi mudharabah dan
+
+Ijarah.
+
+Beberapa hal pokok mengenai sukuk
+
+mudharabah meliputi:
+
+a. Kontrak atau akad mudharabah harus
+
+dituangkan
+
+dalam
+
+perjanjian
+
+perwaliamanatan (trusty).
+
+b. Rasio bagi hasil (nisbah) didasarkan pada
+
+pembagian pendapatan (revenue sharing)
+
+c. Nisbah (profit loss sharing) dapat
+
+ditetapkan konstan, meningkat atau
+
+menurun tetapi harus ditetapkan dengan
+
+jelas didalam kontrak.
+
+d. Penerbit sukuk (emiten) membayar semua
+
+keuntungan yang ditetapkan dalam kontrak
+
+bagi hasil (profit loss sharing), dan total
+
+keuntungan didalam laporan keuangan.
+
+e. Pembayaran keuntungan atau tingkat
+
+pengembalian ini dapat dilakukan secara
+
+periodik.
+
+f. Sukuk mudharabah ini memberikan
+
+indikasi tingkat pengembalian (return),
+
+sebab besarnya pendapatan bagi hasil
+
+35
+(revenue) didasarkan pada kinerja yang aktual dari penerbit (emiten).
+Berikut ini adalah model dari struktur sukuk mudharabah:20
+Gambar 2.1 Struktur Sukuk Mudharabah
+
+Perusahaan
+
+Penerimaan Bagi Hasil
+
+Kontribusi Skill/ Profesionalisme
+
+Mudharabah
+
+Penerimaan Bagi Hasil
+
+Kontribu si Dana 100%
+SPV/ KIK
+
+Investasi/ Membeli
+
+Pendapa tan Bagi
+Sumber: M. NHaasfiilk
+
+Investor/ Sukuk holders
+
+Pihak-pihak yang terlibat dalam sukuk mudaharabah adalah investor, (sukuk holders atau shahibul maal), Special Purpose Vechile (SPV) atau Kontrak Investasi Kolektif (KIK), dan perusahaan (emiten atau mudharib).
+
+20 M. Nafik, Bursa Efek dan Investasi Syariah, Jakarta: Sinar Grafika, 2009
+
+36
+Investor membeli sukuk mudharabah setelah mempertimbangkan prospektus yang diterbitkan oleh perusahaan dan informasi ­ informasi lain yang relevan.
+Investor yang membeli sertifikat sukuk mudharabah berarti telah menjadi shahibul maal bagi emiten yang komposisinya adalah sebesar rasio total nilai sertifikat sukuk dibagi total modal yang dibutuhkan. Komposisi ini juga merupakan porsi bagian pembagian hasil dari pengelolaan dana.
+Total modal yang terkumpul pada SPV dan para investor diberikan kepada mudharib (emiten) oleh SPV. Pembagian hasil antara SPV dan emiten didasarkan atas nisbah yang disepakati antara SPV dan emiten.
+Pendapatan bagi hasil akan diterima secara periodik oleh SPV sesuai nisbahnya, kemudian SPV akan membagikanya secara periodik kepada para pemegang sukuk mudharabah sesuai dengan komposisi kepemilikan masing-masing sukuk. Pokok sukuk akan dibayar kembali pada saat jatuh tempo sebesar nilai penyertaan masing-masing investor.
+
+37
+2. Sukuk Ijarah Ijarah adalah akad perjanjian dimana
+pihak yang memiliki barang atau jasa (pemberi sewa atau pemberi jasa) berjanji kepada penyewa atau pengguna jasa untuk menyerahkan hak penggunaan atau pemanfaatan atas suatu barang dan memberikan jasa yang dimiliki pemberi sewa atau pemberi jasa dalam waktu tertentu dengan pembayaran sewa dan atau upah (ujrah), tanpa diikuti dengan beralihnya hak atas pemilikan barang yang menjadi objek Ijarah.21
+Sukuk ijarah adalah surat berharga yang berisi akad pembiayaan berdasarkan prinsip syariah yang diterbitkan oleh perusahaan (emiten), pemerintah atau institusi lainya yang mewajibkan penerbit sukuk membayar pendapatan kepada pemegang obligasi berupa fee hasil penyewaan aset serta membayar dana pokok sukuk pada saat jatuh tempo.
+Penerbitan sukuk ijarah ini harus didasarkan pada ketentuan-ketentuan yang telah ditetapkan oleh Dewan Syariah Nasional-MUI melaui fatwa No. 41/DSN-MUI/III/2004
+21 Standar Akuntansi Syariah Pasar Modal, Tim..., h. 13
+
+38
+tentang obligasi syariah ijarah. Dalam fatwa tersebut disebutkan bahwa obligasi syariah ijarah adalah obligasi yang berdasarkan akad ijarah dengan memperhatikan substansi pada fatwa Dewan Syariah Nasional-MUI No. 09/DSN-MUI/IV/2000 tentang pembiayaan ijarah. Berikut ini adalah model struktur sukuk ijarah:
+Gambar 2.2 Struktur Sukuk Ijarah
+
+Proses sukuk untuk membeli
+
+Proses Pembelian /Penjualan aset
+
+Obligator (Penjual/ dealer)
+
+SPV/ KIK
+
+Hak atas aset
+
+Sewa aset
+
+Sertifikat Ijarah
+
+Sukuk ijarah Pendapatan Sewa/
+
+Membeli sukuk
+
+Margin penjualan
+
+Obligator
+Sewa
+(Penyewa)
+
+Investor (Suku Holder)
+
+Sumber: M. Nafik
+
+39
+
+2.2.5
+
+Struktur Penerbitan Sukuk Pada bagian ini membehas mengenai struktur
+dan skema penerbitan sukuk ijarah dan sukuk mudharabah.
+a. Ijarah Regulasi yang mengatur tentang sukuk
+dan ijarah adalah peraturan No. IX.A.13 dan IX.A.14 dikeluarkan Bapepam-LK pada bulan November 2006. Walaupun demikian tercatat beberapa emiten telah melaksanakan penerbitan sukuk ijarah sebelum diterbitkanya peraturanperaturan tersebut.
+Di Indonesia dasar yang digunakan dalam menerapkan sukuk adalah Manafi wa Hiya Anwa' sedangkan yang umum dinegara-negara lain adalah Ijarah Mumtahiya Bit tamlik. Terkait dengan dasar yang digunakan tersebut, tujuan dari transaksi Ijarah di Indonesia adalah melakukan lease kemudian sublease. Sedangkan dasar-sadar yang digunakan dinegara-negara lain bertujuan untuk menjual aset (kepada (SPV) kemudian melakukan lease atas aset tersebut dengan memberikan opsi apakah pada akhir masa
+
+40
+sukuk aset underlying ijarah beralih kepemilikanya.22
+Dalam AAOIFI terdapat tiga jenis skema transaksi sukuk ijarah. Pembagian kategori tersebut dapat didasarkan pada obyek yang ditransaksikan, yaitu: 1) Transfer kepemilikan atas aset yang telah
+tersedia; 2) Transfer manfaat (usfruct) atas aset yang
+telah tersedia; dan 3) Transfer kepemilikan atas aset tertentu yang
+akan dimiliki. Dalam praktik, yang lazim digunakan
+adalah sukuk ijarah no. 1 dan 2. Alasan utama yang mendasarinya adalah, transaksi jenis 1 dan 2 lebih diminati oleh investor mengingat underlying asetnya telah tersedia. Hal ini akan lebih memberikan kepastian hukum dibandingkan dengan sukuk ijarah no.3. Dengan mempertimbangkan kelaziman dalam praktik, maka kajian ini memfokuskan kepada skema sukuk no. 1 dan 2.
+Berikut ini disajikan mengenai skema transfer kepemilikan atas asset yang tersedia.
+22 Standar Akuntansi Syariah Pasar Modal, Tim..., h.54
+
+41
+Pada saat perusahaan merencanakan untuk menerbitkan sukuk ijarah, perusahaan terlebih dahulu menetapkan aset yang akan di-ijarah-kan. Kemudian, perusahaan mendirikan suatu Spesial Purpose Vehicle/ Company (SPV/C selanjutnya disebut SPV). SPV merupakan paper company yang didirikan semata-mata untuk kepentingan perusahaan khususnya dalam penerbitan sukuk ijarah. Setelah sukuk ijarah jatuh tempo, maka SPV ini akan dibubarkan. SPV bukan merupakan badan hukum seperti halnya perusahaan, oleh karena itu SPV bukan merupakan subyek pajak.23
+Setelah SPV terbentuk, perusahaan menjual aset yang menjadi underlying ijarah kepada SPV, hal ini ditandai dengan akad albay', yaitu jual beli antara perusahaan selaku penerbit sukuk ijarah dan SPV selaku wakil dari para investor pemegang sertifikat sukuk ijarah. Pada saat yang sama SPV menjual setifikat sukuk kepada investor sebagai bukti bahwa investor merupakan pemilik dari underlying aset ijarah, hal ini ditandai dengan akad wakalah, yaitu perwakilan SPV atas investor pemegang setifikat sukuk ijarah. Dana yang diperoleh dari investor
+23 Ibid, h.55
+
+42
+secara langsung diteruskan oleh SPV kepada perusahaan. Dengan demikian, maka telah terjadi perpindahan kepemilikan underlying aset ijarah dari perusahaan kepada investor melalui SPV. Dilain pihak, perusahaan telah menerima secara lumpsum pembayaran dari investor atas penerbitan sertifikat sukuk ijarah.24
+Selanjutnya, SPV selaku wakil dari investor, menandatangan akad ijarah dengan perusahaan. Dalam akad itu disepakati bahwa SPV selaku wakil dari pemilik aset menyewakan aset kepada perusahaan. Dengan kata lain, SPV berperan sebagai lessor sedangkan perusahaan berperan sebagai lessee. Sebagai lessee, perusahaan berhak menggunakan aset yang diijarah-kan tersebut dan berkewajiban untuk membayar ijarah atas penggunaan aset kepada lessor. Pembayaran oleh perusahaan dilakukan kepada SPV dan langsung diteruskan (passtrhough) kepada investor. Pembayaran tersebut merupakan kupon ijarah yang besarnya ditentukan secara tetap pembayaran ini didasarkan atas benchmark tertentu sebagai contoh 2%+LIBOR. Penggunaan benchmark ini
+24 Ibid, h.56
+
+43
+barangkali menimbulkan pertanyaan mengapa syariah menggunakan tingkat bunga benchmark, padahal bunga dilarang dalam prinsip syariah. Untuk menjawab hal ini, maka harus dibedakan antara fungsi bunga sebagai benchmark dan riba. Fungsi sebagai benchmark, tingkat bunga dimaksudkan untuk memberikan pedomanyang populer mengenai suatu tungkat bagi hasil. Dengan demikian maka, kesalahpahaman (gharar) antara lessor dan lessee akibat penggunaan benchmark yang tidak populer dapat dihindari. Dilain pihak, penggunaan tingkat bunga sebagai riba, merupakan mekanisme yang dilarang dalam syariah. Riba merupakan praktik bunga majemuk, yaitu pembebanan bunga tetap akan berjalan sekalipun debitur sudah tidak mempu melunasi pinjamanya. Hal tersebut tidak sejalan dengan prinsip syariah yang menjujung tinggi nilai kebersamaan dalam memperoleh manfaat (sharing economics) sehingga seseorang tidak boleh mendapat keuntungan diatas kerugian orang lain.25
+Penghasilan yang diperoleh SPV tidak dikenakan pajak penghasilan karena SPV bukan
+25 Ibid, h. 57
+
+44
+
+merupakan objek pajak. Pajak tersebut dikenakan final kepada investor yang memperoleh pendapatan ijarah. Skema sukuk ijarah semacam ini dijumpai dibeberapa negara seperti: Malaysia, Qatar, dan Pakistan
+Gambar 2.3 Sukuk Ijarah Transfer Kepemilikan Aset
+
+Corporate
+
+Corporate (as Lesse)
+
+Pembelian
+
+1
+
+SPV
+
+Perusahaan menjual kpd
+
+3
+
+SPV
+
+SPV Sewa untuk harga perusahaan
+
+Pembelian
+
+2
+
+Investor
+
+SPV isu sukuk (Sertifikat sewa untuk
+investor)
+
+Perusahaan membayar sewa
+rental
+
+Berikut ini disajikan mengenai skema transfer manfaat atas aset yang telah tersedia. Pada saat perusahaan merencanakan untuk menerbitkan sukuk ijarah, perusahaan terlebih dahulu menetapan aset yang akan di-ijarah-kan. Kemudian perusahaan menjual manfaat aset kepada investor. Atas transfer
+
+45
+ini, perusahaan memperoleh pembayaran lumpsum dari investor dan sebaliknya investor memperoleh sertifikat sukuk ijarah. Pada tahap ini, perusahaan dan investor menandatangani akad ijarah, yang memposisikan perusahaan menjadi lessee dan investor sebagai lessor.
+Selanjutnya investor dan perusahaan menandatangani akad wakalah, yang berisi bahwa investor memberikan kuasa kepada perusahaan atas manfaat aet underlying ijarah. Kuasa tersebut digunakan oleh perusahaan untuk mencari end customer yang bermaksud untuk menyewa aset underying ijarah. Hal ini dilakukan karena perusahaan memiliki pengetahuan yang lebih baik dibandingkan investor terhadap industrinya.
+Setelah melakukan end customer, perusahaan mentransfer manfaat aset underlying ijarah. Dalam tahap ini seakan-akan peranan perusahaan adalah sebagai lessor mewakili investor dan end customer adalah sebagai lessee. End customer berkewajiban membayar penggunaan aset underlying ijarah. Pembayaran ini merupakan sumber kupon ijarah yang akan dibayarkan perusahaan selaku lessee kepada investor selaku lessor. Skema ini berbeda dengan skema pertama baik dalam hal obyek yang di transfer
+
+46
+mapun keberadaan SPV. Pada skema ini tidak digunakan SPV karena konsep SPV tidak dikenal dalam rezim hukum di indonesia.26
+Gambar 2.4 Sukuk Ijarah Transfer Manfaat Aset
+
+Issuer
+
+1
+
+Pengalihan hak sewa 3
+
+Kas
+
+Investor
+
+Issuer
+
+Sukuk Ijarah 2
+
+6 Pengalihan hak sewa
+
+Akad Ijarah
+
+Akad Wakalah
+
+4
+Untuk Sewa Aset berwujud
+
+End Customer
+
+Kas/Sewa (pembayaran sewa)
+
+5
+
+Berikut ini disajikan mengenai variasi dari skema transfer manfaat atas aset yang telah tersedia, yaitu dengan sublease. Skema ini diawali dengan
+
+26 Ibid, h. 59
+
+47
+penerbitan sertifikat sukuk ijarah oleh issue (selanjutnya disebut perusahaan). Atas penerbitan sertifikat tersebut perusahaan menerima kas yang dibayarkan oleh investor. Pada tahap ini perusahaan dan investor menandatangani akad wakalah. Akad ini memberikan kuasa kepada perusahaan untuk mewakili investor sebagai lessee atas transaksi ijarah yang akan dilakukan pada tahap berikutnya. Selanjutnya dana hasil penerbitan sukuk ijarah digunakan perusahaan untuk memperoleh manfaat atas suatu aset underlying ijarah yang dimiliki oleh owner. Pada tahap ini perusahaan dan owner menandatangani akad ijarah dimana perusahaan berperan sebagai lessee mewakili investor dan owner sebagai lessor.27
+Kemudian investor selaku lessee dalam transaksi dengan owner menyewakan manfaat atas aset underlying ijarah kepada perusahaan. Dengan kata lain, peranan investor berubah dari lessee menjadi lessor. Pada tahap ini perusahaan dan investor menandatangani akad ijarah atas transaksi sublease.
+Pada tahap selanjutnya, perusahaan akan mencari end customer untuk menyewakan aset
+27 Ibid, h. 60
+
+48
+
+underlying ijarah. Dalam transaksi ini end customer
+membayar sewa. Pembayaran ini merupakan sumber
+dari kupon ijarah dan akan diteruskan oleh perusahaan
+kepada investor selaku lessor.
+Gambar 2.5 Sukuk Ijarah Transfer Manfaat Aset dengan
+sublease
+
+Owner
+4 Hak pakai hasil
+
+1
+
+5
+
+Kas
+
+Sewa kepada penerbit
+
+Issuer
+
+Investor
+
+Issuer
+
+2
+Sertifikat
+
+Fee ijarah/kupon
+8
+
+Akad
+
+Ijarah
+
+Akad
+
+Ijarah
+
+Akad Wakalah
+
+Untuk Sewa Aset berwujud
+
+6 End
+
+Customer
+
+7
+
+Kas/Sewa (pembayaran sewa)
+
+Dari ketiga skema sukuk diatas, pembayaran ijarah yang diterima dari investor merupakan lumpsum. Dalam transaksi konvensional jumlah ini dapat dipersamakan dengan pokok obligasi.
+
+49
+Sedangkan pembayaran berkala yang dilakukan oleh lessee kepada lessor pada saat jangka waktu sukuk ijarah dapat diidentikan dengan bunga obligasi. Jumlah lumpsum yang diterima oleh perusahaan pada awal periode sukuk, akan dilunasi oleh perusahaan kepada investor pada saat sukuk ijarah jatuh tempo. Hal ini disertai dengan adanya pengembalian kepemilikan atau manfaat aset underlying ijarah kepada perusahaan selaku penerbit sertifikat sukuk ijarah.28 b. Mudharabah
+Sesuai dengan pernyataan Standar Akuntansi Keuangan No. 105 tentang akuntansi mudharabah, terdapat dua metode bagi hasil akad mudharabah, yaitu dengan metode bagi pendapatan (revenue sharing) dan metode bagi laba (profit sharing). Bagi pendapatan, dihitung dari total pendapatan pengelolaan mudharabah sedangkan bagi laba, dihitung dari pendapatan setelah dikurangi beban yang berkaitan dengan pengelolaan dana mudharabah.29
+Pada dasarnya dua metode bagi hasil tersebut juga digunakan dalam pola bagi hasil penerbitan obligasi syariah atau sukuk di pasar modal Indonesia.
+28 Ibid, h.62 29 Ibid, h.63
+
+50
+Namun demikian ada beberapa variasi dalam pola bagi hasil pendapatan atau bagi hasil laba pada penerbitan obligasi syariah yang telah ada. 2.2.6 Pihak-Pihak Yang Terlibat Dalam Penerbitan Sukuk
+Dalam penerbitan sukuk, akan melibatkan beberapa pihak yang saling terkait satu dengan yang lainya. Pihak-pihak tersebut diantaranya.30 1. Obligor
+Obligor adalah pihak yang bertanggungjawab atas pembayaran imbalan dan nilai nominal sukuk yang diterbitkan sampai dengan jatuh tempo. Dalam hal sovereign sukuk, obligor nya adalah pemerintah. 2. Investor Investor adalah pihak pemegang sukuk yang memiliki hak atas imbalan/ fee/ margin dan nilai nominal sukuk sesuai partisipasi masing-masing. 3. Special Purpose Vehicle (SPV) Special Purpose Vehicle (SPV) adalah badan hukum yang didirikan khusus untuk penerbitan sukuk. Special Purpose Vehicle (SPV) berfungsi: (i) sebagai penerbit sukuk; (ii) menjadi counterpart
+30 Sunarsih, Potensi Obligasi Syariah Sebagai Sumber Pendanaan Jangka Menengah dan Panjang bagi Perusahaan di Indonesia, Jurnal AsySyir'ah Fakultas Syariah UIN Sunan Kalijaga. Vol.42 No. I.
+
+51
+pemerintah atau corporate dalam transaksi pengalihan aset; (iii) bertindak sebagai wali amanat (trustee) untuk mewakili kepentingan investor. 4. Trustee, bisa Principal Trustee atau Co Trustee Trustee mewakili kepentingan pembeli sukuk, trustee melakukan semacam penilaian terhadap perusahaan yang akan menerbitkan sukuk untuk meminimalkan resiko yang akan ditanggung obligor. 5. Appraiser Appraiser adalah perusahaan yang melakukan penilaian terhadap aktiva tetap perusahaan yang akan melakukan emisi untuk memperoleh nilai yang dipandang wajar. 6. Custody Custody menyelenggarakan kegiatan penitipan, bertangggungjawab untuk menyimpan efek milik pemegang rekening dan memenuhi kewajiban lain sesuai kontrak antara kustodian dan pemegang rekening. Kustodian bisa berupa Lembaga penyimpanan dan Penyelesaian, Perusahaan Efek, dan Bank Umum yang telah memperoleh persetujuan Bapepam. 7. Shariah Advisor
+
+52
+Penerbitan sukuk harus terlebih dahulu mendapatkan pernyataan kesesuaian prinsip syariah (syariah compliance endorsement) untuk meyakinkan investor bahwa sukuk telah distruktur sesuai syariah. Pernyataan syariah compliance tersebut bisa diperoleh dari individu yang diakui secara luas pengetahuanya dibidang syariah atau institusi yang khusus membidangi masalah syariah. Untuk penerbitan sukuk di Indonesia, syariah compliance endorsement dapat dimintakan kepada Dewan Syariah Nasional-MUI. Sedangkan untuk penerbitan sukuk internasional, diperlukan endorsement dari ahli/ lembaga syariah yang diakui komunitas syariah internasonal sperti IIFM. 8. Arranger atau Manajer Investasi Manajer Investasi merupakan pihak yang mengelola dana yang dititipkan investor untuk diinvestasikan di pasar modal. 9. Paying Agent Agen, biasanya sebuah bank komersial yang diberi wewenang oleh penerbit surat berharga untuk membayar kewajiban pokok dan bunga kepada pemegang surat berharga, agen tersebut bertindak sebagai pembayar dan menarik biaya untuk jasa pelayanan.
+
+53
+
+2.2.7
+
+Sukuk Sebagai Sumber Pendanaan Bagi Perusahaan
+Setiap perusahaan memerlukan modal untuk melakukan kegiatan operasionalnya. Modal ini didapat dari ekuitas atau dari hutang. Ekuitas disini adalah modal sendiri yang terdiri dari atas saham, retained earnings, dan agio saham. Namun, dari ketiga jenis ekuitas tersebut, yang bisa diperoleh dari masyarakat adalah saham dan agio saham. Jika pemilik perusahaan bersedia berbagi kepemilikan dan menginginkan panggilan dana yang tidak terbatas, maka perusahaan dapat menjual saham kepada masyarakat melalui pasar modal. Sedangkan dana yang berasal dari hutang adalah berupa obligasi. Obligasi yang diterbitkan di pasar modal tidak memerlukan jaminan aset karena sudah dijamin oleh penjamin emisi. Selanjutnya, hutang demikian memiliki jatuh tempo yang panjang karena memang obligasi didesain sebagai utang jangka panjang. Jumlahnya tidak terbatas karena dana digali dari masyarakat luas. Sepanjang masyarakat masih memiliki dana dan percaya kepada pasar modal, maka dana ini akan terus tersedia.31 Upaya perusahaan
+
+31 Sawidji Widoatmoko, Pasar Modal Indonesia Pengantar dan Studi Kasus, Bogor: Ghalia Indonesia, 2009, h.35
+
+54
+untuk mendapatkan dan menambah modal ini menjadi bagian yang tidak terpisahkan dari kegiatan berinvestasi terutama di pasar modal.
+Sejak tahun 2002, di Bursa Efek Indonesia diperdagangkan instrumen keuangan baru, yaitu obligasi syariah atau dalam dunia internasional dikenal sebagai sukuk. Sukuk ini diterbitkan selain untuk menutupi kebutuhan modal kerja juga bisa digunakan untuk pembangunan infrastruktur baik oleh perusahaan maupun pemerintah. Dengan demikian sukuk dapat dimanfaatkan sebagai alternatif sumber pendanaan bagi perusahaan.
+Sukuk sebagai sumber pendanaan bagi perusahaan lebih kompetitif dibanding dengan obligasi konvensional, hal ini disebabkan: 1. Kemungkinan memperoleh dari bagi hasil
+pendapatan lebih tinggi dari pada obligasi konvensional. 2. Obligasi syariah atau sukuk ini lebih aman, karena digunakan untuk mendanai proyek-proyek yang prospektif dan tidak melanggar syariat islam. 3. Bila terjadi kerugian (diluar kontrol) investor tetap memperoleh aktiva. 4. Terobosan paradigma, bukan lagi surat hutang, tapi surat investasi.
+
+55
+Sukuk merupakan salah satu instrumen dalam pasar modal memiliki kelebihan dan kekurang dibanding dengan instrumen lain, yaitu: 1. Sukuk meningkatkan likuiditas pemula dan
+investor dan hal ini mengurangi risiko tambahan (risk premium) pada produk pasar modal yang lain dan memberikan kontribusi pada biaya yang lebih rendah untuk wirausahawan. 2. Sukuk meningkatkan aliran dana terhadap total aset di pasar modal. 3. Sukuk meningkatkan diversifikasi instrumen di pasar modal. 4. Beberapa model dapat di derivasi dari sukuk selama dibutuhkan. 5. Emiten terbatas dibanding dengan instrumen keuangan lain. 6. Biaya sukuk cukup tinggi dan memiliki skala yang luas. 2.3 Net Income (NI) 2.3.1 Pengertian Laba
+Laba ialah selisih lebih hasil penjualan dari harga pokok dan biaya operasi. Kalangan ekonomi mendefinisikanya sebagai selisih antara total penjualan dengan total biaya. Total penjualan yakni harga barang yang dijual, dan total biaya operasional
+
+56
+
+2.3.2
+
+adalah seluruh biaya yang dikeluarkan dalam penjualan, yang terlihat tersembunyi. Karena perniagaan berarti jual beli dengan tujuan mencari keuntungan, maka keuntungan merupakan tujuan yang mendasar, bahkan merupakan tujuan asli dari perniagaan.32 Net Income
+Net Income merupakan laba bersih perusahaan yang dilaporkan dalam laporan laba rugi. Laba bersih didefinisikan sebagai hasil operasi terakhir setelah bunga dan pajak. Perubahan laba baik itu merupakan penurunan atau kenaikan yang disebabkan oleh faktor harga jual tidak dapat dapat digunakan sebagai pengukur kegiatan penjualan, karena hal ini disebabkan oleh adanya perubahan kuantitas atau volume barang yang dijual mempunyai hubungan langsung dengan kegiatan penjualan. Kenaikan laba karena kenaikan volume yang dijual berarti bagian penjualan bekerja lebih aktif atau perusahaan semakin efektif dalam operasinya. Selain itu, laba perusahaan juga dapat dipengaruhi oleh hutang dan investasi. Tinggi rendahnya perubahan
+
+32 Abdullah Almuslih dan Shalah Ash shawi, Fiqih Ekonomi Keuangan Islam, Jakarta: Darrul Haq, 2004, Cet.1, h.78
+
+57
+
+2.3.3 2.3.4
+
+hutang dan investasi mempengaruhi perusahaan untuk memperoleh laba. Tujuan Pelaporan Net Income
+Tujuan utama pelaporan net income adalah untuk memberikan informasi kepada mereka yang menaruh minat pada laporan keuangan. Salah satu dari tujuan dasar mengasumsikan bahwa yang paling penting bagi semua pemakai laporan adalah keutuhan untuk membedakan invested capital dan incomeperbedaan antara stock dan flows sebagai bagian dari proses deskriptifnya akuntansi.
+Tujuan yang lebih khusus meliputi pemakaian income sebagai pengukuran efisiensi manajemen, pemakaian angka-angka historical income untuk membantu meramalkan masa depan perusahaan atau deviden diwaktu yang akan datang, dan pemakaian income sebagai keberhasilan dan pedoman mengenai keputusan-keputusan manajerial dimasa yang akan datang. Batas Maksimal Keuntungan
+Tidak ada dalil dalam syariat sehubungan dengan jumlah tertentu dari keuntungan sehingga bila melebihi jumlah tersebut dianggap haram, sehingga menjadi kaidah umum untuk seluruh jenis barang
+
+58
+dagangan disetiap zaman dan tempat. Hal itu karena beberapa hikmah, diantaranya:33 a. Perbedaan harga, terkadang cepat berputar dan
+terkadang lambat. Kalau perputaranya cepat, maka keuntungan yang didapat lebih sedikit, menurut kebiasaan. Sementara bila perputaranya lambat maka keuntunganya banyak. b. Perbedaan penjualan kontan dengan penjualan pembayaran tunda. Pada asalnya, keuntungan pada penjualan kontan lebih sedikit dari pada penjualan bentuk kedua. c. Perbedaan komoditi yang dijual, antara komoditi primer dan komoditi sekunder, keuntungan lebih sedikit, karena memperhatikan orang-orang yang membutuhkan, dengan komoditi lux, yang keuntunganya dilebihkan menurut kebiasaan, karena kurang dibutuhkan.
+Oleh sebab itu, sebagaimana telah dijelaskan, tidak pernah diriwayatkan dalam sunnah nabi pembatasan keuntungan sehingga tidak boleh mengambil keuntungan lebih dari itu. Bahkan sebaliknya diriwayatkan hadist yang menetapkan bolehnya keuntungan dagang itu mencapai dua kali
+33 Abdullah AlMuslih dan Shalah Ash shawi, Fiqh Ekonomi Keuangan Islam, Jakarta: Darrul Haq, 2004, Cet. Ke-1 h.80
+
+59
+lipat pada kondisi ­kondisi tertentu, atau bahkan lebih dari itu.
+Diriwayatkan oleh al-bukhari dalam shahihnya, dari urwah diriwayatkan:
+
+"bahwa nabi pernah memberikan satu dinar untuk dibelikan seekor kambing buat beliau. Lalu urwah menggunakan uang tersebut untuk membeli dua ekor kambing. Salah satu kambing tersebut dijual dengan harga satu dinar, lalu ia datang menemui nabi dengan membawa kambing tersebut dengan satu dinar yang masih utuh. Ia menceritakan apa yang ia kerjakan, maka Nabi mendoakan agar jual belinya diberkahi oleh Allah. Setelah itu (karena berkah nabi) andaikan ia mau membeli tanah, ia bisa menjualnya dengan mendapatkan keuntungan".34
+Di sisi lain, kejadian ini tidaklah menggambarkan kaidah hukum dalam mengukur keuntungan. Justru sikap memberi kemudahan, sikap santun dan puas dengan keuntungan yang sedikit itu lebih sesuai dengan petunjuk para ulama salaf dan syariat islam. Orang yang puas dengan keuntungan sedikit pasti usahanya akan penuh berkah. Ali biasa
+34 Ibid, h. 80-81
+
+60
+
+2.3.5
+
+keliling pasar kufah dengan membawa tongkat sambil berkata:
+"Hai para pedagang, ambilah hak kalian, kalian akan selamat. Jangan kalian tolak keuntungan yang sedikit, karena kalian bisa terhalangi mendapatkan keuntungan yang besar".35 Ketetapan Majelis Ulama Fiqih Mengenai Standarisasi Harga
+Majelis ulama fiqih yang terkait dalam Organisasi Konferensi Islam (OKI) yang diadakan dalam pertemuan kelima di Kuwait pertanggal 1-6 Jumadil Ula 1409 H bertepatan dengan 10-15 Desember 1988 M telah melakukan diskusi tentang pembatasan keuntungan para pedagang, mereka membuat ketetapan sebagi berikut: a. Hukum asal yang diakui oleh nash dan kaidah-
+kaidah syariat adalah membiarkan umat bebas dalam jual beli mereka, dan mengoperasikan harta benda mereka dalam bingkai syariat islam yang penuh perhatian dengan segala kaidah didalamnya. Hal itu sesuai dengan firman Allah SWT.
+
+35 Ibid, h.82
+
+61
+"Hai orang-orang yang beriman, janganlah kamu saling memakan harta sesamamu dengan jalan yang bhatil, kecuali dengan jalan perniagaan yang berlaku dengan suka sama suka diantara kamu. Dan janganlah kamu membunuh dirimu. Sesungguhnya Allah adalah maha penyayang kepadamu." (QS. An- Nisa : 29)
+b. Tidak ada standarisasi dalam mengambil keuntungan yang mengikat para pedagang dalam melakukan berbagai transaksi jual beli mereka, hal itu dibiarkan sesuai kondisi dunia usaha secara umum, namun dengan tetap memperhatikan kode etik yang disyariatkan dalam islam, seperti sikap santun, qana'ah, toleransi dan memudahkan.
+c. Terdapat banyak dalil-dalil, dalam ajaran syariat yang mewajibkan segala bentuk mu'amalah bebas dari hal-hal yang diharamkan atau bersentuhan dengan hal-hal yang haram, seperti penipuan, kecurangan, manipulasi, memanfaatkan ketidaktahuan orang lain, memanipulasi keuntungan, yang kesemuanya mudharat bagi masyarakat umum maupun kalangan khusus.
+d. Pemerintah tidak boleh ikut campur menentukan standar harga kecuali kalau melihat adanya ketidakberesan di pasar dan ketidakberesan harga karena berbagai faktor yang dibuat-buat, dalam kondisi demikian, pemerintah boleh turut ikut
+
+62
+
+2.3.6
+
+campur dengan berbagai sarana yang memungkinkan untuk mengatasi berbagai faktor dan sebab ketidakberesan, kenaikan harga dan kamuflase berat tersebut.36 Syarat Keuntungan dan Kode Etik Pembagian Hasil Keuntungan
+Keuntungan dalam sistem penanaman modal (bagi hasil) dipersyaratkan harus diketahui secara jelas, harus berupa prosentase yang umum. Kalau salah seorang ditentukan mendapatkan bagian tetap (yang tidak diputar), maka perjanjian itu batal. 37
+Sehubungan dengan keuntungan dalam usaha investasi (bagi hasil) ini, pembagianya harus memenuhi beberapa kode etik sebagai berikut: a. Keuntungan berdasarkan kesepakatan kedua
+belah pihak, sementara kerugin hanya ditanggung oleh investor saja kecuali adanya kelalaian dari pihak investor maka pihak investor tersebut harus ikut menanggung kerugian tersebut. b. Keuntungan dalam usaha investasi juga sebagai cadangan modal. Pengelola tidak
+
+36 Ibid, h. 82-83 37 Ibid, h. 193
+
+63
+mendapatkan keuntungan sebelum ia menerima kembali modal secara utuh. c. Pengelola hanya bisa mengambil keuntungan melalui pembagian. d. Hak kepemilikan keuntungan hanya menjadi permanen bagi masing-masing pihak setelah dilakukan perhitungan ahir. e. Boleh dilakukan pembagian keuntungan awal, namun nantinya dihitung pada perhitungan ahir. f. Pengelola boleh mengambil bagian dari uang modal sebagai baiaya perjalananya melakukan bisnis, sesuai dengan kebiasaan yang berlaku dikalangan pedagang. g. Tidak ada pertanggung jawaban bagi pengelola dalam perjanjian ini selain karena keteledoran atau pelanggaran. Tidak perlu diperhatikan adanya berbagai trik kamuflase untuk membatalkan dasar hukum ini. h. Perjanjian hukum investasi in berahir dengan meninggalnya salah satu pihak yang melakukan akad atau karena dia gila, atau tercekal karena bangkrut terlilit hutang. Bisa saja karena pembatalan salah satu pihak, hanya saja usaha itu tetap berlangsung hingga
+
+64
+modalnya habis diputar bila telah dimulai menurut pendapat yang benar dari ulama, demi menghindari bahaya akibat pemutusan usaha yang tiba-tiba.38
+2.4 Penelitian Terdahulu Sebelum penulis lebih lanjut membahas tentang
+Analisis perbandingan net income perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang tergabung dalam Jakarta Islamic Index, penulis dengan segala kemampuan yang ada berusaha menelusuri dan menelaah beberapa buku atau karya ilmiah lain yang dapat dijadikan referensi, sumber acuan dan perbandingan dalam penelitian ini. Antara lain: 1. Mochamad Rizki Pratama yang menguji pengaruh
+penerbitan obligasi syariah (sukuk) perusahaan terhadap reaksi pasar modal Indonesia, hasil yang diperoleh dari uji t untuk variabel nilai dan rating penerbitan obligasi syariah menunjukan bahwa tidak terdapat pengaruh yang signifikan dari variabel nilai penerbitan obligasi syariah terhadap cumulative abnormal return saham. Penelitian ini menunjukan bahwa nilai penerbitan obligasi syariah tidak memiliki kandungan informasi yang cukup terhadap keputusan yang diambil oleh investor. Informasi nilai
+38 Ibid, h.193-194
+
+65
+penerbitan obligasi syariah secara tersendiri tidak dijadikan pertimbangan utama oleh investor dalam pengambilan investasi. Alasan lain dikarenakan pasar modal Indonesia masih sangat besar dipengaruhi oleh aktivitas pasar global dimana faktor-faktor makro ekonomi masih cukup dominan mempengaruhi pasar dibadingkan dengan penerbitan obligasi syariah perusahaan.39 2. Hasil yang sama dilakukan oleh Ocke Saputro Listiyadi yang menguji pengaruh pendapatan sukuk mudharabah terhadap laba usaha PT. ADHI KARYA memberikan kesimpulan atas penelitianya bahwa uji korelasi sederhana (r) diperoleh hasil korelasi antara pendapatan sukuk Adhi dan laba proyek yang dibagihasilkan sebesar 20%, sedangkan arah hubungan kedua variabel adalah positif (searah), yang berarti semakin tinggi pendapatan sukuk maka semakin tinggi pula laba usaha Adhi Karya. Berdasarkan uji hipotesisnya, karena t hitung < t tabel, 0,646 < 1,812, maka H0 ditolak, artinya pendapatan sukuk tidak berpengaruh secara signifikan terhadap laba usaha. Dan berdasarkan hasil perhitungan koefisien determinasi (R Square), terlihat bahwa pengaruh
+39 Moh. Rizky Pratama, Pengaruh penerbitan Obligasi Syariah (sukuk) Terhadap Reaksi Pasar Modal Indonesia, Bandung: Fakultas Ekonomi Universitas Widyatama, 2013
+
+66
+pendapatan Sukuk mudharabah terhadap PT Adhi Karya adalah sebesar 0,040 atau 4% dan pengaruh lain diluar model pendapatan sukuk adalah 96%, yang berarti sukuk mudharabah tersebut belum menjadi hal utama dalam peningkatan pendapatan usaha.40 3. Titah Lestari Kosasih, meneliti tentang Pengumuman Penerbitan Obligasi Syariah Dampaknya Terhadap Return Saham (Studi peristiwa pada emiten yang terdaftar di BEI yang menerbitkan obligasi syariah periode 2005-2009) menghasilkan Perolehan return harian saham pada periode sebelum tanggal pengumuman penerbitan obligasi syariah secara umum cenderung menurun, yang terjadi karena harga-harga saham emiten juga cenderung menurun. Selama 5 periode return setelah penerbitan obligasi syariah, dihasilkan nilai rata-rata gabungan return harian saham sebesar negatif 0,016. Sedangkan Perolehan return harian saham sesudah pengumuman penerbitan obligasi syariah secara umum cenderung meningkat. Selama 5 periode return sesudah peristiwa pengumuman obligasi syariah tersebut, dihasilkan nilai rata-rata gabungan return harian saham sebesar positif 0,0058. Pengumuman penerbitan obligasi
+40 Ocke Saputro Listiyadi, Pengaruh Pendapatan Sukuk mudharabah terhadap Laba Usaha PT. ADHI KARYA, Jakarta: Fakultas Syariah dan Hukum UIN Syarif Hidayatullah, 2010
+
+67 syariah berpengaruh positif dan signifikan terhadap return saham harian. Berdasarkan uji Paired Sample Test menggunakan data rata-rata return per harian, diperoleh nilai t-hitung sebesar 3,469, lebih besar dari t-kritis pada taraf signifikansi 5% dan df = 4 yaitu 2,776, sehingga Ho ditolak dan Ha diterima. Hasil yang sama ditunjukkan dengan pengujian berdasarkan data rata-rata return per emiten, di mana diperoleh nilai t-hitung sebesar 2,366, lebih besar dari t-kritis pada taraf signifikansi 5% dan db = 14 yaitu 2,145, sehingga Ho ditolak dan Ha diterima Hal ini bermakna bahwa pasar telah bereaksi positif terhadap informasi pengumuman penerbitan obligasi syariah, dan obligasi syariah menjadi instrumen yang dipertimbangkan oleh investor ketika mengambil keputusan dalam perdagangan saham.41
+41 Titah Lestari Kosasih, Pengumuman Penerbitan Obligasi Syariah Dampaknya Terhadap Return Saham (Studi peristiwa pada emiten yang terdaftar di bei yang menerbitkan obligasi syariah periode 2005-2009), Jakarta: Universitas Komputer Indonesia, 2010
+
+68
+2.5 Kerangka Pikir Gambar 2.1
+Kerangka Pemikiran Teoritis
+Event Period
+
+Tahun 1
+
+Tahun 2
+
+Tahun 1
+
+Tahun 2
+
+Sebelum
+
+Penerbitan Sukuk
+
+Sesudah
+
+Net Income
+
+Net Income
+
+2.6 Hipotesis Hipotesis ini adalah jawaban yang bersifat sementara
+terhadap permasalahan penelitian sampai terbukti melalui data yang terkumpul. Untuk meneliti apakah terdapat kandungan informasi pada penerbitan sukuk korporasi, maka hipotesis yang ingin penulis ajukan dalam penelitian ini adalah sebagai berikut:
+H1: Terdapat perbedaan net income perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang terdaftar di Jakarta Islamic Index.
+H2: Tingkat net income perusahaan lebih tinggi sesudah penerbitan sukuk korporasi pada emiten yang terdaftar di Jakarta Islamic Index.
+
+BAB III METODE PENELITIAN
+3.1 Jenis dan Sumber Data 3.1.1 Jenis Penelitian Penelitian ini merupakan jenis penelitian kuantitatif. Metode Penelitian kuantitaif dapat diartikan sebagai metode penelitian yang berlandaskan pada filsafat positivisme, digunakan untuk meneliti pada populasi atau sampel tertentu, teknik pengambilan sampel pada umumnya dilakukan secara random, pengumpulan data menggunakan instrumen penelitian, analisis data bersifat kuantitatif atau statistik dengan tujuan untuk menguji hipotesis yang telah ditetapkan.1 Jenis penelitian ini menurut tingkat eksplanasi (penjelasan) adalah penelitian komparatif. Penelitian komparatif adalah suatu penelitian yang bersifat membandingkan, variabelnya masih sama dengan penelitian variabel mandiri, tapi untuk sampel yang lebih dari satu atau dalam waktu yang berbeda.2 Penelitian ini disebut dengan penelitian komparatif karena menguji parameter populasi yang berbentuk
+1 Sugiyono, Metode Penelitian Pendidikan Pendekatan Kuantitatif, Kualitatif, dan R & D, Bandung : ALFABETA, Cetakan X, 2010, h. 14
+2 Syofian Siregar, Statistik Deskriptif Untuk Penelitian, Jakarta : PT RajaGrafindo Persada, Cetakan I, 2010, h. 107
+69
+
+70
+
+3.1.2
+
+perbandingan. Hal ini juga dapat berarti menguji kemampuan generalisasi (signifikansi hasil penelitian) yang berupa perbandingan keadaan variabel dari dua sampel atau lebih.
+Penelitian ini dilakukan untuk membandingkan dan memperoleh bukti empiris adanya perbedaan Net Income sebelum dan sesudah adanya penerbitan sukuk korporasi emiten yang tergabung dalam Jakarta Islamic Index periode 20062014. Jenis Data
+Jenis data menurut sumbernya ada 2 macam, yaitu data primer dan data sekunder. Dalam penelitian ini menggunakan data sekunder. Data sekunder ada 2 macam, yaitu data sekunder internal dan eksternal. Data sekunder internal adalah data yang berasal dari laporan historis yang telah berbentuk arsip atau dokumen baik yang dipublikasikan atau tidak dipublikasikan dikumpulkan, sedangkan data sekunder eksternal adalah data yang diperoleh dari luar objek penelitian berupa publikasi dari pemerintah, internet dan data komersial.3
+
+3 Muhamad, Metodologi Penelitian Ekonomi Islam Pendekatan Kuantitatif, Jakarta : PT Raja Grafind Persada, 2008, h. 103
+
+71
+
+3.1.3
+
+Jenis data menurut waktu pengumpulannya juga ada 2 macam, yaitu data Time Series dan Cross Section. Dalam penelitian ini menggunakan data Time Series, yaitu data yang dikumpulkan dari waktu ke waktu pada suatu objek dengan tujuan untuk menggambarkan perkembangan dari objek tersebut.
+Jenis data menurut sifatnya juga ada 2 macam, yaitu data kualitatif dan kuantitatif. Dalam penelitian ini menggunakan data kuantitatif, yaitu data yang berupa angka, dapat dianalisis dengan menggunakan teknik perhitungan statistik. Sumber Data
+Sumber data yang diambil dalam penelitian ini adalah data sekunder. Data sekunder adalah data primer yang telah diolah lebih lanjut dan disajikan baik oleh pihak pengumpul data primer atau oleh pihak lain.4 Data sekunder adalah data yang diperoleh dari sumber kedua yang disajikan dalam bentuk tabeltabel atau diagram-diagram. Data yang dikumpulkan diperoleh dari Pojok BEI Fakultas Ekonomi dan Bisnis Islam UIN Walisongo Semarang, Pusat Informasi Pasar Modal (PIPM Semarang), serta diakses dari www.idx.co.id, www.ojk.co.id, ditambah
+
+4 Husain Umar, Research Methods in Finance and Banking, Jakarta: PT Gramedia Pustaka Utama, Cet. II, h. 82
+
+72
+dengan jurnal dan penelitian lain yang terkait dan relevan dengan penelitian ini. Data yang dikumpulkan untuk penelitian ini terdiri atas : a. Data perusahaan yang menerbitkan sukuk dan
+tergolong dalam Jakarta Islamic Index (JII) periode 2006-2014 yang masuk dalam kriteria sampel. b. Laporan keuangan perusahaan yang menerbitkan sukuk periode 2006-2014 untuk mengukur Net Income perusahaan. 3.2 Populasi dan Sampel 3.2.1 Populasi
+Populasi adalah keseluruhan subjek penelitian. Yaitu wilayah generalisasi yang terdiri atas objek atau subjek yang mempunyai kualitas dan karakteristik tertentu yang ditetapkan oleh peneliti untuk dipelajari dan kemudian ditarik kesimpulannya. Jadi populasi bukan hanya orang, tetapi juga objek dan benda-benda alam yang lain. Populasi juga bukan sekedar jumlah yang ada pada objek atau subjek yang dipelajari, tapi meliputi seluruh karakteristik atau sifat yang dimiliki oleh subjek atau objek yang diteliti itu. Apabila seseorang ingin meneliti semua elemen yang
+
+73
+
+3.2.2
+
+ada dalam wilayah penelitian, maka penelitiannya merupakan penelitian populasi.5
+Pada dasarnya objek penelitian dalam penelitian ini adalah emiten yang masuk kategori JII yang menerbitkan sukuk korporasi. Oleh karena itu, populasi dalam penelitian ini adalah emiten-emiten yang masuk kategori JII periode 2006 sampai periode penetapan 2014 dan menerbitkan sukuk korporasi. Sampel
+Sampel adalah bagian dari jumlah dan karakteristik yang dimiliki oleh populasi. Bila populasi besar dan penelitian tidak mungkin dilakukan pada semua yang ada pada populasi, misalnya karena keterbatasan dana, tenaga, dan waktu, maka peneliti dapat menggunakan sampel yang diambil dari populasi itu. Apa yang dipelajari dari sampel, kesimpulannya akan dapat diberlakukan untuk populasi. Untuk itu, sampel yang diambil dari populasi harus betul-betul representatif (mewakili).6
+Sampel dari penelitian ini adalah bagian dari jumlah populasi Perusahaan yang terdaftar dalam Jakarta Islamic Index periode 2006-2014 yang
+
+5 Sugiyono, Statistik Untuk Penelitian, Bandung : ALFABETA,
+Cetakan XII, 2007, h. 61 6 Ibid, h.62
+
+74
+
+3.2.3
+
+berjumlah 8 dari populasi 89 emiten yang memenuhi kriteria pengambilan sampel sebagaimana dijelaskan dalam metode pengambilan sampel. Metode Pengambilan Sampel
+Metode pengambilan sampel adalah teknik atau cara penarikan sampel dalam penelitian supaya sampel tersebut dapat dikatakan representative (mewakili populasi).7
+Dalam penelitian ini teknik pengambilan sampelnya menggunakan non-probability sampling dengan teknik purposive sampling. Non-probability sampling adalah teknik pengambilan sampel di mana setiap unsur dalam populasi tidak memiliki kesempatan atau peluang yang sama untuk dipilih sebagai sampel, bahkan probabilitas anggota tertentu untuk terpilih tidak diketahui. Pemilihan sampel ini juga didasarkan pada pertimbangan atau penilaian subjektif dan tidak pada penggunaan teori probabilitas. Sedangkan purposive sampling yaitu teknik penentuan sampel dengan pertimbangan atau kriteria tertentu.8
+Kriteria-kriteria yang digunakan adalah sebagai berikut:
+
+7 Ibid, h.68 8 Ibid
+
+75
+1. Emiten tergabung dalam Jakarta Islamic Index dalam kurun waktu Januari 2006 sampai dengan November 2014.
+2. Emiten menerbitkan sukuk selama periode listing di JII dari tahun 2006-2014.
+3. Emiten yang mempublikasikan laporan audit (Annual). Berdasarkan kriteria diatas, maka diperoleh 8
+perusahaan sebagai sampel dari 89 perusahaan syariah sebagai populasinya. 3.3 Teknik Pengumpulan Data Teknik pengumpulan data dapat dilakukan dengan cara observasi (pengamatan), interview (wawancara), kuesioner (angket), dokumentasi, dan gabungan dari keempatnya. Dalam penelitian ini, teknik pengumpulan data dilakukan dengan cara sebagai berikut : a. Observasi (pengamatan). Kegiatan dalam pengamatan ini adalah mengamati tanggal-tanggal penerbitan penerbitan sukuk, dan laporan keuangan pada bagian net income. b. Study pustaka, yaitu pengumpulan data dengan cara mengambil data dan sumber informasi dari bacaan yang berupa literature, buku dan jurnal yang sesuai dengan penelitian yang dilakukan. Setiap penelitian memerlukan bahan yang bersumber dari perpustakaan, bahan ini
+
+76
+meliputi buku-buku, majalah-majalah, pamflet.9 Tujuan dalam metode ini adalah untuk memperoleh kajian pustaka yang akan mendukung dalam penyusunan penelitian ini. c. Dokumentasi, yaitu mencari data mengenai hal-hal atau variebel- variabel yang berupa catatan, transkrip, buku, surat kabar, majalah, prasasti, notulen rapat, lengger, dan agenda.10 Data atau informasi tersebut diperoleh dari Pojok BEI Fakultas Ekonomi dan Bisnis Islam UIN Walisongo Semarang. Tujuan dari metode ini adalah untuk memperoleh data-data yang lebih tepat yang nantinya akan digunakan dalam penelitian. 3.4 Teknik Analisis Data
+Setelah semua data telah terkumpul dan diperiksa kebenaran serta kelengkapannya, maka tahap berikutnya adalah analisis data kuantitatif guna mempermudah penarikan kesimpulan. Metode dalam analisis data adalah mengelompokkan data berdasarkan variabel dan jenis responden, mentabulasi data berdasarkan variabel dari seluruh responden, menyajikan data tiap variabel yang diteliti, melakukan perhitungan untuk menjawab rumusan masalah,
+9 Nasution, Metode Reseach (Penelitian Ilmiah), Bumi Aksara: Jakarta, 2006, h. 145
+10 Suharsimi Arikunto, Prosedur Penelitian Suatu Pendekatan Praktik, Rineka Cipta: Jakarta, 2010, h. 201
+
+77
+dan melakukan perhitungan untuk menguji hipotesis.11 Secara komprehensif, teknik analisis data dalam penelitian ini sebagai berikut: 3.4.1 Analisis Deskriptif
+Analisis deskriptif adalah statistik yang digunakan untuk menganalisa data dengan cara mendeskripsikan atau menggambarkan data yang telah terkumpul sebagaimana adanya tanpa bermaksud membuat kesimpulan yang berlaku untuk umum atau generalisasi. 12
+Dalam penelitian ini, data net income perusahaan yang tergabung dalam Jakarta Islamic Index dicari rata-ratanya terlebih dahulu menggunakan program microsoft excel, kemudian membandingkan data sebelum penerbitan dengan setelah penerbitan sukuk korporasi. 3.4.2 Analisis dan Uji Hipotesis
+Hipotesis merupakan jawaban sementara terhadap rumusan masalah penelitian, di mana rumusan masalah penelitian dinyatakan dalam bentuk kalimat pertanyaan. Hipotesis juga dapat dikatakan
+11 Dermawan Sjahrial, Manajemen Keuangan Lanjutan, Jakarta : Mitra Wacana Media, 2007, h. 207
+12 Sugiyono, Metode Penelitian Kuantitatif Kualitatif Dan R&D, Bandung: Alfabeta, 2004, h. 169
+
+78
+sebagai jawaban teoritis terhadap rumusan masalah belum merupakan jawaban yang empirik dengan data.
+Jika variabel independen berkategori dua, maka uji statistik yang digunakan adalah uji beda ttest, jika variabel independen berkategori lebih dari dua digunakan analysis of variance (Anova), sedangkan jika variabel dependen lebih dari satu maka digunakan multivariate analysis of variance (Manova).13
+Metode yang dipakai dalam penelitian ini adalah metode uji beda rata-rata untuk dua sample berpasangan (Paired Sampel t-test) untuk menguji hipotesis pertama dan kedua. Metode uji beda ratarata untuk dua sampel berpasangan adalah suatu metode yang digunakan untuk membandingkan ratarata dua sampel yang saling berhubungan dalam satu kelompok.14 Metode uji beda rata-rata ini merupakan sebuah sampel dengan subjek yang sama namun mengalami dua perlakuan atau pengukuran yang berbeda, misalnya tentang Net Income sebelum penerbitan dengan setelah penerbitan sukuk korporasi.
+13 Imam Ghozali, Aplikasi Analisis Multivarite dengan Program IBM SPSS 19, Semarang : Undip, Cetakan V, 2011, hlm. 63
+14 Ibid, h.67
+
+79
+1) Uji Normalitas Sebelum dilakukan pengujian lebih lanjut
+terlebih dahulu akan dilakukan uji normalitas data agar tidak melangar asumsi dasar dari alat statistik yang digunakan, yaitu dengan menggunakan non-parametric test (One-Sample Kolmogorov-Smirnov Test).
+Pengujian normalitas dimaksudkan untuk mendeteksi apakah data yang akan digunakan sebagai pangkal tolak pengujian hipotesis merupakan data empirik yang memenuhi hakikat naturalistik. Hakikat naturalistik menganut faham bahwa fenomena (gejala) yang terjadi di alam ini berlangsung secara wajar dan dengan kecenderungan berpola. Dengan asumsi :
+Nilai Sig (p) <  (0,05) : distribusi tidak normal.
+Nilai Sig (p) >  (0,05) : distribusi normal. 2) Uji Paired Sample T-Test
+Tujuanya untuk menguji dua sampel berpasangan, apakah rata-ratanya sama atau berbeda secara signifikan. Karena data berpasangan maka secara otomatis banyak data
+
+80
+dari kedua sampel harus sama.15 Langkah pengujian Sample T-Test adalah sebagai berikut: 1. Menentukan Hipotesis
+H0 : Tidak terdapat perbedaan Net Income perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang terdaftar di Jakarta Islamic Index. H1 : Terdapat perbedaan Net Income perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang terdaftar di Jakarta Islamic Index. 2. Menentukan rata-rata net income masingmasing sampel, 2 tahun sebelum pengumuman dan 2 tahun setelah pengumuman penerbitan sukuk korporasi. 3. Menentukan kriteria penilaian:
+-t tabel  t hitung  t tabel : H0 Diterima -t hitung < -t tabel atau t hitung > t tabel : H0 Ditolak Berdasarkan Probabilitas: Nilai Sig (p) <  (0,05) : H0 Diterima. Nilai Sig (p) >  (0,05) : H0 Ditolak.
+15 Danang Sunyoto, Praktik SPSS untuk kasus, Yogyakarta: Nuha Medika, 2011, h.21
+
+81
+3.5 Definisi Operasional Variabel Variabel penelitian adalah suatu atribut, sifat, atau
+nilai dari orang, objek, atau kegiatan yang mempunyai variasi tertentu yang ditetapkan oleh peneliti untuk dipelajari dan ditarik kesimpulannya.16 3.5.1 Obligasi Syariah (Sukuk)
+Penerbitan sukuk oleh suatu perusahaan menjadi salah satu bentuk pendanaan segar yang dapat digunakan sebagai kegiatan operasionalnya. Pengumuman penerbitan sukuk menjadi informasi yang menarik bagi invetor (good news) karena dipersepsikan bahwa prospek perusahaan dimasa yang akan datang dinilai akan bagus. Adanya penerbitan sukuk menunjukan perusahaan akan melakukan ekspansi yang akan meningkatkan kinerja perusahaan.
+Investasi Sukuk, selain merupakan instrumen investasi yang sesuai dengan syariah islam, juga merupakan investasi yang relatif aman karena memiliki tingkat resiko yang relatif rendah. Hal ini disebabkan karena sukuk adalah investasi berbasis aset (asset-based investment), yaitu setiap penerbit sukuk harus memiliki aset yang dapat dijadikan sebagai underlying asset. Oleh sebab itu, Sukuk merupakan alat yang ideal bagi manajemen likuiditas
+16 Sugiyono, Metode..., h.61
+
+82
+
+3.5.2
+
+karena sukuk disamping memfasilitasi datangnya dana dari investor, juga merupakan instrumen investasi yang relatif aman disebabkan sukuk merupakan investasi berbasis aset. Pendanaan dari investasi sukuk harus ditujukan untuk kegiatan yang produktif (pendanaan proyek) dan tidak untuk kegiatan spekulatif. Sehingga resiko yang terjadi semata-mata disebabkan karena proyek dan bukan karena kegiatan spekulatif yang tidak memiliki keuntungan ekonomi riil. Net Income
+Net Income merupakan hal yang sangat vital menjadi analisis seorang investor, dimana seorang investor yang pemula akan berinvestasi kesuatu perusahaan dikarenakan perusahaan itu mempunyai laba. Jika sebuah perusahaan itu tidak mempunyai laba maka ketertarikan seorang investor terhadap perusahaan itu juga akan berkurang. Investor selalu beranggapan bahwa setiap perusahaan yang mempunyai laba maka akan mampu untuk memberikan imbalan yang baik terhadap seorang investor, sehingga return yang diharapkan mampu terwujud.
+
+BAB IV ANALISIS DATA DAN PEMBAHASAN
+4.1 Gambaran Umum Penelitian dan Data Deskriptif 4.1.1 Jakarta Islamic Index (JII) Jakarta Islamic Index (JII) diluncurkan oleh PT. Bursa Efek Indonesia (BEI) bekerja sama dengan PT. Danareksa Investment Management (DIM) pada pertengahan tahun 2000. Pembentukan indeks ini dalam rangka mengembangkan pasar modal syariah yang dimaksudkan untuk digunakan sebagai tolok ukur (benchmark) untuk mengukur kinerja suatu investasi pada saham yang berbasis syariah. Melalui indeks diharapkan dapat meningkatkan kepercayaan investor untuk mengembangkan investasi dalam ekuiti secara syariah. Jakarta Islamic Index (JII) terdiri dari 30 saham yang dipilih dari saham saham yang sesuai dengan syariah Islam. Penentuan kriteria pemilihan saham dalam Jakarta Islamic Index melibatkan Dewan Pengawas Syariah, PT. Danareksa Investment Management. Seperti halnya dalam Indeks LQ-45, seleksi saham untuk dimasukan dalam JII juga memasukkan kriteria-kriteria yang
+83
+
+84
+diukur secara ekonomi selain kriteria-kriteria syariah Islam. Urutan seleksi dilakukan sebagai berikut: 1) Memilih kumpulan saham dengan jenis usaha
+utama yang tidak bertentangan dengan prinsip syariah dan sudah tercatat lebih dari 3 bulan (kecuali termasuk dalam 10 kapitalisasi besar); 2) Memilih saham berdasarkan laporan keuangan tahunan atau tengah tahun berakhir yang memiliki rasio kewajiban terhadap aktiva maksimal sebesar 90%; 3) Memilih 60 saham dari susunan saham di atas berdasarkan urutan rata-rata kapitalisasi pasar (market capitalization) terbesar selama satu tahun terakhir; 4) Memilih 30 saham dengan urutan berdasarkan tingkat likuiditas rata-rata nilai perdagangan reguler selama satu tahun terakhir.
+Pengkajian ulang akan dilakukan 6 bulan sekali dengan penentuan komponen index pada awal bulan Januari dan Juli setiap tahunnya. Sedangkan perubahan jenis usaha emiten akan dimonitoring secara terus menerus berdasarkan data-data publik yang tersedia.
+
+85
+
+4.1.2
+
+Gambaran Umum Perusahaan Penelitian ini dilakukan terhadap emiten
+yang telah menerbitkan sukuk korporasi serta terdaftar di Jakarta Islamic Index periode 2006-2014. Pengambilan sampel menggunakan metode purposive sampling, yaitu mengambil perusahaan-perusahaan yang telah listing di Bursa Efek Indonesia dan menerbitkan sukuk korporasi. Mengacu pada Indonesian Capital Market Directory, siaran pers BAPEPAM-LK (sekarang telah berganti nama menjadi OJK) dan Bursa Efek Indonesia (www.idx.co.id), maka diperoleh 9 perusahaan yang memenuhi kriteria sampling, dimana tanggal penerbitan sukuk masing-masing perusahaan yang dijadikan sample sebagai berikut: 1. PT. Adhi Karya Tbk (ADHI)
+Architecten-Ingenicure-en Annemersbedrijf Associatie Selle en de Bruyn, Reyerse en de Vries N.V. (Assosiate N.V.) merupakan Perusahaan milik Belanda yang menjadi cikal bakal pendirian ADHI hingga akhirnya dinasionalisasikan dan kemudian ditetapkan sebagai PN Adhi Karya pada tanggal 11 Maret 1960. Nasionalisasi ini menjadi pemacu pembangunan infrastruktur di Indonesia.
+
+86
+
+Berdasarkan pengesahan Menteri Kehakiman
+
+Republik Indonesia, pada tanggal 1 Juni 1974,
+
+ADHI berubah status menjadi Perseroan
+
+Terbatas. Hingga pada tahun 2004 ADHI telah
+
+menjadi perusahaan konstruksi pertama yang
+
+terdaftar di Bursa Efek Indonesia.
+
+Status Perseroan ADHI sebagai
+
+Perseroan Terbatas mendorong ADHI untuk terus
+
+memberikan yang terbaik bagi setiap pemangku
+
+kepentingan pada masa perkembangan ADHI
+
+maupun industri konstruksi di Indonesia yang
+
+semakin melaju. Adanya intensitas persaingan
+
+dan perang harga antarindustri konstruksi
+
+menjadikan Perseroan melakukan redefinisi visi
+
+dan misi: Menjadi Perusahaan Konstruksi
+
+terkemuka di Asia Tenggara. Visi tersebut
+
+menggambarkan motivasi Perseroan untuk
+
+bergerak ke bisnis lain yang terkait dengan inti
+
+bisnis Perseroan melalui sebuah tagline yang
+
+menjadi penguat yaitu "Beyond Construction".
+
+Pertumbuhan
+
+yang
+
+bernilai
+
+dan
+
+berkesinambungan dalam Perseroan menjadi
+
+salah satu aspek penting yang senantiasa dikelola
+
+ADHI untuk memberikan yang terbaik kepada
+
+masyarakat luas.
+
+87
+
+ADHI telah mampu menunjukkan
+
+kemampuannya sebagai perusahaan konstruksi
+
+terkemuka di Asia Tenggara melalui daya saing
+
+dan pengalaman yang dibuktikan pada
+
+keberhasilan proyek konstruksi yang sudah
+
+dijalankan. Keberhasilan usaha yang sudah diraih
+
+ADHI bukan berarti tanpa dukungan dan peran
+
+serta masyarakat, untuk itu ADHI berperan aktif
+
+dalam mengembangkan program CSR serta
+
+Program Kemitraan & Bina Lingkungan
+
+Perseroan.
+
+2. PT. Berlian Laju Taner Tbk (BLTA)
+
+PT Berlian Laju Tanker Tbk (BLTA)
+
+didirikan tanggal 12 Maret 1981 dengan nama PT
+
+Bhaita Laju Tanker dan mulai beroperasi secara
+
+komersial pada tahun 1981. Kantor pusat BLTA
+
+terletak di Wisma BSG, Lt.10 Jl. Abdul Muis No.
+
+40. Jakarta. BLTA juga mempunyai dua kantor
+
+cabang di Merak dan Dumai.
+
+Induk usaha dan pemegang saham akhir
+
+BLTA adalah PT Bagusnusa Samudera Gemilang
+
+(Bagusnusa), sedangkan pengendali akhir adalah
+
+Bapak Hadi Surya.
+
+Berdasarkan
+
+Anggaran
+
+Dasar
+
+Perusahaan, ruang lingkup kegiatan BLTA
+
+88
+meliputi usaha dalam bidang perkapalan dalam dan luar negeri dengan menggunakan kapalkapal, termasuk tetapi tidak terbatas pada kapal tanker, tongkang dan kapal tunda (tugboat). BLTA bergerak dalam bidang jasa seperti pelayaran/angkutan laut dengan konsentrasi pada angkutan muatan bahan cair baik dalam kawasan Indonesia maupun Asia, Eropa dan Amerika.
+Pada tanggal 22 Januari 1990, BLTA memperoleh pernyataan efektif dari BapepamLK untuk melakukan Penawaran Umum Perdana Saham BLTA (IPO) kepada masyarakat sebanyak 2.100.000 dengan nilai nominal Rp1.000,- per saham dengan harga penawaran Rp8.500,- per saham. 3. PT. Indosat Tbk (ISAT)
+Pada tahun 1967 Indosat didirikan sebagai perusahaan penanaman modal asing pertama di Indonesia yang menyediakan layanan telekomunikasi internasional melalui satelit internasional. Kemudian pada tahun 1980 Indosat berkembang menjadi perusahaan telekomunikasi internasional pertama yang dibeli dan dimiliki 100% oleh Pemerintah Indonesia. Selanjutnya Indosat menjadi perusahaan publik yang terdaftar
+
+89
+di Bursa Efek Indonesia dan New York Stock Exchange di tahun 1994. Pemerintah Indonesia dan publik masing-masing memiliki 65% saham dan 35% saham.
+Pada tahun 2001 Indosat mengambil alih saham mayoritas Satelindo, operator selular dan SLI di Indonesia. Mendirikan PT Indosat Multimedia Mobile (IM3) sebagai pelopor jaringan GPRS dan layanan multimedia di Indonesia. Kemudian di tahun 2002 Pemerintah Indonesia menjual 8,10% saham di Indosat kepada publik dan selanjutnya menjual 41,94% kepada Singapore Technologies Telemedia Pte. Ltd. (STT). Selanjutnya pemerintah Indonesia memiliki 15% saham, STT memiliki 41,94% saham dan publik memiliki 43,06% saham Indosat. Tahun 2003 Bergabung dengan ketiga anak perusahaan yaitu, Satelindo, IM3, dan Bimagraha, untuk menjadi operator selular terkemuka di Indonesia dan ditahun 2006 Meraih lisensi jaringan 3G dan memperkenalkan layanan 3,5G di Jakarta dan Surabaya.
+Tahun 2008 Saham Indosat secara tidak langsung diakuisisi oleh Qatar Telecom (Qtel) Q.S.C. (Qtel) melalui Indonesia Communications
+
+90
+Limited (ICLM) dan Indonesia Communication Pte. Ltd. (ICLS) sejumlah 40,81%. Pemerintah Indonesia dan publik memiliki sisa saham masing-masing 14,29% dan 44,90%. Tepatnya pada tahun 2009 Qtel membeli saham seri B sebanyak 24,19% dari publik sehingga menjadi pemegang saham mayoritas Indosat dengan kepemilikan sebesar 65%. Selanjutnya Indosat dimiliki oleh Qatar Telecom (Qtel) Q.S.C. (Qtel) atas nama Ooredoo Asia Pte. Ltd. (dahulu Qtel Asia Pte. Ltd. (65%), pemerintah Indonesia (14,29%) dan publik (20,71%). Indosat memperoleh lisensi tambahan frekuensi 3G dari Kementerian Komunikasi dan Informatika, dan anak perusahaan, IM2, memenangkan tender untuk lisensi WiMAX yang diadakan pemerintah.
+Tahun 2010 Indosat memulai transformasi menyeluruh untuk menjadi perusahaan yang lebih fokus dan efisien melalui restrukturisasi organisasi, modernisasi dan ekspansi jaringan selular, dan inisiatif-inisiatif mencapai keunggulan operasional dan tepatnya di tahun 2012 Momentum untuk maju sebagai organisasi berfokus pada pelanggan yang mencapai 58,5 juta pelanggan didukung oleh
+
+91
+peningkatan jaringan serta innovasi produk yang berkelanjutan. Dan Ditahun 2013 Komersialisasi jaringan 3G Indosat di frekuensi 900MHz. 4. PT. Summarecon Agung Tbk (SMRA)
+Summarecon adalah perusahaan pelopor pembangunan dan pengembangan real estate di Jakarta. Perusahaan yang didirikan oleh Soetjipto Nagaria pada tahun 1975 ini memulai bisnisnya dengan membangun kawasan di Kepala Gading Permai, Jakarta. Dalam perkembangannya, perusahaan in telah mencatatkan sahamnya pada Bursa Efek Jakarta (BEJ) dan Bursa Efek Surabaya (BES). Selama bertahun-tahun Summarecon telah membangun reputasi sebagai salah satu pemain properti terkemuka di Indonesia, khususnya dalam pengembangan kotakota.
+Awal sejarah perusahaan ini ditandai dengan dibentuknya perusahaan PT Summarecon Agung pada tanggal 26 November 1975. Setahun kemudian, perusahaan memulai pengembangan perumahan di atas lahan seluas 10 hektar. Pada tahun 1978-1980, perusahaan mulai membangun banyak fasilitas seperti pasar tradisional dan sekolah. Perusahaan juga melakukan joint
+
+92
+venture untuk mengembangkan perkotaan Gading Serpong yang luasnya 1.500 hektar. Pembangunan terus berlanjut, baik itu apartemen, kompleks perumahan, bursa mobil, Mall, dan lainnya sampai sekarang ini. Saat ini Summarecon Agung telah menghasilkan hampir 20.000 unit rumah, apartemen, pusat perbelanjaan dan berbagai fasilitas lainnya di Mal Kelapa Gading
+Summarecon Agung (IDX:SMRA ) adalah sebuah perusahaan pengembang yang menjadi pioneer dalam mengembangkan wilayah Kelapa Gading, Jakarta. Summarecon Agung didirkan oleh Soetjipto Nagaria. Perusahaan ini juga mengembangkan sayapnya menjangkau wilayah Serpong, Tangerang dengan proyek Summarecon Serpongnya dan di wilayah Bekasi dengan Summarecon Bekasi. Perusahaan ini telah menjadi perusahaan terbuka sejak go public dan mencatatkan sahamnya di Bursa Efek Indonesia (BEI).
+SMRA Berdiri pada tahun 1961 dan mulai mengembangkan kawasan Kelapa Gading pada Agustus 1962 dengan Taman Rekreasi dan Perumahan Kelapa Gading Permai. Perlahan tapi
+
+93
+pasti, perkembangan perumahan diikuti oleh area ekonomi. Summarecon Agung juga mendirikan Ruko di sepanjang jalan Bulevar Kelapa Gading. Tahun 1967 mulai menjangkau daerah Gading Serpong.
+Pada tahun 1970 Klub Kelapa Gading yang merupakan klub olah raga (sport club) yang terlengkap dan terbesar di Indonesia pada saat itu berdiri. Tahun 1973-1974 membangun kompleks perumahan eksklusif di Bukit Gading Villa. Pada tanggal 7 Mei 1976, PT Summarecon Agung mencatatkan sahamnya di BEJ dan BES.
+Sementara itu tahun 1975, mulai membangun Plaza Kelapa Gading yang menjadi cikal bakal Mal Kelapa Gading. Tahun 1977 membangun apartemen pertamanya yaitu Summerville Apartments beserta Plaza Summarecon yang menjadi kantor pusatnya yang terletak di Jalan Perintis Kemerdekaan, Jakarta Timur.
+Sampai saat ini, pembangunan terus berlanjut, baik itu apartemen, kompleks perumahan, bursa mobil, Mall dan hotel. Saat ini Summarecon Agung telah menghasilkan hampir 20.000 unit rumah, apartemen, pusat
+
+94
+perbelanjaan dan berbagai fasilitas lainnya di Summarecon Kelapa Gading, Summarecon Serpong, dan Summarecon Bekasi. Ke depannya, Summarecon Agung juga akan memperluas usahanya ke Bandung dan Bogor.
+Dengan memiliki tiga lokasi utama yaitu Summarecon Kelapa Gading yang memiliki luas lahan 500 hektare, Summarecon Serpong yang mempunyai luas area sebesar 1500 hektare dan Summarecon Bekasi yang mempunyai luas 240 hektare perusahaan ini memiliki belasan proyek properti. 5. PT. Bakrieland Development Tbk (ELTY)
+PT Bakrieland Development Tbk (dahulu PT Elang Realty Tbk) (ELTY) didirikan dengan nama PT Purilestari Indah Pratama pada tanggal 12 Juni 1990 dan memulai kegiatan usaha komersialnya pada tahun 1990. Kantor pusat ELTY berlokasi di Gedung Wisma Bakrie 1 Lantai 6 dan 7, Jalan H.R. Rasuna Said Kav. B1, Jakarta Selatan.
+PT. Bakrieland Development Tbk adalah perusahaan pengembang kawasan terpadu di Indonesia yang bergerak dalam pembangunan properti dan proyek ­ proyek infrastruktur terkait
+
+95
+properti.Pada awalnya, Perusahaan didirikan dengan nama PT Purilestari Indah Pratama pada Juni 1990, kemudian berganti nama menjadi PT Elang Realty pada Desember 1994, sebelum menjadi PT Bakrieland Development Tbk pada tahun 1997. Sebagai pengembang superblok pertama dan terbesar di kawasan bisnis utama Jakarta, yaitu Rasuna Epicentrum Kuningan, Bakrieland telah berhasil mengembangkan berbagai proyek properti perkotaan, kawasan perumahan, konstruksi serta hotel dan resor kelas dunia di beberapa lokasi strategis dan bergengsi di Indonesia. Keberhasilan Bakrieland menyelesaikan ruas jalan tol Kanci-Pejagan di tahun 2009 menjadikan Bakrieland sebagai perusahaan properti pertama di Indonesia yang memiliki unit usaha dalam bidang pengembangan jalan tol berskala besar. Seluruh proyek Bakrieland dikembangkan dengan konsep ramah lingkungan dan bermanfaat bagi masyarakat sekitarnya. Perusahan ini tercatat dalm idx atau bursa efek Indonesia dengan kode ELTY.
+Visi dan Misi Perusahaan
+
+96
+
+Visi : menjadi perusahaan terkemuka di dunia
+
+dalam bidang real estat, properti, infrastuktur,
+
+dan bidang usaha terkait properti lainnya.
+
+Misi : dengan profesional mengembangkan dan
+
+mengelola portfolio investasi yang bermutu,
+
+didukung oleh tim yang berfokus pada kekuatan
+
+sumber daya manusia, teknologi informasi
+
+tercanggih, serta jaringan usaha yang kuat, guna
+
+meningkatkan nilai bagi pemegang saham.
+
+Pemegang saham yang memiliki 5% atau
+
+lebih saham ELTY adalah CGMI 1 Client
+
+Safekeeping Account (10,41%) dan PT Asuransi
+
+Jiwa Sinarmas MSIG (6,32%).
+
+Berdasarkan
+
+Anggaran
+
+Dasar
+
+Perusahaan, ruang lingkup kegiatan ELTY adalah
+
+bergerak dalam bidang pembangunan,
+
+perdagangan dan jasa, termasuk usaha jasa
+
+manajemen dan penyertaan pada Entitas yang
+
+berhubungan dengan usaha real estat dan
+
+properti, serta dalam bidang infrastruktur. Saat
+
+ini, ELTY dan anak usaha memiliki properti yang
+
+terletak di Jakarta, Bogor, Malang, Sukabumi,
+
+Bekasi, Lampung, Batam, Balikpapan,
+
+Tangerang dan Bali.
+
+97
+Pada tanggal 13 Oktober 1995, ELTY memperoleh pernyataan efektif dari BapepamLK untuk melakukan Penawaran Umum Perdana Saham (IPO) Perusahaan kepada masyarakat sebanyak 110.000.000 dengan nilai nominal Rp500,- per saham dengan harga penawaran Rp625,- per saham. Saham-saham tersebut dicatatkan pada Bursa Efek Indonesia (BEI) pada tanggal 30 Oktober 1995. 6. PT. Matahari Putra Prima Tbk (MPPA)
+PT Matahari Putra Prima Tbk. adalah perusahaan ritel Indonesia yang merupakan anak perusahaan dari perusahaan Grup Lippo. Perusahaan yang berdiri sejak tanggal 11 Maret 1986 ini mengoperasikan jaringan toko yang menjual barang-barang kebutuhan sehari-hari seperti, alat tulis, buku, pakaian, aksesoris, tas, sepatu, kosmetik dan peralatan listrik, dan pusat hiburan keluarga yaitu Time Zone. Perusahaan ini berkantor pusat di Tangerang, Banten.
+Di bawah perusahaan PT Matahari Putra Prima Tbk. beberapa perusahaan menjadi anak perusahaan antara lain PT Matahari Department Store Tbk, PT Matahari Super Ekonomi, Matahari International Finance Company B.V.,
+
+98
+PT Nadya Putra Investama, PT Taraprima Reksabuana, PT Matahari Kafe Nusantara, Matahari Finance B.V., PT Times Prima Indonesia, PT Prima Cipta Lestari, Matahari International B.V., PT Matahari Mega Swalayan, PT Matahari Mega Toserba, PT Matahari Boston Drugstore, Prime Connection Limited, Brighter Limited, PT Matahari Pacific dan PT Matahari Graha Fantasi. Perusahaan dan anak perusahaannya mengoperasikan toko di 79 lokasi, sedangkan PT Matahari Graha Fantasi mengoperasikan 70 pusat hiburan permanen dan 43 pusat hiburan keluarga non-permanen, PT Kali Prima Indonesia mengoperasikan 19 toko, PT Prima Gerbang Persada mengoperasikan 1 pusat perbelanjaan dan PT Prima Cipta Lestari mengoperasikan 9 restoran.
+Visi perusahaan adalah untuk menjadi ritel pilihan pertama para konsumen. Sedangkan misinya adalah untuk membawa nilai produk fashion dan jasa yang meningkatkan kualitas konsumen secara konsisten.
+Toko pertama PT Matahari Putra Prima Tbk. terletak di Pasar Baru, Jakarta yang berdiri sejak 1958. Pada tahun 1972, toko ini kemudian
+
+99
+berkembang menjadi perintis departement store pertama di Indonesia. 8 tahun kemudian, toko dibuka di luar Jakarta yaitu di Bogor dengan Sinar Matahari Bogor.
+Pada tahun 1992, perusahaan melakukan IPO di Bursa Efek Jakarta dan SUrabaya. Perusahaan kemudian melakukan ekspansi bisnis utama hingga pada tahun 2000 mampu meluncurkan kartu klub Matahari (MCC) 7. PT. Salim Ivomas Pratama Tbk (SIMP)
+Salim Ivomas Pratama Tbk (SIMP) didirikan dengan nama PT Ivomas Pratama tanggal 12 Agustus 1992 dan memulai kegiatan komersial pada tahun 1994. Kantor Pusat Perusahaan beralamat di Sudirman Plaza, Indofood Tower, Jl. Jenderal Sudirman Kav. 7678, Jakarta. Kelompok Usaha memiliki perkebunan-perkebunan dan pabrik-pabrik di propinsi Jakarta, Jawa Barat, Jawa Tengah, Jawa Timur, Riau, Sumatera Utara, Sumatera Selatan, Kalimantan Barat, Kalimantan Tengah, Kalimantan Timur, Sulawesi Utara, Sulawesi Tengah, Sulawesi Selatan dan Maluku Utara.
+Induk usaha dari Salim Ivomas Pratama Tbk adalah Indofood Sukses Makmur Tbk
+
+100
+
+(INDF) dan Indofood Agri Resources Ltd.
+
+(IndoAgri), Singapura, dimana INDF dan
+
+IndoAgri masing-masing memiliki 6,4% dan
+
+72,00% saham yang ditempatkan dan disetor
+
+penuh SIMP, sedangkan 60,5% saham IndoAgri
+
+secara tidak langsung dimiliki oleh INDF, jadi
+
+kepemilikan INDF secara efektif di SIMP adalah
+
+sebesar 51,3%. Adapun induk usaha terakhir dari
+
+Salim Ivomas Pratama Tbk adalah First Pacific
+
+Company Limited (FP), Hong Kong.
+
+Saat ini, Salim Ivomas Pratama Tbk
+
+memiliki anak usaha yang juga tercatat di Bursa
+
+Efek Indonesia (BEI), adalah Perusahaan
+
+Perkebunan London Sumatra Indonesia Tbk
+
+(LSIP).
+
+Berdasarkan
+
+Anggaran
+
+Dasar
+
+Perusahaan, ruang lingkup kegiatan SIMP dan
+
+Entitas-entitas Anak adalah produsen minyak dan
+
+lemak nabati serta produk turunannya yang
+
+terintegrasi secara vertikal, dengan kegiatan
+
+utama mencakup pemuliaan benih kelapa sawit,
+
+mengelola dan memelihara perkebunan kelapa
+
+sawit, produksi dan penyulingan minyak kelapa
+
+sawit mentah dan minyak kelapa mentah,
+
+pengelolaan dan pemeliharaan perkebunan karet
+
+101
+serta proses pemasaran dan penjualan produk akhir terkait. Kelompok Usaha juga mengelola dan memelihara perkebunan tebu terpadu, kakao, kelapa dan teh, serta memproses, memasarkan dan menjual hasil-hasil perkebunan tersebut.
+Merek-merek utama yang dimiliki SIMP, antara lain: untuk minyak goreng (Bimoli, Happy Salad Oil, Delima dan Mahakam) dan margarin & lemak nabati (Simas, Palmia, Simas Palmia, Amanda dan Malinda)
+Pada tanggal 27 Mei 2011, SIMP memperoleh pernyataan efektif dari BapepamLK untuk melakukan Penawaran Umum Perdana Saham SIMP kepada masyarakat sebanyak 3.163.260.000 dengan nilai nominal Rp200,- per saham saham dengan harga penawaran Rp1.100,per saham. Saham-saham tersebut dicatatkan pada Bursa Efek Indonesia (BEI) pada tanggal 09 Juni 2011. 8. PT. Mitra Adiperkasa Tbk (MAPI)
+PT Mitra Adiperkasa Tbk merupakan perusahaan ritel yang menaungi beberapa merek dagang terkenal di Indonesia. Didirikan pertama pada tahun 1995 dan kemudian pertama kali mencatatkan sahamnya di Bursa Efek Jakarta
+
+102
+pada tahun 10 November 2004. Secara keseluruhan, perusahaan ini telah memiliki 1395 gerai yang tersebar di lebih dari 50 kota-kota besar di seluruh Indonesia. Perusahaan ini terbagi menjadi beberapa bagian, yakni bagian Departemen Stores, Fashion, Active, Food and Beverage, Supermarket dan LifeStyle.
+Beberapa merek dagang di bawah naungan Mitra Adiperkasa antara lain makanan dan minuman (Starbucks, Spice Garden, Burger KingCold Stone, Creamery, Pizza Marzano, Domino's Pizza, Chatterbox Cafe, Courtyard),
+Department Store (Debenhams, Lotus, Seibu, Sogo), Kids (Kidz Station, Barbie, Osh Kosh B' Gosh), Fashion (Calvin Klein, Emporio Armani, Giorgio Armani, dan beberapa merek terkenal lainnya), Sport (Planet Sports, Planet Station, Adidas), dan beberapa merek lainnya.
+Dengan pencapaian yang diraih Mitra Adiperkasa, menempatkan perusahaan ini juga memperoleh beberapa penghargaan. Penghargaan tersebut antara lain masuk dalam rangking ke 23 dalam daftar Indonesia's Top 40 Companies AList majalah Forbes Indonesia tahun 2011, Indonesia's Most Admired Companies (Top 20)
+
+103
+
+oleh Fortune pada tahun 2012, nominasi dalam
+
+Indonesia Stock Exchange's Best Capital Award
+
+pada tahun 2012, SWA Indonesia's #1 Retail
+
+Company in Indonesia tahun 2012 serta SWA
+
+Indonesia's Top 100 Best Public Companies
+
+2012. Dengan pencapaian bisnis serta
+
+penghargaan yang telah diraih telah
+
+membuktikan eksistensi Mitra Adiperkasa
+
+sebagai salah satu perusahaan ritel terintegrasi di
+
+Indonesia.
+
+Mitra Adiperkasa Tbk (MAPI) didirikan
+
+tanggal 23 Januari 1995 dan mulai beroperasi
+
+secara komersial pada tahun 1995. Kantor pusat
+
+MAPI terletak di Sahid Sudirman Center lt. 29 Jl.
+
+Jend. Sudirman kav. 86 Jakarta 10220.
+
+Pemegang saham yang memiliki 5% atau
+
+lebih saham Mitra Adiperkasa Tbk (29/05/2015)
+
+adalah PT Satya Mulia Gema Gemilang
+
+(56,00%).
+
+Berdasarkan
+
+Anggaran
+
+Dasar
+
+Perusahaan, ruang lingkup kegiatan MAPI
+
+meliputi perdagangan, jasa, manufaktur,
+
+transportasi, pertanian, kehutanan, perkebunan,
+
+perikanan, peternakan dan pertambangan.
+
+Kegiatan utama MAPI adalah bergerak di bidang
+
+104
+perdagangan eceran, pakaian, sepatu, asesoris, tas dan peralatan olahraga di lebih dari 1.800 toko/outlet yang berlokasi di Jakarta, Bandung, Surabaya, Bali, Medan, Makassar, Batam, Manado dan kota-kota lainnya di Indonesia.
+Ijin distribusi merek (toko) yang dimiliki oleh MAPI, diantaranya: The Athlete's Foot (toko eceran), Adidas, Nine West, Wilson, Speedo, Kipling, Bandai, Oshkosh B'Gosh, H2O, Next, Airwalk, Rockport, Nautica, Lacoste, Barbie, Diadora, Wallis, Miss Selfridge, Dorothy Perkins, Topman, Topshop, US Kids Golf, Converse, Walt Disney dan Pandora.
+Adapun ijin distribusi merek (toko) yang dimiliki MAPI melalui anak usaha, antara lain: penjualan retail (Marks & Spencer, Zara, Zara Home, Massimo Dutti, Pull & Bear, Carter's OshKosh B'gosh, Blanco, Camper, Linea, Payless Shoesource, Stradivarius, Bershka, Spanx, Alpure H2O, Crabtree & Evelyn, Brooks Brothers, Sephora, Penshoppe, Gildan, Camaieu dan Cotton On), departemen store (Sogo, Lotus, Debenhams, Seibu, Alun-alun Indonesia, Galeries Lafayette dan Foodhall), kafe dan restoran (Chatter Box, Starbucks, Pizza Marzano,
+
+105
+
+Burger King, Cold Stone Creamery, Krispy
+
+Kreme, Paul Bakery & Resto dan Genki Sushi),
+
+toko buku (Kinokuniya Book Store) dan lain-lain
+
+(Sunter Mall).
+
+Pada tanggal 29 Oktober 2004, MAPI
+
+memperoleh pernyataan efektif dari Bapepam-
+
+LK untuk melakukan Penawaran Umum Perdana
+
+Saham MAPI (IPO) kepada masyarakat sebanyak
+
+500.000.000 dengan nilai nominal Rp500,- per
+
+saham dengan harga penawaran Rp625,- per
+
+saham. Saham-saham tersebut dicatatkan pada
+
+Bursa Efek Indonesia (BEI) pada tanggal 10
+
+Nopember 2004.
+
+Tabel 4.1 Tahun Penerbitan Sukuk Korporasi
+
+No. Nama Sukuk
+
+Struktur/ Akad
+
+1 Sukuk
+
+Mudhorobah
+
+Subordinasi
+
+Mudharabah
+
+Berkelanjutan
+
+I Adhi Tahap
+
+I
+
+2 Sukuk Ijarah Ijarah
+
+Berlian Laju
+
+Tanker
+
+3 Sukuk Indosat Ijarah
+
+Seri A
+
+4 Sukuk Ijarah I Ijarah
+
+Summarecon
+
+Nama
+
+Penerbit Efek
+
+PT.
+
+Adhi
+
+Karya
+
+(Persero). Tbk
+
+Tahun Penerbitan 2012
+
+PT. Berlian Laju Taner. Tbk PT. Indosat Tbk PT. Summarecon
+
+2007
+2009 2008
+
+106
+
+Agung
+
+Agung. Tbk
+
+5 Sukuk Ijarah I Ijarah
+
+PT. Bakrieland 2009
+
+Bakrieland
+
+Development.
+
+Development
+
+Tbk
+
+Seri A
+
+6 Sukuk Ijarah Ijarah
+
+PT. Matahari 2009
+
+Matahari
+
+Putra Prima
+
+Putra Prima II
+
+Seri A
+
+7 Sukuk Ijarah Ijarah
+
+PT. Salim 2009
+
+Salim Ivomas
+
+Ivomas
+
+Pratama I
+
+Pratama
+
+8 Sukuk Ijarah Ijarah
+
+PT.
+
+Mitra 2009
+
+Mitra Adi
+
+Adiperkasa.
+
+Perkasa Seri
+
+Tbk
+
+A
+
+Sumber: www.idx.co.id
+
+4.2 Deskripsi Variabel Penelitian 4.2.1 Deskripsi Sukuk Korporasi Penelitian ini bertujuan untuk mengetahui adanya berbedaan net income sebelum dan sesudah penerbitan sukuk korporasi. Jumlah sampel tidak didasarkan pada seluruh perusahaan yang menerbitkan sukuk, akan tetapi perusahaan yang tergabung dalam Jakarta Islamic Index periode 20062014 dan menerbitkan sukuk.
+
+107
+
+Tabel 4.2 Tanggal Pencatatan Sukuk Korporasi
+
+No Kode
+
+Tanggal
+
+Tanggal Jatuh
+
+Emiten
+
+Pencatatan
+
+Tempo
+
+1 ADHI
+
+27 Juni 2012 3 Juli 2017
+
+2 BLTA
+
+05 Juli 2007
+
+05 Juli 2012
+
+3 ISAT
+
+30 November 08 Desember
+
+2009
+
+2014
+
+4 SMRA 13 Juni 2008 25 Juni 2013
+
+5 ELTY
+
+29 Juni 2009 07 Juli 2011
+
+6 MPPA
+
+01 Maret 2009 14 April 2014
+
+7 SIMP
+
+20 November 01 Desember
+
+2009
+
+2014
+
+8 MAPI
+
+08 Desember 16 Desember
+
+2009
+
+20012
+
+Sumber: www.idx.co.id
+
+4.2.2 Net Income
+
+Dalam Penelitian ini net income yang
+
+dijadikan sebagai obyek penelitian adalah net income
+
+dua tahun sebelum dan sesudah penerbitan sukuk
+
+korporasi. Data tersebut diambil dari laporan
+
+keuangan masing-masing perusahaan yang dijadikan
+
+sebagai sampel penelitian.
+
+Tabel 4.3 Net Income Perusahaan yang Menerbitkan Sukuk
+
+EMITEN ADHI
+BLTA
+ISAT SMRA
+
+SEBELUM
+
+2010
+
+2011
+
+190,193,562,343 182,692,722,038
+
+2005
+
+2006
+
+645,185,592,405 1,205,279,899,017
+
+2007
+
+2008
+
+2,042,043,000,000 1,878,522,000,000
+
+2006
+
+2007
+
+SEDANG 2012
+2007
+2009 2008
+
+SESUDAH
+
+2013
+
+2014
+
+408,438,000,000 326,657,000,000
+
+2008
+
+2009
+
+1,557,962,000,000 2,849,150,000,000
+
+2010
+
+2011
+
+724,019,000,000 932,503,000,000
+
+2009
+
+2010
+
+108
+
+ELTY MPPA SIMP MAPI
+
+168,009,159,000 2007
+134,185,008,882 2007
+180,191,000,000 2007
+564,034,000,000 2007
+115,429,279,000
+
+159,839,096,000
+
+167,343,000,000
+
+2008
+
+2009
+
+2010
+
+272,100,000,000
+
+210,385,985,746
+
+2008
+
+2009
+
+2010
+
+183,330,000,000
+
+5,819,248,000,000
+
+2008
+
+2009
+
+2010
+
+927,555,000,000
+
+1,395,191,000
+
+2008
+
+2009
+
+2010
+
+-69,791,000,000
+
+201,071,362,000
+
+Sumber: Data Sekunder
+
+234,336,639,000 2011
+74,749,903,688 2011
+120,299,000,000 2011
+2,251,296,000, 2011
+360,424,992,000
+
+Berdasarkan tabel diatas, perusahaan dengan keuangan yang baik sebelum penerbitan sukuk korporasi salah satunya adalah PT Matahari Putra Prima Tbk (MPPA), terlihat pada tabel 4.3 tersebut net income perusahaan mengalami kenaikan dua tahun sebelum penerbitan, yakni Rp. 180,191 M ditahun 2007 dan 927,555 M pada tahun 2008. Kenaikan net income juga terjadi setelah penerbitan sukuk korporasi di tahun 2009 yaitu 5,819,248 M ditahun 2010 dan 2,251,296 ditahun 2011.
+Selain MPPA, kenaikan net income juga terjadi pada PT Salim Ivomas Pratama (SIMP). Penerbitan sukuk ditahun 2009 membuat perusahaan yang bergerak dibidang minyak nabati ini mengalami kenaikan dari tahun 2010 sebesar 1,396 M menuju 2,353 M, meski jika dibandingkan dengan sebelum penerbitan mengalami penurunan net income.
+Berbeda dengan MPPA atau SIMP, penurunan net income begitu terlihat pada perusahaan
+
+109
+seperti PT Adhi Karya yang menerbitkan sukuk pada tahun 2012, dan juga Bakrieland Development (ELTY) di tahun 2009. 4.3 Hasil Analisis Data dan Uji Hipotesis Selama tanggal penetapan Januari 2006 sampai dengan tanggal penetapan November 2014 perusahaan yang diambil dalam penelitian ini tercatat sebanyak 8 perusahaan yang tergabung dalam kelompok Jakarta Islamic Index (JII) yang telah memenuhi syarat kriteria sampel. Alasannya adalah karena peneliti mengambil perusahaan sampel berdasarkan teknik purposive sampling, artinya sampel dalam penelitian ini adalah populasi yang memenuhi kriteria sampel tertentu. Seperti termasuk dalam kelompok Jakarta Islamic Index (JII) pada periode penetapan Januari 2006 sampai dengan periode penetapan November 2014 dan juga emiten menerbitkan sukuk korporasi. Hasil pengolahan data berupa informasi untuk menguji apakah penetapan perusahaan yang menerbitkan sukuk korporasi yang tergabung dalam kelompok Jakarta Islamic Index (JII) mempunyai kandungan informasi tertentu yang dapat mempengaruhi emiten dalam pengambilan keputusan penggalian dana segarnya yang ditunjukkan dengan perbedaan net income setelah menerbitkan sukuk serta untuk mengetahui net income emiten setelah penerbitan sukuk lebih baik dari sebelum menerbitkan sukuk.
+
+110
+
+Sesuai dengan permasalahan dan perumusan model yang telah
+
+dikemukakan, serta kepentingan pengujian hipotesis, maka teknik
+
+analisis yang digunakan dalam penelitian ini meliputi analisis
+
+statistik. penelitian yang berupa angka-angka yang dianalisis dengan
+
+bantuan komputer melalui program SPSS 16.0.
+
+4.3.1 Uji Normalitas
+
+Sebelum melakukan uji statistik, langkah awal yang
+
+perlu dilakukan adalah menguji normalitas data yang akan
+
+diteliti agar tidak melanggar asumsi dasar dari alat statistik
+
+yang digunakan. Uji normalitas bertujuan untuk menguji
+
+apakah dalam model regresi variabel pengganggu memiliki
+
+distribusi normal. Untuk mendeteksi normalitas data dapat
+
+dilakukan dengan menggunakan kolmogrov-smirnov. Hasil uji
+
+normalitas menggunakan uji kolmogrov-smirnov adalah
+
+sebagai berikut:
+
+Tabel 4.4 Hasil Uji Normalitas
+
+One-Sample Kolmogorov-Smirnov Test
+
+N Normal Parametersa
+
+Mean
+
+Std. Deviation
+
+Most Extreme Differences
+
+Absolute
+
+Positive
+
+Negative
+
+Kolmogorov-Smirnov Z
+
+Asymp. Sig. (2-tailed)
+
+a. Test distribution is Normal.
+
+Sumber : Hasil Output SPSS (Npar Test)
+
+Sebelum
+8 5.4868E5 6.52804E5
+.327 .327 -.210 .924 .360
+
+Sesudah
+8 1.1043E6 1.08348E6
+.246 .246 -.187 .697 .716
+
+111
+
+4.3.2
+
+Dari tabel diatas diketahui bahwa nilai kolmogrov-smirnov untuk kategori sebelum penerbitan sukuk korporasi sebesar 0,924 dengan probabilitas signifikansi 0,360 ini menunjukan bahwa nilai sebelum penerbitan sukuk korporasi jauh diatas = 0,05. Hal ini mengartikan Hipotesis nol diterima dan Hipotesis alternatif ditolak atau variabel sebelum penerbitan sukuk korporasi terdistribusi secara normal.
+Begitu juga dengan kategori sesudah penerbitan sukuk korporasi, yaitu sebesar 0,697 dengan probabilitas signifikansi 0,716 ini menunjukan bahwa nilai sesudah penerbitan sukuk korporasi jauh diatas = 0,05 yang mengartikan variabel sesudah penerbitan sukuk korporasi terdistribusi secara normal. Analisis Statistik
+Analisis statistik digunakan untuk membuktikan hipotesis penelitian. Uji statistik yang digunakan dalam penelitian ini adalah uji t (paired sample t test). Dari hasil olahan data net income perusahaan yang menerbitkan sukuk korporasi yang ada, dihasilkan rata-rata sebagai berikut:
+
+112
+
+Tabel 4.5
+
+Rata-rata Net Income Sebelum dan Sesudah
+
+Penerbitan Sukuk
+
+(Dalam Milyaran Rupiah)
+
+No
+
+Emiten
+
+Sebelum
+
+Sesudah
+
+1 PT. Adhi Karya (Persero). Tbk
+
+186443.5
+
+385547.5
+
+2 PT. Berlian Laju Taner. Tbk
+
+925233
+
+2203556
+
+3 PT. Indosat Tbk 1960282.5
+
+828261
+
+4 PT.
+
+Summarecon
+
+163924.5
+
+200840
+
+Agung. Tbk
+
+5 PT. Bakrieland
+
+Development.
+
+203142.5 142567.5
+
+Tbk
+
+6 PT. Matahari Putra Prima
+
+181760.5
+
+2969774
+
+7 PT.
+
+Salim
+
+Ivomas Pratama
+
+745794.5
+
+1823244
+
+8 PT.
+
+Mitra
+
+Adiperkasa. Tbk
+
+22819
+
+280748.5
+
+Sumber: Data Sekunder yang terlah diolah
+
+4.3.3
+
+Pengujian Hipotesis Pertama Hipotesis pertama yang diajukan dalam
+penelitian ini adalah "Terdapat perbedaan net income perusahaan sebelum dan sesudah penerbitan sukuk korporasi emiten yang terdaftar di Jakarta Islamic Index". Dalam membuktikan atau melakukan pengujian hipotesis pertama ini digunakan uji t (paired sample t test) yaitu membandingkan nilai rata-
+
+113
+
+Pair 1
+
+rata net income dua tahun sebelum dan dua tahun
+
+sesudah menerbitkan sukuk korporasi.
+
+Adapun rumusan pengujian hipotesisnya adalah :
+
+Ho : µ1= µ 2 : Tidak terdapat perbedaan net income
+
+perusahaan sebelum dan sesudah
+
+penerbitan sukuk korporasi emiten
+
+yang terdaftar di Jakarta Islamic
+
+Index.
+
+Ha : µ 1 µ 2 : Terdapat perbedaan net income
+
+perusahaan sebelum dan sesudah
+
+penerbitan sukuk korporasi emiten
+
+yang terdaftar di Jakarta Islamic
+
+Index.
+
+Kriteria pengujian yaitu :
+
+Ho diterima jika sig - t (probabilitas) >
+
+0,05
+
+Ho ditolak jika sig - t (probabilitas) <
+
+0,05
+
+Dari hasil perhitungan dengan bantuan SPSS
+
+16.0 diperoleh hasil seperti Tabel 4.6 berikut:
+
+Tabel 4.6 Hasil Uji Paired Sample T-Test
+
+Paired Samples Statistics
+
+Sebelum Sesudah
+
+Mean 5.4868E5 1.1043E6
+
+N
+
+Std. Deviation Std. Error Mean
+
+8
+
+6.52804E5
+
+2.30801E5
+
+8
+
+1.08348E6
+
+3.83067E5
+
+114
+
+Pair 1
+
+Paired Samples Correlations
+
+N
+
+Correlation
+
+Sebelum & Sesudah
+
+8
+
+.173
+
+Sig. .683
+
+Berdasarkan tabel 4.6 menunjukan bahwa hasil pengujian
+
+dengan uji paired sample t-test sebelum penerbitan sukuk korporasi
+
+menunjukan nilai mean sebesar 5.4868E5 sedangkan sesudah
+
+penerbitan sukuk korporasi sebesar 1,1043E6. Besarnya korelasi yang
+
+terjadi antara nilai sebelum dan sesudah penerbitan sukuk adalah
+
+0,173 dengan probabilitas (sig.) 0,683. Hal ini menyatakan bahwa
+
+korelasi antara sebelum dan sesudah penerbitan sukuk korporasi tidak
+
+berhubungan secara nyata, karena nilai probabilitas > 0,05.
+
+Paired Samples Test
+
+Paired Differences
+T Df Sig. (2-tailed)
+
+Pair 1
+
+Sebelum Sesudah
+
+Mean
+
+-5.55642E5
+
+Std. Deviation
+
+1.16440E6
+
+Std. Error Mean
+
+4.11678E5
+
+95% Confidence Interval of the Lower
+
+Difference
+
+Upper
+
+-1.52910E6 4.17821E5
+
+-1.350
+
+7
+
+.219
+
+Sumber: Data Sekunder yang telah diolah
+
+115
+
+Berdasarkan uji paired sample t-test diatas, dapat
+
+diketahui bahwa perbedaan rata-rata net income sebelum
+
+penerbitan sukuk korporasi dengan sesudah penerbitan sukuk
+
+korporasi bulan listing (pada saat penetapan listing di Jakarta
+
+Islamic Index) diperoleh t-hitung sebesar -1.350 dengan
+
+signifikansi sebesar 0.219. Karena nilai signifikansi lebih
+
+besar dari pada 0,05 dapat disimpulkan berarti H0 diterima.
+
+Dengan demikian Hipotesis H1 telah terjawab, bahwa tidak
+
+ada perbedaan net income perusahaan antara sebelum dan
+
+sesudah penerbitan sukuk korporasi, atau dengan kata lain
+
+rata-rata net income perusahaan sebelum dan sesudah
+
+penerbitan sukuk korporasi adalah sama.
+
+4.3.4 Pengujian Hipotesis Kedua
+
+Hipotesis kedua yang diajukan dalam penelitian ini
+
+adalah "Tingkat net income perusahaan lebih tinggi setelah
+
+penerbitan sukuk korporasi". Dalam membuktikan atau
+
+melakukan pengujian hipotesis kedua ini dihasilkan output
+
+sebagai berikut:
+
+Tabel 4.7 Hasil Analisis Deskriptif Rata-rata Net Income
+Sebelum dan Sesudah Penerbitan Sukuk
+Descriptive Statistics
+
+N Minimum Maximum Mean
+
+Sebelum Sesudah Valid N (listwise)
+
+8 22819.00 8 1.43E5 8
+
+1.96E6 5.4868E5 2.97E6 1.1043E6
+
+Sumber : Data Sekunder yang telah diolah
+
+Std. Deviation 6.52804E5 1.08348E6
+
+116
+Dari tabel diatas diketahui bahwa rata-rata net income untuk sebelum penerbitan sukuk korporasi sebesar 5.4868E5 dan untuk sesudah penerbitan sukuk korporasi sebesar 1.1043E6. Hal ini menunjukan bahwa rata-rata return sesudah penerbitan sukuk tidak lebih baik dibandingkan sebelum penerbitan sukuk korporasi. Oleh karena itu, penerbitan sukuk korporasi tidak memberikan dampak perubahan net income pada emiten yang terdaftar di JII periode 2006-2014.
+Hal lain yang perlu dicermati pada tabel 4.7 diatas adalah besaran total resiko dari masing-masing net income tertuang dalam bentuk standar deviasi. Total resiko terbesar terdapat pada variabel sebelum penerbitan sukuk korporasi, yaitu sebesar 6.52804E5. Rentang perbedaan rata-rata net income maksimum sebesar 1.96E6 dan net income minimum sebesar 22819 yang relatif lebar menyebabkan tingginya total risiko yang dimiliki oleh variabel sebelum menerbitkan sukuk. Sedangkan total resiko terkecil terdapat pada variabel sesudah penerbitan sukuk korporasi, yaitu sebesar 1.08348E6. Rentang perbedaan rata-rata net income maksimum sebesar 2.97E6 dan net income minimum sebesar 1.43E5. Meskipun total risiko terkecil terdapat pada variabel sesudah penerbitan sukuk, hal ini juga diimbangi
+
+117
+dengan net income sesudah penerbitan yang rendah pula. 4.4 Pembahasan Penelitian ini mengenai perbandingan sebelum dan sesudah penerbitan sukuk korporasi terhadap net income perusahaan yang tergabung dalam Jakarta Islamic Index periode 2006-2014, mendapatkan hasil sebagai berikut: 4.4.1 Perbandingan Net Income Sebelum dan Sesudah Penerbitan Sukuk Korporasi
+Berdasarkan uji hipotesis pertama menunjukan nilai t hitung sebesar -1.350 dengan nilai probabilitas (Sig-t) sebesar 0.219 yang nilainya diatas level signifikan 0,05. Hasil tersebut menunjukan bahwa Hipotesis nol pertama tidak berhasil ditolak atau dapat dinyatakan bahwa penerbitan sukuk korporasi tidak mempunyai perbedaan yang signifikan terhadap net income perusahaan yang tergabung dalam Jakarta Islamic Index periode 2006-2014.
+Hasil penelitian ini mendukung penelitian sebelumnya yang dilakukan oleh Mochamad Rizki Pratama (2013) yang meneliti tentang pengaruh penerbitan obligasi syariah (sukuk) terhadap reaksi pasar modal di Indonesia. Hasilnya menunjukan bahwa kinerja cumulative abnormal return adalah
+
+118
+underperformance, baik nilai penerbitan sukuk maupun rating penerbitan sukuk.
+Hasil yang sama dilakukan oleh Ocke Saputro Listiyadi yang menguji pengaruh pendapatan sukuk mudharabah terhadap laba usaha PT. Adhi Karya memberikan kesimpulan atas penelitianya berdasarkan uji hipotesisnya, karena t hitung < t tabel, 0,646 < 1,812, maka H0 ditolak, artinya pendapatan sukuk tidak berpengaruh secara signifikan terhadap laba usaha. Dan berdasarkan hasil perhitungan koefisien determinasi (R Square), terlihat bahwa pengaruh pendapatan Sukuk mudharabah terhadap PT Adhi Karya adalah sebesar 0,040 atau 4% dan pengaruh lain diluar model pendapatan sukuk adalah 96%, yang berarti sukuk mudharabah tersebut belum menjadi hal utama dalam peningkatan pendapatan usaha.
+Perkembangan net income merupakan hal yang sangat penting bagi perusahaan yang telah go public. Hal ini menjadi cerminan kinerjanya selama satu periode dan sebagai informasi bagi mereka yang menaruh minat pada laporan keuangan. Pemakaian income sebagai pengukuran efisiensi manajemen, pemakaian angka-angka historical income untuk membantu meramalkan masa depan perusahaan atau
+
+119
+deviden diwaktu yang akan datang, dan pemakaian income sebagai keberhasilan dan pedoman mengenai keputusan-keputusan manajerial dimasa yang akan datang. Apabila diterbitkanya sukuk korporasi merupakan salah satu bentuk penggalian dana segar yang menguntungkan, maka akan tercermin dalam perubahan net income yang akan menghasilkan selisih return yang diharapkan dengan return yang sesungguhnya.
+Untuk kasus penelitian yang dilakukan peneliti saat ini, arah hubungan negatif antara penerbitan sukuk korporasi terhadap net income perusahaan sebagai hasil penelitian ini dapat terjadi karena rata-rata net income perusahaan cenderung mengalami penurunan mendominasi perusahaan lainya, selain itu tidak adanya perbedaan net income setelah penerbitan sukuk korporasi dipengaruhi oleh beberapa faktor. Faktor internal diantaranya berupa tingkat pengetahuan dan pemahaman masyarakat tentang sukuk, ketersediaan informasi , minat investor serta tingkat liquiditas dari sukuk itu sendiri. Sedangkan faktor eksternal rata-rata penurunan net income perusahaan yang telah menerbitkan sukuk terjadi pada saat kondisi keuangan indonesia yang sedang terguncang akibat adanya krisis moneter tahun
+
+120
+
+4.4.2
+
+2008. Oleh karena itu, secara agregat pengaruhnya akan negatif. Tingkat Net Income Pada Perusahaan Yang Menerbitkan Sukuk Korporasi
+Berdasarkan hasil yang ditunjukan tabel 4.7 diatas dapat diketahui bahwa perbedaaan net income dua tahun sebelum penerbitan sukuk korporasi dengan dua tahun sesudah penerbitan sukuk korporasi, menunjukan adanya perbedaan rata-rata net income sebesar -5.55642E5 dimana net income rata-rata sesudah penerbitan (1.1043E6) tidak lebih baik dibandingkan dengan net income rata-rata sebelum penerbitan (5.4868E5).
+Selain itu pada tabel 4.6 besarnya hubungan yang terjadi antara nilai sebelum dan sesudah penerbitan sukuk sebesar 0,173 dengan probabilitas (sig.) 0,683, menyatakan bahwa korelasi antara sebelum dan sesudah penerbitan sukuk korporasi tidak berhubungan secara nyata. Hal ini mengindikasikan kenaikan atau penurunan yang terjadi pada net income perusahaan tidak dipengaruhi oleh penerbitan sukuk, melainkan faktor lain seperti tinggi rendahnya hutang dan investasi, penjualan dan lain sebagainya.
+
+BAB V PENUTUP
+5.1 Kesimpulan Berdasarkan analisis data yang dilakukan untuk
+mengetahui perbandingan sebelum dan sesudah penerbitan sukuk korporasi terhadap net income perusahaan yang tergabung dalam Jakarta Islamic Index periode penelitian tahun 2006-2014 dimana jumlah sampel yang diteliti terdapat 8 sampel yang menjadi target penelitian, diperoleh hasil sebagai berikut: 1. Tidak terdapat perbedaan antara penerbitan sukuk
+korporasi terhadap net income perusahaan. Hasil ini dibuktikan dari nilai t hitung sebesar -1.350 dengan nilai probabilitas (Sig-t) sebesar 0.219 yang nilainya diatas level signifikan 0,05. Hasil tersebut menunjukan bahwa Hipotesis nol pertama tidak berhasil ditolak atau dapat dinyatakan bahwa penerbitan sukuk korporasi tidak mempunyai perbedaan yang signifikan terhadap net income perusahaan yang tergabung dalam Jakarta Islamic Index periode 2006-2014.
+Hasil tersebut memberikan informasi bahwa adanya penerbitan sukuk korporasi emiten yang tergabung dalam Jakarta Islamic Index tidak memberikan dampak pada net income perusahaan. Untuk kasus penelitian yang
+121
+
+122
+dilakukan peneliti saat ini, arah hubungan negatif antara penerbitan sukuk korporasi terhadap net income perusahaan sebagai hasil penelitian ini dapat terjadi karena rata-rata net income perusahaan cenderung mengalami penurunan mendominasi perusahaan lainya, selain itu tidak adanya perbedaan net income setelah penerbitan sukuk korporasi dipengaruhi oleh beberapa faktor. Faktor internal diantaranya berupa tingkat pengetahuan dan pemahaman masyarakat tentang sukuk, ketersediaan informasi , minat investor serta tingkat liquiditas dari sukuk itu sendiri. Sedangkan faktor eksternal rata-rata penurunan net income perusahaan yang telah menerbitkan sukuk terjadi pada saat kondisi keuangan indonesia yang sedang terguncang akibat adanya krisis moneter tahun 2008. Oleh karena itu, secara agregat pengaruhnya akan negatif. 2. Dari perhitungan Net income perusahaan yang menerbitkan sukuk rata-rata net income variabel sebelum penerbitan sukuk korporasi sebesar 5.4868E5 dan variabel sesudah penerbitan sukuk korporasi sebesar 1.1043E6. Hal ini menunjukan bahwa rata-rata return sesudah penerbitan sukuk tidak lebih baik dibandingkan sebelum penerbitan sukuk korporasi. besarnya hubungan yang terjadi antara nilai sebelum dan sesudah penerbitan sukuk sebesar 0,173 dengan probabilitas (sig.) 0,683,
+
+123
+menyatakan bahwa korelasi antara sebelum dan sesudah penerbitan sukuk korporasi tidak berhubungan secara nyata. Hal ini mengindikasikan kenaikan atau penurunan yang terjadi pada net income perusahaan tidak dipengaruhi oleh penerbitan sukuk, melainkan faktor lain seperti tinggi rendahnya hutang dan investasi, penjualan dan lain sebagainya. 5.2 Saran
+Berdasarkan hasil penelitian yang diperoleh, maka dapat disarankan sebagai berikut: 1. Bagi Emiten
+Hasil penelitian ini dapat digunakan sebagai informasi bagi emiten dalam mengambil keputusan terkait penggalian dana segarnya. 2. Bagi Peneliti Selanjutnya
+Saran-saran untuk peneliti selanjutnya antara lain:  Memperluas kriteria sampel dengan menggunakan
+perusahaan-perusaaan yang tergolong dalam ISSI (Index Saham Syariah Indonesia).  Menambah variabel penelitian yang sering digunakan perusahaan dalam menggali dana segarnya, seperti misalnya Rights issue  Melakukan penelitian dengan topik yang sama, namun menggunakan variabel independen dan dependen yang berbeda dari penelitian yang telah
+
+124
+peneliti lakukan saat ini. Seperti misalnya perbandingan sukuk korporasi dengan sukuk negara. 5.3 Penutup Puji syukur Alhamdulillahirobbil `alamin penulis panjatkan kehadirat Allah SWT. Tiada lain karena nikmat, hidayah serta karunia-Nya penulis dapat menyelesaikan skripsi ini. Penulis menyadari sepenuhnya bahwa dalam penulisan, pembahasan dan penyajian skripsi ini masih terdapat banyak kekurangan, baik dalam segi bahasa, penulisan, penyajian, sistematika maupun analisisnya. Oleh karena itu, saran yang konstruktif dan kritik yang edukatif sangat penulis harapkan demi kesempurnaan dan kemanfaatan bersama. Akhirnya dengan memanjatkan doa kehadirat Allah SWT, penulis berharap mudah-mudahan skripsi ini dapat memberikan manfaat dan semakin menambah khazanah keilmuan kita semua khususnya keilmuan Ekonomi Islam. Amin yaa Rabbal `alamin.
+
+DAFTAR PUSTAKA
+Abdullah Almuslih dan Shalah Ash shawi, Fiqih Ekonomi Keuangan Islam, Jakarta: Darrul Haq, 2004, Cet.1.
+Adrian Sutedi, Pasar Modal Syariah, Jakarta: Sinar Grafika: 2011.
+Andri Soemitra, Bank dan Lembaga Keuangan Syariah, Jakarta: PT. Kencana Prenada Media Group, 2009.
+BAPEPAM-LK, Undang-Undang Republik Indonesia Nomor 8 Tahun 1995 tentang Pasar Modal, Jakarta: BAPEPAM-LK.
+Danang Sunyoto, Praktik SPSS untuk kasus, Yogyakarta: Nuha Medika, 2011.
+Dermawan Sjahrial, Manajemen Keuangan Lanjutan, Jakarta : Mitra Wacana Media, 2007.
+Departemen Keuangan RI Bapepam-LK Nomor IX.A.13 tentang Penerbitan Efek Syariah
+Direktorat Kebijakan Pembiayaan syariah Direktorat Jendral Pengelolaan utang departemen keuangan, Mengenal Sukuk Instrumen Investasi dan Pembiayaan Berbasis Syariah, Artikel diakses pada 13 mei 2015 dari www.dmo.or.id/dmodata/sukuk
+DSN-MUI, Obligasi Syariah Mudharabah, Fatwa Dewan Syariah Nasional Nomor: 33/DSN-MUI/IX/2002.
+Erry Firmansyah, Metamorfosa Bursa Efek, Penerbit Bursa Efek Indonesia, Jakarta, 2010.
+Fatwa Dewan Syariah Nasional No. 32/DSN-MUI/IX/2002 tentang Obligasi Syariah
+
+Gunawan Wijaya, Efek Sebagai Benda, Jakarta: PT Raja Grafindo Persada, 2005.
+Heri Sudarsono, Bank dan Lembaga Keuangan Syariah Deskripsi dan Ilustrasi, Yogyakarta: Ekonisia, 2008, Cet. Ke-1
+Husain Umar, Research Methods in Finance and Banking, Jakarta: PT Gramedia Pustaka Utama, Cet. II.
+Imam Ghozali, Aplikasi Analisis Multivarite dengan Program IBM SPSS 19, Semarang : Undip, Cetakan V, 2011.
+Muhamad, Metodologi Penelitian Ekonomi Islam Pendekatan Kuantitatif, Jakarta : PT Raja Grafind Persada, 2008.
+M. Nafik, Bursa Efek dan Investasi Syariah, Jakarta: Sinar Grafika, 2009.
+Nurul Huda dan Mustafa Edwin Nasution, Investasi Pada Pasar Modal Syariah, Jakarta: Kencana, 2008, Cet. Ke-2.
+Nasution, Metode Reseach (Penelitian Ilmiah), Bumi Aksara: Jakarta, 2006.
+Ocke Saputro Listiyadi, Pengaruh Pendapatan Sukuk mudharabah terhadap Laba Usaha PT. ADHI KARYA, Jakarta: Fakultas Syariah dan Hukum UIN Syarif Hidayatullah, 2010.
+Sawidji Widoatmoko, Pasar Modal Indonesia Pengantar dan Studi Kasus, Bogor: Ghalia Indonesia, 2009.
+Standar Akuntansi Syariah Pasar Modal, Tim Studi Standar Akuntansi Syariah di Pasar Modal Indonesia, Badan Pengawas Pasar Modal dan LK Departemen Keuangan RI, 2007.
+
+Moh. Rizky Pratama, Pengaruh penerbitan Obligasi Syariah (sukuk) Terhadap Reaksi Pasar Modal Indonesia, Bandung: Fakultas Ekonomi Universitas Widyatama, 2013.
+Suad Husnan, Dasar-dasar Teori Portofolio dan Analisis Sekuritas, Yogyakarta: UPP AMP YKPN.
+Sugiyono, Metode Penelitian Kuantitatif Kualitatif Dan R&D, Bandung: Alfabeta, 2004.
+Sugiyono, Metode Penelitian Pendidikan Pendekatan Kuantitatif, Kualitatif, dan R & D, Bandung : ALFABETA, Cetakan X, 2010.
+Sugiyono, Statistik Untuk Penelitian, Bandung : ALFABETA, Cetakan XII, 2007.
+Suharsimi Arikunto, Prosedur Penelitian Suatu Pendekatan Praktik, Rineka Cipta: Jakarta, 2010.
+Sunariyah, Pengantar Pengetahuan Pasar Modal, Yogyakarta: STIE YKPN, 2011, Edisi Keenam
+Sunarsih, Potensi Obligasi Syariah Sebagai Sumber Pendanaan Jangka Menengah dan Panjang bagi Perusahaan di Indonesia, Jurnal Asy-Syir'ah Fakultas Syariah UIN Sunan Kalijaga. Vol.42 No. I.
+Syofian Siregar, Statistik Deskriptif Untuk Penelitian, Jakarta : PT RajaGrafindo Persada, Cetakan I, 2010, h. 107.
+Tavinayati Yulia Qamariyanti, Hukum Pasar Modal di Indonesia, Jakarta: Sinar Grafika, 2009.
+Tjiptono Darmadji, Pasar Modal di Indonesia- Pendekatan Tanya Jawab, Jakarta: Penerbit Salemba Empat, 2006.
+
+Titah Lestari Kosasih, Pengumuman Penerbitan Obligasi Syariah Dampaknya Terhadap Return Saham (Studi peristiwa pada emiten yang terdaftar di bei yang menerbitkan obligasi syariah periode 2005-2009), Jakarta: Universitas Komputer Indonesia, 2010.
+
+DAFTAR RIWAYAT HIDUP
+
+A. IDENTITAS DIRI 1. Nama Lengkap 2. Jenis Kelamin 3. Tempat, Tanggal Lahir 4. Status Perkawinan 5. Kewarganegaraan 6. Agama 7. Alamat Tinggal
+8. Alamat Sekarang
+9. Nama Ayah 10. Nama Ibu 11. Pekerjaan Orang Tua
+
+: Evant Andi Aenurohman : Laki-laki : Tegal, 4 Maret 1993 : Belum Menikah : WNI : Islam : Jl. KH. Abdul Wahid No.1 Dk. Renon Desa Pagerwangi RT 01/02 Kec. Balapulang Kab. Tegal : Perum Karonsih Utara No. 1120
+Ngaliyan Semarang : Zaenal Abidin : Mujaziroh : Wiraswasta
+
+B. RIWAYAT PENDIDIKAN
+
+1. SD : SD Negeri Pagerwangi
+
+(Lulus Tahun 2004)
+
+2. MTs : MTs N Model Babakan
+
+(Lulus Tahun 2007)
+
+3. SMA : SMA N 3 Slawi
+
+(Lulus Tahun 2010)
+
+4. Mahasiswa Fakultas Ekonomi dan Bisnis Islam UIN
+
+Walisongo Semarang Angkatan 2011.
+
+Demikian daftar riwayat hidup ini dibuat dengan sebenarnya dan semoga dapat digunakan sebagai mestinya.
+
+Semarang, 17 Juni 2015 Penulis
+
+Evant Andi Aenurohman 112411080
+
+LAMPIRAN-LAMPIRAN
+Lampiran 1 : Uji Normalitas Lampiran 2 : Uji Paired Sample T-Test Lampiran 3 : Deskriptive Sample Statistic Lampiran 4 : Net Income Perusahaan yang Menerbitkan Sukuk
+
+Lampiran 1 Uji Normalitas
+
+One-Sample Kolmogorov-Smirnov Test
+
+Sebelum
+
+N Normal Parametersa
+
+Mean
+
+8 5.4868E5
+
+Std. Deviation 6.52804E 5
+
+Most Extreme
+
+Absolute
+
+.327
+
+Differences
+
+Positive
+
+.327
+
+Negative
+
+-.210
+
+Kolmogorov-Smirnov Z
+
+.924
+
+Asymp. Sig. (2-tailed)
+
+.360
+
+a. Test distribution is Normal.
+
+Sesudah 8
+1.1043E6
+1.08348E6
+.246 .246 -.187 .697 .716
+
+Lampiran 2
+
+Uji Paired Sample T-Test
+
+Paired Samples Statistics
+
+Std. Mean N Deviation
+
+Pair 1 Sebelum
+
+5.4868E 5
+
+8
+
+6.52804E5
+
+Sesudah
+
+1.1043E 6
+
+8
+
+1.08348E6
+
+Std. Error Mean 2.30801E5
+3.83067E5
+
+Paired Samples Correlations
+
+N Correlation
+
+Pair 1 Sebelum & Sesudah
+
+8
+
+.173
+
+Sig. .683
+
+Paired Samples Test
+
+Paired
+
+Mean
+
+Differences Std. Deviation
+
+Std. Error Mean
+
+95% Confidence Interval of the Difference
+
+t
+
+df
+
+Sig. (2-tailed)
+
+Lower Upper
+
+Pair 1 Sebelum Sesudah -5.55642E5
+1.16440E6 4.11678E5 -1.52910E6
+4.17821E5
+-1.350 7
+.219
+
+Lampiran 3
+Analisis Deskriptif Rata-rata Net Income Sebelum dan Sesudah Penerbitan Sukuk
+
+Descriptive Statistics
+
+N Minimum Maximum Mean
+
+Std. Deviation
+
+Sebelum
+
+8 22819.00
+
+Sesudah
+
+8 1.43E5
+
+Valid N (listwise) 8
+
+5.4868E 1.96E6
+5 1.1043E 2.97E6
+6
+
+6.52804E5 1.08348E6
+
+Lampiran 4
+
+Net Income Perusahaan yang Menerbitkan Sukuk
+
+EMITEN ADHI BLTA ISAT SMRA ELTY MPPA SIMP MAPI
+
+SEBELUM
+
+2010
+
+2011
+
+190,193,562,343
+
+182,692,722,038
+
+2005
+
+2006
+
+645,185,592,405 1,205,279,899,017
+
+2007
+
+2008
+
+2,042,043,000,000 1,878,522,000,000
+
+2006
+
+2007
+
+168,009,159,000
+
+159,839,096,000
+
+2007
+
+2008
+
+134,185,008,882
+
+272,100,000,000
+
+2007
+
+2008
+
+180,191,000,000
+
+183,330,000,000
+
+2007
+
+2008
+
+564,034,000,000
+
+927,555,000,000
+
+2007
+
+2008
+
+115,429,279,000
+
+-69,791,000,000
+
+SEDANG 2012 2007 2009 2008 2009 2009 2009 2009
+
+SESUDAH
+
+2013
+
+2014
+
+408,438,000,000 326,657,000,000
+
+2008
+
+2009
+
+1,557,962,000,000 2,849,150,000,000
+
+2010
+
+2011
+
+724,019,000,000 932,503,000,000
+
+2009
+
+2010
+
+167,343,000,000 234,336,639,000
+
+2010
+
+2011
+
+210,385,985,746 74,749,903,688
+
+2010
+
+2011
+
+5,819,248,000,000 120,299,000,000
+
+2010
+
+2011
+
+1,395,191,000 2,251,296,000,
+
+2010
+
+2011
+
+201,071,362,000
+
+360,424,992,000

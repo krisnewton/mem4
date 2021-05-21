@@ -1,0 +1,2262 @@
+1 Praktikum Paket Program Aplikasi
+MODUL PRAKTIKUM PAKET PROGRAM APLIKASI
+Comlab Fakultas Ilmu Komputer UNIVERSITAS SRIWIJAYA 2012
+Editor : Desty Rodiah
+
+Comlab FASILKOM UNSRI 2012
+
+Praktikum Paket Program Aplikasi 2
+1. Editing, Formatting dengan Microsoft Word 2007
+1.1 Mengenal Microsoft Word 2007
+Microsoft word 2007 adalah merupakan software aplikasi pengolah kata (Word Processing) yang akan membantu untuk membuat dokumen dari yang paling sederhana seperti surat pendek beserta amplopnya sampai dengan dokumen panjang misalnya membuat laporan karya ilmiah. Fasilitas yang disediakan semakin lengkap seperti menulis dengan menggunakan Table atau kolom seperti surat kabar, membuat label surat, penggabungan surat, membuat halaman web atau mengirim Email, Faximile
+1.2 Bekerja dengan Microsoft Word 2007
+Untuk memulai bekerja dengan Microsoft Word 2007 Anda harus melakukan langkahlangkah seperti berikut:
+1. Klik tombol Start Menu yang ada pada taskbar 2. Arahkan kursor pada Program/All Programs kemudian cari Microsoft Office, 3. Kemudian klik pada Microsoft Word 2007
+Gambar 1.1 Membuka Microsoft Word 2007
+1.3 Mengenal Lingkungan Kerja Microsoft Word 2007
+Pertama kali Anda akan diperkenalkan dengan tampilan baru dari Microsoft Word 2007 yaitu: Microsoft Office Button, Ribbon, Quick Access Bar, Contextual Tool, Live Preview, Mini Menu.
+Microsoft Office 2007 telah hadir dengan tampilan baru yang membuat orang yang
+
+Comlab FASILKOM UNSRI 2012
+
+3 Praktikum Paket Program Aplikasi terbiasa menggunakan Microsoft Office versi terdahulu akan sedikit mengernyitkan dahi jika pertama kali menggunakannya. Namun dibalik perubahan yang sangat significant tersebut tersembunyi kemudahankemudahan yang sangat membantu pekerjaan sehari-hari Anda.
+Gambar 1.2. Tampilan Awal Word 2007 1.3.1 Microsoft Office Button
+Pada versi Microsoft Office terdahulu jika Anda ingin menampilkan file-file yang telah Anda buka sebelumnya, perintah-perintah untuk menyimpan dokumen, mencetak dokumen atau untuk mengirimkan file melalui E-mail Anda temukan pada Menu File tapi pada versi Microsoft Office 2007 hal-hal tersebut dapat Anda temukan pada Microsoft Office Button yang terdapat pada bagian kiri atas tepat sebelah kiri dari Quick Access Toolbar.
+Gambar 1.3. Menu yang ditampilkan oleh Office Button
+
+Comlab FASILKOM UNSRI 2012
+
+Praktikum Paket Program Aplikasi 4
+1.3.2 Ribbon Anda akan mudah menemukan perintah-perintah yang biasa Anda gunakan tanpa
+harus membuka banyak menu. Ada fasilitas baru yang disediakan oleh Microsoft Word 2007, yaitu Ribbon yang menampilkan semua perintah-perintah yang biasa digunakan.
+Gambar 1.4 Ribbon Pada Ribbon terdapat bagian-bagian yang dapat dengan mudah anda gunakan seperti terlihat pada Gambar 1.5. Bagian-bagian Ribbon berikut. Keterangan Gambar : a. Tabs : Ribbon mempunyai tujuh Tab dasar pada terdapat pada bagian atas. Setiap Tab mewakili satu area kerja. b. Groups: Setiap tab mempunyai beberapa group yang menunjukkan pokok bahasan yang saling berhubungan. Beberapa group mempunyai panah diagonal kecil yang terdapat pada pojok kanan bawah yang disebut dengan Dialog Box Launcher. Dialog Box Launcher menampilkan dialog box atau task pane yang sudah kita kenal pada versi word sebelumnya. c. Commands: Command adalah tombol, menu atau kotak yang bisa digunakan untuk memasukkan informasi.
+Gambar 1.5 Bagian ­ bagian Ribbon
+
+Comlab FASILKOM UNSRI 2012
+
+5 Praktikum Paket Program Aplikasi
+Gambar 1.6 Dialog Box Launcher dengan super tooltips Ribbon dapat disembunyikan sementara jika dirasa mengganggu proses penulisan dokumen dengan cara melakukan double click pada tab yang aktif. Jika ingin menampilkan lagi lakukan double click lagi pada tab maka Ribbon akan tampil kembali.
+Gambar 1.7 Tampilan Ribbon yang diminimize 1.3.3 Quick Access Bar
+Quick Access Toolbar adalah suatu area yang terdapat pada bagian kiri atas dari Ribbon. Quick Access Toolbar berisi perintah-perintah yang sering digunakan seperti Save, Undo,and Repeat.
+Anda dapat menambahkan perintah-perintah lain pada Quick Access Toolbar dengan cara click kanan pada area group kemudian akan muncul menu lalu pilih Add to Quick Access Toolbar.
+Ada cara lain untuk menambahkan perintah-perintah pada Quick Access Toolbar dengan cara menekan tanda panah bawah, Customize Quick Access Toolbar, yang berada disamping Quick Access Toolbar lalu pilih perintah-perintah yang ingin Anda tambahkan pada Quick Access Toolbar.
+
+Comlab FASILKOM UNSRI 2012
+
+Praktikum Paket Program Aplikasi 6 Gambar 1.8 Menambahkan perintah pada Quick Access Toolbar
+Gambar1.9 Customize Quick Access Toolbar Untuk mengeluarkan perintah-perintah yang telah ditambahkan dari Quick Access Toolbar, Anda lakukan click kanan pada perintah yang ingin dikeluarkan dan pilih Remove from Quick Access Toolbar.
+Gambar 1.10 Mengeluarkan perintah dari Quick Access Toolbar 1.3.4 Contextual Tools
+Contextual tools akan tampil apabila memilih atau memasukkan gambar/shape baru, tabel, header/footer atau perintah-perintah lain yang terdapat pada Tab Insert.
+Sebagai contoh seperti terlihat pada gambar Gambar 1-11 Toolbar tambahan.
+Gambar 1.11 Toolbar tambahan/contextual tools Keterangan gambar: 1. Anda memasukkan gambar dan aktif pada objek
+
+Comlab FASILKOM UNSRI 2012
+
+7 Praktikum Paket Program Aplikasi 2. Picture Tools akan muncul. Click tab Format . 3. Group tambahan dan perintah akan muncul sehingga Anda bisa bekerja untuk memformat gambar dengan mudah, seperti bekerja dengan menggunakan group Picture Styles. 1.3.5 Live Preview Live Preview adalah perwujudan nyata dari istilah What You See Is What You Get. Live Preview akan menampilkan format apa saja yang akan Anda kenakan pada text, shape atau tabel tanpa harus memilih terlebih dahulu format tersebut.
+Gambar 1.12 Tampilan Live Preview 1.3.6 Mini Menu
+Mini menu akan tampil pada saat Anda memilih text atau melakukan click kanan pada suatu area.
+Seperti terlihat pada Gambar 1-13, pada saat Anda memilih text pada document secara otomatis Mini toolbar tersebut akan muncul, sehingga Anda tinggal memilih perintah yang ingin Anda lakukan tanpa harus kembali menuju ke Tab Home jika Anda sedang aktif pada Tab yang lain
+Gambar 1.13 Mini Toolbar
+
+Comlab FASILKOM UNSRI 2012
+
+Praktikum Paket Program Aplikasi 8
+1.3.7 Penggunaan Keyboard Shortcut Jika Anda ingin mempersingkat penggunaan perintah, dengan kata lain tidak
+ingin terlalu banyak menggunakan mouse, Anda bias menggunakan shortcut yang disediakan oleh Word 2007. Shortcut ini berbeda dengan yang ada di Word 2007.
+Jika Shortcut pada Word 2007 Anda disuguhi dengan gabungan Ctrl dengan huruf-huruf yang tidak semuanya Anda hapal. Tapi di Word 2007 ini Anda dipermudah dengan menampilkan semua Shortcut yang ada.
+Gambar 1.14 Tampilan huruf ­ huruf yang menunjukkan Shortcut Pada Word 2007 istilah yang digunakan untuk menunjukkan shortcut adalah Key Tips. Untuk menggunakan Key Tips, mulai dengan menekan tombol ALT pada keyboard. Huruf-huruf yang digunakan kemudian akan tampil pada Ribbon. Sebagai contoh, pada Ribbon terdapat huruf H pada Home tab. Maka jika Anda menekan tombol H pada keyboard maka akan muncul kembali Key Tips lain yang berhubungan dengan perintah yang terdapat pada Tab Home tersebut.
+1.4 Membuat, menyimpan dan Membuka Dokumen
+1.4.1 Membuat Dokumen Baru Dokumen baru akan tampil pada saat membuka Microsoft Word, tapi jika ingin
+membuat dokumen baru tanpa harus membuka Microsoft Word ulang dapat dilakukan dengan memilih New dari tombol Office Button atau dari Quick Access Toolbar.
+
+Comlab FASILKOM UNSRI 2012
+
+9 Praktikum Paket Program Aplikasi
+Gambar 1.15 Membuat Dokumen Baru
+1.4.2 Menyimpan Dokumen Lembar kerja (document) yang telah kita buat dapat disimpan pada media
+penyimpanan dengan cara berikut ini: 1. Pilih dan klik tombol Office Button atau dari Quick Access Toolbar  Save. Jika Anda menyimpan document tersebut untuk pertama kali, kotak dialog Save As akan ditampilkan seperti gambar 1.17. 2. Pada tombol daftar pilihan Save in, pilih dan klik drive atau folder yang diinginkan. 3. Pada kotak isian File name, ketikkan nama file. 4. Dibawah pilihan Save in terdapat icon-icon alamat yang sering digunakan untuk menyimpan data. Anda dapat langsung mengklik icon tersebut jika Anda ingin menyimpan data pada icon tersebut. 5. Jika diperlukan Anda juga dapat memilih jenis dan bentuk format penyimpanan file pada tombol daftar pilihan Save as type. Pada Microsoft Word 2007 ini, jika langsung menekan tombol Save maka dokumen akan tersimpan dengan extensi .docx. Penyimpanan dalam extensi .doc dapat dilakukan dengan memilih type dengan Word 97 ­ 2003 Document (*.doc). 6. Klik tombol perintah Save untuk memproses penyimpanannya.
+Gambar 1.16 Pilihan Type dokumen
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 10
+Gambar 1.17 Dialog Box Save As 1.4.3 Membuka Dokumen
+Untuk membuka dokumen lama yang pernah kita simpan, dapat melalui beberapa cara yaitu tombol Office Button atau dari Quick Access Toolbar. Menggunakan Recent Documents, yaitu dengan meng-klik nama file yang ada pada tombol Office Button juga dapat dilakukan.
+Gambar 1.18 Membuka Dokumen Jika menggunakan tombol Open, selanjutnya akan muncul kotak dialog Open. Pada tombol daftar pilihan Look in, pilih dan klik drive atau folder yang diinginkan. Pada kotak isian File name, ketikkan nama file yang Anda inginkan. Klik tombol perintah Open untuk membuka dokumen tersebut.
+
+Comlab FASILKOM UNSRI 2012
+
+11 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 1.19 Dialog Box Open File
+1.5 Mengatur Format Halaman
+Yang dimaksud dengan mengatur format halaman diantaranya mengubah ukuran kertas, mengatur margin, mengatur orientasi naskah, mengatur margin header atau footer dan lain-lain.
+1.5.1 Mengatur Ukuran Kertas Untuk mengatur ukuran kertas, pilih Tab Page Layout, lalu dalam Group Page
+Setup pilih command yang akan dilakukan.
+Gambar 1.20 Group Page Setup Pada pilihan command Size, Anda bisa memilih ukuran kertas sesuai dengan ukuran dokumen yang dibuat. Jika pilihan ukuran kertas yang tersedia tidak sesuai dengan ukuran yang Anda inginkan, pilihlah More Paper Size. Pada Jendela Page Setup gunakan kotak teks Width untuk menentukan lebar kertas dan Height untuk menentukan tinggi kertas. Kotak daftar Apply to berisi beberapa pilihan untuk menerapkan tata letak halaman dalam dokumen, yaitu:  Pilih Whole Document apabila format page setup diberlakukan untuk seluruh halaman pada dokumen aktif.  Pilih This Point Forward apabila format page setup hanya diberlakukan pada bagian dokumen tertentu, yaitu pada bagian dokumen mulai dari posisi insertion point aktif sampai bagian akhir dokumen.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 12
+ Pilih This Section apabila format page setup hanya diberlakukan pada bagian dokumen tertentu, yaitu pada bagian di mana posisi insertion point aktif.
+Gambar 1.21 Pilihan Paper Size
+1.5.2 Mengatur Margin dan Orientasi Halaman Yang dimaksud dengan margin adalah jarak antara tepi daerah pengetikan teks
+dengan tepi halaman kertas. Pengaturan margin akan berlaku untuk seluruh dokumen. Pengaturan margin dapat dilakukan dengan cara :
+ Pada Group Page Setup, pilih command Margin, pilihlah margin yang sesuai dengan aturan yang diinginkan.
+ Jika tidak ditemukan ukuran yang diinginkan, pilihlah Custom Margin. Akan tampil Jendela Page Setup untuk pengaturan margin. Anda dapat langsung menentukan nilai angka margin pada kotak teks yang tersedia, seperti Top (batas margin atas), Left (batas margin kiri), Bottom (batas margin bawah) dan Right (batas margin kanan).
+ Kotak teks Gutter untuk menambahkan margin tambahan untuk batas penjilidan. Pilihan ini untuk menambahkan ruang kosong untuk naskah yang akan dijilid. Kotak teks Gutter Position menentukan posisi penjilidan, yaitu Left (kiri) dan Top (atas).
+ Pilihan Orientation digunakan untuk menentukan format posisi hasil cetakan. Gunakan pilihan Portrait untuk menampilkan hasil cetakan dengan bentuk vertikal atau Landscape untuk hasil cetakan dengan bentuk horisontal.
+
+Comlab FASILKOM UNSRI 2012
+
+13 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 1.22 Jendela Page Setup untuk pengaturan Margin
+Gambar 1.23 Pilihan Margin 1.5.3 Mengatur Margin Header atau Footer Pengaturan margin header atau footer dapat dilakukan dengan cara:
+ Pada Group Page Setup, pilih Page Setup Box Launcher yang berada di bagian kanan bawah group box, akan tampil Jendela Page Setup.
+ Pilih tab Layout.  Pada pilihan From edge, ketik ukuran jarak header dan footer dari batas tepi
+kertas pada kotak teks Header dan Footer.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 14  Jika telah selesai, klik OK dan area header atau footer akan diletakkan
+pada posisi yang telah ditentukan dan diukur dari batas tepi kertas, dimana header diukur dari batas tepi atas kertas dan footer diukur dari batas tepi bawah kertas.
+Gambar 1.24 Jendela Page Setup untuk pengaturan Layout
+
+Comlab FASILKOM UNSRI 2012
+
+15 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+LATIHAN
+Bukalah file dokumen dan ketiklah dokumen 1 dengan ketentuan a. Ukuran kertas A4 b. Margin kiri =3, kanan =2,5, atas = 2,5, bawah =2,5 c. Simpanlah dokumen tersebut dengan nama Latihan1(nim_anda).doc
+Dokumen 1
+Sejarah Perkembangan Komputer
+Di era teknologi informasi dan komunikasi yang pesat sekarang ini, komputer termasuk salah satu peranti "wajib" yang tak dapat diabaikan. Kini peranti yang pada dasarnya hanya untuk membantu proses berhitung (to compute) ini telah sangat ampuh dan multiguna. Merampungkan pekerjaan kantor, menikmati musik dan film, hingga nge-game dapat dilakukan menggunakan alat ini. Begitu pula menjelajah internet dan bertukar data antar pengguna yang terpisah jarak ribuan kilometer.
+Vincent Atanasoff lahir pada 4 Oktober 1903 di Hamilton, New York, namun dibesarkan di Brewster, Florida. Sejak kecil Atanasoff telah menunjukkan ketertarikannya pada matematika. Anak seorang insinyur listrik ini pun tak mengalami banyak hambatan saat mereguk ilmu di bangku sekolah. Bahkan pendidikan menengahnya (setara SMA) diselesaikannya dalam waktu dua tahun saja.
+Selepas itu Atanasoff melenggang ke University of Florida untuk menekuni bidang kelistrikan. Mungkin kekaguman pada sang ayah melandasi pilihannya ini. Di usia 22, dia lulus dengan menggondol gelar Bachelor of Science. Tak main-main, nilainya pun sempurna, A untuk semua bidang studi.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 16
+
+1.6 Pengeditan Dokumen
+1.6.1 Membatalkan Tindakan Untuk membatalkan tindakan yang telah dikerjakan, dapat dilakukan dengan
+menggunakan perintah:  Pada Quick Access Toolbar, Tekan ikon Undo ( )  Dengan menekan kombinasi tombol keyboard (Ctrl + Z) Setiap tindakan yang pernah Anda batalkan dengan perintah Undo juga
+disimpan oleh Microsoft Word dan Anda dapat melakukan kembali tindakan yang dibatalkan tersebut dengan perintah:
+ Pada Quick Access Toolbar, Tekan ikon Redo ( )  Dengan menekan kombinasi tombol keyboard (Ctrl + Y)
+
+1.6.2 Memilih Teks
+
+Untuk memformat naskah seperti menyalin, memindah atau menghapus,
+
+terlebih dahulu Anda harus memilih teks yang akan diformat. Pemilihan teks dapat
+
+dilakukan dengan menggunakan fasilitas mouse atau keyboard.
+
+ Memilih Teks dengan mouse
+
+Memilih Suatu Kata Suatu Kalimat
+Suatu Baris Sekelompok Baris
+Suatu Paragraf Dokumen
+Blok Segiempat
+
+Cara Double klik pada kata tersebut Tekan Ctrl bersamaan dengan klik kalimat tersebut. Klik lajur seleksi di depan baris Klik lajur seleksi dan drag ke atas atau bawah baris Double klik pada lajur seleksi Tekan Ctrl bersamaan dengan klik pada lajur seleksi Tekan tombol Alt dan secara bersamaan lakukan Drag, sesuai dengan luas daerah yang diinginkan
+
+ Memilih Teks dengan keyboard
+
+Kombinasi Shift +  Shift + 
+Shift +  Shift +  Shift +Ctrl +  Shift +Ctrl + 
+
+Fungsi Memilih satu karakter ke kanan Memilih satu karakter ke kiri Memilih satu baris ke atas Memilih satu baris ke bawah Memilih hingga awal kata Memilih hingga akhir kata
+
+Comlab FASILKOM UNSRI 2012
+
+17 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+Shift +Ctrl +  Shift +Ctrl +  Shift + Home Shift + End Shift + PgUp Shift + PgDn Shift + Ctrl +Home Shift + Ctrl + End Shift + Ctrl + F8
+
+Memilih hingga awal paragraf Memilih hingga akhir paragraf Memilih hingga awal baris Memilih hingga akhir baris Memilih hingga satu layar ke atas Memilih satu layar ke bawah Memilih hingga awal dokumen Memilih hingga akhir dokumen Memilih teks secara vertikal
+
+ Memindah Teks Merupakan suatu operasi untuk manghapus suatu teks yang sudah dipilih,
+tetapi teks yang sudah dihapus tadi tidak hilang melainkan disimpan di dalam clipboard. Langkah­ langkah yang harus dilakukan untuk memindah suatu teks: a. Blok teks yang akan dipindah (di-cut).
+Ada beberapa cara untuk melakukan operasi cut, yaitu :  Klik menu Edit lalu klik Cut  Dengan menekan kombinasi tombol keyboard (Ctrl + X)  Klik ikon Cut pada baris toolbar standar. b. Arahkan pointer mouse ke teks yang telah Anda pilih sampai pointer berubah menjadi pointer anak panah.
+
+Comlab FASILKOM UNSRI 2012
+
+1.6.3 Menyalin Teks Merupakan suatu operasi untuk menduplikasi suatu teks yang dipilih. Teks
+yang sudah dicopy akan disimpan di dalam clipboard. Langkah­langkah yang harus dilakukan untuk menyalin suatu teks :
+a. Blok teks yang akan disalin (di-copy). Ada beberapa cara untuk melakukan operasi copy, yaitu:  Pada Tab Home, Group Clipboard lalu klik Copy  Dengan menekan kombinasi tombol keyboard (Ctrl + C)
+b. Arahkan pointer mouse ke teks yang sudah Anda pilih lalu tekan dan tahan tombol Ctrl.
+
+1.6.4 Fasilitas Paste Merupakan operasi untuk menampilkan kembali teks yang ada di clipboard.
+Operasi paste merupakan kelanjutan dari operasi copy dan cut.
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 18
+Langkah­langkah untuk melakukan melakukan paste: a. Arahkan titik sisip ke daerah dimana teks akan ditambahkan. Ada beberapa cara untuk melakukan operasi paste, yaitu:
+ Pada Tab Home, Group Clipboard lalu klik Paste.  Dengan menekan kombinasi tombol keyboard (Ctrl + V). b. Tekan tombol mouse dan geser (drag and drop) teks yang terpilih ke posisi lain dan kemudian lepaskan tombol mouse . 1.6.5 Fasilitas Paste Spesial Merupakan fasilitas Microsoft Office Word yang dapat membuat hubungan antardokumen, dimana teks atau data salinan akan ikut berubah apabila data sumber diubah atau mengalami perubahan. Untuk membuat hubungan antardokumen, ikuti langkah berikut: a. Pilih item dari dokumen sumber berikut tanda paragrafnya. Item yang Anda pilih dapat berupa teks, tabel atau grafik. b. Jalankan perintah copy. c. Pindahkan insertion point ke posisi lain dalam dokumen untu menempatkan hasil salinan. d. Dari Tab Home, Group Clipboard, pilih tanda panah bawah yang berada di bawah perintah Paste sehingga tampil pilihan untuk melakukan Paste Special seperti gambar 1.25 dan gambar 1.26 berikut:
+Gambar 1.25 Pilihan untuk Paste Special
+Gambar 1.26 Jendela Paste Special
+
+Comlab FASILKOM UNSRI 2012
+
+19 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+e. Pada kotak dialog Paste Special, aktifkan tombol pilihan Paste Link dan klik tombol OK.
+f. Hasil penyalinan akan ditempatkan pada posisi insertion point. Ciri adanya hubungan antar sumber data dengan hasil salinan adalah munculnya blok arsiran jika Anda memilih teks hasil salinan tersebut. Jika Anda mengubah isi sumber data, maka data salinannya juga akan ikut berubah.
+1.7 Find and Replace
+Pada suatu dokumen yang besar tentu kita akan kesulitan untuk mencari suatu kata tertentu atau mencari sambil mengganti kata/kalimat tersebut secara langsung. Anda jangan khawatir jika mengalami hal ini, karena untuk tujuan ini Microsoft Word 2007 menyediakan dua fasilitas, yaitu Find and Replace.
+Find digunakan untuk mencari suatu kata/kalimat tertentu berdasakan kriteria yang ditentukan. Untuk mengaktifkan fasilitas Find lakukan langkah berikut:
+a. Pada tab Home Group Editing, klik Find, atau juga bisa dengan kombinasi tombol (Ctrl + F) maka akan keluar jendela find sebagai berikut:
+Gambar 1.27Group Editing
+Gambar 1.28 Jendela Find and Replace Pada option Find what diisikan kata/kalimat yang akan di cari, misal aku` b. Pada Search Option kita dapat menentukan arah pencarian yaitu:
+ All, mencari dari awal hingga akhir dokumen. (defaultnya ALL)  Up, mencari keawal dokumen mulai dari posisi insertion point.  Down, mencari keakhir dokumen mulai dari posisi insertion point.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 20
+Pada option Search:, terdapat 5 metode yaitu :  Match case, mencari kata/kalimat yang betul-betul mirip dengan kata/kalimat yang dicari.  Find whole words only, mencari kata/kalimat tanpa memperhatikan huruf besar atau kecil.  Use wildcards, mencari kata/kalimat dengan menggunakan metode wildcards (?). Misalnya kita mancari tiga digit huruf yang awal ak` maka gunakan wildcards dengan cara ak?`, maka seluruh kata yang terdiri dari tiga karakter dengan huruf awalnya ak` akan ditemukannya. Metode pencarian ini memperhatikan huruf kecil dan besar. Maka kata AKU` tidak akan ditemukan dengan metode ini, karena menggunakanhuruf besar sedangkan yang dicari adalah ak?` huruf kecil dengan digit ketiganya bebas.  Sounds like, mencari kata/kalimat yang mirip dan hampir mirip dengan kata/kalimat yang dicari. Misalnya kita mencari kata Aku` maka kata Ak` juga akan ditemukannnya karena hampir mirip.  Find all words forms, mencari seluruh kata/kalimat yang mempunyai bentuk/format yang sama.
+c. Setelah menentukan metode pencariannya, maka kliklah Find Next untuk memprosesnya.
+d. Jika pencarian selesai, maka akan muncul kotak pesan. e. Klik OK untuk menutup kotak dialog tersebut.
+Gambar 1-29 Pesan Pencarian telah selesai dilakukan Replace merupakan suatu proses pencarian teks dengan cara langsung menggantikan kata/kalimat yang dicari dengan kata/kalimat yang ditentukan. Untuk menggunakan fasilitas Replace lakukan langkah ­ langkah berikut : a. Pada tab Home Group Editing, klik Replace, atau juga bisadengan kombinasi tombol (Ctrl + H) maka akan keluar jendela find sebagai berikut:
+
+Comlab FASILKOM UNSRI 2012
+
+21 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 1.30 Jendela Find and Replace tab Replace
+b. Pada option Find what kita ketikkan kata/kalimat yang dicari dan diganti. Misalnya kita mencari kata aku` dan ganti dengansaya`, maka Ketikkan aku` pada option ini.
+c. Option Replace with diisi dengan kata/kalimat pengganti. Pada contoh diatas kita isi dengan saya`
+d. Klik Replace untuk mengganti satu persatu, atau klik Replace All untuk mengganti secara keseluruhan dan klik Find Next untuk mencari kata berikutnya.
+e. Sedangkan option lainnya sama dengan yang dijelaskan pada bagian Find di atas.
+LATIHAN
+1. Bukalah kembali Latihan1(nim_anda).doc yang sudah kalian buat, kemudian carilah teks "dan"
+2. Ubahlah teks "dan" dengan "and" yang ada di dokumen Latihan1(nim_anda).doc
+1.8 Mengatur Bentuk Huruf (Font)
+Font adalah huruf, simbol atau angka yang terdapat pada dokumen. Untuk memformat bentuk huruf, ukuran maupun warna huruf, pastikan terlebih dahulu Anda memilih teks yang akan Anda format.
+1.8.1 Menggunakan Ribbon Pada Ribbon Tab Home, terdapat Group Font yang dapat dipergunakan untuk
+mengatur Font, Font Size, Bold, Italic, Underline, Align Left dan masih banyak tombol lainnya. Masing-masing tombol tersebut berfungsi untuk mengubah jenis huruf, ukuran huruf,
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 22
+Gambar 1.31 Group Font menebalkan, mencetak miring, memberikan garis bawah, mengatur alinea teks dan lain lainnya. 1.8.2 Menggunakan Dialog Box Font
+Selain menggunakan perintah yang terdapat pada Ribbon, Anda juga dapat melakukan format font dengan menggunakan dialog box Launcher. Pilih Tanda panah yang berada pada bagian kanan bawah dari group Font, selanjutnya akan tampil kotak dialog Font. Pada tab Font terdapat beberpa pilhan, diantaranya:  Font, digunakan untuk menentukan jenis huruf  Font Style, digunakan untuk menentukan model huruf, apakah cetak tebal (Bold),
+cetak miring (Italic) , gabungan tebal dan miring atau model standar (reguler).  Size, digunakan untuk menentukan Ukuran huruf.  Font Color, digunakan untuk menentukan warna huruf.  Underline Style, digunakan untuk memberikan efek garis bawah.  Effects, digunakan untuk memberikan efek-efek pencetakan.
+Gambar 1.32 Jendela Format Font
+
+Comlab FASILKOM UNSRI 2012
+
+23 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+1.9 Memasang Bullet and Numbering
+Bullet adalah pemberian simbol otomatis pada setiap paragraph yang terpilih, sedangkan Number adalah pemberian nomor otomatis pada setiap paragraf yang terpilih. Di samping itu Microsoft Office Word juga menyediakan fasilitas untuk penomoran otomatis bertingkat yang disebut dengan sistem Outline Numbered.
+Langkah cepat untuk menambah Bullet and Numbering adalah dengan memanfaatkan tombol Bullets dan tombol Numbering yang terdapat pada group Paragraph.
+Gambar 1.33 Group Paragraph
+Gambar 1.34 Pilihan untuk Bullet
+Gambar 1.35 Pilihan untuk Numbering Untuk menambah Bullet pada paragraf dengan menggunakan pilihan bullet yang ada:
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 24 a. Pilih paragraf yang akan Anda beri karakter bullet, atau letakkan titik sisip pada baris
+kosong di tempat Anda akan memulai pengetikan. b. Pilih dan klik Bullets. c. Pilih karakter bullet yang Anda inginkan. Jika ingin mencari bentuk bullet yang lain
+maka klik Define New Bullet. Akan muncul dialog box Define New Bullet. Pilihlah Symbol atau Picture atau Font untuk mencari karakter yang diinginkan.
+Gambar 1.36 Dialog Box Define New Bullet
+Gambar 1.37 Dialog Box Symbol untuk memilih karakter
+
+Comlab FASILKOM UNSRI 2012
+
+25 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 1.38 Dialog Box Picture untuk memilih karakter d. Pilih salah satu bentuk karakter butir (bullet) yang Anda inginkan pada kotak Bullet
+character. Jika ingin karakter yang lain, Anda dapat memilihnya melalui tombol perintah Font atau tombol perintah Bullets. e. Bila Anda ingin menempatkan bullet berupa gambar clipart, klik tombol perintah Picture. Kotak dialog Picture Bullet akan ditampilkan. f. Pada kotak dialog tersebut pilih bentuk gambar butir (picture bullet) yang Anda inginkan. g. Klik OK. Untuk memberikan Nomor pada paragraf hampir sama caranya dengan menambahkan bullet. a. Pilih paragraf yang akan Anda beri nomor. Atau tempatkan titik sisip pada baris kosong
+di tempat Anda akan memulai pengetikan b. Pilih Numbering. Pilihan format Numbering akan tampil seperti pada gambar 1-35. c. Pilih dan klik jenis penomoran yang Anda inginkan d. Bila Anda ingin memilih format dan gaya tampilan nomor yang lain serta mengatur
+posisinya pada paragraf, klik tombol perintah Define New Number Format
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 26
+Gambar 1.39 Dialog Box Define New Numbering Format e. Pada tombol paragraf pilihan Number style, pilih gaya tampilan nomor yang Anda
+inginkan dan lihat hasilnya pada kotak Number format. f. Jika diperlukan klik tombol perintah Font untuk mengatur format karakter dari nomor. g. Pada kotak isian Aligned at, tentukan posisi awal perataan tersebut terhadap margin
+kiri. h. Klik OK.
+
+Comlab FASILKOM UNSRI 2012
+
+27 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+LATIHAN
+Ketiklah dokumen dibawah dan simpan lah dengan nama Latihan2(nim_anda).doc Latihan2(nim_anda).doc
+Analisis Isi Berita Media Cetak Kampanye Presiden Mengenai Lingkungan
+Tak seperti media massa elektronik, yang beritanya berpacu dengan durasi. Media cetak lebih kompromi dengan halaman. Alhasil pemberitaannya lebih detil dan "dalam" ketimbang mediamassa elektronik semisal televisi. Sepanjang 1 Juni hingga 1 Juli 2004, analisis diarahkan pada lima surat kabar yang seluruhnyaterbit di Jakarta, dengan oplah yang tinggi. Lima surat kabar itu adalah Rakyat Merdeka,Kompas, Republika, Media Indonesia, dan Suara Pembaruan. Sepanjang periode kampanye,terdapat 19 berita mengenai kampanye yang mengangkat tema lingkungan. 1. Suara Pembaruan dan Kompas terbanyak dalam memberitakan kampanye atau
+program capres-cawapres mengenai lingkungan. Namun dibanding isu-isu lainnya,
+persoalan lingkungan seolahtenggelam di sela-sela hiruk-pikuk kampanye. 2. Kampanye bertema lingkungan selain minim diberitakan, tak pernah menjadi
+agenda media yang utama. Pada umumnya berita yang menjadi agenda media terletak di halaman depan sebagaiheadline atau menempati kapling tertentu, semisal kanan bawah atau tempat di mana berita itudiberi kapling khusus yang mencitrakan ekslusif. Atau berita itu memiliki spesifikasi khusus,yang
+disesuaikan dengan event tertentu, Pemilu presiden misalnya.
+Sepanjang 1 Juni-1 Juli 2004, Rakyat Merdeka, Kompas, dan Suara Pembaruan
+menempatkankampanye presiden bertema lingkungan pada halaman muka. Kompas,
+Republika, dan MediaIndonesia menempatkan berita tersebut dalam rubrik khusus
+Pemilu presiden.
+Akan tetapi penempatan di halaman muka belum pasti pula menjadi prioritas
+pemberitaan.Headline atau rubrik khusus dapat menjadi acuan. Sedangkan berita yang
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 28 berada di halamandalam memang bukan menjadi agenda utama media, namun berita halaman dalam yangditempatkan dalam halaman khusus, menunjukkan adanya kebijakan khusus di dapur redaksi.Penempatannya sangat disesuaikan dengan kebijakan media dan agenda media.
+1.10 Memasang Header dan Footer
+1.10.1 Pengertian Header dan Footer Untuk memperjelas tampilan halaman suatu buku atau laporan biasa
+ditambahkan header dan footer. Header, dapat berisi teks atau gambar, yang muncul pada bagian atas dari tiap
+halaman pada section Footer, muncul pada bagian bawah pada tiap halaman pada section Baik pada
+Header ataupun Footer dapat berisi nomor halaman, namafile, judul bab, tanggal, waktu, logo perusahaan atau nama pengarang.
+Gambar 1.40 Header dan Footer pada suatu halaman 1.10.2 Menambahkan Header dan Footer
+Menambahkan header dan footer pada dokumen tidak terlalu sulit. Untuk menambahkan Header dan Footer dengan melalui Tab Insert lalu pilih Group Header & Footer.
+
+Comlab FASILKOM UNSRI 2012
+
+29 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 1. 41 Group Header dan Footer pada Tab Insert Ada beberapa pilihan untuk membuat header dan footer yang telah disediakan oleh Microsoft Word 2007 atau jika diantara pilihan-pilihan tersebut tidak berkenan dihati, Anda juga bisa membuat sendiri format yang diinginkan.
+Gambar 1.43 Pilihan Format Header Gambar 1.43 Pilihan format Footer Edit Header digunakan untuk melakukan perubahan format header sesuai dengan keinginan penulis. Edit Footer digunakan untuk melakukan perubahan format footer sesuai dengan keinginan penulis. Setelah Anda memilih Edit Header atau Edit Footer selanjutnya akan tampil Tab Design Header & Footer seperti terlihat pada gambar 1-44. Format pada header dan footer dapat :  Sama pada setiap halaman,  Hanya halaman pertama yang berbeda dan halaman selanjutnya sama,  Halaman pertama tidak menggunakan header & footer dan halaman selanjutnya menggunakan header & footer,  Berbeda pada tiap section,  Berbeda pada tiap halaman ganji dan genap. Cara menambahkan header dan footer yang telah disediakan sebelumnya adalah apabila header dan footer memiliki format yang sama pada setiap halaman. Jika
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 30
+ingin berbeda format sesuai dengan keinginan maka terdapat beberapa langkah yang harus dilakukan.
+1.10.3 Tab Design Header dan Footer Tab Design Header & Footer menyediakan perintah-perintah yang dapat
+dipergunakan untuk melakukan format pada Header & Footer. Ada enam group yang terdapat pada tab Header & Footer, yaitu :
+Gambar 1.44 Tab Header dan Footer 1. Group Header & Footer Pada group ini terdapat tiga perintah yang dapat digunakan, yaitu:
+
+Gambar 1. 45 Group Header dan Footer
+
+
+
+Header : Perintah ini digunakan untuk menambahkan header pada dokumen.
+
+
+
+Footer : Perintah ini digunakan untuk menambahkan footer pada dokumen.
+
+
+
+Page Number
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 1.46 Perintah Page Number Perintah ini digunakan untuk menambahkan nomor halaman pada dokumen. Isi dari perintah ini seperti terlihat pada gambar 4-7. Ada empat macam pilihan untuk peletakan nomor halaman pada dokumen yang tersedia, yaitu :
+ Top of Page, meletakkan nomor halaman pada bagian atas dokumen atau pada header.
+ Bottom of Page meletakkan nomor halaman pada bagian bawah dokumen atau pada footer.
+
+31 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+ Page Margins, meletakkan nomor halaman pada margin dokumen atau disamping teks dokumen.
+ Current Position, meletakkan nomor halaman pada dokumen sesuai dengan format yang dibuat sendiri atau yang sedang digunakan pada dokumen saat itu.
+2. Group Insert
+Gambar 1.47 Group Insert Pada group ini terdapat empat pilihan perintah yang dapat ditambahkan pada header atau footer. Keempat perintah tersebut yaitu :  Date & Time, digunakan untuk menambahkan tanggal dan waktu pembuatan
+dokumen pada header atau footer.  Quick Parts, digunakan untuk menambahkan bagian-bagian dokumen yang dapat
+dipergunakan kembali pada suatu saat. Ada beberapa pilihan pada perintah ini, yaitu:
+o Document Property, menambahkan data yang tersimpan sebagai property dari dokumen pada header atau footer.
+o Field, menambahkan tempat (placeholders) untuk menampilkan data pada dokumen yang mungkin suatu saat berubah. Macam-macam field yang bisa ditambahkan diantaranya adalah AutoNum, Date, Page.
+Gambar 1.48 Pilihan Fields yang bias ditambahkan ke dalam dokumen  Building Blocks Organizer, digunakan untuk menampilkan Block apa saja yang
+tersimpan dan siap digunakan pada dokumen. Format yang telah Anda buat akan tersimpan dan tampil pada jendela Building Blocks Organizer ini. Anda
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 32
+bias mengatur property dari format yang Anda buat. Akan masuk kedalam kategori apakah format yang telah Anda buat sebelumnya.  Get More on Office Online, digunakan untuk mendapatkan informasi lebih banyak dari website Microsoft.  Save Selection to Quick Part Gallery, digunakan untuk menyimpan bagianbagian yang telah dibuat kedalam Quick Parts Gallery.
+
+3. Group Navigation
+
+Gambar 1.49 Pilihan pada Quick Part
+
+Gambar 1.50 Group Navigation Pada group ini berisi perintah-perintah yang dipergunakan untuk berpindah-pindah antar section atau dari header ke footer dan sebaliknya. Ada lima pilihan navigasi yang dapat dipergunakan, yaitu:  Go to Header, digunakan untuk berpindah dari footer menuju header.  Go to Footer, digunakan untuk berpindah dari header menuju footer.  Previous Section, digunakan untuk menuju ke header atau footer section sebelumnya.  Next Section, digunakan untuk menuju ke header atau footer section berikutnya.  Link to Previous, digunakan untuk mengaktifkan atau menonaktifkan link ke section sebelumnya.
+
+Comlab FASILKOM UNSRI 2012
+
+33 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+4. Group Option
+Gambar 1.51 Group Option Group ini berisi tiga perintah yang digunakan untuk mengatur model header dan footer. Apakah hanya halaman pertama saj yang berbeda, halaman genap dan ganjil berbeda atau mengaktifkan teks dokumen pada saat melakukan format pada header atau footer. 5. Group Position
+Gambar 1.52 Group Position Group ini berisi tiga perintah yang digunakan untuk mengatur tinggi header dan footer serta menambahkan tab pada header atau footer. 6. Group Close Header dan Footer
+Gambar 1.53 Group Close Header dan footer Group ini hanya berisi satu perintah yaitu perintah untuk menutup Tab Header & Footer dan kursor akan aktif kembali pada teks dokumen.
+LATIHAN
+Bukalah kembali dokumen Latihan2(nim_anda).doc yang telah kalian buat sebelumnya, kemudian tambahkan header dan footernya
+Header : Praktikum Paket Program Aplikasi Footer : Fakultas Ilmu Komputer UNSRI 2012 Dan berikan pula page numbernya
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 34
+
+1.11 Mengatur Top Stop
+
+Tab stop digunakan untuk mengatur posisi pemberhentian insertion point dalam
+
+dokumen saat Anda menekan tombol TAB. Tanda-tanda tab stop akan ditampilkan pada
+
+garis mistar (ruler) horisontal, dimana tanda-tanda tersebut juga dapat Anda geser untuk
+
+mengatur jarak tabulasi.
+
+Jenis-jenis tab stop diatur berdasarkan jenis perataan tabulasi, yaitu tabulasi untuk
+
+rata kiri, rata kanan, rata tengah, desimal dan batang. Untuk mengatur posisi tab stop, ikuti
+
+langkah berikut ini:
+
+a. Pilih paragraf yang akan diberi format tab stop.
+
+b. Pilih tipe tab stop yang akan Anda buat dengan menekan tombol tab alignment.
+
+Tombol Tab Stop
+
+Nama Tombol Left tab: tab rata kiri Center tab: tab rata tengah Right tab: tab rata kanan Decimal tab: tab rata titik decimal Bar tab: tab pembentuk garis vertikal
+
+c. Pada garis mistar horisontal, klik pada posisi di mana Anda akan meletakkan tanda
+
+pemberhentian tabulasi.
+
+d. Ketik teks dan tekan tombol TAB pada keyboard untuk mendapatkan hasil dari fungsi
+
+tombol tab stop.
+
+e. Anda juga dapat menggunakan perintah yang terdapat pada dialog box tab untuk
+
+menentukan tab stop. Pilih dialog box launcher pada group Paragraph pada
+
+Tab
+
+home, lalu pilih Tabs sehingga akan tampil kotak dialog Tabs.
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 1.54 Jendela pengaturan Tabs f. Kotak Tab stop position digunakan untuk menentukan nilai posisi tabulasi.
+
+35 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+g. Leader digunakan untuk menuliskan suatu karakter secara berulang-ulang saat Anda menekan tombol TAB. Ada tiga jenis leader, yaitu titik, garis putus dan garis lurus.
+h. Untuk menambahkan tabulasi pada daftar nilai tabulasi, klik tombol Set. Sedangkan untuk menghapus salah satu nilai tabulasi yang telah terpasang, klik pada nilai tabulasi yang akan dihapus dan klik tombol Clear.
+Tab stop ini dapat digunakan untuk membuat daftar isi.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 36
+
+LATIHAN
+
+Buatlah dokumen dibawah ini menggunakan Tab stop dan bullet and numbering dan
+
+simpan lah dengan nama Latihan3(nim_anda).doc
+
+Latihan3(nim_anda).doc
+
+DAFTAR ISI
+
+Halaman
+
+KATA PENGANTAR .....................................................................................
+
+i
+
+DAFTAR ISI ...................................................................................................
+
+ii
+
+DAFTAR TABEL ...........................................................................................
+
+iii
+
+BAB I. PENDAHULUAN
+
+1.1. Latar Belakang ...........................................................................................
+
+I-1
+
+1.2. Maksud dan Tujuan....................................................................................
+
+I-4
+
+BAB II. KEADAAN UMUM
+
+2.1. Keadaan Biofisik........................................................................................
+
+II-1
+
+2.1.1. Letak dan Luas ...........................................................................
+
+II-1
+
+2.1.2. Iklim ..........................................................................................
+
+II-1
+
+2.1.3. Topografi ...................................................................................
+
+II-2
+
+2.2. Keadaan Sosial Ekonomi............................................................................
+
+II-2
+
+2.2.1. Kependudukan ...........................................................................
+
+II-2
+
+2.2.2. Mata Pencaharian dan Tenaga Kerja...........................................
+
+II-4
+
+2.2.3. Prasarana Umum ........................................................................
+
+II-4
+
+Comlab FASILKOM UNSRI 2012
+
+BAB III. METODOLOGI
+
+3.1. Persiapan ...................................................................................................
+
+III-2
+
+3.2. Pengumpulan Data di Lapangan .................................................................
+
+III-3
+
+3.2.1. Pengumpulan Data Bio-fisik.......................................................
+
+III-3
+
+3.2.2. Pengumpulan Data Sosial,Ekonomi dan Budaya.........................
+
+III-3
+
+3.3. Pengolahan dan Analisis Data ....................................................................
+
+III-4
+
+3.3.1. Pengolahan Data.........................................................................
+
+III-4
+
+3.3.2. Analisa Data...............................................................................
+
+III-4
+
+3.4. Input Data Spasial (Parameter Lahan Kritis)...............................................
+
+III-5
+
+37 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+3.4.1. Data Spasial Liputan Lahan ........................................................ 3.4.2. Data Spasial Kemiringan Lereng ................................................ 3.4.3. Data Spasial Tingkat Erosi ......................................................... 3.4.4. Data Spasial Produktivitas .......................................................... 3.4.5. Data Spasial Kriteria Manajemen ............................................... 3.5. Analisis Spasial .......................................................................................... 3.5.1. Tumpangsusun(Overlay) Data Spasial ........................................ 3.5.2. Editing Data Atribut ................................................................... 3.5.3. Analisis Tabular ......................................................................... 3.6. Penyajian Data Spasial ...............................................................................
+
+III-5 III-5 III-6 III-7 III-7 III-8 III-10 III-14 III-15 III-19
+
+BAB IV. DATA SPASIAL LAHAN KRITIS
+
+4.1. Arahan Fungsi Lahan .................................................................................
+
+IV-1
+
+4.2. Tutupan Lahan ...........................................................................................
+
+IV-1
+
+4.3. Topografi dan Bentuk Wilayah...................................................................
+
+IV-3
+
+4.4. Tanah .........................................................................................................
+
+IV-5
+
+4.5. Erosi ..........................................................................................................
+
+IV-6
+
+4.6. Tingkat Kerkritisan Lahan..........................................................................
+
+IV-7
+
+BAB V. PENUTUP..........................................................................................
+
+V-1
+
+DAFTAR PUSTAKA LAMPIRAN
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 38
+2. DESKTOP PUBLISHSING DENGAN MICROSOFT WORD 2007
+2.1 Menambahkan Gambar pada Dokumen
+Anda bisa menyisipkan file gambar yang sudah ada ke dalam dokumen yang Anda buat. Untuk menambahkan gambar pada dokumen Anda, ikutilah langkah-langkah seperti berikut : a. Tempatkan titik sisip di tempat yang Anda inginkan. b. Pilih Tab Insert, lalu klik Picture atau clipArt yang ada pada group Illustrations. Jika
+memilih Picture, maka akan diarahkan ditempat mana picture tersebut tersimpan. Jika memilih ClipArt akan ditampilkan daftar gambar yang tersimpan dalam clip art.
+Gambar 2.1 Dialog Box untuk Insert Picture
+Gambar 2.2 Task Pane Clip Art c. Setelah gambar dipilih dan tampil pada dokumen, tampilan dari ribbon akan berubah,
+akan muncul tab Picture Tools dengan nama Tab Format.
+
+Comlab FASILKOM UNSRI 2012
+
+39 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 2.3 Tab Format Picture d. Pada Tab Format terdapat lima group yang dapat digunakan untuk melakukan format
+pada gambar yang telah ditambahkan pada dokumen.  Group Adjust digunakan untuk mengatur format pencahayaan, kontras, pewarnaan,
+dan mengembalikan format gambar seperti sedia kala.
+Gambar 2.4 Command pada Group Adjust  Group Picture Style digunakan untuk mengatur efek pada gambar.
+Gambar 2.5 Command pada Group Picture Style  Group Arrange digunakan untuk mengatur posisi gambar pada dokumen
+Gambar 2.6 Command pada Group Arrange  Group Size digunakan untuk mengatur ukuran gambar yang ditambahkan pada
+dokumen.
+Gambar 2.7 Command pada Group Size e. Untuk melakukan pengaturan posisi gambar dapat melalui perintah Wrapping Style.
+Jika wrapping style tidak ditemukan pada list, Anda dapat memilih dari More Layout option. Anda bisa mengatur penempatan gambar. Ada beberapa pilihan yaitu:  In line with text. Gambar yang Anda tambahkan akan sejajar dengan teks yang ada
+pada dokumen Anda.  Square. Gambar yang Anda tambahkan akan secara otomatis ditambahkan suatu
+kotak disekelilingnya sehingga Anda bisa mengetikkan teks secara rapi disekeliling
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 40 gambar tersebut.  Tight. Berbeda dengan Square pada pilihan Tight, teks yang Anda ketikkan akan mengikuti bentuk gambar yang Anda tambahkan.  Behind text. Gambar yang Anda tambahkan akan berada di belakang teks sebagai background.  In front of text. Gambar yang Anda tambahkan akan berada di depan teks menutupi teks yang telah Anda buat. f. Pada option Horizontal Alignment Anda bisa mengatur perataan dari gambar yang Anda tambahkan :  Left, gambar yang Anda tambahkan pada dokumen akan rata kiri.  Center, gambar yang Anda tambahkan pada dokumen akan tepat berada di tengah halaman dokumen Anda.  Right, gambar yang Anda tambahkan pada dokumen akan rata kanan.  Other, Anda bisa mengatur penempatan gambar dimana saja.
+Gambar 2.9 Dialog Box Advanced Layout
+Gambar 2.8 Pilihan Style WordArt
+
+Comlab FASILKOM UNSRI 2012
+
+41 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+2.2 Menambahkan Word Art
+Ketika ingin membuat banner teks yang indah yang tidak mungkin dibuat dengan atribut font, bisa menggunakan WordArt untuk membuat efek-efek tertentu pada teks. Anda bisa membuat teks WordArt tampil seperti kurva, garis, banyak warna, berbayang, atau tiga dimensi.
+Untuk membuat obyek WordArt menggunakan teks yang telah ada, Anda bisa melakukan langkah-langkah berikut : a. pilihlah teks tersebut, b. Pada Tab Insert Group Text pilih WordArt c. Pilih salah satu style pada daftar dialog WordArt style, d. Kotak dialog Edit WordArt Text muncul dengan teks yang telah dipilih. e. Klik OK akan menyisipkan obyek WordArt kedalam dokumen.
+Gambar 2.10 Edit Word Art Text Dialog Box Memilih sebuah WordArt akan menampilkan Tab Format WordArt Tools, dimana bisa Anda gunakan untuk melakukan edit dan format obyek WordArt yang sesuai dengan kebutuhan Anda.
+Gambar 2.11 Tab WordArt Tools
+2.3 Menggambar dan Memodifikasi Shape
+Pada Tab Insert Group Illustrations, Anda juga dapat menambahkan shape (obyek gambar) ke dalam dokumen. Obyek gambar dapat menambah minat dan pengaruh pada pesan yang ingin disampaikan. Obyek gambar yang populer termasuk oval, kotak, garis, kurva, dan AutoShapes ­ shape yang lebih kompleks seperti bintang dan banner.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 42
+Gambar 2.12 Pilihan Shape Style Untuk menggambar shape, klik salah satu shape dari daftar shape. Drag pointer diatas kanvas gambar untuk membuat obyek gambar dengan ukuran dan bentuk yang Anda suka. Setelah menggambar shape akan muncul Tab baru dengan nama Drawing Tools.
+Gambar 2.13 Tab Drawing Tools Seringkali Anda menggambar shape yang kurang tepat. Anda bisa memilihnya dan mengubahnya sehingga tampil seperti yang diinginkan. Atribut-atribut yang bisa diubah antara lain :  Fill color didalam obyek  Warna, ketebalan, dan style border di sekitar obyek  Efek bayangan dibelakang obyek  Aspek tiga dimensi, atau perspektif, dimana Anda bias mengobservasi obyek.  Sudut rotasi, atau orientasi dari obyek  Alignment obyek dalam hubungannya pada halaman  Cara wrap teks di sekitar obyek  Urutan obyek dalam tumpukan obyek Anda juga bisa mengubah ukuran dan bentuk dari obyek dengan mendrag handle-nya. Anda bisa mengatur ulang posisinya dengan mendragnya.
+
+Comlab FASILKOM UNSRI 2012
+
+43 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+LATIHAN
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 44
+2.4 Membuat Tabel
+Anda dapat memanfaatkan fasilitas tabel untuk dokumen Anda. Suatu tabel terdiri dari kolom dan baris. Perpotongan antara kolom dan baris dinamakan sel. Anda dapat menyisipkan teks atau gambar di dalam sel tersebut. Untuk membuat tabel, dapat dilakukan dengan: a. Pilih Tab Insert, lalu pada Group Tables, pilihlah command yang Anda inginkan.
+Gambar 2.14 Daftar command pada Group Table b. Perintah Insert Table ada dua macam, yaitu langsung memilih besarnya ukuran table
+atau mengisikan sendiri. Jika memilih langsung dapat langsung melakukan drag pada gambar kotak-kotak yang terdapat pada command List. Table akan langsung ditambahkan pada dokumen. Jika menggunakan dialog box, pilih command Insert Table.
+Gambar 2.15 Dialog Box Insert Table Keterangan Gambar :  Pilihan Number of Column digunakan untuk menentukan jumlah kolom dari
+tabel.  Pilihan Number of Rows digunakan untuk menentukan jumlah baris dari tabel.  Pada tab AutoFit behavior terdapat 3 option yang dapat dipilih sesuai dengan tabel
+yang akan dibuat.  Pilihan Fixed column width akan membuat tabel pada area aktif dengan ukuran
+
+Comlab FASILKOM UNSRI 2012
+
+45 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+kolom yang ditentukan pada option yang terletak disebelah option ini .  Pilihan autoFit to contents width akan membuat tabel pada area aktif yang lebar
+kolomnya akan otomatis disesuaikan dengan isi kolom.  Pilihan autoFix to windows akan membuat tabel pada area yang aktif yang lebar
+kolomnya akan otomatis disesuaikan dengan lebar windows. Setelah Table ditambahkan pada dokumen, akan muncul dua tab baru pada Ribbon dengan nama Table Tools, yaitu Design dan Layout.
+Gambar 2.16 Tab Desain pada Ribbon Picture Tools Tab Design digunakan untuk mengatur tampilan Table yang telah ditambahkan pada dokumen. Tab Layout digunakan untuk mengatur ukuran baris atau kolom pada table.
+Gambar 2.17 Tab Layout pada Ribbon Picture Tools 2.4.1 Menyisipkan Baris dan Kolom
+Menyisipkan baris atau kolom kosong bertujuan untuk menambah kekurangan baris atau kolom yang telah dibuat dalam suatu tabel. Langkah-langkah untuk menyisipkan baris atau kolom sebagai berikut : a. Menyisipkan Baris
+ Lakukan blok pada baris sesuai dengan jumlah baris yang ingin Anda sisipkan.  Klik Tab Layout pada Group Rows and Column pilih perintah yang
+diinginkan, yaitu Insert Above jika menambahkan baris diatasnya atau tempatkan Insert Below apabila hendak menambahkan baris dibawahnya.  Baris akan ditambahkan pada posisi yang ditentukan. b. Menyisipkan Kolom  Lakukan blok pada kolom sesuai dengan jumlah kolom yang ingin Anda sisipkan.  Klik Tab Layout pada Group Rows and Column pilih perintah yang diinginkan, yaitu Insert Left jika menambahkan kolom diselaha kirinya atau tempatkan Insert Right apabila hendak menambahkan kolom di kanannya.  Baris akan ditambahkan pada posisi yang ditentukan.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 46
+2.4.2 Menghapus Baris, Kolom, Cells atau Table Untuk menghapus baris atau kolom dalam suatu tabel, langkah - langkah yang
+harus dilakukan sebagai berikut : a. Pertama-tama lakukan blok pada baris atau kolom sesuai dengan jumlah baris yang
+ingin dihapus. b. Pilih Delete Rows , Delete Columns, Delete Cells atau Delete Table
+Gambar 2.18 Pilihan perintah untuk Delete Tabel c. Jika memilih menghapus Cells, maka kotak dialog Delete Cells tampil, pilihan
+yang disediakan adalah:  Shift Cells Left, menghapus sel dan sel disebelah kanan dari sel yang dihapus
+akan bergeser ke kiri.  Shift Cells Up, menghapus sel dan sel disebelah bawah dari sel yang dihapus
+akan bergeser ke atas.  Delete Entire Row, menghapus baris yang di blok dan baris di bawahnya
+naik ke atas.  Delete Entire Column, menghapus kolom yang di blok dan kolom di
+sebelah kanannya bergeser ke kiri.
+Gambar 2.19 Pilihan Opsi untuk Delete Cells 2.4.3 Menggabung dan Memcah Sel, Memecah Tabel
+Suatu sel yang berbentuk baris atau kolom dapat digabung agar semakin lebar dan dapat juga dipecah sehingga bisa dibagi-bagi sesuai dengan kebutuhan.
+Langkah-langkah untuk menggabung sel adalah sebagai berikut : a. Lakukan Blok ada sel yang ingin digabung
+
+Comlab FASILKOM UNSRI 2012
+
+47 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+b. Pada Tab Layout, pada Group Merge pilih Merge Cells. Jika masing-masing sel ada isinya maka isi sel tersebut akan diubah menjadi paragraf pada sel hasil penggabungan. Untuk melakukan pemecahan sel, langkah-langkah yang dilakukan adalah sebagai
+berikut : a. Letakkan titik sisip pada sel yang ingin dipisah.
+Gambar 2.20 Group Merge pada Tab Layout b. Pada Tab Layout, pada Group Merge pilih Split Cells. c. Setelah kotak dialog Split Cells ditampilkan, tentukan berapa kolom sel
+tersebut akan dipecah dengan cara mengisi kotak isian Number of Columns. d. Jika telah selesai klik OK.
+Untuk memecah Table, cara yang dilakukan hamper sama dengan pada saat memecah Cells. Hanya saja perintah yang dipilih adalah Spilt Table dan Table yang dapat dipecah adalah secara Baris.
+2.4.4 Memformat Tabel Memformat tabel selain bertujuan untuk mengubah sesuai kebutuhan Anda juga
+untuk memperindah bentuk tampilan tabel. Biasanya untuk memperindah tabel Anda cukup menambahkan border (garis batas) dan shading (pola kelabu), juga dengan kombinasi antara keduanya.
+Langkah-langkah untuk menambahkan border pada tabel adalah sebagai berikut : a. Lakukan blok pada kelompok sel atau tabel yang ingin di beri border. b. Pada Tab Design Group Table Style, pilihlah style yangdiinginkan. c. Tampilan Table berubah sesuai dengan style yang dipilih Jika Tidak sesuai dengan keiinginan, maka dapat dilakukan format style sendiri melalui : a. Blok Table yang ingin diformat stylenya b. Klik kanan, pilih Table Properties, pilihlah Borders and Shading
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 48
+Gambar 2.21 Dialog Box Border and Shading
+c. Setelah kotak dialog Table Borders and Shading ditampilkan pilih Borders. d. Tentukan jenis dan ketebalan garis pada kotak daftar Style. e. Tentukan warna garis pada daftar drop down Color. f. Pada kotak Presents terdapat beberapa pilihan :
+ None: Untuk menghilangkan border yang telah terpasang.  Box: Untuk memberikan bingkai di sekeliling kelompok sel yang di pilih.  Grid: Memberikan garis batas di setiap sel dalam kelompok sel yang di pilih. g. Jika telah selesai, klik OK.
+Langkah-langkah yang di lakukan untuk menambahkan shading (pola kelabu) adalah sebagai berikut : a. Lakukan blok pada kelompok sel atau tabel yang ingin di beri shading. b. Klik kanan, pilih Table Properties, pilihlah Borders and Shading c. Setelah kotak dialog Table Borders and Shading ditampilkan, pilih Shading. d. Pada kotak Fill, pilih None untuk menghilangkan shading yang telah dibuat. e. Untuk memberikan shading, klik Custom dan tentukan prosentase corak melalui
+kotak daftar shading. f. Klik panah bawah pada daftar drop-down Foreground untuk warna latar
+depannya. g. Klik panah bawah pada daftar drop-down Background untuk warna latar
+belakangnya. h. Perhatikan dalam kotak peraga Preview untuk mengecek pola yang diberikan
+
+Comlab FASILKOM UNSRI 2012
+
+49 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+dan bila sudah sesuai klik OK.
+
+2.4.5 Penggunaan Formula dalam Tabel
+
+Pada dasarnya pemakaian formula di Microsoft Word 2007 adalah sangat
+
+sederhana. Anda dapat melakukan perhitungan seperti penjumlahan, pengurangan
+
+serta beberapa operasi matematika yang lain di dalam tabel. Sebagai contoh perhatikan
+
+contoh tabel dibawah ini:
+
+NAMA
+
+HARGA
+
+JUMLAH
+
+TOTAL
+
+Nasi Goreng
+
+4000
+
+5
+
+20000
+
+The Botol
+
+1500
+
+7
+
+10500
+
+Kerupuk
+
+500
+
+6
+
+3000
+
+TOTAL HARGA
+
+33500
+
+Langkah ­ langkah untuk melakukan perhitungan matematika pada tabel adalah
+
+sebagai berikut :
+
+a. Letakkan titik sisip pada sel tempat hasil perhitungan akan ditampilkan.
+
+b. Pada contoh diatas TOTAL merupakan hasil perkalian dari HARGA dan
+
+JUMLAH.
+
+c. Klik menu Table dan pilih Formula, lalu akan tampil kotak dialog berikut :
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 2. 22 Jendela untuk penulisan Formula
+
+d. Setelah kotak dialog Formula ditampilkan, tuliskan rumus =B2*C2di kotak isian
+
+Formula.
+
+e. Untuk mengubah format angka, klik panah bawah daftar Number Format.
+
+f. Sedang untuk memilih fungsi-fungsi matematika, klik panah bawah pada daftar
+
+Paste Function.
+
+g. Jika telah selesai, klik OK.
+
+Sekelompok sel yang dirujuk oleh fungsi ditulis dalam kurung, seperti :
+
+= SUM(ABOVE) Untuk menjumlahkan data di atas
+
+= SUM(LEFT)
+
+Untuk menjumlahkan data di kiri
+
+= SUM(B2 : B4) Untuk menjumlahkan data dalam sel B2 hingga B4
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 50
+LATIHAN
+Buatlah tabel dibawah ini dan isilah Jumlah nilai, rata-rata, nilai tertinggi dan nilai terendah dengan menggunakan formula yang telah disediakan oleh Word 2007
+Tabel Nilai Ujian Nasional SMP Tahun Pelajaran 2011-2012
+
+No Nama
+1 Andi 2 Budi 3 Cecep 4 Desi 5 Enda Jumlah Rata - rata Nilai Tertinggi Nilai Terendah
+
+Nilai Mata Pelajaran
+
+Bahasa Matematika Bahasa
+
+Indonesia
+
+Inggris
+
+7.50
+
+8.00
+
+8.50
+
+8.50
+
+8.25
+
+8.25
+
+7.20
+
+8.10
+
+7.82
+
+8.10
+
+7.85
+
+8.15
+
+8.40
+
+7.82
+
+8.42
+
+IPA
+8.25 7.58 7.25 8.42 8.78
+
+Jumlah RataNilai rata
+
+Comlab FASILKOM UNSRI 2012
+
+51 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+2.5 Rumus
+Membuat typesetting matematis
+
+1. Klik tab Insert
+
+, klik icon Equation
+
+2. Klik tanda bawah kebawah dan pilih jenis Equation yang anda inginkan
+
+3. Jika tidak ada yang cocok klik di Insert New Equation
+
+4. Ketik Equation yang anda inginkan
+
+5. Jika telah selesai klik sembarang tempat dalam lembaran kerja
+
+Gambar 2.23 Tampilan Equation Subscript (pangkat bawah) dan superscript (pangkat atas)
+2.6 Grafik
+Langkah ­langkah membuat grafik a. Klik Insert Chart b. Pilih bentuk grafik yang diinginkan, lalu klik OK c. Akan muncul tampilan seperti berikut :
+
+Comlab FASILKOM UNSRI 2012
+
+d. Pada kolom Excel, masukkan data yang diinginkan e. Setelah data dimasukkan, tutuplah Ms.Excel, sehingga muncul seperti gambar berikut
+
+Comlab FASILKOM UNSRI 2012
+
+120 100
+80 60 40 20 0
+Maret
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 52
+
+Buku Pena Pensil
+
+Juni
+
+Juli
+
+Agustus
+
+53 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+LATIHAN
+
+=
+
+++
+
+-
+
++
+
+-
+
++
+
++ +
+
++- -+
+
+
+
+
+
+ 
+
+ 
+
++
+
+-
+
+
+
+
+
+
+
+
+
++
+
+-
+
+=
+
+-+
+
+Buatlah grafik dari tabel berikut :
+
+Tipe Printer
+Canon BJC 2100 SPCanon S200SPX Epson Stylus Photo
+Hp Deskjet 5550 HP Deskjet 6122 Hp LaserJet 1000 HP LaserJet 1300 Hp LaserJet 4200N
+
+Jumlah Penjualan per Bulan
+
+Juli Agustus Sept Okt Nov Des
+
+5
+
+4
+
+7
+
+2
+
+1
+
+8
+
+8
+
+6
+
+1
+
+2
+
+2
+
+9
+
+2
+
+6
+
+7
+
+9
+
+1
+
+3
+
+7
+
+1
+
+1
+
+2
+
+2
+
+3
+
+8
+
+3
+
+2
+
+1
+
+7
+
+9
+
+6
+
+2
+
+2
+
+1
+
+8
+
+6
+
+7
+
+1
+
+2
+
+3
+
+6
+
+9
+
+6
+
+9
+
+1
+
+2
+
+6
+
+1
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 54
+
+Jumlah Perbulan
+
+Grafik Penjualan Printer
+
+10 9 8 7 6 5 4 3 2 1 0
+
+Canon SPCanon Epson Hp
+
+HP
+
+Hp
+
+HP
+
+Hp
+
+BJC 2100 S200SPX Stylus Deskjet Deskjet LaserJet LaserJet LaserJet
+
+Photo 5550 6122 1000 1300 4200N
+
+Tipe Printer
+
+Juli Agustus Sept Okt Nov Des
+
+Comlab FASILKOM UNSRI 2012
+
+55 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+3. Editing, Formatting dengan Microsoft Excel 2007
+3.1 Memulai Microsoft Excel 2007
+Microsoft Excel 2007 merupakan program aplikasi spreadsheet (lembar kerja elektronik) canggih yang paling populer dan paling banyak digunakan saat ini. Excel akan sangat membantu kita dalam hal menghitung, memproyeksikan, menganalisa dan mampu mempresentasikan data dalam bentuk tabel dengan berbagai jenis tabel yang disediakannya, mulai dari bentuk Bar, Grafik, Pie, Line dan banyak lagi.
+Microsoft Excel 2007 merupakan pengembangan dari excel versi sebelumnya yang lebih ditingkatkan fungsinya dan dikonsentrasikan agar spreadsheet ini lebih mudah dipakai, lebih fleksibel, lebih mudahdiintegrasikan dengan program office lainnya dan yang tak kalah penting adalah kemampuan untuk langsung berhubungan dengan internet.
+Gambar 3.1 Tampilan awal Microsoft Excel 2007 Tampilan baru sama dengan Microsoft Word 2007. Menu telah dihilangkan dari Microsoft Excel 2007 diganti dengn Ribbon yang berisi command-command yang dipergunakan. Ribbon Excel terbagi menjadi delapan tab, yaitu Home, Insert, Page Layout, Formula, Data, Review, View, Developer. Fungsi dari masing-masing tab tersebut adalah : a. Tab Home. Tab ini berisi hampir semua perintah editing dan formatting worksheet dan juga perintah clipboard.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 56
+Gambar 3.2 Tab Home pada Excel b. Tab Insert. Tab ini digunakan jika ingin menyisipkan objek seperti clipart, diagram, dan
+table pivot ke dalam worksheet.
+Gambar 3.3 Tab Insert pada Excel c. Tab Page Layout. Tab ini berisi perintah untuk mengontrol printing dari worksheet dan
+sekaligus tampilan dari worksheet.
+Gambar 3.4 Tab Page Layout pada Excel d. Tab Data. Tab ini berisi perintah yang berhubungan dengan fituranalisis data, seperti
+sorting dan filtering.
+Gambar 3.5 Tab data e. Tab Formulas. Tab ini berisi perintah untuk memberikan nama pada sekumpulan
+sel, menggunakan fungsi Excel yang mengaggumkan, mengontrol opsi perhitungan,
+atau melakukan audit pada struktur worksheet.
+Gambar 3.6 Tab Formulas f. Tab Review. Tab ini berisi perintah untuk mengaturkomentar pada worksheet,
+memproteksi worksheet, mengecek ejaan, melacak perubahan pada worksheet, atau pekerjaan lain yang berhubungan.
+Gambar 3.7 Tab Review pada Excel g. Tab View. Tab ini berisi perintah yang berkaitan dengan pengaturan tampilan
+worksheet yang terlihat di layar, melakukan pembekuan pada sebagian halaman (freeze panes), menyusun tampilan window, dan mengontrol layout halaman.
+
+Comlab FASILKOM UNSRI 2012
+
+57 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 3.8 Tab View pada Excel h. Tab Developer. Tab ini dipergunakan untuk membuat makro Excel.
+Gambar 3.9 Tab Developer
+3.2 Istilah ­ istilah dalam Microsoft Excel 2007
+Berikut adalah beberapa istilah umum yang biasa digunakan dalam Microsoft Excel 2007 :
+a. Cell, merupakan bagian terkecil dari worksheet yang dapat diisi dengan sejumlah karakter (lebih dari 255 karakter). Isi cell dapat berupa value, formula atau text. Contoh: cell A1, cell D4
+b. Worksheet (lembar kerja), terdiri dari 16.384 kolom (mulai dari A...Z, AA...AZ, XAA...XFD) dan 10.048.576 baris (mulai dari angka 1 sampai 10048576).
+c. Workbook (buku kerja), merupakan kumpulan worksheet. Pada Excel 2007 kita bisa menambah sebanyak-banyak worksheet selama memori komputer kita mencukupi untuk melakukannya.
+d. Range, merupakan sekelompok cell yang akan mendapat aksi sama sesuai perintah yang Anda jalankan. Pemberian alamat/address dilakukan mulai dari cell sudut kiri atas sampai cell sudut kanan bawah Contoh : A1:C4 Range mulai dari cell A1 sampai cell D4
+e. Alamat/Address, merupakan penunjuk cell atau range. Contoh: F5 adalah Cell yang berada pada kolom F baris ke 5 D2:G8 adalah Range dari kolom D baris ke 2 sampai kolom G baris ke 8
+f. Alamat Relatif, merupakan alamat yang jika dituliskan ke dalam bentuk rumus atau fungsi akan berubah jika di copy ke cell lain. Contoh: Cell B1 berisi formula A1*5, B1 di copy kan ke C3 Formula pada C3 menjadi B3*5
+g. Alamat Semi Absolut, merupakan alamat yang dituliskan dengan tanda $ di depan
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 58
+baris atau kolom sehingga nilai tidak akan berubah. Contoh: Cell B1 berisi formula $A1*5, B1 di copy kan ke C3 Formula pada C3 menjadi $A3*5 h. Alamat Absolut, merupakan alamat yang dituliskan dengan tanda $ di depan baris dan kolom. Tekan tombol F4 untuk menghasilkan alamat absolut pada formula bar. Contoh: Cell B1 berisi formula $A$1*5, B1 di copy kan ke C3 Formula pada C3 menjadi $A$1*5 i. Name Box, menunjuk pada cell/range yang aktif saat itu. Anda dapat juga membuat nama range melalui kotak nama di sebelah kiri formula bar. Contoh: HELLO Nama lain range A1:C4
+3.3 Bentuk Masukan
+Terdapat tiga cara untuk memasukkan data dalam spreadsheet yaitu : a. Memasukkan data melalui keyboard (entry) b. Mengambil dari isi cell yang telah ada pada worksheet (copy atau move) c. Mengambil dari file lain (file import)
+Di dalam pengisian ini dikenal beberapa bentuk data masukan, yang berupa:  Teks
+o Excel akan meletakkan format teks rata pada sisi kiri cell. o Untuk memasukkan angka sebagai teks, ketikkan terlebih dahulu tanda petik
+tunggal ()  Angka
+o Format ini dapat berupa bilangan bulat, pecahan desimal, pecahan, atau notasi ilmiah.
+o Excel akan meletakkan format angka rata pada sisi kanan cell o Jika cell menampilkan tanda ####### setelah Anda memasukkan suatu angka
+berarti lebar kolom terlalu kecil. o Untuk mengganti format angka ke dalam format rupiah, penambahan dua digit
+di belakang koma, maka pilihlah cell yang akan diganti, klik kanan mouse dan pilih Format Cells, Numbers, Currency.
+
+Comlab FASILKOM UNSRI 2012
+
+59 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+ Penanggalan dan waktu o Untuk menampillkan tanggal sistem tekan tombol Ctrl+; dan jam sistem dengan menekan Ctrl+: o Ketika mengetikkan tanggal 3-6-98 maka cell secara otomatis mengubah ke bentuk format tanggal 6/3/98. o Pilih fasilitas Format Cells untuk mengganti format penanggalan dan waktu.
+ Formula o Diawali dengan mengetikkan tanda sama dengan (=) sebelum memasukkan rumus , jika tidak maka rumus Anda akan dianggap sebagai data teks. Contoh : = DDB($D$9,$E$5,$E$6,C9)
+ Data Series  Kumpulan data/Data Series adalah sekumpulan data yang mempunyai persamaan
+orientasi, seperti nama-nama hari, bulan, tahun dan sebagainya dengan menggunakan fasilitas Autofill.  Untuk membuat urutan hari yang dimulai dari hari Senin, Selasa, Rabu, dan seterusnya, Excel menyediakan fasilitas dengan mengisi daftar tersebut pada menu Tools, Options, Custom Lists. Contoh: Ketikkan monday pada cell A5, letakkan kursor pada sudut kanan bawah cell sampai kursor berubah bentuk menjadi tanda plus (Fill Handle), kemudian drag mouse ke bawah sampai cell A8, hasil berturut-turut Monday, Tuesday, Wednesday, Thursday.
+3.4 Mengedit Cell
+Dalam materi edit data ini, kita akan membahas bagaimana caranya menyalin data (copy), memindahkan data (cut), menyisip baris dan kolom (insert) dan menghapus baris dan kolom (delete).
+Langkah-langkah untuk menyisipkan baris, dapat dilakukan dengan langkah berikut: a. Letakkanlah penunjuk mouse di sel mana saja pada lokasi baris di mana akan
+disisipkan baris baru. (Sebagai contoh baris 5, maka letakkakan di sel B5 atau C4 dsb) b. Pilih dan klik menu Insert, Rows.
+Langkah-langkah untuk menyisipkan kolom adalah sebagai berikut :
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 60
+a. Letakkanlah penunjuk mouse di sel mana saja pada lokasi kolom di mana akan disisipkan kolom baru. (Sebagai contoh kolom E, maka letakkakan di sel E.5 atau E.4 dsb)
+b. Pilih dan klik menu Insert, Columns. Terdapat dua cara untuk menyalin data yang ada pada suatu sel/range , yaitu :
+a. Menggunakan perintah Copy - Sorotlah terlebih dahulu sel/range yang akan di salin. - Pilih dan klik Copy yang terdapat pada Tab Home group Clipboard atau cukup dengan menekan tombol Ctrl+C. - Pindahkan penunjuk sel ke lokasi yang dinginkan. - Pilih dan klik Paste yang terdapat pada Tab Home group Clipboard atau dengan menekan tombol Ctrl+V.
+b. Menggunakan Mouse Perhatikan tabel berikut ini :
+Gambar 3.10 Tabel Contoh - Asumsi jumlah barang sama. - Sorotlah sel/range yang akan di salin, sebagai contoh sel d3. - Arahkan penunjuk mouse ke Fill Handle (perhatikan tabel) sehingga berubah
+menjadi tanda plus (+), agak kecil ukurannya dengan yang sebelumnya. - Klik, jangan dilepas, dan geserlah penunjuk mouse tersebut ke sel yang yang
+dituju. Untuk contoh diatas sel D6, baru tombol mouse dilepaskan. Terdadapat dua cara untuk memindahkan data (cut), yaitu: a. Menggunakan perintah Cut - Sorotlah terlebih dahulu sel/range yang akan dipindahkan. - Pilih dan klik Cut yang terdapat pada Tab Home group Clipboard atau cukup
+dengan menekan tombol Ctrl+X. - Pindahkan penunjuk sel ke lokasi yang dinginkan. - Pilih dan klik Paste yang terdapat pada Tab Home group Clipboard atau dengan
+menekan tombol Ctrl+V.
+
+Comlab FASILKOM UNSRI 2012
+
+61 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+b. Menggunakan Mouse - Perhatikan kembali tabel diatas. Kita akan memindahkan tabel diatas, ke sel B10. - Sorotlah terlebih dahulu sel/range yang akan di salin. Sebagai contoh sorotlah range B2:F6. - Arahkan penunjukan mouse ke tepi kanan dari data yang disorot tadi. (tepi kanan kolom F, harus pada range yang disorot). - Geserlah penunjuk mouse tersebut ke sel B10, maka otomatis data yang disorot tadi akan berpindah.
+Cara untuk menghapus baris, kolom atau sel (delete) yang tidak diperlukan lagi adalah sebagai berikut:
+- Sorotlah sel atau range yang akan dihapus.
+Gambar 3.11 Pilihan Opsi untuk menghapus cell, rows atau column - Pilih panah kecil yang berada dibawah perintah Delete yang terdapat pada Tab
+Home Group Cells. - Jika Anda menghapus cell yang posisinya berada di tengah, maka akan tampil
+dialog box opsi pilih salah satu model penghapusan berikut ini ; o Shift cell left, digunakan untuk menghapus seluruh isi sel/range yang disorot
+dan diganti dengan data pada baris yang sama yang terletak disebelah kanannya. o Shift cell up, digunakan untuk menghapus seluruh isi sel/range yang disorot dan diganti dengan data pada kolom yang sama yang terletak disebelah bawahnya. o Entire Row, digunakan untuk menghapus seluruh isi sel/range pada baris yang disorot. o Entire Column, digunakan untuk menghapus seluruh isi sel/range pada kolom yang disorot. - Pilih salah satu opsi, klik OK untuk menutup kotak dialog ini.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 62
+3.5 Membuat Tabel
+Pada worksheet anda sudah melihat bahwa lembar kerja terbagi menjadi kolom dan baris, tetapi tampilan ini hanya nampak di tampilan layar saja tetapi pada saat anda mencetaknya maka kolom dan baris tersebut tidak akan tampak.
+Seperti pada Word maka anda juga bisa membuat tampilan lembar kerja berupa tabel. Langkah ­ langkahnya :
+a. Blok kolom dan baris yang akan dijadikan tabel
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 3. 12 Jendela Format Cell
+
+b. Klik Kanan lalu pilih Format Cells, selanjutnya akan muncul tampilan seperti pada gambar 3.12.
+c. Pada tab Border anda bisa memilih bagian dari cell yang akan dipertebal garisnya untuk dijadikan tabel.
+d. Selanjutnya pada tab Patterns, anda bisa memberi warna dan motif dari suatu cell.
+
+3.6 Menulis Rumus
+
+Rumus merupakan bagian terpenting dari Program Excel ini, karena setiap tabel dan
+
+dokumen yang kita ketik akan selalu berhubungan dengan rumus dan fungsi. Di samping
+
+melakukan perhitungan, Excel dapat juga melakukan operasi logika. Dengan
+
+menggunakan operasi ini, Excel dapat melakukan penilaian apakah suatu pernyatan benar
+
+atau salah.
+
+Operator-operator yang digunakan pada operasi logika, menggunakan operator relasi
+
+atau pembanding, antara lain:
+
+Lambang = > <
+
+Fungsi Sama dengan Lebih besar dari Lebih kecil dari
+
+63 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+>=
+
+Lebih besar atau sama dengan
+
+<=
+
+Lebih kecil atau sama dengan
+
+<>
+
+Tidak sama dengan
+
+Sebagai contoh A2>A3, operator logika lebih besar (>) membandingkan nilai-nilai yang ada dalam sel A2 dan sel A3. hasil pembandingan dapat berupa nilai logika True (1) atau False (0).
+Penulisan rumus harus dimulai dengan tanda =`, ada beberapa cara untuk menuliskan rumus, yaitu:
+Menulis rumus dengan mengetikkan angka langsung. Cara ini cukup mudah kalau rumusnya sederhana dan pendek serta angkanya tetap.
+Caranya:  Letakkan penunjuk sel pada sel tempat hasil rumus akan ditampilkan.  Pada formula bar, ketikkan rumus yang akan anda gunakan misalnya ketikkan, =
+1000+3500, lalu tekan tombol enter. Pada sel yang anda pilih tadi akan tampil 4500.  Menulis rumus dengan menggunakan alamat sel, dimana dengan cara ini Anda tidak perlu mengganti rumus bila Anda mengubah isi sel. Caranya:  Letakkan penunjuk sel pada sel tempat hasil rumus akan ditampilkan.  Pada formula bar, ketikkan rumus yang akan Anda gunakan, tetapi berbeda
+dengan cara sebelumnya disini Anda menuliskan sel yang akan dikenai rumus misalnya Anda ingin menampilkan hasil penjumlahan antara data pada sel C5(1000) dengan data pada sel C6(3500) pada sel C7 maka ketikkan, = C5+C6 pada lalu tekan tombol enter. Pada sel C7 akan tampil angka 4500.  Menulis rumus dengan bantuan mouse, cara ini sangat dianjurkan karena memperkecil kemungkinan salah ketik alamat sel. Caranya:  Letakkan penunjuk cell pada cell tempat hasil rumus akan ditampilkan.  Ketikkan = , kemudian pilih dan klik cell pertama.  Ketik +, kemudian pilih dan klik cell kedua.  Tekan tombol enter.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 64
+LATIHAN
+ISILAH KOLOM KOLOM DIBAWAH INI
+Nilai A Nilai B Nilai C A+B A-B A/B A*B (A+B)*C (A+C)/B (A+B)/B ((A-B)*(A+C))/2 ((B/A)*C((A/B)+(A*B)) 25 67 67 65 61 71 21 16 32 71 27 92 16 24 29 67 21 98 67 26 83 39 46 67 25 29 71 12 35 86
+3.7 Menggunakan Fungsi
+Fungsi sebenarnya adalah rumus yang sudah disediakan oleh Microsoft Excel 2007, yang akan membantu dalam proses perhitungan. Kita tinggal memanfaatkan sesuai dengan kebutuhan. Pada umumnya penulisan fungsi harus dilengkapi dengan argumen, baik berupa angka, label, rumus, alamat cell atau range. Argumen ini harus ditulis dengan diapit tanda kurung (). Ada Excel 2007, pada saat Anda menuliskan rumus akan tampil Formula AutoComplete. Anda bisa memilih Formula yang Anda inginkan dari sana dengan melakukan double klik pada formula yang Anda gunakan.
+Gambar 3.13 Formula Autocomplete Perhatikan kembali contoh di atas, tapi kita akan menggunakan fungsi untuk mengolahnya. Ada beberapa cara untuk menuliskan fungsi, yaitu: a. Menulis fungsi secara langsung (manual)
+- Letakkan penunjuk cell pada cell tempat hasil fungsi akan ditampilkan. - Ketikkan =SUM(C4:C5), dimana SUM adalah fungsi untuk penjumlahan dan
+
+Comlab FASILKOM UNSRI 2012
+
+65 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+(C4:C5) adalah argumen berupa alamat cell. - Tekan tombol enter untuk memprosesnya. b. Menulis fungsi dengan memanfaatkan Paste Fungsional - Paste Function adalah salah satu cara untuk menulis fungsi yang disediakan oleh
+Microsoft Excel 2007, dimana kita dipandu untuk menulis fungsi beserta argumennya, sehingga kesalahan dalam pengetikkan fungsi dan argumennya dapat terhindar. Untuk menggunakan fasilitas ini, ikuti langkah-langkah berikut: - Letakkan penunjuk cell pada cell tempat hasil fungsi akan ditampilkan. - Pilih Formulas - Insert Function yang terdapat pada Tab Formula Group Insert Function. Maka akan tampil kotak dialog berikut:
+Gambar 3.14 Jendela Insert Function - Pada daftar pilihan Function category, Anda bisa memilih kategori fungsi yang
+anda akan gunakan misal anda memilih kategori Math & Trig, maka dibagian Function name akan muncul daftar fungsi matematika dan trigonometri yang disediakan Microsoft Excel 2007. - Pilih dan Klik fungsi SUM karena kita akan menggunakan fungsi ini untuk menjumlahkan. Pada bagian bawah dari daftar pilihan tersebut ditampilkan sintak penulisan dari fungsi yang dipilih. Seperti diatas, aturan penulisan fungsi SUM adalah SUM(number1,number2,...). - Klik OK sebagai tanda persetujuan, berikutnya akan tampil kotak pengisian argumen dari fungsi. - Pada kotak isian Number1, tentukan range data yang akan dijumlah, Kalau masih ada range yang lain, maka dapat diisikan pada daftar isian number2. dalam pengisian alamat cell ini sebaiknya menggunakan tombol pemilihan range yang terdapat disebelah kanan kotak isian ( ).
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 66
+Gambar 3. 15 Jendela Penulisan Function Arguments - Klik OK jika argumen yang dimasukan telah benar. Maka hasilnya akan
+ditampilkan pada cell yang dipilih tadi.
+3.7.1 Fungsi Tanggal dan Waktu Beberapa fungsi penanggalan dan waktu yang biasa digunakan dalam Microsoft Excel adalah sebagai berikut :  Fungsi DATE o Fungsi ini digunakan untuk memasukkan tanggal ke dalam suatu sel.
+Penulisannya: =DATE(tahun,bulan,hari). o Contoh: =DATE(99,12,30) akan menghasilkan 12/30/99.  Fungsi YEAR, MONTH, DAY o Fungsi ini digunakan untuk mengambil tahun, bulan dan tanggal dari nilai seri
+tanggal dan waktu. Penulisannya:
+=YEAR(tanggal), =MONTH(tanggal), =DAY(tanggal). Contoh: pada sel A5 = 12/30/99, jika dikenai fungsi =YEAR(A5) akan menghasilkan nilai 1999. Jika dikenai fungsi =MONTH(A5) akan menghasilkan nilai 12 dan jika dikenai fungsi =DAY(A5) menghasilkan nilai 30.  Fungsi NOW dan TODAY o Fungsi NOW digunakan untuk mengambil tanggal dan waktu dari sistem dengan format default mm/dd/yy hh:ss. Fungsi TODAY hanya mengambil tanggal dari sistem komputer dengan format default mm/dd/yy. Penulisannya: =NOW()
+
+Comlab FASILKOM UNSRI 2012
+
+67 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+=TODAY().  Fungsi TIME
+o Fungsi ini digunakan untuk memasukkan waktu ke dalam sebuah sel atau mengubah angka serial waktu ke dalam waktu tertentu. Penulisannya: =TIME(jam,menit,detik). Contoh: =TIME(8,20,25) akan menghasilkan waktu 8:20 Am.
+ Fungsi HOUR, MINUTE, SECOND o Fungsi HOUR mengambil jam dari sebuah penulisan waktu atau dari angka serial waktu. Fungsi MINUTE mengambil menit dari sebuah penulisan waktu atau dari angka serial. Fungsi SECOND mengambil angka detik dari sebuah penulisan waktu atau dari angka serial. Penulisannya : =HOUR (jam) =MINUTE(jam) =SECOND(jam)
+3.7.2 Fungsi yang sering digunakan Dari gambar kotak dialog Insert Function dapat diambil kesimpulan bahwa
+Microsoft Excel 2007 membagi fungsi berdasarkan kelompok masing, seperti kelompok financial, date & time, math & trig, statistical, database, dan satu kelompok untuk fungsi yang sering digunakan (most recently used).
+Pada bagian ini kita akan membahas sebagian dari fungsi yang sering digunakan tersebut. Perhatikan contoh tabel berikut.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 68
+Gambar 3.16 Contoh tabel dengan fungsi yang umum digunakan  Fungsi Sum(...)
+o Fungsi SUM digunakan untuk menjumlahkan sekumpulan data pada suatu range. Bentuk umum penulisan fungsi ini adalah =SUM(number1,number2,...). Dimana number1, number2 dan seterusnya adalah range data yang akan dijumlahkan. Lihat pembahasan sebelumnya. Pada tabel diatas fungsi SUM digunakan untuk menghitung TOTAL, pada cell C17 anda cukup menuliskan =SUM(C5:C16).
+ Fungsi Average(...) o Fungsi ini digunakan untuk mencari nilai rata-rata dari sekumpulan data(range). Bentuk umum penulisannya adalah : o =AVERAGE(number1,number1,...), dimananumber1, number2, dan seterusnya adalah range data yang akan dicari nilai rata-ratanya. Untuk mengisi pendapatan rata-rata pada contoh diatas, maka rumusnya adalah =AVERAGE(C5:C16) kemudian tekan tombol enter.
+ Fungsi Max(...) o Fungsi ini digunakan untuk mencari nilai tertinggi dari sekumpulan data (range). Bentuk umum penulisannya adalah: =MAX(number1,number1,...), dimana number1, number2, dan seterusnya adalah range data (numerik) yang akan dicari nilai tertingginya. Untuk mengisi cell B21 pada contoh diatas, maka rumusnya adalah =MAX(C5:C16)
+ Fungsi Min(...) o Sama halnya dengan fungsi max, bedanya fungsi min digunakan untuk mencari nilai terendah dari sekumpulan data numerik. Kita dapat mengisi cell B20 dengan rumus =MIN(C5:C16).
+
+Comlab FASILKOM UNSRI 2012
+
+69 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+ Fungsi Count(...) o Fungsi Count digunakan untuk menghitung jumlah data dari suatu range yang kita pilih.
+ Fungsi STDEV(...) o Digunakan untuk menentukan standar deviasi dari suatu data (range). Bentuk umum penulisan fungsi ini adalah =STDEV(number1,number2,...). Dimana number1, number2 dan seterusnya adalah range data koresponden yang akan dicari nilai standar deviasinya.
+ Fungsi Var(...) o Fungsi ini digunakan untuk menentukan nilai variance dari suatu data (range). Bentuk umum penulisan fungsi ini adalah =VAR(number1,number2,...).
+
+LATIHAN
+
+ISILAH KOLOM DIBAWAH INI
+
+Nilai A Nilai B Nilai C A+B A-B A/B A*B (A+B)*C (A+C)/B (A+B)/B ((A-B)*(A+C))/2 ((B/A)*C((A/B)+(A*B)) 25 67 67 65 61 71 21 16 32 71 27 92 16 24 29 67 21 98 67 26 83 39 46 67 25 29 71 12 35 86
+Nilai TerTinggi Nilai Terendah Nilai Rata - rata Total
+
+Comlab FASILKOM UNSRI 2012
+
+LATIHAN
+1. Buatlah sebuah file Excel baru dengan nama Modul3.xls. 2. Ubah nama Sheet1 menjadi Urutan1. 3. Pada Sheet Urutan1, buatlah dokumen seperti di bawah ini:
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 70
+Gambar 3.17 Latihan 1 4. Ubah nama Sheet2 menjadi Urutan2. 5. Buatlah dokumen seperti di bawah ini pada Sheet Urutan2.
+Gambar 3.18 Latihan 2 6. Penulisan bulan didapat dari bulan saat ini. 7. Penomoran per hari (1,2,3,...) dibuat secara otomatis dengan menggunakan Data Series. 8. Dengan menggunakan format Cell, formatlah tampilan table sehingga menjadi seperti
+contoh di atas. 9. Total Penjualan/Hari diperoleh dari Jumlah penjualan masing- masing hari. 10. Total Penjualan diperoleh dari Jumlah penjualan masing-masing Tipe rumah. 11. Total Pendapatan diperoleh dari Perkalian Harga rumah dengan Total Pendapatan. 12. Gunakan fungsi Max, Min dan Average untuk memperoleh nilai masing-masing nilai
+terendah, tertinggi dan rata-rata.
+
+Comlab FASILKOM UNSRI 2012
+
+71 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+4. Fungsi Logika dan String
+
+4.1 Fungsi Logika
+
+Fungsi logika adalah fungsi yang digunakan
+
+untuk
+
+menyelesaikan
+
+perhitungan-perhitungan yang berhubungan dengan pengambilan keputusan.
+
+A. Fungsi IF
+
+- Fungsi logika yang digunakan adalah fungsi IF.
+
+- Bentuk penulisan fungsi IF:
+
+=IF(kondisi,nilai jika benar,nilai jika salah)
+
+- Sebagai contoh, rumus =IF(A5>17,Dewasa,Anak-anak) menghasilkan
+
+nilai Dewasa jika sel A5 berisi nilai lebih dari 17 dan akan menghasilkan nilai
+
+Anak-anak jika sel A5 berisi nilai kurang dari 17.
+
+B. Fungsi AND, OR dan NOT
+
+- Fungsi AND, OR dan NOT bekerja sama dengan ekspresi logika.
+
+- Bentuk sintax AND:
+
+=AND(logika1,logika2,...,logika30)
+
+o Fungsi AND akan menghasilkan nilai True jika semua kondisi terpenuhi.
+
+- Bentuk penulisan OR adalah sebagai berikut:
+
+=OR(logika1,logika2,...,logika30).
+
+o Fungsi OR akan menghasilkan nilai True jika salah satu dari dua kondisi
+
+terpenuhi.
+
+- Fungsi NOT artinya menyangkal sebuah kondisi.
+
+o Bentuk sintax NOT:
+
+=NOT(logika).
+
+o Contoh: =IF(NOT(A5=1),Pergi,Tidak). Supaya menghasilkan
+
+nilai teks Pergi, maka nilai sel A5 harus bukan nilai 1.
+
+Comlab FASILKOM UNSRI 2012
+
+C. Fungsi IF Bercabang Fungsi IF bercabang merupakan pengembangan dari bentuk fungsi IF tunggal
+yang digunakan untuk menyelesaikan permasalahan yang cukup kompleks. Contoh IF dua level:
+=IF(A5>30,Panas,IF(A5>0,Hangat,Dingin)). Fungsi di atas akan menghasilkan nilai Panas apabila sel A5 berisi nilai lebih dari 30, jika antara 0 dan 30 akan menghasilkan nilai teks Hangat,
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 72
+
+sedangkan jika di bawah 0 akan menghasilkan nilai Dingin.
+
+LATIHAN
+
+ISILAH KOLOM DIBAWAH INI
+
+No Nama 1 Andri Hermawan 2 Chi chi 3 Hapsarie 4 Arif Rakhman 5 Zeni
+
+Nilai Ujian
+
+Status Kelulusan 50 70 90 85 45
+
+4.2 Fungsi ­ Fungsi Pendukung
+a) Fungsi SUMIF  Fungsi ini termasuk kedalam kelompok fungsi Matematika & Trigonometri  Digunakan untuk menjumlahkan seluruh data angka (numeric) dari sederetan angka yang sesuai dengan criteria tertentu  Penulisan syntax dari fungsi SUMIF adalah sebagai berikut : = SUMIF (range, criteria,sum_range) , dimana :  Range : digunakan untuk menetukan range yang akan dievaluasi atau diuji  Criteria : digunakan untuk menentukan criteria atau kondisi tertentu yang akan dihitung. Kriteria ini dapat berupa huruf, angka atau rumus  Sum_range : digunakan untuk menentukan range data yang akan dijumlahkan atau dihitung
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 4.1 Contoh Tabel
+
+73 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+ Contoh penggunaan fungsi ini adalah : Tabel yang terlihat pada
+
+Gambar 4-1 akan dihitung berapa Jumlah Total Pendapatan yang diperoleh
+
+dengan criteria Penilaian BAGUS
+
+ Letakkan cursor pada C24
+
+ Ketikkan =SUMIF($D$6:$D$17;"Bagus";$C$6:$C$17)
+
+o $D$6:$D$17 adalah range dari kumpulan criteria yang akan diuji
+
+o Bagus adalah criteria yang akan diuji
+
+o $C$6:$C$17 adalah kumpulan angka yang akan dihitung sesuai dengan
+
+criteria
+
+yang ditentukan
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 4.2 Penggunaan fungsi SUMIF b) Fungsi COUNTIF
+ Fungsi ini termasuk ke dalam kelompok fungsi Statistik  Contoh penggunaan fungsi ini adalah :
+Tabel yang terlihat pada Gambar 4-2 akan dihitung berapa Jumlah penilaian dengan kriteria Bagus dan Tidak Bagus. - Letakkan cursor pada cell G7 - Ketikkan =COUNTIF($D$6:$D$17;"Bagus")
+o $D$6:$D$17 adalah kumpulan data yang akan diuji o "Bagus" adalah criteria yang diuji
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 74
+Gambar 4.3 Contoh penggunaan fungsi CountIF
+4.3 Fungsi String
+Fungsi String berfungsi untuk mengubah isi teks numeric menjadi bilangan, bilangan menjadi string teks, dan memungkinkan untuk mrmanipulasi string teks. a. Fungsi VALUE, digunakan untuk mengubah nilai teks numerik menjadi nilai
+value(bersifat bilangan). Penulisannya:
+=VALUE(teks). Teks ditulis dengan diapit tanda petik. Teks dapat berupa sel atau range. b. Fungsi FIND, digunakan untuk menghasilkan posisi substring dari sebuah string. Fungsi FIND akan menghasilkan suatu nomor dari karakter yang dicari. Penulisannya:
+=FIND(cari teks,pada teks,mulai nomor). Argumen cari teks akan menunjukkan teks yang dicari dan pada teks menunjukkan dimana teks tersebut harus dicari. Mulai nomor menentukan posisi dimulainya pencarian teks. c. Fungsi MID, digunakan untuk mengambil karakter tertentu dari sederetan karakter. Penulisannya:
+=MID(teks,posisiawal,jumlah karakter). Teks adalah sederetan karakter yang akan diambil substringnya. Posisi awal adalah tempat dalam teks dimana substring akan diambil. Jumlah karakter adalah banyaknya substring yang akan diambil. d. Fungsi LEFT dan RIGHT. Fungsi LEFT akan mengambil substring dari sebelah kiri string, sedangkan fungsi RIGHT akan mengambil substring dari sebelah kanan string.
+
+Comlab FASILKOM UNSRI 2012
+
+75 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+Bentuk penulisannya : = LEFT(teks,jumlah karakter) dan =RIGHT(teks,jumlah karakter)
+e. Fungsi REPLACE, digunakan untuk menggantikan substring dengan substring yang lain dalam sebuah string (sederetan karakter atau karakter. Penulisannya: =REPLACE(teks lama,nomor awal,jumlah karakter,teks baru).
+f. Fungsi CONCATENATE, digunakan untuk menggabungkan string menjadi satu kalimat. Batas string yang digabungkan maksimal 30 string. Penulisannya : = CONCATENATE (teks1,teks2,...)
+LATIHAN Isilah Kolom Berikut Ini
+
+No Kode Barang 1 BB/12/KG 2 MG/05/KG 3 KM/10/BT 4 SM/25/KT 5 SC/14/WT 6 SG/12/KT 7 PG/25/KT 8 SB/13/BT 9 GB/15/KB 10 SU/12/KG
+
+Nama Barang Kode Satuan Jumlah Barang Kode Jumlah Harga Satuan Total Harga
+
+Beras Biasa
+
+7500
+
+Minyak Goreng
+
+11000
+
+Kecap Manis
+
+6500
+
+Sabun Mandi
+
+2500
+
+Sabun Cair
+
+4500
+
+Sikat Gigi
+
+4250
+
+Pasta Gigi
+
+5400
+
+Sampo botol
+
+12550
+
+Gandum biasa
+
+6000
+
+Sagu Udang
+
+7000
+
+Ketentuan :
+
+Kode Satuan
+
+: diambil dari Kode Barang 2 karakter dari kiri
+
+Jumlah Barang
+
+: diambil dari Kode Barang karakter ke 4 dan 5 (Tengah)
+
+Kode Jumlah
+
+: diambil dari Kode Barang 2 karakter dari kanan
+
+Total Harga
+
+: Jumlah Barang * Harga Satuan
+
+Comlab FASILKOM UNSRI 2012
+
+4.4 Membuat Grafik
+Selain anda bisa menampilkan hasil pekerjaan anda dalam bentuk tabel anda juga bisa menampilkan data-data yang sudah anda olah ke dalam bentuk grafik sehingga data tersebut bisa lebih mudah dipahami oleh seseorang yang membacanya. Microsoft Excel 2007 memungkinkan anda untuk membuat suatu grafik pada worksheet sehinga data yang sudah
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 76 anda olah bisa ditampilkan dalam bentuk grafik. Langkah-langkahnya adalah sebagai berikut: a. Pilihlah data yang akan dipergunakan untuk membuat chart. b. Pilih bentuk Chart yang akan dibuat pada Tab Insert Group Charts. Setelah Anda
+memilih bentuk grafik yang akan anda buat, akan muncul berbagai style chart sesuai dengan kategorinya.
+Gambar 4.4 Pilihan Style Chart c. Chart akan muncul pada sheet yang sama dengan data Anda. d. Untuk mengatur tampilan Chart, Anda dapat mempergunakan Ribbon tambahan yang
+muncul setelah Chart ditambahkan dalam Worksheet dengan Chart Tool yang memiliki tiga Tab, yaitu Design, Layout dan Format.
+Gambar 4.5 Tab Design pada Ribbon Chart Tools
+Gambar 4.6 Tab Layout pada Ribbon Chart Tools
+Gambar 4.7 Tab Format pada Ribbon Chart Tools e. Selanjutnya Anda bisa menambahkan label pada grafik yang Anda buat dengan
+memilih style yang terdapat pada Tab Design group Chart Layouts.
+Gambar 4.7 Group Chart Layout
+
+Comlab FASILKOM UNSRI 2012
+
+77 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+ Tab Titles digunakan untuk membuat judul grafik, dimana o Chart Title, diisi dengan judul tabel o Category (X) axis, diisi dengan judul tabel untuk sumbu X o Series (Y) axis, diisi dengan judul tabel untuk sumbu Y o Value (Z) axis, diisi dengan judul tabel untuk sumbu Z
+ Tab Axes digunakan untuk mengatur judul sumbu (axis), kita dapat mengatur apakah judul sumbu category (X)axis, series (Y) axis dan Value (Z) axis akan ditampilkan atau tidak. Jika ingin ditampilkan, ceklislah sumbu tersebut.
+ Tab Gridlines digunakan untuk mengatur tampilan garis skala pembantu (grid) pada sumbu X, Y dan Z dengan pilihan mayor gridlines (jarak antar garis agak lebar) dan minor gridlines (jarak antar garis dekat). Ceklislah pada sumbu yang diinginkan untuk menampilkannya.
+ Tab Legend digunakan untuk mengatur tampilan legend dari grafik. Tandailah option Show Legend untuk menampilkan legend dan tentukan posisi legend pada option Placement apakah di bawah (bottom), pojok (corner), atas (top), kanan (right) atau disebelah kiri (left).
+ Tab Data Labels digunakan untuk mengatur penempatan label data pada grafik. Label data ini berupa teks, nilai data, atau tidak ada sama sekali, tergantung kebutuhan kita masing-masing.
+ Tab Data Table digunakan untuk mengatur apakah ingin menampilkan data tabel atau tidak pada bagian bawah grafik.
+
+Comlab FASILKOM UNSRI 2012
+
+LATIHAN
+Jurusan Mei
+ADM AKUN DG TKJ TOTAL
+
+Juni 45 21 89 89
+
+Bulan Juli
+76 24 87 34
+
+Total
+
+Agustus
+
+34
+
+23
+
+123
+
+45
+
+45
+
+57
+
+57
+
+23
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 78
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+Mei
+
+Juni
+
+Juli
+
+Agustus
+
+Mei
+
+ADM AKUN DG TKJ
+
+ADM AKUN DG TKJ
+
+Comlab FASILKOM UNSRI 2012
+
+150 100
+50 0 ADM AKUN DG
+
+Mei Juni Juli Juli Agustus Mei
+TKJ
+
+LATIHAN
+1. Ambil dokumen Excel untuk latihan modul4 dan contoh dokumen yang harus dibuat pada alamat yang akan diberikan selanjutnya.
+2. Tanggal merupakan tanggal hari ini. 3. Total Pendapatan diperoleh dari perkalian antara Harga Jual dengan Jumlah. 4. Dengan menggunakan fungsi IF berikan keterangan untuk masing-masing kolom
+Penilaian.
+
+79 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+ Penilaian Penjualan : o Jika Penjualan sama dengan atau diatas 1000 makaPenjualan Baik o Jika Penjualan antara 1000 sampai 500 maka Penjualan Sedang o Jika penjualan dibawah 500 maka Penjualan Jelek
+ Penilaian Harga o Jika Harga sama dengan atau diatas 50000 maka Harga Mahal o Jika Harga antara 50000 sampai 20000 maka Harga Sedang o Jika Harga dibawah 20000 maka Harga Murah
+5. Dengan menggunakan fungsi COUNTIF, hitunglah jumlah masing-masing penilaian. 6. Dengan menggunakan fungsi SUMIF, hitunglah jumlah pendapatan masing-masing
+satuan. 7. Pada Sheet2, tambahkan satu grafik baru berdasarkan data yang ada pada tabel.
+Tampilan grafiknya seperti berikut ini:
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 80
+
+Comlab FASILKOM UNSRI 2012
+
+81 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+5. Fungsi LookUp dan Referensi
+5.1 Fungsi Lookup dan Referensi
+Fungsi ini digunakan untuk pembacaan data dari suatu table datadan referensi dalam suatu table. Fungsi-fungsi yang termasuk kedalam fungsi lookup & referensi adalah :
+a. Fungsi CHOOSE Fungsi ini bermanfaat untuk memilih suatu nilai berdasarkan nilai dalam
+argument. Argumen ini dapat berupa angka ataupun rumus. Syntax dari fungsi ini adalah sebagai berikut :
+=CHOOSE(index_num,value1,value2,...) Dimana,  Index_num : nomor index dari suatu nilai. Argumen ini berisi antara angka 1
+sampai dengan 29, atau rumus dengan hasil 1sampai dengan 29.  Value1,value2,... : pilihan nilai yang akan dipilih, yaitu apabila index_num bernilai
+1 maka yang akan terpilih adalah value1, begitu seterusnya.  Contoh penggunaan fungsi ini adalah sebagai berikut :
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 5.1 Tabel latihan dengan Choose
+
+- Akan dicari nilai untuk mengisi kolom Nama Barang dan Satuan, dengan
+
+ketentuan sebagai berikut :
+
+Kode 1 2 3 4 5 6 7 8
+
+Nama Barang Centong Nasi Tutup Gelas Centong Sayur Asbak Jepit Rambut Kancing Baju Tas tangan Dompet
+
+Satuan Buah Buah Buah Buah Pak Pak Buah Buah
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 82
+
+9
+
+Sandal
+
+Pasang
+
+10 Gantungan Kunci Buah
+
+- Maka yang harus dilakukan adalah : o Tuliskan perintah = o =CHOOSE(RIGHT(B3;1); "Centong Nasi ; Tutup Gelas; Centong Sayur ; Asbak ; Jepit Rambut ; Kancing Baju;Tas Tangan ; Dompet ; Sandal ; Gantungan Kunci) o Perintah Right(B3;1) digunakan untuk mengambil angka yang berada dibagian kanan dari kode barang. o Nilai yang harus tampil pada kolom Nama barang dituliskan selanjutnya untuk semua nama barang yang ada. o Lakukan cara yang sama untuk menampilkan Satuan.
+
+Comlab FASILKOM UNSRI 2012
+
+b. Fungsi VLOOKUP Fungsi VLOOKUP digunakan untuk membaca suatu tabel secara vertikal Syntax dari fungsi ini adalah: =VLOOKUP(Lookupvalue,Table_array,Col_index_num,. .) , Dimana,  Lookupvalue diisi dengan cell kunci yang akan dibandingkan dengan tabel.  Table_array diisi dengan range tabel data yang akan dibaca  Col_index_num diisi nomor indeks kolom yang akan diambil datanya  Contoh penggunaan fungsi ini adalah sebagai berikut : Menggunakan table yang sama dengan table yang digunakan pada fungsi Choose - Menggunakan tabel data dengan alamat $B$16:$C$25 - Tuliskan perintah sebagai berikut: =VLOOKUP(VALUE(RIGHT(B3;1));$B$16:$C$25;2;1) - Hal yang bisa dilakukan untuk menghindari kesalahan pengetikan rumus, kita dapat menggunakan fasilitas yang telah disediakan oleh Microsoft Excel (insert, function), dengan cara ; - Klik cell dimana hasil pencaraian akan tampil - Pilih menu Insert dan klik Function sehingga muncul kotak dialok Paste Function. - Pada daftar Function category, klik Lookup & Reference dan pada
+
+83 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Function name klik VLOOKUP lalu klik OK sehingga tampil kotak dialog VLOOKUP seperti berikut:
+Gambar 5.2 Jendela Function Argument - Klik OK, maka hasilnya ditampilkan pada cell C3. - Copylah rumus tersebut kebawah sampai data terakhir. Dengan cara kerja yang sama, Anda dapat mempelajari bagaimana cara menggunakan fungsi HLOOKUP
+c. Fungsi HLOOKUP Fungsi HLOOKUP digunakan untuk membaca suatu tabel secara horizontal. Syntax dari fungsi ini adalah : =HLOOKUP(Lookupvalue,Table_array,row_index_num,. .) Dimana,  Lookupvalue diisi dengan cell kunci yang akan dibandingkan dengan tabel.  Table_array diisi dengan range tabel data yang akan dibaca  row_index_num diisi nomor indeks baris yang akan diambil datanya
+d. Fungsi MATCH Fungsi ini digunakan untuk menentukan posisi urutan sel yang memuat data
+tertentu dari sederetan data. Syntax dari fungsi ini adalah : =MATCH(lookup_value,lookup array,match_type) Dimana,  lookup_value adalah suatu nilai data yang akan dicari posisinya  lookup_array adalah alamat range atau table dengan sederetan data  match_type adalah tipe range.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 84
+o Tipe 0 : data range tidak beraturan o Tipe 1 : data range berurut secara ascending o Tipe -1 : data range berurut secara descending  Contoh penggunaan fungsi Match adalah sebagai berikut: o Menggunakan tabel barang akan dicari posisi masing-masing nama
+barang pada tabel barang. o Letakkan cursor pada cell yang akan menampung hasil dari fungsi Match o Ketikkan rumus berikut: =MATCH(A2;$E$3:$E$12;0)
+Dimana:  A2 adalah alamat Nama Barang yang dicari  $E$3:$E$12 adalah range tabel barang yang menyimpan nama barang  0 adalah match tipe
+Sehingga hasilnya adalah sebagai berikut :
+Gambar 5. 3 Contoh Penggunaan Fungsi Match
+e. Fungsi INDEX Fungsi ini digunakan untuk mengambil nilai dari sebuah array atau mencari
+indekx sel relative dari sebuah array. Syntax dari fungsi ini adalah : =INDEX(array,row_num,column_num) Dimana,
+ Array adalah sekumpulan sel data atau konstanta array. o Jika array hanya berisi satu baris data atau satu kolom data, maka maka salah satu argumennya (row_num atau column_num) bersifat optional. o Jika array memiliki lebih dari satu baris dan kolom, dan hanya row_num atau column_num yang digunakan,INDEX menghasilkan array dari seluruh baris
+
+Comlab FASILKOM UNSRI 2012
+
+85 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+atau kolom.  Row_num digunakan untuk memilih baris yang akan dicari nilainya pada suatu
+array. Jika row_num diabaikan, maka column_num harus ditulis.  Column_num digunakan untuk memilih kolom yang akan dicari nilainya pada suatu
+array. Jika column_num diabaikan, maka row_num harus ditulis.  Contoh penggunan fungsi Index adalah sebagai berikut:
+o Mencari berapa jumlah penjualan suatu barang o Letakkan curso pada cell yang akan menampilkan hasil dari fungsi Index o Tuliskan rumus berikut :
+=INDEX(B2:E5;MATCH(B7;$A$2:$A$5);MATCH(C1;$B$1:$E$1;0)) Dimana o B2 adalah alamat nama barang yang dicari jumlah penjualannya o MATCH(B7;$A$2:$A$5) digunakan untuk mencari posisi baris nama barang o MATCH(C1;$B$1:$E$1;0) digunakan untuk mencari posisi kolom mingguan
+Gambar 5.4 Contoh Penggunaan Fungsi Index
+LATIHAN
+PT. Sinema 21 mengadakan pertunjukkan film untuk itu kita diminta mencari tarif, jatalog, pot, total dengan menggunakan tabel bantu Vertikal(=Vlookup) dan table bantu Horizontal (=Hlookup)
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 86
+
+PT.SINEMA 21 FILM JL. CINDE WELAN NO 10 PALEMBANG
+
+Kode Film IDA/2 INA/1 BRA/3 INA/1 BRA/3 IDA/2
+
+Judul Film Tanggal Main Daam Sigh Asmara Cinta Godzilla Gaza Jahl Perpisahan 1 Rambo II
+
+Tarif Film
+
+Katalog Film Pajak Film Pot. Harga Total Harga
+
+Table Bantu Vertikal
+
+Kode
+
+Tarif
+
+Katalog
+
+Pajak
+
+INA/1
+
+RP 20.000 Film India RP 3.000
+
+IDA/2
+
+RP 23.000 Film Indonesia RP 5.000
+
+BRA/3
+
+RP 25.000 Film Barat RP 7.000
+
+Tabel Bantu Horizontal
+
+Kode
+
+IDA/1
+
+INA/2
+
+BRA/3
+
+Tarif
+
+RP 20.000 RP 23.000 RP 25.000
+
+Katalog Film india Film Indonesia Film Barat
+
+Pajak
+
+RP 3.000 RP 5.000 RP 7.000
+
+LATIHAN
+1. Buatlah tabel berikut ini
+
+Comlab FASILKOM UNSRI 2012
+
+2. Isikan nama bulan yang akan dicari jumlah penjualannya 3. Isikan nama kue yang akan dicari jumlah penjualannya 4. Tuliskan rumus untuk mencari jumlah penjualan denganmenggunakan gabungan
+Fungsi Index dan Fungsi Match 5. Tuliskan rumus untuk mencari Harga kue dengan menggunakan fungsi Hlookup dan
+
+87 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+kalikan dengan jumlah penjualan 6. Sehingga tampilan hasil adalah sebagai berikut
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 88
+6. Database, tabel dan SQL dasar
+6.1 Memulai Access 2007
+Microsoft Access adalah suatu aplikasi yang dapat membantu kita membuat sebuah aplikasi database dalam waktu yang relatif singkat. Access 2007 merupakan dasar dari pembuatan database sebelum anda melangkah ke pembuatan database yang lebih kompleks lagi. Biasanya digunakan untuk pembuatan aplikasi-aplikasi yang kecil. Misalnya program untuk kasir di koperasi, penjualan untuk toko. Microsoft Access 2007 mempunyai beberapa bagian, diantaranya: a. Table digunakan untuk menyimpan data b. Query merupakan perintah yang ditujukan dalam penampilan data yang diinginkan,
+seringkali mengacu ke istilan Structure Query Language (SQL), biasanya digunakan untuk memanipulasi data c. Form merupakan jendela atau lembar yang biasa digunakan untuk tampilan dalam database. Biasanya untuk menampilkan data, menambah data dll. d. Report merupakan laporan yang ditampilkan oleh Microsoft Access 2007. e. Macro digunakan untuk melakukan satu atau beberapa fungsi.
+Untuk membuat aplikasi database yang pertama, ikuti langkah berikut ini: f. Setelah memilih Microsoft Office Access 2007 dari Start menu akan muncul tampilan
+awal seperti pada gambar 6.1 g. Pada Area New Blank Database , pilihlah Blank Database h. Pada bagian sebelah kanan layar tampil text box yang digunakan untuk mengisikan dan
+memilih tempat untuk menyimpan database baru. Yang perlu diperhatikan pada saat membuat database baru ini adalah type Access yang akan digunakan kemudian. Apakah hanya akan dipergunakan pada Access 2007saja atau diharapkan bisa dibuka pada versi Access sebelumnya. Jika pilihan kedua yang diinginkan, maka Anda harus menyimpannya dalam extensi *.mdb jika tidak akan disimpan dengan extensi *.accdb. i. Tekan tombol Create. j. Jika berhasil, kemudian akan tampil table kosong yang merupakan table default yang dibuat oleh Access. Jika tidak ingin menggunakan table tersebut, tutup saja dengan menekan tanda silang dipojok kanan.
+
+Comlab FASILKOM UNSRI 2012
+
+89 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i Gambar 6.1 Jendela awal Microsoft Access Gambar 6.2 Text box pengisian nama file
+Gambar 6.3 Penyimpanan file dan pemilihan type file
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 90
+Gambar 6.4 Tampilan database baru yang berhasil dibuat Ada empat Tab yang berada di Ribbon Microsoft Access 2007, yaitu Home, Create, External Data dan Database Tools. Contextual Tab akan muncul sesuai dengan kebutuhan. a. Tab Home. Berisikan kumpulan command yang dapat digunakan untuk mengganti
+view, menambahkan filter, format, dan mencari record pada database.
+Gambar 6.5 Tab Home pada Acess 2007 b. Tab Create. Berisikan kumpulan command yang digunakan untuk membuat Table,
+Form, Report dan kelengkapan lainnya, seperti macros.
+Gambar 6.6 Tab create c. Tab External Data. Berisikan kumpulan command yang digunakan untuk melakukan
+Import dari file Office lain atau Export ke file Office lainnya.
+Gambar 6.7 Tab External Data d. Database Tools. Berisikan kumpulan command yang digunakan untuk command
+advanced seperti pembuatan macro, menampilkan relationship yang terjadi antartable, synchronizing and managing information.
+Gambar 6.8 Tab database tools Selain Tab Ribbon, Microsoft Access 2007 juga memiliki Task Pane Navigation
+
+Comlab FASILKOM UNSRI 2012
+
+91 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+yang berada disebelah kiri. Task pane ini dapat menampilkan objek-objek yang terdapat dalam database.
+
+Gambar 6.9 Pilihan Objek yang ingin ditampilkan pada Navigation Pane
+
+6.2 Tipe data
+
+Untuk membuat tabel, pasti perlu untuk menentukan jenis dari data yang akan disimpan pada masing-masing filed. Tipe data yang terdapat pada Microsoft Access dapat
+
+dilihat pada tabel berikut:
+
+Tipe data Text
+Number Date/Time
+Memo
+Currency
+Auto Number Yes/No
+Hyperlink
+
+Keterangan Dapat menerima data berupa huruf, angka, spasi dan tanda baca. Panjang data maximum 255 karakter. Hanya dapat menerima data berupa angka. Hanya dapat menerima data berupa tanggal/waktu sampai tahun 9999. Kombinasi text dan number yang lebih panjang. Lebih dari 65,535 characters. Nilai dari keuangan dan data numeric yang digunakan dalam perhitungan matematika yang menyertakan data dengan 1 sampai 4 angka desimal. Akurasi sampai 15 digit pada sisi sebelah kiri dari tanda desimal dan 4 digit pada sisi kanan. Nomor urut atau random yang unik (penambahan 1) yang diberikan oleh Microsoft Access ketika record baru ditambahkan pada tabel. Kolom AutoNumber tidak bisa di updated. NilaiYes dan No, dan kolom yang berisi hanya 1 dari 2 nilai (Yes/No, True/False, atau On/Off). Text atau kombinasi dari text dan number yang tersimpan sebagai text dan digunakan sebagai hyperlink address. Hyperlink address mempunyai 3 bagian, yaitu : Text yang ditampilkan -- text yang muncul pada kolom atau control. Address/alamat -- path yang menghubungkan ke
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 92
+
+Lookup Wizard
+
+file le (UNC path) atau page (URL). Subaddress -- lokasi yang berada dalam file atau page. Membuat kolom/field yang memungkinkan Anda untuk memilih nilai dari tabel lain atau dari daftar nilai dengan menggunakan list box atau combo box
+
+6.3 Mengenal Tabel, Record dan Field
+Tabel adalah suatu obyek yang paling penting dari suatu database, yang merupakan sekumpulan data yang memiliki topik tertentu, misalnya sebuah tabel yang berisi data mahasiswa. Di dalam tabel terdapat record dan field yang merupakan bagian dari tabel. Kegunaan dari tabel adalah sebagai tempat untuk meletakkan, menyimpan, mengedit atau mengubah data.
+Record merupakan baris yang terdapat dalam tabel. Pada baris tersebut, data-data dari tabel diisikan. Contohnya pada tabel Mahasiswa, terdapat field data nama mahasiswa dan alamat. Record adalah baris data yang berisi nama dan alamat.
+Field adalah kolom dalam tabel. Dengan contoh yang sama seperti di atas, yang dimaksud field adalah kolom nama atau alamat. Bisa dikatakan field adalah bagian dari record. Pada satu record terdapat bermacam-macam field, dan satu field mewakili satu bagian dari data pada tabel.
+
+6.4 Membuat Tabel
+Access 2007 telah menyediakan fasilitas untuk membuat tabel. Ada empat cara yang bisa digunakan yaitu Table temporary, Table Template, SharePoint List, Table Design.
+
+Comlab FASILKOM UNSRI 2012
+
+Gambar 6.10 Pilihan untuk membuat tabel
+6.4.1 Membuat Tabel dengan Tabel temporary Membuat table dengan table dengan cara ini hamper sama dengan membuat
+table dengan cara creating table by entring data jika dari Access 2003. Karena Anda akan diberikan table kosong yang siap untuk diisi dan diganti nama fieldnya.
+
+93 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 6.11 Pembuatan Tabel dengan tabel temporary Jika telah selesai mengisi dan mengganti nama field, maka table siap untuk disimpan dengan cara tutup tablenya dan kemudian akan tampil dialog box untuk pengisian nama table sebelum disimpan.
+Gambar 6. 12 Pengisisan nama tabel Setelah menekan tombom OK, nama table akan tampil pada Navigation Task Pane.
+Gambar 6.13 Nama Tabel yang telah dibuat 6.4.2 Membuat Tabel dengan Tabel Template
+Cara ini digunakan jika Anda ingin membuat table mirip dengan yang telah disediakan oleh Access. Ada beberapa pilihan template yang bisa digunakan, yaitu : Contacts, Tasks, Issues, Events, Asstes.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 94
+Gambar 6.14 Pilihan template yang bisa digunakan Setelah memilih salah satu dari table template tersebut, Access akan menampilkan table dengan field-field yang berhubungan kategori yang dipilih.
+Gambar 6.15 Pilihan template Contacts
+6.4.3 Membuat Tabel dengan Sharing Point List Jika komputer kita terhubung dengan server SharePoint, maka kita dapat
+menggunaka pilihan ini. Ada beberapa pilihan yang bisa dipilih jika ingin membuta table dengan cara ini, yaitu:
+Gambar 6.16 Pilihan table yang dapat dibuat jika terhubung dengan server Sharepoint
+6.4.4 Membuat Tabel dengan Tabel Design Dengan Design View, Anda dapat membuat tabel dengan properti yang sudah
+tersedia. Dalam pembuatan table dengan Design View, Anda membuat table berikut propertinya, seperti field dan data, dengan menggunakan desain yang telah disediakan oleh Access 2007. Langkah ­ langkahnya: a. Dari Tab Create, pilih Design Tables. b. Pada kolom Field name isikan nama field yang akan dibuat, sebagai catatan nama
+field tidak boleh mengandung spasi, dan sebaiknya nama dari field bukan merupakan kata kunci atau tipe data misalkan : number atau select. c. Pada kolom Data Type Anda bisa menentukan tipe data dari field yang Anda buat,
+
+Comlab FASILKOM UNSRI 2012
+
+95 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i dan pada Field Size tentukan panjang dari field.
+Gambar 6. 17 Pembuatan tabel dengan design views d. Definisikan field yang berposisi sebagai kunci primer (primary key) sebelum
+menyimpan tabel, caranya:  Pilih field yang hendak didefinisikan sebagai primary key. Untuk memilih satu
+field, klik pada barisnya.  Untuk memilih lebih dari satu field, tekan tombol CTRL kemudian klik barisnya.  Klik tanda primary key. e. Setelah selesai tutup kotak dialog diatas dan isikan nama tabel Anda.
+Gambar 6.18 Pemberian tanda Primary key
+6.5 Contextual Tab Datasheet
+Contextual ini akan tampil jika Anda dalam keadaan design view atau aktif pada table. Pada Tab ini terdapat group command yang dapat dipergunakan untuk memilih tampilan table yang kita inginkan (Group View), penambahan atau penghapusan field atau Columns (Group Fields & Column), pemilihan tipe data (Data type & Formating) dan pembuatan relasi (Relationships).
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 96
+Gambar 6.19 Contextual Tab Datasheet
+6.6 Mengisi Tabel
+Setelah Anda selesai membuat tabel sekarang anda bisa mengisi tabel tersebut dengan data-data yang diperlukan. Langkahnya : 1. Klik ganda pada tabel yang akan Anda isi, lalu akan muncul window seperti berikut:
+Gambar 6.20 Pengisian data ditabel 2. Isikan data-data yang akan Anda simpan dalam database pada tiap field yang ada,
+setelah selesai tutup jendela diatas.
+6.7 Menghapus Kolom
+Suatu saat Anda akan merasa bahwa ada kolom yang salah sehingga tidak diperlukan dan Anda harus menghilangkannya dari tabel Anda, Langkah-langkahnya : a. Buka tabel yang akan Anda hapus datanya. b. Letakkan kursor pada kolom yang akan dihapus c. Lalu klik Delete pada Group Field & Column. d. Tekan OK pada Message Box yang tampil
+Gambar 6.21 Menghapus kolom
+6.8 Menghapus Record
+Hampir sama dengan cara penghapusan kolom. Hanya saja sekarang yang dipus adalah
+
+Comlab FASILKOM UNSRI 2012
+
+97 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Record atau Baris. Langkah-langkahnya adalah sebagai berikut: a. Buka tabel yang akan Anda hapus datanya. b. Pilihlah Record yang akan dihapus c. Lalu klik Delete pada Group Records pada Tab Home. d. Pilih Delete Record e. Tekan OK pada Message Box yang tampil
+Gambar 6.22 Menghapus Baris
+6.9 Relasi Tabel
+Sebelum membuat relasi antar Table, ada baiknya jika Anda mengetahui hal-hal dasar yang terdapat dalam database.
+6.9.1 Constraint Constraint merupakan batasan terhadap field yang kita buat. Constraint utama yang
+harus kita ketahui adalah : a. Primary Key Primary Key pada suatu tabel adalah satu atau lebih kolom / field yang isinya memberikan nilai unik terhadap setiap baris didalam tabel. Setiap tabel harus memiliki satu Primary Key.Apabila tidak ada kolom tertentu atau gabungan beberapa kolom yang dapat memberikan nilai yang unik, maka gabungan seluruh kolom pada relasi yang bersangkutan merupakan Primary Key. b. Foreign Key Satu field / satu set field yang dipergunakan untuk menunjukan hubungan (relationship) antara satu tabel dengan tabel lainnya c. Not NULL Field yang mempunyai constraint not null harus terisi pada saat anda menambahkan data pada suatu tabel.
+6.9.2 Macam ­ macam Relasi tabel /Reltionship Hubungan yang terjadi antara kolom kunci pada dua tabel yang berbeda. Hubungan
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 98
+
+antar tabel tersebut bisa berupa one-to-one, one-to-many dan many-to-many. a. One-to-one
+
+1 A
+
+1 B
+
+Pada relasi one-to-one, setiap record pada tabel A hanya bisadihubungkan pada satu record pada tabel B, dan setiap record pada tabel B hanya bisa dihubungkan satu record pada tabel A. Relasi jenis ini tidak umum digunakan, karena hampir semua informasi yang berhubungan dengan cara seperti ini seharusnya ada pada satu tabel.
+Anda bisa menggunakan relasi one-to-one ini untuk membagi satu tabel menjadi banyak field/kolom, untuk membatasi agian dari tabel untuk alasan keamanan. Atau untuk menyimpan informasi yang berhubungan hanya untuk subset dari tabel utama.
+Contoh penggunaan dari relasi One-to-One adalah Tabel Mobil(A) dengan Tabel STNK (B). Maksud dari relasi Mobil ­ STNK ini adalah satu Mobil hanya memiliki satu STNK.
+
+b. One-to-Many
+1 A
+
+M B
+
+Relasi one-to-many adalah hubungan yang paling umum digunakan. Pada relasi one-to-many, satu record pada Tabel A bisa dihubungkan pada banyak record di tabel B, tapi hanya satu record pada tabel B yang bisa dihubungkan pada record di Tabel A.
+Contoh penggunaan dari relasi One-to-Many ini adalah relasi antara Tabel Kelas (A) dengan Tabel Murid (B). Maksud dari relasi Kelas ­ Murid adalah satu Kelas dapat diisi oleh banyak Murid, tapi satu murid tidak dapat berada dalam banyak kelas.
+
+c. Many-to-Many
+M A
+
+M B
+
+Comlab FASILKOM UNSRI 2012
+
+99 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Pada relasi Many-to-Many, satu record pada Tabel A bisa dihubungkan pada banyak record pada tabel B, dan begitu juga sebaliknya. Relasi seperti ini hanya mungkin terjadi dengan mendefinisikan tabel ketiga ( biasa disebut sebagai tabel penghubung/ junction table) yang Primary Key nya terdiri dari dua field ­ Foreign Key dari kedua tabel A dan tabel B. Relasi Many-to-Many adalah relasi Oneto-Many yang sesungguhnya dengan tambahan tabel ketiga.
+Contoh penggunaan dari Relasi Many-to-Many ini adalah relasi dari Tabel Murid dengan Tabel MataPelajaran. Maksud dari relasi Murid ­ MataPelajaran ini adalah satu orang Murid dapat belajar banyak MataPelajaran demikian juga sebaliknya, satu MataPelajaran dapat dipelajari oleh banyak Murid. Relasi ini menampilkan tabel ketiga yang menampung NoInduk dan KdMatPel.
+6.9.3 Membuat Relasi Tabel Relasi antar tabel di Microsoft Access dapat dibangun melalui dua cara, yaitu
+dari perintah SQL dan dari design view Relationship. Untuk materi kali ini yang akan dibahas adalah cara yang kedua. Dari tab Database Tools, masuk ke group Show/Hide pilih command Relationship. Akan muncul jendela yang menampilkan table apa saja yang akan digunakan dalam membuat relasi.
+Gambar 6.23 Command Relationship Yang harus diperhatikan pada saat membuat relasi adalah constraint Primary Key dapa setiap Tabel. Minimal ada satu Primary Key pada setiap table yang akan dibuat relasinya.
+Gambar 6.24 Tab Design Relationship Langkah-langkah yang dilakukan untuk membuat Relationship adalah sebagai berikut: a. Pilih command Show Table pada group Relationship.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 100 b. Pilih table-tabel yang digunakan untuk relasi dan tekan Add kemudian tekan Close
+untuk menutup jendela.
+Gambar 6.25 Show Table Dialog c. Table yang dipilih akan tampil di jendela relasi. d. Untuk menghubungkan Primary Key antar Table lakukan drag & drop atau dari
+command Edit Relationship.
+Gambar 6.26 Jendela Edit Relationship  Combo box yang diatas adalah nama table yang saling berhubungan.  Combo box yang dibawah adalah nama field masing-masing table yang
+menjadi Primary Key.  Opsi Enforce Referential Integrity dicentang untuk memastikan bahwa relasi
+yang terjadi adalah benar  Relationship Type digunakan untuk menampilkan jenis relasi yang terjadi. e. Tekan tombol OK jika ingin menutup jendela ini. f. Relasi yang terjadi akan tampil pada jendela relasi.
+
+Comlab FASILKOM UNSRI 2012
+
+101 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 6.27 Relasi yang terjadi
+LATIHAN
+Perhatikan Gambar berikut ini :
+
+Comlab FASILKOM UNSRI 2012
+
+1. Buatlah sebuah database dengan nama Penjualan.mdb.
+
+2. Buatlah empat tabel yang ada pada Relationships diatas dengan ketentuan :
+
+Barang
+
+Field Name KdBarang NmBarang Satuan Stock HgJual
+
+Data Type Text Text Text Number Curency
+
+Length 5 30 15
+
+Contraint PK NN NN NN NN
+
+Pelanggan
+Field Name KdPelanggan NmPelanggan Alamat Kota Telepon
+
+Data Type Text Text Text Text Text
+
+Length 5 30 40 20 12
+
+Contraint PK NN NN NN NN
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 102
+
+Penjualan
+Field Name NoFaktur TglFaktur KdPelanggan
+
+Data Type Text Date Text
+
+Length 5
+5
+
+Contraint PK NN FK
+
+Detail Jual
+Field Name NoFaktur KdBarang JmJual
+
+Data Type Text Text Number
+
+Length 5 5
+
+Contraint PK PK NN
+
+3. Hubungkan semua tabel tersebut sehingga relasi yang terjadi terlihat seperti pada gambar contoh.
+4. Isikan beberapa data(minimal 5 data) pada tabel anda. 5. Cobalah untuk berpindah-pindah record dengan menggunakan Navigation bar. 6. Lakukan pengubahan data pada salah satu data di tabel Anda. 7. Hapuslah salah satu record pada tabel Anda.
+
+Comlab FASILKOM UNSRI 2012
+
+103 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+7. Integrasi Microsoft Word 2007, Excel 2007 dan Access 2007
+7.1 Bekerja dengan Word 2007 dan Excel 2007
+Setelah Anda membuat dokumen Word 2007 dan bekerja dengan angka-angka dengan Excel 2007, kini Anda bisa menggabungkan kedua hasil kerja Anda menjadi satu dokumen. Anda bisa memasukkan Worksheet Excel 2007 pada dokumen Word Anda. Langkah-langkahnya adalah sebagai berikut: a. Buatlah satu dokumen baru pada Word 2007 b. Pada Tab Insert Group Text  Object  Object
+Gambar 7.1 Insert Object c. Akan tampil jendela untuk memilih object yang akan dihubungkan dengan Microsoft
+Word. Pilih Microsoft Office Excel 97-2003 Worksheet. d. Pada dokumen akan tampil sheet excel.
+Gambar 7.2 Insert Microsoft Excel Object
+Gambar 7.3 Microsoft Excel Object e. Pada lembar kerja, Anda bisa mengolah angka sama seperti Anda mengolahnya pada
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 104
+Excel. Klik kanan pada lembar kerja Excel tersebut dan pilih Worksheet Object, lalu klik Open. f. Anda akan masuk ke dalam aplikasi Excel 2007 dengan satu sheet yang akan Anda edit untuk ditampilkan pada dokumen Word Anda. g. Setelah selesai dengan lembar kerja Excel Anda, tutuplah jendela Excel tersebut dan Anda akan kembali ke dokumen Word Anda dengan disertai sheet yang telah Anda buat.
+7.2 Menghubungkan File Antar Program
+Dengan menggunakan metodelink, Anda dapat menghubungkan dokumen Microsoft Word dengan obyek lain, misalnya dengan worksheet Microsoft Excel. Jika Anda melakukan perubahan terhadap worksheet tersebut, maka objek worksheet yang ada di dokumen Microsoft Word akan ikut menyesuaikan.
+Untuk membuat hubungan (link) antardata dapat dilakukan dengan mudah dengan menggunakan metode Copy ­ Paste Special. Sebelum melakukan link, Anda harus sudah menyimpan file sumber di media penyimpanan lain.
+Untuk membuat hubungan antara dokumen Word dengan program aplikasi lain, Anda harus menjalankan program aplikasi tersebut bersama dengan program Microsoft Word.
+Sebagai contoh, Anda akan menempelkan objek worksheet Microsoft Excel ke dokumen Microsof Word dan melakukan proses Link. Langkah yang harus Anda jalankan adalah:
+a. Saat aplikasi Microsoft Word masih terbuka, jalankan aplikasi Microsoft Excel dan ketik data pada worksheet Microsoft Excel.Pastikan bahwa data pada worksheet Microsoft Excel sudah Anda simpan ke media penyimpanan lain.
+b. Pilih range sel pada worksheet yang akan Anda salin dan Andahubungkan dengan dokumen dalam Microsoft Word.
+c. Klik tombol Copy pada group Clipboard yang berada pada Tab home, lalu Copy untuk menyalin data yang terpilih.
+d. Pindah ke dokumen Microsoft word, letakkan insertion point pada posisi di mana objek akan ditempelkan.
+
+Comlab FASILKOM UNSRI 2012
+
+105 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 7.4 Command Paste Special e. Pilih tanda panah dan pilih Paste Special untuk menempelkan objek hasil salinan
+sehingga akan terbuka kotak dialog Paste Special seperti yang tampak pada gambar berikut:
+Gambar 7-5 Jendela Paste Special f. Aktifkan tombol pilihan Paste Link, agar objek hasil salinan (yang terletak dalam
+Microsoft Word) mempunyai hubungan dengan file sumber data (yang terletak dalam Microsoft Excel). h. Pada kotak pilihan As, pilih format yang Anda inginkan. Sebagai contoh, pilih Microsoft office Excel Worksheet Object. i. Klik OK.
+7.3 Mengatur Hubungan Data Antar Program
+Proses link (hubungan antar data dalam program) akan berlaku secara terus-menerus dan setiap kali Anda melakukan perubahan pada file sumber maka objek hasil salinan yang terletak dalam Microsoft Word akan ikut berubah.
+Anda dapat mengatur agar setiap perubahan yang terjadi pada file sumber juga berlaku pada objek hasil salinan, baik secara otomatis maupun manual. Untuk mengatur perubahan tersebut, Anda dapat melakukan klik kanan pada object lalu pilih Linked Worksheet Object  Link, sehingga akan tampil kotak dialog Links, yang menampilkan informasi lengkap tentang objek yang memiliki hubungan atau link dengan aplikasi lain.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 106
+Gambar 7-6 Perintah untuk mengatur link Jika Anda menghendaki setiap perubahan yang terjadi pada file sumber langsung berpengaruh pada objek, aktifkan tombol pilihan Automatic Update. Tetapi jika Anda tidak menghendaki perubahan yang terjadi pada file sumber langsung berpengaruh pada objek, maka aktifkan tombol pilihan Manual Update. Aktifkan kotak periksa Locked untuk mengunci proses link. Pilihan ini untuk mencegah agar objek hasil salinan tidak mengikuti perubahan yang terjadi pada file sumber. Tekan tombol Break Link untuk memutuskan link antara objek hasil salinan dengan file sumber. Jika Anda telah memutuskan proses Link, Anda tidak lagi dapat menghubungkan objek dengan file sumber.
+Gambar 7.7 Jendela Update Link
+7.4 Export dan Import Data dalam Microsoft Access 2007
+Selain dapat membuat tabel dengan design view ataupun Wizard, tabel pada Access juga dapat dibuat dengan memperoleh data dari tabel lain yang berada pada Excel. Data yang terdapat pada tabel Access juga dapat di Export ke tabel Excel.
+7.4.1 Membuat Tabel dengan Mengimpor dari Tabel Excel Access 2007 juga menyediakan fasilitas untuk membuat tabel dengan cara
+mengimpor tabel dari file lain, misalnya tabel dari database lain, tabel Excel ataupun
+
+Comlab FASILKOM UNSRI 2012
+
+107 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i file teks. Langkah-langkahnya:
+Gambar 7-8 Tab External Data untuk Import & Export a. Pada Tab External Data  Group Import  Excel b. Lalu akan muncul kotak dialog Import. Pada kotak dialog Import tersebut,
+tentukan tipe dokumen yang akan diimpor pada kotak File of Type, pilih kemudian pilih nama filenya, setelah selesai lalu klik Import.
+Gambar 7-10 Jendela Get External Data
+Gambar 7-9 Import sheet Excel menjadi tabel Access c. Sebagai contoh, jika memilih tipe file Microsoft Excel 2007, maka kemudian akan
+ditampilkan kotak dialog Import Spreadsheet. d. Pada pilihan show Worksheets pilih worksheet atau Range yang akan Anda pakai,
+lalu klik next.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 108
+e. Anda akan diberi pilihan apakah baris pertama dari table Excel Anda akan dijadikan nama field atau tidak. Bila Anda menghendaki baris pertama dari tabel dijadikan nama field maka beri tanda cek pada First Row Containts Column Heading. Lalu klik Next.
+
+Gambar 7-11 Tampilan isi worksheet
+
+Gambar 7-12 Tampilan Penentuan Heading dari Import tabel Excel
+
+f. Pilihlah In a New Table untuk membuat tabel baru, atau
+
+In
+
+an
+
+Existing Table untuk menambahkan record pada tabel yang sudah ada. Setelah itu
+
+klik Next.
+
+g. Pada Field Name, Anda bisa merubah nama field yang akan Anda gunakan pada
+
+table Anda. Apabila Anda merasa ada field yang tidak perlu disertakan maka
+
+beri tanda cek pada pilihan Do Not Import Field (skip).
+
+h. Selanjutnya Anda akan diminta untuk menentukan Primary Key. Pilih nama field
+
+yang akan bertindak menjadi Primary Key.
+
+i. Setelah itu klik Finish.
+
+Comlab FASILKOM UNSRI 2012
+
+109 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 7-14 Penentuan Nama Field
+Gambar 7-13 Penentuan Primary Key 7.4.2 Export data ari tabel Access
+Data yang berada dari tabel Access dapat disimpan dalam bentuk lain, baik itu ke tabel Word ataupun tabel Excel. Terdapat beberapa cara untuk melakukannya, yaitu :
+a. Melalui Menu File  Export Langkah-langkah yang dilakukan untuk melakukan export data yang tabel
+berada pada tabel Access adalah sebagai berikut :  Pilihlah nama tabel yang akan diexport  Pada Tab External Data  Export  Akan tampil jendela dialog untuk menyimpan file hasil export.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 110
+Gambar 7-15 Dialog box Export Table
+ Terdapat beberapa pilihan tipe file yang dapat menyimpan file export, diantaranya yaitu *.dbf,*.xls, *.htm, *.rtf, *.txt jika memilih command More...
+ Tuliskan nama file dan pilihlah jenis file baru.  Tekan OK  File baru akan terbentuk kemudian.
+LATIHAN
+1. Bukalah database Modul6.mdb yang telah Anda kerjakan pada pertemuan 6 yang lalu.
+2. Bukalah file latihan Excel yang telah dikerjakan pada pertemuan 4. 3. Pilihlah cell A3:E14. Buatlah nama range untuk range yang telah dipilih dengan
+nama Data_Range. 4. Lakukan import table dari file excel ke Access. 5. Ikutilah langkah-langkah Import Wizard yang ditampilkan. 6. Gunakan Field No sebagai Primary key. 7. Pilihlah table hasil Import. 8. Lakukan Export/link untuk ditampilkan pada Microsoft Word. 9. Tambahkan Judul pada tabel hasil Export. 10. Simpanlah dengan nama LatihanModul7.doc
+
+Comlab FASILKOM UNSRI 2012
+
+111 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+8. Toc & Mail Merge
+8.1 Style
+Style adalah kumpulan dari beberapa perintah format yang dapat Anda gunakan setiap saat. Keuntungan dari pembuatan style ini adalah untuk memudahkan Anda dalam memformat teks/paragraf dengan menggunakan format yang sama sehingga Anda tidak perlu terlalu sering menjalankan perintah-perintah format untuk setiap bagian teks /paragraf yang akan diberi format sama.
+Ketika Anda memformat teks, Microsoft Office Word secara otomatis akan memasang style sesuai dengan format yang Anda pasang.
+Apabila Style tersebut digunakan, semua format yang tersimpan akan dikenakan pada text atau paragraph yang dipilih.
+Ada beberapa macam style yang bisa dibuat dan digunakan dalam buku Anda, yaitu Paragraph, Character, Table, Linked(paragraph and character) dan List. a. Paragraph Style adalah syle yang digunakan pada suatu paragraph dalam suatu dokumen. b. Character Style adalah style yang digunakan pada kata atau karakter tertentu dalam
+suatu paragraph c. Table Style adalah style yang digunakan pada table. d. Linked (paragraph and character) adalah macam style yang baru ada pada Word 2007
+ini. e. List Style adalah style yang digunakan pada suatu daftar dengan penomoran.
+
+8.1.1 Task pane style
+
+Task pane style menampilkan
+
+style yang telah disediakan oleh Microsoft
+
+Word 2007, pilihan untuk menampilkan tampilan style yang sudah diformat,
+
+pilihan untuk menonaktifkan Linked style, pilihan untuk membuat style baru, style
+
+inspector, manage style dan option penggunaan style.
+
+Untuk menampilkan task pane style Anda hanya tinggal menekan dialog box launcher
+
+yang ada dibagian kanan bawah group style .
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 112
+Gambar 8.1 Taskpane Style
+Gambar 8.2 Tombol New Style, Style inspector dan Manage Style Fungsi dari masing-masing fungsi yang terdapat pada task pane style tersebut adalah sebagai berikut: 1. Styles menampilkan macama-macam nama style yang terdapat pada dokumen tersebut, baik yang membuat sendiri atau yang telah disediakan oleh Microsoft Word 2007. 2. Show preview menampilkan tampilan sesungguhnya dari format-format yang dikenakan pada style-style tersebut 3. Disable Linked Style digunakan untuk menonaktifkan linked style 4. New Style digunakan untuk membuat style baru 5. Style inspector digunakan untuk mengetahui apakah teks atau karakter menggunakan format manual atau menggunakan style 6. Manage style digunakan untuk memformat ulang style-style yang sudah ada. 7. Link Option digunakan untuk menampilkan style-style apa saja yang akan ditampilkan pada style list.
+
+Comlab FASILKOM UNSRI 2012
+
+113 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 8.3 Dialog box Style pane Option
+8.1.2 Menggunakan Style Microsoft Word 2007 telah menyediakan beberapa style yang bisa langsung Anda
+gunakan. Style-style yang telah disediakan oleh Microsoft Word 2007 dapat langsung Anda gunakan pada paragraph, karakter, table atau daftar yang Anda miliki. Nama-nama style tersebut diantaranya adalah Heading 1, Heading 2, Heading 3, Heading 4, Heading 5, Tittle, Subtittle, dan lain-lainnya.
+Langkah-langkah yang harus Anda lakukan adalah sebagai berikut: 1. Arahkan titik sisip pada kata, paragraph, daftar atau table yang Anda miliki 2. Pada Tab Home group Styles telah tersedia macam-macam style yang tersedia. 3. Pilih salah satu style yang Anda inginkan. Maka kata, paragraph, daftar atau table
+yang Anda miliki telah menggunakan style yang Anda pilih.
+Gambar 8.4 Group Style Untuk mengetahui style apa yang dipergunakan kata, paragraph, daftar atau table yang Anda miliki adalah dengan melihat nama style yang Aktif. Tanda bahwa style tersebut aktif atau tidak adalah terdapat tanda kuning keemasan pada box nama style pada group style, seperti yang terlihat pada gambar 2-3. Atau jika takspanestyle Anda aktif, maka style yang aktif ditunjukkan dengan tanda warna biru pada nama style yang aktif.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 114
+Gambar 8.5 TaskPane Style dengan style aktif Atau dengan melihatnya dari Style inspector. Dari Style inspector dapat diketahui apakah suatu paragraph atau karakter diformat dengan menggunakan style atau secara manual. Perbedaan antara teks dengan menggunakan style dan yang tidak menggunakan style.
+Gambar 8-6 Style inspector teks dengan format manual
+Gambar 8-7 Style inspector teks menggunakan style heading 1 8.1.3 Memodifikasi Style
+Jika dari style-style yang telah disediakan menurut Anda kurang sesuai denganformat yang Anda inginkan, Anda bisa memodifikasinya.
+Anda bisa melakukan langkah-langkah berikut untuk memodifikasinya:
+
+Comlab FASILKOM UNSRI 2012
+
+115 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 1. Arahkan pointer pada group style 2. Pilihlah nama style yang akan dimodifikasi 3. Lakukan klik kanan pada nama style 4. Pilihlah Modify...
+Gambar 8-8 Modify style Setelah memilih Modify..., selanjutnya akan tampil dialog box Modify Style yang berisi format-format yang mungkin akan diubah. Pilih tombol Format yang berada di bagian kiri bawah dari dialog box. Pada tombol tersebut terdapat beberapa pilihan, yaitu Font, Paragraph, Tabs, Border, Language, Frame, Numbering dan Shortcut key.
+Gambar 8-9 Dialog Box Modify Style
+Gambar 8-10 Format-format yang bisa diubah Anda bisa mengubah format yang Anda inginkan. Misalnya mengganti jenis font, mengubah ukuran font, mengubah identasi, mengatur ulang tabulasi dan format
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 116
+lainnya.
+8.1.4. Membuat Style Selain Anda bisa menggunakan style yang telah disediakan oleh Microsoft Word
+2007, Anda juga bisa membuat sendiri style yang Anda inginkan. Cara pembuatannya juga tidak terlalu sulit.
+Langkah-langkah pembuatan style adalah sebagai berikut: 1. Pilihlah tombol New Style dari task panestyle. Akan tampil dialog box untuk
+menentukan nama style, jenis style, jenis huruf yangdigunakan, dan formatformat lainnya. 2. Tuliskan nama style baru Anda pada kotak Name 3. Pada combo box Style Type, pilihlah tipe style yang Anda buat. Apakah paragraph, character, list atau table style. 4. Kemudian pilihlah berdasarkan style apakah style baru yang akan buat pada combo box Style based on. Style baru yang Anda buat akan mempunyai format yang hampir sama dengan style yang Anda pilih. 5. Style for following paragraph adalah pilihan style dimana baris- baris berikut dalam paragraph akan mengenakan style yang sama atau tidak dengan baris yang sebelumnya.
+Gambar 8-11 Dialog box untuk membuat style baru 6. Pada bagian Formatting, Anda bisa memilih format apa saja apayang akan Anda
+kenakan pada style baru tersebut. Pada bagian ini Anda bisa menentukan jenis huruf yang digunakan, ukuran, format tebal, miring atau bergaris bawah, warna huruf, allignment, jarak antar baris, dan indentasi.
+
+Comlab FASILKOM UNSRI 2012
+
+117 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i Format style yang Anda pilih akan tampil pada preview box. Dibawah preview
+box akan tertulis format apa saja yang Anda kenakan pada style tersebut. 1. Jika Anda ingin menambahkan format lainnya, Anda dapat menekan tombol Format
+yang berada di sebelah kanan bawah dialog box New Style. 2. Jika Anda menginginkan style baru Anda tampil di Quick style list maka Anda dapat
+mencentang Add to Quick Style list. 3. Jika semua format style baru sudah Anda tambahkan, maka Anda dapat menekan
+tombol OK. 4. Style baru Anda sudah siap untuk digunakan pada dokumen.
+Gambar 8-12 Daftar style baru 8.1.5 Mengubah Nama Style
+Jika Anda merasa nama style yang Anda gunakan itu kurang cocok setelah Anda membuatnya, Anda bisa mengubahnya. Cara mengubahnya adalah sebagai berikut : 1. Pada Quick style gallery, Anda pilih nama style yang akan diganti 2. Lakukan klik kanan pada nama style tersebut 3. Pilih Rename pada pop up menu.
+Gambar 8-13 Mengubah nama style 4. Isikan nama baru pada input box yang tampil.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 118
+Gambar 8-14 Isikan nama baru 5. Nama style telah berubah dengan nama yang baru.
+8.1.6 Menghapus Style Jika style yang pernah Anda buat tidak pernah digunakan dalam dokumen, maka Anda bisa menghapusnya.
+Untuk menghapusnya Anda tidak perlu bersusah payah. Anda cukup mengikuti langkah-langkah berikut: 1. Pilih nama style yang akan dihapus pada task pane style,
+Gambar 8-15 Menghapus style 9. Pilih dari tanda panah yang muncul disebelah nama style 10. Pilihlah Delete namastyle.... Style Anda sudah terhapus dari daftar.
+8.2 Membuat Daftar Isi
+Cara termudah untuk membuat daftar isi adalah dengan menggunakan fasilitas outline bertingkat atau dengan menggunakan fasilitas heading style (Microsoft word memiliki 9 style yang berbeda dengan nama Heading 1 sampai heading 9). Apabila Anda sudah menggunakan outline bertingkat atau heading style, maka ikuti langkah-langkah berikut ini: a. Letakkan insertion point pada posisi di mana Anda akan menyiapkan daftar isi. Tab
+Reference  Group Table of Content  Table of Contents.
+
+Comlab FASILKOM UNSRI 2012
+
+119 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i Gambar 8-16 Group Table of Content
+b. Klik salah satu desain daftar isi yang telah disediakan Microsoft Word pada kotak Formats, dan tentukan jumlah level outline/style yang akan Anda gunakan pada kotak teks Show levels.
+Gambar 8-17 Dialog Box Table Of Content c. Aktifkan kotak cek Show page numbers untuk menampilkan nomor halaman pada
+tabel daftar isi. d. Aktifkan kotak cek Right align page numbers untuk mengatur agar tampilan nomor
+halaman rata pada bagian kanan. e. Pilih salah satu bentuk garis penghubung antara teks daftar isi dengan nomor halaman
+pada kotak daftar Tab Leader. f. Klik tombol Option untuk mengatur nomor level untuk outline/style yang akan
+dijadikan teks sumber pembentuk daftar isi.
+Gambar 8-18 Dialog Box TOC Option g. Klik OK untuk kembali ke kotak dialog Index and Tables. Klik OK sekali lagi untuk
+melihat hasil pembentukan daftar isi. Apabila terjadi perubahan pada dokumen, dapat dilakukan update terhadap daftar isi tersebut. Caranya adalah sebagai berikut :
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 120
+ Click kanan sembarang tempat di daftar isi  Pilih Update Field  Pada dialog box Update Table of Contents click update entire table.
+Gambar 8-19 Update Table of Content
+8.3 Mail Merge
+Salah satu tugas yang sering dilakukan dalam dunia kerja adalah membuat lembaran surat dan mengirimkan surat tersebut ke beberapa orang yang berbeda. Sebagian besar orang mungkin tidak punya waktu untuk membuat surat yang dipersonalisasi untuk tiaporang yang berbeda, maka dari itu Microsoft Word 2007 menyediakan Mail Merge sebagai solusinya.
+Mail merge mengambil informasi dari satu dokumen (Data Source) dan menggabungkannya dengan dokumen lain (Main Document).
+Data Source adalah dokumen, spreadsheet, database, atau jenis lain yang berisi informasi (seperti nama, alamat dan nomor telpon) yang berubah dari satu dokumen ke dokumen yang lain.
+Main Document berisi teks yang tidak berubah, seperti juga Merge Fields, yang berfungsi sebagai penanda dimana Word harus meletakkan informasi dari data source. Main document terkadang juga dikenal sebagai Form Document. Sama seperti Form, main document berisi fields yang menunjukkan tempat dimana informasi seharusnya diletakkan. Sebagai contoh, ketika suatu surat digunakan sebagai main document maka hal tersebut disebut dengan Form Letter.
+Ketika melakukan merge pada data source dengan main document, Word menciptakan satu salinan dari main document untuk setiap set informasi yang terdapat pada data source, memasukkan informasi dari data source pada tempat yang terdapat merge fields.
+
+Comlab FASILKOM UNSRI 2012
+
+121 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 8-20 Main document dan Merge Filed Langkah-langkah yang harus Anda lakukan dalam pembuatan Mail Merge adalah : 1. Mempersiapkan main document. 2. Menghubungkan main document dengan data source. 3. Memilih daftar penerima atau items. Microsoft Office Word akan membuat salinan dari main document untuk setiap item atau record yang terdapat pada file data source.Jika file data yang Anda gunakan adalah mailing list, items ini mungkin berisi alamat email dari anggota mailing list. Jika Anda ingin membuat salinan hanya beberapa item saja, Anda dapat menyembunyikan item-item tertentu. 4. Meletakkan placeholders, yang disebut dengan mail merge fields, ke dalam document. Ketika Anda membuat mail merge, mail merge fields berisi informasi dari file data yang Anda gunakan. 5. Menampilkan dan menyelesaikan Mail Merge. Anda dapat menampilkan setiap salinan dari document sebelum Anda mencetaknya. 8.3.1. Menggunakan Tab Mailings
+Untuk memulai Mail Merge, arahkan mouse pointer ke Tab Mailings. Pada tab Mailings terdapat group perintah yang digunakan untuk melakukan Mail Merge.
+Gambar 8-21 Mailings Tab 8.3.1.1 Group Start Mail Merge
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 122
+Gambar 8.22 Group Start Mail Merge Pada group Start Mail Merge terdapat tiga perintah, yaitu Start Mail Merge, Select Recipients dan Edit Recipient List. Pada Start Mail Merge terdapat beberapa pilihan untuk Main document yaitu Letters, E-mail Messages, Envelopes, Labels, Directory atau dokumen word baru dan pilihan untuk menggunakan Mail Merge Wizard yang menampilkan task pane Mail Merge seperti pada versi Word sebelumnya.
+Gambar 8-23 Memilih Main Document
+Gambar 8-24 Menambahkan data source 8.3.1.2 Menambahkan data source
+Perintah kedua adalah Select Recipients yang mempunyai tiga pilihan untuk menggunakan data source, yaitu membuat baru, menggunakan data yang sudah ada atau mengambil data dari Outlook Contact.
+Anda dapat membuat daftar sederhana dari Office Address List pada saat pembuatan mail merge, dan menggunakannya kemudian. Hal ini bagus untuk daftar yang sedikit, sederhana yang tidak digunakan setiap saat.
+Jika Anda membuat daftar yang baru, pilih Type New List jika Anda menggunakan Tab Mailing atau Mail Merge Wizard. Selanjutnya Word akan menampilkan dialog Box New Addres List.
+
+Comlab FASILKOM UNSRI 2012
+
+123 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 8-25 Pilihan cara menggunakan Type New List
+Gambar 8-26 Dialog Box New Address List Apabila nama-nama field yang terdapat pada dialog box tidak sesuai dengan yang Anda inginkan, Anda dapat menggantinya dengan memilih tombol Customize Columns. Dialog Box Customize Address List akan muncul. Anda dapat menambahkan nama field (Add), menghapus (Delete) atau mengubah (Rename) nama field yang ada.
+Gambar 8-27 Dialog Box Customize Address List
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 124
+Gambar 8-28 Menambahkan nama field baru Jika Anda ingin menambahkan data setelah menekan tombol Add, word akan menampilkan dialog box Untuk menambahkan nama field. Setelah Anda menuliskan nama field baru, Word akan menampilkan nama field baru tersebut pada Dialog box New Address List. Jika Anda memutuskan untuk tidak menggunakan nama field yang sudah disediakan, Anda tinggal menekan tombol Delete setelah sebelumnya Anda memilih nama field yang ingin dihapus. Disini Anda harus menghapus nama field secara satu persatu, Anda tidak bisa memilih seluruh nama field sekaligus. Setelah Anda melakukan penghapusan nama field, selanjutnya Anda tekan tombol Add untuk menambahkan nama field yang baru satu persatu. Nama field yang baru akan tampil pada dialog box New Address List menggantikan nama field yang lama.
+Gambar 8-29 Menghapus nama field
+
+Comlab FASILKOM UNSRI 2012
+
+125 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 8-30Mengubah nama field Jika Anda hanya ingin mengubah nama field, maka tekan tombol Rename. Sebelumnya Anda harus memilih nama field yang akan diubah. Word akan menampilkan dialog box Untuk mengisikan nama field yang baru. Jika nama field sudah tidak menjadi masalah bagi Anda, isikan data-data yang Anda inginkan kedalam table yang tersedia. Tekan OK jika Anda selesai mengisinya, kemudian Word akan mengarahkan Anda Untuk menyimpan data source tersebut pada alamat yang Anda inginkan.
+Gambar 8-31 Menyimpan data source Selain membuat data source baru, Anda juga bisa menggunakan data yang ada seperti file Microsoft Excel atau Microsoft Access. JikaAnda telah menuliskan datadata pada file Excel ataupun pada Access, Anda bisa menggunakannya sebagai data source sehingga Anda tidak perlu lagi menuliskan data source. Dengan Excel, Anda dapat memilih data dari berbagai worksheet atau nama range yang terdapat dalam workbook. Dengan Access, Anda dapat memilih data dari tabel atau query data yang terdapat dalam database.
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 126 Pada pemilihan data source Anda dapat memilih Use an Existing List baik dari Tab Mailings atau dari Mail Merge Wizards Task Pane. Selanjutnya Anda menentukan dimana file Excel atau Access Anda tersimpan
+. Gambar 8-32 Rangkaian langkah data source dengan menggunakan Microsoft
+Access Perintah ketiga yang terdapat pada group ini adalah Edit Recipient yang digunakan untuk mengubah data dari penerima, mengurutkan, memfilter, mencari data kembar, mencari data dengan syarat tertentu atau mencocokan alamat.
+Gambar 8-33 Edit Recipients 8.3.1.3 Group Write & Insert Fields
+
+Comlab FASILKOM UNSRI 2012
+
+127 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+Gambar 8-34 Group Write & Insert Field Yang sering digunakan pada group ini adalah perintah Insert Merge Field. Insert Merge Field digunakan untuk menambahkan Merge Field ke dalam main document. Merge Field didapat dari nama field yang Anda buat pada data source.
+
+Gambar 8-35Menambahkan Merge Field pada Main document
+
+Gambar 8-36 Preview Results Group
+
+Jika data source sudah terhubung, letakkan merge field pada tempat-tempat yang telah ditentukan ditentukan dimana field akan berada dengan memilih dari Insert Merge Field. Selanjutnya, Anda bisa langsung mencetaknya setelah terlebih dahulu Anda preview hasilnya. Untuk melihat isi data Anda, pilihlah Preview Result. Anda bisa bergerak dari data pertama ke data berikutnya dengan menekan tanda panah yang berada disamping kiri dan kanan nomor record.
+
+LATIHAN
+
+1. Buatlah file worksheet baru.
+
+2. Buatlah tabel dengan data sebagai berikut. Simpan dengan nama Tabel Data.
+
+No 45612 85623 25161 26381
+
+Nama Aditya Budiman Cici Nikmah
+
+Alamat Surabaya Malang Jakarta Malang
+
+3. Buatlah dokumen baru dan ketikkan teks berikut. LAPORAN KEGIATAN KEMANUSIAAN UNTUK SEMUA MANUSIA
+Latar Belakang
+
+Comlab FASILKOM UNSRI 2012
+
+P r a k t i k u m P a k e t P r o g r a m A p l i k a s i 128
+Setiap berbicara mengenai kemanusiaan, kebanyakan orang menjadi tidak bersemangat. Hal ini disebabkan karena semakin jauhnya kemanusiaan itu dirasakan oleh mereka yang seharusnya mendapatkan rasa kemanusiaan itu sendiri.
+Untuk memperingati Hari Hak Asasi Manusia Internasional, makadiadakanlah kegiatan ini. Kemanusiaan untuk semua Manusia diambil sebagai tema karena rasa kemanusiaan itu seharusnya dirasakan oleh semua manusia dimana saja mereka berada.
+Tujuan Untuk mengembangkan rasa kemanusiaan yang sudah mulai hilang kepada semua
+generasi.
+Target Kegiatan Semua generasi, mulai yang anak-anak sampai orang dewasa.
+Waktu dan Tempat Kegiatan Kegiatan dilaksanakan selama 1 minggu. Mulai tanggal 1 Desember 2005 sampai
+dengan 7 Desember 2005. Dilaksanakan di beberapa desa tertinggal yang terpilih sesuai survei yang telah
+dilaksanakan sebelumnya.
+4. Aturlah Style untuk dokumen tersebut sebagai berikut. Judul : Heading 1 Sub Judul (Latar Belakang, Tujuan, Target Kegiatan, Waktu dan Tempat Pelaksanaan) : Heading 2
+5. Tambahkan dua halaman baru diawal dokumen. 6. Pada halaman pertama tuliskan
+Nomor : Nama : Alamat : 7. Lakukan perintah Mail Merge. Gunakan data source dari file Excel yang telah dibuat sebelumnya. 8. Pada halaman kedua tuliskan DAFTAR ISI 9. Buatlah daftar isi dengan menggunakan TOC pada halaman kedua. 10. Sehingga tampilan file menjadi sebagai berikut:
+
+Comlab FASILKOM UNSRI 2012
+
+129 P r a k t i k u m P a k e t P r o g r a m A p l i k a s i
+
+Comlab FASILKOM UNSRI 2012

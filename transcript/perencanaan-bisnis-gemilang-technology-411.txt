@@ -1,0 +1,1792 @@
+BAB I RINGKASAN EKSEKUTIF
+1.1 Pendahuluan Era globalisasi menyebabkan pesatnya perkembangan seluruh sektor penunjang
+kehidupan. Era globalisasi ini pun dijadikan sarana oleh seluruh negara di dunia untuk saling berlomba menjadi yang terdepan. Persaingan bisnis di Indonesia semakin meningkat karena para pengusaha ikut berlomba-lomba ingin menguasai pasar dengan baik dan adanya investasi dari negara lainnya. Secara tidak langsung, pendapatan karyawan di Indonesia pun meningkat. Dengan begitu, kebutuhan masyarakat Indonesia pun mengalami peningkatan seperti sandang, pangan, dan segala kebutuhan lainnya. Permintaan masyarakat terhadap kendaraan bermotor pun juga berbanding lurus dengan peningkatan tersebut. Hal ini mengakibatkan konsumsi bahan bakar kendaraan yang tinggi sehingga menyebabkan kelangkaan.
+Kelangkaan bahan bakar merupakan masalah yang sering terjadi dan umum di Indonesia, sedangkan bahan bakar minyak adalah hal yang sangat dibutuhkan oleh kendaraan. Tidak adanya bahan bakar minyak menyebabkan kendaraan tidak dapat beroperasional. Hal ini mendorong banyaknya kasus pencurian bahan bakar minyak di Indonesia dan mempengaruhi biaya operasional perusahaan yang memiliki banyak transportasi.
+1
+
+Oleh karena itu, untuk mencegah agar permasalahan ini tidak terjadi lagi, perusahaan Gemilang Technology akan membuat suatu alat yang dinamakan "Fuel Theft Monitoring System", yaitu suatu alat yang dapat mengetahui perubahan volume bahan bakar kendaraan secara signifikan melalui pemeriksaan oleh mikrokontroler setiap dua menit sekali terhadap volume tangki bahan bakar (akan ada log book database volume setiap dua menit). Apabila ada penurunan volume yang drastis maka mikrokontroler akan mengirimkan sinyal kepada GSM Shield untuk mengirimkan SMS lalu alat ini akan mengirimkan SMS kepada pemilik perusahaan pada saat itu juga dan memberikan informasi, waktu, tanggal, dan level penurunan bahan bakar yang terjadi pada saat itu.
+1.2 Deskripsi Perusahaan Gemilang Technology adalah perusahaan yang menawarkan produk teknologi
+yang berguna untuk mendeteksi apabila terjadi pencurian bahan bakar kendaraan khususnya transportasi perusahaan. Gemilang Technology memiliki luas bangunan 292 meter persegi. Bentuk bangunan perusahaan Gemilang Technology berupa ruko yang berlokasi di Samarinda, Kalimantan Timur. Gemilang Technology bergerak pada bidang teknologi dengan target pasar menengah ke atas. Gemilang Technology didirikan oleh Jennifer Novia Nursalim.
+Produk yang ditawarkan oleh Gemilang Technology adalah "Fuel Theft Monitoring System", yaitu suatu alat yang dapat mengetahui perubahan volume bahan bakar kendaraan secara signifikan melalui pemeriksaan oleh mikrokontroler
+2
+
+setiap dua menit sekali terhadap volume tangki bahan bakar (akan ada log book database volume setiap dua menit). Apabila ada penurunan volume yang drastis maka mikrokontroler akan mengirimkan sinyal kepada GSM Shield untuk mengirimkan SMS lalu alat ini akan mengirimkan SMS kepada pemilik perusahaan pada saat itu juga dan memberikan informasi, waktu, tanggal, dan level penurunan bahan bakar yang terjadi pada saat itu.
+1.3 Analisis Industri Gemilang Technology termasuk dalam kelompok industri mesin dan logam
+dasar (IMLD) yang merupakan kelompok dari industri dasar. Industri teknologi merupakan industri yang sedang berkembang dengan menciptakan sesuatu yang baru dari tahun ke tahun. Hal ini berarti Gemilang Technology akan membantu dalam peningkatan pertumbuhan ekonomi di Indonesia, membantu struktur industri dan menggunakan teknologi yang maju (mengikuti perkembangan teknologi) sehingga dapat mendorong terciptanya lapangan kerja secara besar.
+Gemilang Technology melakukan analisis bahwa jumlah kendaraan bermotor yang meningkat terus setiap tahunnya membuat pasokan bahan bakar minyak di seluruh Indonesia mengalami kelangkaan karena banyaknya permintaan terhadap bahan bakar minyak tetapi tidak dapat terpenuhi oleh jumlah produksi bahan bakar minyak yang diupayakan oleh pemerintah. Dengan adanya kondisi kelangkaan seperti ini, beberapa masyarakat melihat adanya kesempatan untuk melakukan modus pencurian bahan bakar kendaraan baik dari tangki truk pertamina maupun dari tangki
+3
+
+truk perusahaan. Namun, hingga saat ini belum ada perusahaan lain yang mencoba untuk menciptakan produk sebagai solusi atas permasalahan ini sehingga merupakan kesempatan yang baik bagi Gemilang Technology untuk memulai bisnis dari industri teknologi yang banyak peminatnya dan pada bidang transportasi yang merupakan permasalahan yang sedang merajalela di Indonesia.
+1.4 Analisis Pasar Target pasar Gemilang Technology diklasifikasikan berdasarkan geografis,
+demografis, psikografis, dan tingkah laku. Berdasarkan geografis, target pasar Gemilang Technology adalah Wilayah Distribusi Negara III dan Wilayah Distribusi Negara IV yang meliputi propinsi Kalimantan, Sulawesi, Papua, Maluku, NTT dan NTB. Berdasarkan segmentasi demografis, target pasar Gemilang Technology adalah perusahaan menengah dan perusahaan besar dengan tingkat pendapatan antara Rp 500.000.000 ­ Rp 1.000.000.000 atau lebih setiap bulannya. Berdasarkan segmentasi psikografis, target pasar Gemilang Technology adalah status sosial, yaitu pemilik perusahaan. Berdasarkan segmentasi tingkah laku, target pasar Gemilang Technology adalah manfaat produk pada bidang teknologi. Sejauh ini belum terlihat adanya pesaing langsung, tetapi ada pesaing tidak langsung yang dihadapi oleh Gemilang Technology seperti IntelliTrac, Aetrax, Akari dan lain sebagainya yang menawarkan produk tracking, vehicle monitoring, GPS Tracking, dan lainnya. Selain pesaing langsung dan tidak langsung, perusahaan-perusahaan start up yang bekerja dengan
+4
+
+teknologi internet merupakan pesaing masa depan yang akan dihadapi oleh Gemilang Technology.
+1.5 Rencana Pemasaran Perencanaan pemasaran merupakan salah satu hal yang dapat berpengaruh
+dalam perkembangan suatu usaha bisnis. Rencana pemasaran yang baik dapat berdampak baik dalam menunjang keberhasilan bisnis yang didirikan. Strategi pemasaran Gemilang Technology bertujuan untuk membuat calon pelanggan sadar bahwa Gemilang Technology adalah sebuah perusahaan yang yang terpercaya dalam bidang teknologi dengan menciptakan produk yang handal dan memberikan pelayanan terbaik. Oleh karena itu, Gemilang Technology memberikan kualitas dan jaminan terbaik bagi perusahaan pengguna serta menciptakan produk yang user friendly sehingga mudah untuk digunakan. Adapun strategi pemasaran yang akan diimplikasikan oleh Gemilang Technology adalah dengan promosi melalui medial sosial, advertising, sponsorships dan berupaya untuk menciptakan word-of-mouth yang positif bagi Gemilang Technology. Strategi pemasaran juga merupakan tanggung jawab bagi seluruh stakeholder dalam perusahaan sehingga setiap proses operasional yang terjadi dalam Gemilang Technology harus memberikan dampak positif bagi perusahaan.
+1.6 Tim Manajemen dan Struktur Perusahaan Gemilang Technology berencana akan mempekerjakan 15 orang karyawan pada
+awal operasionalnya dimana terdapat 4 orang yang berperan sebagai karyawan
+5
+
+operasional yang bertugas untuk kegiatan produksi dan melayani pelanggan, 3 orang berperan sebagai teknisi dan programmer yang bertanggung jawab terhadap pemrograman produk dan setiap kerusakan yang terjadi, 2 orang bertugas sebagai sales yang akan bertugas untuk melakukan penjualan, 2 orang yang bertugas dalam bagian marketing yang akan merumuskan strategi pemasaran produk dan 2 orang berperan sebagai accounting yang bertugas untuk mencatat keluar masuknya biaya perusahaan serta membuat laporan keuangan. Setelah Gemilang Technology mengalami kemajuan pada tahun-tahun berikutnya, akan ada penambahan jumlah karyawan dan melakukan pemisahan terhadap bagian yang tergabung sebelumnya seperti karyawan operasional dan produksi pada masa mendatang. Hal ini dilakukan dengan harapan agar kinerja karyawan menjadi efektif dan produktif. Selain itu, Gemilang Technology juga akan menambahkan General Manager untuk mengawasi dan dapat mengendalikan kinerja setiap kepala bagian dari karyawan perusahaan.
+1.7 Perencanaan Operasional Perencanaan operasional menggambarkan bagaimana usaha akan memproduksi
+produk dan memberikan pelayanan kepada konsumen. Oleh karena itu, Gemilang Technology menetapkan beberapa rencana operasional dengan tujuan memuaskan pelanggan dan mengatasi terjadinya permasalahan yang tidak inginkan. Operasional secara kesuluruhan Gemilang Technology didasari oleh dua hal yang perlu diperhatikan, yaitu kualitas produk dan kualitas pelayanan. Kegiatan operasional di balik layar akan meliputi perekrutan karyawan, pelatihan karyawan, operasional
+6
+
+secara manual dan evaluasi kinerja. Perencanaan operasional juga meliputi rangkaian proses produksi dan pemilihan lokasi Gemilang Technology. Peralatan dan perlengkapan yang dibutuhkan oleh Gemilang Technology dalam kegiatan operasional juga akan dirincikan secara mendetail dan demi kelancaran operasional, Gemilang Technology akan mengikuti peraturan pemerintah untuk memenuhi beberapa dokumen dan surat seperti Akta pendirian perusahaan, tanda daftar perusahaan dan lainnya.
+1.8 Perencanaan Pengembangan Perusahaan yang baik harus memiliki visi dan rencana pengembangan yang
+terukur dan jelas. Hal ini dimaksudkan agar perusahaan dapat berkembang sesuai dengan hasil yang diharapkan. Rencana pengembangan Gemilang Technology di masa depan adalah memperluas jangkauan pasarnya, khususnya secara geografis dan mengembangkan jenis produk agar dapat menciptakan produk teknologi berkualitas yang berguna dan dapat menarik daya beli customer. Waktu pelaksanaan pengembangan Gemilang Technology telah dilakukan sejak Januari 2015 dan diperkirakan pada Januari 2016 merupakan target pembukaan perusahaan Gemilang Technology. Selama proses pengembangan ini, terdapat tantangan dan resiko yang aka dihadapi oleh Gemilang Technology, diantaranya adanya resesi ekonomi, regulasi pemerintah, pesaing baru, dan teknologi baru. Biaya pengembangan yang dibutuhkan Gemilang Technology untuk melakukan pengembangan akan diperhitungkan dengan baik agar dapat mengetahui persiapan modal yang
+7
+
+dibutuhkan. Properti intelektual milik Gemilang Technology akan didaftarkan ke pemerintah agar tidak dapat ditiru oleh kompetitor, yaitu berupa paten dan merek dagang. 1.9 Proyeksi Keuangan
+Proforma laporan keuangan akan dianalisis dalam periode lima tahun. Untuk tahun pertama Gemilang Technology melakukan proyeksi bahwa akan menghasilkan keuntungan bersih sebesar Rp 743,091,964 dan akan terus mengalami peningkatan sepuluh persen setiap tahunnya. Pengembalian investasi perusahaan Gemilang Technology adalah tiga tahun enambelas bulan dengan Internal Rate of Return sebesar 46%. Selain itu, juga dilakukan analisis terhadap rasio profitabilitas dengan memproyeksikan ROE 45%, ROA 45%, ROI 60%, Operating profit margin 65%, dan Net Profit Margin 48%.
+8
+
+BAB II DESKRIPSI PERUSAHAAN
+Gemilang Technology merupakan perusahaan yang bergerak di bidang teknologi dan menawarkan produk-produk inovasi yang berguna bagi peningkatan efisiensi perusahaan. Gambaran umum berupa pendahuluan, sejarah perusahaan, visi dan misi, nama, logo dan slogan perusahaan, produk dan jasa, status masa kini, sumber dana, status dan legalitas kepemilikan, profil perusahaan akan dijelaskan lebih lanjut.
+2.1 Pendahuluan Gemilang Technology adalah perusahaan yang menawarkan produk teknologi yang berguna untuk mendeteksi apabila terjadi pencurian bahan bakar kendaraan khususnya transportasi perusahaan. Gemilang Technology memiliki luas bangunan 292 meter persegi. Bentuk bangunan perusahaan Gemilang Technology berupa ruko yang berlokasi di Samarinda, Kalimantan Timur. Gemilang Technology bergerak pada bidang teknologi dengan target pasar menengah ke atas. Gemilang Technology didirikan oleh Jennifer Novia Nursalim (22 tahun).
+Produk yang ditawarkan oleh Gemilang Technology adalah "Fuel Theft Monitoring System", yaitu suatu alat yang dapat mendeteksi keadaan tutup tangki dan mengetahui perubahan volume bahan bakar kendaraan secara signifikan. Apabila tutup tangki terbuka, maka alat akan memberikan notifikasi kepada
+9
+
+pemilik kendaraan dalam bentuk panggilan telepon. Lalu, pada saat tutup tangki terbuka, maka alat akan melakukan pemeriksaan menggunakan mikrokontroler setiap dua detik sekali terhadap volume tangki bahan bakar selama 30 menit. Apabila ada penurunan volume yang drastis maka alat ini akan mengirimkan Short Messaging Service (SMS) yang berisi informasi, waktu, tanggal, dan jumlah penurunan bahan bakar yang terjadi.
+2.2 Sejarah Perusahaan Diawali dengan permasalahan yang dialami oleh perusahaan orang tua penulis yang bergerak pada bidang distribusi. Dalam pendistribusian barang kepada konsumen, sering kali biaya yang dikeluarkan untuk konsumsi bahan bakar satu mobil lebih besar dan hal ini dikarenakan adanya peluang untuk melakukan pencurian bahan bakar kendaraan yang dimanfaatkan oleh karyawan pendistribusian. Karyawan dapat mencuri bahan bakar kendaraan dan meminta biaya bahan bakar kembali untuk mengisi kembali bahan bakar mobil tersebut. Walaupun seharusnya bahan bakar yang dikeluarkan seharusnya belum habis dan diisi kembali. Satu tangki bahan bakar truk adalah 80 liter dan 1 liter bahan bakar = 7-8 KM jarak tempuh. Misalnya dalam satu kali perjalanan, seharusnya yang ditempuh adalah 140 KM, maka bahan bakar solar yang digunakan adalah 20 liter. Sedangkan setelah mereka kembali ke perusahaan, tangki bahan bakar sudah habis setengahnya, hanya tersisa 40 liter. Hal ini sangat merugikan bagi perusahaan orang tua penulis karena biaya transportasi yang dikeluarkan oleh perusahaan mempengaruhi penurunan tingkat keuntungan. Untuk
+10
+
+itu, penulis mendirikan perusahaan Gemilang Technology ini, yaitu perusahaan yang bergerak pada bidang pengembangan teknologi, yang membuat teknologi yang berguna untuk menghemat seluruh biaya yang akan dikeluarkan oleh perusahaan. Salah satu produk yang akan ditawarkan dan dibuat oleh perusahaan ini adalah Fuel Theft Monitoring System. Kegunaan dari alat ini adalah untuk mengontrol penggunaan bahan bakar yang dimiliki oleh perusahaan, apabila terjadi pencurian akan ada pemberitahuan kepada pemilik kendaraan atau owner perusahaan. Kepemilikan perusahaan ini akan dipegang oleh Jennifer Novia Nursalim yang akan mengoperasikan keseluruhan perusahaan ini mulai dari merancang perencanaan bisnis ini hingga pengaplikasiannya apabila perusahaan ini mulai dibangun.
+2.1 Visi dan Misi Suatu perusahaan dapat berkembang dengan baik apabila mempunyai arah dan tujuan yang jelas untuk dicapai. Tujuan dan arah perkembangan dari perusahaan Gemilang Technology akan dituangkan dalam visi dan misi perusahaan yang menjadi nilai utama yang menjadi pedoman bagi seluruh divisi perusahaan.
+Berdasarkan pendapat dari David (2011, 11), visi merupakan pernyataan yang menjawab "What do we want to become?", yaitu cita-cita atau impian sebuah organisasi yang ingin dicapai di masa yang akan datang. Visi merupakan langkah pertama dalam strategic planning. Dengan adanya visi, diharapkan perusahaan dapat tertantang agar dapat tetap eksis, antisipatif dan inovatif untuk mencapai visi yang merupakan cita-cita perusahaan di masa depan.
+11
+
+Visi dari perusahaan ini adalah menjadi perusahaan teknologi informasi yang mampu mendorong perkembangan efisiensi perusahaan terhadap biaya yang dikeluarkan.
+Menurut David (2011, 11), misi merupakan pernyataan dari suatu tujuan yang membedakan satu bisnis dengan perusahaan lain yang bergerak pada bidang yang sama. Misi merumuskan pertanyaan yang dihadapi oleh setiap pengusaha, yaitu "What is our business?". Misi menggambarkan nilai-nilai dan prioritas atau tujuan perusahaan, yang memuat apa yang disediakan oleh perusahaan kepada masyarakat, baik berupa produk ataupun jasa. Misi dirumuskan oleh perusahaan untuk mendukung visi dan mencapai tujuan perusahaan.
+Dalam rangka pencapaian visi dan tujuan perusahaan, maka Gemilang Technology menjabarkan misi-misi perusahaan sebagai berikut :
+1. Mengembangkan solusi di bidang teknologi yang berkesinambungan 2. Membangun jejaring kerjasama untuk menumbuhkan industri teknologi
+berbasis internet dan digital di Indonesia. 3. Memberikan benefit dan value bagi seluruh masyarakat Indonesia.
+2.4 Nama, Logo dan Slogan Perusahaan Nama : Gemilang Technology
+12
+
+Logo :
+Gambar 2.1 Logo Perusahaan Gemilang Technology Sumber: Data olahan penulis, 2015
+Slogan : We provide you better technologies to improve efficiency of company's operational cost. 2.5 Produk dan Jasa Gemilang Technology menjual produk berupa alat-alat berbasis arduino yang memiliki teknologi yang berguna bagi penekanan biaya operasional perusahaan, Salah satu produknya adalah Fuel Theft Monitoring System, yaitu suatu alat yang dapat mendeteksi apabila tutup tangki bahan bakar terbuka, tetapi ada penurunan level minyak dalam tangki, lalu alat ini akan mengirimkan SMS kepada pemilik perusahaan pada saat itu juga dan memberikan informasi, waktu, tanggal, dan level penurunan bahan bakar yang terjadi pada saat itu. Alat ini akan menggunakan arduino sebagai mikrokontroler yang akan mengendalikan alat secara keseluruhan.
+13
+
+2.6 Status Masa Kini Gemilang Technology mulai melakukan penelitian dan pengembangan teknologi pada Januari 2015. Adapun hal-hal yang harus direncanakan untuk ke depan adalah memperbanyak karyawan, meningkatkan profit, memperluas jaringan pendistribusian, makin dikenal oleh konsumen dan tentu saja membuat suatu tim kerja yang baik dan terkoordinir serta menciptakan produk-produk baru yang berguna bagi perusahaan.
+2.7 Sumber Dana Untuk rencana pengembangan yang akan dilakukan oleh Gemilang Technology, maka Gemilang Technology akan menggunakan dana sebesar Rp 1,215,000,000,untuk membuka perusahaan di daerah Samarinda, Kalimantan Timur. Modal tersebut didapatkan dari uang pribadi dan pinjaman biaya dari bank untuk start-up awal. Gemilang Technology tidak menggunakan pinjaman biaya dari bank untuk mengurangi biaya yang dikeluarkan untuk biaya bunga pinjaman.
+2.8 Status Legalitas dan Kepemilikan Gemilang Technology merupakan suatu perusahaan yang bergerak dengan bentuk kepemilikan perseorangan (sistem pengelolaan ownership). Pemilik dan pengelola Gemilang Technology adalah Jennifer Novia Nursalim. Setiap keputusan dan kewajiban yang akan diambil perusahaan akan dioperasikan dan ditetapkan secara langsung oleh pemilik perusahaan.
+14
+
+2.9 Profil perusahaan
+
+Profil usaha yang dijalankan oleh Gemilang Technology adalah:
+
+Nama usaha
+
+: Gemilang Technology
+
+Bidang Usaha
+
+: Teknologi
+
+No. Telpon
+
+: 08125514851
+
+Email
+
+: Gemilangtechnology@gmail.com
+
+Tahun berdiri
+
+: 2015
+
+Bentuk Badan
+
+: Ownership
+
+15
+
+BAB III ANALISIS INDUSTRI
+Analisis industri memiliki peranan untuk mengetahui potensi dari sebuah bisnis. Analisis industri akan mempengaruhi perusahaan untuk mengetahui besarnya target pasar dan strategi pemasaran yang akan digunakan oleh perusahaan. Dengan melakukan analisis industri, perusahaan akan dapat mengambil keputusan yang tepat dalam menentukan bisnis untuk prospek jangka panjang. Analisis industri meliputi definisi industri, skala dan pertumbuhan industri, struktur industri, faktor kunci kesuksesan, tren, dan prospek jangka panjang industri.
+3.1 Definisi Industri Menurut Barringer dan Ireland (2012,174) pengertian industri adalah sebagai berikut:
+"An industry is a group of firms producing a similar product or service, such as music, fitness drinks, or electronic games."
+Dari definisi di atas, industri adalah sekumpulan perusahaan yang memproduksi produk atau jasa yang sama. Analisis industri merupakan salah satu faktor yang memberikan kontribusi penting dalam menentukan bisnis yang ingin dijalankan. Perusahaan akan dapat mengidentifikasi pertumbuhan, struktur dan tren industri yang berpotensial untuk dijadikan lahan bisnis. Berdasarkan Surat Keputusan Menteri
+16
+
+Departemen Perindustrian Indonesia No.19/M/I/1986, industri nasional Indonesia dibagi ke dalam empat kelompok besar yaitu (Kartika 2013):
+1. Industri kimia dasar, yaitu industri yang mengolah bahan mentah menjadi bahan setengah jadi. Contoh: industri kertas, semen, pupuk, selulosa dan karet.
+2. Industri mesin dan logam dasar, yaitu industri yang mengolah bahan mentah menjadi bahan baku atau jadi. Contoh: industri elektronika, mesin, pesawat terbang, perkakas, alat berat.
+3. Kelompok industri kecil, yaitu industri dengan modal kecil atau peralatan yang masih sederhana. Contoh: industri rumah tangga.
+4. Aneka industri, yaitu industri yang menghasilkan beragam kebutuhan konsumen. Contoh: industri pangan, tekstil, kimia dasar, aneka industri bahan bangunan. Berdasarkan klasifikasi yang dipaparkan oleh Departemen Perindustrian,
+Gemilang Technology termasuk dalam kelompok industri mesin dan logam dasar (IMLD) yang merupakan kelompok dari industri dasar. Industri teknologi merupakan industri yang sedang berkembang dengan menciptakan sesuatu yang baru dari tahun ke tahun. Hal ini berarti Gemilang Technology akan membantu dalam peningkatan pertumbuhan ekonomi di Indonesia, membantu struktur industri dan menggunakan teknologi yang maju (mengikuti perkembangan teknologi) sehingga dapat mendorong terciptanya lapangan kerja secara besar.
+3.2 Skala dan Pertumbuhan Industri Analisa skala dan pertumbuhan industri dibutuhkan untuk dapat melihat keadaan sebenarnya dari masing-masing industri agar dapat memilih industri yang tepat.
+17
+
+Untuk mengetahui keadaan pertumbuhan industri maka perlu dilakukan analisa pertumbuhan industri dari tahun ke tahunnya.
+Berikut ini adalah data pendukung yang digunakan oleh Gemilang Technology untuk menganalisa pertumbuhan industri:
+Tabel 3.1 Data Konsumsi BBM dan Non BBM di Indonesia
+sumber: www.esdm.go.id
+Dari tabel 3.1 diatas dapat dilihat bahwa total konsumsi bahan bakar minyak dari tahun 2005 sampai dengan 2010 berkisar antara 374.691 ­ 397.802 dalam satuan ribu SBM (Setara Barel Minyak). Hal ini tidak memperlihatkan perubahan yang cukup signifikan selama 5 tahun berturut-turut sehingga seharusnya pemerintah dapat
+18
+
+melakukan antisipasi karena telah mengetahui daya konsumsi masyarakat Indonesia terhadap bahan bakar minyak.
+Tabel 3.2 Data Produksi Bahan Bakar Minyak dari Tahun 2004-2012
+sumber: www.esdm.go.id
+Berdasarkan tabel 3.2, data total produksi BBM yang diupayakan oleh pemerintah dari tahun 2004 ­ 2012 walaupun mengalami peningkatan dari tahun 2004 ke 2005 dari 83.153 menjadi 268.529 dalam satuan ribu barel minyak. Tetapi setelah tahun 2005, total produksi bahan bakar minyak mengalami penurunan dan peningkatan yang tidak signifikan dan hanya berkisar antara 238.957 ­ 268.529.
+19
+
+Tabel 3.3 Data Perkembangan Jumlah Kendaraan Bermotor Tahun 2007-2012
+Sumber: www.hubdat.dephub.go.id
+Berdasarkan tabel 3.3, jumlah kendaraan bermotor meningkat terus setiap tahunnya. Semua jenis kendaraan bermotor mulai dari motor, mobil pribadi, truk maupun bus mengalami peningkatan secara terus menerus. Hal ini membuat pasokan bahan bakar minyak di seluruh Indonesia mengalami kelangkaan karena banyaknya permintaan terhadap bahan bakar minyak yang dibutuhkan oleh seluruh kendaraan bermotor masyarakat tidak dapat terpenuhi oleh jumlah produksi bahan bakar minyak yang diupayakan oleh pemerintah. Dengan adanya kondisi kelangkaan seperti ini, beberapa masyarakat melihat adanya kesempatan untuk melakukan modus pencurian bahan bakar kendaraan baik dari tangki truk pertamina maupun dari tangki truk perusahaan. Adapun alasan Mereka melakukan hal tersebut untuk mendapatkan keuntungan lebih dengan menjual hasil curian minyak tersebut kepada kios-kios kecil yang menerima bahan bakar minyak secara eceran untuk dijual kembali. Oleh karena itu, Gemilang Technology akan menciptakan produk yang berguna bagi masyarakat khususnya perusahaan agar dapat mengetahui apabila adanya indikasi pencurian
+20
+
+bahan bakar minyak kendaraan bermotor pada masyarakat Indonesia.
+
+3.3 Struktur Industri Menurut Barringer dan Ireland (2012,178), Michael Porter mengemukakan langkah yang dapat digunakan untuk menganalisa struktur industri dengan baik adalah The Five Competitive Forces Model yang memiliki beberapa bagian sebagai berikut: Threat of Substitutes, Threat of New Entrants, Rivalry among existing firms, Bargaining power of suppliers, dan Bargaining power of buyers.
+
+Gambar 3.1. Five Competitive Forces Model
+
+Threat of Substitutes
+
+Threats of New Entrants
+
+Rivalry Among Existing Firms
+
+Bargaining Power of Suppliers
+
+Bargaining Power of Buyers
+
+Sumber: Barringer dan Ireland 2012, 179
+
+3.3.1 Threat of Substitutes
+Produk pengganti adalah produk yang dinilai memiliki fungsi yang sama dan dapat menggantikan fungsi produk lain dalam memenuhi kebutuhan masyarakat. Apabila produk yang diinginkan oleh pembeli tidak tersedia, maka pembeli akan membeli produk pengganti dengan fungsi yang sama untuk memenuhi kebutuhannya. Sebagai contoh, menggunakan transportasi umum merupakan pilihan pengganti yang dapat
+
+21
+
+dipilih oleh pembeli apabila beban biaya yang dikeluarkan dalam menggunakan transportasi pribadi (mobil, motor, dan lainnya) lebih tinggi dibandingkan menggunakan transportasi umum.
+Menurut Barringer, suatu industri akan lebih menarik jika threat of substitutes dari industri tersebut rendah. Industri yang dipilih oleh Gemilang Technology memiliki threat of substitutes yang rendah karena belum banyak produk yang dapat menggantikan teknologi yang berguna untuk memberikan kemudahan dalam meningkatkan efisiensi perusahaan. Namun, dapat kita lihat bahwa saat ini teknologi sedang mengalami perkembangan pesat di dunia. Seluruh negara di dunia berlombalomba mempelajari teknologi sehingga beberapa perusahaan telah berhasil mengembangkan teknologi menjadi lebih baik serta menciptakan teknologi baru. Oleh karena itu, Gemilang Technology akan meningkatkan kualitas, terus melakukan pengembangan inovasi produk dan memberikan penawaran harga terbaik untuk mencegah ancaman adanya produk pengganti yang dapat ditawarkan oleh pesaing langsung maupun tidak langsung di masa depan.
+3.3.2 Threat of New Entrants Definisi Threat of New Entrants adalah ancaman yang akan dihadapi oleh suatu perusahaan karena adanya pesaing baru yang muncul dalam industri yang sama. Barrier to entry dibutuhkan oleh perusahaan untuk dapat mengantisipasi hal ini.
+22
+
+Menurut Barringer dan Ireland (2012,179), barrier to entry memiliki definisi sebagai berikut:
+"A barrier to entry is a condition that creates a disincentive way for a new firm to enter an industry."
+Barringer melakukan pembagian dari barrier to entry menjadi enam bagian. Keenam bagian tersebut adalah economies of scale, product differentiation, capital requirements, cost advantages independent of size, access to distribution channels, government dan legal barriers. Setiap bagian dari barrier to entry memiliki peranan penting dalam mencegah para pesaing untuk masuk ke dalam industri.
+Pertama, Economies of scale terjadi ketika perusahaan dapat menekan biaya produksi dengan melakukan produksi dalam jumlah yang banyak. Jika suatu perusahaan dapat melakukan produksi sebuah produk dalam jumlah banyak dalam satu kali produksi, maka total biaya produksi setiap produk akan menjadi lebih rendah. Dengan menggunakan cara economies of scale, harga produk yang ditawarkan oleh suatu perusahaan akan lebih terjangkau sehingga akan menghalangi pesaing baru untuk masuk ke industri yang sama. Gemilang Technology dapat menerapkan cara economies of scale ini ketika perusahaan telah dikenal oleh seluruh kalangan masyarakat. Apabila produk ini telah dikenal dan dibeli maka, Gemilang Technology akan dapat menganalisa perilaku pembelian pelanggan sehingga mengetahui jumlah produksi yang pantas untuk satu kali produksi produk tersebut agar tidak kelebihan atau kekurangan stock.
+23
+
+Kedua, Product differentiation ketika sebuah perusahaan telah berhasil menarik perhatian pembeli dengan melakukan diferensiasi produk. Definisi diferensiasi produk adalah suatu produk yang dimodifikasi sedemikian rupa dengan cara mengubah karakter produk sehingga menjadi faktor pembeda produk tersebut dibandingkan dengan pesaing lainnya. Dalam menyiasati diferensiasi produk, Gemilang Technology akan menawarkan produk dengan keunggulan teknologi yang canggih, fitur-fitur yang berguna dan apabila memungkinkan keunggulan tersebut belum ditawarkan oleh perusahaan lainnya. Akibatnya, diferensiasi produk akan membentuk barrier to entry bagi calon pendatang baru karena mereka dituntut untuk mengeluarkan biaya yang besar untuk mempengaruhi customer meninggalkan loyalitasnya pada produk perusahaan lama yang berada di industri tersebut. Hal ini dapat menyebabkan kerugian bagi pesaing baru di awal usaha (start-up loses).
+Ketiga, Capital requirements adalah kondisi ketika perusahaan membutuhkan modal dalam jumlah yang besar untuk masuk ke dalam sebuah industri. Hal ini akan menjadi hambatan bagi pesaing baru untuk masuk ke dalam industri yang sama karena untuk mendapatkan modal dalam jumlah yang besar dibutuhkan waktu yang cukup lama. Untuk itu, sebelum pesaing baru berhasil mendapatkan modal dalam jumlah yang besar dan masuk ke industri maka Gemilang Technology akan berusaha untuk menguasai pangsa pasar dengan baik.
+Keempat, cost advantages independent of size adalah kondisi dimana perusahaan yang merupakan pemain lama dalam industri telah memiliki keunggulan
+24
+
+dalam biaya yang dikeluarkan. Sebagai contoh, perusahaan lama mungkin saja membeli tanah dan peralatan dengan harga yang lebih murah ketika biayanya masih murah. Hal ini akan mengakibatkan pendatang baru untuk dapat membeli tanah dan peralatan dengan harga yang sama dengan perusahaan lama.
+Kelima, Access to distribution channels adalah keadaan dimana jaringan distribusi yang ada telah dikuasai oleh perusahaan-perusahaan lama. Dengan demikian pesaing baru harus mampu mempengaruhi jaringan distribusi tersebut agar bersedia menerima produknya dengan memberikan potongan harga khusus, kerjasama periklanan dan sebagainya. Barrier to entry dari sisi jaringan distribusi semakin besar jika perusahaan-perusahaan lama memiliki hubungan erat dengan jaringan distribusinya. Hal ini akan menjadi hambatan bagi pesaing baru yang akan masuk dalam industri.
+Keenam, Government and legal barriers adalah keadaan dimana pemerintah dapat membatasi bahkan menutup kesempatan masuknya pesaing baru dalam sebuah industri. Pemerintah melakukan pembatasan masuknya pesaing baru dikarenakan memperhatikan alasan sosial masyarakat secara keseluruhan. Contohnya, industri ketenagalistrikan yang diberikan kepada satu perusahaan saja dalam satu daerah agar lebih efisien dan tidak ada kompetisi antar perusahaan ketenagalistrikan.
+Dalam industri yang dipilih oleh Gemilang Technology, terdapat threat of new entrants yang relatif rendah sehingga hal ini membuat Gemilang Technology sebagai perusahaan baru dapat dengan mudah masuk ke dalam industri tersebut. Industri ini
+25
+
+dapat dikatakan relatif rendah akan threat of new entrants karena untuk mengikuti industri ini cukup sulit. Industri ini membutuhkan keterampilan dalam pemograman yang merupakan diferensiasi produk serta modal yang besar.
+3.3.3 Rivalry Among Existing Firms Definisi Rivalry among existing firms adalah persaingan antar perusahaan yang bersaing dalam industri yang sama. Dalam industri yang diikuti oleh Gemilang Technology, Gemilang Technology memiliki persaingan antar perusahaan dalam suatu industri yang rendah karena pelaku bisnis di industri teknologi sangat minim, tentunya karena proses pengerjaan produk teknologi yang membutuhkan waktu yang lama, membutuhkan modal yang besar dan memerlukan proses observasi berulang kali untuk mengetahui layak atau tidaknya produk tersebut dijual ke pasar. Saat ini, perkembangan teknologi sangat pesat di Indonesia. Tetapi, tidak semua perusahaan berani mengambil resiko untuk terjun ke dalam industri teknologi ini karena pertimbangan yang sudah dijabarkan di atas.
+3.3.4 Bargaining Power of Suppliers Bargaining power of suppliers merupakan kemampuan dari supplier atau pemasok bahan baku untuk melakukan penawaran dengan suatu perusahaan. Perusahaan yang bergantung pada sedikit pemasok akan memiliki bargaining power yang rendah. Kelangkaan supplier akan membuat mereka dengan mudah menaikkan harga bahan baku sehingga profit margin suatu perusahaan semakin menipis. Sebaliknya,
+26
+
+perusahaan yang memiliki banyak alternatif pemasok akan memegang kendali dan memiliki bargaining power yang tinggi. Menurut Barringer, jika bargaining power of supplier suatu industri rendah maka pemasok tidak memiliki kekuatan lebih besar dalam mengendalikan bahan baku perusahaan. Dalam industri yang diikuti oleh Gemilang Technology terdapat pemasok komponen alat yang banyak, sehingga Gemilang Technology memiliki bargaining power of supplier yang rendah.
+3.3.5 Bargaining Power of Buyers
+Bargaining power of buyers adalah kekuatan yang dimiliki oleh pembeli untuk melakukan keputusan pembelian terhadap suatu produk. Menurut Barringer, akan lebih baik jika suatu industri memiliki bargaining power of buyer yang rendah. Industri yang dipilih oleh Gemilang Technology memiliki bargaining power of buyer yang rendah, karena pembeli tidak berpengaruh terhadap produk yang ditawarkan perusahaan. Gemilang Technology menciptakan produk yang baru, dengan inovasi yang unik, tidak mudah ditiru sehingga pembeli tidak memiliki kekuatan dalam pasar untuk menentukan harga maupun jumlah pembelian.
+3.4 Faktor ­ Faktor Kunci Kesuksesan Faktor kunci kesuksesan merupakan poin penting untuk menentukan kesuksesan dari suatu bisnis dalam perkembangan usahanya. Dengan memperhatikan faktor ini, sebuah bisnis berpeluang untuk memiliki nilai yang lebih dalam bersaing dengan
+27
+
+calon kompetitornya. Menurut Gemilang Technology, memperhatikan beberapa hal seperti kualitas layanan, kualitas produk, harga, dan network merupakan kunci kesuksesan dari bisnis.
+3.4.1 Kualitas Layanan Kualitas pelayanan kepada konsumen merupakan salah satu faktor utama yang harus diperhatikan oleh perusahaan. Fokus utama dari pelayanan perusahaan jasa harus memenuhi kebutuhan dan kepuasan pembeli. Kualitas pelayanan terbaik yang dapat ditawarkan kepada calon pelanggan dan pelanggan, yaitu memberikan pelayanan secepat mungkin apabila customer membutuhkan sesuatu yang dibutuhkan agar customer tidak berpindah kepada perusahaan lainnya dan menjalin hubungan jangka panjang yang baik.
+Selain itu, pelayanan yang diberikan kepada pelanggan setelah melakukan pembelian produk adalah menyediakan jasa pemasangan produk tersebut pada perusahaan pengguna, menjelaskan cara penggunaan produk tersebut dengan jelas dan mendetail, menyediakan servis apabila terjadi kerusakan, dan menyediakan layanan update software produk tersebut.
+3.4.2 Kualitas Produk Kualitas produk adalah hal yang paling penting dalam industri teknologi. Kualitas dari produk dalam industri teknologi ini bisa berupa daya tahan produk, ada atau tidaknya fasilitas servis, ada atau tidaknya garansi dan juga penggunaannya yang user friendly atau tidak. Jika suatu produk memiliki kualitas yang baik, maka konsumen
+28
+
+dapat melakukan transaksi secara berulang­ulang, sehingga dapat meningkatkan profit dari perusahaan.
+Gemilang Technology mementingkan kualitas produk yang ditawarkan untuk konsumen. Kualitas tersebut diperoleh Gemilang Technology dengan cara membuat produk yang ditawarkan dengan garansi produk. Gemilang Technology juga memilih pemasok alat-alat (Integrated Circuit) yang terpercaya dan telah menjadi pelanggan tetap, sehingga Gemilang Technology akan mendapatkan alat-alat dengan kualitas yang baik. Semua produk yang dibuat oleh Gemilang Technology akan dicek kinerja dan daya keakuratannya.
+3.4.3 Harga Harga merupakan hal yang mempengaruhi keputusan pembelian customer. Harga yang kompetitif dapat membantu Gemilang Technology bersaing dengan para pesaing langsung maupun tidak langsung. Dalam menentukan harga juga perlu berhati-hati karena ada beberapa calon pembeli menilai kualitas produk berdasarkan harganya. Terkadang calon pembeli berpikir apabila harga suatu produk tergolong mahal maka kualitas produknya pasti bagus dan sebaliknya. Oleh karena itu, Gemilang Technology memberikan harga yang sesuai dengan value produk agar dapat tercipta positioning yang diharapkan.
+Harga yang ditawarkan oleh Gemilang Technology terhadap produk Fuel Theft Monitoring System adalah Rp 2.750.000.
+29
+
+3.4.4 Network Network atau jaringan adalah hubungan yang diciptakan oleh sebuah perusahaan terhadap pemasok ataupun calon konsumen. Setiap perusahaan perlu memiliki suatu hubungan yang baik dengan segala bagian sehingga jika terjadi pemasalahan dalam hal tertentu, misalnya pengiriman atau teknis dapa segera diselesaikan dengan lebih mudah. Untuk menjaga network yang baik, Gemilang Technology menjaga hubungan yang baik dengan para pemasoknya. Gemilang Technology juga tetap melakukan komunikasi disaat tidak melakukan pemesanan kepada pemasok untuk menciptakan hubungan yang baik.
+3.5 Tren Industri Setiap industri akan menghadapi tren yang mempengaruhi pertumbuhan industri tersebut. Tren dapat bersifat membantu maupun menghambat pertumbuhan industri dalam jangka panjang. Industry trend memiliki dua bagian penting, yaitu environmental trend dan business trend.
+Environmental trend merupakan hal yang perlu diperhatikan setiap industri karena adanya perubahan dalam jangka waktu tertentu. Environmental trend yang perlu dianalisa dan dipelajari adalah dari segi Political, Economic, Social, Technological, Legal, dan Environmental. Analisis ini biasanya dikenal dengan PESTEL Analysis (Barringer dan Ireland 2012, 70).
+30
+
+Political adalah tren dari suatu industri yang berhubungan pada situasi politik dari suatu negara. Situasi politik dapat mempengaruhi beberapa industri di suatu negara dalam mengambil suatu keputusan. Setiap negara memiliki kondisi politik yang berbeda­beda. Dalam industri teknologi yang dimasuki Gemilang Technology ini dipengaruhi oleh political trend, karena bisa saja beberapa perusahaan yang membuat produk teknologi memiliki hubungan dekat dengan pejabat dari suatu daerah tertentu sehingga dapat menjadi leader di perusahaan tersebut.
+Economic adalah tren dari suatu industri yang berhubungan dengan laju perekonomian dalam suatu negara. Perekonomian dalam suatu negara dapat memberikan dampak perubahan terhadap target pasar bagi suatu perusahaan. Suatu perusahaan yang berada pada daerah dengan tingkat perekonomian rendah sebaiknya menyeimbangkan perekonomian dengan cara menawarkan produk dengan harga yang relatif terjangkau agar dapat dibeli oleh calon pembelinya. Gemilang Technology memilih pada target pasar dengan pendapatan perusahaan yang cukup tinggi pada daerah Kalimantan Timur. Daerah Kalimantan Timur merupakan daerah yang memiliki nilai perekonomian yang relatif rendah dibandingkan dengan kota-kota besar seperti JABODETABEK dan lainnya. Hal ini dapat dilihat dari upah minimum provinsi Kalimantan Timur sebesar Rp 2.026.000,-, sedangkan upah minimum provinsi DKI Jakarta adalah sebesar Rp 2.700.000,-. Oleh karena itu, upah minimum yang tergolong rendah menandakan besarnya kebutuhan yang harus terpenuhi dalam suatu daerah tersebut. Dengan keadaan seperti ini, tidak menutup kemungkinan
+31
+
+bahwa masyarakat dapat melakukan perbuatan tercela demi memenuhi kebutuhannya. Salah satu hal yang dapat terjadi adalah pencurian bahan bakar kendaraan dan dapat mengambil keuntungan dengan menjual kembali bahan bakar tersebut.
+Social adalah tren dari suatu industri yang berhubungan dengan kehidupan sosial dalam suatu daerah. Kehidupan sosial dari suatu daerah merupakan hal yang dapat membuat suatu bisnis dapat bersaing. Contoh dari social trend saat ini adalah menggunakan media sosial seperti Facebook, Instagram, Path dan Twitter sebagai sarana promosi dan menawarkan produk kepada calon pembeli. Contoh lainnya adalah perubahan pandangan sosial masyarakat mengenai penggunaan bahan bakar minyak yang ternyata dapat didata jumlah konsumsinya per hari dan dapat mencegah pencurian bahan bakar tersebut melalui alat yang ditawarkan oleh Gemilang Technology.
+Technological adalah tren dari suatu industri yang berhubungan dengan kemajuan teknologi yang sedang terjadi. Perkembangan teknologi dapat membantu proses kinerja perusahaan baik dalam proses produksi maupun penjualan produk pada suatu industri. Contohnya, seperti go-jek yang menggunakan aplikasi sistem informasi yang dapat diakses oleh seluruh kalangan masyarakat. Hal ini memudahkan kedua sisi, baik perusahaan maupun konsumen dapat melakukan jual-beli dengan cepat dan mudah. Untuk menyesuaikan dengan perkembangan teknologi di Indonesia, Gemilang Technology akan menggunakan teknologi berbasis Arduino yang merupakan mikrokontroler dengan bahasa yang mudah dimengerti oleh manusia
+32
+
+sehingga apabila ingin melakukan perubahan terhadap produk tersebut, Gemilang Technology akan dapat merubahnya sesuai permintaan konsumen.
+Legal merupakan faktor yang mempengaruhi suatu industri berdasarkan pada hukum yang berlaku pada suatu negara tersebut. Setiap industri harus mengikuti hukum yang berlaku dalam suatu daerah. Setiap perusahaan yang didirikan di Indonesia wajib memiliki surat-surat perijinan usaha seperti SITU, SIUP, dan NPWP. Di Indonesia, seluruh perusahaan yang berada dalam industri teknologi mendaftarkan setiap produk yang akan dijual pada pemerintah untuk dipatenkan. Hal ini berupaya untuk membuat rasa aman bagi konsumen bahwa produk yang ditawarkan diakui dan telah melewati proses pengujian yang dilakukan oleh pemerintah. Jadi, Gemilang Technology akan mendaftarkan paten produk Fuel Theft Monitoring System kepada pemerintah.
+Business trend merupakan tren yang mempengaruhi industri tetapi tidak dipengaruhi oleh Environmental Trend. Contoh dari business trend yang ada saat ini pada industri teknologi adalah kamera yang memiliki teknologi wi-fi sehingga akan lebih praktis dalam mengirimkan hasil foto secara langsung ke telepon genggam. Business trend yang mempengaruhi pada penjualan Gemilang Technology adalah tren pertumbuhan jumlah kendaraan bermotor terus menerus setiap tahunnya. Selain itu, Gemilang Technology juga dapat melakukan bisnis partnership dengan perusahaan mobil dalam mengeluarkan produk baru.
+33
+
+3.6 Prospek Jangka Panjang Dengan kestabilan pertumbuhan yang dialami oleh industri teknologi. Gemilang Technology akan terus berinovasi membuat suatu produk yang baru tetapi tetap memiliki kualitas alat-alat terbaik, menawarkan fitur yang memudahkan bagi pelanggan, dan menggali kebutuhan pelanggan yang belum difasilitasi. Hal ini dilakukan agar dapat mengimbangi perkembangan teknologi yang terus berkembang dan menarik minat customer untuk membeli produk dan menggarap pasar baru melalui peluang yang berhasil digali.
+34
+
+BAB IV ANALISIS PASAR
+Setiap bisnis sebaiknya menganalisa pasar terlebih dahulu agar tidak salah dalam menentukan target pasar perusahaan. Analisa pasar merupakan bagian yang sangat penting dalam perencanaan bisnis karena membantu perusahaan untuk mendefinisikan segmentasi pasar dan mengenal karakteristik pasar serta pesaingnya. Dalam analisa pasar ini akan menjelaskan tentang segmentasi pasar, target pasar, konsumen dan pesaing, bagaimana bersaing di pasar tersebut, dan bagaimana potensi penjualan dan penguasaan pasar.
+4.1 Segmentasi Pasar Untuk menganalisa pasar, hal pertama yang Gemilang Technology lakukan adalah menentukan segmentasi pasar. Segmentasi pasar adalah pengelompokan pasar ke segmen pembeli dengan kebutuhan, karakteristik, atau perilaku yang memerlukan strategi pemasaran yang berbeda (Kotler 2014, 214). Segmentasi pasar juga melakukan pengelompokan dari suatu pasar secara geografis, demografis, psikografis dan tingkah laku.
+4.1.1 Geografis Segmentasi pasar berdasarkan geografis adalah pengelompokan pasar berdasarkan wilayah geografis seperti negara, daerah, bangsa, dan kota. Berdasarkan segmentasi
+35
+
+pasar geografis Gemilang Technology membuat beberapa kategori wilayah menjadi WDN I, WDN II, WDN III, dan WDN IV. Wilayah Distribusi Niaga (WDN) adalah pembagian wilayah yang dilakukan oleh Badan Pengatur Hilir Minyak dan Gas Bumi berdasarkan pulau-pulau di Indonesia. Wilayah Distribusi Niaga I meliputi Nanggroe Aceh Darussalam, Sumatera Utara, Sumatera Barat, Riau, Kepulauan Riau, Jambi, Bengkulu, Sumatera Selatan, Bangka Belitung, dan Lampung. Wilayah Distribusi Niaga II meliputi Banten, DKI Jakarta, Jawa Barat, Jawa Tengah, DI Yogyakarta, Jawa Timur, dan Bali. Wilayah Distribusi Niaga III meliputi Kalimantan Barat, Kalimantan Selatan, Kalimantan Timur, Kalimantan Tengah, Sulawesi Barat, Sulawesi Selatan, Sulawesi Tengah, Sulawesi Tenggara, Sulawesi Utara, Gorontalo, Maluku, Maluku Utara, Irian Jaya Barat, dan Papua. Wilayah Distribusi Niaga IV meliputi Nusa Tenggara Barat dan Nusa Tenggara Timur.
+Berdasarkan Tabel 4.1, dapat dilihat bahwa total kuota bahan bakar tertentu yang terdiri dari Premium, Minyak Tanah dan Solar dibagikan kepada setiap Wilayah Distribusi Niaga secara tidak merata. Total kuota bahan bakar yang didapatkan oleh Wilayah Distribusi Niaga I adalah 9.758.182 KL (Kiloliter). Total kuota bahan bakar yang didapatkan oleh Wilayah Distribusi Niaga II adalah 20.828.191 KL. Total kuota bahan bakar yang didapatkan oleh Wilayah Distribusi Niaga III adalah 6.023.989 KL (Kiloliter). Total kuota bahan bakar yang didapatkan oleh Wilayah Distribusi Niaga IV adalah 854.302 KL.
+36
+
+Berikut adalah tabel berdasarkan Kuota Volume Jenis BBM Tertentu Per Propinsi Tahun 2009 Berdasarkan Keputusan Menteri ESDM 2711/2009 (Bphmigas 2015):
+Tabel 4.1. Kuota Volume Jenis BBM Tertentu Per Propinsi Tahun 2009
+37
+
+Sumber: Bphmigas, 2015
+Gambar 4.1 Diagram Pie dari Data Tabel Kuota Volume Jenis BBM Tertentu Propinsi Tahun 2009 Sumber: Data olahan penulis, 2015
+Data pada tabel 4.2 menunjukkan realisasi subsidi bahan bakar minyak (BBM) yang didistribusikan per Wilayah Distribusi Niaga di kepulauan Indonesia pada tahun
+38
+
+2013. Pulau Jawa dan Bali (WDN II) mendapatkan realisasi subsidi BBM sebanyak 55 persen dari total realisasi subsidi BBM (Premium, Kerosene, Solar) secara keseluruhan. Sementara Wilayah Sumatera (WDN I) hanya mendapatkan 25 persen, diikuti oleh Wilayah Distribusi Niaga III (Kalimantan, Sulawesi dan Papua) mendapatkan 17 persen, serta Wilayah Distribusi Niaga IV (Nusa Tenggara) hanya mendapatkan dua persen dari total BBM yang didistribusikan di seluruh wilayah Indonesia. Berdasarkan gambar 4.1 dan gambar 4.2 dapat terlihat adanya ketimpangan distribusi BBM dari tahun 2009 ­ 2013 yang tidak mengalami perubahan terhadap persentase subsidi BBM yang diberikan oleh pemerintah.
+Gambal 4.2. Diagram Realisasi BBM Subsidi tahun 2013 berdasarkan Wilayah Distribusi Niaga (WDN) Sumber: www.bphmigas.go.id
+39
+
+4.1.2 Demografis Segmentasi pasar berdasarkan pada demografis adalah pengelompokan pasar yang dapat dilakukan berdasarkan pada usia, agama, jenis kelamin, pendidikan, pekerjaan dan tingkat pendapatan. Gemilang Technology melakukan segmentasi pasar demografis berdasarkan pendapatan ekonomi masyarakat. Gemilang Technology melihat dari pendapatan ekonomi masyarakat untuk dapat membagi kelas ekonomi konsumen, apakah konsumennya merupakan kelas menengah ke bawah, kelas menengah atau kelas menengah ke atas. Menurut Peraturan Menteri Perdagangan Republik Indonesia Nomor 46 tahun 2009 tentang Perubahan atas Peraturan Menteri Perdagangan Republik Indonesia Nomor 36/M-DAG/PER/9/2007 tentang Penerbitan Surat Izin Usaha Perdagangan, klasifikasi perusahaan kecil, menengah dan perusahaan besar adalah sebagai berikut (Kadinjakarta 2010) : 1. Klasifikasi Perusahaan Kecil adalah untuk perusahaan dengan kekayaan bersih
+lebih dari Rp 50.000.000 sampai dengan maksimum Rp 500.000.000 (tidak termasuk tanah dan bangunan tempat usaha). 2. Klasifikasi Perusahaan Menengah adalah perusahaan dengan kekayaan bersih lebih dari Rp 500.000.000 sampai dengan maksimum Rp 10.000.000.000 (tidak termasuk tanah dan bangunan tempat usaha). 3. Klasifikasi Perusahaan Besar adalah perusahaan dengan kekayaan bersih lebih dari Rp 10.000.000.000 (tidak termasuk tanah dan bangunan serta tempat usaha).
+40
+
+4.1.3 Psikografis Segmentasi pasar berdasarkan pada psikografis adalah pengelompokan pasar berdasarkan status sosial, gaya hidup, dan kepribadian akan nilai tertentu. Gemilang Technology melakukan segmentasi terhadap status sosial dari sebuah perusahaan. Segmentasi jabatan dimulai dari pemilik perusahaan, manajer, dan karyawan.
+
+4.1.4 Tingkah Laku
+
+Segmentasi pasar berdasarkan pada tingkah laku adalah pengelompokan pasar
+
+berdasarkan kesempatan, manfaat, status pengguna, pemakaian rata-rata, dan status
+
+loyalitas. Gemilang Technology melakukan segmentasi pasar berdasarkan manfaat
+
+produk. Manfaat produk yang ditawarkan dapat bermacam-macam jenisnya. Produk
+
+dapat bermanfaat pada bidang teknologi, pertanian, pertambangan, makanan, dan lain
+
+sebagainya.
+
+Segmentasi pasar yang digunakan oleh Gemilang Technology sebelum
+
+menentukan target pasar dapat dilihat pada tabel 4.3.
+
+Tabel 4.2 Segmentasi pasar Gemilang Technology
+
+Segmentasi
+
+Geografis
+
+Wilayah WDN I, WDN II, WDN III, dan WDN IV
+
+Tingkat Pendapatan
+
+Demografis
+
+Perusahaan kecil, perusahaan menengah, dan
+
+perusahaan besar
+
+Psikografis
+
+Status Sosial Pemilik perusahaan, Manajer, dan Karyawan
+
+Tingkah Laku
+Sumber : Data olahan penulis, 2015
+
+Manfaat produk
+Bidang teknologi, pertambangan, pertanian, makanan, otomotif, dan lain sebagainya.
+
+41
+
+4.2 Pemilihan Target Pasar Pemilihan target pasar adalah bagaimana perusahaan melakukan evaluasi dari segmentasi pasar yang telah dilakukan dan memilih satu atau lebih segmen untuk masuk ke dalam pasar (Kotler 2014, 214). Dalam menargetkan pasar juga dibagi kedalam tiga bagian, yaitu: geografis, demografis, psikografis, dan tingkah laku.
+4.2.1 Geografis Berdasarkan pada segmentasi yang telah ada, Gemilang Technology memilih daerah Wilayah Distribusi Negara III dan IV yaitu Kalimantan, Sulawesi, Papua, Maluku, NTT dan NTB. Dapat dilihat pada tabel karena daerah WDN III dan WDN IV mendapatkan kuota bahan bakar minyak yang paling sedikit diantara segmentasi yang ada. Sehingga dengan kuota bahan bakar minyak yang langka akan memperbesar kemungkinan terjadinya pencurian bahan bakar minyak. Maka, perusahaan pada daerah tersebut akan tertarik untuk membeli alat Fuel Theft Monitoring System yang ditawarkan oleh Gemilang Technology. Dengan alat ini, perusahaan-perusahaan sebagai konsumen akan dapat mengetahui kapan terjadinya pencurian dan akan merasa lebih aman karena dapat melakukan kontrol atau kendali terhadap truk atau sarana transportasi perusahaan.
+4.2.2 Demografis Berdasarkan pada segmentasi demografis yang telah dilakukan sebelumnya, Gemilang Technology memilih kategori tingkat pendapatan perusahaan dengan tujuan menargetkan produk kepada perusahaan menengah dan perusahaan besar.
+42
+
+Target utama yang dituju adalah perusahaan dengan tingkat pendapatan berkisar antara Rp 500.000.000 ­ Rp 1.000.000.000 atau lebih setiap bulannya. Dengan tingkat pendapatan yang tinggi seperti ini sudah pasti perusahaan ini merupakan perusahaan menengah atau perusahaan besar yang memiliki beberapa armada transportasi untuk menunjang kegiatan operasionalnya. Oleh karena itu, alat yang ditawarkan oleh Gemilang Technology dapat menjadi solusi bagi perusahaan tersebut yang merupakan target pasarnya.
+4.2.3 Psikografis Berdasarkan pada segmentasi psikografis, Gemilang Technology memilih kategori status sosial. Gemilang Technology bertujuan untuk menjaring customer yang memiliki perhatian khusus terhadap kendaraan angkutannya. Gemilang Technology menawarkan produk Fuel Theft Monitoring System dengan tujuan memposisikan produknya untuk menanggulangi masalah pencurian BBM yang sedang marak terjadi di Indonesia. Dalam hal ini, orang yang berperan penting dan peduli dengan kendaraannya adalah pemilik perusahaan. Apabila produk ini ditawarkan kepada seluruh kalangan masyarakat dengan status sosial yang berbeda-beda, belum tentu pembelian akan dilakukan karena tidak memenuhi kebutuhan para pembeli.
+4.2.4 Tingkah Laku Berdasarkan pada segmentasi tingkah laku, Gemilang Technology memilih kategori manfaat produk yang dicari. Oleh karena itu, Gemilang Technology hadir untuk menyediakan produk berguna bagi perusahaan yang memiliki kendaraan angkutan
+43
+
+dalam jumlah banyak, yaitu Fuel Theft Monitoring System. Produk ini berguna untuk
+
+mendeteksi apabila adanya pencurian BBM dan mengirimkan informasi pencurian
+
+secara langsung ke telepon genggam pemilik kendaraan (perusahaan). Selain itu,
+
+Gemilang Technology akan mendengarkan keluh kesah masyarakat terhadap
+
+permasalahan yang dihadapi dalam perusahaan untuk menunjang pengembangan
+
+produk ke arah yang lebih baik dan akan mempengaruhi tingkah laku pembelian
+
+konsumen karena manfaat beserta kualitas yang ditawarkan.
+
+Berikut ini Tabel 4.4 akan menunjukkan target pasar dari Gemilang Technology :
+
+Tabel 4.3 Target pasar Gemilang Technology
+Segmentasi Geografis
+Demografis
+Psikografis Tingkah Laku
+Sumber : Data olahan penulis, 2015
+
+Target Pasar WDN III dan WDN IV Perusahaan menengah dan perusahaan besar Pemilik perusahaan Manfaat produk pada bidang Teknologi
+
+4.3 Analisis Pesaing Dalam suatu industri akan terjadi persaingan kompetitif. Oleh karena itu, setiap perusahaan perlu melakukan analisis pesaing untuk mengetahui kelebihan dan kekurangan para pesaing dalam industri yang sama. Selain itu, perusahaan dapat menciptakan competitive advantage dengan membuat kekurangan pesaing menjadi keunggulan perusahaan. Barringer dan Ireland (2012, 175) menjelaskan tentang analisis pesaing:
+
+44
+
+"A competitor analysis is a detailed analysis of a firm's competitors. Once a firm decides to enter an industry and chooses a market in which to compete, it must gain an understanding of its competitive environment."
+Analisis pesaing dapat membantu perusahaan untuk mengetahui tentang posisi dari pesaing dan kesempatan dalam mendapatkan keuntungan dalam suatu daerah. Analisis pesaing dapat dikategorikan menjadi pesaing langsung, pesaing tidak langsung, dan pesaing masa depan.
+4.3.1 Pesaing Langsung Barringer dan Ireland (2012, 190) menjelaskan tentang direct competitors sebagai berikut:
+"These are business that offer products identical or similar to those of the firm completing the analysis. These competitors are the most important because they are going after the same customers as the new firm. A new firm faces winning over the loyal followers of its major competitors, which is difficult to do, even when the new firm has a better product."
+Dari pernyataan tersebut dikatakan bahwa pesaing langsung merupakan hal penting yang perlu diperhatikan, karena perusahaan tersebut yang memiliki target pasar yang sama. Sejauh ini, belum terlihat perusahaan pesaing yang menawarkan barang yang sama dengan Gemilang Technology.
+4.3.2 Pesaing Tidak Langsung Barringer dan Ireland (2012, 190) menjelaskan tentang definisi dari indirect competitors:
+"These competitors offer close substitutes to the product the firm completing the analysis sells. These firms' products are also important in that they target the same basic need that is being met by the new firm's product."
+45
+
+Dari pernyataan diatas dapat didefinisikan bahwa suatu pesaing tidak langsung adalah pesaing yang menawarkan produk pengganti atau substitute product untuk menggantikan produk yang ditawarkan oleh suatu perusahaan. Dalam hal ini pesaing tidak langsung yang dihadapi oleh Gemilang Technology adalah perusahaan yang menjual produk tracking, vehicle monitoring, GPS Tracking, dan lainnya. Contoh perusahaan yang menjual produk yang telah disebutkan di atas adalah IntelliTrac, Aetrax, Akari, dan lain sebagainya.
+4.3.3 Pesaing Masa Depan Barringer dan Ireland (2012, 190) menjelaskan tentang definisi dari future competitors:
+"These are companies that are not yet direct or indirect competitors but could move into one of these roles at any time. Firms are always concerned about strong competitors moving into their markets."
+Dari pernyataan diatas, dapat diartikan suatu pesaing masa depan adalah pesaing yang bukan secara langsung dan tidak langsung, tetapi bisa mempengaruhi suatu usaha dalam industri tersebut kapan saja. Suatu perusahaan biasanya hanya memperhatikan pesaing yang ada pada industri yang sama. Pesaing masa depan yang dihadapi oleh Gemilang Technology adalah perusahaan-perusahaan Start-up yang bekerja dengan teknologi internet.
+4.4 Perilaku Pembeli Business-to-business Setiap pelanggan memiliki tingkah laku yang berbeda-beda dalam melakukan pembelian sehingga Gemilang Technology harus mengetahui perilaku masing-masing
+46
+
+pelanggannya. Berikut ini adalah faktor-faktor yang mempengaruhi keputusan pembelian perusahaan Business-to-business (B2B):
+1) Kualitas Produk Kualitas produk harus dijaga sebaik mungkin karena merupakan hal yang mendasar bagi pelanggan untuk loyal pada suatu produk. Gemilang Technology akan menjaga kualitas standar produk dengan menggunakan komponen terpercaya, memberikan garansi satu tahun dan melakukan quality control untuk memastikan bahwa produk telah diuji dan dapat beroperasi dengan baik.
+2) Kualitas Layanan Kualitas pelayanan yang diberikan oleh perusahaan sebagai pemasok juga harus terjamin dan terpercaya. Pelayanan utama yang akan diberikan oleh Gemilang Technology kepada konsumen antara lain adalah kecepatan pelayanan dan daya tanggap serta keramahan karyawan ketika berinteraksi dengan pelanggan sehingga akan menghasilkan tanggapan baik dari pelanggan untuk kembali melakukan pembelian ke Gemilang Technology dan dapat menjalin hubungan jangka panjang yang baik. Selain itu, pelayanan yang diberikan oleh Gemilang Technology kepada pelanggan setelah melakukan pembelian produk adalah menyediakan jasa pemasangan produk tersebut pada perusahaan pengguna, menjelaskan cara penggunaan produk tersebut dengan jelas dan mendetail, menyediakan
+47
+
+servis apabila terjadi kerusakan, menyediakan garansi selama satu tahun apabila ada kegagalan sistem, dan menyediakan update software produk tersebut. 3) Harga Produk Harga merupakan salah satu faktor penting dalam keputusan pembelian customer. Hal ini dikarenakan harga akan mempengaruhi biaya yang dikeluarkan oleh pelanggan yang merupakan perusahaan pengguna. Apabila harga yang ditawarkan tidak sesuai dengan kualitas yang diberikan, maka pelanggan akan berpindah kepada pemasok lainnya. Gemilang Technology akan menentukan harga yang terjangkau dan sesuai dengan kualitas yang ditawarkan sehingga pelanggan akan loyal terhadap produk yang ditawarkan oleh Gemilang Technology. Berdasarkan data kuisioner yang telah dibagikan kepada 50 responden. Gambar 4.3 memperlihatkan persentase jabatan yang memberikan perhatian lebih terhadap transportasi perusahaan adalah pemilik perusahaan dengan persentase 48%. Sedangkan manajer hanya 17% dan karyawan lainnya memiliki persentase 35%. Hal ini dapat terlihat dari perhatian pemilik perusahaan yang berinisiatif untuk melakukan pemeriksaan kilometer perjalanan masing-masing transportasinya dan disesuaikan dengan jumlah konsumsi bahan bakar minyak transportasi tersebut.
+48
+
+Gambar 4.3 Kuisioner jabatan yang memberikan perhatian terhadap transportasi perusahaan Sumber: Data olahan penulis, 2015
+Gambar 4.4 Kuisioner lokasi yang pernah mengalami permasalahan biaya operasional bahan bakar yang berlebihan dalam kurun waktu tertentu Sumber: Data olahan penulis, 2015
+Berdasarkan hasil kuisioner didapatkan data bahwa permasalahan biaya operasional bahan bakar yang berlebihan dalam kurun waktu tertentu lebih sering terjadi pada daerah di luar Pulau Jawa seperti Pulau Kalimantan, Sumatera dan Papua. Dapat terlihat bahwa tingkat persentase tertinggi terjadi di Pulau Kalimantan (34%,) diikuti dengan Pulau Sumatera (32%), dan Papua dengan persentase 20%.
+49
+
+Gambar 4.5 Kuisioner pendapatan perusahaan per bulan yang pernah mengalami permasalahan biaya operasional bahan bakar yang berlebihan dalam kurun waktu tertentu Sumber: Data olahan penulis, 2015
+Selain itu, perusahaan yang pernah mengalami permasalahan biaya operasional bahan bakar yang berlebihan dalam kurun waktu tertentu ini memiliki pendapatan berada pada Rp 500.000.000 ­ 1.000.000.000 dengan persentase 46% (Perusahaan kelas menengah) diikuti oleh perusahaan besar dengan pendapatan lebih dari Rp 1.000.000.000 (30%) dan perusahaan kecil Rp 100.000.000 ­ 500.000.000 (24%).
+Gambar 4.6 Kuisioner jumlah armada perusahaan yang mengalami permasalahan mengenai transportasi
+50
+
+Sumber: Data olahan penulis, 2015
+Sedangkan pada Gambar 4.6 dapat dilihat hasil persentase jumlah armada perusahaan yang pernah mengalami permasalahan biaya operasional bahan bakar yang berlebihan dalam kurun waktu tertentu adalah 48% dimana jumlah armada 1020 armada, diikuti oleh lebih dari 20 jumlah armada (32%) dan kurang dari 10 jumlah armada (20%).
+Gambar 4.6 Kuisioner jumlah armada perusahaan yang mengalami kejadian pencurian bahan bakar Sumber: Data olahan penulis, 2015
+Menurut hasil survey, persentase penilaian responden yang mengatakan bahwa alat ini berguna adalah 96%, sisanya 4% dikatakan tidak berguna karena menurut responden belum maraknya terjadi pencurian dan dianggap kurang efektif bagi perusahaan khususnya di daerah Pulau Jawa.
+Berdasarkan diagram survey pada Gambar 4.7 dapat dilihat bahwa cukup banyak perusahaan yang pernah mengalami permasalahan biaya operasional bahan
+51
+
+bakar dalam kurun waktu tertentu dengan persentase 70%. Sedangkan persentase perusahaan yang tidak pernah mengalami permasalahan ini adalah 30%.
+Gambar 4.7 Kuisioner pernah tidaknya perusahaan yang mengalami permasalahan biaya operasional bahan bakar yang berlebihan dalam kurun waktu tertentu Sumber: Data olahan penulis, 2015
+Gambar 4.8 Kuisioner bahwa perusahaan melakukan pemeriksaan jumlah kilometer perjalanan yang ditempuh setiap transportasinya Sumber: Data olahan penulis, 2015
+52
+
+Dapat terlihat berdasarkan diagram diatas bahwa persentase perusahaan yang melakukan pemeriksaan jumlah kilometer perjalanan yang ditempuh oleh setiap armada perusahaan adalah 42%. Hal ini kurang baik, karena seharusnya perusahaan melakukan pemeriksaan terhadap kilometer perjalanan setiap kendaraannya untuk mengetahui penggunaan bahan bakar setiap kendaraan yang sebenarnya. Apabila tidak ada sistem pemeriksaan terhadap kilometer, maka kesempatan pencurian dapat terjadi kapan saja karena tidak adanya kendali perusahaan untuk mengetahui hal tersebut.
+Gambar 4.9 Kuisioner kesesuaian antara jumlah kilometer dengan jumlah konsumsi bahan bakar minyak setiap kendaraan Sumber: Data olahan penulis, 2015
+Setelah melakukan pemeriksaan, ternyata cukup banyak perusahaan yang menemukan ketidaksesuaian penggunaan bahan bakar dengan jumlah kilometer yang ditempuh oleh setiap kendaraannya. Hal ini dapat terlihat bahwa persentase ketidaksesuaian berdasarkan survey adalah 64%. Berdasarkan hasil survey pada
+53
+
+Gambar 4.10, harga yang pantas bagi produk Fuel Theft Monitoring System adalah kurang dari Rp 3.000.000 dengan persentase 86%.
+Gambar 4.10 Kuisioner harga yang pantas untuk produk Fuel Theft Monitoring System Sumber: Data olahan penulis, 2015
+54
+
+BAB V PERENCANAAN PEMASARAN
+Perencanaan pemasaran merupakan salah satu hal yang dapat berpengaruh dalam perkembangan suatu usaha bisnis. Rencana pemasaran yang baik dapat berdampak baik dalam menunjang keberhasilan bisnis yang didirikan. Faktor penting dalam menciptakan nilai tersebut adalah produksi, pemasaran dan konsumsi. Pemasaran menjadi penghubung antara kegiatan produksi dan konsumsi. 5.1 Analisis SWOT Menurut Johnson (2012, 119) tujuan analisis SWOT Analysis adalah sebagai berikut:
+"SWOT summarises the key issues from the business environment and the strategic capability of an organisation that are most likely to impact on strategy development. This can also be useful as a basis against which to generate strategic options and assess future courses of action."
+Analisis SWOT merupakan kunci utama dalam lingkungan bisnis dan kemampuan yang dimiliki oleh sebuah perusahaan yang berpengaruh terhadap perkembangan strategi. Analisis SWOT bertujuan untuk membantu usaha bisnis dalam melihat keadaan internal dan eksternal yang berkaitan dengan perusahaan dan pasar. Dengan mengetahui keadaan internal dan eksternal, perusahaan dapat merumuskan strategi yang sesuai. Analisis melihat hubungan antara kekuatan dan kelemahan yang merupakan faktor internal perusahaan. Kekuatan dan kelemahan dari suatu bisnis
+55
+
+dapat dilihat berdasarkan kapabilitas dan sumber daya yang dimiliki terhadap kesempatan dan ancaman yang merupakan faktor eksternal perusahaan. Berikut ini adalah Strengths, Weaknesses, Opportunity, dan Threats dari Gemilang Technology :
+1. Strengths Strengths merupakan kekuatan yang berasal dari faktor internal perusahaan seperti kapabilitas, sumber daya manusia, sumber daya alam, dan positive situational factors seperti loyalitas pelanggan, kualitas produk, dan kualitas pelayanan (Kotler 2014, . Kekuatan ini dapat membantu perusahaan dalam melayani pelanggan dan mencapai tujuan perusahaan. merupakan kekuatan yang dimiliki oleh suatu perusahaan. Gemilang Technology merupakan perusahaan yang mengutamakan kualitas produk bagi perusahaan penggunanya dan menawarkan produk sebagai solusi terbaik untuk memenuhi kebutuhan pelanggan dalam meningkatkan pengembangan perusahaan khususnya kegiatan operasional perusahaan. Kualitas layanan yang tawarkan oleh Gemilang Technology kepada perusahaan pengguna adalah tersedianya jasa pemasangan produk, menyediakan servis apabila terjadi kerusakan dan fasilitas untuk update versi software. Gemilang Technology juga memilih pemasok alat-alat (Integrated Circuit) yang terpercaya sehingga Gemilang Technology akan mendapatkan alat-alat dengan kualitas yang baik. Semua produk yang dibuat oleh Gemilang Technology akan melewati tahap quality control dimana setiap produk akan diperiksa kembali kinerja dan daya keakuratannya. Selain itu, konsep desain
+56
+
+produk dari Gemilang Technology juga dibuat dengan praktis dan user friendly (mudah untuk digunakan). 2. Weaknesses Weaknesses merupakan faktor internal yang dimiliki oleh perusahaan yang dapat bertentangan untuk menunjang performa perusahaan sehingga menjadi kelemahan perusahaan dan dapat membawa pengaruh buruk terhadap kelangsungan suatu usaha bisnis. Weaknesses juga menjadi faktor penghambat dalam mencapai dari visi dan tujuan perusahaan. Kelemahan yang terdapat pada Gemilang Technology adalah sebagai perusahaan start-up biasanya merek dari bisnis ini belum dikenal oleh calon pembeli. Selain itu, masih terbatasnya wilayah distribusi pada seluruh daerah di Indonesia karena Gemilang Technology belum memiliki distributor atau kantor cabang pada seluruh daerah. Hal ini dikarenakan modal sebagai perusahaan pemula yang belum cukup untuk membuka kantor cabang di daerah. Akan tetapi, hal ini akan menjadi target pengembangan perusahaan Gemilang Technology untuk dapat secepatnya membuka kantor cabang di wilayah-wilayah yang khususnya merupakan target pasar.
+3. Opportunities Opportunities merupakan faktor pendukung atau tren yang terdapat dari lingkungan eksternal perusahaan dan dapat dimanfaatkan oleh perusahaan menjadi keuntungan. Kesempatan merupakan faktor pendukung yang dapat menunjang kelangsungan dari suatu perusahaan karena peluang yang ada dapat dimanfaatkan oleh perusahaan untuk
+57
+
+bersaing dalam industrinya. Melihat banyaknya kejadian pencurian bahan bakar kendaraan yang terjadi akhir-akhir ini di Indonesia dan hal ini akan menghambat perusahaan dalam hal efisiensi untuk dapat menekan biaya BBM yang dikeluarkan oleh perusahaan. Setelah mendengar banyaknya kejadian pencurian BBM, Gemilang Technology melakukan penelitian melalui wawancara mengenai modus pencurian bahan bakar yang terjadi pada pemilik perusahaan yang sering mengalami pencurian BBM.
+Berikut ini adalah data hasil wawancara yang dilakukan untuk mendapatkan informasi mengenai pencurian BBM yang telah terjadi pada beberapa perusahaan. 1. Untuk kendaraan truk dengan enam roda seharusnya jarak tempuh rata-rata untuk
+menghabiskan setiap 1 liter bahan BBM adalah 8 kilometer. 2. Waktu yang dibutuhkan dalam pencurian BBM, yaitu berkisar antara 10-30 menit
+mulai dari proses memberhentikan kendaraan, mempersiapkan alat-alat (Selang dan jerigen), membuka tangki, menyedot BBM, dan menutup kembali lalu menjual jerigen ke penjual eceran BBM di pinggir jalan. Lalu, untuk proses penyedotan bahan bakar itu sendiri berkisar antara 2 - 5 menit. 3. Jumlah liter pencurian BBM kendaraan yang diambil tergantung dari jumlah BBM yang telah terisi atau tersedia pada tangki kendaraan. Biasanya berkisar antara 10 liter sampai dengan 40 liter dari kapasitas tangki 100 liter. Berdasarkan hasil wawancara ini dapat dilihat besarnya biaya BBM yang dikeluarkan oleh perusahaan karena adanya pencurian BBM dengan perhitungan sebagai berikut:
+58
+
+Tabel 5.1 Biaya BBM yang dikeluarkan oleh perusahaan per tahun
+
+Jumlah Liter
+10 Liter 20 Liter 30 Liter 40 Liter
+
+Harga
+
+Premium Rp 7,400 Rp 7,400 Rp 7,400 Rp 7,400
+
+Solar Rp 6,700 Rp 6,700 Rp 6,700 Rp 6,700
+
+Biaya BBM per bulan
+Premium Solar 296,000 268,000 592,000 536,000 888,000 804,000 1,184,000 1,072,000
+
+Biaya BBM per tahun
+
+Premium 3,552,000 7,104,000 10,656,000 14,208,000
+
+Solar 3,216,000 6,432,000 9,648,000 12,864,000
+
+Sumber: Data olahan penulis, 2015
+
+Berdasarkan data pada tabel 5.1 dapat dilihat biaya yang menjadi faktor
+
+penambah dalam biaya BBM perusahaan akibat pencurian BBM sesuai dengan
+
+jumlah liter yang dicuri. Sebagai contoh, apabila pencurian dilakukan sebanyak 10
+
+liter setiap minggu sekali maka biaya yang dikeluarkan perusahaan setiap tahunnya
+
+akan meningkat sebanyak Rp 3.552.000 (premium) dan Rp 3.216.000 (solar). Biaya
+
+BBM yang dikeluarkan oleh perusahaan akan meningkat akibat frekuensi pencurian
+
+yang terjadi dan dapat menghambat kinerja perusahaan dalam mendanai seluruh
+
+kegiatan perusahaan. Oleh karena itu, Gemilang Technology melihat hal ini sebagai
+
+peluang besar untuk dapat memasuki industri dan menjadi pelopor menciptakan
+
+solusi bagi masyarakat khususnya perusahaan. Selain itu, karena hingga saat ini
+
+belum ada perusahaan lain yang mulai melakukan penelitian dan mencoba membuat
+
+produk yang dapat menjadi solusi atas permasalahan ini.
+
+59
+
+4. Threats
+
+Threats merupakan faktor yang tidak mendukung atau tren yang dapat menimbulkan
+
+tantangan bagi performa perusahaan. Tantangan ini biasanya bersifat ancaman yang
+
+akan dihadapi oleh suatu usaha bisnis dalam kelangsungan bisnisnya pada saat ini
+
+maupun di masa yang akan datang. Oleh karena itu, perusahaan harus mengawasi
+
+keadaan pasar dan pesaing langsung maupun tidak langsung yang dapat
+
+mempengaruhi performa dari perusahaan. Hingga saat ini, Gemilang Technology
+
+belum memiliki pesaing langsung. Tetapi maraknya pesaing tidak langsung yang
+
+menawarkan produk, seperti GPS Tracking, Vehicle Monitoring, dan lainnya dapat
+
+menjadi ancaman yang dihadapi oleh Gemilang Technology. Walaupun bukan
+
+merupakan produk yang sejenis dengan produk yang ditawarkan oleh Gemilang
+
+Technology, tetapi ada saja kemungkinan kompetitor untuk melakukan ekspansi
+
+product line setelah melihat produk baru ini.
+
+Tabel 5.2 SWOT yang dimiliki Gemilang Technology
+
+Strengths Weaknesses Opportunities
+
+- Kualitas produk dengan garansi, menggunakan komponen terpercaya dan adanya quality control.
+- Kualitas layanan servis, jasa pemasangan fasilitas update software.
+- Merek belum dikenal oleh calon pelanggan. - Terbatasnya wilayah distribusi. - Modal yang masih relatif kecil. Sebagai pelopor karena belum adanya perusahaan yang mencoba mengembangkan produk yang berfungsi untuk mendeteksi pencurian bahan bakar minyak kendaraan.
+
+60
+
+Threats
+Sumber : Data olahan penulis, 2015
+
+Banyaknya pesaing tidak langsung yang bergerak di industri yang sama.
+
+5.1.1 Strategi Kekuatan dan Kesempatan
+
+Strategi ini merupakan kombinasi antara kekuatan dan kesempatan dari Gemilang
+
+Technology. Kesempatan Gemilang Technology adalah menjadi pelopor karena
+
+melihat belum adanya perusahaan lain yang mengadopsi ide tentang pencurian BBM
+
+di Indonesia untuk menciptakan sebuah produk. Untuk menjadi pelopor produk Fuel
+
+Theft Monitoring System, Gemilang Technology akan memberikan kualitas terbaik
+
+dengan memilih pemasok alat-alat (Integrated Circuit) yang terpercaya sehingga
+
+Gemilang Technology akan menciptakan produk dengan kualitas yang baik. Selain
+
+itu, Gemilang Technology memberikan garansi satu tahun dan memberikan layanan
+
+seperti jasa pemasangan, fasilitas untuk update software dan layanan servis serta
+
+semua produk yang dibuat oleh Gemilang Technology akan diperiksa kembali kinerja
+
+dan daya keakuratannya. Dengan harapan segala hal yang diberikan oleh Gemilang
+
+Technology dapat menciptakan brand awareness pada pelanggan dan menciptakan
+
+WOM (word of mouth) yang positif terhadap perusahaan.
+
+5.1.2 Strategi Kelemahan dan Kesempatan Strategi ini diambil berdasarkan kombinasi antara kelemahan dan kesempatan yang dimiliki oleh Gemilang Technology. Kesempatan Gemilang Technology adalah menjadi pelopor dan pencipta produk baru yang dapat menjadi solusi terhadap permasalahan yang dihadapi oleh masyarakat seperti pencurian BBM. Namun hal
+
+61
+
+tersebut tidak akan terjadi jika kelemahan dari Gemilang Technology tidak dapat ditanggulangi. Adapun kelemahan dari Gemilang Techology adalah wilayah distribusi yang belum cukup kuat pada daerah-daerah tertentu untuk menjangkau hampir seluruh daerah masyarakat yang membutuhkan produk tersebut. Strategi yang dapat dilakukan oleh Gemilang Technology agar modal perusahaan bertambah adalah dengan cara memaksimalkan penjualan perusahaan setiap bulannya. Dengan begitu, modal akan bertambah dan dapat digunakan untuk perluasan wilayah distribusi dengan membuka kantor cabang pada daerah yang berpotensi lainnya. Selain itu, Gemilang Technology akan menyediakan layanan teknisi yang dapat melakukan instalasi langsung pada kendaraan konsumen. Penyebaran informasi melalui media sosial, websites dan online shop juga akan dijalankan secara efektif guna untuk menjangkau seluruh wilayah di Indonesia.
+5.1.3 Strategi Kekuatan dan Ancaman Ancaman merupakan hambatan yang dapat berdampak dalam perkembangan usaha, oleh sebab itu penting bagi perusahaan untuk segera mengatasinya. Strategi ini merupakan cara untuk menangkal atau menanggulangi masalah yang ada pada usaha yang merupakan kombinasi antara kekuatan dan ancaman. Dengan adanya kemungkinan para pesaing tidak langsung untuk melakukan ekspansi product line produk sejenis di pasaran merupakan suatu hal yang menjadi masalah utama bagi Gemilang Technology sehingga Gemilang Technology akan terus menciptakan brand
+62
+
+awarness yang tinggi dengan menawarkan kualitas terbaik bagi pelanggannya dan membentuk citra yang baik di benak perusahaan pengguna.
+5.1.4 Strategi Kelemahan dan Ancaman Strategi ini merupakan kombinasi antara kelemahan dan ancaman yang ada pada Gemilang Technology. Dimana merek yang belum kuat dan wilayah distribusi yang menjadi kelemahan pada perusahaan serta adanya kemungkinan para pesaing tidak langsung untuk melakukan ekspansi product line produk sejenis di pasaran. Oleh sebab itu, Gemilang Technology melakukan marketing program yang bertujuan untuk meningkatkan brand awareness pada produk yang akan berdampak pada menguatnya merek Gemilang Technology.
+Kekuatan
+
+Kesempatan
+
+Ancaman
+
+Kelemahan
+63
+
+Gambar 5.1 Diagram kombinasi antara kekuatan, kelemahan, kesempatan dan ancaman Sumber : Data olahan penulis, 2015
+5.2 Strategi Pemasaran Secara Umum Pemasaran adalah sebuah peroses dimana perusahaan menciptakan nilai bagi customers dan membangun hubungan jangka panjang yang baik dengan tujuan untuk mengabadikan nilai yang didapatkan dari pelanggan (Kotler 2014, 27).
+Gemilang Technology merupakan suatu badan usaha yang hadir dalam masyarakat untuk menyediakan produk-produk inovasi dalam bidang teknologi yang berguna bagi pengembangan perusahaan khususnya secara operasional. Target market utama bagi Gemilang Technology adalah perusahaan menengah dan perusahaan yang memiliki pendapatan diantara Rp 500.000.000 ­ Rp 1.000.000.000 atau lebih per bulan. Strategi pemasaran Gemilang Technology bertujuan untuk membuat calon pelanggan sadar bahwa Gemilang Technology adalah sebuah perusahaan yang menyediakan produk teknologi sebagai solusi atas permasalahan yang dihadapi oleh perusahaan. Gemilang Technology memberikan kualitas dan jaminan terbaik bagi perusahaan pengguna serta menciptakan produk yang user friendly sehingga mudah untuk digunakan. Adapun strategi pemasaran yang akan diimplikasikan oleh Gemilang Technology adalah dengan promosi, advertising, sponsorships dan word-of-mouth. Strategi pemasaran juga merupakan tanggung
+64
+
+jawab bagi seluruh stakeholder dalam perusahaan sehingga setiap proses operasional yang terjadi dalam Gemilang Technology harus memberikan dampak positif bagi perusahaan.
+Tagline yang dimiliki oleh Gemilang Technology adalah "We provide you better technologies to improve efficiency of company's operational cost", yang berarti bahwa setiap pelanggan akan mendapatkan solusi untuk dapat meningkatkan efisiensi biaya operasional perusahaan dalam segala sektor yang dapat dibantu oleh teknologi.
+5.3 Competitive Advantage Menurut Robbins dan Coulter (2012, 232) keunggulan kompetitif atau competitive advantage adalah:
+"Competitive advantage, which is what sets an organization apart ­ that is, its distinctive edge. That distinctive edge can come from the organization's core competencies by doing something that others cannot do or doing it better than others can do it."
+Keunggulan kompetitif perusahaan yang didapatkan dengan kemampuan perusahaan dalam melakukan diferensiasi untuk menyediakan superior customer value. Diferensiasi merupakan cara yang dapat dilakukan perusahaan dengan menawarkan harga terjangkau tetapi dengan kualitas terbaik, menambahkan product line dengan fitur dan manfaat yang bermanfaat bagi pelanggan, dan hal lain sebagainya yang dapat menjadi faktor pembeda antara perusahaan dengan pesaing langsung maupun tidak langsung. Beberapa faktor yang merupakan keunggulan kompetitif Gemilang Technology adalah:
+65
+
+1. Konsep desain yang simple dan user friendly sehingga tidak membuat konsumen merasa kesulitan dalam mengoperasikan produk Gemilang Technology.
+2. Harga yang terjangkau dengan kualitas produk yang tinggi serta pelayanan yang maksimal juga merupakan salah satu competitive advantage yang dimiliki oleh Gemilang Technology.
+3. Konsep produk yang diciptakan sesuai dengan kebutuhan pelanggan yang ditampung terlebih dahulu sehingga produk ini akan memenuhi kebutuhan pelanggan dan memiliki daya tarik tersendiri.
+5.4 Product Position Menurut (Kotler 2014, 232) definisi dari product position adalah :
+"The way a product is defined by consumers on important attributes the place the product occupies in consumers' minds relative to competing products."
+Product position adalah bagaimana citra suatu produk di benak konsumen yang berkaitan dengan persaingan produk. Fungsi product positioning bagi Gemilang Technology adalah untuk menanamkan citra baik di mata konsumen bahwa produk Gemilang Technology merupakan produk superior yang memiliki kualitas dan desain produk terbaik sehingga akan menciptakan brand awareness bahwa Gemilang Technology merupakan perusahaan yang terpercaya dalam bidang teknologi dengan menciptakan produk yang handal dan memberikan pelayanan terbaik.
+66
+
+5.5 Strategi Penentuan Harga Harga adalah jumlah uang yang akan dibayar oleh customers untuk membeli sebuah produk. Selain itu, harga yang diberikan oleh perusahaan juga mencerminkan kualitas dari produk yang ditawarkan. Oleh sebab itu, harga harus ditentukan dengan tepat sehingga product position tidak rusak. Menurut Barringer dan Ireland (2012, 395), Ada dua tipe strategi penentuan harga, yaitu Cost-Based Pricing dan Value-Based Pricing. - Cost-Based Pricing
+"In cost-based pricing, the list price is determined by adding markup percentage to a product's cost."
+Dari pernyataan di atas, Cost-based pricing merupakan metode penentuan harga produk yang ditentukan dengan menambahkan persentase markup dari cost produk. - Value-Based Pricing
+"In value-based pricing, the list price is determined by estimating what consumers are willing to pay for a product and backing off a bit to provide a cushion."
+Dari pernyataan di atas, Value-based pricing merupakan metode penentuan harga produk atau jasa yang diambil berdasarkan keinginan pelanggan untuk membayar suatu produk. Dimana perceived value dan banyaknya pilihan produk lain di pasar menjadi tolak ukur berapa besar pelanggan rela untuk membayar suatu produk.
+Gemilang Technology akan menggunakan value-based pricing dimana harga dari produk akan ditentukan berdasarkan benefit dan value yang ditanamkan kepada
+67
+
+produk yang ditawarkan. Hal ini dikarenakan value-based pricing merupakan penetapan harga yang melibatkan pelanggan sebagai salah satu tolak ukur dalam penentuan harga yang juga diimbangi dengan pemberian pelayanan tinggi kepada konsumen.
+5.6 Strategi Promosi Promosi merupakan salah satu upaya bagi usaha untuk menginformasikan masyarakat mengenai produk yang ditawarkan selain itu promosi juga merupakan cara untuk meningkatkan penjualan dari perusahaan yang pada akhirnya akan berbanding lurus pada total penjualan sehingga dapat menaikan profit. Gemilang Technology akan menggunakan beberapa cara sebagai strategi promosi, yaitu: 1) Media Sosial
+Melakukan promosi dengan menggunakan media sosial merupakan cara promosi yang sering kali digunakan pada dewasa ini, dimana teknologi sudah semakin meningkat dan intensitas masyarakat untuk dalam menggunakan media sosial tinggi. Selain itu cost yang dikeluarkan oleh usaha tidak signifikan namun dapat menjaga dan menjalin hubungan baik dengan pelanggan serta dapat menyebarkan informasi mengenai promo dan penawaran produk terbaru dengan cepat kepada masyarakat. Gemilang Technology akan menggunakan media sosial sebagai salah satu alat promosi untuk melakukan interaksi dan menjalin hubungan dengan pelanggan. Media sosial yang sampai saat ini sudah digunakan dan akan terus
+68
+
+dikembangkan adalah Twitter, Instagram, dan Facebook. Untuk kedepannya Gemilang Technology akan mulai menggunakan website. 2) Sponsorship Sponsorship bertujuan untuk meningkatkan awareness masyarakat terhadap perusahaan. Oleh sebab itu, Gemilang Technology akan berencana untuk melakukan kegiatan sponsorship dengan beberapa acara yang diselenggarakan oleh perusahaan, universitas, sekolah, dan sebagainya, khususnya bagi acara yang berhubungan dengan manajemen perusahaan, bahan bakar dan transportasi. 3) Word of Mouth Word of mouth merupakan alat promosi dari Guerilla Marketing yang paling efektif dimana word of mouth diperoleh dari feedback pelanggan karena mendapatkan superior value dari produk yang dilihat dari kualitas dan pelayanan dari perusahan. Kualitas dan pelayanan dari Gemilang Technology akan dijaga agar tetap diatas standar sehingga Gemilang Technology akan menciptakan superior customer satisfaction dimana pelanggan akan secara rela merekomendasikan dan memberikan feedback positif mengenai Gemilang Technology kepada orang lain.
+69
+
+BAB VI TIM MANAJEMEN DAN STRUKTUR PERUSAHAAN
+Menurut Barringer (2012, 117), a new venture team adalah:
+"A new venture team is the group of founders, key employees, and advisers that either manage or help manage a new business in its start-up years."
+Suatu tim dari perusahaan baru adalah kelompok dari beberapa pendiri, key employees, dan penasehat yang akan mengelola atau membantu dalam proses pengelolaan pada tahun awal perusahaan berdiri. Tim manajemen bertanggung jawab untuk menjalankan fungsi manajemen, yaitu planning, organizing, staffing, leading, dan controlling (Dessler 2013, 30). Struktur perusahaan adalah suatu susunan dan hubungan antara tiap bagian serta posisi yang ada pada suatu perusahaan dalam menjalankan kegiatan operasional untuk mencapai tujuan perusahaan. Struktur perusahaan menggambarkan dengan jelas pemisahan pekerjaan antara masing-masing sumber daya manusia perusahaan serta bagaimana batasan antara hubungan aktivitas dan fungsi.
+Untuk awal start-up saat ini, pemilik Gemilang Technology mengelola perusahaan dengan campur tangan diri sendiri. Pemilik dari Gemilang Technology
+70
+
+adalah Jennifer Novia Nursalim. Namun, Gemilang Technology ingin memperluas struktur organisasi perusahaan di masa yang akan datang. Hal ini ditujukan agar kinerja perusahaan lebih efektif dan produktif. Untuk saat ini, Gemilang Technology akan mempekerjakan 15 orang karyawan pada awal operasionalnya dimana terdapat 4 orang yang berperan sebagai karyawan operasional yang bertugas untuk kegiatan produksi dan melayani pelanggan, 3 orang berperan sebagai teknisi dan programmer yang bertanggung jawab terhadap pemrograman produk dan setiap kerusakan yang terjadi, 2 orang bertugas sebagai sales yang akan bertugas untuk melakukan penjualan, 2 orang yang bertugas dalam bagian marketing yang akan merumuskan strategi pemasaran produk dan 2 orang berperan sebagai accounting yang bertugas untuk mencatat keluar masuknya biaya perusahaan serta membuat laporan keuangan.
+6.1 Tim Manajemen Tim manajemen adalah sekumpulan orang memberikan kontribusi dalam suatu perusahaan untuk mencapai tujuan perusahaan. Susunan manajemen yang baik akan mempengaruhi produktivitas yang menunjang performa perusahaan ke arah yang lebih baik. Hal ini membuat pengambilan keputusan menjadi lebih efektif karena setiap tim manajemen akan menjadi lebih fokus dalam memilih dan menjalankan strategi serta tanggung jawab masing-masing dengan maksimal. Rincian dari tugas yang akan dilaksanakan setiap tim manajemen adalah sebagai berikut:
+1. Pemilik dan General manager
+71
+
+Jabatan ini dipegang oleh Jennifer Novia Nursalim dengan tanggung jawab dan tugas sebagai berikut: a. Bertanggung jawab atas seluruh kegiatan perusahaan baik dalam operasional,
+promosi, keuangan, produksi dan lain sebagainya. b. Bertanggung jawab dalam pengambilan keputusan. c. Memberikan motivasi kepada karyawan agar dapat memberikan performa
+yang optimal. d. Membuat Standard Operation Procedure (SOP) bagi setiap karyawan. e. Menciptakan suasana kerja yang nyaman dan kondusif . f. Mendelegasikan wewenang, memberikan pertimbangan dan penilaian
+terhadap kinerja seluruh karyawan. g. Memiliki peranan penting sebagai pemimpin dan memiliki kendali atas
+perusahaan.
+2. Bagian Pemasaran, 2 orang Tugas dan tanggung jawab bagian pemasaran: a. Bertanggung jawab dalam menyusun strategi pemasaran yang tepat. b. Melakukan koordinasi dengan tim penjualan untuk dapat melakukan promosi terhadap produk yang ditawarkan oleh perusahaan
+3. Bagian Penjualan, 2 orang Tugas dan tanggung jawab bagian penjualan: a. Bertanggung jawab dalam menyusun strategi penjualan
+72
+
+b. Berinteraksi dengan konsumen dan melakukan penawaran kepada calon konsumen.
+c. Melakukan survey dan kunjungan kepada konsumen secara berkala. d. Bertanggung jawab terhadap target pencapaian penjualan yang sudah
+ditentukan. 4. Bagian Keuangan, 2 orang
+Tugas dan tanggung jawab bagian keuangan: a. Membuat laporan keuangan dalam perusahaan mulai dari laporan arus kas,
+neraca, laporan rugi laba, dan laporan lainnya. b. Bertanggung jawab atas laporan keuangan yang telah dibuat. 5. Teknisi dan Programmer, 3 orang Tugas dan tanggung jawab karyawan bagian teknisi dan programmer: a. Bertanggung jawab atas kerusakan yang terjadi pada alat yang ditawarkan. b. Melakukan update software secara rutin agar kinerja alat yang dijual
+memberikan performa maksimal. c. Bertanggung jawab dalam pengembangan teknologi yang berguna bagi
+kebutuhan konsumen. d. Mendengarkan keluhan pelanggan dan bertanggung jawab untuk melakukan
+servis atas keluhan tersebut. e. Memberikan jasa pemasangan produk apabila pelanggan memintanya.
+6. Bagian operasional dan produksi, 4 orang
+73
+
+Tugas dan tanggung jawab karyawan bagian operasional dan produksi: a. Bertanggung jawab dalam melayani konsumen. b. Bertanggung jawab atas kegiatan produksi perusahaan. c. Memperhatikan proses pembuatan produk sesuai dengan standar yang sudah
+ditentukan. d. Menjaga kebersihan peralatan produksi. e. Melakukan pekerjaan sesuai dengan Standard Operation Procedure (SOP)
+yang berlaku.
+6.2 Kepemilikan Pengeluaran modal seluruhnya berasal dari modal pendiri. Hal ini dikarenakan Gemilang Technology berdiri atas kepemilikan tunggal yang dipegang oleh Jennifer Novia Nursalim. Sehingga seluruh pendapatan bersih dari Gemilang Technology akan menjadi pendapatan bagi pemilik itu sendiri.
+6.3 Kompensasi Gemilang Technology menginginkan para pekerja yang terampil, memiliki etiket baik terhadap pelanggan, dan memberikan kontribusi yang baik bagi perusahaan. Untuk itu, Gemilang Technology akan memperkerjakan karyawan yang berkualitas dan produktif. Kompensasi adalah semua jenis gaji yang ditambahkan dengan tunjangan lainnya menjadi satu paket yang akan diberikan kepada karyawan. 1) Gaji Pokok
+74
+
+Gaji pokok merupakan komponen utama dari paket kompensasi. Gaji pokok
+
+diberikan setiap bulan dengan nilai yang berbeda antara satu karyawan dengan
+
+lainnya. Hal ini dikarenakan gaji karyawan disesuaikan dengan posisi dan
+
+tanggung jawab masing-masing.
+
+Berikut tabel perencanaan pemberian gaji pokok kepada karyawan Gemilang
+
+Technology:
+
+Tabel 6.1 Perencanaan pemberian gaji pokok karyawan Gemilang Technology
+
+Posisi
+
+Jumlah
+
+Gaji per Bulan
+
+Total gaji per Tahun
+
+BAGIAN ADMINISTRASI DAN UMUM
+
+General Manager
+
+1
+
+Rp 6.000.000,- Rp 72.000.000,-
+
+Bagian Keuangan
+
+2
+
+Rp 4.000.000,- Rp 96.000.000,-
+
+Total Gaji Pokok Bagian Administrasi dan Umum
+
+Rp 168.000.000,-
+
+BAGIAN PENJUALAN
+
+Bagian Pemasaran
+
+2
+
+Rp 4.000.000,- Rp 96.000.000,-
+
+Bagian Penjualan
+
+2
+
+Rp 4.000.000,- Rp 96.000.000,-
+
+Total Gaji Pokok Bagian Penjualan
+
+Rp 192.000.000,-
+
+BAGIAN PRODUKSI
+
+Teknisi dan Programmer
+
+3
+
+Rp 3.000.000,- Rp 108.000.000,-
+
+Bagian Produksi dan Operasional
+
+4
+
+Total Gaji Pokok Bagian Produksi
+
+Rp 3.000.000,-
+
+Rp 144.000.000,Rp 252.000.000,-
+
+Total Gaji Pokok Gemilang Technology
+
+Rp 612.000.000,-
+
+Sumber: Data Olahan Penulis, 2015
+
+Perencanaan gaji pokok yang diberikan oleh Gemilang Technology dibagi
+
+menjadi tiga bagian, yaitu bagian administrasi dan umum, bagian penjualan, serta
+
+75
+
+bagian produksi. Total gaji pokok yang diberikan oleh Gemilang Technology
+
+adalah Rp 612.000.000 per tahun. Dengan perincian sesuai dengan Tabel 6.1, gaji
+
+bagian administrasi dan umum terbagi dua, yaitu General manager Rp 6.000.000
+
+dan bagian keuangan Rp 4.000.000 per orang sehingga total gaji bagian
+
+administrasi dan umum adalah Rp 14.000.000 per bulan dan Rp 168.000.000 per
+
+tahun. Sedangkan gaji bagian penjualan adalah Rp 4.000.000 per orang sehingga
+
+total gaji bagian penjualan adalah Rp 8.000.000 per bulan dan Rp 192.000.000
+
+per tahun. Gaji bagian produksi adalah Rp 3.000.000 per orang sehingga total gaji
+
+bagian produksi adalah Rp 21.000.000 per tahun dan Rp 252.000.000 per tahun.
+
+2) Tunjangan Hari Raya
+
+Tunjangan Hari Raya (THR) adalah pendapatan pekerja yang wajib dibayarkan
+
+kepada karyawan menjelang Hari Raya Keagamaan yang berupa uang atau bentuk
+
+lain berdasarkan Peraturan Menteri Tenaga Kerja Republik Indonesia No.Per-
+
+04/Men/1994. Gemilang Technology memberikan THR setiap setahun sekali
+
+dengan nilai satu kali gaji pokok karyawan.
+
+Tabel 6.2 Tunjangan Hari Raya Gemilang Technology
+
+Posisi
+
+Jumlah
+
+THR per Tahun
+
+General Manager
+
+1
+
+Rp 6.000.000,-
+
+Pemasaran
+
+2
+
+Rp 4.000.000,-
+
+Penjualan
+
+2
+
+Rp 4.000.000,-
+
+Keuangan
+
+2
+
+Rp 4.000.000,-
+
+Teknisi dan Programmer
+
+3
+
+Rp 3.000.000,-
+
+Total THR per Tahun
+Rp 6.000.000,Rp 8.000.000,Rp 8.000.000,Rp 8.000.000,Rp 9.000.000,-
+
+76
+
+Produksi dan Operasional Total
+Sumber: Data Olahan Penulis, 2015
+6.4 Struktur Perusahaan
+
+4
+
+Rp 3.000.000,- Rp 12.000.000,-
+
+Rp 51.000.000,-
+
+Struktur perusahaan merupakan struktur yang memperlihatkan tentang jabatan­
+
+jabatan yang ada dalam suatu perusahaan. Struktur perusahaan dapat memperlihatkan
+
+tentang bagaimana proses pengambilan keputusan dapat diambil. Struktur perusahaan
+
+juga dapat menjelaskan kepada karyawan siapakah atasan mereka. Untuk struktur
+
+usaha yang dimiliki Gemilang Technology untuk saat ini adalah sebagai berikut:
+
+Gambar 6.1. Struktur Organisasi Gemilang Technology Sumber: Data Olahan Penulis, 2015
+Gemilang Technology berencana untuk menambah jumlah karyawan dan melakukan pemisahan terhadap bagian yang tergabung sebelumnya seperti karyawan operasional dan produksi pada masa mendatang. Hal ini dilakukan dengan harapan agar kinerja karyawan menjadi efektif dan produktif. Selain itu, Gemilang Technology juga akan menambahkan General Manager untuk mengawasi dan dapat mengendalikan kinerja setiap kepala bagian dari karyawan perusahaan. Pengembangan sumber daya manusia ini akan diperkirakan akan dilakukan apabila
+77
+
+perusahaan telah berkembang setelah satu tahun. Pengembangan sumber daya manusia yang akan dilakukan dengan struktur sebagai berikut:
+Gambar 6.2. Struktur organisasi masa depan Sumber: Data Olahan Penulis, 2015
+78
+
+BAB VII PERENCANAAN OPERASIONAL
+Perencanaan operasional menggambarkan bagaimana usaha akan memproduksi produk dan memberikan pelayanan kepada konsumen (Barringer dan Ireland 2012, 155). Perencanaan operasional ini akan membantu perusahaan untuk menentukan, mendapatkan dan mengelola setiap sumber daya yang akan digunakan oleh perusahaan, baik bahan baku maupun manusianya untuk dapat menghasilkan produk dan pelayanan yang berkualitas dan sesuai dengan standar yang telah ditentukan. 7.1 Operasional Secara Keseluruhan Kegiatan operasional yang dilakukan oleh Gemilang Technology bertujuan untuk memberikan pelayanan yang memuaskan kepada customer, memberikan produk berkualitas baik dan dengan harga yang terjangkau. Dengan harapan kegiatan operasional perusahaan dapat merujuk kepada loyalitas pelanggan untuk tetap memilih Gemilang Technology sebagai penyedia produk teknologi untuk perusahaan yang berkualitas dan terjangkau.
+Tantangan yang dihadapi oleh Gemilang Technology adalah untuk terus melakukan inovasi dalam menyediakan teknologi yang dibutuhkan oleh perusahaan pengguna dengan kualitas terbaik serta pelayanan pelanggan yang konsisten dari
+79
+
+waktu ke waktu sehingga pelanggan dapat terus mempercayai Gemilang Technology. Gemilang Technology memiliki dua hal yang perlu diperhatikan dalam operasional guna untuk menciptakan pelaksanaan dan pengambilan keputusan yang efektif dan efisien dalam setiap kegiatan menyediakan produk dan pelayanannya, yaitu: 1) Kualitas Produk
+Gemilang Technology harus selalu menjaga kualiltas produknya yang akan diberikan kepada pelanggan. Produk yang ditawarkan oleh Gemilang Technology seluruhnya merupakan produk yang berhubungan dengan teknologi informasi yang artinya untuk menjaga kualitas produk ini, diperlukan bahan baku berkualitas yang akan dipakai dalam pembuatan produk. Selain itu, proses pembuatan produk juga perlu diperhatikan dan harus sesuai dengan standar yang telah ditentukan.
+Untuk mempertahankan kualitas produk, maka diperlukan pengecekan persediaan bahan baku serta peralatan produksi secara berkala. Pemeriksaan ini berguna untuk memeriksa persediaan bahan baku untuk melakukan restock agar tidak kehabisan komponen dalam proses produksi. Pemeriksaan kualitas komponen yang digunakan dalam operasional diperiksa setiap bulannya untuk mencegah adanya kerusakan dan memastikan kualitas setiap produk yang dihasilkan tetap sama. Setelah proses produksi, produk juga akan diuji berulang kali untuk memastikan kinerja dan daya keakuratan produk. 2) Kualitas Layanan
+80
+
+Selain kualitas produk, pelayanan yang diberikan kepada customer juga sangat penting untuk menciptakan kepuasan dan loyalitas pelanggan. Dalam hal ini, karyawan bagian penjualan sangat berperan dimana mereka yang akan berinteraksi langsung dengan para pelanggan. Pelayanan utama yang akan diberikan oleh Gemilang Technology kepada konsumen antara lain adalah kecepatan pelayanan dan daya tanggap serta keramahan karyawan ketika berinteraksi dengan pelanggan. Customer selalu menginginkan pelayanan dan respon yang cepat ketika melakukan pembelian dan keramahan karyawan akan membuat pelanggan merasa diterima dan nyaman sehingga akan menghasilkan tanggapan baik dari pelanggan untuk kembali melakukan pembelian ke Gemilang Technology dan dapat menjalin hubungan jangka panjang yang baik.
+Pelayanan yang diberikan kepada pelanggan setelah melakukan pembelian produk adalah menyediakan jasa pemasangan produk tersebut pada perusahaan pengguna, menjelaskan cara penggunaan produk tersebut dengan jelas dan mendetail, menyediakan servis apabila terjadi kerusakan, menyediakan garansi selama satu tahun apabila ada kegagalan sistem, dan menyediakan update software produk tersebut.
+7.1.1 Kegiatan Operasional di Balik Layar Kegiatan operasional di balik layar Gemilang Technology merupakan faktor penting yang akan membantu menghasilkan produk dan pelayanan yang diharapkan dapat
+81
+
+memuaskan kebutuhan pelanggan. Berikut adalah kegiatan-kegiatan operasional bagian dalam dari Gemilang Technology:
+1) Perekrutan Karyawan Proses perekrutan karyawan Gemilang Technology dilakukan dengan melakukan seleksi berdasarkan kemampuan individu yang sesuai dengan posisi dan pekerjaan yang dibutuhkan untuk kelancaran operasional. Gemilang Technology akan mengutamakan karyawan yang telah memiliki pengalaman dalam melakukan pemrograman dan mengerti mengenai beberapa bahasa pemrograman yang akan digunakan. 2) Pelatihan Karyawan Setiap karyawan akan melalui proses pelatihan untuk mempelajari kemampuan dasar yang harus dilakukan dalam pekerjaannya sehingga dapat bekerja sesuai dengan prosedur yang ditetapkan. Pelatihan karyawan dilakukan dengan metode On-The-Job Training dimana pelatihan didapatkan oleh karyawan secara langsung pada saat melakukan pekerjaannya. Dengan harapan karyawan dapat meningkatkan kemampuannya ketika mengerjakan tanggung jawabnya dalam mencapai visi dan tujuan perusahaan. 3) Operasional Secara Manual Setiap harinya Gemilang Technology akan membuat dokumen pencatatan harian kegiatan operasional seperti pencatatan pengeluaran dan pendapatan dan jumlah
+82
+
+produk yang dibeli oleh pelanggan. Hal ini dilakukan untuk melihat pendapatan kotor perusahaan yang didapatkan melalui penjualan dan mengetahui jumlah produk yang terjual setiap harinya. 4) Evaluasi Kinerja Selain pencatatan, Gemilang Technology melakukan evaluasi terhadap kinerja dalam setiap bagian operasional. Karyawan akan dibriefing sebelum bekerja oleh general manager untuk memberikan motivasi dan menetapkan target yang harus dicapai setiap bulannya. Lalu, setiap akhir bulan akan diadakan evaluasi untuk membahas kekurangan atau keluhan-keluhan pelanggan serta solusi dan perbaikan yang perlu dilakukan atau diterapkan selanjutnya. Evaluasi ini dilakukan agar kinerja Gemilang Technology dapat terus meningkat menjadi lebih baik. 7.2 Produksi Produksi merupakan proses mengubah bahan baku menjadi produk yang bisa digunakan oleh customer. Kualitas bahan baku akan mempengaruhi produk yang akan dihasilkan. Untuk mencapai kualitas produk yang diinginkan maka bahan baku perlu melalui beberapa proses pemeriksaan hingga mencapai atau sesuai dengan standar untuk dijual dan digunakan. Berikut ini adalah diagram alur produksi dari Gemilang Technology:
+83
+
+Gambar 7.1 Diagram Alur Produksi Gemilang Technology Sumber: Data Olahan Penulis, 2015
+Dalam proses produksi, setiap dua minggu sekali akan dilakukan pengecekan inventori bahan baku untuk mengetahui kebutuhan untuk bahan baku apa saja yang perlu dipesan dan dibeli. Pengiriman komponen elektronika dari pemasok akan dilakukan pada minggu ketiga setelah pemesanan. Ketika komponen elektronika telah diterima oleh Gemilang Technology, komponen tersebut akan diperiksa kondisinya dan akan dipisahkan sesuai dengan jenisnya. Selanjutnya, perusahaan akan mengerjakan kegiatan produksi secara paralel antara perakitan produk dan perakitan casing agar tidak memakan waktu yang lama. Perakitan produk dimulai dari pengerjaan pemrograman produk dan perakitan elektronika. Sedangkan perakitan casing dimulai dengan pemilihan bahan baku yang sesuai dengan produk dan melalui proses perakitan casing untuk layak pakai. Setelah itu, Gemilang Technology membuat beberapa sampel produk untuk dapat ditawarkan dan dikenal oleh pelanggan. Setelah ditawarkan, Gemilang Technology akan mendengarkan dan menampung kebutuhan pelanggan sebagai pesanan pelanggan untuk melakukan pembelian. Lalu, Gemilang Technology akan melakukan observasi lebih lanjut dan
+84
+
+membuat produk teknologi sesuai dengan permintaan pelanggan. Proses produksi untuk satu produk teknologi ini membutuhkan waktu pengerjaan selama 5-10 jam karena untuk mendapatkan kualitas terbaik diperlukan pengujian berulang kali terhadap produk tersebut. Pengujian berulang kali dilakukan untuk memastikan bahwa produk tersebut layak untuk digunakan oleh perusahaan pengguna.
+7.3 Lokasi Bisnis Lokasi operasional Gemilang Technology adalah di daerah Samarinda, Kalimantan Timur. Gemilang Technology akan menempati rumah toko (ruko) berlantai dua dengan luas tanah sebesar 105 m2 dan luas bangunan sebesar 255 m2. Berikut kegiatan operasional pada setiap lantai bangunan:
+1) Lantai 1 Pada lantai 1, terdapat ruangan kerja karyawan programmer, karyawan teknisi, produksi dan operasional. Karyawan yang bekerja pada lantai ini merupakan karyawan yang bekerja secara operasional dan berhubungan dengan kegiatan produksi produk.
+2) Lantai 2 Pada lantai 2, terdapat ruangan kerja general manager, karyawan bagian keuangan, karyawan bagian penjualan, dan karyawan bagian pemasaran. Karyawan yang bekerja pada lantai ini merupakan karyawan yang fokus bekerja yang berhubungan dengan pelanggan secara langsung serta
+85
+
+berhubungan dengan aset perusahaan seperti laporan keuangan, strategi marketing, dan lainnya.
+7.4 Peralatan dan Perlengkapan Dalam menjalankan operasionalnya, terdapat beberapa peralatan yang diperlukan oleh Gemilang Technology, yaitu:
+
+Tabel 7.1 Tabel Peralatan dan Perlengkapan Gemilang Technology
+Peralatan Meja MT 3002 Kursi ERGOSIT OR Seat G with Arm Monitor LENOVO ThinkCentre Edge E63z 19IA All-in-One Logitech Wireless Combo (Mouse dan Keyboard) MK220 Mesin Absensi Sidik Jari Fingerprint Axopos FP400 Mesin Genset LG TV LCD 22 inch [22LK230] DT830B Multimeter Digital Paket CCTV LILIN UPS (Uninterruptible Power Supply) ICA SE 1000 HP Deskjet 1510 All-in-one [B2L56D] Air Conditioner Sharp AH-A9PEY 1 pk Total Unit Peralatan
+Perlengkapan Solder Packaging Buku Besar Folio 200 lembar Pulpen Cutter Penggaris 30 cm Staples Isi Staples Papan Tulis 90 x 180 Spidol Mouse Pad
+
+Jumlah 5 5 4 4 1 1 1 5 1 4 2 3
+Jumlah 10
+1,000 5 10 5 5 5 50 3 12 4
+
+86
+
+Timah solder 1/4 kg
+
+5
+
+Lampu Bulb PHILLIPS
+
+5
+
+Breadboard SYB 120 Solderless PCB
+
+50
+
+Kursi Plastik
+
+10
+
+Kertas A4 70 gsm
+
+10
+
+Kabel jumper isi 65 pcs
+
+5
+
+Total Unit Perlengkapan
+
+Sumber : Data olahan penulis, 2015
+
+7.5 Peraturan Pemerintah Demi kelancaran operasional, semua bentuk usaha perlu mengikuti peraturan pemerintah, khususnya mengenai izin-izin yang diperlukan suatu badan usaha untuk menandakan segala kegiatan operasional yang dilakukan dalam usaha telah dilegalkan oleh pemerintah. Untuk mendapatkan izin tersebut maka pengusaha perlu memenuhi beberapa dokumen dan surat sebagai berikut (Adhibarfan 2015):
+a. Akta Pendirian Perusahaan b. Nomor Pokok Wajib Pajak (NPWP) c. Izin Mendirikan Bangunan (IMB) d. Surat Izin Usaha Perdagangan (SIUP) e. Analsis Mengenai Dampak Lingkungan (AMDAL) f. Surat Izin Tempat Usaha (SITU) g. Tanda Daftar Perusahaan (TDP)
+Seluruh dokumen diatas akan dipersiapkan sebelum perusahaan resmi dibuka dan apabila terdapat beberapa hal yang belum dilengkapi oleh Gemilang Technology ketika operasional sudah berjalan akan diselesaikan secepatnya.
+
+87
+
+BAB VIII RENCANA PENGEMBANGAN
+8.1 Rencana Pengembangan Perusahaan yang baik harus memiliki visi dan rencana pengembangan yang terukur dan jelas. Hal ini dimaksudkan agar perusahaan dapat berkembang sesuai dengan hasil yang diharapkan. Berikut pernyataan Barringer (2012, 154) mengenai product development :
+"Many seemingly, promising startups never get off the ground because their product development efforts stall or the actual development of a product or service turns out to be more difficult than anticipated."
+Pernyataan Barringer diatas menekankan bahwa rencana pengembangan merupakan hal yang sangat penting bagi sebuah bisnis, khususnya bagi perusahaan startups. Perusahaan perlu melakukan pengembangan produk dengan melakukan inovasi agar perusahaan dapat menyesuaikan keadaan lingkungan yang akan terus mengalami perubahan di masa depan. Selain pengembangan produk, perusahaan juga perlu memperhatikan pengembangan layanan dengan merencanakan tugas dan strategi dengan baik untuk menghindari kesalahan dan membuat performa perusahaan meningkat.
+Rencana pengembangan Gemilang Technology di masa depan adalah memperluas jangkauan pasarnya, khususnya secara geografis dan mengembangkan
+88
+
+jenis produk agar dapat menciptakan produk teknologi berkualitas yang berguna dan dapat menarik daya beli customer.
+
+8.2 Waktu Pelaksanaan Gemilang Technology akan dioperasikan dalam bentuk perusahaan yang akan dilaksanakan pada Januari tahun 2016. Gemilang Technology telah memulai proyek pembuatan alat Fuel Theft Monitoring System sejak Januari 2015, hal ini dilakukan untuk mendukung perencanaan awal dalam branding produk Gemilang Technology untuk dapat dikenal oleh masyarakat. Perencanaan usaha ini akan membutuhkan waktu selama 12 bulan, dan pengoperasian perusahaan akan segera dilaksanakan setelah seluruh perencanaan telah selesai.
+
+8.3 Proses Perencanaan yang Telah Dilaksanakan
+
+Gemilang Technology telah melaksanakan beberapa rencana pengembangan untuk
+
+pengoperasian yang telah dilakukan dari bulan Januari tahun 2015. Perencanaan yang
+
+telah dilaksanakan dapat dilihat dalam Tabel 8.1 berikut.
+
+Tabel 8.1 Proses perencanaan Gemilang Technology yang telah dilaksanakan
+
+Periode
+
+Perencanaan
+
+Januari ­ Juli 2015
+
+Analisa kelayakan bisnis Gemilang Technology
+
+Agustus ­ Desember 2015
+
+Perencanaan bisnis Gemilang
+
+Technology secara keseluruhan
+
+meliputi: - Deskripsi Perusahaan
+
+- Analisis Industri - Analisis Pasar
+
+- Perencanaan Pemasaran - Tim Manajemen
+
+89
+
+Sumber: Data Olahan Penulis, 2015
+
+- Perencanaan Operasional - Pengembangan produk - Proyeksi keuangan
+
+8.4 Proses Perencanaan yang Akan Dilaksanakan
+
+Gemilang Technology memiliki perencanaan yang belum terlaksana dan akan segera
+
+dilakukan mulai bulan Januari 2015 sampai dengan pembukaan perusahaan Gemilang
+
+Technology pada Januari 2016. Perencanaan yang akan dilakukan oleh Gemilang
+
+Technology dari Januari 2015 dapat dilihat dalam Tabel 8.2 berikut.
+
+Tabel 8.2 Proses perencanaan Gemilang Technology yang akan dilaksanakan
+
+Periode
+
+Perencanaan
+
+Agustus 2015 ­ Desember 2015
+
+- Mendaftarkan nama perusahaan secara legal melalui Tanda Daftar Perusahaan (TDP).
+
+- Melakukan pendaftaran paten Gemilang Technology ke Direktorat Jendral Hak Kekayaan Intelektual (DJHKI).
+- Mengurus pendirian usaha dan surat ijin usaha perdagangan dan perusahaan (SIUPP).
+
+- Melakukan pembelian lokasi di Gading Serpong, Tangerang.
+
+- Melakukan desain ruangan dengan renovasi sesuai dengan desain interior yang sudah ditentukan.
+
+- Membeli peralatan dan perlengkapan operasional perusahaan yang dibutuhkan.
+- Melakukan advertising diberbagai media.
+
+- Melakukan seleksi dan penerimaan karyawan.
+
+90
+
+Januari 2016
+Sumber: Data Olahan Penulis, 2015
+
+- Melakukan pelatihan karyawan.
+Peresmian dan pembukaan perusahaan Gemilang Technology di Samarinda, Kalimantan Timur.
+
+8.5 Tantangan dan Resiko Tantangan dan resiko merupakan hal-hal yang dapat menjadi faktor penghambat dalam proses perencanaan dan pengembangan dari suatu bisnis yang tidak dapat dihindari. Oleh sebab itu penting bagi perusahaan untuk mengetahui tantangan dan resiko yang akan dihadapi selama bisnis berjalan sehingga perusahaan sudah dapat mempersiapkan antisipasi dan mencari penyelesaian untuk setiap permasalahan tersebut. Berikut adalah tantangan dan resiko yang akan dihadapi oleh Gemilang Technology: 1. Resesi ekonomi
+Resesi ekonomi merupakan ancaman besar yang harus dihadapi tidak hanya oleh Gemilang Technology yang bergerak di bidang teknologi, tetapi juga bagi semua bidang usaha lainnya, karena berdampak terhadap menurunnya daya beli masyarakat. Walaupun disadari bahwa kesadaran akan kebutuhan teknologi dalam aktivitas perusahaan meningkat, tetapi apabila menghadapi resesi ekonomi, maka pemenuhan kebutuhan akan hal-hal tersebut hanya akan menjadi kebutuhan sekunder yang baru akan terpenuhi ketika kebutuhan primer terpenuhi. Gemilang Technology akan mempertahankan kinerja yang baik agar dapat menjaga loyalitas
+
+91
+
+pelanggan dan meningkatkan efisiensi dan mengurangi biaya yang tidak perlu dikeluarkan untuk menghadapi resesi ekonomi. 2. Regulasi pemerintah Mengesahkan sebuah usaha merupakan hal yang sangat penting untuk menjalankan kegiatan operasional. Gemilang Technology akan mendaftarkan paten dan mengurus ijin usaha sesuai dengan ketentuan pemerintah yang ada. Namun dalam mengikuti prosedur yang berlaku sering kali memakan waktu yang cukup lama sehingga akan berdampak mundurnya jadwal perencanaan bisnis yang telah disusun. 3. Pesaing baru Pesaing baru baik pesaing langsung maupun pesaing tidak langsung dapat muncul sewaktu-waktu, sehingga dapat mempengaruhi jalannya bisnis serta pendapatan Gemilang Technology. Agar pelanggan tidak berpindah haluan dan melakukan pembelian kepada pesaing, maka Gemilang Technology akan menanamkan ke dalam benak pelanggan bahwa Gemilang Technology merupakan penyedia produk teknologi berkualitas dan terpercaya. Selain itu, Gemilang Technology perlu membina hubungan yang baik dengan pelanggan yang berpotensial serta melakukan promosi untuk menarik daya beli pelanggan baru. 4. Adanya Teknologi Baru Perkembangan teknologi yang sangat pesat sekarang ini selalu membawa beberapa perubahan. Perubahan-perubahan tersebut dapat mempengaruhi
+92
+
+perkembangan bisnis Gemilang Technology. Untuk dapat mengimbangi perkembangan teknologi, Gemilang Technology akan mengembangkan teknologi dari proses produksi produk, operasional maupun fitur yang dimiliki produk.
+
+8.6 Biaya Pengembangan
+
+Berikut adalah biaya yang dibutuhkan untuk melaksanakan pengembangan
+
+perusahaan Gemilang Technology:
+
+Tabel 8.3. Rincian Biaya Pengembangan
+Keterangan Bangunan Ruko Renovasi Interior Perizinan Usaha Peralatan Perlengkapan Biaya Promosi dan Pemasaran Kas Awal Total Investasi Awal
+Sumber: Data Olahan Penulis, 2015
+8.7 Properti Intelektual
+
+Jumlah
+1,000,000,000 30,000,000 5,000,000 72,000,000 6,000,000 2,000,000 100,000,000
+1,215,000,000
+
+Intelectual property merupakan keadaan dimana setiap produk yang berasal dari hasil
+
+pemikiran manusia yang bersifat tidak terlihat, namun memiliki nilai dipasar.
+
+1. Paten
+
+Paten adalah hak yang dapat melindungi penemuan produk yang diciptakan
+
+oleh sebuah perusahaan (Bygrave 2014, 466). Gemilang Technology akan
+
+mendaftarkan hak patennya pada saat mempersiapkan pembukaan perusahaan
+
+Gemilang Technology untuk menjaga keunikan produk yang diciptakan.
+
+93
+
+2. Merek Dagang Merek dagang adalah bagian dari promosi yang terdiri dari nama, simbol, kalimat yang berhubungan dengan produk perusahaan (Bygrave 2014, 474). Gemilang Technology merupakan merek dagang dalam industri teknologi. Semua hal berhubungan dengan Gemilang Technology seperti logo, nama dan slogan akan didaftarkan sebagai merek dagang milik Gemilang Technology agar tidak dapat digunakan oleh pelaku bisnis di bidang teknologi lainnya.
+94
+
+BAB IX PROYEKSI KEUANGAN
+Proyeksi keuangan merupakan bagian paling penting dari sebuah perencanaan bisnis. Ukuran proyeksi keuangan dapat dilakukan jangka pendek maupun jangka panjang. Proyeksi keuangan menjelaskan tentang kebutuhan atas tambahan aset untuk mendukung proyeksi yang telah dibuat. Proyeksi keuangan dapat melihat kondisi suatu bisnis dan juga memudahkan perusahaan melihat apa yang akan terjadi terhadap bisnis tersebut beberapa tahun mendatang. Proyeksi keuangan membantu menunjukkan kelayakan dari suatu bisnis, mengetahui perkiraan dana yang dibutuhkan, mengetahui perkiraan pendapatan perusahaan dalam kurun waktu tertentu dan perkiraan waktu yang dibutuhkan dalam menjalankan bisnis untuk dapat mengembalikan modal awal perusahaan (payback period).
+Proyeksi keuangan terdiri dari tiga laporan, yaitu laporan laba rugi (Income Statement), laporan arus kas (Statement of Cash Flow), dan neraca (Balance Sheet). Terdapat beberapa asumsi umum yang akan digunakan oleh Gemilang Technology seperti asumsi pertumbuhan penjualan dan asumsi tentang depresiasi peralatan.
+95
+
+9.1 Perkiraan (Assumption Sheet)
+Gemilang Technology merumuskan beberapa perkiraan atau asumsi yang dibutuhkan untuk dapat melakukan proyeksi keuangan Gemilang Technology hingga masa mendatang. Berikut ini adalah beberapa perkiraan:
+1) Persentase kenaikan penjualan per tahun adalah 10%. 2) Persentase kenaikan harga jual per tahun adalah 10%. 3) Persentase kenaikan harga beli bahan baku per tahun adalah 10%. 4) Biaya gaji karyawan mengalami kenaikan 10% setiap tahunnya. 5) Biaya promosi mengalami kenaikan 10% setiap tahunnya. 6) Persentase kenaikan biaya operasional seperti biaya listrik, air, telepon, dan
+internet adalah 10% setiap tahunnya. 7) Metode penyusutan dalam menghitung nilai guna bangunan dan peralatan
+yang digunakan adalah metode straight line. Umur penyusutan bangunan adalah 20 tahun dan umur penyusutan peralatan adalah 7 tahun. 8) Umur amortisasi dalam menghitung nilai guna renovasi kantor adalah 5 tahun. 9) Tarif pajak yang berlaku sebesar 25% yang dikenakan terhadap penghasilan perusahaan sesuai dengan tarif pajak yang ditentukan oleh pemerintah Indonesia. 10) Required return rate yang digunakan untuk menghitung NPV dan IRR sebesar 13% sesuai dengan suku bunga pinjaman bank BCA.
+96
+
+11) Pengambilan keuntungan untuk pemilik (prive) sebesar 40% dari laba bersih per tahun.
+12) Asumsi jumlah persediaan akhir setiap tahun adalah 100 unit. 13) Asumsi jumlah unit produksi setiap bulan adalah 100 buah. 14) Asumsi beban perlengkapan produksi setiap bulan adalah Rp 1,000,000 dan
+mengalami kenaikan sebesar 10% per tahun.
+
+9.2 Sumber dan Penggunaan Dana
+
+Modal awal yang dibutuhkan oleh Gemilang Technology adalah Rp 1,215,000,000.
+
+Dana tersebut digunakan untuk investasi perusahaan yang diperoleh dari orang tua
+
+pemilik Jennifer Novia Nursalim. Berikut ini adalah rincian dana yang dibutuhkan
+
+oleh Gemilang Technology:
+
+Tabel 9.1 Rincian Investasi Awal Keterangan
+Bangunan Ruko Renovasi Interior Perizinan Usaha Peralatan Perlengkapan Biaya Promosi dan Pemasaran Kas Awal Total Investasi Awal
+Sumber: Data Olahan Penulis, 2015
+9.3 Pro Forma Laporan Laba Rugi
+
+Jumlah
+1,000,000,000 30,000,000 5,000,000 72,000,000 6,000,000 2,000,000
+100,000,000 1,215,000,000
+
+Laporan laba rugi mencerminkan hasil proyeksi operasional perusahaan dalam jangka waktu tertentu. Laporan ini mencatat seluruh proyeksi penjualan dan beban untuk satu periode tertentu untuk mengetahui apakah perusahaan akan menghasilkan
+
+97
+
+keuntungan atau mengalami kerugian (Barringer 2012, 286). Dalam proyeksi
+
+penjualan Gemilang Technology, diasumsikan kenaikan penjualan sebesar 10%
+
+setiap tahunnya mulai dari tahun 2017 ­ 2020.
+
+Berdasarkan Tabel 9.2 dapat dilihat bahwa total pendapatan hasil penjualan
+
+yang diperoleh Gemilang Technology pada tahun 2016 adalah Rp 1,536,000,000.
+
+Sedangkan total beban operasional Gemilang Technology adalah Rp 545,210,714.
+
+Laba bersih yang diperoleh Gemilang Technology adalah Rp 743,091,964 pada
+
+tahun 2016. Proyeksi penjualan mengalami peningkatan setiap tahunnya membuat
+
+laba bersih juga mengalami peningkatan setiap tahunnya.
+
+Tabel 9.2 Pro Forma Laporan Laba Rugi Tahunan Gemilang Technology
+
+LAPORAN LABA RUGI
+
+Deskripsi
+
+2016
+
+2017
+
+2018
+
+PENDAPATAN Fuel Theft Monitoring System
+
+Penjualan
+
+3,025,000,000 3,630,000,000 3,993,000,000
+
+Harga Pokok Penjualan Laba Kotor
+
+1,617,000,000 1,940,400,000 2,134,440,000 1,536,000,000 1,689,600,000 1,858,560,000
+
+BEBAN OPERASIONAL Beban Penjualan Gaji dan THR Bagian Pemasaran dan penjualan (Tabel 6.1)
+Beban Promosi Beban Umum dan Administrasi Gaji dan THR Bagian Administrasi dan Produksi (Tabel 6.1)
+Listrik & Air
+Internet
+Telepon Perizinan Usaha
+Depresiasi
+Amortisasi TOTAL BEBAN OPERASIONAL
+
+208,000,000
+24,000,000
+182,000,000
+24,000,000 3,600,000
+32,325,000 5,000,000
+60,285,714 6,000,000
+545,210,714
+
+228,800,000 26,400,000
+200,200,000 26,400,000 3,960,000 35,557,500
+60,285,714 6,000,000
+587,603,214
+
+251,680,000 29,040,000
+220,220,000 29,040,000 4,356,000 39,113,250
+60,285,714 6,000,000
+639,734,964
+
+LABA SEBELUM PAJAK
+
+990,789,286 1,101,996,786 1,218,825,036
+
+PAJAK 25%
+
+247,697,321 275,499,196 304,706,259
+
+LABA BERSIH
+
+743,091,964
+
+Sumber: Data Olahan Penulis, 2015
+
+826,497,589
+
+914,118,777
+
+2019
+4,392,300,000 2,347,884,000 2,044,416,000
+276,848,000 31,944,000
+242,242,000 31,944,000 4,791,600 43,024,575
+60,285,714 6,000,000
+697,079,889 1,347,336,111
+336,834,028 1,010,502,083
+
+2020
+4,831,530,000 2,582,672,400 2,248,857,600
+304,532,800 35,138,400
+266,466,200 35,138,400 5,270,760 47,327,033
+60,285,714 6,000,000
+760,159,307 1,488,698,293
+372,174,573 1,116,523,720
+
+98
+
+9.4 Pro Forma Laporan Arus Kas
+Laporan arus kas memberikan kesimpulan terhadap perubahan arus kas perusahaan pada waktu tertentu dan memberikan penjelasan secara mendetail untuk apa perubahan tersebut (Barringer 2012, 291). Laporan arus kas terdiri dari tiga kegiatan, yaitu:
+1) Kegiatan operasional Kegiatan yang berhubungan dengan net income (loss), depresiasi, dan perubahan terhadap current assets dan current liabilities selain kas dan hutang jangka pendek.
+2) Kegiatan Investasi Kegiatan yang berhubungan dengan pembelian, penjualan atau investasi terhadap fixed assets seperti bangunan, peralatan dan tanah.
+3) Kegiatan pendanaan Kegiatan yang berhubungan dengan kenaikan kas pada periode tertentu karena perusahaan melakukan peminjaman uang, menjual saham, menggunakan kas yang digunakan untuk membayar dividen, membeli outstanding stock kembali, atau membeli outstanding bonds kembali.
+Berdasarkan tabel 9.4 dapat dilihat bahwa saldo kas akhir Gemilang Technology pada tahun 2016-2020 mengalami peningkatan dari Rp 100,000,000 hingga Rp 3,031,469,051. Kas akhir dari Gemilang Technology akan digunakan untuk
+99
+
+mengembangkan perusahaan dari segi wilayah, pengembangan produk maupun
+
+kualitas komponen.
+
+Tabel 9.3 Pro Forma Laporan Arus Kas Tahunan Gemilang Technology
+
+LAPORAN ARUS KAS
+
+Deskripsi
+
+Awal Usaha
+
+2016
+
+2017
+
+ARUS KAS DARI KEGIATAN OPERASIONAL Laba Bersih Depresiasi dan Amortisasi Perubahan Persediaan Perubahan Perlengkapan Perubahan Biaya Di Bayar Dimuka Total Arus Kas dari Kegiatan Operasional ARUS KAS DARI KEG INVESTASI Investasi Awal Pembelian Peralatan Total Arus Kas dari Kegiatan Investasi ARUS KAS DARI KEG PENDANAAN Setoran Modal Prive Total Arus Kas dari Kegiatan Pendanaan
+PERUBAHAN ARUS KAS KAS AWAL
+KAS AKHIR
+
+-
+(6,000,000) (7,000,000)
+
+743,091,964 66,285,714
+(147,000,000) (24,000,000)
+7,000,000
+
+(13,000,000) 645,377,679
+
+826,497,589 66,285,714 (600,000)
+892,183,304
+
+(1,102,000,000)
+
+(1,102,000,000)
+
+-
+
+-
+
+1,215,000,000 -
+1,215,000,000
+100,000,000 -
+100,000,000
+
+(297,236,786)
+(297,236,786)
+348,140,893 100,000,000 448,140,893
+
+(330,599,036)
+(330,599,036)
+561,584,268 448,140,893 1,009,725,161
+
+Sumber: Data olahan penulis, 2015
+
+2018
+914,118,777 66,285,714 (600,000)
+979,804,491
+-
+(365,647,511) (365,647,511)
+614,156,980 1,009,725,161 1,623,882,141
+
+2019
+1,010,502,083 66,285,714 (600,000)
+1,076,187,797
+-
+(404,200,833) (404,200,833)
+671,986,964 1,623,882,141 2,295,869,105
+
+2020
+1,116,523,320 66,285,714 (600,000)
+1,182,209,434
+-
+(446,609,488) (446,609,488)
+735,599,946 2,295,869,105 3,031,469,051
+
+9.5 Pro Forma Laporan Neraca Keuangan
+
+Laporan neraca keuangan adalah proyeksi aset perusahaan, kewajiban, dan modal pemilik pada titik waktu tertentu. Bagian sebelah kiri atau bagian atas neraca menunjukkan aset perusahaan. Sedangkan bagian sebelah kanan atau bagian bawah neraca menunjukkan kewajiban perusahaan dan modal pemilik perusahaan (Barringer 2012, 287). Neraca harus selalu seimbang dimana aset perusahaan harus sama dengan kewajiban dan modal perusahaan.
+
+100
+
+Pada tabel 9.5 dapat terlihat bahwa nilai aset perusahaan sama dengan nilai
+
+kewajiban dan modal pemilik perusahaan. Berikut ini tabel ringkasan laporan neraca
+
+keuangan pro forma Gemilang Technology:
+
+Tabel 9.4 Pro Forma Laporan Neraca Tahunan Gemilang Technology NERACA
+
+Deskripsi ASET
+ASET LANCAR Kas Persediaan Perlengkapan Beban Di Bayar Dimuka Total Aset Lancar ASET TIDAK LANCAR Bangunan Ruko Akumulasi Depresiasi Bangunan Ruko - Net Peralatan Akumulasi Depresiasi Peralatan - Net Renovasi Interior Akumulasi Amortisasi Renovasi Interior - Net Total Aset Tidak Lancar TOTAL ASET
+
+Awal Usaha
+100,000,000
+6,000,000 7,000,000 113,000,000
+1,000,000,000
+1,000,000,000 72,000,000
+72,000,000 30,000,000
+30,000,000 1,102,000,000 1,215,000,000
+
+2016
+448,140,893 147,000,000
+30,000,000
+625,140,893
+1,000,000,000 (50,000,000) 950,000,000 72,000,000 (10,285,714) 61,714,286 30,000,000 (6,000,000) 24,000,000
+1,035,714,286 1,660,855,179
+
+2017
+1,009,725,161 147,000,000 30,600,000
+1,187,325,161
+1,000,000,000 (100,000,000)
+900,000,000 72,000,000
+(20,571,429) 51,428,571 30,000,000
+(12,000,000) 18,000,000
+969,428,571 2,156,753,732
+
+2018
+1,623,882,141 147,000,000 31,200,000
+1,802,082,141
+1,000,000,000 (150,000,000)
+850,000,000 72,000,000
+(30,857,143) 41,142,857 30,000,000
+(18,000,000) 12,000,000
+903,142,857 2,705,224,998
+
+KEWAJIBAN Utang TOTAL KEWAJIBAN EKUITAS Setoran Modal Saldo Laba TOTAL EKUITAS
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.215,000,000 1,215,000,000 1,215,000,000
+
+-
+
+445,855,179 941,753,732
+
+1,215,000,000 1,660,855,179 2,156,753,732
+
+-
+1,215,000,000 1,490,224,998 2,705,224, 998
+
+TOTAL KEWAJIBAN DAN EKUITAS
+
+1,215,000,000 1,660,855,179 2,156,753,732
+
+Sumber: Data olahan penulis, 2015
+
+2,705,224, 998
+
+2019
+2,295,869,705 147,000,000 31,800,000
+2,474,669,105
+1,000,000,000 (200,000,000)
+800,000,000 72,000,000
+(41,142,857) 30,857,143 30,000,000
+(24,000,000) 6,000,000
+836,857,143 3,311,526,248
+-
+1,215,000,000 2,096,526,248 3,311,526,248
+3,311,526,248
+
+2020
+3,031,469,051 147,000,000 32,400,000
+3,210,869,051
+1,000,000,000 (250,000,000)
+750,000,000 72,000,000
+(51,428,571) 20,571,429 30,000,000
+(30,000,000) -
+770,571,429 3,981,440,480
+-
+1,215,000,000 2,766,440,480 3,981,440,480
+4,552,877,840
+
+9.6 Analisis Kelayakan Usaha
+
+Analisis kelayakan usaha merupakan suatu data yang dilihat untuk mengetahui kelayakan suatu usaha tersebut. Uji kelayakan suatu usaha dapat dilakukan dengan
+
+101
+
+menghitung Jangka waktu pengembalian modal (payback period), Net Present Value (NPV), dan Internal Rate of Return (IRR).
+
+9.6.1 Jangka Waktu Pengembalian Modal (Payback Period)
+
+Payback adalah jangka waktu yang diperlukan untuk mengembalikan modal awal
+
+suatu bisnis (Ross, Westerfield dan Jordan 2010, 265). Payback period dapat melihat
+
+seberapa lama suatu modal yang kita gunakan dapat kembali. Untuk mengetahui
+
+jangka waktu pengembalian modal ini menggunakan arus kas (Free Cash Flow)
+
+setiap tahunnya dan modal yang kita keluarkan pada saat awal dibukanya suatu
+
+usaha.
+
+Berikut ini adalah tabel arus kas Gemilang Technology setiap tahunnya yang
+
+akan digunakan sebagai acuan untuk menghitung Payback period:
+
+Tabel 9.5 Tabel Free Cash Flow Gemilang Technology
+
+Free Cash Flow
+
+Awal Usaha
+
+2016
+
+Laba Bersih
+
+743,091,964
+
+Depresiasi dan Amortisasi
+
+60,285,714
+
+Perubahan Modal Kerja
+
+(512,140,893)
+
+Nilai Sisa
+
+Free Cash Flow
+
+(1,215,000,000) 291,236,786
+
+2017 826,497,589
+60,285,714 (562,184,268)
+324,599,036
+
+NPV
+
+2,190,529,679
+
+Cost Of Equity
+
+13%
+
+IRR
+
+46%
+
+Payback
+
+3.96
+
+Akumulasi FCF
+
+Sumber: Data olahan penulis, 2015
+
+Rata-rata suku bunga kredit BCA
+tahun (923,763,214) (599,164,179)
+
+2018
+
+2019
+
+2020
+
+914,118,777 1,010,502,083 1,116,523,720
+
+60,285,714 60,285,714 60,285,714
+
+(614,756,980) 359,647,511
+
+(672,586,964) 398,200,833
+
+(736,199,946)
+3,981,440,480 4,422,049,968
+
+(239,516,668) 158,684,165 4,580,734,133
+
+Berdasarkan tabel di atas, dapat dilihat bahwa arus kas Gemilang Technology mengalami kenaikan dari tahun ke tahun mulai dari Rp 291,236,786 hingga Rp
+
+102
+
+4,422,049,968. Lalu, Payback period Gemilang Technology yang didapatkan dari
+
+perhitungan berdasarkan adalah 3.96 tahun.
+
+Tabel 9.6 Tabel Payback period Gemilang Technology
+
+Year
+
+Free Cash Flow
+
+Payback
+
+0
+
+(1,215,000,000) (1,215,000,000)
+
+1
+
+291,236,786
+
+(923,763,214)
+
+2
+
+324,599,036
+
+(599,164,179)
+
+3
+
+359,647,511
+
+(239,516,668)
+
+4
+
+398,200,833
+
+158,684,165
+
+5
+
+4,422,049,968
+
+4,580,734,133
+
+Payback period 3.96 tahun
+
+Sumber: Data olahan penulis, 2015
+
+9.6.2 Net Present Value (NPV)
+
+Menurut (Ross, Westerfield dan Jordan 2010, 261), Definisi Net Present Value adalah sebagai berikut:
+
+"Net Present Value is the difference between an investment's market value and its cost."
+
+Dari pernyataan tersebut dapat diartikan bahwa Net Present Value merupakan perbedaan antara nilai investasi yang berada pada pasar setelah beberapa periode dengan investasi yang ditanamkan pada saat ini. Net Present Value mampu mengetahui hasil investasi dengan berdasarkan tingkat suku bunga dari Bank. Gemilang Technology mengasumsikan menggunakan tingkat suku bunga sebesar 13% berdasarkan pada suku bunga dari Bank Central Asia. Gemilang Technology memiliki Net Present Value yang dilakukan selama lima tahun sebesar Rp 2,190,529,679.
+
+103
+
+Tabel 9.7 Tabel Net Present Value Gemilang Technology
+
+Rate
+
+13%
+
+Year
+
+Free Cash Flow
+
+0
+
+(1,215,000,000)
+
+1
+
+291,236,786
+
+2
+
+324,599,036
+
+3
+
+359,647,511
+
+4
+
+398,200,833
+
+5
+
+4,422,049,968
+
+NPV
+
+2,190,529,679
+
+Sumber: Data olahan penulis, 2015
+
+9.6.3 Internal Rate of Return (IRR)
+
+IRR merupakan discount rate yang membuat Net Present Value dari investasi menjadi nol (Ross, Westerfield dan Jordan 2010, 273). IRR digunakan untuk melihat layak tidaknya suatu investasi bisnis. Suatu investasi bisnis dikatakan tidak layak jika memiliki IRR lebih rendah dari required return rate. Nilai IRR dari Gemilang Technology adala sebesar 46%. Nilai IRR tersebut dapat menjelaskan bahwa bisnis Gemilang Technology layak untuk dijalankan, karena diperlukan suku bunga sebesar 46% untuk menjadikan NPV dari bisnis Gemilang Technology menjadi nol. Selain itu, IRR Gemilang Technology memiliki persentase lebih besar, yaitu 46% daripada required rate return, yaitu 13%.
+
+9.7 Analisis Rasio
+
+Ada empat tujuan dari finansial perusahaan, yaitu Profitability, Liquidity, Efficiency dan Stability (Barringer 2012, 282). Profitabilitas adalah kemampuan perusahaan untuk mendapatkan keuntungan. Likuiditas adalah kemampuan perusahaan untuk
+
+104
+
+memenuhi kewajiban jangka pendeknya. Efisiensi adalah bagaimana produktivitas sebuah perusahaan dalam menggunakan aktivanya untuk menghasilkan pendapatan dan keuntungan. Stabilitas adalah kekuatan dari keseluruhan keuangan perusahaan. Analisis rasio merupakan cara yang digunakan oleh perusahaan untuk menginterpretasikan setiap laporan keuangan pada masa sekarang dan masa lalu. Dengan harapan analisis rasio dapat menunjang perusahaan dalam menentukan perkiraan yang paling memungkinkan mengenai kondisi dan kinerja perusahaan pada masa mendatang. Analisis rasio keuangan dilakukan dengan cara membandingkan antara dua atau lebih data laporan keuangan dalam satu periode tertentu. Tujuannya adalah memberi gambaran kelemahan dan kemampuan finansial perusahaan dari tahun ke tahun. Menurut (Ross, Westerfield dan Jordan 2010), ada tiga rasio yang dapat digunakan dalam analisis rasio, yaitu: 1. Rasio probabilitas
+Rasio profitabilitas menunjukkan hasil akhir yang terjadi pada periode sebelumnya untuk mengukur efektifitas pengelolaan perusahaan dalam menghasilkan perusahaan agar dapat menjadi pedoman bagi perkembangan perusahaan pada masa mendatang. Rasio profitabilitas antara lain: 1.1 Operating Profit Margin
+Adalah laba operasi sebelum bunga dan pajak (netto operating income).
+
+Operating Profit Margin =
+
+(1)
+
+105
+
+1.2 Net Profit Margin Rasio yang mengukur persentase laba bersih (setelah pajak) terhadap penjualan laba bersih perusahaan.
+
+Net Profit Margin =
+
+(2)
+
+1.3 Return on Assets Rasio yang mengukur efektifitas perusahaan di dalam menghasilkan keuntungan dengan memanfaatkan aktiva yang dimilikinya.
+
+ROA =
+
+(3)
+
+1.4 Return on Equity Rasio untuk mengukur kemampuan dari modal ekuitas yang dimiliki perusahaan dalam menghasilkan laba.
+
+ROE =
+
+(4)
+
+1.5 Return on Investment Rasio untuk mengukur kemampuan dari modal yang diinvestasikan dalam keseluruhan aktiva untuk menghasilkan laba bersih.
+
+ROI =
+
+(5)
+
+2. Rasio Likuiditas Rasio likuiditas adalah rasio yang digunakan untuk mengukur tingkat likuiditas perusahaaan yang menunjukkan kemampuan perusahaan dalam memenuhi kewajiban finansial jangka pendek. Rasio likuiditas antara lain:
+
+106
+
+1) Rasio lancar (current ratio) Rasio yang mengukur kemampuan perusahaan membayar hutang yang harus segera dipenuhi dengan aktiva lancar. Rumus current ratio adalah
+
+Current Ratio =
+
+(6)
+
+2) Rasio Cepat (Quick Ratio) Quick ratio atau Acid test ratio adalah ketika perusahaan mengeluarkan inventory karena inventory paling sulit atau paling lambat dicairkan menjadi uang kas. Rumus quick ratio adalah
+
+Quick ratio =
+
+(7)
+
+3. Rasio overall financial stability
+
+Rasio ini digunakan untuk mengukur stabilitas keuangan dari perusahaan.
+
+1) Debt ratio
+
+Rasio ini mengukur berapa besar perbandingan hutang perusahaan
+
+dibandingkan dengan total asetnya.
+
+Total Debt Ratio =
+
+=
+
+(8)
+
+2) Debt-to-equity ratio
+
+Rasio ini digunakan untuk mengukur berapa besar hutang perusahaan
+
+dibandingkan dengan modal yang ada.
+
+Debt to Equity ratio =
+
+(9)
+
+107
+
+Berdasarkan ketiga rasio keuangan diatas, Gemilang Technology memilih untuk melakukan analisa berdasarkan rasio probabilitas saja. Hal ini dikarenakan Gemilang Technology belum memiliki hutang pada awal usaha sehingga belum dapat melakukan analisis rasio likuiditas dan stabilitas. Berikut adalah hasil perhitungan rasio profitabilitas:
+1) Operating Profit Margin
+
+Operating Profit Margin2016 = 2) Net Profit Margin
+
+=
+
+= 0.780 = 78%
+
+Net Profit Margin2016 =
+
+=
+
+3) Return on Equity
+
+= 0.585 = 59%
+
+ROE2016 =
+
+=
+
+4) Return on Assets
+
+= 0.512 = 51%
+
+ROA2016 =
+
+=
+
+5) Return on Investment
+
+= 0.512 = 51%
+
+ROI2016 =
+
+=
+
+= 0.683 = 68%
+
+Tabel 9.8 Tabel analisis rasio probabilitas Gemilang Technology
+
+RASIO
+
+Deskripsi
+
+2016
+
+2017
+
+Rasio Profitabilitas
+
+Operating Profit Margin
+
+65%
+
+65%
+
+Net Profit Margin
+
+48%
+
+49%
+
+Return on Equity
+
+45%
+
+38%
+
+Return on Assets
+
+45%
+
+38%
+
+Return on Investment
+
+60%
+
+51%
+
+Sumber: Data olahan penulis, 2015
+
+2018
+66% 49% 34% 34% 45%
+
+2019
+66% 49% 31% 31% 41%
+
+2020
+66% 50% 28% 28% 37%
+
+108
+
+Dapat dilihat pada tabel 9.8 bahwa estimasi rasio profitabilitas Gemilang Technology selama lima tahun mengalami peningkatan dan stabil. Operating profit margin Gemilang Technology pada tahun 2016-2020 mengalami peningkatan dari 65 persen menjadi 60 persen. Net profit margin Gemilang Technology mengalami peningkatan dari 48 persen menjadi 50 persen. Return on equity Gemilang Technology mengalami penurunan dari 45 persen menjadi 28 persen. Return on assets Gemilang Technology mengalami penurunan dari 45 persen menjadi 28 persen. Return on investment Gemilang Technology mengalami penurunan dari 60 persen menjadi 37 persen. Peningkatan rasio dari tahun ke tahun ini menunjukkan bahwa Gemilang Technology dapat menghasilkan laba bersih dengan baik. Tetapi belum dapat melakukan pengembalian investasi dengan baik dan belum dapat menghasilkan keuntungan dari setiap modal yang dimiliki serta dapat memperoleh laba dengan efisien.
+109
+
+DAFTAR PUSTAKA
+
+Adhibarfan. "Dokumen Legal Aspek Pendirian Perusahaan," Adhibarfan Online.
+
+Homepage
+
+Online.
+
+Available
+
+from
+
+https://adhibarfan.wordpress.com/2015/11/02/dokumen-legal-aspek-
+
+pendirian-perusahaan/: Internet; Accessed 20 October 2015.
+
+Barringer, Bruce R., and R. Duane Ireland. Entrepreneurship: Successfully Launching New Ventures. 4. ed., global ed. Boston: Pearson, 2012.
+
+Bphmigas. "Kuota Volume Jenis BBM Tertentu Per Propinsi Tahun 2009 Berdasarkan Keputusan Menteri ESDM 2711/2009," Bphmigas online. Homepage Online. Available from http://www.bphmigas.go.id/id/kuotabbm/171--kuota-volume-jenis-bbm-tertentu-per-propinsi-tahun-2009berdasarkan-keputusan-menteri-esdm-27112009: Internet; Accessed 2 September 2015.
+Bygrave, William D., and Andrew Zacharakis. Entrepreneurship. Third edition. Hoboken, New Jersey: Wiley, 2014.
+David, Fred R. Strategic Management: Concepts and Cases. 13th ed. Upper Saddle River, N.J: Prentice Hall, 2011.
+Dessler, Gary. Human Resource Management. 13. ed., global ed. Boston: Pearson, 2013.
+Kartika. "Klasifikasi Industri," Kartikarachmawati Online. Homepage Online. Available from http://kartikarachmawati1.blogspot.co.id/2013/12/klasifikasiindustri.html: Internet; Accessed 9 October 2015.
+Johnson, Gerry, Kevan Scholes, and Richard Whittington. Exploring Corporate Strategy. 8th. ed. Harlow: Prentice Hall, 2009.
+
+Kadinjakarta. "Peraturan Menteri Perdagangan RI Nomor: 46/M-DAG/PER/9/2009,"
+
+Kadinjakarta online. Homepage online. Available from
+
+http://www.kadinjakarta.or.id/Opportunities/opu100600078/peraturan-
+
+menteri-perdagangan-ri-nomor---46-m-dag-per-9-2009.aspx:
+
+Internet;
+
+Accessed 2 September 2015.
+
+Kotler, Philip, and Gary M. Armstrong. Principles of Marketing. 15. ed., global ed. Boston: Pearson, 2014.
+
+110
+
+Robbins, Stephen P., and Mary K. Coulter. Management. 11th ed. Boston: Prentice Hall, 2012.
+Ross, Stephen A, Randolph Westerfield, and Bradford D Jordan. Fundamentals of Corporate Finance. Boston: McGraw-Hill Irwin, 2010.
+111

@@ -1,0 +1,1180 @@
+MODUL
+MANAJEMEN KEUANGAN
+Oleh : ADIH SUPRIADI, SE., MM.
+SEKOLAH TINGGI AGAMA ISLAM (STAI) NIDA EL ADABI
+0
+
+OUT LINE
+
+Bab I Bab 2 Bab 3 Bab 4 Bab 5 Bab 6 Bab 7 Bab 8 Bab 9 Bab 10
+
+: Ruang Lingkup Manajemen keuangan : Laporan Keuangan : Analisa Laporan Keuangan / Ratio Keuangan : Pengelolaan Modal Kerja : Pengelolaan Piutang : Pengelolaan Kas : Pengelolaan Persediaan : Penilaian Surat Berharga : Time Value of Money : Konsep Biaya Modal
+
+Referensi :
+Mardiyanto, Handono, (2009), Intisari Manajemen Keuangan, Jakarta, Grasindo. Margaretha, Farah, (2004), Manajemen Keuangan Bagi Industri Jasa, Jakarta, Grasindo Munawir, (2004), Analisa Laporan Keuangan, Yogyakarta, Liberty. Ali, Herni, Ahmad, Rodoni, (2010), Manajemen Keuangan, Jakarta, Mitra Media Houston, Bringham, (2001), Dasar-dasar Manajemen Keuangan, Jakarta, Salemba Empat. Husnan, Suad, (2009), Dasar-dasar Manajemen Keuangan, Yogyakarta, UPP STIM YKPN.
+
+1
+
+BAB I RUANG LINGKUP MANAJEMEN KEUANGAN
+1. Pengertian Manajemen Keuangan
+Manajemen Keuangan merupakan salah satu bagian utama dari ilmu manajemen. Pengertian Manajemen Keuangan adalah semua aktivitas entitas bisnis (organisasi) dalam kerangka penggunaan serta pengalokasian dana entitas bisnis (perusahaan) dengan efisien. pengertian ini mengalami berbagai perkembangan berawal dari pengertian yang hanya sekedar mengutamakan kegiatan mendapatkan / memperoleh dana saja hingga mencakup kegiatan mendapatkan, penggunaan dana hingga pengelolaan atas aset (aktiva). George R Terry menyebutkan ada empat aktivitas yang sering kali dikenal dengan POAC yang berakronim Planning - Organizing - Actuating - dan Controling.
+Ada beberapa ahli yang memberikan pendapatnya mengenai Pengertian Manajemen Keuangan :
+1. James Van Horne, menyatakan "semua kegiatan atau aktivitas yang berhubungan langsung dengan perolehan, pendanan serta pengelolaan aset (aktiva) dengan tujuan yang menyeluruh".
+2. Suad Husnan, berpendapat bahwa "Manajemen keuangan adalah manajemen terhahap semua fungsi keuangan".
+3. Bambang Riyanto, mendefinisikan "Semua aktivitas yang dilakukan oleh perusahaan yang berhubungan dengan upaya memperoleh dana yang dibutuhkan dengan biaya yang seminimal mungkin dan syarat yang menguntunggkan serta uapay untuk mempergunakan dana yang diperoleh tersebut secara efisien dan efektif".
+4. Liefman menyatakan "Definisi manajemen keuangan adalah upaya penyediaan uang dan mempergunakan dana tersebut untuk mendapatkan aset (aktiva)".
+Seperti yang disebut diawal tadi, dengan melihat beberapa pengertian diatas, pengertian manajemen keuangan secara sederhana adalah suatu proses dalam aktivitas keuangan perusahaan, dimulai dari cara memperoleh dana dan
+2
+
+mempergunakannya. penggunaannya harus tepat sasaran, efisien, dan efektif supaya tujuan keuangan perusahaan yang sudah ditetapkan dalam perencanaan bisa terwujud.
+2. Prinsip Manajemen Keuangan Manajemen keuangan tidak hanya sekedar pencatatan akuntansi saja. manajemen
+keuangan adalah bagian yang penting dan tidak bisa dianggap sebagai suatu kegiatan tersendiri yang menjadi bagian dari pekerjaan orang-orang keuangan.
+Manajemen Keuangan dalam prakteknya merupakan aktivitas yang dilakukan dan muncul dalam rangka untuk menyehatkan keuangan perusahaan atau organisasi. maka dari itu, dalam membuat sebuah sistem manajemen keuangan, kita membutuhkan prinsip prinsip ini yang menjadi dasarnya, diantarnya.
+a. Consistency (Konsistensi) Dalam prinsip konsistensi ini, suatu sistam serta kebijakan keuangan perusahaan haruslah konsisten, tidak berubah dari periode ke periode, namun perlu diingat bahwa sistem keuangan bukan berarti tidak boleh dilakukan penyesuaian bila ada suatu perubahan yang signifikan didalam perusahaan. pendekatan keuangan yang tidak konsisten bisa menjadi tanda bahwa ada manipulasi pada pengelolaan keuangan perusahaan.
+b. Accountability (Akuntabilitas) Prinsip ini adalah suatu kewajiban hukum ataupun moral, yang melekat kepada individu, kelompok ataupun perusahaan untuk memebri penjelasan bagaimana dana ataupun kewenangan yang telah diberikan kepada pihak ke-3 dipergunakan. pihak pihak harus bisa memberi penjelasan tentang penggunaan sumber daya dan apa saja yang sudah dicapai sebagai suatu bentuk pertanggung-jawaban kepada pihak pihak yang berkepentingan, agar semua tahu bagaimana kewenangan dan dana yang dimiliki itu dipergunakan.
+c. Transparancy (Transparansi) Manajemen harusnya terbuka terhadap pekerjaannya, memberikan informasi tentang rencana dan segala aktivitas kepada yang berkepentingan, termasuk memberikan laporan keuangan yang wajar, lengkap, tepat waktu dan akurat yagn bisa diakses dengan mudah oleh yang berkepentingan, apabila tidak transparan, maka ini bisa mengindikasikan manajemen telah menyembunyikan sesuatu.
+3
+
+d. Viability (Kelangsungan Hidup) Supaya kesehatan keuangan perusahaan terjaga, semua pengeluaran operasional ataupun ditingkat yang strategis harus disesuaikan dengan dana yang ada. kelangsungan hidup entitas merupakan ukuran suatu tingkat keamanan serta keberlanjutan keuangan perusahaan. manajemen keuangan harus menyusun rencana keuangan dimana menunjukkan bagaimana suatu perusahaan bisa menjalankan rencana strategisnya guna memenuhi kebutuhan keuangan.
+e. Integrity (Integritas) Setiap individu harus memiliki tingkat integritas yang mumpuni dalam menjalankan kegiatan operasional. selain itu catatan dan laporan keuangan harus terjaga intergritasnya dengan kelengkapan dan tingkat keakuratan suatu pencatatan keuangan
+f. Stewardship (Pengelolaan) Manajemen keuangan harus bisa mengelola dengan mumpuni dana yang sudah didapat dan memberikan jaminan bahwa dana yang diperoleh tersebut akan digunakan untuk merealisasikan tujuan yang sudah ditetapkan. dalam prakteknya, manajemen bisa melakukan bisa berhati hati dalam membuat perencanaan strategis, mengidentifikasikan resiko keuangan yang ada serta menyusun dan membuat sistem pengendalian keuangan yang sesuai.
+g. Accounting Standards (Standar Akuntansi) Sistem akuntansi keuangan yang dipakai harus sesuai dengan prinsip-prinsip dan standar aturan akuntansi yang berlaku. agar laporan keuangan yang dihasilkan bisa dengan mudah dipahami dan dimengerti oleh semua pihak pihak yang berkepentingan.
+3. Konsep Manajemen Keuangan Manajemen keuangan adalah manajemen mengenai fungsi keuangan, dan fungsi
+manajemen keuangan merupakan bagaimana mempergunakan serta menempatkan dana yang ada. fungsi fungsi yang ada dalam perusahaan harusnya dilaksanakan dengan baik mengingat fungsi fungsi yang ada saling berkaitan satu sama lain.
+Seperti telah dibahas diatas, Manajemen keuangan memiliki tiga kegiatan yang utama, yaitu :
+4
+
+a. Perolehan Dana, merupakan aktivitas yang bertujuan untuk memperoleh sumber dana, ntah itu berasal dari internal perusahaan ataupun bersumber dari eksternal perusahaan.
+b. Penggunaan Dana, suatu aktivitas menggunakan atau menginvestasikan dana yang ada pada berbagai bentuk aset
+c. Pengelolaan Aset (Aktiva), aktivitas ini adalah kegiatan yang dilakukan setelah dana telah didapat dan telah diinvestasikan atau dialokasikan kedalam bentuk aset (atkiva), dana harus dikelola secara efektif dan efisien.
+2. Fungsi Manajemen Keuangan a. Investment Decision (Keputusan Investasi) Investasi berarti penanaman modal pada aset riil ataupun aset finansial (surat berharga), keputusan investasi ini adalah suatu keputusan terhadap aset apa yang nantinya akan dikelola entitas/perusahaan. keputusan ini yang strategis ini akan berpegnaruh secara langsung terhadap besar kecilnya rentabilitas investasi serta aliran dana perusaan pada masa mendatang. b. Financing Decision (Fungsi Pendanaan) Keputusan mengenai pendanaan ialah dengan mempelajari berbagai sumber dana perusahaan, dalam laporan keuangan berada dalam sisi pasiva. keputusan ini harus memperhatikan sumber dana dengan biaya seminimal mungkin dan juga syarat yang bisa menguntungkan baik itu berasal dari internal perusahaan maupun sumber dana yang berasal dari luar perusahaan (eksternal). c. Deviden Decision (Keputusan Deviden) Dalam fungsi ini, keputusan biasanya menyangkut hal hal seperti: a) Besaran prosentase laba yang akan dibagikan kepada pemilik dalam bentuk kas b) tingkat stabilitas deviden yang akan dibagikan oleh manajemen c) stock devidend, (dividen saham) d) stock split (pemecahan saham) e) Penarikan saham yang telah beredar f) Perencanaan atas Keuangan, manajemen keuangan menyusun rencana pemasukan serta pengeluaraan dana dan juga aktivitas yang lain pada periode tertentu.
+5
+
+g) Melakukan Penganggaran keuangan perusahaan, ini adalah tindak lanjut atas perencanaan keuangan dengan menyusun lebih detail lagi semua pengeluaran dan pemasukan perusahaan
+h) Pengelolaan Keuangan perusahaan, dalam hal ini, manajemen keuangan mempergunakan dana yang ada dalam perusahaan untuk memaksimalkannya dengan berbagai cara yang bisa ditempuh
+i) Pencarian sumber dana, manajemen keuangan berusaha mencari sumber dana perusahaan yang akan digunakan kegiatan operasional perusahaan
+j) Penyimpanan Keuangan, manajemen keuangan menyimpan untuk mengamankan dana perusahaan yang telah dikumpulkan.
+k) Pengendalian atas keuangan, manajemen keuangan mengevaluasi dan memperbaiki suatu sistem keuangan yang ada dalam perusahaan yang dirasa belum mumpuni
+l) Melakukan pemeriksaan keuangan, internal audit atas laporan keuangan perusahaan dilakukan oleh manajemen keuangan untuk memastikan tidak adanya penyimpangan yang merugikan terjadi
+m) Pelaporan keuangan perusahaan, manajemen keuangan menyediakan informasi keuangan tentang kondisi kekinian keuangan perusahaan yang bisa dijadikan bahan evaluasi nantinya
+6
+
+BAB 2
+LAPORAN KEUANGAN
+1. Pengertian Laporan Keuangan Laporan keuangan adalah laporan yang berisi informasi keuangan sebuah
+organisasi. Laporan keuangan yang diterbitkan oleh perusahaan merupakan hasil proses akuntansi yang dimaksudkan sebagai sarana mengkomunikasikan informasi keuangan terutama kepada pihak eksternal. Menurut Soemarsono (2004: 34) "Laporan keuangan adalah laporan yang dirancang untuk para pembuat keputusan, terutama pihak diluar perusahaan, mengenai posisi keuangan dan hasil usaha perusahaan". Menurut PSAK No.1 Paragraf ke 7 (Revisi 2009), " Laporan Keuangan adalah suatu penyajian terstuktur dari posisi keuangan dan kinerja keuangan suatu entitas".
+Menurut Munawir yang berjudul "Analisa Laporan Keuangan" menyatakan "Laporan keuangan pada umumnya terdiri dari Neraca, Laporan Laba Rugi, dan Laporan Perubahan Modal atau Laba yang Ditahan, walaupun dalam prakteknya sering diikutsertakan beberapa daftar yang sifatnya untuk memperoleh kejelasan lebih lanjut. Misalnya, Laporan Perubahan Modal Kerja, Laporan Arus Kas, Perhitungan Harga Pokok, maupun daftar-daftar lampiran yang lain."(2002:13)
+Menurut Ikatan Akuntansi Indonesia (IAI) dalam bukunya yang berjudul "Standar Akuntansi Keuangan" adalah sebagai berikut : "Laporan keuangan yang lengkap biasanya meliputi Neraca, Laporan Laba Rugi, Laporan Perubahan Posisi Keuangan (yang disajikan dalam berbagai cara misalnya, Laporan Arus Kas atau Laporan Arus Dana), catatan dan laporan lain serta materi penjelasan yang merupakan bagian integral dari laporan keuangan. Di samping itu juga termasuk skedul informasi tambahan yang berkaitan dengan laporan tersebut, misalnya, informasi keuangan segmen industri dan geografis serta pengungkapan perubahan harga."(2004:2)
+Laporan keuangan merupakan hasil akhir dari proses akuntansi yang memberikan gambaran tentang keadaan posisi keuangan, hasil usaha, serta perubahan dalam posisi keuangan suatu perusahaan. Laporan keuangan juga merupakan kesimpulan dari pencatatan transaksi yang dilakukan oleh suatu perusahaan. Laporan keuangan adalah media yang paling penting untuk menilai kondisi ekonomi dan prestasi manajemen. Laporan keuangan disusun berdasarkan Standar Akuntansi Keuangan (SAK) yang telah ditetapkan oleh Ikatan Akuntan Indonesia (IAI). SAK
+7
+
+memberikan fleksibilitas bagi manajemen dalam memilih metode maupun estimasi akuntansi yang dapat digunakan. Wardhani (2008) menyatakan fleksibilitas tersebut akan mempengaruhi perilaku manajer dalam melakukan pencatatan akuntansi dan pelaporan transaksi keuangan perusahaan. 2. Bagian-bagian Laporan Keuangan
+Laporan keuangan merupakan catatan informasi keuangan perusahaan pada suatu periode akuntansi yang dapat digunakan untuk menggambarkan kinerja perusahaan te rsebut. Laporan keuangan bersifat historis dan menyeluruh. Laporan keuangan adalah bagian dari proses pelaporan keuangan. Adapun bagian-bagian laporan keuangan terdiri dari : a. Laporan Arus Kas / Cash Flow
+Biasanya disebut daftar sumber dan penggunaan dana, menunjukkan asal kas diperoleh dan bagaimana digunakannya. Laporan Arus Kas / Cash Flow menyediakan latar belakang historis dari pola aliran dana. Laporan Arus Kas menyajikan data-data mengenai arus kas dari kegiatan operasional, kegiatan investasi, kegiatan keuangan/pembiayaan, dan saldo kas awal, serta saldo kas akhir. Contoh Laporan arus kas / cashflow
+KOPERASI XXX
+8
+
+LAPORAN ARUS KAS PER 31 DESEMBER 2012
+
+NO.
+
+URAIAN
+
+I. Arus Kas Masuk
+
+1. Saldo Awal
+
+2. Penerimaan Simpanan
+
+a. Simpanan Sukarela
+
+b. Simpanan Wajib
+
+c. Simpanan Pokok
+
+d. Simpanan Berjangka
+
+3. Pendapatan Unit Simpan Pinjam
+
+a. Jasa Pembiyaan Sukarela
+
+b. Simpanan Wajib
+
+c. Simpanan Pokok
+
+d. Provisi Pembiyaan UKM
+
+e. Adm. Pembiyaan UKM
+
+f. Materai Pembiyaan
+
+g. Tabarru' Pembiyaan UKM
+
+h. Adm. Tutup Buku
+
+I. DAM Pembiyaan
+
+4. Angsuran Pembiyaan Reguler
+
+5. Angsuran Pembiyaan UKM
+
+a. UKM I ( SK I )
+
+b. UKM II ( SK II )
+
+c. UKM III ( SK III )
+
+d. UKM IV ( Maestro )
+
+e. UKM V ( Pelunasan )
+
+f. UKM VI ( SHU )
+
+g. UKM VII (Sukarela)
+
+h. UKM VIII (SK IV)
+
+i. UKM XI (Kopwan)
+
+j. UKM XII (SK 5)
+
+k. UKM LPDB
+
+l. UKM Sim-Pok
+
+6. Penerimaan Pinjaman
+
+7. Setoran Medic
+
+8. Pengembalian DP Medic
+
+9. Pengembalian Biaya Notaris
+
+10. Pengembalian Warkmaking
+
+11. Dana Pendidikan dari SHU '11
+
+12. Dana Sosial & PD dari SHU '11
+
+13. Dana Cadangan dari SHU '11
+
+14. Dana SHU Anggota dari SHU '11
+
+JUMLAH
+Rp 13.791.900
+Rp 129.453.862 Rp 13.732.000 Rp 7.600.000 Rp 210.500.000
+Rp 13.239.000 Rp 1.230.000 Rp 1.970.000 Rp 697.500 Rp 1.005.000 Rp 1.110.000 Rp 1.225.000 Rp 230.000 Rp 648.500 Rp 162.762.500
+Rp 1.750.000 Rp 900.000 Rp 2.900.000 Rp 700.000 Rp 100.000 Rp 300.000 Rp 200.000 Rp 2.150.000 Rp 18.850.000 Rp 3.450.000 Rp 95.500.000 Rp 15.900.000 Rp 226.000.000 Rp 2.500.000 Rp 3.550.000 Rp 2.500.000 Rp 300.000 Rp 3.256.460 Rp 1.628.230 Rp 6.512.920 Rp 16.282.300
+
+9
+
+15. Pendapatan U. Mitra & Mandiri 16. Pengembalian Modal U. Mandiri
+Jumlah Penerimaan
+Jumlah Arus Kas Masuk
+
+Rp 1.665.000
+Rp 6.500.000 Rp 958.798.272 Rp 972.590.172
+
+II. Arus Kas Keluar
+
+JUMLAH
+
+1. Pembiyaan Reguler 2. Pembiyaan UKM XI (Kopwan) 3. Pembiyaan UKM LPDB 4. Pembiyaan UKM Sim-Pok 5. Pembiyaan UKM dari Cadangan 6. Penarikan Simpanan
+a. Simpanan Sukarela b. Simpanan Pokok c. Simpanan Wajib d. Saham 7. Pembayaran Beban
+
+Rp 192.200.000 Rp 7.000.000 Rp 125.750.000 Rp 14.000.000 Rp 11.000.000
+Rp 87.150.485 Rp 1.150.000 Rp 1.970.000 Rp 1.000.000
+
+a. Operasional 8. Pembayaran Hutang ke LPDB
+a. Pokok b. Jasa 9. Penyaluran Dana Pendidikan 10. Penyaluran Dana Sosial 11. Pembelian alkes Medic 12. Penyaluran SHU Anggota th '11 13. Dana Pendidikan dari SHU '11 14. Dana Sosial & PD dari SHU '11 15. Dana Cadangan dari SHU '11 16. Dana P2K dr SHU '11 17. Modal Unit Usaha Mandiri
+
+Rp 50.397.174
+Rp 38.202.222 Rp 9.862.400 Rp 2.500.000 Rp 1.420.000 Rp 31.998.550 Rp 16.282.300 Rp 3.256.460 Rp 1.628.230 Rp 6.512.920 Rp 4.680.000 Rp 17.356.000
+
+18. Modal Unit Usaha Mitra 18. Tunjangan Hari Raya (THR)
+
+Rp 301.607.000 Rp 2.000.000
+
+19. Pembayaran Hutang ke SK
+
+Rp 4.300.000
+
+Jumlah Arus Kas Keluar Rp 933.223.741
+
+Saldo Akhir
+
+Rp 39.366.431
+
+10
+
+b. Laporan laba rugi Laporan keuangan yang berisikan informasi tentang keuntungan atau kerugian yang diderita oleh perusahaan dalam satu periode tertentu. Pada laporan ini menyajikan data pendapatan sebagai hasil usaha perusahaan dan beban sebagai pengeluaran operasional perusahaan. Contoh Laporan laba rugi
+
+KOPERASI SERBA USAHA (KSU) XXX LAPORAN LABA / RUGI PER 31 DESEMBER 2012
+
+NO.
+
+URAIAN
+
+JUMLAH
+
+A. PENDAPATAN
+
+I. UNIT USAHA SIMPAN PINJAM
+
+1. Jasa Pinjaman Reguler
+
+Rp 13.239.000
+
+2. Administrasi Pinjaman Reguler Rp 1.230.000
+
+3. Tabarru'
+
+Rp 3.195.000
+
+4. Jasa Pinjaman UKM
+
+Rp 43.912.500
+
+5. Provisi Pinjaman UKM
+
+Rp 697.500
+
+6. Administrasi Pinjaman UKM Rp 975.000
+
+7. Materai
+
+Rp 1.140.000
+
+8. Administrasi Tutup Buku
+
+Rp 230.000
+
+9. DAM
+
+Rp 648.500
+
+Jumlah Rp 65.267.500
+
+11
+
+II. UNIT USAHA MITRA & MANDIRI
+
+Rp 1.845.000
+
+Jumlah Rp 1.845.000
+
+III. UNIT USAHA P3 (PERTANIAN,
+
+Rp
+
+-
+
+(PETERNAKAN & PERIKANAN)
+
+Rp
+
+-
+
+Jumlah Rp
+
+-
+
+IV. Pendapatan lain-lain
+
+Rp
+
+-
+
+Jumlah Rp
+
+-
+
+Total Pendapatan Rp 67.112.500
+
+B. BEBAN / BIAYA 1. Pembelian Kipas Angin 2. Pembelian Materai 3. Perbaikan Ruko 4. Administrasi Bank 5. Cetak Buku & Spanduk 6. Pembelian Kursi Medic 7. Gaji Cleaning Service 8. Insentif Pengurus dan Karyawan 9. Santunan 10. Air Minum & Konsumsi 11. Listrik & Telpon 12. Foto Copy & ATK 13. Biaya Notaris 14. Cadangan Biaya RAT Th. 2012 Total Beban / Biaya
+
+Rp 50.000
+
+Rp 240.000
+
+Rp 600.000
+
+Rp 45.000
+
+Rp 500.000
+
+Rp 120.000
+
+Rp 2.400.000
+
+Rp 42.400.000
+
+Rp 613.674
+
+Rp 415.000
+
+Rp 1.883.500
+
+Rp 830.000
+
+Rp 300.000
+
+Rp
+
+-
+
+Rp 50.397.174
+
+SISA/SURPLUS HASIL USAHA
+
+Rp 16.715.326
+
+12
+
+c. Neraca
+
+Laporan keuangan yang menunjukkan kondisi keuangan perusahaan pada waktu
+
+tertentu. Neraca menyajikan dalam data historikal aktiva yang merupakan sumber
+
+operasi perusahaan yang dijalankan, utang yaitu kewajiban perusahaan, dan
+
+modal dari pemegang saham perusahaan.
+
+Contoh Neraca
+
+Aktiva Aktiva Lancar Kas Efek Piutang Dagang Persediaan Barang Jumlah Aktiva lancar
+Aktiva Tetap Tanah Bangunan Mesin dan Peralatan Kendaraan Penyusutan Jumlah Aktiva Tetap Total Aktiva
+
+PT XXX
+
+NERACA
+
+31 Desember 200x
+
+Passiva
+
+xxx xxx xxx xxx
+xxx
+
+Hutang Lancar Hutang Dagang Hutang Wesel Hutang Pajak Jumlahl Hutang Lancar
+Hutang Jangka Panjang Hutang Obligasi
+
+xxx xxx xxx
+xxx
+xxx
+
+xxx xxx xxx xxx (xxx)
+xxx XXX
+
+Hutang Bank Jumlah Hutang Jk. Panjang Total Hutang
+
+xxx xxx XXX
+
+Modal
+
+xxx
+
+Total Passiva (Hutang+Modal) XXX
+
+13
+
+d. Laporan perubahan modal / ekuitas Laporan perubahan modal/ekuitas merupakan laporan yang menyajikan perubahan modal setelah digunakan untuk membiayai kegiatan usaha perusahaan selama satu periode akuntansi. Contoh Laporan perubahan modal/ekuitas
+14
+
+e. Catatan dan laporan lain sebagai penjelasan bagi laporan keuangan Catatan dan laporan lain merupakan bagian integral yang tak terpisahkan dari laporan keuangan. Catatan-catatan ini tergantung pada kebijakan akuntansi yang digunakan pada waktu mempersiapkan laporan keuangan dan memberi tambahan detail mengenai beberapa bagian di laporan keuangan. Misalnya, Laporan Harga Pokok Produksi, Laba Ditahan, Laporan Kegiatan Keuangan. Contoh Laporan harga pokok produksi
+15
+
+3. Tujuan Laporan Keuangan Menurut PSAK No.1 Paragraf ke 7 (Revisi 2009), "tujuan laporan keuangan adalah m
+emberikan informasi mengenai posisi keuangan, kinerja keuangan dan arus kas entitas ya ng bermanfaat bagi sebagian besar kalangan pengguna laporan dalam pembuatan keputus an ekonomi". Laporan keuangan juga menunjukkan hasil pertanggungjawaban manajeme n atas penggunaan sumber daya yang dipercayakan kepada mereka.
+Menurut SFAC Nomor 1 tentang Objective of Financial Reporting by Business Enterp rises, tujuan pelaporan keuangan adalah Menyediakan informasi yang berguna bagi inves tor, kreditor, dan pengguna potensial lainnya dalam membantu proses pengambilan keput usan yang rasional atas investasi, kredit dan keputusan lain yang sejenis, Menyediakan in formasi yang berguna bagi investor, kreditor, dan pengguna potensial lainnya yang memb antu dalam menilai jumlah, waktu, dan ketidakpastian prospek penerimaan kas dari divid en atau bunga dan pendapatan dari penjualan, penebusan atau jatuh tempo sekuritas atau pinjaman. Menaksir aliran kas masuk (future cash flow) pada perusahaan, Memberikan in formasi tentang sumber daya ekonomi, klaim atas sumber daya tersebut dan perubahanya.
+Dalam rangka membantu pengguna laporan keuangan dalam memahami dan mengint erpretasikan laporan keuangan maka perlu dibuat analisis laporan keuangan. Analisis lapo ran keuangan dimaksudkan untuk membantu bagaimana memahami laporan keuangan, b agaimana menafsirkan angka-angka dalam laporan keuangan, bagaimana mengevaluasi la poran keuangan dan bagaimana menggunakan informasi keuangan untuk pengambilan ke putusan. Analisa laporan keuangan dilakukan untuk mencapai tujuan: a. Untuk mengetahui perubahan posisi keuangan perusahaan pada satu periodetertentu
+baik aktiva, kewajiban, dan harta maupun hasil usaha yang telah dicapai untuk beberapa periode. b. Untuk mengetahui kelemahan dan kekuatan apa saja yang dimiliki oleh perusahaan. c. Untuk mengetahui langkah-langkah perbaikan apa saja yang perlu dilakukankedepan yang berkaitan dengan posisi keuangan saat ini. d. Untuk melakukan penilaian atau evaluasi kinerja manajemen kedepan,apakah perlu penyegaran atau tidak karena sudah dianggap berhasil atau
+4. Bentuk Laporan Keuangan a. Analisis Vertikal (statis) Analisis vertical merupakan analisis yang dilakukan terhadap hanya satu periode lap oran keuangan saja. Analisis dilakukan antara pos-pos yang ada, dalam satu periode.
+16
+
+Informasi yang diperoleh hanya untuk satu periode saja dan tidak diketahui perkemb angan dari periode ke periode tidak diketahui. b. Analisis Horisontal (dinamis) Analisis horizontal merupakan analisis yang dilakukan dengan membandingkan lapo ran keuangan untuk beberapa periode. Dari hasil analisis ini akan terlihat perkemban gan perusahaan dari periode yang satu ke periode yang lain.
+5. Pihak-Pihak Yang Memerlukan Laporan Keuangan a. Pihak Internal Pihak internal adalah pihak yang berada dalam struktur organisasi. Manajemen adalah pihak yang paling membutuhkan laporan akuntansi yang tepat dan akurat untuk meng ambil keputusan yang baik dan benar. Contohnya seperti manajer yang melihat posisi keuangan perusahaan untuk memutuskan apakah akan membeli gedung untuk kantor c abang baru atau tidak. b. Pihak Eksternal Menurut Kerangka Dasar Penyusunan dan Penyajian Laporan Keuangan dalam Stand ar Akuntansi Keuangan ( SAK) paragraf ke 9 ( Revisi 2009), dinyatakan bahwa pengg una laporan keuangan meliputi investor sekarang dan investor potensial, karyawan, pe mberi pinjaman, pemasok dan kreditor usaha lainnya, pelanggan, pemerintah serta le mbaga-lembaga lainnya dan masyarakat. Mereka menggunakan laporan keuangan unt uk memenuhi beberapa kebutuhan informasi yang berbeda. Beberapa kebutuhan ini : - Investor Penanam modal berisiko dan penasehat mereka berkepentingan dengan risiko yan g melekat serta hasil pengembangan dari investasi yang mereka lakukan. Mereka membutuhkan informasi untuk membantu menentukan apakah harus membeli, m enahan, atau menjual investasi tersebut. Pemegang saham juga tertarik pada infor masi yang memungkinkan mereka untuk menilai kemampuan perusahaan untuk membayar deviden. - Karyawan Karyawan dan kelompok-kelompok yang mewakili mereka tertarik pada informas i mengenai stabilitas dan profitabilitas perusahaan. Mereka juga tertarik dengan in formasi yang memungkinkan mereka untuk menilai kemampuan perusahaan dala m memberikan balas jasa, manfaat pensiun, dan kesempatan kerja, - Pemberi Pinjaman / Kreditur
+17
+
+Pemberi pinjaman tertarik dengan informasi keuangan yang memungkinkan mere ka untuk memutuskan apakah pinjaman serta bunganya dapat dibayar pada saat ja tuh tempo. - Pemasok dan kreditor usaha lainnya Pemasok dan kreditor usaha lainnya tertarik dengan informasi yang memungkink an mereka untuk memutuskan apakah jumlah yang terutang akan dibayar pada sa at jatuh tempo. - Pelanggan Para pelanggan berkepentingan dengan informasi mengenai kelangsungan hidup perusahaan terutama kalau mereka terlibat dalam perjanjian jangka panjang atau t ergantung pada perusahaan - Pemerintah Pemerintah dan berbagai lembaga yang berada dibawah kekuasannya berkepentin gan dengan alokasi sumber daya dan karena itu berkepentingan dengan aktivitas p erusahaan. Mereka juga membutuhkan informasi untuk mengatur aktivitas perusa haan, menetapkan kebijakan pajak sebagai dasar untuk menyusun statistik pendap atan nasional dan statistik lainnya. - Masyarakat Laporan keuangan dapat membantu masyarakat dengan menyediakan informasi k ecenderungan (trend) dan perkembangan terakhir kemakmuran perusahaan serta r angkaian aktivitasnya.
+6. Pemeriksaan Laporan Keuangan Dalam praktiknya pemeriksaan laporan keuangan yang telah disusun perlu dila
+kukan pemeriksaan (audit) lebih lanjut. Tujuanya adalah agar laporan keuangan ters ebut benar-benar dapat dipertanggung jawabkan kepada berbagai pihak, baik kepada pemilik maupun pihak luar perusahan. Pemeriksaan laporan keuangan dapat dilakuk an oleh dua pihak,yaitu:
+a. Pihak dalam (intern) perusahaan / auditor internal b. Pihak luar (ekstern) perusahaan / auditor eksternal
+18
+
+7. Manfaat Laporan Keuangan
+a. Untuk mengetahui posisi keuangan perusahaan dalam satu periode tertentu, baik harta, kewajiban, modal, maupun hak usaha yang telah dicapai untuk bebrapa periode.
+b. Untuk mengetahui kelemahan-kelemahan apa saja yang menjadi kekurangan perusahaan.
+c. Untuk megetahui kekuatan-kekuatan yang dimiliki. d. Untuk melakukan penilaian kinerja manajemen ke depan, apakah perlu
+penyegaran atau tidak karena sudah dianggap berhasil atau gagal. e. Dapat juga digunakan sebagai pembanding dengan perusahaan sejenis
+tentang hasil yang mereka capai. f. Untuk mengetahui langkah-langkah perbaikan apa saja yang perlu dilakukan
+ke depan yang berkaitan dengan posisi keuangan perusahaan saat ini.
+8. Kelemahan dan Keterbatasan Laporan Keuangan Laporan keuangan mempunyai kelemahan antara lain : a. Laporan keuangan yang dibuat secara periodik pada dasarnya merupakan laporan yang dibuat antara waktu tertentu yang sifatnya sementara. b. Laporan keuangan menunjukan angka yang kelihatanya bersifat pasti dan tepat, tetapi dasar penyusunannya dengan standar nilai yang mungkin berbeda atau berubah-ubah. c. Laporan keuangan tidak dapat mencerminkan berbagai faktor yang dapat mempengaruhi posisi atau keadaan keuangan perusahaan. d. Laporan keuangan bersifat sejarah (histories) yang merupakan laporan kejadian-kejadian di masa lalu atau yang telah lewat. e. Laporan keuangan itu bersifat umum, dan bukan untuk memenuhi keperluan tiap-tiap pemakai. Keterbatasan Laporan Keuangan dengan melihat beberapa sifat laporan keuangan ter sebut di atas maka dapat dilihat bahwa laporan keuangan itu mempunyai beberapa k eterbatasan antara lain: a. Laporan keuangan dibuat antara waktu tertentu (interm report) dan bukan merupakan laporan final.
+19
+
+b. Adanya beberapa standar nilai yang bergabung. Beberapa aktiva, biasanya aktiva tetap dilaporkan berdasarkan harga perolehan dikurangi dengan akumulasi penghapusannya, karenanya nilai aktiva itu dalam laporan keuangan akan tercantum sebesar nilai bukunya.
+c. Adanya pengaruh daya beli uang berubah Daya beli uang dari hari kehari selalu berubah sesuai dengan kehidupan perekonomian sehari-hari.
+d. Adanya faktor-faktor yang tidak dinyatakan dengan uang, Laporan keuangan adalah akumulasi dari kejadian-kejadian atau transaksi-transaksi perusahaan yang dapat dinyatakan dengan satuan uang.
+e. Laporan keuangan bersifat historis, yaitu merupakan laporan atas kejadian yang telah lewat, oleh karena itu laporan keuangan tidak dapat dianggap sebagai satu-satunya sumber informasi dalam proses pengambilan keputusan ekonomi.
+f. Laporan keuangan bersifat umum dan bukan dimaksudkan untuk memenuhi kebutuhan pihak-pihak tertentu.
+g. Proses penyusunan iaporan keuangan tidak luput dari penggunaan taksiran taksiran dan berbagai pertimbangan.
+20
+
+BAB 3 ANALISA RATIO KEUANGAN
+
+Laporan keuangan merupakan cerminan dari prestasi manajemen dalam periode tertentu. Hal ini dapatdilakukan dengan melakukan evaluasi atas Laporan Keuangan tersebut dengan meng hubungkan elemen-elemennya,yang biasa disebut dengan analisa rasio Keuangan.
+
+Likuiditas, Solvabilitas, Rentabilitas Kinerja perusahaan secara sederhana bisa diketahui dari 3 aspek, yaitu
+
+1. Likuiditas Kemampuan perusahaan untuk memenuhi kewajiban-kewajibannya yang harus segera dipenuhi. Semakintinggi likuiditas makin percaya para kreditor jk pendek.
+
+Aktiva lancar Likuiditas = ---------------------
+Hutang lancar
+
+minimal 2 : 1
+
+Kurang dari 2 dianggap kurang baik; tetapi terlalu tinggi juga menunjukkan ketidakefi sienan penggunaandana karena banyak dana menganggur (idle fund)
+
+2. Solvabilitas Kemampuan perusahaan untuk memenuhi semua kewajibannya apabila perusahaan di likuidasi.
+
+Total aktiva Solvabilitas = -------------------
+Total Hutang
+
+Dikatakan Solvabel apabila perbandingannya lebih dari 1:1
+Jika kurang dari 1 maka insolvable.
+3. Rentabilitas Kemampuan perusahaan dalam menghasilkan keuntungan dengan semua modal (modal sendiri dan modalasing) yang bekerja di dalamnya. Laba Rentabilitas = ------------------- x 100% Total Modal
+
+21
+
+Rentabilitas terbagi 2, yaitu :
+a. Rentabilitas Ekonomis Kemampuan perusahaan dalam menghasilkan laba dengan semua modal.
+EBIT RE = ----------- x 100%
+MS+MA
+
+b. Rentabilitas Modal Sendiri Kemampuan perusahaan untuk menghasilkan laba dengan modal sendiri.
+EAT RMS = ----------- X 100%
+MS
+
+Contoh soal :
+
+Dari modal Rp.1.000.000.000, MS = Rp.500.000.000 dan MA = Rp. 500.000. 000 dg bunga 20%/th
+
+Penjualan Harga Pokok penjualan Laba Kotor Biaya Operasi EBIT Bunga(20%x500jt) EBT Pajak 30% EAT Maka :
+
+Rp. 500.000.000 200.000.000-
+Rp. 300.000.000 80.000.000-
+Rp. 220.000.000 Rp. 100.000.000Rp. 120.000.000
+36.000.000Rp. 84.000.000
+
+220.000.000 RE = ------------------------ x 100% = 22%
+1.000.000.000
+
+84.000.000 RMS = --------------------- x 100%= 16,8%
+500.000.000
+
+22
+
+Jenis-Jenis Rasio Keuangan
+Menurut sumber dari mana rasio itu dibuat maka rasio dikelompokkan menjadi :
+a. Rasio-rasio Neraca : current ratio, Cash ratio, Debt to Equity ratio, dll b. Rasio-rasio Laporan Laba Rugi : profit margin, operating ratio, dll c. Rasio-rasio antar Laporan ; Return on Investment, Return on Equity, Asset turnover, dll.
+Menurut tujuan penggunaanya, rasio di atas dikelompokkan menjadi :
+1. Ratio Likuiditas (Liquidity Ratios) 2. Ratio Leverage (Leverage Ratios) 3. Ratio Aktivitas (Activity Ratios) 4. Ratio Keuntungan (Profitability Ratios) 5. Ratio Penilaian (Valuation Ratios)
+1. Rasio Likuiditas (Liquidity Ratios) Mengukur kemampuan perusahaan dalam membayar hutang-hutang jangka pendeknya. (mengukur tangka tkeamanan kredit jangka pendek).
+Alat ukurnya terdiri atas :
+a. Current Ratio Membandingkan antara aktiva lancar dengan hutang jangka pendek. Aktiva Lancar Current ratio = ----------------Hutang lancer
+b. Qiuck Rqtio / Acid Test Ratio Menunjukkan besarnya alat likuid yang paling cepat yang biasa digunakan unt uk melunasi hutanglancar.
+Persediaan dianggap aktiva lancar yang tidak lancar.
+Aktiva Lancar - Persediaan Quick Ratio = -----------------------------------
+Hutang Lancar
+23
+
+c. Cash Ratio Membandingkan antara kas dan aktiva lancar yang bisa segera menjadi uang k as dengan hutanglancar. Aktiva lancar yang bisa menjadi uang kas adalah efek (surat berharga).
+Kas + Efek Cash Ratio = ---------------
+Hutang Lancar
+2. Ratio Leverage (Leverage Ratios)
+Mengukur sampai seberapa jauh aktiva perusahaan dibiayai dengan hutang. Jika perus ahaan dalamberoperasi sepenuhnya menggunakan modal sendiri maka leveragenya 0. Rasio Leverage terdiri atas :
+a. Total Debt To Total Asset Ratio (Rasio Total Hutang Dengan Total Aktiva)
+Mengukur besarnya dana yang berasal dari hutang, baik hutang jk pendek mau pun hutang jkpanjang. Kreditor lebih menyukaidebt ratioyang rendah sebab ti ngkat keamanan dananya menjadisemakin baik.
+Total Hutang Debt Ratio = ----------------- x 100%
+Total Aktiva
+b. Debt To Equity Ratio (Rasio Hutang Dengan Modal Sendiri)
+Merupakan imbangan antar hutang yang dimiliki perusahaan dengan modal se ndiri. Semakin tinggirasio ini berarti modal sendiri semakin sedikit dibanding hutangnya. Besarnya hutang tidak bolehmelebihi modal sendiri agar beban teta pnya tidak terlalu tinggi.
+Total Hutang Debt to equity ratio = ---------------- x 100%
+Modal Sendiri
+c. Time Interest Earned Ratio (Coverage Ratio) Rasio antara laba sebelum bunga dan pajak dengan beban bunga; yang mengu kur kemampuanperusahaan memenuhi beban tetapnya berupa bunga dengan
+24
+
+laba yang diperolehnya ; Atau mengukur berapa kali besarnya laba bisa menutup beban bunganya.
+Laba sebelum bunga & pajak Time Interest earned Ratio = ------------------------------------
+beban bunga
+d. Fixed Chargecoverage Ratio Rasio yang mengukur kemampuan perusahaan untuk menutup beban tetapnya termasuk pembayarandeviden saham preferen, bunga, angsuran pinjaman, dan sewa (jika leasing).
+EBIT+Bunga+Angsuran Lease Fixed Charge coverage Ratio = -----------------------------------------
+Bunga+angsuran Lease
+e. Debt service ratio (DSR) Kemampuan perusahaan dalam memenuhi beban tetapnya termasuk angsuran pokok pinjaman.
+Laba Sebelum Bunga dan Pajak Debt Service Ratio = ----------------------------------------------
+angsuran pokok Bunga+Sewa+ (1 ­ tariff pajak)
+3. Ratio Aktivitas (Aktivity Ratios) Mengukur seberapa besar efektifitas perusahaan dalam memanfaatkan sumber danany a. Semakin efektif dalam memanfaatkan danaya semakin cepat perputaran masing-ma sing elemen aktiva.
+25
+
+Ratio ini meliputi :
+a. Inventory Turnover / ITO (Perputaran Persediaan)
+Semakin tinggi persediaan berputar semakin efektif perusahaan dalam mengelola persediaan.
+Harga Pokok penjualan ITO = --------------------------------
+Rata-rata Persediaan
+Untuk mengetahui lamanya perputaran persediaan dihitung dengan Average Day's inventory
+Rata-rata persediaan x 360 hari ADI = -------------------------------------
+HPP
+b. Receivable Turnover / RTO (Perputaran Piutang)
+Semakin cepat perputaran piutang; semakin efektif perusahaan dalam mengelola p iutangnya.
+Penjualan Kredit Perputaran Piutang = -----------------------
+Rata-rata piutang
+Lamanya piutang tertagih dihitung dengan cara : Receivable Collection Period Rata-rata piutang x 360 hari
+RCP = ----------------------------------Penjualan kredit
+c. Fixed Assets Turnover (Perputaran Aktiva Tetap) Perbandingan antara penjualan dengan total aktiva tetap yang dimiliki perusahaan. Rasio ini mengukurefektifitas penggunaan aktiva tetap dalam mendapatkan pengh asilan
+Penjualan Perputaran aktiva Tetap = --------------------
+Aktiva Tetap
+26
+
+d. Assets Turnover / Ato (Perputaran Aktiva) Mengukur efektifitas pemanfaatan aktiva dalam menghasilkan penjualan. Semakin besar perputaranaktiva semakin efektif perusahaan mengelola aktivanya.
+Penjualan Perputaran aktiva = ------------------
+Total Aktiva
+4. Ratio Keuntungan (Profitability Ratios) Rasio ini mengukur seberapa besar tingkat keuntungan yang dapat diperoleh perusaha an. Semakin besartingkat keuntungan , semakin baik manajemen dalam mengelola per usahaan. Yang termasuk dalam rasio iniadalah :
+a. Profit Margin Kemampuan perusahaan untuk menghasilkan keuntungan dibandingkan penju alan yang dicapai.
+Laba Kotor Gross Profit Margin = -------------- x 100%
+Penjualan
+EBIT Profit Margin = ------------ x 100%
+Penjualan
+EAT Net Profit Margin = ---------- x 100%
+Penjualan
+b. Return On Asset (ROA) = Rentabilitas Ekonomis Kemampuan perusahaan dalam menghasilkan keuntungan dengan semua aktiv a yang dimiliki olehperusahaan. EBIT Return on Assets = -------------- x 100% Total Aktiva
+27
+
+c. Return On Equity (ROE) = Rate Of Return On Net Worth = Rentabilitas Modal Sendiri. Kemampuan perusahaan dalam menghasilkan keuntungan dengan modal sendi ri yang dimiliki. Laba yang diperhitungkan adalah laba bersih setelah pajak.
+EAT ROE = ---------------- x 100%
+Modal Sendiri
+d. Return On Investmen (ROI) Kemampuan perusahaan untuk menghasilkan keuntungan yang akan digunaka n untuk menutup investasi yang dikeluarkan.
+EAT ROI = ------------ x 100%
+Investasi
+e. Earning Per Share / EPS Laba Per Lembar Saham Kemampuan perusahaan untuk menghasilkan keuntungan per lembar saham pemilik. EAT EPS = ------------------------Jumlah lembar saham
+5. Ratio Penilaian (Valuation Ratios) Rasio untuk mengukur Kemampuan perusahaan dalam menciptakan nilai pada investor atau pemegang saham. Rasio ini meliputi :
+a. Price Earning Ratio (PER) Ratio ini mengukur seberapa besar perbandingan antara harga saham perusaha an dengan keuntunganyang akan diperoleh para pemegang saham.
+Harga Pasar Saham PER = --------------------------
+Laba Per lembar saham
+28
+
+b. Market To Book Value Ratio Rasio ini untuk mengetahui seberapa besar harga saham yang ada di pasar diba ndingkan dengannilai buku sahamnya. Semakin tinggi rasio ini, perusahaan se makin dipercaya., nilai perusahaanmenjadi lebih tinggi. Harga Pasar Saham MBV = ------------------------Nilai buku saham
+29
+
+BAB 4 PENGELOLAAN MODAL KERJA
+1. Pengertian Modal Kerja adalah dana yang diperlukan perusahaan untuk memenuhi kebutuhan op erasional perusahaansehari-hari.
+Masa perputaran Modal Kerja (sejak kas ditanam pada elemen modal hingga menjadi kas lagi)menunjukkan tingkat efisiensi penggunaan modal kerja tersebut. Manajer Ke uangan harus memperhatikansumber dana untuk memenuhi kebutuhan modal kerja ter sebut
+2. Konsep Modal Kerja Ada 3 konsep Modal Kerja untuk analisa, yaitu :
+a. Mk Kuantitatif (Gross Working Capital) Yaitu keseluruhan elemen aktiva lancar. Konsep ini menitik beratkan pada seg i kuantitas dana yang tertanam pada aktiva yang perputarannya kurang dari 1 t ahun, tanpa memperhatikan kewajiban jangka pendeknya, sehingga disebut m odal kerja bruto.
+b. MK Kualitatif Yaitu selisih antara aktiva lancar dan hutang lancarnya. Modal kerja bukan dar i elemen aktiva lancar tapi juga memperhatikan kewajiban yang segera harus d i bayar, sehingga dana operasional perusahaan tidak terganggu pembayaran hu tang yang jatuh tempo.
+c. MK Fungsional Yaitu Dana yang digunakan perusahaan untuk menghasilkan current incomese suai dengan tujuan perusahaan pada satu periode tertentu.Yang termasuk dala m modal kerja menurut konsep ini: kas, piutang dagang sebesar harga pokokn ya,persediaan, aktiva tetap sebesar penyusutan periode tsb.
+Surat berharga dan margin laba piutang termasuk modal kerja potensial yang akan menjadi modal kerja jika sudah dijual / dibayar.
+30
+
+Contoh ;
+
+Aktiva Lancar
+
+Kas Efek Piutang dagang Persediaan barang
+Aktiva Tetap
+
+15.000.000 50.000.000 75.000.000 120.000.000 260.000.000
+
+Tanah Bangunan & Gedung Mesin
+Penyusutan gedung : Rp. 50 juta
+
+150.000.000 300.000.000 250.000.000 700.000.000
+
+Penyusutan mesin : Rp. 40 juta
+
+Penjualan kredit dengan profit margin sebesar 30 %,
+
+Berdasarkan data, maka dapat dihitung modal kerja menurut konsep fungsionl
+
+Modal Kerja (Working Capital)
+
+Kas
+
+15.000.000
+
+Piutang dagang
+
+(70%)
+
+52.500.000
+
+Persediaan barang
+
+120.000.000
+
+Penyusutan gedung
+
+50.000.000
+
+Penyusutan mesin
+
+40.000.000
+
+277.500.000
+
+Modal Kerja Potensial (Potensial Working Capital)
+
+Efek Margin laba (30%)
+Bukan Modal Kerja (Non Working Capital)
+
+50.000.000 22.500.000 77.000.000
+
+Tanah Bangunan & Gedung Mesin
+
+150.000.000 250.000.000 210.000.000 610.000.000
+
+3. Jenis Modal Kerja Menurut A.W.Taylor MK dikelompokkan menjadi :
+
+a. Modal Kerja Permanen : yaitu modal kerja yang harus selalu ada dalam perusahaan untuk operasionalnya dalammemenuhi kebutuhan konsumen. Ada 2 macam modal kerja Permanen :
+
+31
+
+a) Modal Kerja primer Modal kerja minimal yang harus ada untuk menjamin perusahaan tetap beroperasi.
+b) Modal Kerja Normal Modal kerja yang harus ada pada tingkat produksi normal. Produksi normal merupakankemampuan perusahaan untuk menghasilkan barang sebesar kapasitas normal perusahaan.
+b. Modal Kerja Variabel modal kerja yang jumlahnya berubah-ubah sesuai perubahan kegiatan / keadaan lain yangmempengaruhi perusahaan, meliputi : a) Modal Kerja Musiman Dana untuk mengantisipasi adanya fluktuasi kegiatan perusahaan. b) Modal Kerja Siklis Dana yang jumlah kebutuhannya dipengaruhi oleh fluktuasi konjungtur. c) Modal Kerja Darurat Dana yang kebutuhannya dipengaruhi keadaan yang terjadi di luar kemampuan perusahaan.
+4. Kebijakan Modal Kerja Kebijakan modal kerja yang diambil perusahaan tergantung keberanian manajer dalam mengambil risiko. a. Kebijakan Konservatif (Hati-hati) Modal Kerja dipenuhi lebih banyak dari sumber dana jangka panjang dibanding sumber dana jangkapendek. Modal Kerja Permanen dan sebagian variabel dipenuhi dari sumber dana jangka panjang,sedangkan sebagian modal kerja variabel dipenuhi sumber dana jangka pendek. Perusahaanmemperhitungkan tingkat keamanannya (margin of safety)karena memiliki keleluasaan dalam memilih pelunasan. b. Kebijakan Moderat (Hedging) Setiap aktiva dengan dana yang jangka waktunya sama dengan jangka waktu perputaran aktiva tsb. Aktiva tetap danmodal kerja permanen akan didanai sumber dana jangka panjang; aktiva dan modal kerja yang bersifatvariabel
+32
+
+didanai sumber dana jangka pendek. Kebijakan ini berdasarkan prinsip matching principle. Resiklo yang dihadapi hanya terjadinyapenyimpangan aliran kas yang diharapkan, yang sebabkan kesulitan memprediksi jk waktu skedul aruskas bersih dan pembayaran hutang karena adanya ketidakpastian. Pada kebijakan ini akan muncultrade-offantara profitabilitas dan resiko. c. Kebijakan Agresif Kebutuhan dana jk panjang akan dipenuhi sumber dana jk pendek. Kebijakan ini mengutamakan keamanan, sehingga margin of safety sangat besar yang mengakibatkan tingkat profitabilitasnya menjadi rendah. Perusahaan berani menanggung resiko besar, sedangkan trade off yang diharapkan memperoleh profitabilitas yang lebih besar.
+5. Penentuan Kebutuhan Modal Kerja Untuk menentukan besarnya modal kerja dapat di hitung dengan metode : 1. Periode terikatnya modal kerja 2. Proyeksi kebutuhan kas rata-rata perhari Metode Perputaran modal kerja Dengan metode ini modal kerja dihitung dengan cara menghitung perputaran masingmasing elemenpembentuk modal kerja (kas, piutang, dan persediaan)
+33
+
+BAB 5 PENGELOLAAN PIUTANG
+A. Pentingnya Investasi Pada Piutang Dalam persaingan, penjualan dengan pembayaran secara kredit menjadi salah satu solusi untukmeningkatkan volume penjualan perusahaan . penjualan secar a kredit akan menimbulkanpiutang dagang. Dengan adanya piutang dagang be rarti perusahaan harus menyediakan dana yang diinvestasikan ke dalam piutan g tersebut. Besar kecilnya dana yang di investasikan di pengaruhi oleh faktor-faktor sebagai berikut : 1. Besarnya volume penjualan kredit. Semakin besar volume penjualan k redit akan semakin besar investasi pada piutang. 2. Syarat pembayaran. Semakin panjang waktu kredit yang diberikan se makin besar investasi pada piutang. 3. Plafon kredit
+B. Prinsip Pemberian Kredit Ada 5C (C's principle) dalam pemberian kredit, yaitu : 1). Characters Data tentang kepribadian (sifat,kebiasaan,cara hidup,latar belakang, hobi) cal on pelanggan. 2). Capacity Kemampuan calon nasabah dalam mengelola usahanya yang dilihat dari pendidikan, pengalaman mengelola usaha, sejarah perusahaan,dll. Capicity ini merupakan ukuran ability to pay. 3). Capital Kondisi kekayaan yang dimiliki oleh perusahaan yang dikelolanya, yang dapat dilihatdari laporan laba ruginya. 4). Collateral Adanya jaminan yang mungkin bisa disita apabila ternyata calon pelanggan benar-benar tidak bisa memenuhi kewajibannya. 5). Conditional Pertimabangan prospek usaha calon pelanggan
+34
+
+C. Pengukuran Efisiensi Piutang Tingkat efisiensi piutang diukur dengan : Tingkat perputaran piutang (Receivable Turnover = RTO) Semakin tinggi tingkat perputaran piutang semakin efisien piutang tersebut.
+Penjualan Kredit RTO = ----------------------------
+Rata-rata Piutang
+
+Rata- rata terkumpulnya piutang (Average Collection Period = ACP), Semakin cepat piutang dibayar, semakin efisien.
+360 ACP = ----------
+RTO
+
+D. Anggaran Pengumpulan Piutang
+
+Piutang timbul karena adanya penjualan kredit, perlu dibuat perencanaan pene
+
+rimaan kas atas piutang tersebut menjadi uang tunai yang disebut dengan Anggaran P
+
+engumpulan Piutang (Receivable Collection Budget)
+
+Contoh :
+
+PT AULIA merencanakan membuat anggaran pengumpulan piutang untuk 6 bulan
+
+pertama tahun 2012. Anggaran kredit selama 6 bulan tersebut adalah :
+
+January
+
+Rp. 100 juta
+
+April
+
+Rp.120 juta
+
+February Rp. 110 juta
+
+Mei
+
+Rp. 105 juta
+
+Maret
+
+Rp. 115 juta
+
+Juni
+
+Rp.125 juta
+
+Syarat pembayaran 5/10 - n/60. Penjualan dianggap awal bulan.
+
+Penjualan bulan November dan Desember 2011 masing-masing Rp.90 juta dan Rp.95
+
+juta. Menurut pengalaman, pembayaran piutang tersebut adalah sbb.:
+
+a. 30% dibayar dengan memanfaatkan masa diskon
+
+b. 10% dibayar pada bulan penjualan tanpa memanfaatkan masa diskon
+
+c. 50% dibayar satu bulan setelah bulan penjualan
+
+d. 10% dibayar dua bulan setelah bulan penjualan
+
+35
+
+Maka perhitungannya adalah :
+
+Penjualan November 2011 : Rp.90.000.000 Diterima Nov : 30% x 95% x 90.000.000 =25.650.000
+Nov : 10% x 9.000.000 = 9.000.000 Des : 50% x 90.000.000 = 45.000.000 Jan : 10% x 90.000.000 = 9500.000
+
+Penjualan Desember 2011 : Rp. 95.000.000
+
+Diterima Desember : 30% x 95% x 95.000.000 =27.075.000
+
+Desember : 10% x 95.000.000
+
+= 9.500.000
+
+Jan : 50% x 95.000.000 = 47.500.000
+
+February : 10% x 95.000.000 = 9.500.000
+
+Penjualan January : Rp.100.000.000 Diterima : January : 30% x 95% x 100.000.000 =28.500.000
+January : 10% x 100.000.000 = 10.000.000 February : 50% x 100.000.000 = 50.000.000 Maret : 10% x100.000.000 = 10.000.000
+
+Penjualan February: Rp.110.000.000 Diterima : February : 30% x 95% x 110.000.000 =31.350.000
+February : 10% x 110.000.000 = 11.000.000 Maret : 50% x 110.000.000 = 55.000.000 April : 10% x110.000.000= 11.000.000
+
+Penjualan Maret : Rp.115.000.000 Diterima Maret : 30% x 95% x 115.000.000 = 32.775.000
+Maret : 10% x 115.000.0 00 = 11.500.000 April : 50% x115.000.000 = 57.500.000 Mei : 10% x 115.000.000 = 11.500.000
+
+Penjualan April : Rp. 120.000.000 Diterima April : 30% x 95% x 120.000.000 = 34.200.000
+36
+
+April Mei Juni
+
+: 10% x 120.000.000= 12.000.000 : 50% x120.000.000 = 60.000.000 : 10% x 120.000.000 = 12.000.000
+
+Penjualan Mei : Rp 105.000.000 Diterima Mei : 30% x 95% x 105.000.000 = 32.775.000
+Mei : 10% x105.000.000 = 10.500.000 Juni : 50% x 105.000.000 = 52.500.000 Juli : 10% x 105.000.000 = 10.500.000
+
+Penjualan Juni : Rp.125.000.000
+
+Diterima Juni : 30% x95% x 125.000.000 = 35.625.000
+
+Juni : 10% x 125.000.000 = 12.500.000
+
+Juli : 50% x 125.000.000
+
+= 62.500.000
+
+Agustus : 10% x 125.00.000 = 12.500.000
+
+ANGGARAN PENGUMPULAN KAS JANUARY - JUNI 2012
+
+BULAN PIUTANG
+
+DITERI BULA
+
+MA
+
+N
+
+JAN FEB MARET APRIL MEI
+
+NOV DES JAN FEB MARET APRIL MEI JUNI
+
+90.000.000 95.000.000 100.000.000 110.000.000 115.000.000 120.000.000 105.000.000 125.000.000
+
+JUNI
+
+E. Analisis Kebijakan Pengukuran Piutang Tujuan utama kebijakan penjualan kredit adalah meningkatkan penjualan yang nantin
+37
+
+ya akanmeningkatkan laba perusahaan. Namun adanya piutang akibat penjualan kredit tersebut juga akanmenimbulkan penyisihan untuk investasi.pada piutang. Dana yan g digunakan untuk investasi padapiutang akan menimbulkan biaya dana (cost of capit al). Karena itulah perlu analisis atas investasipiutang tersebut, antara manfaat dan pen gorbanan yang diakibatkannya. Contoh: PT SANG SURYA membuat kebijakan untuk menjual produknya secara tunai maupu n kredit. Penjualantunai selama setahun mampu menghasilkan Rp.4 Milyar. Dengan s istem kredit n/60 (pembayaran palinglambat selama 60 hari). Dengan penjualan kredi t diperkirakan penjualan meningkat menjadiRp.5,4 Milyar, dengan profit margin (ting kat keuntungan) sebesar 20%dan biaya dana 22%/tahun. Apakah kebijakan kredit pe rusahaan secara finansial layak ?
+Jawab. Manfaat: Tambahan laba karena kenaikan penjualan = 20% x (Rp.5,4M - Rp.4 M) = Rp.280. 000.000 Pengorbanan
+Perputaran piutang = 360 : 60 = 6 x Rata-rata piutang = Rp.5.400.000.000 : 6
+= Rp.900.000.000 Dana Investasi pada piutang
+= Rp. 900.000.000 (1-0 , 2) = Rp.720.000.000 Biaya Dana untuk investasi pada piutang = 22% x Rp.720.000.000 = Rp.158.400.000 ­ Tambahan Manfaat Bersih Rp.121.600.000 Dari perhitungan manfaat dan pengorbanan di atas ternyata penjualan kredit lebih memberikan manfaat bersih sebesar Rp.121.600.000.
+38
+
+BAB 6 PENGELOLAAN KAS
+A. Aliran Kas Kas diperlukan untuk membiayai operasional perusahaan (pembelian bahan baku, pe mbayaran upah,pembayaran hutang /lainnya secara tunai. Pengeluaran kas untuk pem bayaran biasanya disebutaliran kas keluaran (cash outflo). Penerimaan kas (hasil penj ualan tunai , penerimaan piutang, penerimaan lainnya ) disebut aliran kas masuk (cash inflow).
+Motif Memiliki Kas Ada 3 motif memiliki uang tunai (kas)
+a. Motif Transaksi (transaction motive) Perusahaan perlu merealisasikan berbagai transaksi bisnisnya; seperti pembay aran gaji, pembayaranhutang,pembelian bahan ,dll.
+b. Motif berjaga-jaga (precaoutionary motive) Mengantisipasi adanya kebutuhan yang bersifat mendadak
+c. Motif Spekulasi (speculative motive) Keinginan untuk memperoleh keuntungan yang besar dari suatu kesempatan in vestasi.
+B. Anggaran Kas Kas yang cukup akan membantu perusahaan dalam berproduksi dengan baik. Untuk itu perlu penentuanjumlah kas yang tepat melalui perencanaan kas (cash budget). Anggaran dibedakan menjadi 2 yaitu :
+a. Estimasi Penerimaan Kas Yaitu proyeksi penerimaan pada periode tertentu yang berasal dari : penjualan tunai, penerimaan piutang, penerimaan bunga, hasil penjualan aktiva tetap, maupun penerimaan lainnya.
+b. Estimasi Pengeluaran Kas Yaitu proyeksi pengeluaran yang dilakukan perusahaan, seperti : pembelian bahan baku, pembayaranupah dan gaji, pembayaran lain yang bersifat tunai.
+39
+
+C. Model Manajemen Kas a. Model Baumol Model manajemen kas ini biasanya disebut Model Persediaan, karena Baumol mengakui adanyapersamaan manajemen persediaan dengan manajemen kas. Dalam persediaan ada biaya pesan yangdibayarkan setiap melakukan pemesanan dan biaya simpan untuk menyimpan bahan yang dibeli.Biaya pesan merupakan/identik biaya pekerjaan adm. komisi dagang efek yang dikeluarkan untukmentransfer uang kas menjadi surat berharga. Biaya simpan identik/merupakan hasil bunga yanghilang karena perusahaan menyimpan uang tunai yang besar. Menurut Baumol pemakaian kas selalu konstan setiap waktu. Hal ini dapat digambarkan : b. Model Miller and Orr Model ini adalah untuk kondisi ketidakpastian pemakaian kas, dimana pengeluaran kas berfluktuasi dariwaktu ke waktu secara random; dan menentukan batas atas dan batas bawah saldo kas, serta menentukan saldo kas yang optimal.
+40
+
+BAB 7 PENGELOLAAN PERSEDIAAN
+1. Pengertian Persediaan Persediaan adalah : sejumlah barang atau bahan yang dimiliki olehperusahaan yang tujuannya untuk dijualdan atau diolah kembali. Persediaan adalah bagian utama dari modal kerja yang paling besar. Setiap perusahaan baik y ang bergerak dibidang manufaktur, perdagangan, maupun jasa memiliki persediaan untuk me njaga kelancaran operasinya. Perusahaan dagang melakukan kegiatan pembelian barang untuk dijual lagi, maka persediaan utamanyaberupapersediaan barang dagangan, persediaan bahan penolong, persediaan perlen gkapan kantor. Perusahaan jasa mempunyai persediaan berupa persediaan bahan pembantu atau persediaan yang habispakai, termasuk kertas, karbon, stempel, tinta, materai, dll. Perusahaan manufaktur mempunyai beberapa persediaan utama : a. persediaan bahan baku (raw material inventory) b. persediaan bahan setengah jadi (work in process inventory) c. persediaan barang jadi (finished goods inventory) Jika perusahaan dapat memprediksikan dengan tepat ,maka persediaan bisa kecil atau 0; ini yang disebut dengan teknik persediaan just in time atau zero inventory.
+41
+
+2. Biaya Persediaan
+a. Biaya Pesan (ordering cost)
+Semua biaya yang timbul akibat pemesanan. Biaya ini bersifat variable / berubah
+sesuai dg frekuensi pesanan. Termasuk dlm biaya ini mulai bahan dipesan sampai
+masuk ke gudang, biaya persiapan pemesanan, biaya penerimaan, biaya pengecekan,
+penimbangan, dll.
+R Rumus Biaya Pesan = ------ x O
+Q
+Q = unit O = by setiap kali pesan R = kebutuhan bahan baku
+b. Biaya Simpan (carryng cost)
+Biaya yang dikeluarkan untuk menyimpan persediaan selama periode tertentu agar
+bahan baku yang disimpan kualitasnya sesuai dengan yang diinginkan.
+Q Rumus = ----- x C
+2
+
+c. Economical Order Quantity (EOQ) Jumlah kuantitas bahan yang dibeli pada setiap kali pembelian dengan biaya yang paling minimial (biaya pesan = biaya simpan)
+
+d. Reorder Point
+
+Titik dimana perusahaan harus memesan kembali agar tepat waktu pada saat persediaan
+
+bahan di atas safety stock = 0.
+
+Safety Stock Lead Time Re-order Point
+
+xxx xxx + xxx
+
+42
+
+BAB 8 PENILAIAN SURAT BERHARGA
+
+A. Instrumen Surat Berharga Kelebihan dana pada perusahaan biasanya oleh manajer keuangan akan diinvestasikan,baik jangka panjangmaupun jangka pendek, tergantung sifat dana yang dimiliki. Instrument investasi jk panjang contohnya :pendirian usaha baru, pembelian aktiva tetap, dll. Sedangkan instrument investasi jk pendek adalah suratberharga atau sekuritas. Pembelian surat berharga atau sekuritas bertujuan menjaga likuiditas (agar tidak terjadi idle fund) dan jika sewaktu-waktu perusahaan membutuhkan uang tunai dapat segera diuangkan. Sekuritas terbagi atas 2 :
+
+1. Obligasi (sekuritas yang memberi penghasilan tetap) 2. Saham (sekuritas yang memberi penghasilan tidak tetap)
+Perbandingan saham dan obligasi
+
+No.
+
+Faktor
+
+1 Status
+
+2
+
+Kepentingan terhadap emiten
+
+3 Umur
+
+Saham Bukti kepemilikan Berkepentingan langsung terhadap tujuan / misi perusahaan Tidak terbatas
+
+obligasi Bukti hutang
+Berkepentingan atas keamanan pinjaman
+Mempunyai jatuh tempo
+
+4 Pendapatan
+
+Deviden dibayar jika ada laba
+
+Laba / rugi tetap dibayar
+
+5.
+
+Perlakuan pajak terhadap emiten
+
+Deviden yang dibagi dari laba setelah pajak
+
+Bunga dikeluarkan dulu sebelumperhitungan pajak
+
+6. Harga
+
+Lebih berfluktuasi
+
+7. Hak suara
+
+Memiliki hak suara
+
+8. Klaim dalam likuitasi Inferior
+
+Relatif lebih stabil
+Tidak punya hak suara Superior / didahulukan ha k klaimnya
+
+43
+
+Dalam penilaian surat berharga adanya konsep hubungan yang positif antara resiko dan ti ngkat keuntungan, jika resiko tinggi maka keuntungan yang dihasilkan besar, demikian s ebaliknya.
+B. Penilaian Obligasi Obligasi adalah surat pengakuan hutang yang dikeluarkan oleh perusahaan atau lembaga lain dengan nilai nominaltertentu dan akan dibayar dalam jangka waktu tertentu serta me mberi bunga secara tetap.
+
+Ciri-ciri Obligasi :
+
+a. Mempunyai nilai nominal (face value) : jumlah nilai yang akan dibayar pada saat jatuh tempo
+b. Memberi bunga (coupon), dibayar secara periodik tahunan, semesteran, kuartalan. c. Mempunyai jangka waktu dalam pelunasan obligasinya (jk panjang). Contoh:
+
+seseorang membeli obligasi dengan nilai nominal Rp. 100.000, jk waktu 4 tahun yang me mberi bunga 20% /tahun. Maka penerimaan aliran kas th 1 - 4 :
+
+tahun 0 tahun 1
+
+tahun 2
+
+tahun 3
+
+tahun3
+
+tahun4
+
+20.000 20.000
+
+20.000
+
+20.000
+
+20.000
+
+100.000
+
+Nilai tahun ke - 0 merupakan nilai yang bersedia dibayar oleh investor. Nilai tsb dipengar uhi keuntungan yang diinginkan investor. Jika keuntungan sebesar, maka :
+
+C C
+
+C+N
+
+P0 = ----- + ------ + ....... + ------
+
+(1+r)¹ (1+r)²
+
+(1+r)n
+
+P0 = harga obligasi yang layak bagi investor
+
+C = bunga obligasi (Rp)
+
+N = Nilai Obligasi
+
+r = Return yang diharapkan
+
+Jika return yang diinginkan investor sebesar 24%/th maka :
+
+20.000 20.000 20.000 20.000 + 100.000
+
+P0 = --------- + ---------- + ---------- + ----------------------
+
+(1+0,24) (1+0,24)² (1+0,24)³
+
+(1+0,24)
+
+= Rp. 90.382,89 -- Rp.90.380
+
+44
+
+Contoh soal :
+Perusahaan akan membeli obligasi yang dikeluarkan PT X dengan nilai nominal Rp.250.0 00/lbr dengan bunga tetap 18%/th. Jangka waktu pelunasan 4 tahun.
+a. hitunglah harga yang layak bagi perusahaan jika keuntungan yang diinginkan 21% b. hitung harga yang layak bagi perusahaan jika keuntungan diinginkan 16%!
+Jawab Nilai nominal : 250.000, jk waktu : 4th Bunga = 18% x 250.000 = Rp. 45.000
+a. keuntungan diisyaratkan 21%
+45.000 45.000 5.000 45.000+250.000 P0= ---------- + ----------- + ---------- + -------------------------
+(1+0,21) (1+0,21)² (1+0,21)³ (1+0,21) = Rp.230.946,7 == Rp.230.950
+
+b. keuntungan yang disyaratkan 16 %
+45.000 45.000 45.000 45.000+250.000 P0 = ---------- + ----------- + ---------- + -------------------------
+(1+0,16) (1+0,16)² (1+0,16)³ (1+0,16)
+= Rp.263.990,9 = Rp.263.990
+
+c. Penilaian Saham
+Saham adalah surat bukti kepemilikan perusahaan yang memberikan penghasilan tidak te tap berupa deviden(yang didasarkan keuntungan yang diperoleh perusahaan), dan capital gain jika harga jual saham lebih tinggi dariharga belinya.
+
+Contoh :
+
+Jika harga saham saat ini Rp.8.000/lbr diharapkan akan memberikan deviden Rp.1.000 di tahun depan. Tahundepan harga saham diharapkan Rp.8.600/lbr. Maka keuntungan yang diharapkan dari saham tsb.:
+
+D1 P1 - P0
+
+r = ----- + --------
+
+P0
+
+P0
+
+45
+
+1.000 8.600 ­ 8.000
+
+r = -------- + ------------------
+
+8.000
+
+8.000
+
+= 20%
+
+r = keuntungan yang diharapkan
+
+P0 dipengaruhi oleh D1 ; P1 dipengaruhi D2 dan seterusnya, maka rumusnya :
+
+D1 D2
+
+Pn
+
+P0 = ----- + -------- +............... + -------
+
+(1+r) (1+r)²
+
+(1+r)n
+
+Jika jangka waktu kepemilikan yang diharapkan lama maka harga saham untuk tahun-tah un yang akan datangtidak dapat diprediksi , sehingga penerimaan yang diharapkan pemili k hanya dari deviden saja. Maka rumus untukharga saham :
+
+D1
+
+D2
+
+Dn
+
+P0 = --------- + ----------+ .............. + ---------
+
+(1+r)
+
+(1+r)²
+
+(1+r)n
+
+Jika deviden juga sulit diprediksi maka perhitungannya disederhanakan dengan asumsi :
+a. keuntungan tidak berubah tiap tahun b. laba tidak dibagi semua, sebagian ditahan c. laba ditahan diinvestasikan kembali untuk memperoleh keuntungan
+
+D1 D1(1+g)
+
+D1(1+g)n-1
+
+P0 = ----- + -----------+.......+ -------------
+
+(1+r) (1+r)²
+
+(1+r)n
+
+g = pertumbuhan deviden
+
+Bila n tak terhingga,maka persamaan tersebut merupakan penjumlahan dari deret ukur denga n kelipatan (1+g) / (1+r), yang jumlahnya sama dengan :
+
+D1
+
+1
+
+P0 = ---- + ---------
+
+(1+r) (1-g)
+
+D1
+
+D1
+
+atau P0 = ----- atau r = ------- + g
+
+(1+g)
+
+P0
+
+Diketahui P0 : -10.000,
+
+46
+
+d. Capital Asset Pricing Model Semakin tinggi tingkat keuntungan yang diharapkan oleh investor maka semakinkecil harga yang bersedia dibayar oleh investor karena tingkat resiko yang dihadapijuga semakin besar. Untuk itu perlu ukuran yang realistis bagi keuntungan yangdisyaratkan. Salah satu model untuk menaksir tingkat keuntungan yang disyaratkantsb. adalah denganCAPITAL ASSET PRICING MODELyang menyatakan hubunganyang positif dan linier antara tingkat keuntungan (r) dengan resiko. Resiko dalam teori portofolio = deviasi tingkat keuntungan (), yang menunjukkanseberapa jauh kemungkinan nilai yang diperoleh menyimpang dari nilai yangdiharapkan (expected value=Ev). Semakin besar  maka semakin besar kemungkinannilai riil menyimpang dari yang diharapkan , berarti besar resikonya. = Pi (Ri ­ Ev)²----- nilai mutlak
+Ev = Pi.Ri
+Contoh :
+
+Probabilita 0,25 0,50 0,25
+
+Investasi A Return 15% 25% 35%
+
+Investasi B
+
+Probabilita
+
+Return
+
+0,15
+
+15%
+
+0,70
+
+25%
+
+0,15
+
+35%
+
+EvA = 0,25(15%) + 0,50(25%) + 0,25(35%) = 25%
+EvB = 0,15(15%) + 0,70(25%) + 0,15 (35%) = 25%
+Karena keuntungan dari kedua investasi di atas sama maka dihitung deviasi masing - masing i nvestasinya : A =[o,25(15%-25%)² + 0,50(25%-25%)² + 0,25(35%-25%)²]
+= 0,071 B = [0,15(15%-25%)² + 0,7(25%-25%)² + 0,15(35%-25%)²
+= 0,055
+47
+
+Dari perhitungan resikonya, dengan tingkat keuntungan yang sama resiko yang kecil yang diambil adalah proyek B. Investor melakukan diversifikasi dengan membentuk portofolio untuk mengurangi resiko. Portofolio adalah kombinasi beberapa jenis sekuritas . Semakin banyak jenis sekuritas dalam portofolio resiko makin bisa ditekan. Resiko dibagi menjadi 2 jenis : 1. Resiko sistematis, bagian resiko yang tidak bisa dihilangkan. 2. Resiko tidak sistematis, yaitu bagian resiko yang bisa dihilangkan dengan caramenambah jumlah jenis saham yang dimiliki. Investor melakukan diversifikasi dengan membentuk portofolio untuk mengurangi resiko.
+Jumlah resiko dari keduanya = resiko total Rp = Rf + [(Rm - Rf ) / m]p Rp = tingkat keuntungan portofolio Rf = tingkat keuntungan bebas resiko Rm= tingkat keuntungan pasar m= penyimpangan standar pasar p= penyimpangan standar portofolio
+Tingkat keuntungan untuk semua portofolio yang efisien= tingkat keuntungan bebasresik o + premium resiko tingkat keuntungan sebagai kompensasi atas resiko portofolio. Rumus Premium Resiko : [(Rm ­ Rf)/m ] X p=
+Contoh : Suatu portofolio sekuritas keuntungan bebas resiko (Rf) sebesar 10%, keuntunganportofol io pasar (Rm) sebesar 16% dengan deviasi standar 14%. Jika standar deviasiportofolio ko mbinasi investasi bebas resiko dan portofolio M adalah 10% maka :
+48
+
+Rf=10% Rm = 16%  = 10% Premium resiko = [(16%-10%)/14%]10%
+= 4,29% Keuntungan untuk semua portofolio yang efisien = Rp = Rf + [(Rm - Rf ) / m]p Rp = Rf + [(Rm - Rf ) / m]p = 10% + (16%-10%/14%)10% = 14,29%
+
+e. Garis Pasar Sekuritas
+
+Jika investor hanya memiliki saham sejenis, tidak kombinasi atau portofolio maka dalam konsepCAPM,tingkat resiko diukur dengankoefisien beta(), dan dapat digambarkan dala m garis pasarsekuritas (Security Market Line). Tingkat keuntungan sekuritas individu -- Ri= Rf + i (Rm - Rf) Ri = tingkat keuntungn yang disyaratkan sekuritas i Rf = tingkat keuntungan bebas resiko Rm= tkt keuntungan yang disyaratkan rata-rata dg beta =1 atau tingkat keuntungan pasar. i =koefisien beta sekutitas i contoh soal Hitunglah tingkat keuntungan yang dapat diharapkan dari saham PT RAFDILLAH jika ti ngkatkeuntungan pasar 15%, koefisien beta 0,40 dan tingkat keuntungan bebas resiko 12 % !
+
+Diketahui : Rm Rf R ß
+
+= 15% = 12% = Rf + i (Rm - Rf) = 0,40
+
+49
+
+BAB 9 TIME VALUE OF MONEY
+A. Pengertian Time Value of Money adalah Nilai waktu dari uang ; yaitu perbedaan nilai uang karen a perbedaan waktudan tingkat bunga tahun yang berbeda.
+Nilai konsep uang dibedakan menjadi 2, yaitu :
+a. Future value = nilai yang akan datang b. Present Value= nilai sekarang c. Nilai Yang Akan Datang = Future Value Of Money(Fv)
+FV = P0 (1+r)n
+Contoh :
+Uang senilai Rp.10.000.000 dengan bunga 14%, untuk 4 tahun yang akan datang FV = Rp.10.000.000(1+0,14) =Rp.16.889.601,6
+Jika bunga dibayarkan dua kali dalam setahun dan jangka waktu 1 tahun yang akan da tang maka :
+FV = Rp.10.000.000 (1+0,14)²· =Rp.11.449.000 2
+Jika bunga dibayar m kali dalam setahun : n FV= P0 (1+i) Ctt.: i = r/m ; dan n = m x t
+d. Nilai Sekarang (Present Value Of Money=Pv) membandingkan nilai uang yangakan kita terima di tahun-tahun yang akan datang dengan nilai sekarang. n1 P0 = Cn / (1+r) atau P0 = Cn (1+r) n 1/(1+r) n disebut dengan discaount factor
+50
+
+Contoh : Jika kita akan menerima uang sebesar Rp.12.000.000 satu tahun yang akan datang den gan bunga 20%/th,maka nilai sekarang dari uang tsb. P0= 12.000.000/ (1+0,20) = 10. 000.000.
+e. Net Present Value Dana yang diinvestasikan akan kembali melalui penerimaan berupa keuntungan di ma sa yang akan datang.Untuk menilai layak tidaknya keputusan investasi, maka investas i tsb.harus bisa ditutup dengan penerimaanbersih yang sudah dipresent value-kan. Seli sih antara nilai sekarang dari penerimaan dengan nilai sekarangdari investasi disebut Net Present Value. Contoh : Suatu proyek investasi membutuhkan dana sebesar Rp.6.000.000.000 dan diharapkan mempunyai usia 4 thdengan penerimaan bersih berturut-turut Rp. 1.500.000.000, Rp. 2.500.000.000 ; Rp. 3.000.000.000 ;Rp.4.000.000.000. Maka jika bunga 21% : NPV = 1.500/(1+0,21) +2.500/(1+0,21)²+3.000/(1+0,21)³+ 4.000/(1+0,21) - 6.000 = 506.650.000
+51
+
+BAB 10
+KONSEP BIAYA MODAL
+A. PENGERTIAN
+Biaya adalah pengorbanan ekonomis yang dikeluarkan oleh perusahaan untuk mendapatkan suatu barang dan atau jasa.
+Biaya Berdasarkan Fungsi Pokok Perusahaan
+1. Biaya produksi (biaya bahan baku, biaya tenaga kerja langsung, biaya overhead pabrik). Yaitu biaya yang dikeluarkan untuk mengolah bahan baku menjadi produk selesai .
+d. Biaya Bahan Baku biaya untuk membeli bahan yang menjadi bagian pokok dari produk selesai.
+e. Biaya Tenaga Kerja Langsung biaya untuk membayar tenaga kerja yang langsung menangani proses produksi.
+f. Biaya Overhead Pabrik biaya yang dikeluarkan bagian produksi selain bahan baku dan tenaga kerjalangsung, seperti biaya bahan penolong, gaji mandor, ,perlengkapan pabrik, penyusutan, listrik dan air, by pemeliharaan,suku cadang,dll.
+2. Biaya non Produksi ( biaya pemasaran, biaya administrasi dan umum) Selain biaya produksi yang disebut biaya operasi; terdiri atas :
+a. Biaya Pemasaran biaya yg dikeluarkan dalam rangka menjual produk selesai yang dihasilkan perusahaan ketangan konsumen. Contoh : gaji bagian pemasaran, komisi, by promosi, by saluran distribusi, dan by penjualan lainnya.
+b. Biaya Administrasi & Umum biaya-biaya dlm rangka mengelola administrasi perusahaan. Contoh : gaji direktur, bagian akuntani, penyusustan peralatan kantor, by riset dan pengembangan,dll.
+Biaya Berdasarkan Perilaku Biaya
+1. Biaya Variabel By yang jika dalam jumlah keseluruhan berubah sesuai dengan jumlah satuan kegiata n, tetapi secara perunitjumlahnya tetap (biaya bahan baku dan biaya tenaga kerja lang sung).
+2. Biaya Tetap Biaya yang dalam kapasitas tertentu jumlahnya keseluruhannya tetap tapi secara per u nit berubah-ubahsesuai dengan volume produksinya.
+3. Biaya semivariabel Biaya yang jumlahnya berubah-ubah tapi perubahannya tidak proporsional dengan sat uan kegiatan produksi.
+52
+
+Biaya Modal (Cost of Capital ) adalah semua biaya yang secara riil dikeluarkan oleh perusahaan dalam rangka mendapatkan sumber dana. Biaya yang dikeluarkan perusahaan :
+a. bersifat implisit : biaya yang tidak dikeluarkan saat ini tetapi di masa yang akan datang. Contoh : selisih harga obligasi pertahun
+b. bersifat eksplisit : biaya yang dikeluarkan saat ini contoh : biaya bunga.
+Biaya modal = biaya riil yang dikeluarkan perusahaan dibagi
+penerimaan bersih dari dana ybs.
+Biaya riil Biaya modal = ----------------------------- x 100 %
+Penerimaan bersih
+B. Biaya Modal Individu
+Modal yang dihitung biayanya adalah sumber jangka panjang yang berasal dari Hutang dan Modal Sendiri(saham).
+1. Biaya Hutang (Cost Of Debt) Yaitu biaya yang ditanggung perusahaan karena menggunakan sumber dana dari pinjaman. Y ang biasadiperhitungkan adalah biaya hutang obligasi.
+Obligasi adalah surat hutang yang dikeluarkan perusahaan dengan nilai nominal tertentu, jang ka waktutertentu, dan memberikan bunga (coupon).
+2. Biaya Saham Preferen (Cost Of Preffered Stock) Saham Preferen (sering disebut modal saham semi hutang) :
+adalah surat bukti kepemilikan saham yang memberikan penghasilan tetap berupa deviden ya ngbesarnya telah ditentukan %nya terhadap harga sahamnya.
+Bila perusahaan dilikuidasi maka pemilik saham ini memiliki hak atas bagian asset,setelah pe lunasanhutang.
+53
+
+3. Biaya Modal Saham Biasa(Cost Of Common Stock) Saham biasa adalah surat bukti kepemilikan perusahaan yang tidak mempunyai hak istimewa `sepertisaham preferen.
+Deviden atas saham biasa dibagi jika perusahaan memperoleh laba, tetapi bila rugi maka tida kmendapatkan deviden.
+
+D1 Kc = ---- + g
+P0
+
+D1 = deviden yang dibayar Kc= biaya modal saham biasa P0 = harga saham saat ini g = pertumbuhan deviden
+
+4. Biaya Rata-Rata Tertimbang Jika perusahaan menggunakan modal sendiri dalam berinvestasi makacost of capitalyang dig unakan sebagaicut of ratesebesar modal sendiri tersebut. Tetapai Jika perusahaan kombinasi beberapa sumber dana makacost of capitalnya adalah seluruh biaya modal atauweighted avar ege cost of capital(biaya modal rata-ratatertimbang).
+
+54

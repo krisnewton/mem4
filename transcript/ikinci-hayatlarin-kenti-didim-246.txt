@@ -1,0 +1,1142 @@
+DÜNDEN BUGÜNE
+TÜRKIYE'DE TURIZM
+Kurumlar Kurulular Turizm Bölgeleri Meslekler
+CILT
+10
+
+Dünden Bugüne Türkiye'de Turizm Kurumlar, Kurulular, Turizm Bölgeleri ve Meslekler
+Proje Koordinatörü ve Editör
+Prof. Dr. Nazmi KOZAK
+stanbul, 2018
+
+Dünden Bugüne Türkiye'de Turizm: Kurumlar, Kurulular, Turizm Bölgeleri ve Meslekler
+
+Dünden Bugüne Türkiye'de Turizm Kurumlar, Kurulular, Turizm Bölgeleri ve Meslekler
+1. Turizm, 2. Tarih, 3. Turizm tarihi, 4. Sözlü tarih, 5. Turizm bölgeleri, 6. Türkiye'de oteller, 7. Turizm meslekleri, 8. Kamusal turizm organizasyonlari
+
+Basildii yer ve tarih Yayimcinin adi Yayimci adresi Matbaa Matbaa adresi Tel.: Matbaaci sertifika numarasi ISBN Baski adedi Kapak © Copyright
+
+: stanbul : Nazmi Kozak : P.K. 589 06445 Yeniehir, Çankaya, Ankara. : Yikilmazlar Basin Yayin Promosyon ve Kait San. Tic. Ltd. ti. : Evren Mahallesi, Gülbahar Cd. 62/C, 34212 Bacilar/stanbul : (0212) 630 64 73 : 11965 : 978-605-68389-1-0 : 400 : Murat Kars : Nazmi Kozak
+
+ Bu kitapta yer alan görümeler, T. C. Anadolu Üniversitesi Bilimsel Aratirma Projeleri Bakanlii'nca desteklenen 1209E152 no'lu Türkiye Turizmi Sözlü Tarih Projesi kapsaminda gerçekletirilmitir.
+ Bu kitabin basimi iii. sayfada belirtilen kurum, kurulu ve kiilerin destekleri ile yapilmitir.
+
+ii
+
+çindekiler
+Kitap Basim Destekçileri
+Toplami 10 ciltten oluan kitaplarin basiminin gerçekletirilmesine yaptiklari desteklerinden dolayi aaida bilgileri yer alan kii, kurum ve kurululara çok teekkür ederiz.
+Ana Sponsor:
+Dier Destekçiler:
+Prof. Dr. Meral KORZAY  Müfit TARHAN  Haydar BARUT  Halim BULUTOLU  Gen Organizasyon  Yusuf HACISÜLEYMAN  Prof. Dr. Tunca TOSKAY.
+Ahmet BOZKURT  Ali mdat UÇAR  Bülent AAOLU  Dedeman Turizm A. .  Deniz ÇERÇOLU  Firdevs ERTAN SERTCAN (Bulvar Palas Oteli) , Gülçin GÜNER  Hacer AYDIN
+ Kansu GENÇER  Necla ERTAN OKUMUOLU (Bulvar Palas Oteli)  Nizamettin EN  Orhan SANCAR  Prof. Dr. Faruk ANDAÇ  Engin BAYRAKTAROLU  Serhan ALTINORDU (Zemin Yatirim Hizmetleri A. .)  Tekin ERTAN (Bulvar Palas Oteli)  Yasemin ERTAN (Bulvar Palas
+Oteli)  Prof. Dr. Meryem AKOLAN KOZAK  Yeliz Gül EGE  Prof. Dr. ükrü YARCAN
+Özel Teekkür:
+Türkiye Turizmi Sözlü Tarih Projesi kitaplarinin basimi aamasinda desteklerini esirgemeyen Fehmi KÖFTEOLU ve Halim BULUTOLU'na teekkür ederiz.
+iii
+
+çindekiler
+çindekiler
+SUNU............................................................................................................................................................... vii ÇNDEKLER................................................................................................................................................. ix KISALTMALAR............................................................................................................................................xiii
+Seyahatin ve Erken Cumhuriyet Dönemi'nde Turizmin Kisa Bir Anatomisi........................ 1 Kemal YAKUT - Turan Sina EPTC
+TURZM BÖLGELER....................................................................................................... 35 - 296 Karadenizi in Devrik ncisi  Akçakoca'da Turizm...........................................................................35 Gözde YILMAZDOAN Muz Bahçelerinden Turizm Cennetine: Alanya'nin Turizm Yolculuu.................................53 Selman BAYRAKCI - Ebru ZENCR Pamfilya'nin Tarihi Liman Kenti: Antalya..........................................................................................73 Seher GÜLENÇ - Ece DOANTAN Turizmin Deitirdii Hikaye: Bodrum..............................................................................................93 Ebru ZENCR - Dönü ÇÇEK kinci Hayatlarin Kenti "Didim"..........................................................................................................119 Arzu TOKER Türkiye'de ç Turizmin Öncüsü Erdek.............................................................................................155 Dönü ÇÇEK Evlerde Turist Airlanan Günlerden Yamaç Paraütüne: Fethiye Turizminin Geliimi.................................................................................................................175 Emrullah TÖREN Bir Yeryüzü Cennetinin Turizm Cennetine Dönüme Hikayesi: Kapadokya...................193 Onur ÇAKIR - Emrullah TÖREN - Sava EVREN Süngerci ve Balikçi Kasabasindan Turizm Kentine: Marmaris.............................................219 Çail Hale ÖZEL Bin Yillik Uykusundan Uyanan Kent: Side......................................................................................237 Arzu TOKER - Aysel YILMAZ - Duygu YETGN Türkiye'de Ki Turizminin Baladii Yer: Uluda.......................................................................263 Sava EVREN - Osman GÜLDEMR
+ix
+
+Dünden Bugüne Türkiye'de Turizm: Kurumlar, Kurulular, Turizm Bölgeleri ve Meslekler
+KURUMLAR.....................................................................................................................297 - 357 Türk Turizminin Öncü ve Örnek Kurumu T.C. Turizm Bankasi A......................................297 Gözde YILMAZDOAN Türkiye Seyahat Acenteleri Birlii (TÜRSAB)...............................................................................317 Burcu KAYA - Seda BULDU Turizm Gelitirme ve Eitim Vakfi (TUGEV).................................................................................345 Dönü ÇÇEK - Ebru ZENCR - Nazmi KOZAK
+OTELLER..........................................................................................................................359 - 563 Ankara Bulvar Palas Oteli (1954-1993)..........................................................................................359 Aysel YILMAZ Ankara'nin lk Be Yildizli Oteli: Büyük Ankara...........................................................................379 Dilek ACAR GÜREL zmir'in ncisi: Büyük Efes Oteli (1964-2002).............................................................................405 Burcu KAYA Dünden Bugüne Çelik Palas..................................................................................................................429 Çail Hale ÖZEL Turizm Sektörünün 60 Yillik Okulu stanbul Hilton Oteli.......................................................459 Emre Ozan AKSÖZ "ark'in Göz Bebei": Pera Palas.........................................................................................................469 Kemal YAKUT - Ömer OBUZ Tarabya Oteli Kurum Tarihi..................................................................................................................481 Mune MOOL ­ Meryem AKOLAN KOZAK Bir Pera Efsanesi: Tokatliyan Oteli....................................................................................................493 Dilek ACAR GÜREL Türkiye Turizminin lk Özel M/oteller Zinciri: TUSAN.............................................................529 Zeynep TUNA ULTAV - Gökçeçiçek SAVAIR
+TURZM ETM KURUMLARI....................................................................................565 - 753 Türkiye'de Bir lk: Ankara Otelcilik Okulu (1961-1974).........................................................545 Arzu TURAN Gazi Üniversitesi Turizm Fakültesi'nin Kurum Tarihi...............................................................603 Duygu YETGN Türkiye'de Turizm Yüksek Öretiminde Bir Mihenk Tai: stanbul Üniversitesi ktisadi Corafya ve Turizm Enstitüsü.............................................................................................625 Onur ÇAKIR Aydin Turizm letmecilii ve Otelcilik Yüksekokulu Kurumsal Tarihi.............................637 Ece DOANTAN
+x
+
+çindekiler
+Balikesir Turizm letmecilii ve Otelcilik Yüksekokulu..........................................................659 Seher GÜLENÇ Mersin Turizm letmecilii ve Otelcilik Yüksekokulu.............................................................685 Sava EVREN Hacettepe Üniversitesi Turizm letmecilii Yüksek Lisans Programi..............................715 Emre Ozan AKSÖZ Nevehir Turizm letmecilii ve Otelcilik Yüksekokulu.........................................................727 Hüseyin ÖNEY OTEM - Otelcilik ve Turizm Eitim Merkezi..................................................................................741 Ece DOANTAN - Seher GÜLENÇ
+MESLEKLER....................................................................................................................755 - 812 Türk Açilik Tarihi....................................................................................................................................755 Osman GÜLDEMR Türkiye'de Restoran letmecilii Tarihi.........................................................................................781 Ebru ZENCR Türkiye'de Barmenlik Meslei............................................................................................................797 Hüseyin ÖNEY
+DER...............................................................................................................................813 - 907 Turizm Ana Politikalari (TAP) Tarihi (1977-1981)....................................................................813 Arzu TURAN lk Mavi Yolculuklar.................................................................................................................................829 Duygu YETGN - Aysel YILMAZ Mavi Yolculuktan Yat Turizmine Geçi.............................................................................................847 Aysel YILMAZ - Duygu YETGN Türkiye'de Hippiler (1965 - 1979) ...................................................................................................859 Nazmi KOZAK
+DZNLER........................................................................................................................................909 - 952 sim Dizini....................................................................................................................................................911 Kurum/Kurulu Dizini............................................................................................................................931 Corafi Yer Dizini......................................................................................................................................945
+YAZARLAR......................................................................................................................................953 - 960
+xi
+
+· 
+
+
+kinci Hayatlarm Kenti "Didim"
+
+Ar zu TOKER
+
+C IRl 
+Didim, tarihte derin izler birakan ve birçok uygarhga
+ev sahipligi yapan i 2 iyon baimsiz ehir devletinden
+biri olan Milet'in, ~ Kehanet Merkezi " olarak tarih sah nesine çikar. Didim. Milet kentiyle birlikte iyonlarin.
+Persleri n, Romalilarin , Mente o ullari Beylii'nln ve
+Osmanli lmparatorlugu'iiun egemenlii altina girer. 14. yüzyildaki büyük depremde yiki l an Apollan Tapi n ai ile birlikte uzun y ill ar sessizlie gönuHen Didim yerleimi. Cu mhuriyet öncesine kadar varliini küçük bir Rum koyu olarak surdurur (Sezer 2011). Osman li Imparatorlugu'na kadar Didyiiia ismiyle anilan Di dün, Osinanli impara torl u ~u DoneOl i'nde Yoran ismi
+ile anilir.
+Osmanli Devl eti'nin fetihler sunucu topraklan m n genilemesiyle, özellikle Balkanlar'da büyiik bir Türk nufusu oluur, Ancak 1699'da imzalanan Kar lofça Anlamasi'yta Osmanli Devleti. bu topra.klar dan çektlmeye ba  l a r, Balkan Savalari sonucunda, youn bir Tiirk nufusunun bulunduu Balkanlard an , Turklenn temizllmme giri i m in in d e balamasiy la Anadolu t 900'1" yillar itibariyle Yunanistan VE' Bulgaristan'dan youn göç alir, Di#er birdeyile, Ana·
+dolu, Osmanli'nin da il ma ve çökme, Cumhuriyetin ise kurulma ve yükselme si'ireçlerioe paralelolarak
+iki yüzyili aan bir süredir çevre bölgelerden, özeJli k le de Balkanlar'dan yönelen ~ kitlesei" göçlerlu hedefi olur, Lo zan Bari  Anlamasi'y t a gerçekleen, Türk Yunan ~ Nit(us Mu badelesi", göç olgusu nun en so mut görün umleri nden bmdir, Anadolu toprdklari sayis i z goçf> sah ne oldugu g ib i Mubadele'den so nra antik d unyanin kehanet me rkezi olarak ka bul edilen o do n enilE'rdeki adi · Yoran" olan koye de çei tli goçler ya anir. Bii nufiis muhadelesiyle, muliadiller, Oidim'in de içinde bu lu nduu, Tiirkiye ' nin birçok farkli bölge '
+
+sine yerletiril ir. Mubadele'ye kadar O s manli tebaa si altuida yaayan Ortodoks l1 iristiyan'l olan Rumiarin yaadiii bir bolge o lan Yoran; Yuna n igalinden kur tulduktan sonra i 922 · i 924 ta rihleri ara s indaki yi ll ar boyunca bo kalir. 1924 yilinda ise mubadele nede niyle Balkan ülkelerinden gelen göçnienler yerle t i rili r: Göçlerin ard inda n bölge, huviyet d ei t irir, Kari kiyidan gelen yüzbinlerce insan, varliklarini sürdür me çabasiy l a , tütünculükten oluan tarim faaliyetle  riyle u  raii: Balkan göçlerinden önce ise RumIa ri n
+yaad i i Didim 'de, zey tin, badem ve inci r yeti tin 
+atii yapildii da biliniyor. Didiin, ikinci buyuk göç dalgasini 1936'd a Bulgar is ian'dan a li r ";1" böylece fa rkli kii ltü rlerm kesiim noktasi olmaya da bu dö nemde balar. 1955 y ili na kadar henüz bir yol un bile o l liiadl~l Didim'e, antik dunyamn kelianet merkezi olan Apoiion Tapinai'n i görmek ii zere gelen arabali turistler, yerli halkin çok ilgisini çe kmez, Bu ziyaret ler, bölgede ilk turizm gi riimi ola n turis tik hediyelik eya s,l ti c ll iinin, beraberinde farkli faaliyetleri de
+getinnesinin ardind an ekonomik anlamda yerli hal kin d ikkatini çeker. t 955'te yaa n an iddetli depre nHn ardindan, koyun yen iden i nas i sürecinde devlet yetkilile r i nin Yoran Köyu'nü n buyuk bir turizm po tans iyeli olduunu kefetm esi sonucunda ye rli halk turizmle talHir, Did im kÖYl üsu, önceleri turizmle çok ilgilenmez ve bölgede gerçekleen bireysel turistik hareketleri anlamlandiriimiiz. Ancak bu gel i melerin a rdindan tiiriz min yaranii hizli ekonomik faydaJa' ri yerel halkin fark etmesiyle tariin r<i aliyetleri terk edilerek, turi zm faaliyetler; yiirutulineye balanir. Kazi çalimalarina ISOO'lu yillarda balanan ApoJlon Tapinai'nin, 1900'lü yil lari n b;i inda ziyarete a çil  masiyla çok az sayida da olsa bolgeyi ziyaret ede n turistlerin varlii , köy halkini farkli bir oluumun içi ,
+
+119
+
+i
+
+, 
+
+
+Ikinc. Hayatla,"o Kenli "ll idim·
+
+ne sokar. D ep rciiii n ard indan yerleim. Hisar olarak adlandirilan Apallan Tapinai çevresinden Yenihisar adiyla biraz daha güneye tainir. Apoiiou Tapmagi'nin çevresinde konumlanriiis 1000-1500 kiilik ktiçuk bir koyolan Yoran. 1967'de beled iye statüsune geçer ve ismi Yen ihi sar olarak degitiri!i!: Yenihisar ismini 1997 yilina kadar ta iyan ilçe. ~y!l i yil antik cidi olan Didyma'dan yola çikilarak Didim adini alir. Önceleri kti çük bir Rum koyu olan Didim'in nufusuyla ilgili ilk bilgiler ise 1935 yilinda yapilan genel nüfus sayimin da yer aliyor. Buna gö re, yapilan ikinci nüfus sayimina göre Yoran Köyü'nun nufusu 947.1990 yilina kadar nüfus makul düzeylerde artar ken. 1990'li yillarda bölge nüfu sunun yüzde 286,7 arti  oraniy!a yüksel dii görülüyor (Sezer 2011). Köy halki mübadelenin ilk yillarindan 1960 '1i yillara kadar tarinil a urair. 1970'Ii yillar itihariyle turizm sek töruriün hizli geli jmi. Anadolu'nun özellikle dou bölgelerinden aldii iç göç ve Ingilizlerin mülk satin almasina kadar de vam eden s iin:!çte de mografik, e konomik sosyo-kül türel ve çevresel deiim l er köyün toplumsa l yapi smi önemli ölçüde deitirir. Turizm geliiminin, öncelik le tarimsal faaUyetleri azal tmasi ve nihayetinde bit me nokta sin a getirmesi, bölge halkinin geçiin kayna i olarak turizm faaliy et l erine y onelmesine yol açar. Tarim arazileri, yerin i otel in aat larina birakir.
+OIDM ANTiKTARiHI
+Didim (Didyma) tarihte d erin izle r birakan bi rçok uy garlia ev sahiplii y.ipar. Didim'in en çok öne çikan aullii 12 iyon kentillClen biri olan Milet'jn, "Bilidii k Merkezi" olmasi d ir. Antik Ça' da yer de~itirme ha reketlerind e inançla ilgili nedenlerin ilk siralarda gel dii görülür ve inanç sistemlerinin çok tanrili olmasi nedeniyle, ba zi ehi rl er kend ilerine gerek ku ruc usu olarak gerekse koruyucusu olarak fa rkli tanrilari se çerIe r. Bu durum, bazen ehirleri n ta nrilarinin temsil ettiklerine bali olarak birer çekim merkezmc dönü   mesine ned en olur. Iyonya'da bulunan Oidim Antik Kenti bu eh irlere guzel bir örnektir. Gelecei görme yeteneine sahip oLan tanri Apolion adimi yapilan ta  pinaklardan Didim Apoiion Tapinai , Antik Ça· io e n önemli ikinci kehanet merkezi konumundadir. En bü y ü~ u Yun anistan'daki Dclfi kentinde bulunan Apolion Tap inai Yunanistan'a hizm et verirken, Anadolu'da bul unan Didim Ap olion Ta pina i da Anadolu'daki ehir devletlerinin ba  vurduu bi r kehanet merkezi dir. Modern bilimlerin ol madi i bir çada: onemli bi r karar alin a dan onee, doum v~ ölu m gibi konula rda,
+
+politik ve siyasi giriim le rd~ ve hatta askeri stratej ile  ri belirlerken bile insanlarin tapiiiakla ra bavurarak kehanetler istedikleri biliniyor. Bu nedenle her ehir de b iil unmayan fakat herkes jçin onemli olan bu ke haiiet merkezleri insan lari kendine çeker. MS 2. yüz yilin son l a rinda ya a mi Li dyali ge zgin ve corafyaci Pausanios, Apollon'ut1 kutsal alaninin bulunduu yer dckj bir ibad et yerinin ilk Iyon yerlemesinden daha es ki olduunu söyler. Bu da MÖ 11 . yüiyila tarihleni l'. Arkeolojik aratirmalarda da MÖ 7 ve B. yüzyillara a it kalintilar elde edili r. Yenihisar ilçe merkezi nd e bulu nan Didiin a sl inda bir antik kent deiL. kutsa l bir ma· haldir. Milet'ten gelen kutsal yol ile ba~lantiya sahip Didim bir kchanet merkezidir. Didim ile ilgili ilk ya · zi h kaynak Herodoftur. Herodot MO 600'lerde Misir K rali ii. N~kho ve Lidya Krali Krais os'un Didini'deki ApoJlon mabed ine ad aklar sunduklarini an latir. Ar' kaik devirde çok ünlü olan Apolion'un kutsal yen, Persler tarafinda n MO 494'te yakili r. MÖ 3 11 ·de tek ra]" canlamr vI' inabet yen iden ina edilmeye b a lani r. Artem is, Zeus, Afrodit mab etieriyle di ger bazi yapi J ~ rin da bulundu u ina a tin Roma devrinde de s urdu  ü, ma bet çevresinde ele geçen kita bele rden an laiJi· yar. MS 2S0'den ön ce önemia7",lan mabet. MS 395 'te Imparator Theodosius'un "tum kehanetleri bo i ve uni ut ~ ilan et mesiyle oiicrnini tamamen yit irir. Hi  iistiyanliin yayilmasi ve tek ianrili ina nca geç i le Apoii o n Tapinai'na bir kilise yapilsa da bir ya ngin s irasinda tüm yapi zarar gorür. Arkaik, Helenistik ve Roma dönemi uygarltkianna ev sahiplii yapan Di dim , Selçuklularin bolgeyi hakimiyet altin a a ld i i 14. y ü zyilin ba lari na kadar Bizan s hakimiyeti altinda kalir. Selçukl u larin ardindan O sm anli yönetimi altin dak i bölge de Akkoy adi ve ril en bir koy kuruliir.
+1800'Iü yil la rdan ö nce A...,-upali birkaç ziyaretçiden biri ola n Ciriaco di Ancana 1446 yi lindak i Didim Zi  yare ti esnasinda Apolion Tapinai'mn halen ara kt a olduunu ga rür. 149 3 yilindaki iddetli d~prenid e Tap ina k bir hara lieye döner. Bati Avrupal i gezg in ler rastlantisal bir ekilde 17. ve 18. yüzyillarda Didim'j ziyaret ederler. Ingiliz Dilettanti Cemiyeti, Richard Chandler ve ekibini 1765 yilin da kahiitilan a ra  tir  ma k, onla ri olçümlemek ve planlarini çizmek üzere Küçük As ya olarak da anilan bölgeye bir keif hey et i gön d erir. Bu çal ima la r sonucunda Ch ,m dle r, Didim bölgesiyle ilgil i ilk arkeolojik raporu yazar. 1812 yi  linda Cemiye t. Sir William GeIJ ve ekibini yen iden kei f heyeti olarak bölgeye yoJ!ur. GeH. Didini çevre sindeki dier bölgeleri de inceler. Bu arat irmal a rd an
+
+120
+
+Anu Tok~r
+
+(;i:!rsel i Apoiion Tapina~'nin çevresindeki yel degirmeni (Dictim Belediye si Kültür Müdürlüü koleksiyonu)
+
+Corsel3. Eski köy Yoran'dan bir g6runüm (ÖZer Aydoan kolek.si
+yom.i )
+
+sonra Did i ni birçok aratirmacinin ilgi odagi haline gelir. 1812 yilinda C. R. Cockerell, 1835 y i linda Char· les Teider, 184 3·1844 yillarinda Philippe Le Ba s ve
+asa 1857· i yillariiida Charles T. Newton'un yaptii zi·
+yaretler, bunlardan birkaçidir. Bu ziyaretler sirasinda yapilan kazilarda bulunan birçok önemli eser yurtdi· ina gönderilir, Yapilan kazilan, Apollan Tapinai'nin dousundaki büyük bir moloz yiininin üzerinde bu· lunan yel deinneni engeiie r (Fontenrose 1988).
+Berlin Miizesi yel deirmenini satin alip, oradan ta· iI'. Bu çalimalar: Birinci Dünya Savai'nin balama sina kadar devam eder. kinci Dünya Savai ' ndan beri bölgede Alinan Arkeoloji Enstitüsü Milet ve Didim'de kazi ve keif çalimalarina devam etmektedir (Fo n tenrose 1988). Yani 18. yü zyil da ün lü gezginlerin ye niden gündeme getirmesi nin ardindan sirasiyla ng i lizler, Almanlar ve Fransizlar bölgede kazi çalimalari
+
+yaparlar. 1923'teki mübadeleye kadar bir Rum köyü olarak varliini sürdürür. Sonraki dönemlerde turist lerin de urak yeri olan Apollan Tapinai, günümüz de önemini halen koruyor (Aydin ii Kültür Turizm Müdürlügü).
+Mübadeleden önce ve sonraki ismi, Yoran olan köy, yeni yerleimlerle isim deiikliklerin e urar. Yoran adi, i 945 yilina kadar resmi olarak kullanilir. i 955 yi linda yörede yaanan deprem sonrasinda "Hisar" ola rak adlandiri lan Apollan Tapinai çevresindeki yer leim, birkaç yil son ra daitilan afet konutlariyla bir kilometre kadar güneye -Yenihisar" ismiyle ta inir ve daha sonra resmi a di -Yenihisar" olarak deitirilir, Ancak köylü, uzun yillar bu yeni ismi benimseyemez ve Yoran adi kullanilmaya devam eder,
+1967 yilina kadar köy olarak kim1i~ni sürdüren Yenihisar'a 1968 yilinda belediye tekilati kurulur, 1980'Ii yillarda balayan turizm hareketiyle birlikte hizla gelimeye balayan belde, 1990 yilina kadar Söke ilçesinin Akköy bucaina bali bir yerleim biri mi iken, i 991 yilinda Yenihisar adiyla ilçe olur (Sezer 2011). Köylünün de hiç içine sindirmedii Yenihisar adi , 1997'de tekrar deiiklie urayarak Didim olur.
+
+Gijrsel 2_ Apolion çev~sirid.ekl kazllar.i yardimci olari köylukr Kutsal Yol'da (Ozer Aydoan koleksiyonu)
+
+YUNANISTAN ' DAN ILK GÖç,.,
+Bilgiinden gelip, yarma ka/oii/ar...
+1922 kiinda, Türkiye'de ve Yunanistan'da yüzbin  lerce insan çaresiiee olacaklari bekliyordu. Doduu topraklari kaybedecek olmalarinin korkusu, mal larini, muilelerini, evlerini birakarak hiç tanimadii topraklarda, balarini sokacak bir ev bulup bulaina
+
+121
+
+i
+
+yacaklarinin en d iesi, yu rt bildikleri topraklardan ayril m akla canlarini kurtarinanin telal'si birbirine girmiti. Gidin ce geri d ö nebiimi.' ih tim a ll eri n i n olma digini bil seler de onlari ayakta tuta n tek eyi bi rgün geri dönebilme umuduydu. 30 Ocak 1923'te imza la nan Lozan Mübadelesi Antlama si'yla bu umut da son buld u. 1919-1922 y i lla ri ai.-asindaki Türk Yunan S a vai. Türklerin galibiyeliyle so nu çlaniiiu Anadolu 'da yaayan bir buçuk niilyona ya kin Rum'un
+ve Yunanistan'da ya ayan soo bine yakin Tü rk'ün
+yurt b il di  i topraklardan ayrilmalari zoru n l ul uu or taya çikar. Yaklaik iki milyon insan kendi kaderleri
+uze ri nde bak a l ari n in vardii karara uyar ve memle
+ket topraklarini terk etmeye zor lani r. Nerdeyse tlim Tiirkiye'de goç rüzgari cserkeii, Ege'nin se ssiz sakin b ir kiyisinda, gözlerden uzak. kuçuk bir Rum koyü Yo ran da bu göçten nasibin i alir.
+Tarim yaparak geçiml erini sal ayan insanlar, ta I  yabileceklerini yanlarina alarak. ta iyama di klarini ise bi rgün d önüp alma ümidiyle bir yerlere gönierek bir bilinmeze doru yol alirlar. Mubade!enjo ardin
+dan köy, yak laik iki yi l bo ve sahipsiz kalir. Bu sü
+reçte koy y a  ma lanir, harabeye done r. t924 yili gel
+d iinde Yunani s t.Jn'in KavalJ ken tinin D eveki ran ve Koçkar köylerinde n Didim 'e gaçl er balar. Buyük An
+kara Vapuru'yla imd il i'rde Maviehir olarak anilan bölgeye yani Kavela Limani ' nd günler suren yolculuk tan sonra 938 insan, 460 biiytikba , 1315 küçukba hayyaniyla beraber iner (Ay doan 2014). Keyf' gelen ler harabeye donm ü , yamalanmi, dmllSlz evlerle kar il airlar. Sa salim, uzun bir yolculuun üstesin
+
+den gelmilerdi r am a bu mezbelelikle na sil ba ede ceklerini bilemezler. Ancak ba ka çareJeri yoktur ve karilari nd aki viran eyi yuvala ri, yurtlari yapmak için var güçleriyle ç a li irlar. Mübadille rin kisa zamand:.i üretici hale gelmeleri için a ilelere tarla, tütün araz isi, ba. bahçe ve zeytinlik gibi arazi ta hsisle r i de yapilir (Ari 1995), O donemlerde bölgedeki yerleim, sadec e Apollon Tapmai'nin çevresindedir. Gelen göçmenler de tapinain çenesi nde konumlanmi Rum evlerinI:' yerleir ve yeni hayatlarina balariar.
+
+'·Kovela Limani'nd ;;in çikiyorla r gemiyle. Geliy orlar
+burJya. harabelere. Neyse, burayi vatan ka hul ettik. alimak zoru nda kaldik. Diyorlar, buradan gidelim. Kimse gidemedi. Birbirinden kopamadi . burada kal ·
+milar ari:ik..' (Aldemir 20 i 4).
+
+Baba s i
+
+1924'11.'
+
+nufus
+
+mübadelesinde
+
+Yunanistan'dan, annpsi ise 1936'da Bulga r istan'dan gelen. göçm en bir ailenin ÇOCtlu o lan Özer Aydoan,
+
+buyuklerindcn di n ledii göç sürecini eyle anlatir:
+
+"1923'le Loz an Anlasmasi ile k.irilikli iiiUb~de le. goç o layi ya~niyor Burada yaayan Ruml;ir. bli LQ 
+tali ,\n la ma si uyarinca Yunanist :i n';i Ridiyorla r. üri
+!:inn gittii, bo :iliii i bu evlere de biiini .it;ilaril1l lz
+gelip oruruyurlar. Ama dediim gihi o 7,aman 5<1(1,, ce Ap oiion Tapinai çev resinde bir yerh:im ,i.ldl1i
+var. O zaman M e r kei Di d im yok. Diditll pl.iJl;iri yok
+çevremizde Ill,in butun bm.ilarin hi;; hirj~i vok_ Ta
+Akkoy ded iinllZ küye kad:ir hiç bir bin ,i yo:':. Hana o dim cmd.. ,\kkoy ndliiye, yani Didini 'in b dli bulun  duu bir yei: S6ke'ye bali bir koy O?an;Jr:.~
+
+Gôr$id 'I. Aponan Tapinal:i · nin eirafiiid a ki ko}' yerl eimi (Öier Ay<loan kole ksiyonu)
+
+GomlS 1924 ,,,ubadelesiiid ... göç eden kv:--h:lt>r köy IlI<:vdJ iiirtl.i
+(Ö2c~ Aydo)iJ Il I\rilcksii·onu)
+
+122
+
+Anu Toker
+
+Corsel6. Yoranh 'mn yöresel kiyaferl - i 960'Ji yi llar {Özer Ayd otan
+koleksiyonu}
+o dönemlerdeki ismi Yoran olan Didim'e gÖç eden
+ler bölgede ciddi sikintilarla karila m ai.l a r. Çiinku yaklaik iki yil bo kalan köyde çevre ve evler bakim siz olsa da. gelenler en azindan ba in i so ka caklari evleri rahatlikla bulurlar. Hatta o kadar a n s lidirlar ki, birbiriyle akraba olanlar birbirine yakin oturimi imkani bile elde ederler. Ancak ilk dönemlerde ge çimlerini saglamada ve yiyecek ihtiyaçlarini ka r i
+lamada zorluk çekerler. O dönemlerdeki ismi Hil al'} Ah mer olan Ki zilay Derne  i'nin yardimlariyla bu so
+runlarin üstesinden geli rl er. H ayvanlarin! ge tirebi len mübadiller tarlalan yava  yava ekmeye balar. Ge l dikleri yerde de tütün tarimini bildikleri için yöreye kisa zamanda uyum salarlar.
+-Ora da da bi zim dedelerim\iiii y,ipiii I ni tünd.i  liik. Kaval" ve çevresindc ya iyorlar. Thtünciilü· u iyi biliyorlar. Iklimi de " a i yukari buras i gibi. Kavala'nin iklimi. Ve o yüzden bi7.hn a t a l arimizin bUriiya ge ldik icn sonra a siri derecede bu ekilde bir zorluk çe ktikl eri ni duymadik Neden duymadik? Çi.i.nk u geldikleri nde bir kere evleri h azir. bir evin içe risine giriyorla r. Bir de hayvanlariyl;i bf!rabf! r
+gelmile r. I...J Hayvanlari indiriyorlar. Vf! koye hf!p
+birlikte geliyorlar. "ma bu sefer diyorlar ki. 'Her kes bu aka mli k bir e~'e yerlesin: Herkes baktii. be~end i il:i bir eve yerl e i yor. Sonra yava y;iv~, f!1I çok tabi~ geleo insandan daha çok ev iiaf'. OO el" ler de var. Sonra yava yava 'Ben buraya geçeyi m , sen oraya gcç. '(er d e~itirel im. O ben im akrabani, komum, "~ra ba, komu o lay i. Sf!n bu eve geç. b{'l] bu eve geçeyini' diyerek. böyie kendi ar.i l" rinda de' 4i iklik yapiyo r la r: (Aydoan 20 14).
+
+MEZALIMDEN KAÇi , BULGARisiM GÖçü ... Bulgarlar tarafin dan is tenm eye n Mu s lüinanlai; can la rini kurtarmak için göç etmek zorunda kalirlar. Tari a· s ini ekip iiriiniiniin toplanmasina i7.ln verilmeyip aç hkla burun buruna gelenlerin veya su almaya gittii çeme hainda hakarete urayanlarin s ayi s i gun den gii ne artar, Ya a diklari zorluklarin ardindan bir pasa port kar ili  in da b ir inal ve r mek zo runda kalarak go ç etmenin bir yolu nu bulmaya çali  irlar. Ancak mallari ni verseler d e aylarca bekleme k ve bu zulmü yaamak zo r un da kali rlar: Ya a m l arini sürdürmek için ihtiyaç d uya bil ecekleri h e r ey i kendileri üreten bu insan lar. ellerinde bu ü retimi salayaca k hiçbir ey l eri kalma dii içi n pa saportlari ç ika na kada r ölümün kiyisinda yaarlar, Bu lgaristan goçünü hizzat yaaya n ve göçün gerçekletii dönemd e 16 yainda ola n ak il' Kii; 94 ya~ina ram e n canliliini ha le n koruyan beiieinde kalan 201' gün leri ne dair ani l arini gözleri do larak öy Le anlam:
+~Val'l\a'dan gemiye bind ik, gemiye bindikten sonra c\'\lc i ,. cy a lari yuklediler.lki tane nöbetçi kul übesi ya pmi la r. Erke kl f! ri erke kle r a liyor. kadin la ri kadin lar aliyordu, Ge miye bindik Varna'dan. Gemi. akam ezaninda kal kti. Sabaha kada r kimimiz kusar, ki mi· miz alar... Bir uya nd ik, hjr kalktik Karadeniz'de hiç bir top rak goiükmüyor, sirf deniz... Varna'dan, oradan ge miyl e geldik iz mir'e Urla·ya. Urla'da liman da yok, bir ada iiar. Ad;iya bizi ç ikard ilar. Evvela in sa nlari çikardila r. so nra hayvanla ri çikardilar, ökuz, beygi r, neyse. Orada adada askeriye gibi mutfak· lar hazirlami!a!; yemek veriyorlar. Boyle çadirlar kurmular. Oradan bizi çikarken de, çiktiktan son r.i hamama soktul,ir. Hamainda ine y;.iptilar biZI:'.
+Gorsel 7. Söke'deki tren gJrinin yakiniiilla muhadrlenn \lir av
+kJd a r beki{'\ild i~i hanga rm gfiniimlizdeki durumu
+
+123
+
+L
+
+i
+
+Ikinci I!~YJtl~nn Ktoti ' Oid.m·
+
+hastalik olmasin. Orada kal dik. oradan bize daitini yap til ar. Biz köylu ola rak 35 hane ayniclik oradan. Bizi ayri Aydin Söke'ye geti rdil er. iz mir'e geti rd i ler, i z m irden Si:ike'ye . Sö ke' de kald ik be - l O gü n. Söke' d en sonra bizi Didim'e tayin etmiler. Didini'e
+getirdiler bizi. Geldik Didim'e,"
+
+Ni.i fus mübadelesinden 12 yil sonra, 1936 yilinda köye göç eden ve köyde yaayan mühadi Jle rin ~ muha · cir" dedii Bulgaristan göçmenleri, nluhadiHer kada r  ansli d ei ldir. Vama' da n kalkan gemilerle gelenler;
+boazdan geçince Urla iskelesi'nde kurulan K izilay çadirlarinda 10· 15 gün kalir. a i loirini olu r ve hay vanlariyla yola koyulurlar. Urla Limani'ndan Söke'de ki tren garinin yakinindaki han garda bir ay kadar
+kalirlar.
+An(<ik Yoran'a gel diklerinde evleriii çou do lu oldu u içi n balarini sokacak bir ev bulamazlar. Evli o lan lara devlet kalacak bir ev verirken, bekfir olanlara ay ni kolay li k sagla iim az. Bu nedenle, göçmen gemisinde taniip limana vardiklarin da evlenenler olur. iskan alabilen alir a ma alamadii içi n bir sü re Yunan isun mühadilleriyle ayni evi pay laan Bul ga ristai:i muha ( irteri, kül tur ve alikanliklari fark li o lduu hald e on  larla kayna i rlar. Devletin ya rdiiii etmesi ve onlara ev yapmala ri için malzeme salamasi nin ardindan kendi evle rini yaparlar. Mu bacirlerin ya a di i bir zorluk da turun tarimiili bilmemeleri olur. Muhacirler, tütün nasil e kil ir, nasil dizilir, nasil kirilir, iiasil ku rutulu r bu nu bilmedikleri i~'i n, tütün tarim indan baka geçim kaynai olmayan Yoran'da zor günler ya arlar. Ancak inübadillerin ço k iyi bildii tütün tariml!1l onlarda ki sa sürede örenirler.
+ilk dönemlerde iki göçmen gru p için kaynamak kolayolmaz. Bir arada yaamak zorunda olsalar da bi r süre sonra mahalleler ayrilir, kiz alip veril mez, büyü k soruolar yaan mas a da gerginlikler yaanir. Ba sri Göç Hbirbirimizin mahallesine gidip gelmek bile sorun oliiyordu~ dedii çocu kluk hatiralarini anlatir  ken, ken dile ri de göçmen ol duklari halde kendilerini köyün yerlisi olarak ka bul eden mübadillerin, Bulga r istan göçmenlerine 'muhadr' demelerine pek anlam veremez.
+~Zor ço k z()r kayna nular. Benim çocukl u umda kiz ahp verme bile çok zor oluyordu. Bize muha dr diyorlardi. h.'ilbuki onlar da muhacir ama once geldiklen için. kendi l eri ne ye rli diyo rlard i. Birbirle ri nden kiz alma bile zor oluyordu. Sanki Müslüma n Hirist iyan gibi, h ;i,tta birbirimizin mahallesine gelip gii mede so run oluyordu. Bi rbiri mizi mahalleleri
+
+G6rsel 8. Solda Yunan ist an. sagda Bulgaristan Röçmeni dilnu r)er
+(Özer Aydoitan ko)e\c;iyonl.l l
+mize so kinuyardiik. O ekilde bir gru.plama v;irdi. Yani geçimsizlik vardi d ah;i, dorusu.»
+Ancak ilk kuak göçmenlerin son tems ilcilerinden akir Kii; bu ilikiler in balan gi çta çok iyi olduu nu ve hatta koye göç ettikleri nde davul zurnayla kari
+laiidiklarin ihatirliyor.
+"Biz RutUeli goçmriileriyle badatik. kanlJ gibi geçiuiyorduk Çok guzel geç1l1Iyorduk"
+1924 göçmenleri tütün tari m . iii çok iyi bilirken, 19 36 göçmenleri ise ihtiyaç duyulan ekmek. bulgur, nohut, pekme z, ya vb. urü nleri ke ndileri yapmayi çok iyi bilirler. Zamanla birbirine alim akta n . kay· namakt<ill ve payl am aktan baka çaresi olmayan bu insanlar bir arada huzu r içinde yaamanin yolunu bulurlar.
+FEVZI ÇAKMAK PAA VORAN' DJ' ...
+ikinci Dünya Savai' nin a,ya k seslerini duyu rduu yillarda güney kiyilarinin ko runm a si, ordunun ve do nanmanin güçlendirilmes i, savunma planlarinin ye niden ele alinmasi için Ge nelkurmay Bakani M areal Fevzi Çakmak, hazirliklari yerinde bizzat görmek için güneye gelecektir. Ama o dö neml ei-deki resmi adi Ye ni hisar o lan Oidim'e gidecek yol yoktur. Köylü çareyi el b irlii ile bi r yol açmakta b ulur ve gönüllti çaliarak dev letten çok uzakt.iki bu köye balanti s a layacak bir yol açarlar. Çalilari keserler, talari kirarlar. top
+rai düzeltir}er ve Ma re a l' jn arabas inin geçecei ge
+n i li kt e bi r yol a~'may i baa rirlar. Köye gelenler, köy  lülerle sohbet e tt ik i !;! n son ra, Marea l, özellikle zeytin aaçlarinin azl iini dile getirir ve daha çok zeytin
+
+124
+
+Ar:iu Tokor
+
+aaci dikilmesini tavsiye eder, Apollan Tapinai'nin gezilmesinin ardindan, Söke'ye doni yola çikan Marea\'in arabasi tozlu yoJlarda gözden kaybolur (Bilgin 2013), Mareal Fevzi Çakmak'in köye ge l dii, ne tanik olan akir Kir, hatiralarini öyle anlatir:
+"Bizim geldiimiz zamanlarda '38 senesinde Fevzi Çakmak Paa geldi buraya, Didim'e, Duymus undur, Fevzi Çakmak Paa vardi. O geldi. Geldikten sonra onu Alaman kulesine, Söke'de Ruen Bey vardi zen gin, Bu adam o1'aya barakalar gibi bir eyler yapti. ' ...J Butun Soke'de süvan alayi vardi. Süvari alayi olduu gibi di nlemeye geldi, Fevzi Çakmak gelince. Fevzi Çakmak'i kariladilar orada. Biz de, köyli.ller de davulla zurnalla onu da karilad i . ~Eeee evlatlar" dedi Fevzi Çakmak, "Burasi orman bölgesi deil, fundalik bölgesi, bu fundaliklan kôkl eyin, zeytin ekin." dedi.
+YORA N' DA SiYASIORTAM ...
+Yoran'da köylülerin günlUk yaamlarinin tekdüze liinin ve huzurlu gidiatinin aksine mesele siyasi tartimalara gelince kardein kardee dargin olup senelerce konumamasi da normal karilanir. De mokrat Partili olanlarla Cumhuriyet Halk Partili olan~ larin kahvedeki kaeleri de sohbetleri de ayri olur. Yoran'da. yaam birdir ama Menderesçiler ve Inönü eüler diye bir ayrimdan kurtulamazlar, Söke'nin en uzak, en mahrumiyet dolu, en ulailmaz köyü olan Yoran'a giden yolu yapan Demokrat Pani hükümeti dir. yoL vaadini yerine getirenAdnan Menderes'e bali olanlarla, kendilerini mezalimden kurtarip bir vatan sahibi yapan Atatürk'ün partisi olan Cumhuriyet Halk Partili olanlarin iki kutba ayrilmasi da bu yüzdendir. Kimi Yunanistan'dan kimi Bulgaristan'dan gelen, ayni çati altinda yaayan, ayni tencerede yemek kaynatan insanlari farkli partilerden olmak ayirir. "Menderes yapti bu evleri~ diye depremin sarstii, çatlattii ev lerde oturmayacak kadar inatçi; Milas'tan katirlarla güç bela gidilen Kazikh Köyü 'ne yolyapilacai zaman ~ I)ein oknit Parii yapiyor" diye greyderin önüne yatip yol yapilmasini engelleyecek kadar partilerine ba lidirlar, Hayatlarini kolaylatiracak yoldan yürüme yi, "Menderes'in yolundan gitmek" gibi yorumlayip, Kazikii Köyü'nü Milas'a balayan yo lun yapilmasiiii engellerIer. Köylü, partisine ihanet etmektense, ka tirlarla kilometreleree yolun çilesini çekmeye razidir.
+- Kazikli'ya hakik.iten yol yoktu Milas'in yollan yapi lirken o yillarda söylüyordu yali insanlar, kahvede :iniatiyordu Kazildi'nin muhtan gidiyor 1-1ilas';i De
+
+makral Parti binasina 'Ya Kazikh'dan Mil;is'i\ !.ili, ka tirla gidiyoruz yol yok: diyor. Parti bakani tutuyor Ankara'yi ariyor. O zaman 'iki tane makine gelSin, Kazikli'nm yoUarini Milas'a doru yapsinlar: diyor. Greyder geliyor orasi halii Halk Partili, Cumhuriyet Halk Partili, greyderin ônüne yatiyor bunlar. 'ee ne oldu-!' ismet Pa ~l biz{' onlarin konu ma lari vai: is met Paa kizip atti. 'Niye?' 'Menderes'in yolundan mi gideceksiniz"! Greyder 'Aiiah Allah' diyor akma dönüyor: 'Ya yapmayin, birakin Menderes'j birakin, bu sizin yolunli'L.' 'ismet Paa kizip atti bize' diyor. Yatmi ,idam kalkmiyor greyderin önünden, Grey der de operatör çeviriyor greyderi basip gidiyor.' (Aik 2014).
+Bu çekimeler öyle ileri boyutlara ta in ir ki, köyün ilk cinayetiii in sebebi de siyasi parti tartimasi olur_ 27 Mayis 1960 ihtilalini Cumhuriyet ~I a l k Partililer in köyde davul 'lUftla ile enlik havasinda karilamasi Demokrai Partilileri çok kizdinr ve büyük bir kavga çikar: Cumhuriyet Halk Partililerin sevinciyle tahrike kapilan Demokrat Partililerden biri, kalaba li kta köy muhtarinin o lunu biçaklar ve ölumüne sebep olur. Bu ci nayetin yaandii sirada köyde olan akir Kir ta nik olduu b u aci olayi heyecanla öyl e anlatir:
+"Bi r guriiltu bir zirilti. Bir kavga çikardilar. Demok rat Partllilerle Halk PartiliJer. Demokrat Partililer si kitirmi iar bizim köyün bir çocu~unu biçaklami lar, O çocuk da birisini biçaklanii . O muhtar olan, inuhtar vardi. Muhtarin ikinci karismdan, ikinci ai  leslJ1den lki çocuk vardi, Konyali birisinden. Çocuu hiçakhimilar, çocuk ölmü. O k;lVgal~r oldu, bitti. Çok i l er oldu. Sonra hepsi çökeidi. Ne Demokr~t Pa rt ili hldi ne baka bir ey i htila lcien son ,..i.."
+Yoran halki ve sonrasinda da Didim, airlikli olarak Cumhuriyet Halk Partisi'nden Y-dna eilim gosterir. Ancak belediye bakanliina a.day olan kiiler de hal kin hangi partiye oy vereceind e etkili olur.
+YORAN'DA ZORLU YILLA R".
+"imdiki Didim o zamanki tarihte resmi olarak Veni· hisar Koyu olarak geçiyordu. imdi ilçe. Orada do dum, Tabii ço k yoksulluktll bizim çocukluumuzda. tlkoi..lIla bile yalinayak gittigimizi. zaman zaman ;iyakkabi bile bulamadi iiiiiz, takunya dediimiz e yi: ayakkabi olarak giydlimiz günler çok yani, nasil diyim. Tütün zir..iati ile ug,.aiyorduk. Bütün t;irla· lard~ yaz boyu yalinayak olarak biçme tütun hasa, di ite, o çaliimilar da falan YOksulluktu çok. Yeme içme konusunda gene oyle, herkes kendi bir eyler ne yetiuriyorsa oou iiiinp onu ey yapabiliyordu. Y;i nj nasildiyeyim. Ben mesela doduumda babam
+
+125
+
+i
+
+lkino Hay31lJrI" Ke"ti 'Old im"
+
+aske rm i. Annem öyle anlatird i ki ben onlan bile· nieyecei1l1. Yani un alacak paralari yok, un yok. Ar· pa ha S adina baaklar olumu ama tam gelimemi, firinda kuruHip da onu el deirmeninde outüp. ondan ekmek yaparlarmi. Bunlari ben hatirlami· yorum da annem anlat1rdi bu ekilde. Yani ekme~ bile zo rlukbrla yapmilar. Bizleri öyle büyutruler, çok yoksulluk içinde büyüdük." (Göç 2014).
+Yillar geçip hayai normal seyrinde akarken Yoran'da sikin ti, fakirlik ve mahrumiyet son haddi" ne kadar yaanir. Yol gitmez, kimse bilmez bu köyde yaamak satilldiin dan daha zordur. Ekmek yapmak içi n buday bulamadiklarindan , gelimeini baak· lari firinda kuruiup, el deirmeninde öütüp ekmek yaparla r. Kurak olan bölgede, köylüler su gereksinim· lerini nadir birkaç kuyudan temin ederler. En temel besinleri olan ekmek ve suyu bulmakta bile zorla· nan köylüler yine de huzur ve s ükiin içi nde yaarlar. Kendi piirdiini kendi yiyen, gerektiinde paylaan göçmen aileler birbirlerine zor da olsa ahip, bir dü ' Zen kurduktan sonra, hayat kendi halinde geçip gider. Köylü, yamursuz iklimin elverdii tek tarim faaliyeti olan tütuncülükle uramaktadir. Tüt(i ncülük deyi p geçmemek lazim. Baindan sonuna iiieakkatli bir i· tir tütüncüiük.
+"Burada akarsu, dere o lmddi i için hep kuyu kaz· milar. Bizde hazir kuyular vardi, baz ilari ilave kuyu kazdi. kuyulardan kovalarla su çekip tiitüiie bir ca n suyu veriyoruz, bir daha su istemiyor. Baka hi çbir eyolmuyor. Pamuk, pancar gibi bir ey ekeiiiezsin .
+
+GÔl'sef !O. Tütün tarimi yapan bir aile çardakt~ ti.1tun dizerken (Özer /lydo~an koleksiyonu)
+sulu tarim yapamazsin. Onun için çok malininiiyet vardi." (Aldemir 2014)_
+Bir çocuk bu köyde douyorsa, alnina tütün cülükle u  ra acai da yaz iliyormuçasin a henüz oyun çain· dayken tÜlÜn iarlalarina girip aile büyü klerine yar· dim ediyorlardi . ilkoku lu okurken, aile büyükleri "ço· cuk okulu bilirsin de çifte çubua sari ls in " diye dön gözle bekliyordu. ilkokulu yalinayak okuyan, çocuk·
+luklarini yaayaniayan çocuklar henüz i 2-13 yainda
+tarlaya giriyordu. Yakin köylerde yaayan genç kizlarin Yoran'ci geli:1
+ge lniek istemerecei kadar zahmetli bir yaam suni
+iüyordu. Yaam o kadar mahrumiyet ve yokluk içinde
+geçiyordu ki. o günlere tanik olup ya da ailesinden dinleyip anlatanlar, yillar geçse de o günleri unutinli · yoriar. Tütün ekmeinenin ayip ve açlik d e mek olduu koyde yaam, tütüne mahkfimdur.
+Uçüncü kuak göçmenlerden olan Erdinç Göç, ço · cu k l uu boyunca büyüklerinden dinledii ve yer yer tanik ol du u ruhuna ileyen bu s ikinti li günleri de·
+tayJariyla öyle anlatir :
+
+Görsel 9_ Okul ça ntas i di  iiid ,i hel" $eyi es ki ula n Yor,," iikoku l u UÇÜIlCÜ sir.if i.i~ i·ençisi OSIl1.1I1 /lyd ota n [Özel" 1'Y<io~an koleks iyoni;)
+
+·Onlar il k ge!dikle ri yilla rd a. o d uze m ku raiia kaelar bayai b i r zo rtuk çekmiler. Yani çok sikintili gun· ler. Doktor yok, hasta ne yok; birey yok yan i koyde. An l..itti kla rina gore bir kii varmi galiba bu i ler'{' ba kan ; onun d.i bir ça n tas i varmi boy le, ari s i S1'lisl olana ge li p, a ni nd a bir igne yapiyormu. "ma ineyl hangi sebeple ya pii . neden ya pti o da bilm iyonnu. Yani sirf a  riyi kesrnek için. o .:inda guiiu kll11 ara· bilmek için. Yani 'Çok eyler çektik uhmetler çek· iik... Her  ey zordu, ha.y<i t çok zordu. Elektnk yok. su yok: diyor."
+
+126
+
+Ar",. Tiike,
+
+Üze rind en y i lla r geçse de bel ki deta rinu e n zorola n tU tu n ye fi t irm e n in m ea kka ti. o d önem ler i ya aya n herkesi n zihn inin kara n li k b ir ye rin i iga l e diyor. Ço c u kluunu. genç 1i ~ini. h a}'3tiiii tütu n zira a ti yaparak geçiren insanlar, mode rn ta rim araçl a ri n in o l mamasi nede niyle ökuz ya da atlarla ta rl a l a ri sürdü kleri, sera· la rda ke ndilerinin ye ti ti rdi i fi dele ri d ikti kleri, he le ki çocuk yata gece le ri en ta t li uyki.i lardan uya nip tar laya gittikleri giin le ri anlatirke n sa nki o günler ger i gel ece km i gibi en di e li bir tavir t a kini yarlar.
+
+"Ge rçeki e n , hep (,i k i rU k fu ka ra lik. Il atta o tülünl en
+boyle d i zd i k l eii so nra, katmm ol d u~u gi bi ellerimi ze ç i kai: K at rani ellerimize çik m asin diye eski ço Tapla r bulurduk, elimize geçi ri r d i k. Çün ku yed iiniz yemek ten tat alamazsin iz- Zehir gibiydI. Ekmei da hi tUlamazsiniz. Herhangi bir yiyecei tULimazs in l].. Zehir gi bi boyle bi r ey b irakiyo rd u elde. Ya ni imd i s ig:ir:in m ni kott n mi oradan ahyorduk biz. Yani böy le bir ey zamani geçti. Hep ra kirlik d ö n em~ yo ksu l luk dÖiiemi. Ge rçi biz uç uncu kuak olarak pek fazla eyler çekmedik. Ilk kua k burada maalesef garj banlik Içerisinde, hiçbir ey görmeden, milalesefbii dunyadan göçup gittiler bunlar. Yani imdi bu uçün cu kuak toii;ler, burada bir e}'lerdel1 neinalandik ki ikinci kuak tan olarak babamlar falan, çok bti}'1Jk rezilhkler çekmi." (Goç 20 14).
+Bin t ii rl u za h me tle, ta rl anin ortasin da kurduk la. ri ça di rlarda çolu.k çocuk yaayarak tütti n ekme kle, biçmekle, kuru imak la , balya lama kla ÇIle bitmiyordu. Mesafe olara k çok uzak ohnasa da u l ai m zorl uu n  da n o n lara a  i lmaz da glarm a rdinda gibi gorlinen Ku ad a s i 'na git mek zor und a k ahyorIard i. Gitme k so· nin deil d e yaiiiiir yagarsa, taan Me nde res nehri Söke O va si 'ni ta mam en ka p liyor ve tütün ba lyala ri yl a u la i mi d ah a d a zo r hale get ir iyordu. Meh me t Bilgin'in gençligind e ya adi i o gunler so zler inde öy l e ye r bu lur:
+~B llylik I>lenderes tatigi zaman Sokr Ovasi, ta m:imcn su altinda kalirdi ve baitantini i z kesilirdi S..dece baglautl ba.b.u· gunlennde ve yaz gunlerin' de olurdu Çok ac i l ii olanlar Mi!as'tan ulairl ardi karayo lunda n, Mi la s·i a n, Ya ta~dn'da n, Aydin'dan Soke'ye giderlerdi Böylesine zorlu bir yolculuk yaparlardi. Yani 60 k i lome t TIilik yol. her halde 300 kilometreyi bulu rdu. ()rne~ln o zamanla r Didim·in geçimi iamam~n tutundendI. Tiltunlen Soke'ye te~ , Inn etmek için çok zorlu b i r yol takip edilirdi Onte Didim ilt' yiin, koyle liman. limanim iz da o zalnan Kovela diye geçerdi. imdi M a viehir oldu. uray" k~da r at a r ao,i lariyl:i . oklir. ara lia l.i ny l a tutun halya, I~.ri t,iin ii·di . Orad:. küçük bir sa ridal1 a gemiye hiii
+
+(;orse/ Ji Menderes Nehri'nl sal ile geçi - 194 i ( Koleksiyon Kenan
+Kuçukogiu O~er Aydo,qan Arivi)
+dirihrdi Çü nkü gemi iç in lima n im iz da yoktu. Sonrn bu gemi Kuadas i'na gide r, orada tekra r tutun ler indinhr, IGiIl\)'on lar.t yuk leiiir ve Soke'ye geti rihrdi . Yani i arim urunlerimizi bu kadar zorluklarla deAer lendirir ve ancak Soke'yt' \lla~tirahi hrdik.8
+Ki ayla ri n d a Söke'ye dahi gitmek imkansiz hale geliyo rdu . Köylü ler, son de rece ilkel ko u l l a rla, o lmek pa ha s ina sa lla ra bin e r ve t ü t ü iilerin i satm ak için Ku p d asi 'ndaki tü cca rlara gid erl erdi. Sonraki yil l ard a moto rla g id ip ge lm e}ie b a l a rl a r ama çekil en çileler h a tirl a rdan asla s ilinmez, Gittikle r i li ma nl arda gün lerce gecelerce bekleyip, a ilelerinin bi r yi lli k rizki· n i ka zanmak için i: i.i cca r gelsi n tütün le ri a l sin diye b e k lerIcrdJ.
+··çevre yol u kap an i rd i bir zamanla r. Sonrad .in bu la t ila.r d eniz motoni ge lmeye Ku ad:isi'na. Rii' radan moto rla r gel iyor, buyuk motorlar. Burada Kuvela dt'lllr. Ku\'ela'yi bi liyors u n. orada sariir{iik onla r i gemi)'e, Kuadasi'na çikarirdik. RezLllikti i i·
+miz.H (Kir2014}
+"Tiliun çok zo r bir tarim. Yani neredeyse tarimin en zoru d iyebi h ri m Çiin ku yaplli ekli , çalima saati ve daha çok el eineg,y l e yapilrl i gi iç in yani böyle nia' kiiielem i  b i r eyi olma d igm da n d o layi ço k zor bir t..irim ve k..iz:iiici da çok d uuktii." [Yildirim 20 i 4)
+o yillara taniklik ede n insan lar, a çlik ve yokluk
+la s in a ndiklal'! ginileri üzün tüy le kariik bir ozlem d uygus u yi" aniyo d a r. He r ne kadar zorlu zamanlar geçirse ler de ~o g unler geri gelse" diye ya ki n madan
+
+127
+
+i
+
+Ikinci H~Y"iiann IC~nii. 'OldIm'
+
+duramiyo rla r. Tütün kirmak için tarlaya gittikleri za· man la r; kapisini kili tsiz b i raktiklari evlerde ka tiyen h irs i zlik olmaz, kimse kimseni n m a li na elini sürmei. Koyililer, ektikleri tütünün para sini seneden seneye ali r, bo rç l arini öd edi kl en sonra k it ka naat geçinir, pa· ras i yoktur ama bu k oullara ra m e n köyde herkes mutludu r.
+
+yer sarsi n ti si o lu r. 16 Temm uz 1955 tarihinde bulun
+Ege Denizi'ni sarsan dep re m de büyük bir y i kim yaa· ni r. Köyliinu" çou tarlalardadi r ama evle r inde olan· lar, çocuklar ve yalilar bu sarsmtlyt daha iddetli ya, ar. Söke ve Akköy'de yi ki m olsa da Yo ran'da koylflle r birkaç çatlakla felaketi sa salim atla t il'. Bu kurtuluu Ekrem A i k biraz da esprili bir di ller öyle anlatir:
+
+"O Ulmanlar im d i olsa daha iyi. Tiitüncuydü miJlet, tutuncillü k ya pardi k. Millet yazin geld i i zaman, ya prnkla r ki r m a m ~s im l n e geld ii za ma n burada evler bira kihrdi, tarlalan uzak ola n ki ii e r sazdan çardak kumrla l'di tarlani n ba~ ina. O yeni ge li nlerin al t in l a ri hep evlerdeydL H irs izli Sili ad ini biz gaze· tede dahi bil miyorduk, o kuma dik. ' hirsizlik Ile' der· dik. Hiçbir h i rsizl i k o l <\Yi olmazd i. He rkesin serveti evinin lçerisinde, ya kapilarda doSru duriist kilit yok. kapila r tahta kapiyi omuz atsan menteesiyle söktilecek durumdaydi kapilar, eski Rum evleri. Bu· radaki haraben in e t rafindaki evler hep Rumiardan kalma evler: (Aik i014).
+H aya tini Didim'de geçirmi insan l a ri n anilarinda
+ka lan Yoran köyü, geçinmesi zor olsa da huzur dolu, paylaimin , güvenme nin, d ayanimanin old uu bir ye rdir. O kadar huzu rl u bir yerdir ki köye açilan ka rakol bile bi r süre sonra kapanir. Çünkü i n sanlarin kan u nen baini de rde sokacak bir ey yapmak a kilta  rina bile gelmez. Devlete ve kanuna saygili insanlarin bir arada yaadi~i Didim, Mehmet Bilgin'i n a ii !atiinin da öyle al i r:
+"Oidim ta r ihin d e ölüm, cinayet, silah olay i hemen hemen hiç yoktur. Ha tta zaman in da burada karakol vardi. imd i Di dim'in giriindedir o kara kol binasi. Önce burada kalilbalik asker va rmi. Tabii dia kari korunmak için asker gönderilmi, jandarma kalmi . Bir alay jandarma. Karakolu denetlemeye yetkili bir ami r geliyor. Demi ki 'Ban.1 vukua r defterini geti· rln'. Getirmile r defter bembeyaz, hiçbir olay yok. ' Kapann bura s in i, Neden iilzim ki ?' d emi. Ve kara· kol da kapand i, landarma oradan giiti. Uzun yi llar burasi Ja ndarmas iz kaldi. Ve Sö ke'ninhemen hemen en buyuk koyu burasi o zanianla r. 1800 nu(uslu, 1 S0 hilneli bir köy ve Jandarma yoktu. Ama hiçbir OlilY da yoktu. Dugunde Içenler, kavga edenler, bairan · lar hiç çikmazd i . Hiç silah atan yoktu. Ben ilk silahi ii yainda gördüm. Onu da baka yerde gordum:
+DIDIM DEPREMI VENI BIR SAYFA AÇ i YOR ..,
+Koyl ii ler için siraddn bir temmuz güniidü r. Tarla lara kurdu klari çarda klarda günlerin i geçirip tütün kir· makla uratiklari bir temmuz sica~ in d a Didim'de bir
+
+"Burada deprem oldu, yedi ya l aniidayim o zamao, hayal meya l h"tirliyorum. 1-1 erd iwnden, ev iki katli , Inerken yuvarla n dim bi rden, anam ald i be ni dia· n ç i ka rken yuvarla n dim, kuvve tli bir de prem oldu ama hiçbir bina y i k i l m adi. Bir ra por tuttu o zaman buradaki muh tarlar, tutmu yani. Didim, Yoran yi ·
+ki l di diye. (...1ener en'jn bir filmi var hani, Ing il·
+tere Kraliçe s i bile geldi, hiç olmazsa bir iki tanesini yi kin dedi. Buraya da geliyorlar, yik i lan bir ey yok Bala!'t;! bi r iki tane bina yikihyot "Yoran yiki ld i" dj· ye, bir rapor herkese, buraya tek katli birkaç ta ne ev gorebillrsin;z burada."
+Deprem oldugunda 14 yainda olan ve dep remi b izzat yaaya n Basri Göç yaadiklarini öyle anlatir:
+" 1955 deprem i : b uradaydim, o zaman 14 ya indaiy· dim. Tutun zlrJatl yapiyorduk.. Bilbamla ber.lber riç i , o zaman ki rçak1 derle rd i ite, iki tane fiçi et' · Ae s arilii; su geiirm r. Taima suyla olurdu ht'f  ey, Babam onlari d o ldurmu , getirdi. iki kiiyle Indiri· liyordu. Is hk çaldi, bera ber I ndir ecej'!: iz, beii geldim. En buyuj'!:üm, ded im ya ailenin ilk çoci:u. Onlari indirdi k. yere koydu k; deprem baladi. Ben ailem· den duydum. depremin ne dem ek oldui;uiiu bilmi· yordum tabiI. Bulgaristan'da o lurmu deprem, ite 'öyle {i l uyordu, boyle ol uyordu .' Bizi m bir de azgi n bir bo~amiz vardi. Çardak sallaniyor, çaldir çaldir sallaniyor deprem in hiziyla. FIÇllari yere koyduk ama be n zor tutuyorum. Doniiyor su, yere dokl'ilen su da dönuyor boyle, Babam d edi 'ça ki ci geldi, çar· da i çak.acak: 'Baba deprem oluyor!' dedim. Biz on' larda n duyduumu z balde, idrak edemedi deprem oldugunu. 'Baba deprein oluyor!' dedmi,o zaman b i rak elinden eyi' dedi bana. Tabii o zaman, dur· mu oldu artik ey. Depremi de boyleyaadik. Sonra tabii ki çiktilar, köye geldiler Bizim otelin oldugu ye· re, i.arl:iy di ya o zama n. Çikt ila r köye geldi l e r. Bizim }iöyün, o Ulman yuzde SO'i Rum'du. Zaten çounluk· Iii, Rumlanl3n kalma evlerd e o tur u hi rd u.. Hep eski binalardi, Yuzde 80'i ha sar g6rmütu. AmJ builin insa n lar çarda klar da oldugu için tütfin w·dalinda. bizim köyümuzden hiç olen o lnlddi o depremde. Bu tar1Jl't-d Akkoy, Yenikoy var, B,,!;i t var. Balat'ta hiç, bir
+- - -_ .
+i D ibi d:ir, ustu , ... nii ~\lliçi~i
+
+128
+
+i
+
+AnuToker
+
+iani.' ev ::iyakt;!. kalmamiti. Hepsi yerle bir o lmu t u, dört ki i ol m uiü de premde; bizimkiler çardaklar da olma d o layisiyl a kurtuld ula r. O depremi de öyle
+yaad ik."
+Depremin a rdindan o zaman Demokrat Partili o lan hükümet yetkilileri bölgeye ince leme yapmak için gelir, Köylünün Balat dedii Milet yerle b ir olsa da Didim'de çok fazla hasar o l ma diini görürler Ara tirmalar derinletiind e bu yerlerin, yap il arinin biraz kötü duru mda ol d uu , ileride yiki labilecei, yerinin iyi olmad i i , jeolojik etütler sonucu bu ye rin ina a t yapmaya elveri li olma d ii, o yüzden bu köyün baka bir yere talliina si ge rektii hususun da karar veriiiI' (Aydoa n 2014). Ancak köyun tainmasinin ardinda ba ka nedenle r oldu  unu düü n en Öze r Ayd oa n bu  nu öyle belirtir:
+·Oysa bunun al tinda yaian b aka bir neden var. Asil neden bu d eiL. Bu, zahiri bir sebep. Apollan Tapi  nai ve çevresi kazi alam olarak balaniyor, 1900'lu yillarin ba inda. Alinan heyetleri tarafindan, bu bö lgede evlerin bul unduu yer de kazilmak isieni  yor. Ama vai a nd ain oturduu evler var, Çünkü O zaman Rumlar d.. bu evlerini yaparlarken ,,"pollon Tapinai'ndan çeit li ta l ari alip lrulauiiiitar, Hatta bizim oturdu umuz evde bile köe ta~la rind a var böyle birkaç ta ben biliyorum"
+Esk i köy Yoran'da bulunan evlerin hasar gormesi nin ardin dan 1957 yili nda yeni bir yerleim a lani tes· pit edilerek, yerleim bir kilo m etre güneye kaydirilir.
+Bu yeni yer le  im , gunümüz ün Didim merkez olarak
+anilan bölgesidir. Eski köy Yora n, deprem MIgesi olduu için oradaki evlerin dayanikli olmadii ge
+
+rekçesi ile 19 57 yilinda Didim merkezdeki Hhü kümet evleri" ola rak an il a n tek tip evlerin oldu'l.l bir alan
+yaratilir.
+oioiM'OE TURIZM BALIYOR ...
+Ayni yil, hükümetten ieftie gelen kiil er, vali ve bele diye bakani yeni bir yerleim a lani yaratilan b ölge ye oldukça yak in olan çOk guze! bi r den iz olduunu ö re n ir ve köylüden sorutururlar, Köyl ü, ço k güzel bir deniz olduumi ancak yolu çok kötü old u u için gidemedikl e rini belirtir.
+Balçiin Ardindaki De niz ...
+1950'Ii yillar Türkiye'de turizm sektorünun henüz e m e kledii dönemlerd ir. Turizme elverili b ai i bölge lerin ge li t i rilmes i yönünde çabalar bu dönemde ba lar, Devlet kana d inda da turizmI e ilgili çalimalarin baladii yil olan 1957 yi linda Didim de erken dönem kefedil e n bölgelerden biri ol ur, Depremin yarattii yikintiya çare olmak üzere Didim'e gelen yetkililer me t h ini duyduklari plaji görmek üzere, o döne mler balçikla kapli bir bölgeyi geçerek ancak u latiklari Didi m P t aji 'na ha ta çika yürüyerek giderler. Ayakla rina bul a an balçi k lara demi tir. Karilarinda, uçsuz bu ca ksiz gibi duran pm! piri ! bir deniz ve altiii renkli ineeeik b ir kumu ola n plaj uzanmaktadir. Mükemm el bi r deni zi, altin gibi bir kumsali, dünyanin ikinci bil yiik biticilik merkezi ApoJlon Ta pina  i gibi tarihi bir deeri olan Did ini'de Hbumda bir Jeyler yapmaliyiz " düünc esinden yola çi kilarak bölgede t u riz mi n te melleri ati lir.
+Altinkuin sahilindeki kooperatifevlerinin tem el in aa tinda da çalian ve o doneiniere ya kind an I <imklik
+
+GlJrs/'I I Z. Yoran!ila r için ina edile n yen] yerleim ~Ia:ii - ,mdiki DIdim merhi (Öier Aydoan kol~ksiyonii )
+
+Görstl 13. Oid ~ m Aiiinkum ri"ji'nda ri Apollon T~pin.'t]'"a giden yni. i97Z (Our AyilQ~ari koleksiyonu)
+
+129
+
+i
+
+ikinci Hay~ilann Keni l-rinh m'
+
+, ,
+G6rsel 14. Didim PI~il'nll\ ilk ~vl~rj (Özer Aydo~n koleksiyonu)
+eden Basri Göç, Alimlrum sahilinin plaj yap ilma kara'
+rini öyle anlaiir:
+"1957'de Bakan lar Kurulu'ndan bakanlar geldi. ka · rar verdi. Sahile. yaklaik 50 metre uzunliiaund'" masalar kuruldu. Butun bakanlar geldi. Buranin plaj yapiirnasina dair k.irar aldilar. Sonu iste k6yluleri n , o bölgede yerleri istiml<1k edildi. 25 kuru; en pahali dlin~n yerler, en güzel yerler 35 kuru meue karesi: istimIlik edilen yerlerin. Butün su kuyulan da tespit edildi bokrn. ItE' 1957 j'ilinda balandi. Bir koope  ratif kmuldu ewcla; buradan, Söke'den,"
+o donemler bölge halki için deniz, "enannelti oiu
+nilup bel ki iemiz hava almaya yarayan çok da önem · ii olmayan bir eydir, Hele bir de bu denize ulamak için yol yoksa ve önünde bir balçik varsa hiç deeri yoktur, Ancak sôzü geçen ye tkililerin giriimlerinin ardindan ayni yil hem Didim merkez ola rak ani lan
+
+bolgede hem de Didim AlimkuOl Plaji'nda ezamanll inaai lar balar, Didim merkezde hukümet evleri de nilen 262 tane yaam konutu, Altliikum Plaji'nda ise 60 kadar kooperatif evi yapilmaya ba lanir. Hükümet evleri, 800 in 2 alan içerisinde bir ev ve inütemilatm olduu bahçeli hir ev olarak iasarlanir, Kooperatif evlerinin kiin sicak yazin serin olacak ekilde ta tan yapi lma si planlanir. Kooperatif evlerine özellikle maddi durumu iyi ola nlar talip o lur.
+1957 yi lin da balayan ina.;itlar 1960 yilinda ki iliri · Ja le kadar hizli bir ekilde devam eder. ih tilalin olma siyla yaklaik bir y i l inaat çalimalarina ara verilir: 1962 yili geldiinde hükümet evle ri içi n kura çekilir ve 262 tane ev kuraya göre daitilir. Artik Yenimahal le diye anilan yeni bil' yerleim alanlari olan kôylül er, yeni hayatlarin a yeni evlerinde "Merhaba" der, An cak köyHinün hepsi yeni yapilan hükümet evlerinin kura sina yazilmaz, Dönemin siyasi atmosferi bu küçücük kendi halinde ola n köyü Türkiye'nin her yeri gibi ct kiler. Cumhuriyet Halk Partililerin çou, evleri Adna n Menderes yaptirdii i çin eski Rum evlerinde o(iirma  yi tercih ederler.
+1967 yilinda " Hisar" olarak adlandirilan Apoiioii Tapinai'nm bulunduu bölge ve halk arasinda "Yeni hisar" olcirak adlandirilan Didim inerkez mahaileleri bi rleir, Bôylece 1967 yi lina kadar köyolarak varlii  ni sürdüren Didim'de 1968 yilinda belediye tekilati kurulur, i 980'ji yiiiarda bal<iyan turizm hareketiyle birlikte h i zla gelim e ~'e balayan helde, 1990 yih mi kadar Soke il çes inin Akköy bucaina ba l i b ir y erl ~· im birimi iken, 1991 yilinda Yenihisar a diyla ilçe olur, 1997 yilind;:i Ye nihisar ismi Didim olarak d e i  tirilir.
+Didi m Tu riz m inin Öncü is m i Cav it Aydo~an ...
+Ortadan uzunca boylu, masmavi gözlen, bembeyaz saçlari, hafif kemerli burnu ve karakterli yüzii ile film artistieri kadar y<ikiikli bir adamdi. Didini'in tek ve gerçek Bey'i idI. Köylüler ona "Cavit Bey" derdi. Cavit Aydoan , izmir Atatürk Lisesi'ni ikinci siniftan terk etmesine ramen kendi ni çok iyi yetitirmi, lisecl e örend ii $Jlllrli Fransizcayla Oidim'deki ilk turistik eya clük l<.i1. IlI111 açmi, ingilizce ve Alinan cayi Cia ke n di inikan1<myla ö renmiti (Aydo:m 2006). Didim turizniini n öncüs ü, yol yorrlam bilmeyenlerio r ehberi Cavit Aycloan, aincasinin o lu Özer Aydoan'in hali  rabl'inda öyle yer bulur:
+
+(;()rsel 15. Solda hukiim"'t ~v l "'ri, Cv Için kur~ya giden koylüler (Erd inç Goç ariv i)
+
+"1936 dciumlu Cahit Aydoaii. 61 yaind,; vefat !.!t· ti o, Diclim ve turiiriiin adini. ilk defa tun s iin kim
+
+130
+
+oldu~nu söyi~y~n kii odur. DidlmlUer turist nedir bilmezdi. Zaten turist deyince Cahit Aydoan aklina gelirdi once. "Cahit aAabey ne diyor acaba bur". Me sela taksiciler o zaman, bir kaç taksi var burada. Bil· miyorlardi nasil anlaaca klanm, o anlai rdi. Resto ra n c ilar '"Ya Cahit aAa bey bu bir ey istiyor ama biz anlayamiyoruz· diyorlardi. Adam ona söylliyordu. Çlinkii Fransizca, Ingilizce, Almanca, özellikle Al manca ve Fransizcayi mlikemmel konu uyordu, In gil i iee de çok iyi ..niatabilen birisi. O yüzden ttiri z ni olayi bence oidim'de Dhit AydOf:an ile bala m i.~
+Cavit Aydo~an, sadece yabanci dillere hakimiyeti He deil, genel kül türü, görgüsü ve tarih bilgisi ile d e bir beyefendidir. ApoHon Tapiiia~i ' nm tari hin i çok. iyi bild i~ i için tapinaAa turist getiren rehberle re bile yol gösterir. Diaridan ye rli ya da. ya banci, vali, bakan vb. geldi~in d e Cavit Aydogan çaArih r, o da gönüllü reh berlik yapar. Köyde ilk turizm geliti rme de rnegln i kurar ve y i llarca yöre hir izm i n e hizmet edecek çok yararu çalimalar yap ar. Her yil, Dldim'in tek oteli ola n Didim Mote.l'de balo düzenler, ü nlü arki ci ve orkestralari getiri r. Didim'in adinin d uyulmasi için çaba göste rir. Yol kenarindaki çam aaç la rinin dikil mesinde bi le em e~i olan Cavit Aydogan turizm kon u sunda Didim'l n gelimes i için adeta çirpinir (Aydogan 2006j.
+Didim'de Apo li on Ta pinagi . arkeolog l arin ol du u kadar bölgeye arabalariyla gelen az s ayid a turistin de dikkatini çeker. Dönemin bölgede yabanci dil bilen tek kiisi olan Cavit Aydogan, D idl iii 'in tek bakkah o lan d ük kani n d a hediyelik eya satarak turistlere hizm et
+eder. Köylü turist in. ne ol dugunu bilmez, turistin ne
+demek o lduu n u köy i ü.ye anla tan Cavit Ayd oa n 'dir. 7iirizm olayi Cavit Aydo~an ile ba, ladl" ifades inin te melind e de bu yatar.
+
+Turizm sektörü ne hizmet verdiini bilmedikleri dö
+nemde, turistlere hizmet vermenin inceliklerini Cavit Ayd oa n ' dan öre n en Ekrem Aik, Cavit Aydoan' i ve on un katk ila ri ni öyle anlati r:
+·Bakkalin köes i ni Cavi t Abi niristik eya düllini yapti. Almancayi, Fran sizcayi ana !isani gibi konu urdu. Almanya'ya gitti o, Gôteburg Ünlversitesi'nin \isan bölumü iid e Alm;iIlC.illyi öre ndi. Fra nsizcayi da lisede öf:renmlti. iZmir'de okuduydu. D i dim'iii en ze ngin ail esi diyelim, o za ma nki koullarda o n la rdi. O, ilk tu rizm Ö nciilerinde ndl. Baz e ii mesela Fransiz Cumhurba  kani Ponpido ge l di~jn d e ona rehberli k yapti burada, Vanl ço k efend i, yaki  i kli in sa ndi . Er ken yata öldü ama. Zaten biz i o ali ti rd i. Toplardi, hep aki l verirdi bize. i md i o yillarda her tar.ifta bu harabelerLn oldu~ yerde böyle hediyelik eya sa· tan dukk~n l ar ol madi~i Için, Did lm'e geldiklerinde harabelei"ie ilgili, Efes, Didim, Prie n'le ilgili kitapl ari satan oydu. Çok muazzam bir a liveri de oluyordu. Taksiyle gelen turis tlere m ihm andarlik yan i rehber lik de yapiyordu . Bizlere de turizmde öncülük eden od ur. [.. .j Bizi tefti  ederd i, tirnaklan kon trol eder· di. Cavit Bey'in yaptirdi&i bir tuvalet vardi, cami· nin ya n i nda , tuonlenn gidece k olduu . O zamana göre çok ni odern bir tuva let yaptirdi. Tuvalet yok. turistlerin en büylik Ihtlyact Bizim resto r.in lar da va r di ama turi:l.Il)e ceva p vereeek tuvalen Cavit Bey yaptirdiydi. Yani belediye bakani va rd i, ama ondan daha yet kiliydl halk nezdinde, turizm açisin dan. [.,.J Servis a çmayi bize Cavit Aydof:an ö~ren i. Peçeteyi öyle koyun filan diye çok yardimci oldu. Almanya'dan biliyordu bu il eri.'
+i 9S 0 'le r ..,
+Didiiii 'e Apol1on Ta pina ~i' n i ziya ret etmek üzere tu ri stle r gelmeye baladii i 9S0'1i yillarda , köy kahvesi d i inda onlarin yiyecek içecek ih tiya cini gideren her hangi bir olanak yoktur. Apolion Tap inagi'nin hemen karisinda bulunan köy ka.hvesi nde kuru fa sulye. pi· lav, yourt gibi yemekle r yapilir: Sonrasinda RUstem A i k adindaki köylü, Didim'in ilk res t oranini açarak, hi ris i lere balik servisi yapmaya balar. Hemen yanin daki kahve de Kamaci Restoran olarak h izmete ba l ar. Günümüzde halen bizmete deva m eden Kamaci ve Aik restoranlar Didim turizmin in temelini o l uturan di ge r iletm elerdi r, O dönemlerde, bö lgedeki turistik sayilab itecek ilk z iya retlere tanik olan i ~miail Aldemir
+hatirlad iklari ni oyl e anlatir:
+
+Gôrs./I6. Cavi t Aydofi;in (Ou r Aydolian kolek.slyonu)
+
+"Kaleye, biz kale diyoruz. har.ibeye geliyorlardi . Ta bii k i in gelemezler de. bu kurak mevsimde hani, daha çok da deniz olmadan geliyorlard i . Biz de on·
+
+131
+
+i
+
+Ikinci thy~tlarin Keni l -Oid.im"
+
+la ra böyle hayran hayran bakardik. Biz kale diyoruz, ziyarete giderdi. Otobüsler, kendi arabal ariyla geh yorlar yine. Ziyaret ediyorlardi ."
+1955 yilina kadar yolu olmayan, toprak yollardan ulailabHen Didim'e tapinai gö rrnek üzere gelen ler. tapina in he men karisinda b ulunan kahveha oede yemeklerini yiyor, sonra da yo l larina devam ediyordu.
+
+"Didim'c 1955 yilina kadar ulaim yokui . Sadece toprak yol vardi. Kii n Söke Ovasi deniz oluyordu, kiin ulamak mUmkun de i ldi. Biz çoc ukken köy meydani bizi m kahve haneydi. Ayda bir iki ta ne, es ki deyImle kaptikaçti denilen taks ilerle hiristler ge !irdi ve bazen de Kuada s i'ndan motorla Altinkum'a ç ikard i, Apoll o Mabedin! geze rl erd i. Dolayisiyla o zaman Didim'de [okanta denilen bir oldY yoktu. Tu rtstler, hizim kahvehane Apollo mabedinin gi ri ka pi sinda olduundan d ol ayi Ap ollo mabed ini ge1.d ik ten sonra geli r bizim kahvehaneye, imdi restara n olan köy kahvesine, eoca Cola is tl'rlerdi, efendim Pepsi Cola isterlerdi. Bizim ismini duymadiiniii isi mlerdi. Biz on lara ayr.in vermeye çaliirdik yaln\t
+çay vermeye çah i rd i k: (Aik 20 14).
+1960 ' lar..,
+Didim, Türkiye'de turizmi n en erken baladii bölge lerden biridir. Henüz küçük bir köy iken, sahili birkaç çadirh yerli ge-igi n tarafindan kefediHr. Bu insanlari gören köylüler hiç anlam veremese de, sa hilde yok deneçe k kada r az sayida turist sivri çadirlarin da otu rup güne l enir. O dön e mlerde çocuk ya ta olan Meh met Bilgin, hatiralarini öyle aktariyor :
+"Altiiikum·da be alti kii oy n ardik, ba kasi yok
+tu. in cin top oyn ardi, öyle bir yerdi o zanianl a r. O y i lla rda Ortaklarda n bir öretm en, oraya bir ça dir kuru p, yazi orada geç iriyorm u d iye duyduk biz bu nu. 'Allah Allah, ne yapaca k çad ir ku ru p da?'. Birkaç tane de çoeu~u varm i herha lde. Am ca m söyl emi ti, ·Buraya bir öre tme n geliyo r her sene. çadir kuru· yor. Bir ay filan kalip, gidiyor' de di. Bu adam niye ge liyor? O za ma n orasi amcama kaldi. biz baka yere g6çtuk. Yazin Alttnkum·u pek göremiyordu m o zama n. Babamin tarlasi biraz daha uzaktaydi. O yüzden ameam söyledi bu lafi. Tuhaf gelirdi bi7.e. 'Bir öre tm en niye ge1.~jn den iz kenarin a? Çadiri niye kuruyor acaba?' derdik. Garipserdik yani bu dunimu. Ite Didim'in ilk turis t i o öre tmendir, yerli turi stti o adaind i. Deprem ol ayindan so nra. bu ye ni Di d ini'i n kurul masindan sonra, bu rokr.itlar i ii , ilgili· ler in Didim'j kefet m e leri hizla ndi . Altinkum'da ilk kooperat if ku ruldu, o 4 0 tane ev yapild i. Sonr.i ev, Irrin say i si artm aya baladi . Derken bu hale geldi.~
+
+~-,,"""''''''
+Gorsel 17. Solda Djdlm Motel, sagda otelin yuvarlak g~iino inaati {02er Ayd oa n koleksiyonu)
+Belki de Didlm'in ilk turisti. Sahile çadirini sessiz ce kuran, ismi bilinmeyen bu öretmendil'. 1960'11 yillard a kendi arabatariyla Didi m'e gelen çok sayid a çadirli turist vardir. Fransizlar ve Almanla r D idim'in ilk u l u slararasi ziyaretçisidir. Adnan A ik o dönemleri
+öyle hatirlar:
+"Mesela '60'li yillarda Alman çok geliy ordu. Ai· manlar. Mesela bu Saltur'u n oldu u yerde h iç evler yoktu. Huzur Sitesi'nin olduu yerde, oraya kamp kur;:irlardi, orman kampina çok kamp kurarlard). Çadi rlanyla geliyorlardi, ça.dir kurarlardi. En giiven · eeli yer de ·bu Ege bölgesi nde diyeyim - burasiydi. vf: buraya kesinlikle h içbir jandarma olsun polis ol· s un silah aramasina bilmem Il e aramasina gelme z di. Burada hi çb ir ci nayet olayi olmami Oldini'de o
+d öneiiilerde .8
+Oidim'e ilk olarak yoi.in l ukla Alin an la rin gelme sinin altind a belki de Alman Ka zi Heyeti 'nin orada uzun yillardir çalim asi yatar. Kazi bölgelerinde bu  lunan eserler hakkindaki foto~raf ve yay inlar. belli ki görüp okuyanlarin merakiiii cel p eder. Di e r yandaii Didim'in doal koullari, saflii hep çekicili k unsuru olur.
+YUKari köyde iler böyle d evam ederken, A l tin kum Plaji'nda da yava yava küçük balikçi gazinolan a çi l  maya balar. Bunlari takiben Did im ta rihinin ilk otel i ola n "Dldjm Motet" yapili r.
+Didim'de. turizm s'ektörün ün geliimini Özer Aydo an öyle ozetliyor:
+"SOO m" ola n. avlusu içinde olan d evletin ya ptii bir ev var, bjr dam var. Onun ya damini büyiittu , ev yapti YJ arsani n içine kendisUle göre ba ka b i r ev
+
+132
+
+i
+
+·
+
+otOlM "lO'U
+.---..--- .-'--·-..---.._' -.._.__,__----._" .--.,_.--_.--,."._- .-__._.".-...--- _..._.___-_"-.' .-.---_-...--~ .-_._-.--_-- --."'
+
+Aii:u Toker
+
+Giksel18. Didim Motel'in broüni (Cnrr Ayd O~3 n kole ksiyonu)
+
+GÖrftf 10. Oidim Mote l'den bir göiimum iÖ7.er Aydog~n koleksi'
+ro mi)
+
+yapti. Bir bolilmü de yolun ka ri tarafina ev yapti. Onlar lamamen buranin Inaat eklinden farkli cv ler yapti. Ii e o karidaki evler yava  yava  pansiyon oldu. Çünkü yoJ kenan o id u~u içi n pans iyon yazdi. lar, Vatanda da "Aa burada ben im kalabllecegim yer
+var: dedi. Tu rizm de canlanma oldu. Çü nkü ada m geldilli za man kalacagi yer oldu. Çiln ku ucuz bir d e yani pansiyonlar ucuzdur otele gö re. Sonra gitti k çe Didim yava yava özellikle o çukur bô lge 011'1 ler bôlgesi oldu. Oraya çok fazla ote l yapildi. Sonra yava yava Djdim so l tarafa do~ru açild i. Altinkum Plal i genilecli . Ve boylece turizmde 1970'ten sonra hizli bir ekilde, 'SO'de daha hizlandi. '90' da art ik pik nokta s i diyebil eceimi7., çunkü turis t rehberler i de artik burayi pl'ogram d<1 hili nl' aldi. Gazetele rde otellerde konaklama u kadar, b u kadar fil an diye rakamlar çikmaya ba layinca, altik Oldim terdh edilen bir yer oldu:
+
+Didim Motel'i n hemen ardin dan sahild en d e n ize
+d o ru uzanan, o telde kalan lari n y e mekleri n i yemele·
+ri veya akamlari ele n mel eri için "yuvarlak gazino" denen bir gazi no yapili r. O yillartla henüz çocuk olan Öze r Ayd oan öyle anlatir:
+"Hatta onu n ö n ta rafmOi denizin içerisine bir tane de yuvarlak gazina yapildi, denizin içine ya pildi . Bu yuvarlak gazinoda yani otelde kalanlar gidip orada yemeklerini yiyorlardi. eleiiceler düzen leniyordu ite bu elenceleri de benim amc aol u dediim, Di· dim Turizm De rn ei ba kani di a rid a n grupl,n ge l i. rerek D ld ini 'in ad min duyulmasJn i sagliyordu . ite o donem de istanbul' d an me hur olan bir orkestra ge tiriyord u. M e hur olan Sa.li ai ç i , ~arkici, türkü · cu. neyse ge tiriyordu. Ve geliri. s ati lan bileiin belli bir rakam i Oi dim Turizmi Geliti rme Dernei'ne ve riliyo rd u:
+
+,... ololM Mo"i i ~".
+
+01
+
+0'1H"1,
+
+.
+
+M. ,
+;","R
+
+t
+
+u
+
+_..":.. _'.."'; ·;-=-R
+
+_--- . . .. .... -~
+- -.. _-_._--~
+GOrsel i 9. Did im Motel b ro tiru - arka yüzü (Öze r Aydog:an kolek· siy orm)
+
+Görs",1 21, Oldim ~l o tel'in giinumüz<leki d urum u
+
+133
+
+ikind H.y.IIJnn Keni i "Oldim"
+
+(;önel iz, Satda kooperatif evleri. solda Didim MoteL. deniz e do~ru !,lUnan Yuva rl ak Gazlno (Ozer Aydo~an koleksiyonu)
+Altinkuiii ' un göbeinde, denizin kiyisinda bir otel olan Didim Motel'in Turgut Özal döneminden beri atil vaziyette mezbelelik içerisinde, kendisine biçile" cek kaderi bekliyor. Ekrem Aik. Didim Motel'l e ilgili
+düüncelerini öyle anlatir:
+"Didim Motel açi ldi, onun i l etmecileri, Bursa'da mehur bir otel vardi, Çanakkale'de, onun i  l e tme cileri geldi, açti, Bayai LO-LS sene çalitirdilar, de· vam ettiler bay-.ii da i yapiyordu. Sonra ne oldu, Vakiflar yazin kendi personelini getirdi. [... j imdi kapaii o otel. Aslinda Altiiikum'un en güze l yf!ri. Oraya turistler gelmeye baladi ama ne hiknict se i o yildir kapali duruyor orada:'
+o dönemlerde bir otel yapil i p deerleiisin diye
+Vakiflara hibe edilen 27 dönüm araziye yapilan an cak  imdi sahilin ortasinda metruk bir bina görünli münde olan Djdim Moterin ark,isindan Göksu Motel adinda bir o tel yapilir. Artik Didim için yeni bir sayfa açi l mitir. Ne red eyse var olduu günde n beri yöre halkinin tarimla uraii  i Didim, !Urizm sektörü nde de kendine yer bulmak için bir yari a ba l ar.
+Tu rizine sektöründe bizmet vermeye ba l ayan bir kaç kii eL yordamiyla yollarini bulmaya çaliir. He nüz yedi yaindayken bölgeye gelen az sayida turiste çaycilik yaparak hizmet veren Ekrem Aik. amcasinin kahvehanesini re storami çevirme ve kendisinin tur iz me girme hikayesini öyle anlatir :
+"Benim amcam Rustem Aik ;i s k e rd e açiymi, as· kerden geldikten sonra 1965 yilinda bizim kahve nin arkasindaki kahve h a n es in i lokanta yapti. Orada ilk restorani açn. Re sto ranin Ismini de rransa'da okuyan kôyümü zden bir ge nç vardi Ha san Beder
+
+reS toranin is mini de o verdi. Restoraniii ismini biz bilmiyorduk lokanta olduunu, ondan 6rendik.8
+Didim yedisinin turi znie uyum salamasi, Did jm' jn bölgeselolarak turizme uyum salamasi kadar kolay olmaz. Rüstem Aik, kahvehanesini restoran yapa r ancak köylünün tepkisini çekmernek için pe ncerele rine içeriyi göstermeyen perdeler takar. "Müslüman adam gavum içki satar mi " diye hiddellenen, el eti  ren köylüler de 10 sene sonra turizmin içine girece k ve turistlere alkollü içki servisi yapacaktir Amca si Rüstem Aik'io basit bir izgara üstünde yaptii ci ~erieri turistlere satarak para biriktiren Ekrem Aik, turizmde gelecek olduunu ya i henüz LS iken anlar. Birik t ird i i parasiyla bir ocak yaptirip "omlet" de n diini turistlerden örendii omlet, salata gibi basit yiyeceklel'i yapip satarak turistle rin anlik gereks i nimlerini karilar. Ancak 1965 yilind a Did im'e yol yap i lmasinin ardindan istanbul'daki seyahat ace nta  lari da bölgeye ilgi göstermeye ba lar. Den izd en keyii için tutulan bir pival baliin . Ekrem A  i k 'in buz do lu tahta do\ablOda saklanmasiyl a , Eri e n Turiz m 'in sa hibi Nu ri Erien ' in Apolion Tapina i 'n a b ir otobüs dolusu turist getirmesinin ay ni güne tesaduf e tmesi, Ekrem Aik'in hayatini genç ya  t,1 d eitirir. E rien Turizm'in sahibinin de yol göste rmesiyle do l a b inda· ki, bolluktan köylülere dait aca  i balik lari, t uris tlere kizartip sunar. Hikayenin bundan son rak i k is mi ni Ek rem Aik öyle aktarir:
+"imdi su da yok. Yanda kuyu suyu vardi. Gittik iki kova su aldik oradan köyden ihtiyarl a rl;i, o oför Aydin'a verdim bir biçak. R es toranini ani a koy kah vesiyle kariik re sioran ama 30 lant! turislte vere cek ne iabak var ne Ç3tal b içak var, Ihtiyarlara söy ledik. biç<ik yok St!rvis b iça g i yo k, he rkes e viiid e n çatal kai l getird i. Biz tamaml,idik 35 ta ne çat3 11a ka i l. tamam l ad i k koydu k. Tab a kl an ri bi r kis mi ba ki r, bir ki s mi diyeli m ki cani g ibi bir eyle r y;l l1i. Ka  riik bir  ey old u. Melez gibi. Mas al ar salla ni r, sa n dalyeler sa iia ni r, masa orl üs ii yok. kayd ii k. Ba likl a r büyuk böyl e 700'er g ril ml i k d eniz l evregi."
+Yemek servis i bittikte n sonra elind e, d on ki  ili k bir ailenin bir seneli k tütün kaza ncin d a n fa zla para olan Ekrem Aik'lIl a klind an ilk geçe n ffiyiym i bu turizm " olur. Nuri Eri  en ' in de ybnlendirmesiyle il k kazandi i parayla servi s takiml a ri alir, marangozhanede m a sa sandalye takimlari yaptirir. ilk iinin altindan baa  riyla kalkan Ekrem Aik sezon boyunca 12 grup air· layarak turi z m sektöriine hizli bir giri Flpar. Erien Turizm'in ardind a n K o nliiar Turizm de yemeklerini
+
+134
+
+· 
+
+
+Ar..., Toker
+
+Apoiion Tapina i'nin tam karisinda bulunan Ekrem Aik' tan yemeye balar.
+
+"Yedii kadar bahi veriyor turistl er, insanlar da görüyor hiinlari, herkes bir  eyler yapmaya bala d i. tu rizmde kipirdamaya bal;idi. [...] Didim'!n ilk tu  r izmi bunlardi. Ondan sonra zaman zaman de~i i i iie. AltinkUlU'da pansiyon lar yap i lm3ya bil.ladi."
+
+1970'le r...
+1960'11 y i llari n b ainda Altinkum'da Dldi m'i n ilk otel le ri yapilirken. yukari d a Apolion Tap in ai'nin orada da restoranla r açilmaya balar. Ancak köylü 'restoran' kavramini bile bilmez. 1960'li yiiiardan itibaren böL· ge tur izmi ne tanik olan ve bu geliimi anlamaya çali an Özer Aydoan. gözlemlerini öyle akta rir:
+"Oidim'e yabancinin geli p de kOilindsi çok zor. Çunku kalacak yer yo k Içecek doru durust suyu yok Ye mek yenecek bir yeri yok. O yii iden buraya turistin ge lmes i 7..att'n hayal edilrme:i:.  imdi dediim gi b i '70'U yillardan sonra, ktiçuk bir lo kanta ~çildi. Hatta ilk kez be n restoran ad ini onda duydum, gördiim. Restoran neymi  birbi r im izI.' so rduk. Lokantaymi restoran cledik Ama o da günübirlik bir yemek yapiyordu () kadar. Bazen de hiç turis! gelmcdii zaman yemei ka liyordu. Evine gbturup yiyordu adam. Bôyle bir turizmd en bugii ne geldik. O yu zden iledi~ini gib i o döne nile l'd e otobus gelmiyo relu. S;i  dete ta ksi turistleri geliyordu. Taksiyle geliyorlard i, kendi araçlariyla. Kalacak yerleri de pek olmuyor· du. Sonra pa nsiyo n d ediuni z ey duyduk. Pan~iyol1 açi ldi. Sonra Didini Oteli'nin açil mas iyla gelen lu ris tl er orada ka lmaya baladi . Ge len turistler. Otelci I)k onu nla balami  oldu D idi ni Otel"de. Daha sonra i 980'Ii yilbrda bu h izla nd i. Tur operatörle ri Oidim'i de tiiri s tlerin gezebilecekleri yer kapsa mina ,1ld ilar. Çünkii genelde Kuadasi'na gelen turistle r. Eies ha  r.i.belerin i gezer ge r i dönerl erd i. So nra Priene. MiI ~ ! ve Didim .N
+
+Görsel 23. 197 0 yilinda bakkd1Mehmet Efendi'nin t\i rlsti k eyalarla bezedii!! dukklim. ~ rkad a bikinilt bir tunst
+sonra ev tipi pans iyonlar baladi, .~onra otel bala di. Yildirim Otel, Mini Motel, Suat Bey'indi. Ilk otel diyo ruz ;ima  i mdiki eye göre basit bi r pans iyon. Yani bir tu vale ti 104 kii kullaniyo r, bir duu 104 oda kulla niyor. O zaman luklistu onlar. Yava  Y3 \r.i  uldu bunlar bur.iua. Sonra devl et kurululari kt!n d i le rine, personelinin kalmasi için ote ller yapmaya bd  l adil.1r. Devlet Demi r Yollari ' n da oldu. Efendime söyleyeyim Azo t Sanayi ça lianlari Huzur Sitesi'nin yaninda oldu, sonra sa ttilar."
+Turizmle 1970'!i yi llarda dedesiniii kamp iletme si sayesin de tanian ve sonrasinda kend isi d e kamp i letmecilii yapan Adnan Aydoan 1970'ji yillarin
+Did i ni';ni öyle aktarir:
+"Turizmle merakim burada dede min bir mo campi vardi , b u bel ki buranin ilk mocaruplarin dan bi r ta· nesiydi. Bu 70'Ii yilla rda açilmiti. Hemen bugiin 
+
+Dldim Motel'in ardindan kuçük ölçek li oteiier ve pans iyonlann yapim i hrila iiir. Bu slired takip eden dönemde, Didim için bir d ezavantaj da sayil a bilecek d ev let kurum larinin kendi pers onelinin tatil ih tiya c i  ni g idermek için Altin kum 'un en güzel sahillerine tatil kampl a rin in yapimi göze çar par. Ekrem Aik. pa nsi· yanlarin o döneml e r deki g ö r ünümünil ve kamplar];i ilgili bildiklerini öyle ak t a rir:
+
+Didini M tiierde n sonra p~n s i yon l:ir ba ladi. Bir "r;ip doktor bir doktor vardi, haniini dJ Arap 'ti, Arap Re i nI" Hani m derdik. \) pansiyon yapti Altinkuiii'da . Bu. 70 'h yil].ir oliiyor. Onl a r yap ii, ~o iira birkaç sene
+
+Görsi!! 24. Apollol! T~pin "l'nIR k.iii~,sono.l.)k; A i k RCSlOr.in (ÖZH
+Aydoan K oleksiyo nu)
+
+135
+
+i
+
+Ikinci H.y.ti~n" Ko ni, 'Did]ni"
+
+kü Didim Shopping AVM'nin olduu yer, Vakiflar otelinin arkasinda. Tabii bizler o yalarda ufakken, turizm olgusunu, turistleri oralarda gördük, kamp yapan insanlari. Bize bir heves geldi, Turizm de tabii o yillarda yava yava ivme kazanmaya baladi. Do layisiyla turizm sektörünü seçtim, [.,.] Tabii altyapi sorunii, buradan alt yapi. toz toprak içinde, yemek yersin, bir nligar olur, bütün tozlar masalarda .., Elektrik kesintileri. dipfrizlerin çalimaz, yemekIe rin bozulur, Bunlar Didim'de, öyle söyleyeyim size, '70'!i yillarda burasi Jeneratörle yani bir merkez u rada yakinda bir jeneratör vardi, elektrik jeneratör· den verilirdi, '70'li yillarda,"
+Didim Motel'den sonra 1970'li yillarda, Didim'de ilk açilan pansiyonlara ilikin izler, Hilmi Yildirim'in hatiralarinda öyle yer alir:
+"Bizim zamanimizda Didim Otel vardi, bu otel vakif lara ait bir tesis ve bir ahis kirdIami, o iletiyar du, Otel anlaminda o gün için en lüks oteliydi. Oniin yaninda Göksu Pasaji'nin olduu Göksu Motel vardi ve daha ilerde bir Kalipçilar Pansiyon vardi, bunlar Altinkum'daki iletmelerdi. Daha sonra ite Yakin Pansiyon, Küçük Ev Pansiyon gibi pansiyonlar ku ruldu ama bunlar bizden sonraydi. Bir de yukarida bizden evvel oiçilmi olan bir pansiyon vardi. Esen· tepe, Asli Pansiyon vardi. Sonra da biz açmitik, Yu· hisa, Yuhisa'ydi ismi ilk önce, sonra Anadolu Pansi yon olarak deitirdik. Yuhisa iken, ismini yabanci bir isi in oldugu ve yabancilara ait olduu düüncesi olumutu. Babamin da Anado] arabasi vardi ve Di dim de göçmen bir köyolduu için Didim'deki yer !ilere Anadolulu tabiri kullanirlardi, öyle bir lakabi vardi, Anadolu lakabi. Dolayisiyla pansiyoniin ismi ni Anadolu olarak çevirdik. Yuhisa da Yunus, Hilmi, Saniye'nin kisaltilmiiydi aslinda, Ama tabii onu bil medikleri için yabanci bir terim olarak düünmü lerdi, Birkaç yil sonra ismini deitirdik Yani demek ki ite dört, be tane iletme, Altinkum'da da vakif lara ait denizin içine doni uzanan bir vakiflarin ga zinosu, onun haricinde de sanirim iki veya üç tane ey vardi, restoran vardi. Bir de tapinain yaninda Aik ve Kamaci resto ranlar vardi."
+Didim'in eski hallerine ve turizmi n eski dönemle rine duyduu derin özlemi her firsatta dile getiren Erdinç Göç, o yillari u cümlelel'le aktarir:
+"Yalniz o zamanlar Didim daha bakirdi. daha güzel di. daha doaldi. Tdbii ki bi',Jer burada iletmed olarak, yatirimcilar olarak; yani baktiimiz zaman, buraya gelen misafirlerde gerçekten bazi eyler den çekiniyordul<. iitaiiiyordtik Çünkü mevcut Altinkum'da doru dürüst bir yolumuz dahi yoktu, Resmen stabilize yoldan gidiyordul<. çamur içeri
+
+sinde geliyorlardi falan, Hana biz diyorduk 'kustira bakmayin: Onlar da tam tersini söylüyordu; 'Biz bu ranin bu gÜ'lelliine, hu doalliina geliyoruz, Zaten biz beton asfaltin içerisinden geliyoruz, Oradan bik miim; ben kumda, toprakta yürümek istiyorum: Gelen bunlar, misafirler, Almanlar bunlari ifade edi yorlardi; bunlari söylüyordu, Çok memnunlardL Ya ni 90'dan 99'a kadar turizm çok güzeldi Didim'de ... [...) Ben Didim'de yaaYiln bir insan olarak yani ina nin bundan 25 yil ancesini çok ariyorum. Keke o tozlu toprakli, o çamurlu yollar olsaydi da bu diiruni olmasaydi. u an inanni huzuruniui yok Didim'de pek fazla, Dediimiz gibi bir anda bu açgözlülük bir andaki hirs buradaki ingilizlerin gitmesine sebep oldu, Didim turizminin çok büyük bir darbe alma sina sebep oldu. Dediim gibi bu ikinci konutlarin açilmasi yani eski tadi tuzu yok Didim'in artik."
+Bir dönem, Yunanlilarin da ata topraini görme, o havayi soluma arzusu onlari Didim topraklarina çe ker. Onlar özlem giderip, dedelerinin yaadii evlerde, yürüdüü sokaklarda alayip etrafi fotoraf1arken, Didim halki da Yunan turistlerini airlar, Didim için i 98D'li yilla~çi kadar olan bu dönemlei; tüm iletme cilerin en parlak dönem olarak hatirladii dönemler,
+"Eskiden kültür turizmi daha çoktu. Yani harabeleri gezen turist daha çoktu, özel arabasiyla gezen turist daha çoktu, üzel arabasiyla, en son model arabalarla gelirlerdi restoranin on üne, Bir bakiyorsun öle sa anncle, 20, 30 tane Mercedes, BMW, Avrupa arabasi. en lükslerinden, Turistleriniiz geliyorlar restorana, ellerinde kitaplar okuyorlar, talara bakiyorlar, az önce söylediim gibi, öyle turist geliyordu, Sonra gruplar baladi, gnip turistleri baladi, otobüslerle gelmeye baladi. Örenci turizm hareketleri vardi '80 yilin~ kadar, Mesela TMGT vardi istanbul'da, örenci grubu, o bize haftada aai yukari bana ra· kam .. 1000'in üzeiinde turis t getirirlerdi otobiis lerle, Örenci gruplariydi onlar. Kültür turlariyd!. Ondan sonra gene bu taksi turistleri ginikçe azaldi. Rent acar'lar çikn. Onlar da imdi azaldi. u anda turizm çok otel yapilinca çok müteriye ihtiyaç 01 duundan .., 300 Euro'ya kadar bir hafta tatiL." (Aik 2014),
+1980'ler.,.
+Didim turizminde 1980'li yillardan sonra bir dö nüüm dikkat çekiyor, Turizm Te1vik Yasasi. tüm Türkiye'de olduu gibi Didim'de de etkilerini gös terir. 1983 yilinda Turgut Özal Hükümeti'nin kurul masini takip eden dönemlerde Turizm Bakanlii kredilerinin verilmesiyle Didini'de birçok otel açilir. Bu dönem, Didim'in kaderinin somut bir ekilde de
+
+136
+
+Arzu Toker
+
+gimeye baladii bir dönem olur. Hilmi Yildirim, bu sürec; öyle aktarir:
+"Özellikle de 'SO'den sonr:iki ilk Ö1.a1 Hükümeti dö' neminde bu kredilenn açilm:isi, Tunzm Bakanligi kretlilerin açilmasiyla birlikte Didim'de birçok tek yildizh, iki yildizh, uç yildizh oteller yapilm aya ba laudi ve turizm ondan sonra farkli bir ekilde geli meye baladi. Ve biz bu bütün yaami burada o hizli gelim eyi de biz burada yaad i k, bütün aksakl ikla  riyla birlikte diyebilirim,~
+Zaman hizla geçerken, Didim'!n ilk turist kafilele ri gelmeye ve konaklamalarini Didim'de yapmaya balariar. Önceki yillarda olan günübirlik ziyaretlere görünüm deitirir ve uzun konaklamali ziyaretlere
+dönüür:
+"1986 yilindan itibaren ilk tu rist kafileleri, kalici olarak. yani böyle i 5 günlük turlar halinde gelmeye ba lad i. Daha önce gelenler, Apollan HarabeJeri'ni gezerler: Milet, Priene, Didim, Anadolu iurlan de vam ederdi. Bir gece kalir giderlerdi veya Apolion Harabeleri'ne gelen turistler iki saatliine Al t inkum Plaji'nda denize girer çikar giderle rdi: (Aydo~aii 2014).
+Kaliteli turist olarak ifade ettikleri Alman ve ilk dönem ingiliz turistlerden oluan dengeli dailim, 1980'Ji yinarin ilk yansindan sonra bi r Ingiliz tur operatölii Sunset adli irketin bölgeye gelmesiyle
+deiir_
+"SO'li yillarda üst düzeyde kaliteli müteri gelirdi burdya. imd i bir Ing i liz turist gelirdi, aliyorum ben mesel.i. 93'te kendi otelinii ilk yaptim, daha önce mocamp  eyindeydim. Fakat tabii ailemizde otel sa hibi olanlar da vardi. Onlar da ite dedil!im gibi dev let tevikiyle oteller yapmilardi ." (Aydaan 20 i 4).
+
+o larak tanimladiklari ingiliz turistler kisa bir dönem bölgeye youn ilgi göst erir. Ancak bO gördükleri ara ziye "alin size pein para, bu arsaya otel yapin, tlIrist gefireceiz ~ diyerek kontrolsüz yapilamanin önünü açan bazi Ingiliz tur o peratörleri bölgede yapay bir ikinli e neden olu rlar. Erdinç Göç on u akina çevi rece k kad ar h i z li i leyen bu süred öy l e anlatir:
+"100 yatain parasini alti aylik ya da be~ a.yli k. ye di aylik neyse p ein Odeyerek gidiyordu firma_ ite 'aman baka bir acenteye gi tmesin, baka bir yere verilmesin.' Çünku yer olma di i için, o ekilde pe in paralarin i ödeyip gidiyorlardi. Bi r yil sonrasinin müterisinin parasini veriyorlardi. yani o ekilde çaliiyorduk. 'Kat mi çikacaks i niz, ne kadar maliye  ti?' ' u kadar', onun parasini dahi peinen ödüyor lardi. imdi böyle bir furya va rdi, Tabii bunu gören, bu sefer ti.irizme atlad i . Özal'in tevik olaylan çikin ca, millet aldii kredi lerle; bir baktik oteiier bir an da çO"aldi , çoaldi gitti."
+Bir sene oncesinden pein parayi eline ala n insan lar, düünmeden, sonuçlarini hesap etmeden ardi ar dina Didim'in kalbini hançerle rcesine o tel binalarini ina ederler. Adnan Aydo~an ta n ik olduu bu durumu öy le özetler:
+"Bizim mecarnpi geçe rlilii 'S9 yilindan it iharen inanilmaz eklide deer kaybetti. Çünkü o yeni te sisler aplinca butun o çadirda, aii yorum , biz i m ora ya 400 çadir kurardik biz konuklara, bu 400 çadir iki sene içe risinde SO çadira dütü. Bütün müteri tabii bu Didim'de hiçbir ie s i s yokken ya da belki yedi tesis varken maksimum. bir anda 40-50 t esis oldu. Tabii buraya Ingiliz bir ace riie geldi, onlar bu in aatta temel kazi si atarken bunlara paralar verdi  ler, od a larini tuttular, bir tevik. inanilmaz bir, u an duunuyorum da, herkes yatirima girmekte hakli. Çünku kazmayi vurdu u anda o dalari sat iliyo r."
+
+SunSet adli irketin ardindan Thornson ve Thomas Cook adli irketler bata olmak üze re birçok ingiliz tur operatörü Oidirn'e turist getirmeye balar. Bölgeye you n bir  e kilde ilgi gösteren ve bölgenin ekonomik kalkinmasind a önemli paylari olan Alman turistler, ingilizle rle çok eskilere daya nan siyasi an la  m azlik lan ri etkisiyle olsa ge rek hölgeden çekilir_ Ayrica bu ger i çekilm e hareketind e marktan avroya geçiin de etkisi olur. ilk dönem geleii Ingiliz turistler Didim esnafini ekono mik yönden tatm in eder. Her dönem gerek sosyal ilikiler yönii nden gerekse ekonomik
+yönden Oidimlinin gö nllinde iyi bir yer edinen Alman turistl erin yerini tam doldura masa d a ~ kaliteli turist"
+
+Böylece risk almak zorunda kalmayan arazi sahiple  ri, kazançlarini garantiye alarak otelcilik sektörüne girerler. Çünkü bu tur operatörleri, ne redeyse arsa s i olan herkese para verip bir yilda oteller i bitirtirler.
+An cak bunlar nitelikli bir otelolmaktan uzak, basit, küçük oteiierdir. O dö nemle rde bir antiyey i and i ran
+Didim'de imarlar üzerindeki kontrollerin eksik olma  s i kaçak binalara da davetiye çikarir. Doasiyla, de niziyle, altin renk li kumuyla es i z güzelliklere sahip olan es ki köy Yoraii, bugünün Oidim' i bina istilasi a l tindad i r: Türkiye'nin en güze l sahillerinden birine ve güzide tarihi d eerlere sahip bölgesi olan Oidim'de, turizm birincil önemdeki sektor olma liyken, küçük
+
+137
+
+i
+
+Ikinci Ilayathnn ""nl, "Didlm"
+
+oteller kendilerini yenileyip hizmet sunmaktansa, otellni yikimp yerine ingilizlere satmak üzere bina yaptirirlar. Bu döneme ve sonrasinda yapilan otel leri n apart otele dönütürülme sürecine tanik olan kendisi bir Didimli olmasa da Didim turizmine büyük özveriyle hizmet veren seyahat acentasi iletmecisi Hikmet Atilla, gözlemlerini öyle paylaiI':
+-Ingiliz geliyor, 'arkadaim al sana on bin pound', kur buraya otelini. Kuruyor on be ya tak li , on be odali bir o iel. Süreç öyle geçti. çok ati. Ya kendisi· ni yenileyecek ya da yikilacak yer ine baka bir ey ku rulacak. Netice itibariyle imdi de yava yava yikilinaya halandi. Maalesef, üzülerek söyluyorum yikiyorlar. Yani oteli y ik ip apal'ta dönütürüyorlar, o da Didim turizmi ne, onun da Oldini i urizmi ne pek fazla katkisi olmaz, Fakat tur operatörleri bana göre o dönemde Didlm'de arsasi olanlari iyi kuUaiidilar; bekledi~imiz ekilde de yön lendirmediler."
+Didim'e 1985 yilmda yerleen ve 1988 yilinda tu rizm sektörüne giren Tayyar Cengiz, meslektai Hik met Atilla'yla benzer düünceleri paylaiyor. Bölgeye gelen tur operatörünün yönlendirmelerinin, zamanla nasil ge ri dönülmez so nuçlara yol açtiinin taniklii' ni yapiyorlar. Bilenin gittii ve huzur içerisinde tatili ni yaptii Didim, saliksiz bir sektör gelii m ine sahne olur. Tayyar Cengiz de d üüncelerini benzer eki l de öy l e dile ge tir ir:
+"1985 yilinda, o Ingiliz tur opera i oriimin gelmesi ile birlikte ve hepi topu alti tane otel vardi Didim'de yedinCi otel yoktu, Onlara da otel demeye bin phit isterdi, pansiyondu aslinda, ama ingiliz tur operatö rü hizi yonlendlrdi açikçasi. 'u.nu yapin, bunu ya pin, otelinizde u deiikleri yapin' diye ve o e kilde Didim'de turizm o ekilde baladi. Ondan so nra da hizli bir ekilde devam etti ama salikli mi devam etti? Hayir, saghkli devam etmedi iin dorusu. In · giliz tur operatBrleri bir Iken iki, ikiyken üç oldular. Kimin a rsasi var hemen geld iler, ona dediler k i 'al biz seni finan se edelim, sen buraya bir otel yap: He· men insanlar o 500-600 metre arsanin içefisiiie bir otel yaptilar:'
+1990' lar...
+Didim'in en büyük ve erken kai-animlarindan biri o lan altyapi çalimalan 1994 yilinda Mehmet Soysalan'in belediye bakanlii döneminde balar. Oidini'in en biiyuk sorunlarindan biri ola n altyapi yeterSizliinin çözüme kavuturulmas i, Didim turizmini bugünlere geti ren en önem li etkenlerden biri gibi gorünüyor. Çünkü Didim'in altyapisinin yetersiz olduu dönem
+
+lerde bir rüzgar esi ntislyle her yeri toz kaplar ve ba ze n göz gözü görmez. Yamur ya~rnaya gö rsün, or tahi ayakkabisi çaniura saplan mi  turistler kaplai: Kanalizasyonu olmadii için fosseptik çukurlariiidan kötü kokular yayilir, çukurlarin temizlenmesi gerekti inde bir yanda turistler kahvalti yaparken dier yei n da vidanjör çaliir. Vidanjörün ihtiyaca cevap vermesi de ans iidir çünku eer vidanjör taan fosseptik çu  kurtarma yetmiyorsa, turistler yemek yerken yanla rindan fosseptik çukurunda n taan sula r akar.
+Bu so niniara duyarli olan 1994-1999 döneminde belediye ba kanlii yapan Mehmet Soysalan, tüin tu rizm bö lgelerine örnek olabilecek nitelikte ciddi bir altyapi yatirimi yapilmasina ön ayak olur. Dünya Bankasi'ndan alinan kredi ile ba  la ti l an altyapi proje si, yakin olan seçimler nedeniyle bir sonraki dönem~ de yürürlue girer. 1999-200 4 yillari arasinda beledi
+ye bakan yardimcilii yapa n ve bu projedeki bayrai
+Bir Köe Yazisi
+Didiiii. ülkemizin öneml! "turizm kent( olma umu dunu taiyordu! insanlari çalikandi. nsan ilikileri muazzamdi. Koylari, kum u, kültürel varliklari ve il e Türkiye'nin en canli turizm bölgesinin Içinde bulunmasi ihtiyaç duydugu büyük turizm yatirimlari için cazi be oluturacakti... Geleceinin çok aydinlik olacaini düii nüyordum. Ancak, t986'da ANAP'li belediyelerin bu gelien yöreyi ~rant- kapis i haline getirmeyi amaçlayan imar "ya~masi" bazi tereddiltler yaamama neden olmu  t u. Neyse ki. i 994-1999 yillari arasinda aydiii ve büyük hayalleri olan Mehmet Soysalan Belediye Bakani oldu.
+Soysalan cesur bir hamle yapti. Yaklaik LLO mily on dolar,! u la a n yatirimla Didim'in altyapi sorununu çözdü. Kanalizasyon, yagmur suyu ve su ebekeleri döendi. Ama as il çalimasini imar planlari üzerind e younlatirdi. Çada bir "turizm- kenti plani yapti.
+Bakan Soysalan, yani bainda -beton yiini " hal ine dönüen, yatirimlan verimsizleen ve her türlii usulsüz ilikil e rin kurulduu, mafyanin at koturdti*u - Kuadasi" ke nti nin "talihsiz" serüveninden ders çikarm i ti. Alnnkull\ so nrasi sirayla dizilen koylarin çevresinde dünyanin sayili -80If" sahalarina sa hip be alti büyuk tesis oluturmayi. bu a lanin diinda oteller alani ve yöre· sel dokuyu bozmadan ev pansiyoncul ugiiiiu öne çikaran bir plan dütinmütü,
+Aritmadan elde edilen s uyla dünyanin sayil i büyukiü.g undeki "go ir "alanlari su lanabilecektL
+http://www,birguii.iiet/haber.detay/didim·i·yug malaya  bilirler·mi·J 0337.h iml
+
+138
+
+i
+
+· 
+
+
+Arz.u Toker
+
+teslim a lan Erdinç Göç, altyapi projesi ni gururla oyle
+anlatir:
+
+rinio çok yükselerek madur olduu ve oteiierin i sat
+tii bir dö nem ol ur.
+
+~ Kilti atiiyla, sivi ariiyla aritma tesi sle rimiz ço k modern oldu so n teknoloJi ile yapildi. Bütun mo t orlari falan hep yurtdiindan geldi. Çok guzel bi r çalima yapild i. Aa i yu kari iki yüz milyon dola r toprain altina gömülmü bir durumda. Ama tabii bu da Didim'j kurtardi diyelim. Söyle kurtardi. en az in dan bütün koylarininda mavi hayrak var. [... 1 Emei geçen herkese ben çok teekkür ed lyonim özellikle Mehme t Soysalan bu ii ba latti. Görevi biz aldik arkasindan biz de vam ettirdik. Ve 2003 yilinda da tab ii 2003 yilin da da tes islenmizi açtik. u an da cn azindan denizimize bir gram atik su gitmiyor d enizimiz tertemiz p inl pinl. Sivrisineimiz yok ki o tarihlerde daha onceki yillarda sivrisi nekten geçilmezd LH
+1990'h yillarda Didim a çisindan en çok göze ça r  pan gelimelerden biri, ingiliz tur operatörlerinin sa yisinin gittikçe artmasi olur. Bu youn ilgi nedeniyle Didim'e youn bir ingiliz turist talebi gerçekleir. Er din ç Göç, bu süreci öyle a ktarir:
+~ingiliz firmasi 93-94'ten sonra daha çok patladi bu rada. Yani daha önceki denenide de vardi ama pek o kadar de il. Fakat 93-94'ten sonra tamamen ingiliz· lerin eline k.ildi. Bütün bOlge ingilizlerin eline kaldi. Ha o dönemlerde ingilizler yine iyiydi çunku neden gelen müter ini iz kaliteli muteriydi."
+1990'11 yillari n turizmini hatirl ayan iletmecilerin yüzlerinde bi r mem nuniyet ifadesi beliriyor. Bir~·ou için hatirlanan ~so n parlak" dö nem ola n bu dönemin sonlarinda Didimli iletmecileri n "kaliteli tur ist" ola rnk tanimladii ingilizler yerini, daha düük fiyatlar
+da konaklayan çok say id a ingiliz turiste birakir ve tu 
+rizm sektöi:-ünün ekonomik getirileri aza lir, sosyal ve kültürler maliyetler artar ve sektör geliimi a aiya dor u inmeye balar. Sa hibi old uu otelde bu de ii ini net bir e kilde yaaya n Erdinç Göç, unlari aktarir:
+"90'da n 99'a kadar turizm çokgüzeldi Oidim'd e. [...] Te~·ik o laylari çikinca millet Merkez Bankasi'ndan aldii Iu·ediler!e bi r bakti k oteller bir anda çoal  di çoaldi gitt i. Ve dediim gibi 90'1i yillardan 97 98'den sonra t uri~rn d e bir düti  yaaninaya bala · dik. Muazzam ekilde düu yaamaya bal::idik.~
+1990'11 yillar sadece turi zm gelirierinin dütliü deil ayni zamanda Tevik Kanunu'lil1 ta kiben Jap on yeni kullanarak kredi alip otel açan birçok kiinin, Japon yen indeki kur farki nede niyle kr ed i maliyetle
+
+WO zain an içi n Ja pon Yeni kariliinda kredi veriyor lardi. Ben ka r ~iligi olmadi i için Ja pon Yeni"nden alamadim. Fakat ala n arkadalar hepsi otelini sat mak zo run da kald i lar, çünkü Jap,on yeni müthi bir yükselme kaydetti. Yani Türkiye'deki devalüas yonlar fazlaydl. 94 devalüasyonundan sonra lapon Yeni'nden kredi alan a rkada lar otellerini !laMak zorunda kaldilar.N ( Ayd oan 2014).
+2 000' ler...
+Kitleselolarak bölgeye a kin eden ve belki de kendi ülkesinde a l di i devlet yard imiyla tat il e gelen tu ristlerin a rdindan yabancilara m ülk sat i iyla ilgili yap il an kanuni dü zenlemelerin ardindan Didim için yine bambaka bi r sü re ç balar. Didim, nüfus mü badelesinden beri aldi i göçlere rame n, Didim'de halk uyum içerisinde yaar. Ancak mevcut dengeler, özellikle turizm sektörünün younlamasina paralel olarak artan i naat se ktörüne bali aldii youn göç ve yabancilara m ü lk satiiyla ilgili yapilan kan uni düzenlemeden son ra önemli bir ingiliz nufusunu n Didim'e yerlemesi sonucu degim eye balar.
+"2000 y ilindan itib~ren de tamamen yurt d i ina hali pai...... rlama iini birak t im. Yani bii da turi st kalitesiy le oraiuili. Biz ilk giniklerimizde, villalara giderdik hali pazarlarken. çünkü buradan kontakti gidiyorui.. 8uradan adam hahyi taiyamiya r, halisini evine biz götii.ri.iyoruz, oradaki fi rmamizdan ;lllyoru7., () ~e  kilde ovlar yapiyoruz. Havu~iu villalara giderke n. daha sonra baktik ki biz "In yedi kiith apartman, böyle 50 metrekarelik apartinan dai relerine hal! go· türmeye baladi k. böyle bir haliyi zor açiyors un ... Ve o zaman bu iin bi tt iini de anladik. Turist k.1litesl yani villalarda yaayan insanlardan. SO metre kare li k sosyal konutlarda yaayan insanlara dönütü. Bu bahsettiim 2000'li yiiiarda. [...1 2000 yilindan iti· baren turizm konukla r inin kalitesi, kalite iabi i eka· nomik olarak deerlend iriyoruz bunu, e konomik ge tirisi ola n müteri oLdukça azaldi. Düiik ge lirli turhl geldi Türkiye·ye ve gelmekte u anda. Ucu?. yani hcr ey dah ilolmasa Türkiye'de. bilmiyon ini gelen turist say i sinda korkll nç bir eksilme olur: (Aydoan 20 14) .
+Var old uu gunden beri birçok sinav veren D i dini'! bir sinav daha bekler. Didim·de bir sektör d .iha orta ya çikar. Tarim sektö ründen tu rizm sekto rune geçi yapmi Didim'de emlak komi syonculuu, turizm in o nüne geçer. Çünkü ingiltere'deki emekli lik maa iyla
+
+1 39
+
+i
+
+IkInci H"Y~lbrin Kenti -Didim
+
+Didim'de çok rahat bir yaam sürmek mümkündür. ingiltere'ye nazaran oldukça uygun ev fiyatlari ve yüksek faiz oranlari Ingilizleri ev satin al mak üzere Türkiye'ye çeker. Ev satin aldikta n sonra yerleik ha le gelen ingilizlerin yarattii bu göç hareketi birçok olumlu ve o lumsuz durumu da beraberinde getirir.
+Türkiye'nin neredeyse her yer inden göç alan, iyi veya kötü niyetle hayattaki ikinci a nsini denemek isteyen birçok kii Dldim'dedir. ngiliz lerin, Didim'e youn olarak ba l attii göç hareketi de iyi niyet li olduu kadar kötü niyetli insanlarin da itahiiii kabarti r. Mu teahhitlerln, ingiliz lerin konut satin alma arzusunu karilamak için kontrolsD.zceyaptil binala r Didim'de geri dönu lmesi zor bir kirlilik ve kalabali a yol açar. Müteahhitlik ala ninda e hil olmayan kiiler. bu ie so yunur ve birçok k i  i asil yaptii ii b i rakip emlak ko
+misyonculuuna balar.
+~ Didim'de, altyapisi olmayan, birçok insan bi r anda müteahhit oldu. Baktik; adam daci hk yapmi mü teahhit ol mu , bakkal müteahhit olmu, manav mO teahhit olmu .~ (Göç 2014).
+Yi l 2005 olduun da Didim'in ng iliz nüfusu giderek artar ve hana Türkiye'de ilk defa, Did im'de su fatura iari Ingilizce olarak b a silir. Yak l aik 2010 yilina kadar Ingiliz nüfusunun artmasi. ekonomik yönden önemli derecede hareketlilik getirir. Turizm sezonunun ki sa olduu Didim'de, kiin da yaanan hareketlilik otel cilikle uraanlar diindaki bölge esnafinin yuzü nü güldürür. Deniz kenarinda bir res toran iletmeci lii yapan Ekrem A ik, ingilizle rin Didim'de mülk e di nmesiyle ilgili düünce l erini memnuniyetle öy l e
+aktarir:
+"Ya bancilara mülk satii olmas i la zim, Neden olmasi laz.im? imdi yabancilar burada aldii mü lkü sinina yükleyip gitmIyorlar. Haliyle devamli bir iuke ten ke sim, bir tu risnir yani. TOketen kesimi buraya yerle · tirmi oluyorsun. Bunlar burada tiiketicidi r, üretici deil yani. Biz.im burada bir ey uretip para kazanan deit de burada saiin alip tüketen kiilerdir. Bunla rin burada ev.almalari na iyi bakiyorum. Yani daha da çok oliiiasi lazi m. [...] Haliyle her yapilan eLi bir mobilya aliyo r. Mobilya seklôrunü etk iilyor. Hediye alip götürüyor, ucuzdur onlar için. Böylece turizm için u anda Diditn pazan u saatte en aai 300 SOO Ingiliz vardir. Bunlarin y\lrtd i ~ina dönerler ken genellikle tekstil aliyorlar, iç giyimler aliyorla r burada ucuz. Ile kaliteli o lduu için. Haliyle bunlar gida malzemesi günlük tuketim de aliyorlar. fayd;is i
+oluyoi:"
+
+Ancak bu durum o telcilik alaninda hizmet verenler için geçerli olmaz. Sayisi 12 bine varan mülk satii , birçok ürün ve hizmet alanina fayda saglasa da, özel likle ki in kendi ülkesine dönüp yazin tatile gelenler veya arkad a, akraba çevresi ne Did im'deki evinde belli bir ücret karili i nda tatil yaptiran ingilizler in olmasi orelcilik sektörünü derinden etkiler. Di~er yandan da otekllerin ~kalites iz turist" olarak nite lendirdikleri bir grup peyda olur. Ote\ciler 2000 yili öncesi dönemleri artik yaayamazl ar. Sadece otekilik alaninda hizmet vere nler deiL. seyahat acentacili i a laninda hizmet verenler de bu durumdan payini alir. Tayyar Cengiz, bu süreçte neler ya andiini öyle
+anlatir:
+-2002-2003 yilina kadar gelen turistler gerçekten ço k kalite liyd i. Giyimleriyle, kuam!anyla davrani' lanyla ehir içerisindeki yaptiklari ha rcamalariyla ... Malum biz tutisie ilçeye maddi maneiii katki getiren insan olarak baktiimiz. için ciddi katkilari olan bir profili vard i turistlerin o zamanlar. Ancak ondan sonra hizli bir ekilde bu kalite aa~i doru gitti, dütü. Onunla birlikte Didiiii'de, Didim'!n de kali tesi dütü iin dorusu. iletmed istedi~ini alama maya balayinca da ha iyi hizmet vermedi, kimdini de gelitiremedi. Ayni dekora~yon ile yedi sekiz yi l, be aln yil iletmesini deva m ettirdi. Biz getirdii  miz. turistlere tur satarak ekstra gelir salayan bir firmayiz, arenteyiz. Bizim dier firmalarin da bir kismi da öyle. Biz tur satan olmaya baladik yani eebiiide parasi olmayan turist gelince tatIle sadece yeme, içme tatili olara k görerek gelen turiste her hangi bir ekstra bir ey vermemiz, ondan ekstra bir eyal abilmemiz mümkün deiL. Çok kisitli bir büt çeyle, cebinde çok kisitli bir parayla geliyor. Sadece otelde geçiriyor vaktin~ çunkü her ey dahil de bir otel. Tura götüremiyorsunuz, kültürel hiçbir faaliye te yaklal1ramiyorsunuz. Öyle olunca da ekstra gelir elde edemiyorsunuz.. Ite o tarz turistin gelmesiyle de bu müteri profili ciddi ekilde kan kaybetti, ka litesi dOtü do!!:rusu'
+Türkiye'de ingiliz nUfusun cn fazla konut ald i i Didim'de birçok tu ristik bölgeye göre, koniitdolandi  ricili  i bölge imajini daha somut bir ekilde zedeler. Kötü niyetli emlak komisyonculannin hedefindeki ngilizler kötü tecrübeler ya ar. Bölge ekonomisine genel anlamda olumlu katki l ari olan ingilizlerin , za manla dolandirici l arin kurbani olma sürecini hazirla yan dururnlari Erdinç Göç öyle özetler:
+- Suraiim yerlileri olarak, o yapilanmadan memnun duk. Fakat Türkiye'nin her bölgesinden her i ürlü, her çeil in san geldi. Yaiil i ini kaybetmi, aiii i k.1y ·
+
+140
+
+· 
+
+
+Ar.ii, Toker
+
+be tmi, her tlirlü guvenini kaybetm iS. büt ün nerede ~'ürük çarik insa n lar varsa onla r da burada toplan di. Yani buradaki ranti gÖrdu, buradaki kazanç l ari gördü, inaatla a lakasi olmayan bir tak i m gru plar, bir bakmi hepSi b ir anda mliteahhit oldula r. Didim Belediyesi de o d önemde yei eri kada r dene ti mleri ni yapamadi. Yeterli ölçüde elemanlarin! gondenp kontroiieri ni ya p timmadi. Man tar gibi binalar çikti . Zanne ii iler ki bu i yilla r boyu böyle devam ede cek; sa tt ilar, satti lar, sauilar butün ingilizleri do  landird i lar ve Di d im'j ma alesef çok kötü bir eki l de etkilediler..."
+You n ingiliz nü fus u nun çeitli taleplerini kari lamak üzere Didim'in birçok yerinde açilan onlarca ilet me, kap i sina kilit vurmak zo run da kalir. Çünkü evler i soyulan, sa lin a ld ikl ari faka t tap u sunu alama~ dik lari evleri bakalarina sa t ilan, güve nerek ve1cilet verd i i kiile rce evleri bakala ri na satilan, d ee r inin çOk üstünde satin aldiklari evlerini, sira satmaya ge~ lince kotu bir sürprizi e karilaan yuzle ree Jngiliz, adli makamlarda hak arama tei ,l ina kap i ltr. Bölge nufusunun yüzde 2S'ini oluturan ve ekonomik hare ketlilikte önemli payi olan yerleik i ngilizler de böl geyi terk etmeye balar.
+"undan üç-don sene evvcline kadar, kiin yedi-se kiz bin !ogiliz kaliyordu, oturan. Hatta çoclIIJardan duyuyo rduni , torunlardan; her sinifta be-a lti tan e Ingiliz çocu)1u vardi, imdi yok onl ai; artik kalmadi; kiin oturan pek nildir. Didim imdi çok kötü: (Göç 20H).
+I naatl ari ri hizla çoaldii dônemlerde, devlet kont rolü yetersizken sonraki yillarda birçok müfettiin bölgeye giderek müteahhitlik yapan herkes slk~ bir denetime tabi tutulu r ve çok yüksek cezala r odernek zorunda kalirlar. Ingilizleri dolandirarak, onlarin ca nim yakan herkesi n de cani yanar ama Oldim, üzerine yapian iinaj dan kurtularnaz. Geriye evlerinin camla n "satilik" yazilanyl a dolu b ir beton yii n i ha line ge t irilen bir Didim kalir. Basri Göç'ün düünceleri öyle:
+"Didini'i]) yarisindan fazla s i sa tilik u and a. O kadar ev yapild i, o kadar ev yapildi.; hepsi bo, hep si sati· lik. Çok büyüdu Didini; ben Didi m'i taniyamiyonim, hilemiyorum. Didim·j bana hiç sorma. Ben Didiiii·in ne mahallesin i biliyonim, ne si tesini biliyoru iii , ne bir eyitli biliyorii m :
+Adnan Ayd oa n, lanik ol duu bu durumu üzüntüy le öyle an latir :
+"Daha sonra (içka!tç!h~a da gitti. duyuyoruz. ite
+
+Jngillzlere, 10 Ingiliz·e bir ev sat i lmi. AdalTi güven mi, hayatinda çünkü kanunlann korumasi a l tinda yeUni i bir top lu m üçkiii l Çllil pek fazla bilmiyor, arka s inda devlet var çünkü. Dolayis iyla bliyii k bii·... ingiliZlerI' tahii büyuk bir sikinti oldu. u anda da Didim'de maalesef bu ilk gelen kon uklar evald il ar, 2000 yi lioa kadar gelen kon u kl a r in hepsi hemen hemen eksiksiz olarak Didim'den eLi sahi!ii oldular. Fakat u siralarda, iki Ilç senedir tersine göç y:i a n maya baladi. Yani ingilizler evlerini sai iyoriar ve gidiyoriar..:·
+KARAKAYA BARAi rN I N GET iRDIKLERI...
+Didi m, 1986 yil ind a bir göç daha atir. Atatü rk Baraj i ' n dan Adiyaman iline bali 60 ye r leim biri minde yaayan binlerce ki i etkilenir. Bu to p ltiima l hareket Keban ve Ka rakaya barajlarinin yapimind a n son ra büyuk bir nüfusun d evlet e liyle yer d e itir  menin örnekle rinden bjri olur. Atatürk Baraji nede niyle yed e i m alanlari ve tarim arazileri su altinda kalanlar ya devlet eliyle baka bir yere yerletirilir ya da skan bedellerini dev letten alarak yerle i m so  runl a rina kend ileri çözüm bulurlar (Konak 2002). Su tehdidinden ilk etkilenen aileler Didim s inir larin d a o lut u rulan önce Denizköy' e, sonrasind a Yalikôy'e yerletirilir. Adiyaman , Malatya ve Mu illerinden Didim'e göç eden insanlar nedeniyle Didini' in de mog· ra fik, kültürel ve sosyolo jik yapisi bir far klili kla daha
+kar i la ir.
+~Adiy aman·da baraj y.ipild l. barajdan maelur olan hal k birkaç köyo ldu u gibi. Denizköy ve Yal ikoy kuruldu. Adiyaman'daki o baraj madurla ri, evleri. arazileri oJanlar, burada yer verildi onlard.. tarlalar verildi. Öyle iki koy kuruldu, !iir göç onlar a ldi. Daha so nra Ço rum·daii. or.idaki siyasalolaylarda n belki o zamanki, ra hats izlik duyanlar. onlar geldi·· (Ayda· an 20 14).
+Didim'e yerleen baraj göçmenleri, Didim ye rlisin  den kültürel ve sosyolojik özellikle ri açi sind an farkli olduu kadar Dld im yerlis inin yillardir korktu u ti carete atilma konusunda da fark lid ir. Evinden, to pra indan ayrilan bu insa nlar kendilerine sunulan firsa t lari deerlendirmeyi iyi bilir. Didim'e yeni bir hayat için yerleen. ticaretle gözü pek, k;i zanç sa la mani n bir yolun un da risk almak o ldu unu bilen in sanlar vardir. Erd inç Güç bu konudaki duüll cel eriiii  u e ktlde a ktarir;
+" Nasil bu r.iy a gelmi; '36 göçmenleri, '2 4 göçrnenle· ri ne yer ver ildi; ayni ekilde onl ara da yerler verildi.
+
+141
+
+i
+
+Ikinci Ibj';lll.nn Kenti "Dlditn"
+
+Hem evleri hem arazileri verildi. Kimisi yapamadi. satti geriye gitti. Ite bir kismi da degerlendirdj uygulayip, onlar u anda Yahköy'ün içerisinde ve Denizköy'un içerisinde. birço~u ticareti e ugraiyor. Yani onlar korkmadan ti carete atil d i l ar, girdiler ve birçou da baardi. Bugünkü konumu çok farkh ora· daki yaayan insanlarin. Yani lielli bir refah düzeyi· nin üstüne çikti onlar:
+smail Aldemir bu kon udaki duüncelerini u söz lerle anlatir:
+MVallahi burada magaia açan lar oldu, ço~u zengin. Kimi traktör aldi, bir eyle r yapt i la r ite. Kimisi nak
+liyetilik yapti. Ma~aia. dükkan aça nlar da oldu. I...]
+çiftçilikle. çou tarla onlar da satt il a r. Senetl e sat tilar, neyse. günü d olunca tapusunu verdiler. Ço~u yerlerini satti öyle. Ama ç02u ticaret yapiyor ya ni. Traktörü vardi, nakliye yapiyordu, b i rkaçi maga7.a attl,lDidim yerlisinde licaret yapacak] cesaret yok.. Esnafin yüzde 90'1 yabanci burada"
+Yaliköy ve Denizköy göçlerinin ardindan bölgenin ekonomik dengesinin olumsuz yönde etkilendigini düünen Tevfik Gönül, unlari ifade eder:
+"Yalniz buranin deiigesinin bozulmasi, bu iki köy geldikten sonra bozuldu, Daha önceleri burada para geçmiyor, herkes iinde bainda, bahçesinde, tarla· sinda,lO tane çocuun olsa, 10 tane çocuuna da i  vardi, Kimisi hayvan otlatmaya gider, kimisi çift sür· meye gider, kimisi odun yapmaya gidei; kimisi tar· lanin tai ayikJanacaktir taim ayiklai; kimisi hay· vanlarin pislii vardir onlari temizler, Yani herkese birer i bulunurdu, Onun için o zamanki yaamlar zor da zevkliydi:
+
+m geride olan yere, "Aa burasi hiçbir ie yaramaz" diyorduk. SOO m deil, be km, dalar tepeler, her taraflar, tamamen insanla rla dolu, Nedeni u, imdi Didim bir, ucuz bir yerdir, yer açisindan, arsa açisin dan, Iki, nemi hiçolmayan ve sürekli olarak karadan denize nizgari olan, kuru havasi olan, yalilar için uygun, Romatizma arisi olan insanlar içi n çok uy gun, Astim hastalan için çok uygun ikl imi o lan bir yer: ( Aydoan 2014).
+Örneltin, annesinin ast i m rah a ts i zlii neden iyle yaanacak en güzel iklimin Didim olmasi; yaptii bir ta tilde de nizine, kumuiia vurulup turizm sektörü ne gi rilecek en uygun yerin Did im olduunun dliünül· m esi; doasi, çevresi ve huz.urlu yaam olanagi sag· lama s i gibi nedenle r buulardan birkapdir, Insanlar, kendi deyimleriyle ikinci hayatlarinin ilk sayfasini Didim'de açarlar.
+"Annemin astim hastalii va rdi, Ankara'da yaiyor· dum, çok kirli bir havasi va rdi Ankara 'mn o t:irih· le rd e, Bizim deniz kenarinda veya havasi kuru bir yerde yaamamizi söylediler, Hem deniz kenan hem kuru hava nerede olur, diye merakla bir aratirma içerisindeyken annemi tedavi ettirttiimiz doktor· lardan bir tanesi Didim'den bahsetti bize, Didim'i liilmiyordiik o tarihlerde, Didim'e geldik baktik ha· vasini kontrol ettik, gerçekten öyle midir deil ini diye, klasik bir takim dcneylerle, Balkon kenarlari · na tuzdur, ekerdir koyarak acaba rutubet var mi, yapiiyor mu diye bir iki deneyden sonra bakti k ki havasi ge rçekten kuru buranm o tarihien sonra apar topar geldik OIdim'e ye rleti k: (Tayyar Cengiz)."
+Iklimi ve doasina hayran kalarak Didini 'e yerle· meyi tercih ede n Sa li h Bankolu unlari anlatir:
+
+IKINCI HAYATLA R,.,
+Didim, i 924 yili itibariyle aldii göçlerden ba layarak tam bir göç alani olur, Kitlesel göçlerin yani sira farkli toplumsal hareketler nedeniyle de yeni göçlere sahne oLur. Yaliköy ve Denizköy yerle i mlerinden sonraki yiiiarda Çorum'daki siyasalolaylardan etkilenip ra ha isizlik duyan önemli sayida bir Alevi nüfus Didim·e yerleir. Geni araziler, nemsiz iklim, huzurlu yaam alani gibi siralanabilecek onlarca ey Didim'j cazip
+kilar,
+"Old im rla)i, nbii imdi bu ne oldu günümüze ge· lince çok buyük bir gelime eklinde burasi patladi, Yani' Merkez Didim, Didim r laji dediimiz yer ar· tik patlamadan da oie herhalde Hiroima bombasi gihi her taraf da kooperatifler kuruldu, Bütün sa· hiller oldu~u b'ihi dQld u, Ki, biz sahilden öyle 500
+
+"Didim'e yerl eme mizin sebeb i, kizim eczaci olduu Için buraya bir tane ecuiieaçtik ve Didim'!n,., Daha evv!!l gid ip geliyordum. Oidim', biliyordum zaten, Oidim'i n o zaman. 98 yilinda sanirim 12 bin civa· rinda nüfusu vardi o dönemde ~·ani küçuk bir yer· di Oidim ve gelimekte olan, hizla gelimekte olan bir yerdi ve özelli kl e ri itibariyle de hem doasi hem çevresi hem de ikJimi anlami n da buraya yerlemeyi tercih e ttik: (Bankolu 2014 j .
+Di d ini'de tatil yaptii s irada, Didim'in yaamak için uygun bir yer olduunu düünen Taner Küsmez de u cümlelerle özetler:
+"Didini'dc tatil yaptini. Denizini, kumunu been· dimden d olayi tercihiJl\i~ Didim oldu, 'En iyisi Didim'de uf;ik bir tesisi kuralini, kannca kararinca biz dE' turizme hi zme t edeli m, Yabanci dil biliyoruz. Ingilizcemil. wir' diyere k ie baladik:
+
+142
+
+i
+
+Anu Tuker
+
+Yillar yili yaanan iç göç sürecine tanik olan Hilm i
+Yi ldinm, unlari anlatir:
+"Turizm tabii ki etkili oldu çUnkü turizm olmasdY' di Didim'de inscinlar ha!.a turun ek iyo r olacakti . Tiinzm oldu yerli veya yabanci insa nlar Didim'e gelmeye baladilar. Bir kismi Didim'i ya~nabi li r diye duundu ve evalmaya baladi. O günkü mev· cut evlen d.liyorlardi daha sonra ev ihtiyac i dog:du Didim'de. Dolayisi yla i naatyapma gere#:i baladi ve Insanlar inaa t yapmaya ba lad ilar. Ve bir ço k imi te · ahhit Didim'e sirf inaa t ya p ip para kazan mak için g~ lm eye ba lad i. Yan i kend i yerel mü teahh itle rinin o kapasiteyi karilayab il me duru mu zaten yoktu. Dolayisiyla o mijteahhitlerin bir bakd. önemli nok· tada içiye ihtiyaci vardi, çaliacak ite ameleye ihti· yac i vardi. Ve benim muayenehanem Didim'de tam merkezde ve eh irlerar.isi dolmularm o zaman l..r daha otobus iletmeleri yoktu sadece minibusler vardi, mU llilkii her ge lenin durduu ilk n oktaydi Çok iyi biliyorum, '95'lerde, '96'larda her m i nib ii s· ten s irtinda yorgani ve yaLii, eh nd e saz iyla hani böyle o eski filriilerde, Istanbul filmlerindek i tarz· la belki her gün en az otuz kii, kirk ki ini n ben o minibüsten indiini göruyorduin. Hep yeni ii)san l ar yorgani. yatai ve eyiyle gelmi artik kendi özel e· yasiyla gelmi~, boyle insanl;i r vardi. Bunlar Dou ve Guneydou a  irlikli)'di. Bir de llk za man la r Karade· niz a~irlikliydi, daha çok ustalar, inuteahhitler, daha so nr.i Dou ve Gü n eydo~ u a~irhkh olmaya bala d i. Ve  u anda D i dim'de hizi m h e merilerini i7.in uçte biri bir kere dou. G un eydoul u 'dur. Üçte biri Ka· r.ideniz ola rak kariik diyebiliriz geriye kalan üçte birini de yerli diye a yira bilin'l. Yal1l öyle bir mozaik bir yap imiz var."
+1980'li yillardan iribaren tur izmin yaygiiila rn as i y' la be ra ber dier goç hareketle rinde n baim siz, a rtan i n aat sektö rü ve buna bati. olarak gelie n göçle r de meydana gelir. Didim Orta Anadolu ve Gü neyd ou Anadolu Böl gesi'nd e ii de m"nferit goçler almaya. ba lar. Gelien turizm ve inaat sektöru, Didim'de ade· ta bir m ikn atis gibi etki eder. Artik Turkiye'nin her
+yer inden göç a lan bir bölge haline gelir. Kad eri bir
+göç ile çizi le n kendi halinde kuçlik bi r köyolan Yo· ran, yillar içinde Didiiii olurken yine goçle d e varligini sürdÜl'tir: Va r olma serüve nine 938 insan ile ba l ayan Yoran Köyü, yazgisina günden gune daha kalabalik ve daha karmaik h alde devam eder.
+"Goçlerle birlikte tabii imdi evvel iyatin i bilmedi· in b i r nesi l geldi burara. imdi biz burada yaayan insOln, nedir, oniin atas i m biliyorsun, dedesin i bili· yorsun, ona artik komple guvt'nebiliyorsun. Çü nkü orid..in zarar gelmez. soyu belh so pu beiii ye ri belh.
+
+Fakat bir adam geliye r ki. bir senI! önces ill! bilml· yors un. iindi huna kari tedhldi olmak zorunda· si n, ti cari haya tt a, insan ilikileri nde... Çünkü onun ("vveli)'a t i kapa l i. Ne yapm i . ne et mi  önces ind e... lXi layi s iy la (;ibii bu n laryaandi : (Ayd o~a n 20 l4) .
+Didi m, fark li sebeplerle ge rçekleen bu göçlerle Türkiye'n in e n dousuyla en batisinin kes i me nokta· si haline gelir. Balkanlardan gelen göçinenle ri n Ana· do lu k ii1tii rü yle bile farklili kl ari vardir. Dogu göçleri nin ardindan bu farkl i likdaha derinden hissedil meye balani r. Hil mi Yil dirim, b u ko nu daki görü l erini öy· le açikta r:
+~DJd im'e gelen bu göç ka lifiye deg,ildi. Ve ayni za· manda da farkli bir kulturdu yani diger tara rtan da. Çunku burada Didim Turldye 'ni n en batisinda olan ~ehirle rden birlsi ve Balkanlardan goç olarak ge len, iiiubadeleyl e gelen Insanlann y3.adl~1 bir yer. Ve Tiirkiye'nin kendi kullliruyle bile f.i rkh özellikle r til  iyan bir geç m i var. Ta bii burada t a ni manasiyla bir kulrurel ha rma nla nma YOla nd l bu goçle birlikte. Burada esas olan uydu ; bu gelen kesim ilk yil gel· di l zaman ça inu rcu olarak geliyordu. Yani en ey i, zor i, ikinci yu bakiyordu bUri.da hiç ta mi r eden yok, usta yok. bakiyor ~ ben ustayilU" de)'ip kend im hemen hir duvarci gibi gosterineye baliyordu. Ve ondan son raki sureçte bir bakiyordu turizm çok da · ha kOldy,yani ben 6TU.l ip ite g<lrsonluk yapsam bigi· !izlerI", birlikte olurum, on lari.. goruürum, hem di· limi ge l is tiririm, onda n sonraki yil bir bakiyorsunuz garson olarak ie deVdm ediyo r. Ama uç yil evveL, iki yil evvel Didim'e sadece çamur karmak. ha rç ka r· m.i k için gi> \mi olan ki  i bir son raki adiminda arti k y,lb,lll ciyla inuhatap olmaya bal iyord u :
+KAÇ iRiLAN FiRSATLAR ...
+Anavatan Partisi'nin tekbaina iktidar oldu u i 9BO'li yi l l arda partinin grup bakan vek il i o lan HaydarÖzalp tam bir Did im aigi o l du ~ u n dan olsa gerek, bahadan kalma mali , mülkii, tarlasi, evi neyi va rsa satarak Didini'de bir ev satin alir. Sadece ev satm almakla kal· maz, o döneme ta ni k olan l arin "Cumhuriyet tarihinde gelmi geçmi parlamenterlerin içerisiiide buraya eri biiyuk yatirimi ya pan Haydar Dzalp'tir~ diyecekl eri kadar Didiin'e çok emek veri r. 19BO'U yillarin ilk ya· risinda Oidun'de bir hava lim ani yap i lmas i plan lanir. Haydar Özalp'in katkilariyla uçak pisti yapili r. Done· min beledi ye bakani ile egtidum lü yürü t ulerneyen burokratik süreç nedeniyle neredeyse so n aamala· rina gelen haval iman i projesi olums uz son uçlanir. Ta· kip eden seçimde hükumetin de d eimesiyle Didini için yu rur lukte olan prOje Milas·... kaydiniir. DidllTl
+
+143
+
+i
+
+i
+
+HavaHmani Projesi belirli bir maliyetle belirli bir aa maya gelse de çok daha büyük maliyetlerle Bodrum Milas'a havalimani yapilir (Aik 2014; Göç 2014).
+· u a n Bodrum'daki Milas Bodrum Havalimani
+buraya yapi l acakti . Kaziklari dahi ç-dkild i Mesut
+Yilmaz'in hukUmetinin dönem inde. babakan 01 duu dönemde kaziklari çakild i, arazi düzlendi hazirlandi. Tabii ben im belediye bakanim da bu Ile ri biraz gevek aldi , dedik o döneml erde niye bastirniadltl neden git medin ? Yani biigun bu ha VOlhmn burada olmasi Oldim'i n kaderini bir anda dei tirecekti. Çok farkli eyler o la cakti. ite Tansu Çiller hükümete gelince, Tansu Çiller de sa olsun eyi aldi gôtürdu Bodrum'a götü rdu. Didim buradan çok eyl e r kaybetti. Eer bugün o havaalani orada
+ols.1ydl Didim'in konumu çok farkli olaca.kti . [...J O kadar kötü oldu ki inanin arazi düzlendi, kaziklari çakildi, her ayi yapildi yani her eyi hazird i artik. Zemin hazirdi. Akbük yolu üzerinde, Milas kava~i  ni çikarken, Akbük'ten gidiyorsunuz ya hani Milas kavaini çikarke n hemen o hana TOK] evleri yapil (\1 oraya o arazide: (Erdinç Göç)_
+YORAN'OA HAYAT OEC l  IYO R ...
+Yetitii topraayabanci o/aiila r..
+Yoran'a 1924 yi lin da Selanik'ten gelen ilk büyük göç kafilesiyte gelen insan lara tarla olarak daha çok köye yakin yerler verilir. Bulgaristan'dan 1936 yilinda ge lenlere ise köyden uzak ve deniz kenarina yakin tar lalar verliir, Bölgeye vardiklari Ilk zamanlarda köye ulaimi zor ve uzak olan deniz kenarindaki arsalann verilmesi Bulgaristan göçmenleri için bir anssizlik olsa da, 1970'li yillardan itibaren deniz kenarinin de gerlenmesi nedeniyle bu arsalar kiymetli hale gelir (Aydoan 2006).
+Uzun yillar yoklulda mücadele eden Yo ran köylüsü için belki de deers i z gördüü arsasi karisinda bir kaç s ari lira çok d eerliyd i. Bu nede nle çok kiymetli arsalarini yok pahasina satan köylülerden Torlakli ibrahim'in -u an Didim'de oteller bölgesi olardk bi linen- çok geni ve deerli bir arazisine eder olarak ~bir ke letir suc uk, iki koluiia da saatU aldi i yönün de söylentiler var. Arazisini ilk olarak sa tan Torlakli ibrahim 'den son ra yer satmalar devam eder. Köylü lerden bazilari elindeki firsati iyi kullanarak ailesinin de kalkinmasini salar. Ancak maalesef kimilennde arazi paylaim kavgasi nedeniyle aile balarinin sa r silmasi, kimilerinde yok luk tan varlia ani geçiin ko lay sindirilememesi gibi sebeplerle soru nlar da yaa  nir, Yi ll arca birbirine kenetlenerek. hep birlikte tütün
+
+ziraatiyla geçim lerini salayan Yoraii halki için haya t bambaka bir yöne d oru akmaya balar, Artik köyili elindeki arazisini yava  yava elden çik a nr, Tiitün zi raa ti yapa rakyaam sürdürmek o kadar zordur ki, tez elden eUndeki varliim satip kapisinda bekçilik yapa rak daha düzenli ve sik araliklarla elde edilecek bir gelir ye tutulur. Erdinç Göç sitem ve de rin bir üzün tüyle unlari aktarir:
+-Mesela bir tanesi benim halam. Arka tarafa 80 ya t akli bir otel yapti bizimle o dönemde, ayni dônem de. Fakat iletmeye her zainan korktular. Ticilret yapmaya her zaman korktula r. Bir altyapi da olma dii için onlar yapmad i. Ama çocuklari vardi, onlar da yapabilirdi. Maalesef imdi benim halamin olu beledlyede oför, öyle bir iletme kirada, kendisi belediyede oför. Yani buranin yerlisi her zaman ti caret yapmaya korktu_Cesaret, bir türlü o cesareti kendinde bulamadi. ite 'ba tiriri m, çikaririm: imdi bakin gerçekten oyle, gidin Didim Belediyesi'ne gi rin; bugün o kadar çok mali mülku var ki adamin , arsasi arazisi bi!inero nesi; belediyetle çöpçuluk ya piyor. Çok komik bir durum di mi? Yani benim de kahrol diium noktalarda" bir tanesi o,"
+Didim yerHsinin ticaret yapma cesaretini kendinde bu l arnamasina ka rin, Didim'de yeni hayatlar kuran  larin neredeyse her sek tör dalinda atili mlar yapmasi ni ise öyle deerlendirir:
+- Di a ridan gelen insanlar burada birçok ilere, önemliilere imzalar amliir. Çok güzel yerlere, nok talara geldiler. Maalesef bizim burantn yerlisi bira kin i yap mayi. elindeki her eyi kaybetti. Olanlar da kendi ilerinde deil; baka yerlerde, p;iSif il e rd e çalian kiiler. Yani ailacak bir durum. Ben diyo  rum, defa la rca da söylemiimdi r. 'Niye boyle bir ey yapmiyor~unui7' 'E it e, tica ret farkli bir ey; batirinz ç ikarinz: 'Ya ka rd eim bak, senin bu k<td:ir arazin var, bu kadar bilmem ite neyin var; arsa var, tarlan var. Ne i in var senin belediyede?' diyorum. O zaman da soruyordum, görev yapti~iru donelnlerde falan. 'E bizde onu ile t ecek kara yok. ite biz o ii bece remeyiz. Batirinz çika ririz: I te maal esef de d iim gib i: u çanakta, Alrinkuin'da sahil boyunda, sadece bir tek ticari anla mda uraan benim ;idem var: Onun haricindekilerin çou, ite hep orada bu mda çalian ve yahut da mali mtilku olup da yine belediyede çalian, çou nluklu iiisao lar."
+Yunanistan ve Bulgaristan'dan göç eden, e linde avucunda hiçbir eyolmayan köyllil ere devlet arazi tahsis etse de fakirlik insanlari bezdirir, Hiçbir sosyal güvenceleri ve gelecekten umudu olmaya n insanlar için araz i satmak hi r kurtulu yol u olarak görülür.
+
+144
+
+· 
+
+
+Zamanla parselasyon konusu gündeme gelse de, bu nu yapa bilmek için paras i olmayan ve pa rselasyo n yaptik la ri zama n arazileri nin daha deerli o la caini bilmeyen köylüler, daha iyi bir yaam umuduyla mec buriyenen arazileri satarlar. Ancak a n sli olanlar da vardir. Bu ansi yakalayan nadir ai lelerden olari Er dinç Göç unlari p aylair:
+~Babamm burada n Söke'ye gitmesi; orada, bankada bu ile ri ya pip gö rmesi, tapu mudurüyle ianimasi , kad asira efiy l e tan i  masi bir vesile o l mu. 'Niye ve riyorsunuz bu kada r ucuza? Parselasyon ya p. daha d e!erli olur. Parça pa rça, ihtiyacin ol du ~u kadar sa· ta rsm: d emi. Nite ki m derl eme gidiyor, bu kon uyu açiyor; dedem Ilk bata sicak bakma mi. Sonradan baba m tabii ki bastinn ea, 'Tamam, nasil yapiyorsaii yap.' demi. Babam parselasyonu ge rçekle tiriyo r. Tam i i 7 tane parselyani burada, 240 mLile 260 mi arasinda, ii 7 tan e arsa çikiyor bUrJda. Ha tta mad· di duruinu iyi olmadii için üç t,mesini s at ip mas ranarini ödemesi gere kiyormu. Otelin önündeki buluna n ilk uç anayi satiyor. Tabii ki arazinin o dö nemdeki, himline verilen fiyata uç tanesini sa tiyor ba bam. Tabii bi r anda dede m de  a iriyor; 'Ol um i)'i ki biinu ya pmi sin: d iyor, 'Arazi, goruyor musun bak. geriye bu kadar ;irsamiz kaldi. Uç tanesini bu paraya s att in, iyiki de bunu yapmisin! diyor:
+Genç yata köyün d iina çikip memur olma ansi eld e eden Basri Göç, herkes arazisini satarken ne ya pip edip bankadan memur kredisi alarak arazi parse lasyonunu yapar. Tüm kardele r iyie arsalan paylair. Didim'de ilk arsa. parse lasyonu yapan kii olarak hir çok köylüye de oneülük eder. Tarimsal üretimin za manla azalma siyla bu yönde d ee ri aza la n ve ileride her biri ev yapar dü üncesiyle çocukJarina bli<iktii arsalarin i bi n bir güçlü kle birletirerek bir otel yapar. Otelcilie girii tamamen tesadüflerle örüntül ü olan Basri Göç, günumüzde hala baarili bir ekilde iinin baindadir. Basri Göç o telcilie giri hikayesini öyle
+anlatir:
+·'Razi euik. sonunda birleti arsalar. Ite bitirdim dosyayi, onlara fBasri Göç"lin arsalan ü·terinde otel cilik yapmaya ta lip arkadalari ) vereceim. Geldiler konumayil. arnk, dedi 'Krediyi senin (istüne alaca iz. Sen borç l anacil.ksin ama biz odeyec eiz, bilmem ne obeak: be sene içinde hii. her eyi bi t irece~iz, sana öyle birakaca iz.' Ben dedim <Horç benim ol duktan sonra, ben de alinm senin ala cain par<iyl. ben de yapari m· dedim. O eyde onlari bi raktim. Otelcilil'" de öy le girmi old um yani. onlarin eyiyle
+girdini.~
+
+Üçiincü kuak göçmen lerden Erdinç Göç, parselas yon yaparak hayatiarini de itiren babasi Basri Go ç'e
+min n e t duygubriyla unla ri anlatir:
+'·Ç ünku para siz pulsu"ldu yani buninin parselasyo nu yapabilmek için belirli miktarda para si olmasi g~rekjyordu. Ama ite orada, o bankadaki çe vresini kullanarak, mueadele ile buralari bu duruma getir mi. Kardeleriiie pay vermi ... Bugun kardelen de onun sayesi nde gordüü nüz gibi biraz önce gIttik haktik; ha l amin oteli var, amcarnin oteli var. Yani yerli olarak. Altinkum'da bir tek, bugune kdd:ir ara zisini deerlendiren ailelerden bir tanesi Goç Ailesi. Zaten mevkiden, Göçler mev kii olarak geçiyor. Tüm am ca çocuklari, anic:im la t hepsi burada. Yani bôyle bir hay:i! sü rdürdük:
+Köyün diinda baka bir dünya olduunu bilen sa yili birka ç köyHi. dönemin aki ina ken d ini usta likla uydurarak turizm sektöninde kendin e bi r yer bulma ya çaliir. Hediyeli k eya sanc i lii, restoran Cl lik, otel cilik, taimacilik yapa. rak aile ve bölge refahin a katki salar. An cak Didim ye rli sinin ge nel karakteri s ti i ticaret yapm aya uygun deildir. Yillar boyu acimasiz ko u llarla mücadele veren halk yeni bir riske girmeye cesaret edemez.
+"Baz i insanlar ey yapti, tütüneüluü bi rakti, Itiriz· me yöneldi ama turizm ne hikmetse bizim kaylu· leri n elinde kalmadi, yani yerlilerin. Dia ridan ge· lenlerin eliue geçti. bu da iin bir aci tara fi ." ( Aik 2014).
+Hilmi Yildi rim, Didim ye rlis i ile Didim'e göç]e ge lenlerin a ras inda o lan bu görunür farki anlatirke n, Didim'in u an içinde bulunduu duruma üziil meden duramai.. Bu farkin ayni zama nda Didi m'in kaderini de belirl ed igini de düünür. çou D idini yedISinin bölgeyi kalkindiran i ler yapmasi biryana eli nde ayu cunda olan arazisini malini da kaybet mi durumdal ar.
+'· Bizlm Didinfin yerlisinin yapam.i.dii hirçok eyi onlar yapabilir haldeydilcr, cesurdular yani. Ve do· layisiyla da bugiin inese1:i Didim'in ticaretini aslin· da bii diaridan gelen, sonradan Oid irife yerleen kesim eli nde tutuyor. Hani ite biz Didll1lliyii.. sizden evvel geldik, yi..iz yil evvel geldik gibi ya da ite 90 yil, 80 y i l evvel geldik gibi ovlinülecek bir durum yok.. ram tersi orilar bugün e kadar ciddi anlamda da h:ini hemeriler im iniras yemi.~ konumdalar. Ar.ii onlar [iç göç-Ie gelenle rI belki sifirl a gelmi duriimdalar, sadece yataklan hir de yorganlanyla gelmi l!'"r belki o da yoktu. Ama bUgli1i Didim·in. birçok a r kadaim var s:;iniimi olduum, en azindan baba lari belki oy
+
+145
+
+i
+
+Ikinc, H.oy:;iibnn Ken~ 'Oi di"'"
+
+leydi. ama onlar u anda hem egilimll hem ey hani Almanya'daki eyler gibi, ikinci, üçüneu kuaklar gi bi u anda Didim'e yön veren insanlar oldular. fakat geli sü reci bu ekild eydj tabii bunlann bir kismi da daha kol ayi seçtiler, bir Ingiliz'le evlenip onunla bir likte yaayip kendini ya da ingiltere'ye atmak gibi. Böyle, bu yolu seçenler de oldu ya da bir Ingiliz'le ortak ite bir bar açmak. restoran açmak, ite benim i gücüm, ilikilerim, onun da parasal gficu ~klinde yapanlarda oldu. Ve turizm faaliyeti biraz da bu e kilde gelimeye baladi. Yani bu da ne kadar bIlinç siz olduunu, yani böyle tes.:idiiflerle bi r noktaya geldiini gösteriyor, y;i.ni Didim bu anlamda da ciddi anlamda kadersiz yerlerden birisi y;ini.~
+Borçlanmak, devletle kari kariya gelmek. ti cari riske girmek köylünlin eo büyük korkusudur. Didim'de baz i eyler hi zla dei ir ama köylünün bu dejtiinie ayak uydunnaya ne gücü ne de niyeti vardir. Belki de onlan birçok atilim yapmaktao alikoyan bu hassasiyetlerini Ekrem Aik öyle anla til" :
+"Pek bir s()run yok arami zda. Ama onlar bizden da ha guçlü u anda, Onu kabul edeljm. imdi bizim guçsuzlüümuz u, biz borçtan çok korkan bir ya pidayiz. Ödümuz kopar borçlu olmaktan. Mahin iz var, boreuniuzu ödeyemezsek malimiz gider diye yerimizde saydik. Ama onlarin kaybe decei bir ey yok. Onlar böyle borçla çok mal almaya hücum et tikleri için ... Çünkü kaybederse baka yere göçer. Bizim gidecek o l duumui yer olmadi  i için biz hep temkinli davraniriz. Bunun için de pek bir iki adim one gidemeyiz yani."
+Arazisini diandan gelen birine otel yapilmak üzere satar arna en büy ük arti o arazinin kapisinda bekçi lik görevinin kendisinden ba kasi na verilmemesidir. Bu, çokçarpici ve aci bir örnekti r.
+"[Didim yerlisi] onun bunun yaiiinda ça liiyor. Sai, tii tarlada bekçilik yapiyo r. insanlarin evl erini bekliyorlar, onla rin bahçelerine bakiyorlar: un lara bunlara bakiyorlar. Batan, bedava gin i i ii sanlari n yerleri ellerinden. Bilmedi insanlar. Yani tutun zira atindan da çiktilar. T3r1asinl satiyor, gidip bir trak  tör aliyor. Ya kardeim, sen tarlayi satm ism zaten, neyi surecen ! Ama on un öi.lem i vardi daha ewel ond a. Hayvan çi ftliinde ey yapiyordu, 'ah bir trak · törüm olsa' diyordu. Ama tarla gitti, sen traktörü ne yapac3n. Böyle, bilmediler ellerindeki paraYL.. Ki misi minibüs aldi. 2S-30 tane minibüs çaliiyordu. oraya birço~ minibüsçu oldu, Birbirll?riyle rekabet, birbirlerini batirip gittiler orada'" (Göç 2014).
+
+Deeri yüksek olan tarla sin i bilmeden dii ük de erle s atar, a ncak ken d ini ekonomik açidan güçlü
+hissetmek ve öküzlerle tarla sürerken he p özlemini duyduu için hiç tarla sü rerneyecek olsa da kendisi ne traktör ahr. Kendine baini sokacak bir ev dahi alamadan, ~araziiii i satmasam çocuumu evlendi· remem" düün cesiyle sattii arazisinden elde ettii parayla ço cu klarini evl endirir. Erdinç Göç yi llar yili gözlemledii bu du rumu üzüntüyle öyle akt arir:
+'"imdi de öy le, dedi im tarih le rde birçok kii bura da arazisini sani mesela. Sattiklan sonra traktör al di , ne yapacain i bilemedi. E senin araiin yok, trak tö iii iie yaracan? E imdi her evde nufus kalabalik ta bii, a lti çocuklu olan var, yedi çocuklu olan var; ~e kiz çocu klu ola n var. S 3ti la n paralarla çocukiarini evlendirdiler. Ev dahi almadi la r, a lacak göçleri yok. Yani o dönemde araziler de para yapmadigi için, sa· dece ço cukl<irini evle ndirebilm i l er. Onun haricind e bir ey yok ite. Olanla r da dedi~m gibi ite. 'N as il olsa benim belediyeden maa im garanti. u kadar para a liyorum, e ticare i yapsam belki bunu kaza na -
+1 1ll3YfH.:aim duüncesinde. [... ~ ite ma.ilesef bura
+daki yerli, kendi in san imiz bu allhnii yapamadilar. Hep korktular, ha kilybetme korkusu ile ' tamamini kaybederim. I i eelimde tulamaiii : Maalesef...~
+1970'li yillarda ba layan bu süreç i 980' ]j yillarda da devam eder. Az sayida yerli, turizm iin e girer ve oradan önemli kazançlar sa l ar. Tüin d e erler Di dim köylltsü ne aitke n, turizm sektörlinde atilimlari genel  likle iç göç ile Didim'e yerleen kesim tarafindan yapi  hr. Didim yerlisi turizm sektörüne girse de ya birakir, ya bakas in a devreder, ya kaybetme korku suyla i  leri ters yöne çevirir, ya kisa zamanda çok para kazanina yi hazinedemez ya d a kardele ri ile mal paylaimi ne deniyle sikintili zamanlar geçirir. Tüm bunlarin sonu  cu nda Didim'in e n zorlu zamanlarinda ayakta duran, birbirine kenetlenen halk, varlik zamanlarinda farkli bir çizgide yürümeye balar.
+"'Maalesef ite burada ki ohiy u,  im di buranin yöre insani yerli turiz m. '7Q'Ji yillarda balam i  ve bura  lari tabii, mes ela u bulul\du~lImu"l alanda. hiçbir ey yetimez. Çünku sulu batak, sulak yerler, Iiiz lu
+yerler... Dolay i s iyla, buraiiin halki tütünculukle lig·
+rairdi. tütün tarlalari hep yukaridadir, kiraç yer· lerdir orala ri, bural..irina deersiz olarak gorduk leri nden, turizm olgusu da olmadi inda n , ileriyi de göre niediklerind en hep el den çikarimi  lar. Dolayi ' siyl a butün u and..ik i yatirimcilarin yuide 9 0' rnd..in fa7.lasl hep Didim diindili] ola1\lal: Didimli olarak bir bel) varini, bir belki, [oplam 10 kiiyi geçmez, tesis sah ibi olan: (Adniln i\ydogan).
+
+146
+
+i
+
+·
+
+Arzii Teker
+
+"ETONLAMA ...
+Sokaklarin dar karmai k. caddelerin çok silaik, Görmek isterim seni pk, i iten geçmeden Didim.
+Havan serin, suyun serin, insan dolu sahil/erin, Koyloryalonci cennetin, miijdesi gibidir Didim. Hak ettin mavi bayrai, kiymetini bilen var mi?
+Mavln miras ka/rr mi gelecek kuaa Did/m. Bir zaman/or çakyeildin. bilemedik hiç deerin.
+Daha/azla beton için,yeii! bitirdik Didim. Dr. ibrahim Karaer
+Kamu eliyle be ioii lama 1984 yi li n d a Mkooperatifle mew adiy l a balar. Sahil in en güzel yerine KParJameo terler $ites( adiyla bir proje uygulanir: Bu projeye göre 30 ha arazi üzerinde 1983-88 dönemi millet· vekilleri içi n 354 adet her biri 142 mi, ikiz tipte, iki katli t.1til konutu ina edilir2. Didim geliimi n e katkisi olacai dü~ünülen bu evlerin yilin belki de ya lni zca birkaç ayi kullanilmasinin getirileri, yaratti ~ i görü nt ü kirliliinin üzerinde deiL.
+"Kooperatifler herhalde 'SO'li yiiiarda, Özal zama· ninda baladi, 84'ten itibaren, kooperatifler moda oldu, o zaman için. Herkes bir yazlik, bir ev... Sahil· lerin zaten beton yiinina, katl edilmesine onlar se· bep oldu. O güzetim sahiller ko operatiflerle, yazlik beton mezarliina döndü. Çünkü on lar bir aylik hiz· met veriyor turizme. Bir aylik için o evler ölü y:iti · nm." (Aydoan 20 14).
+Didim'de yaanan betonlamanin etkilerini Ekrem Aik ça rpici bir ek ild e öyle aktarir:
+"Burada yeni yapilan hinalariml1. kalite li, 3.. i dai· reyi 80 bin liraya, 90 bin liraya :ilabiliyorsun . Bele gibi bir ey. Bu da eiiteresan bjr göç oluturdu. yani bu kadar ucuz bir daire olduu için dier sahiller· de bun u alma imlclni o lmad i i içi n biraz orta. sinif göçler aldik yani. O zarari da oldu. imdi duun e· bil iyor musun bir taiie evi olan a rsaya 26 t<i ne daire oluyor. Tek katli yere 26 daire oluyor. Eskideu bizim sokakta 13 ai le varken iiridi bakiyorsun üç evde o kadar aile oluyor. Bu otopark sorununu getiriyor. Kanalizasyon borul ari burada 150 bin nufusa göre döendi . Bu gi di le 500 bin de olacak, te krar bir alt yapi gereksinimi olacak Tr.lfola r yetmiyo r. Haliyle belediyemiz su boriilarini yeniliyor. s u la ri yeniliyor. Içme suyu yetmeyecek o sikinti va r. Ilalta Bepar mak Dalari'ndan su geti rm eyi diiünüyorlar. Haliy' le sikinti getiriyor nüfus arttikça:
+2 http://www.Jl\ ~ tu .com .i r/m imarli k/projeleusp?pid" 136
+
+G6rse/ is. Yonn]i ge ri çler denizde, arkada i 957 yilinda Öiel Idare tarafindan kurubn Altinkum Tatil siiesi-n i n inaali (Özer Aydo~an Koleksiyonu)
+Didim'de hazinea razisi nin gen i  olmasi ve baz i yer lerin s it a l ani ilan edilerek ima ra kapati l mas i Hilmi Yildirim'i umu tla nd inyor. Belki birgun, zararla r ge r i dönülmez boyutlara gelmeden bir çözüm bulunabile ceine o lan i nanci u sözlerden an l a i liyor:
+"Bir tek zengi n1i~imiz hala çok büyük bir hazine arazisinin bo olmasi. Ben ahsen kendim aç isindan böyle samim i olarak hakti~im zaman olaya. diyonim ki yani hiçbir ey yapmamakyani bir eyler yatirini anlaininda yapmaktansa hiçbir ey yapilmamasi belki daha evla. Önceleri kiziyorCiuk, masa bainda kararlar verildii için. ite mesela bir çizgi çiziliyor burasi sit alanidir deniliyor ve oraya hiçbir ekilde çiv i çakam iyorsunuz ya da ite burasi doa! parkii)" de nillyor, denizin içi bile bölunüyor böyle ve bunla· rin birçou masa bainda yapi l m a sinin ikayetl crini
+i.
+G6rs<:/ 26. Atllnkum sahili boyunca kooperatif evleri ((her A)iJotan koleksiyonu)
+
+147
+
+i
+
+Ikind H",,'.I[;;irin Kcnn ' Oidim
+
+\'e sikilitilann! yaiyoruz. Ama sonr.idaii bakl}'orum ki iyiki masa bainda da olsa bir yerler çizilmi \'e hiçhir ey yapilamaz halde . Boyle b ir yasal .?cy var, engel va r. Ya ni boyle bir yapilama yap i la(aksa 6yl~ bo kalsin, çahlik kalsin, bataklik kalsin çok daba iyi yani. Sonuçta çunkti omin nir daha geriye getirl?  meye ceiz ama hiç olmazsa belki daha Sooimi daha salikli düünen beyin!er gelir ve onlar daha guz el yatirimlar yaparlar Hi Ç() lma7,~ " b izim çoc u ld an ni i 1..(1 birakama d iklarimlZ! onlar birakmi;; ohir."
+BUGÜNÜN DIDiM'i...
+Sadei'e Allah'in verdik/er/yle ay akta diwmo)'Q çalian Dulim. Hilmi rildirim
+Bugun Djdim 73 bini aan nüfusurta "be kita 81 il
+den insan yaiyo r " de nilen bir bölge. Sakin bir deni· zi, alt i n renkli kti msahyl a dikkatleri üzerine çekiyor. Son 1S yildir betonlamanin etkisiyle hirpalansa da gelecekten umudunu kesmi deiL. Turizmde büyük umut vadeden bolge ekonomisinin sac ayak l arini in·
+aat ve emlak sektörü olutursa da turizmle ilgili soil
+yillarda ycipilan giriimler göz dolduruyor. 58. ve 59. Hükümetlerin Acil Eylem Plani'nda yer ala n "Turizm Kentleri Projesi" kapsaminda, Turizm Bakanlii"nca "Didim Turizm kenti" projesi yurutu l iiiesi. Aydin ·O i · dim Turizm kenti oluumuna yonelik vizyon g elit ir ' me çahmalarina balanmd si ve projenin ana tema · siiia ilikin ilkelerin ortaya konulmasi yatirimcilari umutlandinyo r. Bu projeye gore pro je alzi ninin "Mari' na Kent'· olarak ge l i tir ilmesi öngörülmü. Bölgedeki ark eolojik sit a l ;.i111armin marina alanlariyla b i rlikt e planlanarak. kültürel deerlerin markalamasina yo· nelik planlama stratejilerinin ge liti rilmesi hedeOen· mi. Kiyi gerisinde ise kiy i daki faaliyetleri destek le· yen golf alanlari. temali parldar, ge nçlik turizm i. s po r turizmi, eko turizme yönelik aktivite alanlari , konak· lama ünit~leri vs. yapilmasi planlanini. Proje kap ' saminda kiyiya yaklaik bir km. iizaklikta bulunan Panayir Adasi'nin ise Günübirlik Tur iz m Alani olara k planlanm a s i ya p i lm i  (23.10.20 i 1 Tari h ve 28093 Sa yili Resmi Gazete) .
+'<Didim' l ~ i l g i li bir turizm kenti fl roJ t'~1 o rtaya çikt:. Belk: iunini aiiI<i :ninda bir yeni bi r donem diye· hi!eceimi z a ~ linda g'.izel bir öngoniydii o. Fak ,ii hiçbir ~ekildl:'. hiçbir nokta5iYla. gerç ek li~ ) med i. Orada D i dim'in <Iit l yuk;m 22 bin do numhi k bir alan turizm kent projesi k~ps~mind a IUrizm e rh i konu ld u. B UI.l I<i r3 y;ip i lai:ak olJn bU lU n YJ p l lal~ bi · nal3rla ilgili olar<1k Tur izm Bakanli i ' nd,itl 17.in ali n ·
+
+DhUni Kültür ve Turizm Konini ... ve G e liim Bölgt!.si
+Tarihi ve külturel deerlerin youn olarak yer aldi  i. turizm potansiyelinin yüksek olduu yöreleri korilmak, kullanmak, sektörel kalkinmasini ve planli geliimi ni sa~lamak amaciyl a; Sinirlari Bakanliin önerisi ve Bakanlar Kurulu karanyla tespit ve ilan edilen Kultu r ve Turizm Koruma ve Geliim Bölgeleri (KTKGB) oluturulmutur. Bunlar bölgesel ve ye!">'] kalkinmayi hedefleyen. buyük ölçekli planlama. alternatif yönetim ve i l etme modelle ri oluturmayi amaçlayan proje çahmahiridir. Bahsi geçen bolgelertn seçiminde organ· ize turizm faaliye tlerinin gelltlrilebileteii geni alan· lar te rcih edilmekte, mulkiyet, altyapi ve çevre gibi konular için de çözüni önerileri getirilmekte ve sis· temli bir yapilanma salanmaktarlir. Kultür ve Turizm Korum<'i ve Geliim Bölgelerinden biri olan Didim Kulttir ve Turizm Koruma ve G e li im Bölgesi yukarida bahsi geçen amaçlara matuf olarak tespit edilmi bir hôlgerli r. Bölgede en son hazirlanan plan ve proje çerçeveSinde Didim Parlamenterler Sitesiyanmda k.ilan 130 01 Parsel ve 13302 Parsel ve yine eski Koy Hizme tl eri Ka.i: i p1 olan 12662 ve 1007 parseller u~'e hölu ne re k ihaleye çikarilmi ve ihal!' çerçeveSinde uhdelerll1de b lan i1 r.ili firmalara tahsis ilemi sürdurülmektedir. li ttp:!/www. aydinkiilturturizm.gov.tr/TR. 14283o/dirlim·
+Iwltur·wnim·gell~lm.hoIgesrhtml
+m.-isi 1:e oiiiin ongnn.I$!' ta!"".lIli da yapII3c;i~ Jil!<:>1" 2.: do i;unnin i~inceJ.,;l b uyiik bi r kisinmi. ;i~.i~i :; ,k.ir. 2 1 ;!o n uni ti belki e yd i. ha'ôiii:- irilii~i y di BljrJ1JI~, da dUI'del; b e ~ e l" bin donünikk al<lI1I,1I".1 ;1...-nlI'1 ;$I: EliniM ihalcye pk"r;;ik biiyi.ik 1\II'i z11l ya li riiiin i ,i i" Il.i d:l\'et edi lec e k ve o r.id~ i:iiy~i k yi ritim l " r )"Jri:~,:ik tl. Yani be lk i o n i..i ii ik bir egl e ni f' . arkd$lIod .. h<::ii:i2ii ar ka si nda ona bali ol .i. rak bir ot~l kcn~('i'ti \"t" ,I ,1\.1 3 rka.~in dJ da o 01"'11:"1 tem As m;i urgun ark,,,-!,! tb hir ba ka b i r te ni a. Dan" cok te i~ia li otell ~ r pIJiilJ.i'Il/,il D/dim'de. Bu 20 02 Yi ll A ri n i n b ai;i d<i ~HlZ IÜn~1" h u '
+projevdi ve D idini'd e gcil f (mülil i :~ ci nu i ili ll",;i 'dd
+Gol: :i. l anl:iriiim:l a il g ili. bur;ida oüy i;k bir alanina ] golf alani ,-)Iarak ay n lni <l.si söz ko;i l! .~i;ydii BilIllarin hiçbi risi g e rçekleinei.:i g~~ çekl e- } (' rnt'nit' ~t'h.,.hi, bt'nct' b irine: sebep p;.lZ.1fI,.;,ma ~ebehiydi Yaiii g:.' rl:'kel'. yeterli bi r piiarl,llTI.i za ten ~J.pilm::icii Ai k J ~l\d <;n va n fiili m:ik~;itii gele n ki~il ~ r D idirii'dt' k i ,i lty;i r;i eksi ki i i iii i<o :duler ve Didim' C: e btr YiJ t 1 ri rn )'J. pm ~ k için cr kc' ll ril (!Lli\I 'l'.1 Jli:;iindi;l"i B e lk i <, y,itirlnicil" r Did i ni\' () i y i li tr gelm eye bJ;;\J~,1yd l D i d i iii ke .1rii nr çeh i d u:;e'1 ·.-i;i rni ek tllecliurt\l:' t nl\i"
+hi<os",ut'io:kti kendir,i Didim ayri: O;Ull'SUl ~di~ii:ii·
+ni bir u r gib; devdm etWlYN .!I5. it:dJ ~JkJrsanii s~y
+.. YQiiuyle. t ~r.zm , on,iyle i.i ktcgim,z Z:,rll J Il iiii"i"l.rn,.
+venli gi B , dr yi'm uy!.:- b,ikt\giiuz L~ :nan. B e:ki t~ p 'Ô"· den iniii~. o huyu.k v;:t li :ni1Jr ~ " : m'cF" I'~ hiil i ktt m!
+
+148
+
+eski turizm an layi i da degiir diye düüiiuyonim." (Yildirim 2014).
+Turizm Bakanligi'nca Didim'de turizm geliim i ne ivme kazandirmak, ni telikli turiz m tesislerinin ya pi hiiasin iii salamak amaciyla alt bölge içerisinde yer alan Ha zine adina kayitli tainmaziarin a li bölge sinirlari diina çi karilarak turizm tesis alani ol arak plan la nma s i ve müstakilen ta hsis amaçli d eerleii dirilm esine olana k salanmasi hedefleniiii olup, alt bölgelerde arazi tahsisleri yapilmitir,)
+Didim h alki, da ha içeriden gözlemledii Didim'in genel durumunu yorumlarken yill ard i r s üregelen yapdamayla ilgili sorunlara iaret e d iyo i: Estetik yö nü nden kötü yapilamaniii yillar y i li d evam etmesi ve Didim'in ana karakterlerinden birini olnturan hü kümet evlerinin old uu bölgeye inaatl a r yapilm as i Didini'e yap i lmi bir h ak sizli k olarak görülüyo r. 800 m' içerisind e yer alan 24 dairelik binala r tüm Didim merkezi sarmi du ru mda, Bu bina l a rin aras in da bir seb eple 1962 yilindan bugüne kalan evler, çöld e b ir vaha gibi gö rünüyor. Belki miras payla  ma kayg i si belki de geçmiine b ali bir yalinin hati rin i kirmama hassasiyeti neden olsa da, Didim'in eski günlerini ha tirlatan bu yapilar o günlerin deerini bilenlerin içi ni siz l atiyor. Bu ma n zarayi görünce içi sizlayan Öze r Aydoan Oidim'in bugünkü durumunu u sözlere
+sidiriyor:
+"Eski Didimlil e rin elinde u anda arazi yok. Ben sanmiyorum, elinde 20 do iuim yer olan Didim'de yo ktu r. Bunu iddia ediyorum. Hiç sanmiyorum kal· sin , Bu biraz dediaim gibi inaat se)...-iörüne, turizm sektörüne kurban edildi diyeyim. Çünku tamam, bu da bir dee rdir sa t ildiinda iyi bir yatirim ya parsaniz bu parayi ama o para biraz çarçur edildi, gini Didimillerin elinden. ilk dönem hep sati lan yerlerden traktör alindi. Kalan be lira, bu traktörle ilenmeyecei için, traktör biraz bin me ar.m olarak kullanildi. Sonra o da satildi. Sonra taksi a lindi. Son ra çocuklar arasinda bolündü, Çoc:iiklarin çoc:iiklari olunca o daha da buyuk bölünme getirdi. Böylece yava y.iva o sureç sifira doru yaklati."
+Farkli bir açidan b u konuyu deerle ndiren Adnan Aydoa n, u manzarayi gözler önüne sere r:
+"Didi m'de ki sikinti , kiiler kendilerini yenil eyecei halde yani ben turist! tesisime nasil getirebilirim
+3 http ://y igm.ku1turturizm.gav.trj TR,978 4 /d id i m. t urizm.ln'l1!i
+html
+
+d üü n cesi olmasi lazim normal a rt larda, Il e yapi yor, yan otel kaç liraya verdi, 100 liraya, ben onun mü terisini nasil çalabilirim, 90 li raya, 90 lira ya piyor. Tabi bu fiya t duurmenin lim i!i yok artik, o ona o ona, derke n birden bire... imdi ilk Ingiliz turist 13,5 pounddan geldi buraya. 13,5 pound çok iyi pa raydi o zaman içi n ]lound ço k daha deerliydi. alim gi.icü fazl aydi yani. 13,5 pou nddan bu oteller rekab eti dolayisiyla be poundla ra dütü. E bu sefer ne oldu, kar orn nlan ters or.intili i ledi, Dolay isiyla unu herkes anla d i tabt!, ne yapli o adam, çok ucuza verdI. bakti ki otdim dolu zannediyor. fa kat otel es kiyor, yenilemeye kalk tiginda bir bakti ki üç be sene son ra oteli harap bale ge lmi, yenilemeye çalititim da gücü yetmiyor, ba nkadan kredi aliyor, bankadan kredisini faizini ödeyemiyor, otelini elden çi ka r mak zo runda kaliyor veya bir rriüteahhi d e veriyor, y ikiyor... Bu ekil d e, Didim'deki u an dak i yaanan olaylar bunlar. Oteller birer birer elden çikanhyor. yiki ilyar. Biz ta bii bu Didim bölgesi için ele aliyoniz
+bunu. [...J Ben geçen sene Turizm Bakanligi'na, bi r
+ii m vardi glttim,or.idayatirim u1.man lanyla görü' tiiümde, senin hiç mi aklin yok, dediler, dört tane otel yapmisin Didim'e, dediler; Oidim gibi bir ye re... Demek ki Didim diaridan pe k iyi gözükmüyor:
+Hilmi Yildirim da seyirci ka l a m a d ii bu manzarayi ço k çarp ici bir e kild e öyle ta nimli yo r:
+u anda Didim sadece ve sadece All ah 'in verdikle· riyte ayakta duran bir kent aslinda yani güzel bir hava, güne, de niz bir de atala ri m i zi n diyeli m ve yahut da tarihin bi ze birakti gi ite guçiu bi r miras olarak dii ünuyonim bunu, Apolion Tapina~i'ni, bunlarla ayakta duran bir ken t. Ama biz Didim'i her geçen gün daha kötüye götürüyaniz. yaptiklarimiz Ia. Hiçbir ey y'apmamak belki de en iyisi yani. yani u haliyle bile kalsa, birisi hir b.ka  eyi yapmasa Didim'e dah a bir iyilik yapmi olacak. o noktadayi z
+aslinda ."
+NEDEN OLMASiN ...
+Gülltik Körfezi'ni çevreleyen iki yarima d a d an biri üze rinde yer ala n Didim, 53 kilOmetrelik bir sah il eridi üzerinde, onlarca kaya sahip. Didim, uzun ve kum lu plajlan, berrak mavi denizi, ziya,ret edilebilecek ta  rihi harabele ri, buraya özgü. yil d a yüzlerce gün eli gün alan mikro iklimi ve ye rleim cil e ri n ocak ayinda bile su s porl ari yapabilmesine ve ünlü ptajlann da n faydalanmasina olanak ta riiyan i lik kilari il e öne ç i kan bir bölgedi r. Oldiin ayni za m anda Bafa Gölu doal pa rlu, Mil etos Ant ik eh ri ve Priene Aniik ehri gibi bazi ant ik ehirlere ve doa l harika lara da yakin bir
+
+149
+
+i
+
+i
+
+I1UJl(1 H;iyiil.inn Kenti 'Dici,,,,'
+
+konuinda.4 Sahip olduu dogal ve külturel kaynakla rin yani sird Didim'in turizm kenti ilan edilmes inin ardindan, bölgede ya p imi bitniek uz ere olan Turizin Yatirim Be lgeli tesisler ve yeni tahsise s.1k:iirilml~ olan arazilerin yatirima dönu:mesiyle heiii Didim hem de Turkiye turizmi için oldukça buyuk kazanimlarin onu açilmi:tir. Plan lanan yat irimlarin gerçek l emesi neticesinde Did im. dünya destinasyonlan arasinda bir llIark..i ~eh ir olarak kendisini göstermeye aday
+olabilecektir.s Bazi sorunlar. gecikmesine neden olsa
+da Didim'de bir yat limani açilmasi bolgenin umarina kent H kimli ~ine kavu:masinda yardimc.:i olacaktir.
+"Özellikle Aydin Buyukehir Belediyesi Bakani Öz· lem Cerçio~iu bizim bu beldelede ilgili. Kuadasi ol· sun, Didim olsuo iyi eyler düundilunu söylediler. Inallah faydali eyler yapar. Dediim gibi ite bu çarp ik yapilamaya b ir dur d iye bilir. inp.llah engel· leye bili r. Bir iertip duzene sokarsa ben i naniyoruni yani Dldim ge rçekten gu1.I"1 gerçekten mukemmel bir yer. Yani tatil yeni ben birçok yeri gezdim bir· çok yeri dolatiin. ,'ma buranin deniz i gibi buranin kumu gibi hiçbi r yerde ne deniz gordiim. n{> kum gordilm a ç ikç a s i bu. H{>T eyiy l e mlikemme!, cO$:ra' fi ba kim indan hemen hemen dört tarafiniiz deniz yani çevriil. 55 km sa hil bandim i z \·ar. çok giizel koylariniii var. Her biri birbirinden ayn özellikJerl t a$ iyo r. Yani ite bur"nin iyi taniiimi yapilarak. iyi rekla mlar yapi larak daha guzel nokt.. l..ra geleceI nE' inaniynrum. Am .. biraz da ite insanlarin. Qzellik le iletm ec ilenii biraz daha duyarli olmasini , sadece parayi du unniE' iii e l en ni Didim 'e verdikleri hizm{>ti on planda tutmalarim. Did ini'j daba bir refaha ta i' malari i Çin yani bUt\1II v.. r gii çlenyle çalimalarini d ile rim . Inallah byle olul:- (Goç 2014).
+Didinfin gcçrni~i gibi gorkemli bir gelecei olmasi gerektiine inananlar ve bu yönde çaba gösterenlerin sayisi azimsanmayacak kadar çok. Didim yerlisi olan veya iç göçle gelen ve bölge turizminin nabzini tutan birçok iletm eci, bu konuda kafa yoruyor. Yerel yo· ne timin gösterdii hassasiyet de umutlari artiriyor Hilmi Yildirim , hiçbir ey için geç olmadiini u one· rileriyle anlatir:
+-Didim'de bana gore ciddi anlamda turi zm in bun· dan sonraki ya p ilaninasind a bir kentsel dönuiinie ihtiyaci var. Yepyeni turizm alanlarinin olum..si ve bunlar tam .im en eye tu ke ticiye veya i u risie
+4 www.,lidim ner~dekalrQm
+S tm p;/iw...·w ;iyjJin i ik l~,lber c()inl~ki;ikka·didim·dunya - markasi ola.:ak·427 i 9h htir.
+
+sunacaklan hizmete gore ayri ayri alanla,ra yayii·
+masi gerekiyor. I.. ) D idim' in iki ônemli belki de uç
+
+onemli alanda, turizinde atilim yapabilme ansina
+
+sahip. Birinci Si tarih .i.nlaminda, çuiikU biz dunyOl'
+
+da b irço k yerde çok az sdyida da olsa be, alii taM
+
+sanin m Apolion Tap ina ~i \'ar Ama Didim'deki en
+
+es k i tapinak ve inanç turizmi anlam inda önemli bir
+
+unsur. [...) Dtier bir o nemli hu~llsta D id im' in salik
+
+turizmiyle a laka li kismi. Didim'de iki ~ekliyle salik
+
+turizm i on plana ç i kar ilaoiltr. Çunku Didim'de bizim
+
+en buyilk problemimiz turizm sezonunun kisaiigi,
+
+aslinii bakars Mir!. , t"bli bizini hütün u anki il et·
+
+medlerimizin hepsi belirli bir seviyede ve belirli bir
+
+rakarninda oldukbi rini dil  unüyorlar ama biz rakip '
+
+leriniizle mukaycse ~aigjiniz zaman hiç öyle olma·
+
+dii da ortada. [.. 1 5iilik turizmiyle alakali olarak
+
+da iki anlainadd bil Didim'm çek onemli bir mevzu:
+
+Didim oksijen o rani yultsek, ite ne orani düük de·
+
+nizi n karadan denize dOru esmesinden, bunu belki
+
+de urdda oturan herkes soylem i tir. Ama bir baka
+
+onemh ey, bizini soyle m em izin hiçbir anlam i yo k,
+
+bunun tescilli h..le gelmesi gerekiyor. bunun kitap·
+
+lara geçmesi gere kiyor. I t e salikl a ilgili kurum
+
+ve kurulularda Didim'in adinin bu ,inlamda tescil
+
+I...] edilmi 0 11110151 gim~kiyor.
+
+Didire'in havasi. aksi·
+
+Jen ora ni yuksektir, bunu bilim ad.imlarin!n tescil
+
+IemE's i gerek iyor. Ve ge rekli tunzmle aloi.kah, s a lik
+
+turizmiyle alak.i[. yerlerde artik butun kltap ldra
+
+geçlyol' \'e onarimi bir milrka haline ge~mesi gere·
+
+kiyor. Biz bunu yapm adi ltim i i muddetçe sadece ko·
+
+niimaktan oteye bi r adim at niami  oluyoruz_~
+
+Zengin jeotermal kaynaklara sa hi p o~an Aydin ilin· deki ie r ni.:il sularin bir proieyl e Didim'e getirilir.esi. Hilmi Yildirim'in bir dier onerisi. Didim'de 10 bin nitelikli yatain hizmete sunu lma si planlaiiirken ter· inal turizm alaninda da atilimlarin yapilmasi gerçege uzak deiL.
+Ekrem Aik kaba bir hesapla Didini'oe yazin bin· lerce yumurta ve tavuk t tiketil dii ni. gunltik tonlarc.. domates tuketildiini buna kar in tJvuk çift likleri ol· masi gerektigini, tarim alanlarinin imara açilmamasi gerektii ni savunuyor. Tarim a l :iinlariolll ayri, yerle·  im alanlarinin ayri ekilde plan/anarak D idim'e boy· le bir katkinin ya pilabileceini be li rtiyor Yerel yone· time de bu konu da guveniyor:
+
+·St'hzeyi elt' Ölhisak heni behrh tarim belgeleri n 1 ill1ara açmamak laziiiidi .ima bu nu Didim'in y~rle· kesillde yapniak munik~J n d,:>gil. hiç ohn.lzsa civar koylerd\.' yapil;ibilir. heniii vaki l g~çmi de~ii Ta· r imi ayri. ver l eim yerlerini ay ri planla.mak l azim O i el yel'lerini ayri planlamak l azim. raiii bir butun o br.ik ei.. ahrsJk daha iyi olu r. imdi rerel seçim·
+
+150
+
+i
+
+· 
+
+
+Arzu Tok~r
+
+de guzel vaatleri var adayiann. Hakkaten o l aylari biliyorlar. Inallah hayata geçirirler yarin öbür gün. Mende res islah edilmesi gibi. Eskiden öy l eymi."
+Erdinç Göç, be yildizli otel yatirim ta lepleri ni rahatlikla karil ayabilecek yüzölçümüne sa h ip Didim'de bir noktada yatinmcilard sesleniyor. Kuru bina kalabalii deil, Didlm'e yen i b ir soluk getire cek kaliteli tes islerin turist profilini de deitirecei
+inancinda.
+"Didim'i n kapa si tesi buyiik. alani buyük. Burada imdi, bir sekiz 10 tane be yild i zli otelolmu olsa, Rus'u da gelecek, baka ulkelerden baka insanlar
+da gelecek. (..-1Yam ben bilmiyorum. öyle yedi se
+kiz iane be yildizlt otelin olmasi buradaki birçOk eyi dengeleri dei t l reCl.·~i ne in~niyorum:
+Adnan Ayd oan, Didim'in en büyü k tarihi ve kül
+türel deerlerinden olan Apolion Ta p ina i 'ni n kül iür turizminde ön plana ç i karilarak plan yapilmasi gerektii gö rüünü savunuyo r. Zeytiiicilik alaninda biiyuk aama l ar kaydedilmesi, tarim sektörünün de canlanarak bunun ana ekonomik sektörlerden biri olabilecei umutlarini canh tu tuyor. Adnan Aydoan da Didlm'ln geni arazilerinin d oru planlarnayla tu rizme kazandirilma s ini vurguluyor:
+"Bu.gun içIn Apollon Harabeleri dünya çapinda bir tapinak. Didim daha planli, daha organi ze olmasi lazim . Yani geç kalmi d ei L. Diditii'de bo arazi çok oldugundan. çok güze l eyler yapilabilir. Ya za ten ne oluyor, eski oteller yikiliyor, eski binala:- yikilmaya balaiidi, güzel guzel binalar yapilmaya balandi . Bu zamanla mecbur hale gelecek. Çünkü deiim onu gerektirecek.I ...j Didim'de zeytincilik alaninda bii  yük aamalar kaydedildi. Dalar talar hep zeytinJik oldu. O makilik alanlar sökuldü. zeytinlik oldu.
+Hilmi Yildirim da tarim faaliye tlerinin artmasinin Didim'in ekonomik kalkinmasina faydali olacai ve Didim bir bina mezarli i olmadan çözüm üretilebi leceini dü ün uyor. Tütün tariminin yiprami köy!li yakalad i~i ilk firsatta, tarlalarini bilmeden deerin den satsa da, bilin çlenen dier kuaklar d a li a iç ke simle rden tarim arazisi alarak Did im'de daha salam bir konum elde etmeye çali iyor.
+"Yeniden o arazi d eri gelen çOCUklar i t e anne ba' batarium s<itti i yerl ere kari lik baka yerlerden, Oidim'in dah ,i iç kesimlerinden i~te Akkoy"den, Akyeniköy"den belki daha ilerlerden I4lnm sal fa aliyet Için araziler almaya ba ladilar ve en çok da burada Oidim'de toprak reformu nun cidd i bir çali
+
+masi oldu. Ve toprak reformu çok büyük alanlarda ama Didim'in iç kesimlerinde bir yeil kuak olu turdu aslinda. Ve özellikle hiçbir kaydi olmayan, si gortasi dahi olmayan köylu va tan d aa yirm i sekizer dÖnum tarimsal faaliyet maksadiyl a arazi daglUi ve buralara da zeytin ekmeyi mecbu r etti. Ve u anda aai yukari bir milyo n;i yakiri zeytin aacim i z var Didiin'in sinirl ari içinde ve daha iç kes imde bu. Böy le bir tarimsa l faaiiyet dogmu oldu. Burada da tabii bir yanlendirme yapilabilir. Bir taraftan da biz hala Antalya'dan domatesimizi yemek zorunda lGilma miz gerekird i . ÇünkCi hala sulu tarimin yapilabilece i alanlar var. se racihgm yap i labilecegi alanlar var ve tarimsal faaliyet yapan birçok insan da bundan çok az gelir elde ederek eyini sürdürüyo r, hayati ni sürdiirüyor, idame ettiriyor. Burada tabii bilinç li bir... Bu anla mda da bir bilincin oluturulmilsi gerekiyor."
+Didim için yapilacak çok ey var. Doan in , tarihin, cordfyanin, t oprain ço k cömert davrandii bu ya rimadanin hak ettii kon uma ula  masi hiç de zor de iL. Yillari n , depremlerin, binalarin yiprattii ama bir o kadar da zengin deerlere sahip olan 16 bin yil d ir varliini sürdüren bu corafya, b undan son ra da di renmeye kararli. Her ne reden gelmi olursa olsun, o topraklardan rizkini çikara n herkesin bilinçlenerek adim a t masi artiyla Didiin'in dier popüle r dest tua s yonlardan daha öteye tainmamasi için hiç bir gerek
+çeyok.
+
+KAYNAKÇA
+
+Eser Kay mikla r
+
+Ari , K. (l99S). Buyuk Mubadelt ÜJrunlu Go~. Istanb ul: Tanh Vakfi
+
+Yu ri Yayinlari.
+
+Aydo~an, Ö. (2006). Yoran'dan Didim'e Oidim: Klasika Görsel Sa·
+niltlar tieti~ ;m.
+
+Bilgin. M. (2013). Biiyuteç Altinda D/dim. izmir: i:;VS Yayinçilil\.
+
+fonte nruse, J. (i 988). Didyma ApaJ/o's Oracle, Cul! o~d Compri~io~s.
+
+of Unil'ersiiy Califor nia Press.
+
+Konak. A. (2002). Sosya l AritropoJaj ik Yakbimla Yenidl'n Yl'de·
+
+c.v. tlrnit' Uygulamalannui Kari latirilma li incelenmes i (Yeii i
+
+sam sat. Reyhanli/Vaivaia, Yiiliköy Ornekleri).
+
+SQsyal
+
+8i/lmll!r Der.iiis!. 26(1): 61· 100
+
+Setl'r.1. (201 I). Didim - Milas Kiyi Kuairida Turizm i'e M ekfins al
+
+Et kileri. Sos}'al BilimIn Enstitüsii Cografja Aiiabilim Dali Ya 
+
+yimlanmaml$ Doktora Tezi. Eriurum: Afatürk Üniversitesi.
+
+r.c. Resmi CaZNesi (23.10.20 II). S~yi: 28093
+
+inte rnet K:iy na k lari
+
+httii: //w ww.aydinllkliaOl'r..::oin/akt:ikka· didiin ·d u ny:i.· m~ rkas i 
+ol:içak·42719h.litm
+ht tp, /Iw,,"'w.ayd InkuItii rtu ri znq.:o,' tr ITR.142S 361 d id im· kultiir
+tu rizm.gelisim -b olges i. html
+
+151
+
+i
+
+[Io,ie; H~y~\)ann Kenti ' Didim
+
+http:// www.birgu n.ntl /habe r·detay f d idim 'l-yagmalaya bilirl er '
+ml ,10337.html
+http: / /didim .neredekal.com
+http://edeblyatdefteri.co miSiir/ 817842 Iyesil i- bltirdik-d i dim. h<ml
+http: //kataiog.tlevleiarsivierl.gov.tr i cumhuriyet/ arsiv.aspx
+http:// www.matu.com .tr/ inimarHk/ projeler.a sp?pid = 136
+h ttp:ffyigm.ku Itu rtu ri7.m.gov.t rj TR,976 4 1d id im ·turizm · ke nti html
+KAYNAK, KiiLER
+Aldemir. i. (D.T.: 1942). IlkokuL. Didlm.16 Ekim 2014 tarihli Söziii gÖtü~me. (Gorüen: Anu Turan). 
+
+Anlla. H. (D.T.: 1952). lise. BingöL. 14 Mart 2014 tarih li sözlu gö 
+
+rüm e . (Görnen : Ariu Turan). 
+ Aydo~an. A. (D.T.: 1962). L i sans. Söke. 14 Mart 2014 tarihli sözlu göriime. (Grinien: Hüseyin Öney). 
+ Aydu~an, Ö. (D.T.: 19S5). Lisans. Oiilim.16 Ekim 2014 tarihli sözlii 
+ görnme. (Görüen: Arzu Tur.ln). 
+
+
+Aik. A. (D.T.: 1953). ilkokuL. Oldini . 19 Ekim 2014 2013 tarihli söi' hi görüme. (Göiii.en: Anu Tumn). Aik. E. (D: i:: 1950). Hkoku l. Didim. 10 ~layls 20 13 taiihli sözlü gö ' rüme (Görüen: Arzu Turan).
+Bankol!!i . S. (D.T.. 1950). Lisans. fubzun. 15 Mart 201 4 tanhli s6z · iii görüme. (Goruen : Buseyin Öney). 
+
+Bilgin. M. (D.".: 1947). E~itim Ensiitüsu . Söke. 11 Ekim 2014 tarihli 
+ sözlü görü$me. (Goriien : Anu Turan). 
+
+Cengii.. 1: (O.T.: 1963). Use. Ko nya. H Mart 2014 urih li sözlü gö rüme. (Go rnen: Arzu Tura.n). 
+ (j/lç. B. (D.T.: 1941). Ort:ioki.il. D id im . 2i Ekim 2014 tarihh soz lii 
+ gorume. (Goriien : Ar~u Tura n). 
+
+Göç, E. (D.T; 1966), Lise. Söke.19 M ayis 2014 tarihli soihl gorume. (Görüen: An.u Turan). 
+ Kir, . (D.T: 1920). ll koki.iL. Bu lgariSUn. 21 Ekim 2014 tarihli sözlü 
+
+gorume . (Gö rüen: Ariu Turaii). 
+
+l{(Ismez. T. (0.1:-1950) . Usans. Nevehir. 14 Mart 2014 tarihh $ôilu 
+ go rüme. (Görüen : ~lurie Mogol). 
+
+Yildirim, H. (D." ., 1966) Usans. Söke. 14 Mart 2014 tarihh söihi 
+ göiiime. (Conlen : H il mi R~fet yüncii). 
+
+
+KAYNAK KIILERiN ÖZGEÇMlLERi
+
+Adnan A iK
+1953 yilinda bugiin Didim olarak adla n dirilan Yoran Köyu'nde do~' du . Ilkokul eitimini Bölgenm tek oku lu olan ~'oran ilkokulu'nda ald ·. Çocukluk yalanildan itibaren tutün çiftçlli~iyle ugraan Ad  nan A1i k, gençlik yillaririda ohvede çalima,'a baladi . Bölgede turl7.miri geliimiyle beraber kah\'eleri n i restorana çevirdi ve ay ni restoranda ça h$maya de va m etti. Adnan Aik halen DJdim'de
+ya.imaktadir
+Adnan .i\YI)Or.AN
+1962 yilinda Söke'de do~du. Ilk. orta ve Iise e~\timini çocukluk 
+ ve gençlik donemlerini Söke'de geçirdi. Daha sonra Dokuz Eylül 
+ Üniversitesi Aydm Turizm iletmeci1i~i ve Otelcil ik Yuksek Oku · 
+ lundan mezun oldu Sirasiyla mo(amp i letmeöli!i, hah etlik. otel 
+ yatirim ve iletmecl h,i1:i yap ti. Halen Oiilim de sahibi oldu!ii ot elleri 
+
+iletmektedir. 
+
+Basri GÖç 
+ 194 i yilinda o zamanki adi Yeiiihisar olan Didlm'de dogdIL ilkoku · 
+ lu Didim' de; ortaokulu Söke'de tamamlad i. Ortaokulu bitirdikte n 
+ so nra tütüo zlr.iatiyla u~rat i. Sonraki yi ll arda devlet memuru ol 
+ du. 1990 yilindan beri Didim'de otelcilik sektöründe hizmet vereo 
+ Göç. halen Oidim'de yaamaktadir. 
+
+Ekrem Ai l(
+1950 yi linda o iamankl adi. Yen thisar olan Didim'de dodu. ilko kulu köyün tek okulu olan Cumhuriyet tikakulu'nd a okudu. ancak omakulda eitimin i yarim birakti. Çok lciiçük y"~ larda, 1957 r t· hnda köyün kahvesinde çayeil i k yapm,iy~ balayarak turi stlere h izmet vermeye ba ladi. Aile kokeni Selanik - Kav.ila'ya daYiln~n Ekrem Ai k. hal e n Oidim'de yaamakta ve resto raii ilet1TledJi~
+yapmaktad i r.
+Erdin ç GÖç
+Bul ir~ristan gdçmem bir ailenin ogiu olao E rdin ç Goç, i 966 y i linda Aydi n/Söke'de do~du. Ilk. or ta ve lise eti imii ni Soke'de aldi . 1988
+
+yilina kadar Söke'de ya ~.idi. sonrasinda ailesiyle birlikte Dld i m 'e 
+ yerl eti. Didim'e yerletikten sonra otelcilik sektorunde hiz1Tl et 
+ ve rmeye bala di. 1999·2004 döneminde belediye bakan y~rdim· 
+ ciligi görevin i yuriittii. Sahibi olduRu otelin iletm eciligin! sürdü
+ ren Goç, ev h ve iki çocuk babas idir. Halen Didim'de yaa maktadir. 
+
+Hikm e t AT IL LA 
+ 1952 yilinda Bmgal. IIbey'tle dodu . Il"köki"eiiimini Iibey 
+ IIkokulu'nda ; orta ôuenimitli Kigi Ortaokulu 'nda: lise 0treiiimi · 
+ ni iSt Bingöl !.isesi'nde tamamladi. Lise ô!retliminin ardindan 
+ Almanya).i giderek Frankfurt Üiiiversitesi"ne gitti an cak d ipl onu · 
+ sini almadan olnildan ayrildi Turizm sekt öriinde hi z met ve rm eye 
+ 1988 yilind.i Did im'de baladi. Ülkesel profesyonel tur ist rehbe· 
+ ri kokarii aldi ve turist rehberlti yapti. 1997 yilinda bir seyahat 
+ a(enta$1 kurdu ve inwmlrii; alaninda hiime t vermeye baladi . 
+ Didim Ticaret Odasi meclis i.iyeli~i . TÜRSAB bölgesel sekreterli!i. 
+ Almanya Seyahat Ace nla lan Birlii yurt dii kom isyon u gorevi ve 
+ Rehberler Odasi Birlii yedeküyeligi yapan Hikmet Aii ila. O idim'de 
+ turizm sektörü ne seyah~t aceotiicilii alaninda hizmet v ermey~ 
+ devam etmekt ed ir. 
+
+Hilmi YILDIRIM 
+ 1966 yilinda Söke'de dodu . Ilk ve ortaögremmini Didim 'de: lise 
+ öjrenimini Aydin l.i sesi"nde tamamladi. Ataturk Oniversitesi Di 
+ Hekimli~i faki.iltesi"nden mezun oldu . 1973 yilinda iunim ~ektri · 
+ runde a i lesiyle birlikte pansiyon iletmtdlii yaparak hi7.met ver· 
+ meye babdi . Üniversi te mezuniyet inden so ii ra Didim'de d i heki · 
+ mi ola rak da görev Yilpti. Didlm Ti caret Odasi Mecli s B~k3ni ol an 
+ H i lmi Yildiriiii. I!vH ve iki ço cuk babasidir. 
+
+iS m ail ALD EMiR 
+
+1942 yilinda o zam a nki ~dL YenihisJ,T olan Dldim'd " dogdu ,' I I~ s i 
+ Se lanik'ten göç e iii IIk(lkulu Yenih isar Hkokulu'nd" oki.im utlJl· ii 
+ koki.il\i biti rd i kte n s unra tütün zlmatiyla u~rati 200 3 yi lin dil ll b~
+ ri Oidim'c e çay bahçesi ile ten Aldem ir. ha len Didim'd e y~a mak· 
+ t.-idir. Evli ve uç çocuk babasidir. 
+
+
+152
+
+· 
+
+
+Arzu Tok~T
+
+Mehmet BILCIN
+1947 yilinda o zaman ki Ismi Yenihisar olan Didini'de dodu. Ai  lesi Selanik göçmeni olan Bilgin, Ilkolrenimini Didim'd~ Yenihis;ir jlkokulu'nda; orta Ö#rtnimini Söke Ortaokulu'nda tamamladi. Lise ötrenimini Ayd in'da Nai.iUi ÖAretmen Okulu'nda yatih olarak bitir di. Mezuniyetten sonra Ay,hn ve iZmirde uç yil il ko kul ô~retmen· li~i yapii. O yillarda öArelinen okulu mezunlarinin üniversiteye girme hakki olmadii için B~likesir Necati Bey Egitim Enstitiis(l'nü \(ai:;inmi ve sosyal bilgiler ögreime ni olank mezun oldu_ Oret menliklen emekli olan ve Didim'de yapyari Mehm et ellgin, evli \'C iki çocuk babasidir.
+Özer AYDDtAN
+1955 yilinda Didim'de d oldu. ilk ve ortacgrenimini Didim'de ta
+
+mamladi . !,Ise eitimini Söke'de tamamlayan Aydo~ri. üniversi te 
+ diplomasini Gazi Ünivenat.esi E~itim Fakültesrnden aldi Yaamini 
+ miizik ogretmenl olarak geçirdi ve ö~tmenlikten emekli oldu. 
+ Özer Aydoga n, halen Söke'de yaamaktadir: 
+
+Salih BANKOCiU 
+
+1950 yilioda Trabzon'da dotdu, Trabzon Lisesini bitirdikten son
+ n Eriurum Zinat Fakültul'ne gItti, Ziraat Mühend isi olarak Ta
+ rim Bakanhgi kadrosunda birçok ilde görev yapti. 1998 yilinda 
+ emekli olup Oldim·de yaamaya balayan B;inko~lu 2004 yilin· 
+ da Didim belediyesinde, 2006 yilinda Oidim Turizm Altyapi Hiz
+ metleri Birliti'nde göreve baladi , Halen bu birligin ba~kan l igini 
+
+
+yiinltniekiedir. ik i çocu k habasi olan Bankogiu halen Oid im'de 
+
+yaamaktad i r. 
+
+aklr KIR 
+ 1920 yilinda Bulgaristan'da dogdu, llIrotrenlmini Bulgaristan'da 
+ aldi, Bulgaristan göçü ile ailesiyle birlikte önçe izmir'e; ard ind:in 
+ Söke'ye ve nihayetinde Oidim'e göç ederek omya yerleti. Haya· 
+ tim çiftçilik yapara k kazanm i olan akir Kir. 2015 yilinda vefa t 
+
+eimi~tir, 
+
+Tan e r KÜSMEZ 
+
+1950 N eveh ir dokumludur, ÇO(1J!dutu, Konya, Kulu Kazasi'nda 
+ geçti, ilkokulu Konya, Kuhi'da, onaokulu da Krinya'da,liseyi, iini' 
+ versiteyi e~itimlnl Ise yurtdiinda bmamladi. Mühendislik fakül 
+ iesi inaat miihendisli~ mezunudur. Halen Didim'de yaamakta ve 
+ o le! i~letme c!llli yapmaktadir. 
+
+Tayyar CENG IZ 
+
+1963 yilinda Konya'da doldu, Ilkokul eti ilmini KonY'I, Almanya ve 
+ Ankan'da; ortaokul ve lise etitimini Ankara'da aldi, Turizm sek· 
+ törunde hizmet vermeye 1985 yilinda Didim'de oi elcilik yaparak 
+ balayan Tayyar Cengiz. 1989 yihndao beri seya hat açeritacili~i 
+ yapmaktad ir, TÜRSAB Kuadasi BVK yöneticiliti, Dldim Tiçaret 
+ Odasi meclis uyellti Ile TÜRSAB Didim BVK baka n hti gorevierini 
+ yiiröttü, Tayyar Cengiz halen Didim'de yasamaktildir, 
+
+
+153

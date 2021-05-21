@@ -1,0 +1,1143 @@
+djoko_laras@yahoo.com
+PENGHANTAR LISTRIK
+A. Pengertian kabel listrik Kabel listrik adalah media untuk mengantarkan arus listrik ataupun informasi.
+Bahan dari kabel ini beraneka ragam, khusus sebagai pengantar arus listrik, umumnya terbuat dari tembaga dan umumnya dilapisi dengan pelindung. Selain tembaga, ada juga kabel yang terbuat dari serat optik, yang disebut dengan fiber optic cable.
+Penghantar atau kabel yang sering digunakan untuk instalasi listrik penerangan umumnya terbuat dari tembaga. Penghantar tembaga setengah keras (BCC ½ H = Bare Copper Conductor Half Hard) memiliki nilai tahanan jenis 0,0185 ohm mm²/m dengan tegangan tarik putus kurang dari 41 kg/mm². sedangkan penghantar tambaga keras (BCCH =Bare Copper Conductor Hard), kekuatan tegangan tariknya 41 kg/mm². Pemakaian tembaga sebagai penghantar adalah dengan pertimbangan bahwa tembaga merupakan suatu bahan yang mempunyai daya hantar yang baik setelah perak. Penghantar yang dibuat oleh pabrik yang dibuat oleh pabrik terdapat beraneka ragamnya. Berdasarkan konstruksinya, penghantar diklasifikasikan sebagai berikut:
+a) Penghantar pejal (solid); yaitu penghantar yang berbentuk kawat pejal yang berukuran sampai 10 mm². Tidak dibuat lebih besar lagi dengan maksud untuk memudahkan penggulungan maupun pemasangannya.
+b) Penghantar berlilit (stranded); penghantarnya terdiri dari beberapa urat kawat yang berlilit dengan ukuran 1 mm² ­ 500 mm².
+c) Penghantar serabut (fleksibel); banyak digunakan untuk tempat-tempat yang sulit dan sempit, alat-alat portabel, alat-alat ukur listrik dan pada kendaraan bermotor. Ukuran kabel ini antara 0,5 mm² - 400 mm².
+1
+
+d) Penghantar persegi (busbar); penampang penghantar ini berbentuk persegi empat yang biasanya digunakan pada PHB (Papan Hubung Bagi) sebagai rel-rel pembagi atau rel penghubung. Penghantar ini tidak berisolasi.
+Adapun bila ditinjau dari jumlah penghantar dalam satu kabel, penghantar dapat diklasifikasikan menjadi: a) Penghantar simplex ; ialah kabel yang dapat berfungsi untuk satu macam penghantar saja (misal: untuk fasa atau netral saja). Contoh penghantar simplex ini antara lain: NYA 1,5 mm²; NYAF 2,5 mm² dan sebagainya. b) Penghantar duplex ; ialah kabel yang dapat menghantarkan dua aliran (dua fasa yang berbeda atau fasa dengan netral). Setiap penghantarnya diisolasi kemudian diikat menjadi satu menggunakan selubung. Penghantar jenis ini contohnya NYM 2x2,5 mm², NYY 2x2,5mm². c) Penghantar triplex ; yaitu kabel dengan tiga pengantar yang dapat menghantarkan aliran 3 fasa (R, S dan T) atau fasa, netral dan arde. Contoh kabel jenis ini: NYM 3x2,5 mm², NYY 3x2,5 mm² dan sebagainya. d) Penghantar quadruplex ; kabel dengan empat penghantar untuk mengalirkan arus 3 fasa dan netral atau 3 fasa dan pentanahan. Susunan hantarannya ada yang pejal, berlilit ataupun serabut. Contoh penghantar quadruplex misalnya NYM 4x2,5 mm², NYMHY 4x2,5mm² dan sebagainya.
+2
+
+B. Beberapa jenis kabel yang biasa dipakai dalam instalasi listrik:  Kabel NYA Kabel NYA berinti tunggal, berlapis bahan isolasi PVC, untuk instalasi luar atau kabel udara. Kode warna isolasi ada warna merah, kuning, biru dan hitam sesuai dengan peraturan PUIL.. Lapisan isolasinya hanya 1 lapis sehingga mudah cacat, tidak tahan air (NYA adalah tipe kabel udara) dan mudah digigit tikus. Agar aman memakai kabel tipe ini, kabel harus dipasang dalam pipa/conduit jenis PVC atau saluran tertutup. Sehingga tidak mudah menjadi sasaran gigitan tikus, dan apabila ada isolasi yang terkelupas tidak tersentuh langsung oleh orang.
+ Kabel NYM Kabel NYM memiliki lapisan isolasi PVC (biasanya warna putih atau abu-
+abu), ada yang berinti 2, 3 atau 4. Kabel NYM memiliki lapisan isolasi dua lapis, sehingga tingkat keamanannya lebih baik dari kabel NYA (harganya lebih mahal dari NYA). Kabel ini dapat dipergunakan dilingkungan yang kering dan basah, namun tidak boleh ditanam.
+Sumber : http://www.anekabel.com/product/2/5/NYA-Cable
+3
+
+ Kabel NYAF Kabel NYAF merupakan jenis kabel fleksibel dengan penghantar tembaga
+serabut berisolasi PVC. Digunakan untuk instalasi panel-panel yang memerlukan fleksibelitas yang tinggi.
+Sumber : http://www.anekabel.com/product/2/5/NYA-Cable
+ Kabel NYY Kabel NYY memiliki lapisan isolasi PVC (biasanya berwarna hitam), ada
+yang berinti 2, 3 atau 4. Kabel NYY dipergunakan untuk instalasi tertanam (kabel tanah), dan memiliki lapisan isolasi yang lebih kuat dari kabel NYM (harganya lebih mahal dari NYM). Kabel NYY memiliki isolasi yang terbuat dari bahan yang tidak disukai tikus.
+ Kabel NYFGbY Kabel NYFGbY ini digunakan untuk instalasi bawah tanah, di dalam
+ruangan di dalam saluran-saluran dan pada tempat-tempat yang terbuka dimana perlindungan terhadap gangguan mekanis dibutuhkan, atau untuk tekanan rentangan yang tinggi selama dipasang dan dioperasikan.
+4
+
+ Kabel ACSR (Aluminum Conduct Steel Reinforced) Kabel ACSR merupakan kawat penghantar yang terdiri dari aluminium
+berinti kawat baja. Kabel ini digunakan untuk saluran-saluran transmisi tegangan tinggi, dimana jarak antara menara atau tiang berjauhan, mencapai ratusan meter, maka dibutuhkan kuat tarik yang lebih tinggi, untuk itu digunakan kawat penghantar ACSR.
+Sumber : http://www.anekabel.com/product/2/5/NYA-Cable
+ Kabel AAAC ( All Aluminium Alloy Conductor) Kabel ini terbuat dari aluminium-magnesium-silicon campuran logam,
+keterhantaran elektris tinggi yang berisi magnesium silicide, untuk memberi sifat yang lebih baik. Kabel ini biasanya dibuat dari paduan aluminium 6201. AAAC mempunyai suatu anti karat dan kekuatan yang baik, sehingga daya hantarnya lebih baik.
+Sumber : http://www.anekabel.com/product/2/5/NYA-Cable
+5
+
+Beberapa contoh jenis kabel:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+6
+
+Keterangan gambar:
+1. Kabel NYA 2. Kabel NYM 3. Kabel NYAF 4. Kabel NYY 5. Kabel NYFGbY 6. Kabel ACSR
+
+7. Kabel AAAC 8. Kabel ACAR tampak
+dari permukaan 9. Kabel ACAR tampak
+dari depan
+
+C. Tabel 1 : Nomenklatur kode ­ kode kabel di Indonesia
+
+HURUF
+
+KETERANGAN
+
+N
+
+Kabel standard dengan penghantar/inti tembaga.
+
+NA Kabel dengan aluminium sebagai penghantar.
+
+Y
+
+Isolasi PVC
+
+G
+
+Isolasi Karet
+
+A
+
+Kawat Berisolasi
+
+Y
+
+Selubung PVC (polyvinyl chloride) untuk kabel luar
+
+M
+
+Selubung PVC untuk kabel luar
+
+R
+
+Kawat baja bulat (perisai)
+
+Gb
+
+Kawat pipa baja (perisai )
+
+B
+
+Pipa baja
+
+I
+
+Untuk isolasi tetap diluar jangkauan tangan
+
+re
+
+Penghantar padat bulat
+
+rm
+
+Penghantar bulat berkawat banyak
+
+Se
+
+Penghantar bentuk pejal (padat)
+
+Sm Penghantar dipilin bentuk sektor
+
+f
+
+Penghantar halus dipintal bulat
+
+ff
+
+Penghantar sangat fleksibel
+
+Z
+
+Penghantar z
+
+D
+
+Penghantar 3 jalur yang di tengah sebagai pelindung.
+
+7
+
+H
+
+Kabel untuk alat bergerak
+
+Rd
+
+Inti dipilih bentuk bulat
+
+Fe
+
+Inti pipih
+
+-1
+
+Kabel dengan system pengenal warna urat dengan hijau ­ kuning
+
+-0
+
+Kabel dengan system pengenal warna urat tanpa hijau ­kuning.
+
+Contoh :
+ Kabel NYA 4 re 1000 V Menyatakan suatu kawat berisolasi untuk tegangan nominal 1000V, berisolasi PVC dan mempunyai penghantar tembaga padat bulat dengan luas penampang nominal 4 mm ².
+ Kabel NYM ­ 0 4 x 2,5 rm 500 V Menyatakan suatu kabel berinti banyak untuk tegangan nominal 500 V, berisolasi dan berselubung PVC dan mempunyai penghantar tembaga bulat berkawat banyak dengan luas penampang nominal 2,5 mm ², dengan sistim pengenal warna urat tanpa hijau- kuning.
+D. Identifikasi Kabel Dengan Warna
+Peraturan warna selubung penghantar dan warna isolasi inti penghantar harus diperhatikan pada saat pemasangan. Hal tersebut di atas diperlukan untuk mendapatkan kesatuan pengertian mengenai penggunaan sesuatu warna atau warna loreng yang digunakan untuk mengenal penghantare guna keseragaman dan mempertingi keamanan.
+ Penggunaan warna loreng Hijau ­ kuning Warna hijau-kuning hanya boleh digunakan untuk menandai penghantar pembumian, pengaman dan penghantar yang menghubungkan ikatan penyama tegangan ke bumi.
+
+8
+
+ Pengunaan warna biru Warna biru digunakan untuk menandai penghantar netral atau kawat tengah, pada instalasi listrik dengan penghantar netral. Untuk menghindarkan kesalahan, warna biru tersebut tidak boleh digunakan untuk menandai penghantar lainnya. Warna biru hanya dapat digunakan untuk maksud lain, jika pada instalasi tersebut tidak terdapat penghantar netral atau kawat tengah. Warna biru tidak untuk kabel pentanahan.
+
+ Penggunaan warna kabel berinti tunggal Untuk pengawatan di dalam perlengkapan listrik disarankan hanya mengunakan kabel dengan satu warna., khususnya warna hitam. Jika diperlukan warna lain untuk penandaan disarankan mengunakan warna cokelat.
+
+ Pengenal untuk inti atau rel Untuk kabel dengan isolasi dari bahan polyethylene disingkat dengan PE, polyvinyl chloride disingkat dengan PVC, cross linked polyethylene disingkat dengan XLPE.
+
+ Warna untuk kabel berselubung berinti tunggal
+
+Kabel berselubung berinti tunggal boleh digunakan untuk fase, netral, kawat tengah
+
+atau penghantar pembumian asalkan isolasi kedua ujung kabel yang terlihat ( bagian
+
+yang dikupas selubungnya ) dibalut isolasi khusus yang berwarna
+
+Untuk instalasi listrik
+
+Untuk pelengkapan listrik
+
+- Fasa R merah
+
+- U / X merah
+
+- Fasa S kuning
+
+- V / Y kuning
+
+- Fasa T hitam
+
+- W / Z hitam
+
+- netral biru
+
+- Arde loreng hijau ­ kuning
+
+ Warna selubung kabel Warna selubung kabel ditentukan sebagai berikut : - Kabel berisolasi tegangan pengenal (500 V) - Kabel udara berisolasi PE, PVC, XPLPE (600 ­ 1000 V) - Kabel tanah berselubung PE dan PVC (600 ­ 1000 V) - Kabel tanah berselubung PE, PVC > 1000 V
+
+putih hitam hitam merah
+
+9
+
+E. Pemilihan Luas Penampang Penghantar Pemilihan luas penampang penghantar harus mempertimbangkan hal-hal berikut
+ini: 1. Kemampuan Hantar Arus (KHA)
+Menurut PUIL 2000 pasal 5.5.3.1 bahwa "penghantar sirkit akhir yang menyuplai motor tunggal tidak boleh mempunyai KHA kurang dari 125% arus pengenal beban penuh." - Untuk Arus Searah : In = P/V (A) - Untuk Arus Bolak-balik Satu Fasa: In = P/(V.Cos ) (A) - Untuk Arus Bolak-balik tiga Fasa: In = P/( .V.Cos ) (A)
+KHA = 125% X In Dimana: I = Arus Nominal Beban Penuh (A)
+P = Daya Aktif (W)tember 13, 200 V = Tegangan (V) Cos  = Faktor Daya 2. Drop Voltage Drop voltage atau disebut dengan susut tegangan merupakan perbedaan antara tegangan sumber dengan tegangan di beban, karena tegangan di beban tidak sama dengan tegangan sumber yaitu tegangan di beban lebih kecil dari tegangan sumber, dapat disebabkan oleh faktor arus dan impedansi saluran.
+3. Sifat Lingkungan Sifat lingkungan merupakan kondisi dimana penghantar itu dipasang.
+Faktor-faktor berikut harus diperhatikan: - Penghantar dapat dipasang atau ditanam dalam tanah dengan memperhatikan
+kondisi tanah yang basah, kering atau lembab. Ini akan berhubungan dengan pertimbangan bahan isolasi penghantar yang digunakan. - Suhu lingkungan seperti suhu kamar dan suhu tinggi, penghantar yang digunakan akan berbeda. - Kekuatan mekanis, misalnya: pemasangan penghantar di jalan raya berbeda dengan di dalam ruangan atau tempat tinggal. Penghantar yang terkena beban
+10
+
+mekanis, harus dipasang di dalam pipa baja atau pipa beton sebagai pelindungnya. 4. Kemungkinan Lainnya
+Kemungkinan lainnnya merupakan kemungkinan-kemungkinan yang akan terjadi di masa yang akan datang. Seperti penambahan beban yang akan mengacu pada kenaikan arus beban sehingga perhitungan KHA penghantar untuk memilih luas penampang penghantar akan berbeda. Drop tegangan maksimum yang diizinkan adalah dua persen untuk penerangan dan lima persen untuk instalasi daya. Tabel 2. Warna selubung luar kabel PVC
+Tabel 3. Kemampuan hantar arus kabel instalasi berisolasi dan berselubung PVC
+11
+
+Magnetic Contactor ( MC )
+A. Pengertian dan Prinsip Kerja
+Kontaktor magnet adalah gawai elektromekanik yang dapat berfungsi sebagai penyambung dan pemutus rangkaian, yang dapat dikendalikan dari jarak jauh. Pergerakan kontak-kontaknya terjadi karena adanya gaya elektromagnet. Kontaktor magnet merupakan sakelar yang bekerja berdasarkan kemagnetan, artinya lat ini bekerja bila ada gaya kemagnetan. Magnet berfungsi sebagai penarik dan pelepas kontakkontak. Arus kerja normal adalah arus yang mengalir selama pemutaran tidak terjadi. Kumparan atau belitan magnet (coil) suatu kontaktor magnet dirancang untuk arus searah (DC) saja atau arus bolak-balik (AC) saja.
+Kontaktor arus searah (DC) kumparannya tidak menggunakan kumparan hubung singkat, sedang kontaktor arus bolak-balik (AC), pada inti magnetnya dipasang kumparan hubung singkat. Bila kontaktor untuk arus searah digunakan pada arus bolakbalik, maka kemagnetannya akan timbul dan hilang setiapa saat mengikuti bentuk gelombang arus bolak-balik. Sebaliknya jika kontaktor yang dirancang untuk arus bolak-balik digunakan pada arus searah, maka pada kumparan itu tidak timbul induksi listrik, sehingga kumparan menjadi panas. Jadi kontaktor yang dirancang untuk arus searah, digunakan untuk arus searah sajabegitu juga untuk arus bolak-balik. Umumnya kontaktor magnet akan bekerja normal bila tegangannya mencapai 85% tegangan kerjanya, bila tegangan turun kontaktor akan bergetar. Ukuran dari kontaktor magnet ditentukan oleh batas kemampuan arusnya.
+Gambar 1. Kontruksi Magnetik Kontaktor
+12
+
+B. Kontak-kontak yang terdapat pada kontaktor magnet
+
+1. Kontak utama : menghubungkan dan memutuskan arus listrik yang menuju ke beban atau motor.
+
+Input kontaktor utama bersimbol :
+
+Output kontaktor utama bersimbol :
+
+1 atau L1 atau R
+
+2 atau T1 atau U
+
+3 atau L2 atau S
+
+4 atau T2 atau V
+
+5 atau L3 atau T
+
+6 atau T2 atau W
+
+2. Kontak bantu : kontak ini hanya digunakan pada rangkaian control. Terdiri dari 2 jenis kontak yakni normally open (NO) dan normally close (NC)
+
+ Kontak NO : cirinya, bernomor ganda dan nomor terakhir adalah 3-4
+
+Contoh : 13-14, 23-24, 33-34
+
+ Kontak NC: cirinya, bernomor ganda dan nomor terakhir adalah 3-4 Contoh : 11-12, 21-22, 31-32
+
+Gambar 2. Symbol kontak-kontak pada magnetic kontaktor 13
+
+Untuk mengetahui adanya kontak bantu yang dimiliki kontaktor utama biasanya tertera pada tabel data kontaktor tersebut, yaitu ditulis dengan angka 01 artinya terdapat satu kontak bantu NC dan atau dengan angka 10 yaitu terdapat satu kontak bantu NO. Untuk lebih jelasnya kontak NO ditunjukkan pada angka puluhannya sedangkan kontak NC dilihat pada angka satuannya. Untuk memilih kontaktor harus memperhatikan beberapa hal:
+a) Tegangan kerja b) Besarnya daya c) Kemampuan hantar arus (kontaknya) d) Jumlah kontak bantu yang dimiliki.
+Gambar 3. Konstruksi Magnetic Contactor (MC)
+14
+
+MINIATUR CIRCUIT BREAKER (MCB) A. Pengertian
+MCB atau pemutus tenaga berfungsi untuk memutuskan suatu rangkaian apabila ada arus yamg mengalir dalam rangkaian atau beban listrik yang melebihi kemampuan. Misalnya adanya konsleting dan lainnya. Pemutus tenaga ini ada yang untuk satu phase dan ada yang untuk 3 phase. Untuk 3 phase terdiri dari tiga buah pemutus tenaga 1 phase yang disusun menjadi satu kesatuan. Pemutus tenaga mempunyai 2 posisi, saat menghubungkan maka antara terminal masukan dan terminal keluaran MCB akan kontak. Pada posisi saat ini MCB pada kedudukan 1 (ON), dan saat ada gangguan MCB dengan sendirinya akan melepas rangkaian secara otomatis kedudukan saklarnya 0 (OFF), saat ini posisi terminal masukan dan keluaran MCB tidak sambung.
+Gambar 1. Simbol dan konstruksi Pemutus tenaga dengan MCB
+Gambar 2. Konstruksi MCB 3 phase dan MCB 1 phase
+15
+
+B. Jenis-Jenis MCB Berdasarkan waktu pemutusannya, pengaman-pengaman otomatis dapat terbagi
+atas: 1. Otomat-L (Untuk Hantaran)
+Pada Otomat jenis ini pengaman termisnya disesuaikan dengan meningkatnya suhu hantaran. Apabila terjadi beban lebih dan suhu hantarannya melebihi suatu nilai tertentu, elemen dwi logamnya akan memutuskan arusnya. Kalau terjadi hubung singkat, arusnya diputuskan oleh pengaman elekromagnetiknya. Untuk arus bolak-balik yang sama dengan 4 In-6 In dan arus searah yang sama dengan 8 In pemutusan arusnya berlangsug dalam waktu 0.2 detik. 2. Otomat-H (Untuk Instalasi Rumah)
+Secara termis jenis ini sama dengan Otomat-L. Tetapi pengaman elektromagnetiknya memutuskan dalam waktu 0,2 sekon, jika arusnya sama dengan 2,5 In­3 In untuk arus bolak-balik atau sama dengan 4 In untuk arus searah. Jenis Otomat ini digunakan untuk instalasi rumah. Pada instalasi rumah, arus gangguan yang rendah pun harus diputuskan dengan cepat. Sehingga jika terjadi gangguan tanah, bagianbagian yang terbuat dari logam tidak akan lama bertegangan. 3. Otomat-G
+Jenis Otomat ini digunakan untuk mengamankan motor-motor listrik kecil untuk arus bolak-balik atau arus searah, alat-alat listrik dan juga rangkaian akhir besar untuk penerangan, misalnya penerangan pabrik. Pengaman elektromagnetiknya berfungsi pada 8 In-11 In untuk arus bolak-balik atau pada 14 In untuk arus searah. Kontak-kontak sakelarnya dan ruang pemadam busur apinya memiliki konstruksi khusus. Karena itu jenis Otomat ini dapat memutuskan arus hubung singkat yang besar, yaitu hingga 1500 ampere.
+16
+
+Keterangan gambar : 1. Tuas Operasi Strip 2. Aktuator Mekanis 3. Kontak Bergerak 4. Terminal Bawah
+
+5. Bimetal 6. Sekrup Kalibrasi 7. Kumparan magnetis 8. Ruang busur api
+
+C. Cara kerja MCB
+1. Thermis; Prinsip kerjanya berdasarkan pada pemuaian atau pemutusan dua jenis logam yang koefisien jenisnya berbeda. Kedua jenis logam tersebut dilas jadi satu keping (bimetal) dan dihubungkan dengan kawat arus. Jika arus yang melalui bimetal tersebut melebihi arus nominal yang diperkenankan maka bimetal tersebut akan melengkung dan memutuskan aliran listrik.
+2. Magnetik; Prinsip kerjanya adalah memanfaatkan arus hubung singkat yang cukup besar untuk menarik sakelar mekanik dengan prinsip induksi elektromagnetis. Semakin besar arus hubung singkat, maka semakin besar gaya yang menggerakkan sakelar tersebut sehingga lebih cepat memutuskan rangkaian listrik dan gagang operasi akan kembali ke posisi off. Busur api yang terjadi masuk ke dalam ruangan yang berbentuk pelat-pelat, tempat busur api dipisahkan, didinginkan dan dipadamkan dengan cepat.
+
+17
+
+Miniature Circuit Breaker (MCB) di desain dengan fungsi utama untuk :
+ mengamankan kabel terhadap beban lebih dan arus hubung singkat.  melewatkan arus tanpa pemanasan lebih.  membuka dan menutup sebuah sirkit di bawah arus pengenal.
+D. PEMILIHAN MINIATURE CIRCUIT BREAKER (MCB) Pemilihan pemutus tenaga ditentukan oleh beberapa hal : 1. Standar
+- SPLN 108 / SLI 175, bila digunakan oleh pemakai umum (instalasi perumahan ­ kapasitas pemutusan rendah)
+- IEC 60947-2, bila digunakan oleh ahlinya (aplikasi industri - kapasitas pemutusan tinggi
+2. Kapasitas pemutusan Kapasitas pemutusan suatu pemutus tenaga harus lebih besar dari arus hubung
+singkat pada titik instalasi di mana pemutus tenaga tersebut dipasang. Pada diagram garis suatu sistem, disarankan untuk juga menyebutkan besar kapasitas pemutusan di samping arus pengenal pemutus tenaga yang digunakan. 3. Arus pengenal
+Arus pengenal pemutus tenaga harus disesuaikan dengan besarnya arus beban yang dilewatkan kabel dan lebih kecil dari arus yang diijinkan pada kabel. 4. Tegangan
+Tegangan operasional pengenal pemutus tenaga harus lebih besar atau sama dengan tegangan sistem. 5. Jumlah kutub ( 1 phase atu 3 phase) 6. Bentuk kurva trip
+ Kurva c: Mengontrol arus sebesar 5 sampai 10 In dan melindungi sirkit dari arus hubung singkat tinggi di dalam suatu distribusi.
+18
+
+ Kurva d dan k : Memutuskan arus antara 10 sampai 14 In, untuk aliran arus awal yang tinggi seperti LV/LV trafo.
+ Kurva Z : 2,4 sampai 3,6 In untuk perlindungan tehadap sirkit elektronik  Kurva MA: 12 In hanya untuk perlindungan terhadap arus hubung singkat dan
+aliran arus yang awal yang tinggi seperti motor dan koil.  Kurva B: 3 sampai 5 In, untuk perlindungan terhadap arus hubung singkat yang
+rendah pada generator.
+Gambar 4. Kurva trip mcb
+7. Frekuensi sistem 8. Aplikasi beban
+Tipe kabel yang diamankan, tembaga atau alumunium. E. Ketentuan pemasangan MCB: MCB harus menyertakan fixed unadjustable time/current tripping characteristic
+yang dikalibrasi berdasarkan Standard Internasional/B.S 3871 Bagian 1 pada temperatur 40 derajat Celcius. Kemampuan-kemampuan lainnya harus seperti yang ditentukan untuk MCCB. Semua sirkuit MCB yang melindungi sirkuit luar harus yang otomatis dan dilengkapi dengan pelindung yang sesuai terhadap beban lebih dan hubung singkat. Kapasitas pemutusan hubung singkat dari circuit breaker tidak boleh kurang dari tingkat kesalahan yang terjadi maksimum di titik dimana sirkuit tersebut bertanggung jawab atas pemilihan dan pemberian jenis circuit breaker yang tepat untuk perlindungan jenis sirkuit yang berbeda. MCB masuk dari panel-panel distribusi dimana feeder dipasang dengan meteran listrik PLN harus dari jenis yang diizinkan oleh PLN.
+19
+
+Sakelar Tombol (Push Button) & Emergency Switch
+Saklar tombol sering dinamakan tombol tekan (push button), ada dua macam yaitu tombol tekan normally open (NO) dan tombol tekan normally close (NC). Konstruksi tombol tekan ada beberapa jenis, yaitu jenis tunggal ON dan OFF dibuat secara terpisah dan ada juga yang dibuat satu tempat. Jenis ini untuk satu tombol dapat untuk ON dan OFF tergantung keinginan penggunaannya. Tombol tekan tunggal terdiri dari dua terminal, sedang tombol tekan ganda terdiri dari empat terminal.
+Terminal Saklar
+
+OFF
+
+ON
+
+Gambar 1. Konstruksi saklar tombol (Push Button)
+
+Simbol tombol ON dan Tombol OFF Gambar 2. Simbol saklar tombol (Push Button)
+
+20
+
+Emergency switch digunakan untuk mematikan sumber secara langsung saat terjadi gangguan pada system yang telah dirangkai. Sesuai dengan fungsinya emergency switch beroperasi saat rangkaian mengalami gangguan yang dapat membahayakan peralatan dan manusia. Emergency switch digunakan dengan cara memutar switch untuk menghubungkan rangkaian dan kemudian ditekan untuk melepaskanya.
+Gambar 3. Konstruksi Emergency switch Sumber : http://www.alibaba.com
+21
+
+Current Transformer (CT)
+Current Transformer atau yang biasa disebut trafo arus (CT) adalah tipe instrument trafo yang didesain untuk mendukung arus yang mengalir pada kumparan sekunder yang sebanding dengan arus bolak-balik yang mengalir pada sisi primer. Secara umum trafo ini digunakan untuk mengukur dan melindungi relay pada industri yang memakai tegangan tinggi di mana trafo ini mempunyai fasilitas pengukuran yang aman dalam mengukur jumlah arus yang besar begitu juga dengan tegangan yang tinggi.
+Cara kerja dari trafo arus ini adala jika pada kumparan primer mengalir arus I1, maka pada kumparan primer akan timbul gaya gerak magnet sebesar N1 X I1. Gaya gerak magnet ini memproduksi fluks pada inti dimana fluks ini membangkitkan gaya gerak listrik pada kumparan sekunder. Jika kumparan sekunder tertutup, maka pada kumparan sekunder mengalir arus I2. arus ini menimbulkan gaya gerak magnet N2 X I2 pada kumparan sekunder.
+CT umumnya terdiri dari sebuah inti besi yang dililiti oleh konduktor beberapa ratus kali. Output dari skunder biasanya adalah 1 atau 5 ampere, ini ditunjukan dengan ratio yang dimiliki oleh CT tersebut. Misal 100:1, berarti sekunder CT akan mengeluarkan output 1 ampere jika sisi primer dilalui arus 100 Ampere. Jika 400:5, berarti sekunder CT akan mengeluarkan output 5 ampere jika sisi primer dilalui arus 400 Ampere. Dari kedua macam output tersebut yang paling banyak ditemui, dipergunakan dan lebih murah adalah yang 5 ampere.
+Pada CT tertulis class dan burden, dimana masing masing mewakili parameter yang dimiliki oleh CT tersebut. Class menunjukan tingkat akurasi CT, misalnya class 1.0 berarti CT tersebut mempunyai tingkat kesalahan 1%. Burden menunjukkan kemampuan CT untuk menerima sampai batas impedansi tertentu. CT standart IEC menyebutkan burden 1.5 VA (Volt Ampere), 3 VA, 5 VA dst. Burden ini berhubungan dengan penentuan besar kabel dan jarak pengukuran
+Aplikasi CT selain disambungkan dengan alat meter seperti ampere meter, kWh meter Cos Phi meter dan lain sebagainya, sering juga dihubungkan dengan alat proteksi arus. Dengan mempergunakan bermacam ratio CT didapatkan proteksi arus dengan beragam range ampere hanya dengan satu unit proteksi arus. Yang perlu dipersiapkan adalah unit proteksi arus dengan range dibawah 5 ampere dan CT dengan ratio XXX: 5.
+22
+
+Misal unit proteksi mempunyai range 0,5 ~ 5 Amp, dengan mempergunakan CT dengan
+
+ratio 1000:5 maka range proteksi arus yang bisa dijangkau adalah 100 ~ 1000 Amp.
+
+Perhitungannya adalah sebagai berikut :
+
+Range
+
+: 0,5 ~ 5 Amp
+
+Ratio CT
+
+: 1000/5 :
+
+200
+
+Range dengan CT : (0,5 X 200) ~ (5 X 200) Amp
+
+: 100 ~ 1000 Amp
+
+Note : Terminal CT sebaiknya dihubung singkat jika tidak terhubung dengan beban saat line primer dialiri arus. Ini mencegah pembebanan dengan impedansi yang terlalu besat dan mengakibatkan percikan bunga api listrik.
+
+Untuk lebih jelasnya dapat diamati pada gambar berikut:
+Gambar di samping adalah gambar trafo arus. Dapat dilihat pada trafo tersebut terdapat name plate, yaitu :
+
+Ratio : 50/5A  setiap 50 A arus yang lewat pada kumparan primer akan dihasilkan arus 5 A pada kumparan sekunder (10% dari masukkan)
+
+VA : 5 tersebut
+
+ daya yang diserap dari CT
+
+Type : MSQ-30 model dari trafo arus tersebut
+
+Setiap fase yaitu R( merah), S ( kuning), dan T ( hitam) melewati bagian tengah dari CT. Selanjutnya pada CT tersebut terdapat 2 buah terminal yang digunakan untuk dihubungkan ke amperemeter.
+
+Trafo arus dipasang pada setiap phase, yaitu R, S, T. Pemasangan ini hanya melewatkan saja kabel dari fase-fase tersebut di tengah-tengah CT.
+
+23
+
+Untuk lebih jelas pemasangan CT adalah saperti gambar berikut:
+
+R
+
+a. Pemasangan CT dengan amperemeter
+
+b. Konstruksi CT
+
+Pada gambar di atas yang melewati CT adalah fase R. Untuk fase yang lainnya cara pemasangannya juga sama.
+
+Contoh Soal :
+
+Diketahui : Sistem 3 phasa dengan spesifikasi tegangan 220/380 volt, frekuensi 50Hz, beban total 66 kVa, cos ø 0,9. Dipasang CT 150 : 5 ampere. Berapa arus yang mengalir pada sisi sekunder CT ?
+
+Penyelesaian : Dari soal di atas dapat diketahui bahwa Diketahui beban penuh 66 KVA, tegangan sumber 220/380 V, cos =0.9, spesifikasi CT 150:5 A, maka arus primernya dapat dicari dengan rumus
+
+P = V.I cos 
+
+66.000 = 220.I.0,9
+
+I = 333,33 A
+
+Arus yang mengalir pada sisi sekunder
+
+Is = 333,33/150 x 5
+
+Is = 11,11 A
+
+24
+
+Time Delay Relay (TDR)
+A. Pengertian Time Delay relay atau relai penunda waktu digunakan untuk memperoleh periode waktu
+yang dapat diatur atau di set menurut kebutuhan. Setelah di set ia tidak boleh dirubah sampai pada saat yang ditentukan, posisinya akan berubah sendiri.
+Relai ini dapat digunakan untuk instalasi otomatis seperti:
+1. Mengubah hubungan bintang segitiga secara otomatis pada motor 2. Mengubah arah putaran motor secara otomatis 3. Mengubah kecepatan putaran motor secara otomatis dan sebagainya.
+
+4 5
+
+3
+
+6
+
+2
+
+7
+
+1 8
+
+SOURCE
+a. Kedudukan soket
+
+Terminal Kontak
+
+2-7
+
+Source
+
+1-3 NO
+6-8
+
+1-4 b. Hubungan terminaNlC
+5-8
+
+1
+
+8
+
+2
+
+7 3 46 5
+c. Simbol Time delay
+
+Gambar 1. Rangkaian kelistrikan Time Delay Relay (TDR)
+
+Gambar 2 a. konstruksi TDR
+
+b. Socket TDR Sumber : needly.multiply.com
+
+25
+
+B. Cara kerja relai penunda waktu (lihat gambar diatas) Apabila arus listrik mengalir pada terminal 2 dan 7 (kumparan) dan waktu sudah diatus
+maka posisi semula titik 3­1 dan 6­8 terbuka sedangkan titik 4­1 dan titik 5-8 tertutup. Setelah waktunya sudah tercapai maka posisi sekarang menjadi: titik 3­1 dan 6-8 menutup dan titik 4­1 dan 5­8 membuka. Posisi tersebut akan tidak berubah, kecuali aliran listriknya terputus posisinya kembali ke semula.
+Contoh speksifikasi sebuah TDR :
+Sumber : http://www.omron.com/products/indu.html
+26
+
+Thermal Over Load Relay (TOLR)
+A. Pengertian TOLR Thermal Over Load Relay (TOLR) adalah suatu pengaman beban lebih. Menurut
+PUIL 2000 bagian 5.5.4.1; proteksi beban lebih (arus lebih) dimaksudkan untuk melindungi motor dan perlengkapan kendali motor, terhadap pemanasan berlebihan sebagai akibat beban lebih atau sebagai akibat motor tak dapat diasut. Beban lebih atau arus lebih pada waktu motor berjalan bila bertahan cukup lama akan mengakibatkan kerusakan atau pemanasan yang berbahaya pada motor tersebut. TOLR memiliki rating yang berbeda-beda tergantung dari kebutuhan, biasanya tiap-tiap TOLR mempunyai batas rating yang dapat diatur.
+Gambar 1. Konstruksi Thermorelay Sumber : www.germes-online.com
+B. Cara kerja TOLR TOLR pada prinsipnya terdiri dari 2 buah macam logam yang berbeda serta
+tingkat pemuaian juga berbeda pula. Kedua logam tersebut dilekatkan menjadi satu yang disebut bimetal. Apabila bimetal tersebut dipanasi maka akan membengkak karena perbedaan tingkat pemuaian kedua logamnya. Bimetal tersebut diletakan didekat sebuah elemen pemanas yang dilalui oleh arus menuju beban ujung yang satu dipasang tetap sedangkan yang lainnya dipasang bebas bergerak dan membengkok dan dapat membukakan kontak-kontaknya, dengan demikian rangkaian beban atau motor akan terputus. Besarnya arus yang diperlukan untuk mengerjakan bimetal sebanding dengan besarnya arus yang diperlukan untuk membuat alat pengaman terputus. Di dalam penggunaanya sesuai dengan PUIL 2000 pasal 5.5.4.3 bahwa gawai proteksi beban lebih yang digunakan adalah tidak boleh mempunyai nilai pengenal, atau disetel pada
+27
+
+nilai yang lebih tinggi dari yang diperlukan untuk mengasut motor pada beban penuh. Oleh karena itu, waktu tunda gawai proteksi beban lebih tersebut tidak boleh lebih lama dari yang diperlukan untuk memungkinkan motor diasut dan dipercepat pada beban penuh.
+C. Pemilihan termorelai, yang harus diperhatikan: a) Kemampuan hantar arus (KHA) b) Tegangan kerja nominal c) Nilai nominal arus beban lebih (seting arus beban lebih). Termorelai hanya mempunyai kontak bantu saja dan diagram kontak-kontak
+termorelai diberi penomoran seperti berikut:
+ Kontak nomor 9596 disebut kontak pembuka (NC)  Kontak nomor 9798 disebut kontak penutup (NO)  Kontak nomor 95­96­98 disebut kontak tukar (NO/NC) Perhatikan diagram kontak dan konstruksi dari termorelai pada gambar berikut ini:
+
+95
+
+97
+
+95
+
+a. Konstruksi termorelay
+
+96
+
+98
+
+96 98
+
+b. Diagram kontak-kontak
+
+28
+
+A1
+
+1 3 5
+
+A2
+
+97 95
+
+2 4 6 98 96
+
+a. Konstruksi kontaktor termorelai
+
+b. Diagram kontak kontaktor dan thermorelay
+
+Gambar 2. Konstruksi dan diagram kontak termorelai dan kontaktor magnet
+
+D. Pengaman motor Sesuai dengan namanya, proteksi motor ini menggunakan panas sebagai
+pembatas arus pada motor.. Biasanya disebut TORL, Thermis atau overload relay. Cara kerja alat ini adalah dengan mengkonversi arus yang mengalir menjadi panas untuk mempengaruhi bimetal. Bimetal inilah yang menggerakkan tuas untuk menghentikan aliran listrik pada motor melalui suatu control motor starter. Pembatasan dilakukan dengan mengatur besaran arus pada dial di alat tersebut. Jadi alat tersebut memiliki range adjustment misal TOR dengan range 1 ~ 3,2 Amp disetting 2,5 Amp. Artinya, kita membatasi arus dengan TOR pada level 2,5 Amp saja.
+Over Load atau saklar thermis selalu dipasang seri dengan beban yang berfungsi sebagai pengaman. Apabila terjadi kelebihan beban, hubung singkat atau gangguan lainnya yang mengakibatkan naik arus secara otomatis, saklar termis akan bekerja memutuskan arus listrik dengan beban sehingga keamanan beban terjaga.
+Adapun saklar termis bekerja atas dasar panas. Saklar termis ini dibuat dari dua logam yang disatukan yang dikenal dengan bimetal yang masing-masing
+
+29
+
+mempunyai koefisien muai yang berbeda (yang satu mudah memuai dan yang lainya tidak mudah memuai). Dengan demikian apabila terkena panas akibat arus listrik melewati ketentuan, plat bimetal akan membengkok menjauhi plat yang tidak mudah memuai akhirnya plat tidak sambung, dan apabila arus yang mengalir normal atau panas normal maka plat tersebut akan ke posisi semula yang akhirnya arus listrik akan mengalir lagi.
+Gambar 3. Simbol dan konstruksi saklar termis(OL) E. Aplikasi overload untuk stater motor
+ Berikut ini adalah contoh aplikasi overload untuk stater motor dengan data seperti berikut : Motor : 40 kW Voltage : 3 phase 380 VAC FLA : 79 Amp Freq : 50 Hz
+Penyelesaian : Pada saat terjadi phase loss ( salah satu fasa putus ) arus akan naik + 1,73 dari
+arus nominal. Sebagai contoh adalah seperti berikut: Jika setting overload pada 85 Amp, motor runing In dengan arus 60 Amp kemudian terjadi phaseloss maka :
+Arus naik sehingga = 60 X 1,73 = 103 Amp Multiple of current setting = 103 A / 85A = 1.22
+Dari titik pertemuan di grafik (garis merah), maka overload akan trip dalam waktu maksimal 90 detik jika pada kondisi hot start, dan jika motor dalam kondisi cold start maka overload akan trip setelah 400 detik atau lebih dari 6 menit.
+ Contoh berikutnya :
+30
+
+Data motor :FLA = 79 Amp Setting ovr (Is) = 85 Amp Pada saat In motor 51 Amp kemudian terjadi phaseloss maka : Arus akan naik sehingga = 51 X 1.73 = 87 Amp Kecepatan trip overload dapat dihitung sbb : = 87 Amp/85 Amp
+= 1,02
+
+Pendahuluan :
+
+STARTING DENGAN MENGGUNAKAN SYSTEM SAMBUNGAN STAR / DELTA
+
+Motor arus bolak-balik (motor AC) ialah suatu mesin yang berfungsi untuk mengubah tenaga listrik arus bolak-balik menjadi tenaga gerak atau tenaga mekanik, dimana tenaga gerak itu dihasilkan dari putaran pada rotor motor. Ditinjau dari segi cara motor menerima tegangan atau arus, maka dapat di bagi 2 jenis motor, yaitu
+
+1. Motor yang menerima tegangan secara langsung, biasanya berupa motor universal (motor DC).
+2. Motor induksi, disebut seperti ini karena dalam hal penerimaan tegangan dan arus pada rotor dilakukan dengan jalan induksi. jadi pada motor induksi, rotor tidak langsung menerima tegangan atau arus dari luar.
+
+Berdasarkan jumlah tegangan phasa yang digunakan, motor listrik juga terbagi menjadi 2, yaitu :
+
+31
+
+1. Motor 1 phasa Disebut motor 1 phasa karena untuk menghasilkan tenaga mekanik, pada motor tersebut diberi suplai tegangan 1 phasa. Di dalam praktek, motor yang sering digunakan adalah motor 1 phasa dengan lilitan 2 phasa. Motor ini memiliki 2 jenis lilitan yaitu, lilitan utama dan lilitan bantu. Kedua jenis lilitan tersebut dibuat sedemikian rupa sehingga walaupun arus yang mengalir pada motor hanya 1 phasa tetapi akan menyebabkan perbedaan phasa.
+2. Motor 3 phasa Motor ini menghasilkan tenaga mekanik karena mendapat suplai tegangan 3 phasa. jika ditinjau berdasarkan jenis rotor yang digunakan maka dikenal 3 jenis motor yaitu motor dengan rotor lilit, motor dengan rotor sangkar tupai dan motor kolektor.
+Sebagai alat penggerak, motor-motor listrik lebih unggul jika dibandingkan dengan alat penggerak jenis lain. Salah satu keunggulannya adalah motor-motor listrik dapat dikonstruksi sesuai dengan kebutuhan dan karakteristik penggerakan.
+Pembahasan :
+Dalam kehidupan sehari-hari motor listrik sudah tidak asing lagi di telinga kita. Di setiap sendi kehidupan motor sering digunakan. Di dunia industri, banyak digunakan motor-motor listrik. Motor listrik ini sering disebut dengan motor induksi. Motor induksi adalah suatu mesin listrik yang merubah energi listrik menjadi energi gerak dengan menggunakan gandengan medan listrik dan mempunyai slip antara medan stator dan medan rotor. Motor listrik yang digunakan di industri biasanya mengambil sumber listrik 3 phasa.
+Dalam mesin-mesin listrik 3 phase di industri, biasanya disertai dengan beberapa keterangan. Keterangan disertakan seperti
+ Jenis mesinnya (generator, motor, mesin pengubah dan sebagainya)  Daya, tegangan, jenis arus frekuensi dan kecepatan putarnya  Akan digunakan untuk perusahaan  Bentuk yang dikehendaki
+32
+
+ Keadaan yang menyimpang, misalnya dipengaruhi oleh uap bahan kimia, uap minyak, garam atau udara yang mengandung garam, bahan atau gas yang mudah terbakar atau dapat meledak dan sebagainya.
+ Cara penggerakannya, misalnya dengan ban mesin, tali bentuk V, kopeling langsung atau transmisi roda gigi yang harus ikut dikirim. Jika tidak disertai dengan keterangan apapun, biasanya mesin akan dikirim dengan ujung poros bebas.
+ Jika perlu ditambahkan dengan keterangan-keterangan khusus, misalnya mengenai kumparan-kumparan, terminal-terminalnya, titik-bintangnya, kontakkontak cabang khusus dan sebagainya.
+Motor induksi biasanya disebut dengan motor asinkron. Disebut motor asinkron karena terdapat slip atau perbedaan antara putaran motor dengan putaran fluks magnet stator . dengan kata lain, bahwa antara rotor dan fluks magnet stator terdapat selisih perputaran (slip). Dalam penyambungan lilitannya, biasanya digunakan sambungan bintang-segitiga (star-delta).
+A. Cara Starting Motor Induksi Ada beberapa cara untuk melakukan starting motor listrik ac, di antaranya yaitu 1. Starting dengan menggunakan tegangan penuh dari jaringan Metode starting ini sering disebut dengan metode Direct Online (DOL). Metode ini sering digunakan untuk starting motor-motor listrik yang berdaya kecil. Pengertian penyambungan langsung disini adalah motor langsung dihubungkan dengan tegangan jala-jala yang sesuai dengan spesifikasi motor. Starting menggunakan metode ini tidak perlu melakukan mengatur atau menurunkan tegangan pada saat starting.
+33
+
+Gambar 1 . Diagram starter DOL 2. Starting dengan menggunakan sambungan bintang segitiga
+Starting jenis ini banyak digunakan pada motor induksi rotor sangkar yang memiliki daya diatas 5kW (sekitar 7HP).
+Gambar 2. Starting motor bintang-segitiga 3. Starting dengan menggunakan tahanan primer (Primary Resistance
+Starting) Starting menggunakan tahanan primer adalah suatu cara untuk mengatur tegangan yang masuk ke motor melalui tahanan yang biasa dikenal dengan tahanan primer. Disebut tahanan primer, karena tahanan ini langsung dihubungkan pada sisi stator motor. Metode starting ini
+34
+
+menggunakan prinsip tegangan jatuh. Metode ini digunakan untuk starting motor-motor kecil.
+Gambar 3. Metode stating menggunakan tahanan primer 4. Starting dengan menggunakan autotransformer (Autotransformer
+Starting) Prinsip starting menggunakan metode ini adalah dengan menghubungkan motor pada tap tegangan sekunder autotransformer terendah. Setelah beberapa saat motor dipercepat, tap autotransformer diputuskan dari rangkaian dan motor langsung terhubung ke tegangan penuh. Autotransformer dibuat dari sejumlah tahapan tegangan sekunder yang besarnya 83%, 67% dan 50% dari tegangan primer.
+Gambar 4. Starting menggunakan autotransformer 35
+
+5. Starting dengan pengaturan tahanan rotor Metode starting hanya dapat dipakai pada motor induksi rotor lilit (motor slipring). Rotornya mempunyai lilitan yang disambungkan ke slipring yang kemudian dihubungkan ke tahanan luar. Pada waktu starting, motor dihubungkan dengan tahanan (rheostat) dengan nilai hambatan yang maksimum. Setelah motor bekerja, rheostat kemudian dihubung singkat.
+Gambar 5. Starting dengan pengaturan tahanan rotor 36
+
+B. Karakteristik Starting Motor Star-Delta Jaringan distribusi tegangan rendah PLN umumnya memiki tegangan 220/380 V atau 127/220 V. Karena berbagai masalah dan dianggap merepotkan, maka tegangan 127/220 V dihapus dan hanya tegangan 220/380 V yang didistribusikan ke pelanggan.
+Sebuah motor harus menggunakan hubungan bintang atau hubungan segitiga tergantung dari jenis jaringannya. Tegangan yang harus dihubungkan dengan motor, biasanya dinyatakan didalam name plate-nya, misalnya 220/380 V atau 380/660 V. Penggunaan sambungan star- delta juga meliputi cara pen-start-an motor tersebut. Starting ini banyak digunakan untuk menjalankan motor induksi motor sangkar yang mempunyai daya diatas 5 kW (sekitar 7 HP).
+Tegangan yang lebih rendah dan tertulis di name plate motor tersebut ialah tegangan yang harus dihubungkan dengan kumparan-kumparan motor. Cara pengoperasian motor ini biasanya tergantung dari jenis starter yang dipilih. Jenis starter dipasaran yang banyak tersedia adalah saklar putar dan saklar khusus.
+Karakteristik yang pertama adalah penggunaan starter bintang segitiga ini dapat mengurangi lonjakan arus dan torsi pada saat start. Tersusun atas 3 buah contactor yaitu Main Contactor, Star Contactor dan Delta Contactor, Timer untuk pengalihan dari star ke Delta serta sebuah overload relay. Pada saat start, starter terhubung secara bintang (star). Gulungan stator hanya akan menerima tegangan sekitar 0,578 (satu per akar tiga) dari tegangan jaringan (V line). Jadi arus dan torsi yang dihasilkan akan lebih kecil dari pada starter DOL. Setelah mendekati kecepatan putaran tertentu, starter akan berpindah terkoneksi ke Delta. Starter ini akan bekerja dengan baik jika saat start motor tidak terbebani dengan berat.
+Jika sebuah motor yang dirancang khusus pada tegangan 220/380 volt, sedangkan tegangan jala-jala sumber 3 fasa yang tersedia 380 volt, maka motor itu hanya boleh dijalankan dalam hubungan bintang. Artinya kalau motor ini distarting tidak boleh menggunakan sistem starting segitiga. Tetapi bila motor ini dilayani oleh sumber tegangan jala-jala 3 phasa 220 volt, maka sistem starting segitiga dapat digunakan.
+37
+
+Kemudian jika sebuah motor diberi tanda tegangan 380/660V misalnya, kumparankumparannya harus mendapat 380 Volt. Jadi jika dihubungkan dengan jaringan 220/380 Volt, maka motor ini harus digunakan dalam sambungan segitiga. Jika menggunakan hubungan bintang, maka tiap-tiap kumparannya hanya akan mendapat tegangan sebesar 220 volt saja.
+Penggunaan sumber tegangan yang terlalu rendah pada motor dapat menyebabkan kerusakan pada motor. Nilai toleransi perbedaan tegangan atau frekuensi adalah sekitar -5% sampai dengan +5% dari nilai nominalnya. Nilai toleransi tersebut biasanya masih dalam ambang batas aman pada penggunaan motor.
+Gambar 6. Starting star-delta
+Prinsip kerja rangkaian starting bintang-segitiga berdasarkan gambar diatas adalah  Pada saat hubungan bintang (Y), kontaktor magnet yang bekerja adalah K1 dengan K2. Kontaktor magnet K2 dirangkai berdasarkan prinsip sambungan bintang, yaitu tiap ujung dari kontaktor dikopel menjadi satu kesatuan.
+38
+
+ Pada saat hubungan segitiga (), kontaktor magnet yang bekerja adalah K1 dengan K3. Kontaktor magnet K3 ini dirangkai berdasarkan prinsip sambungan segitiga, yaitu tiap ujung rangkaian yang satu mendapat ujung rangkaian yang lain.
+Sebagai contoh, untuk sebuah motor yang diberi tanda tegangan 220/380 Volt, maka hubungan yang harus digunakan adalah sebagai berikut :
+a. Jika sistem tegangan jaringnya 220/380 Volt, maka motor ini harus digunakan dalam hubungan bintang. Penggunaan hubungan bintang ini memiliki beberapa alasan, diantaranya karena tiap-tiap kumparan-kumparan didalam motor harus mendapat suplai tegangan sebesar 220 volt.
+b. Jika sistem tegangan jaringnya 127/220 Volt, maka motor ini harus dirangkai dengan hubungan segitiga.
+Gambar 7. Rangkaian bintang (Y) dan segitiga ()
+Jika daya motor ini sebesar 6,6 kVA, pada beban penuh arusnya akan sama seperti perhitungan di bawah ini :
+a. Untuk sistem tegangan jaring 220/380 Volt : In = 6600 VA = 10A 3803
+Arus ini adalah arus yang juga mengalir dalam kumparan-kumparan motor.
+39
+
+b. Untuk sistem tegangan jaring 127/220 Volt : In = 6600 VA = 103A= 17,2 A 2203
+Nilai arus sebesar 17,2 A diatas adalah arus jaringan. Maka arus tiap phasanya adalah sebagai berikut
+Ip = 17,3 = 10 A 3
+Tegangan kumparannya sama dengan 220 volt. Jika motor langsung dihubungkan dengan jaringan, maka besar arus asutnya akan sama sebesar 6 x arus nominalnya. Jadi : Untuk perhitungan a. : 6 x 10 A = 60 A Untuk perhitungan b. : 6 x 17,3 A = 103,8 A Berdasarkan perhitungan diatas, maka didapat karakteristik yang kedua dari starting star-delta pada motor induksi 3 phasa yaitu arus saluran dalam hubungan bintang akan bernilai 1/3 dari nilai yang dimiliki oleh saluran yang menggunakan hubungan delta. Nilai arus phasa sambungan star sebesar 10 A sedangkan nilai arus phasa pada sambungan delta sebesar 17,3 A. Karakteristik ketiga yang dimiliki oleh starting motor star-delta adalah pada rangkaian star (bintang) besarnya nilai tegangan tiap phasanya akan sama dengan 1/3 kali nilai tegangan jaringan. Begitu pula dengan arus yang mengalir. Arus tiap phasanya akan bernilai 1/3 dari nilai arus jaringan. V jaringan = Vphasa 3, untuk arus juga sama I jaringan = Iphasa 3.
+40
+
+Gambar 8. Sambungan bintang (Y) Sedangkan pada rangkaian delta (segitiga) besarnya nilai tegangan tiap phasanya akan sama dengan besarnya nilai tegangan pada jaringan. Untuk nilai arusnya juga akan sama seperti dengan tegangan. Arus phasanya akan sama dengan arus jaringan. V jaringan = Vphasa. I jaringan = Iphasa.
+Gambar 9. Sambungan segitiga ()  Karakteristik Starting motor
+41
+
+Karakteristik Arus-Kecepatan Starting
+
+Karakteristik Torsi-Kecepatan Starting
+
+ Untuk sambungan bintang / star (Y) : Jika motor dihubung dalam sambungan bintang, motor akan mendapat tegangan sebesar V volt, sedangkan lilitan motor mempunyai impedansi sebesar Z ohm, maka besarnya arus start motor dalam hubungan bintang menjadi:
+
+42
+
+Besarnya I start bintang (Y) sama dengan besarnya arus jala-jala / jaringan bintang atau sama dengan besarnya arus fase :
+I start (Y) = I jala-jala / jaringan (IL) = I fase (IP)
+ Untuk sambungan segitiga / delta () : Jika motor dihubung dalam sambungan delta, motor akan mendapat tegangan sebesar V volt, sedangkan lilitan motor mempunyai impedansi sebesar Z ohm, maka besarnya arus start motor dalam hubungan delta menjadi:
+
+I start =
+
+
+
+Besarnya I start delta () sama dengan besarnya arus jala-jalanya atau sama dengan besarnya arus fase.  :
+I start () = I jala-jala / jaringan (IL) = I fase (IP) 
+
+ Perbandingan untuk arus bintang / star (Y) dengan arus segitiga / delta () yaitu :
+
+
+=
+
+
+=
+
+x
+
+
+
+
+
+=
+
+=
+
+ 
+
+43
+
+Jadi :
+
+= atau I start (Y) = I start .
+
+Dari hasil ini dapat diketahui bahwa besar arus yang mengalir jika dihubungkan bintang adalah 1/3 kali besarnya arus jika motor dihubungkan segitiga.
+
+TERMINAL MOTOR 3 PHASE DAN CARA PENYAMBUNGAN BINTANG / SEGITIGA ( STAR / DELTA )
+
+Gambar : Terminal Motor 3 Phase Pada motor ­ motor induksi 3 phase mempunyai 6 terminal yang biasa ditandai dengan :
+44
+
+U1 - U2 V1 - V2 W1 - W2
+
+ATAU
+
+U - X V - Y W ­ Z
+
+Untuk terminal ­ terminal U1 / U, V1 / V, W1 / W dihubungkan dengan sumber tegangan 3 phase.
+
+1. Untuk kumparan-kumparan motor yang disambung dengan hubungan star/bintang (Y) :  Terminal ­ terminal U1 / U, V1 / V, W1 / W dihubungkan dengan sumber tegangan.  Terminal ­ terminal U2 / X, V2 / Y, W2 / Z dikopel.
+Cara penyambungan dengan hubungan star (Y) dapat dilihat dari gambar 1 atau 2 dibawah :
+
+2. Untuk kumparan-kumparan motor yang disambung dengan hubungan segitiga / delta () :  Terminal ­ terminal U1 / U, V1 / V, W1 / W dihubungkan dengan sumber tegangan.  Terminal ­ terminal : U2 / X dikopel dengan U1 / U V2 / Y dikopel dengan V1 / V W2 / Z dikopel dengan W1 / W
+Cara penyambungan dengan hubungan delta () dapat dilihat dari gambar 3 atau 4 dibawah
+45
+
+NAME PLATE MOTOR INDUKSI
+Plat Nama atau Name Plate memuat data-data spesifikasi mekanis dan elektris. Name plat ini sangat penting sebagai informasi yang diperlukan jika kita akan mengganti motor yang sudah ada, atau mengganti dengan merk lain atau spesifikasi lain. Mengganti ini bertujuan untuk mencari merk berbeda yang lebih baik kualitasnya, effisien, murah, power lebih kecil atau lebih besar dan lain sebagainya, tetapi tidak merubah dan cocok dengan fondasi yang ada. Standard sangat penting untuk dipahami agar tidak mengakibatkan kesalahan fatal yang mengakitkan kerugian besar.
+Data- data penting antara lain : 1. Data pabrikan  Nomor Katalog  Model motor  Type
+46
+
+2. Data Elektrik  Phase  HP / KW  Hz / Frequency  RPM / putaran per menit  Voltage / Tegangan  Amperage (F.L.A) full load motor current  Power Factor
+
+ Maximum ambient temperature in centigrade (+40.C = 104.F)
+ Temperature Rise  Service Factor  Altitude  Duty Rating  Insulation Class  Code - indicate kVA /
+horsepower
+
+3. Data mekanis  Frame
+Tabel 1. Contoh Name Plate pada sebuah motor :
+
+ELECTRIC MOTOR NAME PLATE
+
+Model 500
+
+Single phase
+
+TOTALLY ENCLOED
+
+FRAME
+
+TYPE
+
+INS CLASS
+
+IDENT. NO.
+
+145
+
+KC
+
+J
+
+2531234567
+
+HP
+
+RPM
+
+VOLTS
+
+AMPS
+
+CYC
+
+S.F
+
+1 1/2
+
+1725
+
+115/230
+
+1.5/7.5
+
+60
+
+1.25
+
+DESIGN CODE
+
+B
+
+PHASE
+
+EFF
+
+P.F
+
+DRIVE END BEARING
+
+SKF 6163 1
+
+62%
+
+75%
+
+47
+
+OPP.END BEARING
+
+SKF 6162 DUTY : CONTINUOUS
+
+AMB. 40C NO THERMAL PROTECTION Sumber : http://soemarno.org
+Penjelasan singkat :
+
+1. Data Pabrikan
+· Nomor Katalog.
+Contoh: CAT.NO/PART.NO120086.00 Nomor yang di buat oleh pabrikan motor berdasarkan standard penomoran pabrik itu sendiri yang berupa Katalog. Nomor ini untuk memudahkan pencarian data di catatan. Pada prinsipnya nomor tersebut mewakili spesifikasi motor tersebut, sehingga tidak harus menulis semua spesifikasi secara lengkap. Nomor katalog sebuah pabrikan tidak sama dengan pabrikan lain.
+·Model motor Contoh: Model C145T34FB2C. Biasanya di tulis terdiri dari kumpulan angka dan huruf. "Nomor" ini dibuat oleh pabrikan motor berdasarkan standard pabrik itu sendiri. Nomor ini untuk memudahkan komunikasi tehnik antara pabrikan dan pembeli. Pada prinsipnya nomor tersebut mewakili semua spesifikasi motor tersebut, sehingga tidak harus menulis semua spesifikasi secara lengkap, karena setiap angka atau huruf memiliki arti tersendiri. Nomor model sebuah pabrikan tidak sama dengan pabrikan lain, karena masing-masing mempunyai cara penulisan atau sistem yang berbeda-beda.
+
+2. Data Elektrik * Phase.
+Phase harus jelas di sebutkan, apakah 1 phase atau 3 phase. Kebanyakan motor dibuat 3 phase dan juga di tulis hubungan dalam windingnya, star atau delta
+48
+
+ataupun gabungan (con : star/delta). Motor-motor kecil dibawah I KW dibuat dengan 1 phase.
+
+* HP/KW
+
+Kapasitas keluaran tenaga mekanis pada putaran penuh motor. NEMA menyatakan
+
+dengan Hp sedang IEC menyatakan dengan KW, atau kadang pabrikan menulis
+
+keduanya. Motor 746 watt memproduksi 1 Hp, jika motor dapat mencapai efisiensi
+
+100%, tetapi motor hanya dapat mencapai efisiensi ± 84%. Sehingga motor
+
+tersebut memerlukan konsumsi 100/84 x 746 = 888 watt. Jumlah watt yang
+
+terpakai sebesar 746 watt dan yang 142 watt merupakan kerugian akibat panas,
+
+friction,
+
+dll.
+
+Out put Motor = 888 watt x 0,84 = 746 watt = 1 HP
+
+* Hz/ Frequency
+50/60 Hz: artinya motor dapat dihubungkan dengan 50 Hz ataupun 60 Hz. Di Amerika frekuensi tenaga jaringan listrik memakai 60Hz sedangkan di Indonesia, Eropa, Jepang dan negara lain memakai 50Hz. Frekuensi berhubungan langsung dengan jumlah putaran yang dihasilkan oleh motor tersebut.
+* RPM / Putaran per menit
+3450 / 2850 Rpm:
+Artinya jika motor dihubungkan dengan 60 Hz menghasilkan putaran 3450 Rpm, dan jika dihubungkan dengan 50 Hz putaranya 2850 Rpm. Putaran motor ditentukan oleh jumlah kutub dan frekwensi jaringan listrik yang ada. Jadi meski yang tertulis di plat-nama 3600 Rpm, jika di pasang di jaringan berbeda frekuensi putaran akan berbeda.
+Tabel 2. Kutub VS Frekwensi
+
+49
+
+Sumber : http://soemarno.org * Voltage/ Tegangan
+208 - 230 volt / 460 volt: artinya motor ini dapat dihubungkan pada tegangan 208 s/d 230 Volt, atau 460 volt. Jika di name plate tidak ada gambar skema diagram winding, sebaiknya sebelum menyambung ke sumber perlu membaca manual , bagaimana menyambungnya. Kalau melihat angka voltage (yaitu 230 dan 460), maka terlihat bahwa didalam stator setiap phasenya terpasang 2 pasang winding yang harus dipasang seri dan parallel. Standard NEMA memperbolehkan motor dipasang pada tegangan 10% dibawah / diatas tegangan yang tertulis di motor. Jika tertulis di name plate 230 Volt maka : -10% x 230 = 23 V, maka tegangan terendah yang boleh adalah 230 - 13 = 207 V +10% x 230 = 23 V, maka tegangan tertinggi yang boleh adalah 230 + 13 =253 V
+Table 3 : Nominal System Voltage Motor Name Plate Voltage
+Tabel 4. Perkiraan Pengaruh Perbedaan Voltage Terhadap Performance Lain
+50
+
+Sumber : http://soemarno.org * Amperage (F.L.A)
+Besar arus FLA (full load motor current) yang diperlukan pada kondisi motor sedang mengeluarkan daya sesuai dengan rated Hp atau Kw pada supply tegangan voltage sesuai spesifikasinya. Ini perlu diketahui terutama untuk perencanaan besar kabel dan system proteksinya. Jika rated voltagenya dua macam, maka FLA juga ada dua harga. Misal : Voltage 115/230 maka FLA misal 15.0/7.5A.Jjika voltage yang tersedia lebih rendah/tinggi dari rated maka besar FLA juga berpengaruh (lihat tabel diatas) Dengan mengukur besar ampere, dapat menggambarkan berapa kira-kira besar beban motor yang sedang di pikul. * Torque/ torsi Force atau torsi adalah kekuatan putar atau gaya putar yang digunakan oleh poros. Satuan torsi adalah kgm, atau inch-pounds. * Starting Torque: Force atau torsi yang di hasilkan oleh motor untuk berputar dari keadaan diam dan akselerasi. biasa juga disebut locked rotor torque. * Full loadTorque. Force atau torsi yang di produksi operasi / running motor pada kondisi beban penuh, putaran penuh pada capasitas Hp rated.
+51
+
+* Breakdown Torque Torsi maksimum motor yang dapat di produksi saat beban naik tanpa putaran dan tenaga jatuh turun, juga kadang disebut pull-out torque.
+* Pull-Up Torque Torsi minimum yang dihasilkan motor antara diam (nol rpm) ke Rpm rated. Sama dengan beban maksimum motor mampu akselerasi ke rated Rpm.
+* Power Factor/ Pf Power factor yang tertulis di nameplate adalah power factor dari test beban penuh/full load. Power factor akan berubah sesuai dengan berapa persen beban yang dipikul motor, jika beban tidak penuh maka Pf operasi rendah. Pada umumnya motor kecil mempunyai Pf yang lebih rendah dari motor besar.
+Tabel 5. korelasi antara beban dan power factor
+Sumber : http://soemarno.org * Maximum ambient temperature derajat celcius (+40.C = 104.F)
+NEMA memberikan panduan bahwa suhu ruang untuk ruang tertutup maupun terbuka pemakaian motor maksimum 40º C. Jika lebih dari harga tersebut, motor harus di derating, artinya kapasitas/beban harus diturunkan. Karena akan berpengaruh pada panasan motor winding, kalau tidak diturunkan maka winding akan mengalami panasan yang berlebihan/overheating. Akibatnya umur motor akan berkurang. * Kenaikan/ Temperature Rise Kenaikan Temperature atau sering ditulis di nameplate "Temperature Rise" misal 70º C. Artinya motor tersebut windingnya akan mengalami kenaikan temperature sebesar 70º C, kenaikan ini diakibatkan oleh arus listrik yang mengalir dalam winding. Oleh sebab itu temperature harus dimonitor, jika diukur lebih dari 70ºC harus dicari penyebabnya. Pada umumnya pabrik memberikan angka aman atau
+52
+
+toleransi sebesar 10ºC. Temperature winding = temperature ruang + kenaikan suhu. Sebab-sebab kenaikan antara lain: Sirkulasi ruang tidak baik, beban berlebihan, misalignment, filter kotor/buntu, dsb. * Service Factor/ SF Menurut NEMA definisi dari SF ialah : berapa persen beban Hp/Kw atau ampere /FLA motor dapat dioperasikan melebihi yang tertera di name-plate yang dapat ditanggung oleh motor. Misal: 10 Hp dengan 1.25 SF maka motor dapat menanggung beban12.5Hp Menurut standard NEMA harga SF = 1.0 , 1.10 , 1.15 , 1.25 , 1.4 dsb Motor dengan SF >1.0 memiliki isolasi yang lebih bagus dari Class B * Altitude Tinggi diatas permukaan laut selalu diperhatikan jika memasang motor. Sebagai panduan NEMA memberi panduan untuk operasi normal motor dipasang maksimal setinggi 3300 feet atau 1000 m, lebih dari itu motor harus di derating atau diturunkan kapasitasnya.
+Tabel 6. Panduan Penurunan Hp Sehubungan Dengan Altitude :
+Sumber : http://soemarno.org
+Misal motor dengan servise factor 1.0 jika dipasang pada ketinggian lebih dari 1000 m, maka kapasitas harus diturunkan menjadi 93% * Duty Rating NEMA vs IEC Sifat pemakaian motor dirancang untuk dioperasikan sbb :
+53
+
+NEMA hanya membagi duty cycles dalam dua macam yaitu :
+1.Duty continue (Continue / terus ­ menerus ): artinya motor dirancang dapat dan tahan dioperasikan secara terus-menerus, tanpa berpengaruh terhadap panas winding, dan umur motor tidak akan berkurang. Motor dengan waktu operasi lebih dari 3 jam sudah termasuk kategori continue.
+2. Intermittent duty ( Intermittent / berkala dan special /khusus) :
+Berkala : motor dirancang untuk dioperasikan dengan waktu tertentu, kemudian distop dengan waktu tertentu untuk kesempatan pendinginan, kemudian dijalankan lagi.
+Special ; pemakaian dengan mencantumkan waktu tertentu. Misal: 5, 15 , 30 , 60 menit. Contoh: Motor buka / tutup pintu.
+
+3. Data Mekanis
+
+·Frame
+
+Frame F145T
+
+Frame menggambarkan ukuran fisik motor, dengan melihat tabel standard kita
+
+bisa mengetahui ukuran fisik secara lengkap antara lain : tinggi shaft, jarak baut,
+
+diameter shaft, panjang shaft, tinggi/panjang motor. Frame, diatas mengikuti
+
+standard NEMA, (National Electrical Manufacturing Association) yaitu standard
+
+yang dibuat oleh organisisi pembuat motor. Standard ini banyak diikuti pabrik-
+
+pabrik
+
+motor
+
+dari
+
+Amerika.
+
+Standard IEC (International Electrotechnical Commission) standard ini banyak
+
+diikuti oleh pabrikan motor dari Eropa. Sebagian besar pabrikan membuat motor
+
+sesuai dengan standard yang diminta pembeli. Sebetulnya untuk frame ini dapat
+
+dikonversi satu terhadap yang lain, tetapi tidak persis sama, makin besar motor
+
+makin besar beda ukuran.
+
+54
+
+Beberapa pedoman praktis frame NEMA:
+ Umumnya terdiri: berupa" huruf ­ angka ­ huruf " misal EF145T . Terdiri dari 2 digit/angka , untuk motor kecil atau kurang dari 1 Hp · Terdiri dari 3 digit/angka , untuk motor 1 Hp dan lebih besar · Huruf depan (prefix), merupakan angka khusus dari pabrikan. · Huruf dibelakang (suffix), metode pemasangan standard NEMA.
+ Ukuran frame · Frame dengan Angka 2 digit, angka ini jika dibagi 16 merupakan (D) jarak antara center shaft ke titik tengah dasar dalam inchi Contoh : Frame 56 berarti ukuran D = 56 : 16 = 3 ½" · Frame dengan Angka 3 digit, angka pertama - kedua jika dibagi 4 sebagai ( D ) jarak antara center shaft ke titik tengah dasar motor dalam inchi. Contoh : Frame 145 berarti :  D= 14 : 4 = 3 ½"  Angka Ketiga menyatakan jarak lubang baut parallel dasar maka frame 145 angka 5 " merupakan jarak ( E + E ) tetapi ini tidak mutlak.  Standard IEC. Angka-angka frame menyatakan jarak (D). misal frame IEC : 100L -> D = 100 mm, dan 90L -> D = 90 mm dst.
+55
+
+ Antara Frame IEC maupun NEMA ada kesamaan , meski ada sedikit perbedaan. Misal IEC 100L , D=100 mm hampir sama dengan NEMA 145T, D nya
+56
+
+PROGRAMMABLE LOGIC CONTROL (PLC)
+1. Sejarah PLC
+PLC pertama kali diperkenalkan pada tahun 1960-an. Alasan utama perancangan PLC adalah untuk menghilangkan beban ongkos perawatan dan penggantian sistem kontrol mesin berbasis relay. Bedford Associate (Bedford, MA) mengajukan usulan yang diberi nama MODICON (kepanjangan Modular Digital controller) untuk perusahaan-perusahaan mobil di Amerika. Sedangkan perusahaan lain mengajukan sistem berbasis komputer (PDP-8). MODICON 084 merupakan PLC pertama di dunia yang digunakan pada produk komersil. Saat kebutuhan produksi berubah maka demikian pula dengan sistem kontrol-nya. Hal ini menjadi sangat mahal jika perubahannya terlalu sering. Karena relai merupakan alat mekanik, maka, tentu saja, memiliki umur hidup atau masa penggunaan yang terbatas, yang akhirnya membutuhkan jadwal perawatan yang ketat. Pelacakan kerusakan atau kesalahan menjadi cukup membosankan jika banyak relai yang digunakan. Bayangkan saja sebuah panel kontrol yang dilengkapi dengan monitor ratusan hingga ribuan relai yang terkandung pada sistem kontrol tersebut. Bagaimana kompleks-nya melakukan pengkabelan pada relai-relai tersebut. Bayangkan saja hal ini. Dengan demikian "pengontrol baru" (the new controller) ini harus memudahkan para teknisi perawatan dan teknisi lapangan melakukan pemrograman. Umur alat harus menjadi lebih panjang dan program proses dapat dimodifikasi atau dirubah dengan lebih mudah. Serta harus mampu bertahan dalam lingkungan industri yang keras. Jawabannya ? Penggunaan teknik pemrograman yang sudah banyak digunakan (masalah kebiasaan dan pada dasarnya bahwa 'people do not like to change') dan mengganti bagian-bagian mekanik dengan teknologi solid-state (IC atau mikroelektronika atau sejenisnya) Pada pertengahan tahun 1970-an, teknologi PLC yang dominan adalah sekuenser mesinkondisi dan CPU berbasis bit-slice. Prosesor AMD 2901 dan 2903 cukup populer digunakan dalam MODICON dan PLC A-B. Mikroprosesor konvensional kekurangan daya dalam menyelesaikan secara cepat logika PLC untuk semua PLC, kecuali PLC kecil. Setelah mikroprosesor konvensional mengalami perbaikan dan pengembangan, PLC yang besar-besar mulai banyak menggunakan-nya. Bagaimanapun
+57
+
+juga, hingga saat ini ada yang masih berbasis pada AMD 2903. Kemampuan komunikasi pada PLC mulai muncul pada awalawal tahun 1973. Sistem yang pertama adalah Modbus-nya MODICON. Dengan demikian PLC bias berkomunikasi dengan PLC lain dan bisa ditempatkan lebih jauh dari lokasi mesin sesungguhnya yang dikontrol. Sekarang kemampuan komunikasi ini dapat digunakan untuk mengirimkan dan menerima berbagai macam tegangan untuk membolehkan dunia analog ikut terlibat. Sayangnya, kurangnya standarisasi mengakibatkan komunikasi PLC menjadi mimpi buruk untuk protokol-protokol dan jaringa-jaringan yang tidak kompatibel. Tetapi bagaimanapun juga, saat itu merupakan tahun yang hebat untuk PLC. pada tahun 1980an dilakukan usaha untuk menstandarisasi komunikasi dengan protokol otomasi pabrik milik General Motor (General Motor's Manufacturring Automation Protocol (MAP)). Juga merupakan waktu untuk memperkecil ukuran PLC dan pembuatan perangkat lunak pemrograman melalui pemgromaman simbolik dengan komputer PC daripada terminal pemrogram atau penggunaan pemrogram genggam (handled programmer).
+Gbr. PLC ZELIO (SMART RELAY)
+58
+
+2. Pengertian PLC
+Definisi Programmable Logic Controller menurut Capiel (1982) adalah sistem elektronik yang beroperasi secara dgjital dan didisain untuk pemakaian di lingkungan industri, dimana sistem ini menggunakan memori yang dapat diprogram untuk penyimpanan secara internal instruksi-instruksi yang mengimplementasikan fungsifungsi spesifik seperti logika, urutan, perwaktuan, pencacahan dan operasi aritmatik untuk mengontrol mesin atau proses melalui modul-modul I/O digital maupun analog.
+Berdasarkan namanya konsep PLC adalah sebagai berikut : 1. Programmable, menunjukkan kemampuan dalam hal memori untuk menyimpan program yang telah dibuat yang dengan mudah diubah-ubah fungsi atau kegunaannya. 2. Logic, menunjukkan kemampuan dalam memproses input secara aritmatik dan logic (ALU), yakni melakukan operasi membandingkan, menjumlahkan, mengalikan, membagi, mengurangi, negasi, AND, OR, dan lain sebagainya. 3. Controller, menunjukkan kemampuan dalam mengontrol dan mengatur proses sehingga menghasilkan output yang diinginkan.
+DASAR-DASAR SISTEM KENDALI PLC
+a. Uraian Materi 1. Sistem Kendali
+Istilah sistem kendali dalam teknik listrik mempunyai arti suatu peralatan atau sekelompok peralatan yang digunakan untuk mengatur fungsi kerja suatu mesin dan memetakan tingkah laku mesin tersebut sesuai dengan yang dikehendaki. Fungsi kerja mesin tersebut mencakup antara lain menjalankan (start), mengatur (regulasi), dan menghentikan suatu proses kerja. Pada umumnya, sistem kendali merupakan suatu kumpulan peralatan listrik atau elektronik, peralatan mekanik, dan peralatan lain yang menjamin stabilitas dan transisi halus serta ketepatan suatu proses kerja.
+59
+
+Sistem kendali mempunyai tiga unsur yaitu input, proses, dan output.
+
+Input
+
+Output
+
+PROSES
+
+Gambar 3. Unsur-unsur sistem kendali
+Input pada umumnya berupa sinyal dari sebuah transduser, yaitu alat yang dapat merubah besaran fisik menjadi besaran listrik, misalnya tombol tekan, saklar batas, termostat, dan lain-lain. Transduser memberikan informasi mengenai besaran yang diukur, kemudian informasi ini diproses oleh bagian proses. Bagian proses dapat berupa rangkaian kendali yang menggunakan peralatan yang dirangkai secara listrik, atau juga berupa suatu sistem kendali yang dapat diprogram misalnya PLC.
+Pemrosesan informasi (sinyal input) menghasilkan sinyal output yang selanjutnya digunakan untuk mengaktifkan aktuator (peralatan output) yang dapat berupa motor listrik, kontaktor, katup selenoid, lampu, dan sebagainya. Dengan peralatan output, besaran listrik diubah kembali menjadi besaran fisik.
+Sistem kendali dibedakan menjadi dua, yaitu sistem kendali loop terbuka dan sistem kendali loop tertutup.
+a) Sistem Kendali Loop Terbuka
+Sistem kendali loop terbuka adalah proses pengendalian di mana variabel input mempengaruhi output yang dihasilkan. Gambar 2 menunjukkan diagram blok sistem kendali loop terbuka.
+
+60
+
+Gangguan
+
+Setting
+
+Peralatan Kendali
+
+Sistem yang dikendalikan
+
+Output
+
+Gambar 4. Diagram blok sistem kendali loop terbuka
+
+Dari gambar 2 di atas, dapat dipahami bahwa tidak ada informasi yang diberikan oleh peralatan output kepada bagian proses sehingga tidak diketahui apakah hasil output sesuai dengan yang dikehendaki.
+b) Sistem Kendali Loop Tertutup
+
+Sistem kendali loop tertutup adalah suatu proses pengendalian di mana variabel yang dikendalikan (output) disensor secara kontinyu, kemudian dibandingkan dengan besaran acuan.
+
+Variabel yang dikendalikan dapat berupa hasil pengukuran temperatur, kelembaban, posisi mekanik, kecepatan putaran, dan sebagainya. Hasil pengukuran tersebut diumpan-balikkan ke pembanding (komparator) yang dapat berupa peralatan mekanik, listrik, elektronik, atau pneumatik. Pembanding membandingkan sinyal sensor yang berasal dari variabel yang dikendalikan dengan besaran acuan, dan hasilnya berupa sinyal kesalahan. Selanjutnya, sinyal kesalahan diumpankan kepada peralatan kendali dan diproses untuk memperbaiki kesalahan sehingga menghasilkan output sesuai dengan yang dikehendaki. Dengan kata lain, kesalahan sama dengan nol.
+
+61
+
+Gangguan
+
+Setting
+
+Error
+
+Peralatan Kendali
+
+Sistem yang dikendalikan
+(Proses)
+
+Output
+
+Umpan balik Gambar 5. Sistem kendali loop tertutup
+
+Sensor
+
+c) Sistem Kendali PLC
+Hingga akhir tahun 1970, sistem otomasi mesin dikendalikan oleh relai elektromagnet. Dengan semakin meningkatnya perkembangan teknologi, tugas-tugas pengendalian dibuat dalam bentuk pengendalian terprogram yang dapat dilakukan antara lain menggunakan PLC (Programmable Logic Controller). Dengan PLC, sinyal dari berbagai peralatan luar diinterfis sehingga fleksibel dalam mewujudkan sistem kendali. Disamping itu, kemampuannya dalam komunikasi jaringan memungkinkan penerapan yang luas dalam berbagai operasi pengendalian sistem.
+Dalam sistem otomasi, PLC merupakan ,,Jantung sistem kendali. Dengan program yang disimpan dalam memori PLC, dalam eksekusinya, PLC dapat memonitor keadaan sistem melalui sinyal dari peralatan input, kemudian didasarkan atas logika program menentukan rangkaian aksi pengendalian peralatan output luar.
+PLC dapat digunakan untuk mengendalikan tugas-tugas sederhana yang berulang-ulang, atau di-interkoneksi dengan yang lain menggunakan komputer melalui sejenis jaringan komunikasi untuk mengintegrasikan pengendalian proses yang kompleks.
+
+62
+
+Cara kerja sistem kendali PLC dapat dipahami dengan diagram blok seperti ditunjukkan pada Gambar 4.
+
+Catu Daya
+
+Peralatan Penunjang
+
+Peralatan input
+interfis input interfis output
+Peralatan output
+
+CPU
+memori
+Gambar 6. Diagram blok PLC
+Sebuah PLC bekerja dengan cara menerima data dari peralatan-peralatan input yang berupa saklar-saklar, tombol-tombol, sensor-sensor dan lain sebagainya, kemudian oleh PLC dibentuk menjadi keputusan-keputusan yang bersifat logika yang selanjutnya disimpan dalam suatu program ingatan. Dengan adanya perubahan dari kondisi input yang kemudian diolah oleh PLC, selanjutnya perintah-perintah dari input akan ditransfer oleh PLC ke output yang kemudian dapat digunakan untuk menggerakkan mesin-mesin atau suatu alur proses produksi.
+Dari gambar blok diagram di atas, PDT (Program Development Terminal), yang berupa keyboard dilengkapi dengan simbol-simbol perintah untuk melaksanakan, mengedit dan memonitor program-program dari rangkaian control mesin atau alur proses produksi.
+Program-program rangkaian kontrol yang telah dibentuk pada bagian PDT kemudian ditransfer ke CPU dan selanjutnya akan diolah dan disimpan dalam register memori. Sinyal-sinyal input yang datang dari rangkaian luar akan dikirim ke modul input PLC, yang selanjutnya sinyal tersebut dirubah menjadi sinyalsinyal logic yang kemudian diolah oleh CPU sesuai dengan kondisi program yang telah ditetapkan untuk selanjutnya diteruskan ke output modul untuk menggerakkan mesin-mesin atau proses
+63
+
+produksi. Sinyal yang masuk ke input diisolasikan terhadap sinyal yang terjadi di CPU dari pengaruh kejutan-kejutan listrik yang umumnya sering terjadi di lingkungan industri. Jadi untuk lebih jelasnya, fungsi dari komponen-komponen dasar dari blok diagram dari PLC di atas, adalah : 1. Program Development Terminal (PDT) atau sering pula disebut Programming
+Console, berfungsi untuk memprogram rangkaian kontrol (Ladder Diagram & Statement List) yang dirancang untuk suatu sistem kerja mesin atau suatu alur proses produksi. 2. Central Processing Unit (CPU), berfungsi untuk menyimpan dan mengolah program rangkaian control yang ditransfer dari PDT dan sebagai penghubung ke modulmodul input dan output. CPU juga berfungsi untuk menyelesaikan dan mengolah fungsi-fungsi logika untuk dibentuk menjadi fungsi-fungsi yang diinginkan berdasarkan program-program yang telah ditetapkan. 3. Modul input dan modul output berfungsi untuk merubah sinyal-sinyal listrik yang datang dari peralatan luar menjadi besaran tegangan dengan level rendah dan selanjutnya akan diproses oleh CPU menjadi bentuk sinyal dengan level-level tertentu untuk mengontrol peralatan-peralatan atau mesin-mesin di industri. Sinyal yang dating dari modul input dan sinyal-sinyal yang diproses pada CPU diisolasi secara optik terhadap noise-noise listrik. 4. Peralatan input dan output (I/O Device) adalah peralatan-peralatan luar yang dihubungkan ke modul input dan modul output yang dapat berupa saklar-saklar, tombol-tombol tekan, relai-relai, kontaktor-kontaktor, motor-motor starter, solenoidsolenoid dan lain sebagainya.
+3. Fungsi PLC
+PLC ini dirancang untuk menggantikan suatu rangkaian relay sequensial dalam suatu system kontrol. Selain dapat diprogram, alat ini juga dapat dikendalikan, dan dioperasikan oleh orang yang tidak memiliki pengetahuan di bidang pengoperasian komputer secara khusus. PLC ini memiliki bahasa pemrograman yang mudah dipahami dan dapat dioperasikan bila program yang
+64
+
+telah dibuat dengan menggunakan software yang sesuai dengan jenis PLC yang digunakan sudah dimasukkan.Alat ini bekerja berdasarkan input-input yang ada dan tergantung dari keadaan pada suatu waktu tertentu yang kemudian akan meng-ON atau meng-OFF kan output-output. 1 menunjukkan bahwa keadaan yang diharapkan terpenuhi sedangkan 0 berarti keadaan yang diharapkan tidak terpenuhi. PLC juga dapat diterapkan untuk pengendalian sistem yang memiliki output banyak. Fungsi dan kegunaan PLC sangat luas. Dalam prakteknya PLC dapat dibagi secara umum dan secara khusus. Secara umum fungsi PLC adalah sebagai berikut:
+1. Sekuensial Control. PLC memproses input sinyal biner menjadi output yang digunakan untuk keperluan pemrosesan teknik secara berurutan (sekuensial), disini PLC menjaga agar semua step atau langkah dalam proses sekuensial berlangsung dalam urutan yang tepat.
+1) Monitoring Plant. PLC secara terus menerus memonitor status suatu system (misalnya temperatur, tekanan, tingkat ketinggian) dan mengambil tindakan yang diperlukan sehubungan dengan proses yang dikontrol (misalnya nilai sudah melebihi batas) atau menampilkan pesan tersebut pada operator.
+4. Keuntungan dan Kerugian PLC
+Dalam industri-industri yang ada sekarang ini, kehadiran PLC sangat dibutuhkan terutama untuk menggantikan sistem wiring atau pengkabelan yang sebelumnya masih digunakan dalam mengendalikan suatu sistem. Dengan menggunakan PLC akan diperoleh banyak keuntungan diantaranya adalah sebagai berikut:
+ Fleksibel Pada masa lalu, tiap perangkat elektronik yang berbeda dikendalikan dengan pengendalinya masing-masing. Misal sepuluh mesin membutuhkan sepuluh pengendali, tetapi kini hanya dengan satu PLC kesepuluh mesin tersebut dapat dijalankan dengan programnya masing-masing. Perubahan dan pengkoreksian kesalahan sistem lebih mudah Bila salah satu sistem akan
+65
+
+diubah atau dikoreksi maka pengubahannya hanya dilakukan pada program yang terdapat di komputer, dalam waktu yang relatif singkat, setelah itu didownload ke PLC-nya. Apabila tidak menggunakan PLC, misalnya relay maka perubahannya dilakukan dengan cara mengubah pengkabelannya. Cara ini tentunya memakan waktu yang lama.  Jumlah kontak yang banyak Jumlah kontak yang dimiliki oleh PLC pada masing-masing coil lebih banyak daripada kontak yang dimiliki oleh sebuah relay.  Harganya lebih murah PLC mampu menyederhanakan banyak pengkabelan dibandingkan dengan sebuah relay. Maka harga dari sebuah PLC lebih murah dibandingkan dengan harga beberapa buah relay yang mampu melakukan pengkabelan dengan jumlah yang sama dengan sebuah PLC. PLC mencakup relay, timers, counters, sequencers, dan berbagai fungsi lainnya.  Pilot running PLC yang terprogram dapat dijalankan dan dievaluasi terlebih dahulu di kantor atau laboratorium. Programnya dapat ditulis, diuji, diobserbvasi dan dimodifikasi bila memang dibutuhkan dan hal ini menghemat waktu bila dibandingkan dengan sistem relay konvensional yang diuji dengan hasil terbaik di pabrik.  Observasi visual Selama program dijalankan, operasi pada PLC dapat dilihat pada layar CRT. Kesalahan dari operasinya pun dapat diamati bila terjadi.  Kecepatan operasi Kecepatan operasi PLC lebih cepat dibandingkan dengan relay. Kecepatan PLC ditentukan dengan waktu scannya dalam satuan millisecond.  Metode Pemrograman Ladder atau Boolean Pemrograman PLC dapat dinyatakan dengan pemrograman ladder bagi teknisi, atau aljabar Boolean bagi programmer yang bekerja di system kontrol digital atau Boolean.Sifatnya tahan uji Solid state device lebih tahan uji dibandingkan dengan relay dan timersmekanik atau elektrik. PLC merupakan solid state device sehingga bersifat lebih tahan uji.
+66
+
+ Menyederhanakan komponen-komponen sistem control Dalam PLC juga terdapat counter, relay dan komponen-komponen lainnya, sehingga tidak membutuhkan komponen-komponen tersebut sebagai tambahan. Penggunaan relay membutuhkan counter, timer ataupun komponen-komponen lainnya sebagai peralatan tambahan.
+ Dokumentasi Print out dari PLC dapat langsung diperoleh dan tidak perlu melihat blueprint circuit-nya. Tidak seperti relay yang printout sirkuitnya tidak dapat diperoleh. Keamanan Pengubahan pada PLC tidak dapat dilakukan kecuali PLC tidak dikunci dan diprogram. Jadi tidak ada orang yang tidak berkepentingan dapat mengubah program PLC selama PLC tersebut dikunci. Dapat melakukan pengubahan dengan pemrograman ulang Karena PLC dapat diprogram ulang secara cepat, proses produksi yang bercampur dapat diselesaikan. Misal bagian B akan dijalankan tetapi bagian A masih dalam proses, maka proses pada bagian B dapat deprogram ulang dalam satuan detik.
+ Penambahan rangkaian lebih cepat Pengguna dapat menambah rangkaian pengendali sewaktu-waktu dengan cepat, tanpa memerlukan tenaga dan biaya yang besar seperti pada pengendali konvensional.
+Selain keuntungan yang telah disebutkan di atas maka ada kerugian yang dimiliki oleh PLC, yaitu:
+ Teknologi yang masih baru Pengubahan sistem kontrol lama yang menggunakan ladder atau relay ke konsep komputer PLC merupakan hal yang sulit bagi sebagian orang
+ Buruk untuk aplikasi program yang tetap Beberapa aplikasi merupakan aplikasi dengan satu fungsi. Sedangkan PLC dapat mencakup beberapa fungsi sekaligus. Pada aplikasi dengan satu fungsi jarang sekali dilakukan perubahan bahkan tidak sama sekali, sehingga penggunaan PLC pada aplikasi dengan satu fungsi akan memboroskan (biaya).
+67
+
+ Pertimbangan lingkungan Dalam suatu pemrosesan, lingkungan mungkin mengalami pemanasan yang tinggi, vibrasi yang kontak langsung dengan alat-alat elektronik di dalam PLC dan hal ini bila terjadi terus menerus, mengganggu kinerja PLC sehingga tidak berfungsi optimal.
+ Operasi dengan rangkaian yang tetap Jika rangkaian pada sebuah operasi tidak diubah maka penggunaan PLC lebih mahal dibanding dengan peralatan kontrol lainnya. PLC akan menjadi lebih efektif bila program pada proses tersebut di-upgrade secara periodik.
+Zelio adalah produk dari Telemecanique yang di ageni oleh PT. Schneider Indonesia. Walau saya tidak bekerja di PT. Schneider Indonesia, tapi saya pernah mendapatkan pelatihan 3 hari dari mereka tentang 'Zelio' ini. Saya ingin berbagi di postingan ini karena Zelio ini cukup murah harga nya dan banyak sekali aplikasi yang bisa di gunakan. Saya coba lihat2 melalui 'Google' ternyata Zelio ini juga cukup populer.
+Zelio secara umum memang banyak di gunakan untuk OEM, aplikasi mesin/industri yang kecil saja, namun saya lihat juga Zelio ini ternyata juga bisa di gunakan untuk Lighting Control atau Automation sederhana dengan free customized program. Bahkan bisa juga di fungsikan sebagai master control security system. Masalahnya saya belum pernah coba langsung dengan alatnya, selama ini saya hanya test secara virtual menggunakan Zelio Software.
+Yang membuat saya tertarik dengan produk ini adalah adanya system paket yang cukup murah (paket termurahnya kira2 Rp. 3,5jt), dimana dalam 1 paket ini sudah termasuk GSM modul. Sedangkan GSM Modul sendiri (Merk ABB atau Merk lain) itu harganya cukup mahal, saya pernah pasang harganya sekitar 10 jutaan (GSM Modul saja). Secara fungsi dan kapasitas memang tidak sama, masing2 punya kelebihan dan kekurangan,
+68
+
+namun dengan selisih harga sebesar itu saya pasti pilih Zelio. Keunggulan dari Zelio Smart Relay :
+1. Sangat mudah untuk di implementasikan dan waktu implementasi proyek lebih cepat
+2. Bersifat Flexible dan cukup handal 3. Mudah dalam modifikasi (Software) 4. Lebih Ekonomis dibandingkan PLC untuk aplikasi sederhana 5. Waktu training yng cukup singkat 6. Tersedianya modul komunikasi MODBUS sehingga Zelio dapat menjadi Slave
+PLC dalam suatu jaringan PLC 7. Beberapa fiture2 unggulan zelio: Fast counter (hingga 1kHz), 2 pilihan bahas
+program (Ladder atau FBD (Function Block Diagram)), 16 buah timer, 16 buah counter, 8 buah blok fungsi clock(setiap blok fungsi memiliki 4 kanal), automatic summer/winter time switching dan 16 buah analog comparator 8. Harganya jauh lebih murah dibandingkan PLC. Kekurangan dari Zelio ini bila digunakan sebagai Automation system adalah : 1. Karena Produk ini memang untuk aplikasi sederhana, maka Zelio terbatas dalam jumlah Input dan Output, maximum kapasitas Zelio adalah 40 I/O terdiri dari 24 input (6 analog dan 18 binary) dan 16 output. Bila untuk aplikasasi yang besar saya sarankan tetap gunakan PLC seperti SCADA atau yang lainnya
+2. Bila dipergunakan untuk Lighting Control, Zelio tidak bisa langsung di gunakan sebagai Dimmer control, jadi Dimmer Control harus beli lagi, sedangkan Zelio hanya sebagai input dari Dimmer Control tersebut.
+5. Aplikasi PLC
+Karena luasnya fungsi-fungsi operasi yang dilakukan oleh PLC, maka PLC dapat digunakan untuk mengontrol mesin-mesin atau proses di berbagai jenis industri, yang diantarannya adalah :
+69
+
+1. Pengontrolan stasiun-stasiun tenaga. 2. Industri Farmasi 3. Kontrol dapur-dapur peleburan 4. Kontrol robot-robot untuk assembling. 5. Kontrol pengetesan circuit breaker 6. Kontrol alur proses industri. 7. Kontrol penerangan untuk gedung-gedung bertingkat. 8. Kontrol untuk jaringan pipa minyak. 9. Kontrol industri lembaran-lembaran baja. 10. Kontrol untuk penelitian biokimia. 11. Kontrol industri otomotif. 12. Kontrol untuk system monitoring distribusi daya listrik. 13. Kontrol untuk jaringan pompa-pompa air. 14. Kontrol untuk industri pembuat semen. 15. Kontrol untuk industri makanan dan minuman. 16. Dan lain sebagainya.
+70
+
+KOMPONEN PLC
+1. CPU (Central Processing Unit) Fungsi utama dari CPU adalah untuk mengerjakan semua penyelesaian keputusankeputusan aritmatika dan logika. Selanjutnya dibentuk menjadi operasi-operasi seperti yang telah deprogram oleh si pemakai. CPU terdiri bermacam-macam rangkaian memori untuk menyimpan program pemakai, menyimpan macam-macam tabel yang diperlukan untuk status bit dan data manipulasi, menyimpan instruksi-instruksi program yang berfungsi untuk memberikan petunjuk-petunjuk pada orang yang melaksanakan program. Perangkat CPU dipasang pada rak-rak atau panel-panel standard. Perangkat CPU tersebut terdiri dari :
+ Modul Catu Daya Modul Catu Daya ini fungsinya memberi suplai ke modul-modul lainnya. Tegangan
+input dihidupkan dan dimatikan melalui sebuah Circuit Breaker yang dipasang di depan panel, yang dilengkapi pula dengan lampu-lampu indikasi, sebagai monitor tegangan masuk, juga untuk tegangan keluaran dc. Terminal strip yang di depan panel dilengkapi dengan dua kontak alarm dan dihubungkan pula dengan suatu baterai luar, yang berfungsi untuk mencegah agar RAM CMOS tidak hilang pada saat catu daya input terputus. Kadang dilengkapi pula dengan dua buah saklar kunci yang diletakkan di depan panel yang fungsinya untuk menghentikan dan menjalankan operasi CPU, dan untuk melindungi memori (Memory Protected Switch). Memory Protected Switch ini berfungsi untuk melindungi program yang telah dimasukkan ke CPU. Jadi dalam kondisi Memori Protected Switch ini ON, maka program apapun tidak dapat dimasukkan lagi ke CPU.  Modul Kontrol Logik Modul Kontrol Logik ini berisi rangkaian-rangkaian untuk membangkitkan sinyal-sinyal yang digunakan untuk mengontrol seluruh modul-modul CPU lainnya. Modul ini dilengkapi dengan mikro program kontroler, dengan kapasitas 512 atau 2048 kata (word), yang disimpan oleh 88 bit PROM (Programmable Read Only Memory). Ada dua versi dari Modul Kontrol Logik
+71
+
+ini, yang pertama deprogram dengan fungsi-fungsi dasar, dan yang kedua diprogram untuk fungsi-fungsi tingkat lanjut.  Modul Kontrol Aritmatik Modul Kontrol Aritmatik (Arithmatic Control Module) ini berisi rangkaian yang membentuk fungsi perhitungan dan operasi-operasi secara logic pada alur data dan address. Dasar waktu untuk fungsi-fungsi timer dalam CPU diambil dari sinyal clock 3,2 MHz. Pada Modul Kontrol Aritmatik berisi 4 register, yang mana register-register tersebut adalah :
+ Continuity Register  Buffer Register  Accumulate Register  Preset Register Continuity Register dan Buffer Register ini mempunyai lebar 1 bit, dan Accumulate Register serta Preset Register mempunyai leber 16 bit atau 8 bit. Operasi matematis yang diolah pada modul ini diproses dalam mikro prosesor bipolar 4 bit, dalam hal ini dilengkapi pula dengan instruksiinstruksi untuk memudahkan pelaksanaan perintah-perintah matematis seperti perkalian, pembagian serta operasi-operasi lainnya.  Modul Kontrol I/O Modul Kontrol Input dan Output iniberfungsi sebagai penghubung antara CPU dengan saluran Input dan Output Utama. Disamping itu modul ini berguna pula untuk menyalurkan perintah-perintah, status-status program, pemilihan bagianbagian program, kunci-kunci data, status multiplexer dan dilengkapi pula dengan rangkaian-rangkaian interupsi dan rangkaian-rangkaian kontrol untuk Modul Input dan Modul Output Pembantu (Auxiliary I/O) dan Modul Kontrol Komunikasi.  Modul Memori Modul Memori ini sangat diperlukan sekali pada kondisi kerja CPU, yang gunanya untuk menyimpan instruksi-instruksi, program-program ataupun perintah-perintah lainnya. Modul Memori ini terdiri dari : Internal Memory, Register Memory dan Logic Memory. Pada masing-masing Modul memori ini dilengkapi dengan rangkaian untuk memproteksi memori, indicator untuk
+72
+
+mengetahui status dari back up baterai, alamat-alamat memori dan lokasi-lokasi memori. Modul Memori di atas merupakan suatu rangkaian memori yang terpadu dengan menggunakan chip IC CMOS RAM yang mempunyai keuntungankeuntungan karena hanya memerlukan daya yang sangat rendah. Kemampuan menyimpan memori dari IC CMOS RAM ini bervariasi tergantung dari kebutuhan, misalnya 2kB, 4 kB, 8 kB atau lebih. Karena chip memori CMOS RAM ini sifatnya mudah berubah atau labil, artinya isi memorinya akan hilang atau terhapus apabila suplai tegangan terputus. Untuk itu pula, maka masing-masing memori tersebut dilengkapi dengan baterai lithium dioxide dengan tegangan 2,95 V, yang fungsinya melindungi isi memori apabila sewaktu-waktu terjadi kegagalan pada power supply. Baterai lithium tersebut mampu untu bekerja secara kontinyu dalam waktu lebih dari 6 bulan. Untuk mengecek kondisi kerja baterai dimonitor oleh sebuah LED yang bekerja dengan tiga kondisi. Kondisi pertama LED akan menyala dengan normal, yang menunjukkan bahwa kondisi tegangan baterai dalam keadaan normal pula. Pada kondisi yang ke-2 yaitu jika kondisi tegangan baterai mulai turun dan berada diantara 2,55 ­ 2,75 V, maka LED akan menyala berkedip-kedip, dalam hal ini CPU masih mampu untuk tetap bekerja. Pada kondisi yang ke-3 LED akan mati apabila tegangan baterai jatuh di bawah 2,55 V dan dengan sendirinya CPU akan berhenti bekerja. Selanjutnya fungsi dari masing-masing modul memori yang tersebut di atas dapat dijelaskan berikut ini.  Internal Memory Module
+Modul ini merupakan modul logik yang dibuat agar dapat menyimpan berbagai jenis tabel di dalam CMOS RAM dan dilengkapi dengan baterai lithium sebagai back up. Modul ini mempunyai kemampuan untuk menyimpan 256 x 8 kata. Selanjutnya tabel-tabel yang disimpan dalam Modul Internal Memory sebagai berikut :
+ Tabel status, yaitu tabel yang berisi bit-bit yang menyatakan statuson atau off dari semua input dan output yang disediakan untukmenghubungkan dengan saluran input dan output utama.
+ Tabel Override, yaitu tabel yang berisi status untuk menahan perubahan dari kondisi bit-bit input maupun output, sehingga
+73
+
+status input dan output tidak akan berubah dari kondisi semula, walaupun CPU telah memberikan perintah-perintah untuk merubah kondisi input dan output sesuai dengan kondisi kerja rangkaian yang telah deprogram.  Tabel transisi, yaitu tabel yang berisi kondisi logik dari input kecounter-counter. Selain itu juga status one shot relay disimpan dalam tabel ini.  Register Memory Module Modul Register Memory ini terdiri dari papan rangkaian induk yang berisi perintah-perintah untuk membangkitkan atau menghasilkan keseimbangan memori dan pemeriksaan fungsi-fungsi program. Modul ini terdiri pula dengan papan rangkaian anak yang berisi 1024 regisiter 16 bit di dalam CMOS RAM, yang dilengkapi pula dengan beterai lithium sebagai back up. Modul ini digunakan pula untuk memanipulasi bit-bit dengan fungsi-fungsi mnemonic *) tertentu. Bus data untuk mentransfer perintah-perintah logik dibangkitkan pula pada modul ini.  Logic Memory Module Modul ini berisi perangkat semikonduktor CMOS RAM yang digunakan untuk menyimpan program (Ladder Diagram atau Statement List) yang telah diinstruksikan oleh pemakai. Memori yang disediakan dalam masing-masing modul ini bervariasi tergantung kebutuhan, misalnya berisi 2 kB, 4 kB atau 8 kB. Dasar katanya adalah 2 byte atau terdiri dari 16 bit ditambah dengan 2 bit sebagai penyeimbang atau disebut pula dengan bit parity, yang mana masing-masing bit untuk 1 byte atau kata (word). Bit parity ini diperlukan untuk memriksa kelengkapan dari isi data pada masing-masing kata atau dengan kata lain bit parity ini digunakan untuk memeriksa kesalahan yang terjadi dalam penyaluran byte. Pemeriksaan data dari kata tersebut dilaksanakan secara otomatis oleh CPU. Modul ini dilengkapi pula dengan baterai lithium sebagai back up, apabila hubungan catu daya suatu saat terputus, agar semua memori yang tersimpan tidak hilang atau terhapus.
+74
+
+ Modul Input dan Output Pembantu Modul Input dan Output Pembantu (I/O Auxiliary Module) ini berupa rangkaian untuk menghubungkan suatu rantai input dan output pembantu ke saluran CPU. Modul ini merupakan suatu sistem I/O Pembantu yang kedua, yang mempunyai struktur yang sama dengan sistem I/O Utama yang dihubungkan pula dengan CPU. Sistem I/O Pembantu ini dapat melaksanakan fungsi kerja yang sama dengan sistem I/O Utama, hanya dalam hal ini fungsi program input dan output pembantu di sini tidak dapat ditekan (override). Sistem input output pembantu ini mempunyai 1000 input dan 1000 output. Tabel status I/O Pembantu ini secara fisik disimpan dalam register 1 sampai register 128. Register 1 ­ 64 merupakan tabel status output pembantu, dan register 65 ­ 126 merupakan tabel status input pembantu. Modul Input dan Output Pembantu
+ SISTEM INPUT/OUTPUT Sistem input/output dari PLC merupakan suatu sistem tersendiri, yakni modulmodul input maupun output ditempatkan pada rak yang mempunyai catu daya tersendiri pula. Kapasitas dari suatu rak dari sistem input/output ini bervariasi, tergantungdari tipe-tipe PLC. Dari hasil pengamatan lapangan, suatu rak I/O dapat berisi sampai 8 buah modul input/output, masing-masing modul mempunyai kapasitas input atau output yang bervariasi pula. Jika 8 modul input serta output dimasukkan pada suatu rak, maka akan dioperoleh titik input atau output sebanyak 256 titik, ini jika masing-masing modul mempunyai 32 titik input atau output. Untuk menentukan urutan titik-titik input atau output, mulai dari nomor 1 sampai 256, digunakan suatu DIP (Dual In Package) switch 7 segment. Masing-masing modul mempunyai sebuah DIP switch 7 segment yang ditempatkan pada rak. Sehingga dengan mengatur posisi switch dari masingmasing segment ini, dengan membuka atau menutup akan diperoleh suatu urutan nomor dari titik input atau output yang diinginkan.
+75
+
+DASAR ­ DASAR PEMROGRAMAN PLC PROGRAM Program ini adalah tempat dimana kita dapat menuliskan program pada PLC. PARAMETER
+Parameter digunakan disaat kita membutuhkan setingan untuk timer dan atau counter. Dengan parameter tersebut dapat di seting waktu untuk timer dan masukkan untuk counter. Karena parameter inilah yang akan menentukan dari system kerja timer dan counter. RUN/STOP Menu ini digunakan untuk menjalankan program yang telah dibuat, dan juga untuk menghentikan program yang sedang berjalan.
+CLEAR PROGRAM Clear program ini biasanya digunakan untuk menghapus sebuah program yang berada didalam PLC, sehingga tidak perlu menghapus program satu persatu
+76
+
+Bagaimana cara menyelesaikan program PLC. 77
+
+Dari gambar diatas dapat diuraikan bahwa sebelum memulai menyelesaikan atau membuat sebuah diagram leader sebelumnya kita harus memahami terlebih dahulu kebutuhan control system yang akan dibuat, yang berupa input ataupun output yang akan digunakan. Setelah mengidentifikasi kebutuhan yang digunakan kita mulai dengan membuat sebuah flow chart atau diagram alir dari system yang akn dibuat. Sehingga dapat kita ketahui apa yang menjadi permasalahan dari system tersebut. Dan masukkan pula input maupun output yang menjadi indikasi jalannya suatu system yang dibuat. Setelah dibuat semua, terapkanlah semua flow chart atau diagram alir yang dibuat sebelumnya pada program PLC, disini kita harus mengerti logika-logika yang dibuat dimana logika tersebut akan sangat berperan penting dalam pembuatan program PLC. Setelah selesai diterapkan dalam program PLC, simulasikan program yang telah dibuat,apakah sama dengan system yang diinginkan atau belum, jika belum analisa lagi program yang anda buat. Jika sudah sama maka hubungkanlah pada input dan output yang akan digerakkan.
+Dalam PLC terdapat dua kontak yang dapat digunakan yaitu contact normally open (NO) dan normally close (NC).
+Namun dengan adanya dua contack tersebut dapat kita kembangkan menjadi logika-lokika yang lain: NOT, AND, OR, NOR, dll.
+78
+
+Sehingga tabel kebenarannya sebagai berikut: 1. Logika NOT
+
+INPUT 0 1
+
+OUTPUT 1 0
+
+2. Logika AND
+
+Gbr. Diagram leader Gbr. Program zelio
+
+79
+
+INPUT 1 1 0 1 0
+
+INPUT 2 0 1 1 0
+
+OUTPUT 0 0 1 0
+
+3. Logika OR
+
+Gbr. Diagram leader Gbr. Program zelio
+
+INPUT 1 1 0 1 0
+
+INPUT 2 0 1 1 0
+
+OUTPUT 1 1 1 0
+
+4. Logika NOR
+
+Gbr. Diagram leader
+
+80
+
+Gbr. Program zelio
+
+INPUT 1 1 0 1 0
+
+INPUT 2 0 1 1 0
+
+OUTPUT 0 0 0 1
+
+5. Logika NAND
+
+Gbr. Diagram leader
+
+Gbr. Program zelio
+
+INPUT 1 1 0 1 0
+
+INPUT 2 0 1 1 0
+
+OUTPUT 1 1 0 1
+
+Dari gerbang logika diatas dapat dikembangkan lagi logika- logika yang lain.
+
+TIMER Timer berfungsi untuk mengaktifkan suatu keluaran dengan interval waktu yang
+dapat diatur. Pengaturan waktu dilakukan melaui nilai setting (preset value). Timer
+
+81
+
+tersebut akan bekerja bila diberi input dan mendapat pulsa clock. Untuk pulsa clock sudah disediakan oleh pembuat PLC. Besarnya nilai pulsa clock pada setiap timer tergantung pada nomor timer yang digunakan. Saat input timer ON maka timer mulai mencacah pulsa dari 0 sampai preset value. Bila sudah mencapai preset value maka akan mengaktifkan Output yang telah ditentukan.
+Gbr. Program zelio COUNTER
+Fungsi counter adalah mencacah pulsa yang masuk. Sepintas cara kerja counter dan timer mirip. Perbedaannya adalah timer mencacah pulsa internal sedangkan counter mencacah pulsa dari luar.
+Gbr. Program zelio
+82
+
+DAFTAR PUSTAKA
+ Aprilawati, Hidayah. 2007. Perancangan Unit Instalasi Genset Di PT Aichi Tex Indonesia "Design Installation Unit Of Genset At PT Aichi Tex Indonesia" (Tugas Akhir, Politeknik Negeri Bandung, 2007).
+ Diakses dari http://bayupancoro.wordpress.com pada tanggal 25-07-2009 jam 8.30.
+ Diakses dari http://sbaskoro.wordpress.com pada tanggal 22-01-2009 jam10.22.  Diakses dari http://soemarno.org pada tanggal 22-01-2009 jam 11.08.  Diakses dari http://www.habetec.com pada tanggal 25-07-2009 jam 09.30.  Diakses dari http://www.omron.com/products/indu.html pada tanggal 25-07-
+2009 jam 8.10.  Diakses dari http://www.omron.com/products/indu.html pada tanggal 09-02-
+2009 jam 8.12.  Diakses dari needly.multiply.com pada tanggal 22-01-2009 jam 10.08.  Diakses dari www.CAT-ElectricPower.com pada tanggal 09-02-2009 jam 8.25.  Diakses dari www.claytonengineering.com pada tanggal 09-02-2009 jam 09.00.  Diakses dari www.germes-online.com pada tanggal 25-07-2009 jam 8.18.  Diakses dari www.gtkabel.com pada tanggal 25-07-2009 jam 09.00.  Diakses dari www.scheneider.com pada tanggal 09-02-2009 jam 8.40.  Harten, Van. Setiawan. 1981. Instalasi Listrik Arus Kuat 1. Bandung: Bina
+Cipta.  Muhaimin. 1995. Instalasi Listrik 1. Bandung: Pusat Pengembangan Pendidikan
+Politeknik Negeri Bandung.  Panitia PUIL. 2000. Persyaratan Umum Instalasi Listrik 2000 (PUIL 2000).
+Jakarta: Yayasan PUIL.  Supari, dkk. 2008. Teknik Pembangkit Tenaga Listrik Jilid 1 untuk SMK.
+Jakarta: Direktorat Pembinaan Sekolah Menengah Kejuruan, Direktorat Jenderal Manajemen Pendidikan Dasar dan Menengah, Departemen Pendidikan Nasional.
+83
+
+ Tim Penyusun Kurikulum SMK Perkapalan Fakultas Teknologi Kelautan ITS, Bagian Proyek Pengembangan Kurikulum. 2003. Dasar-Dasar Listrik: Menyambung Dan Mencabang Kabel. Jakarta: Direktorat Pendidikan Menengah Kejuruan Direktorat Jenderal Pendidikan Dasar Dan Menengah Departemen Pendidikan Nasional.
+ Tim Penyusun Kurikulum SMK Perkapalan Fakultas Teknologi Kelautan ITS, Bagian Proyek Pengembangan Kurikulum. 2003. Dasar-Dasar Listrik: Mengoperasikan Wattmeter. Jakarta: Direktorat Pendidikan Menengah Kejuruan Direktorat Jenderal Pendidikan Dasar Dan Menengah Departemen Pendidikan Nasional.
+ Untung, Lauw Lim dan Henny Oktavia. kWh Meter Dengan Sistem Prabayar. Electrical Engineering Dept., Petra Christian Universtity Surabaya Indonesia.
+ Drs. M. Kharis, dkk. 2005. Memelihara Panel Listrik untuk SMK Bidang Keahlian Teknik Listrik Program Keahlian Pemanfaatan Energi Listrik : Direktorat Pembinaan Sekolah Menengah Kejuruan, Direktorat Jenderal Manajemen Pendidikan Dasar dan Menengah, Departemen Pendidikan Nasional.
+ Darsono B Sc dan Agus Ponidjo B Sc. 1979. Petunjuk Praktek Listrik 1, Jakarta : Direktorat Dikmenjur.
+84

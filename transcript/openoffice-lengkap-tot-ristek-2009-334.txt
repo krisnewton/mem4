@@ -1,0 +1,1475 @@
+Modul Pelatihan Training Of Trainers Open Source Software "OpenOffice 3.0.0"
+Versi : 004 Update Mei 2009
+Kerjasama 1. Kementerian Negara Riset dan Teknologi RI, http://www.ristek.go.id
+2. Ardelindo Aples, http://www.ardelindo.com 3. POSS/IGOS Center Setempat 4. Komunitas Linux
+
+Kata Pengantar
+
+Kata Pengantar
+
+Pentingnya perang teknologi informasi dalam kehidupan masyarakat mendorong perlunya peningkatan kemandirian, daya saing, kreativitas serta inovasi bangsa sebagai kunci utama keberhasilan pembangunan bangsa. Untuk itu pencanangan program open source sebagai upaya pengembangan dan pemanfataan open source software di Indonesia merupakan salah satu langkah strategis dalam percepatan penguasaan teknologi informasi di Indonesia. Keyakinan untuk memilih open source software (OSS) memerlukan langkah yang tepat untuk mendorong penggunaan dan pemanfaatan perangkat lunak berbasis open source (Sumber : Buku Panduan Igos Nusantara).
+Sementara itu, penggunaan OSS di sektor pemerintah dirasa masih sangat kurang. Hasil survai yang dilakukan oleh Tim IGOS Kementrian Riset dan Teknologi memperlihatkan beberapa hasil dan kendala dalam melakukan implemententasi OSS. Untuk mendukung penggunaan komputer dalam operasional kegiatan perkantoran perlu dilakukan TOT penggunaan aplikasi perkantoran OpenOffice
+Pelatihan TOT OSS periode 2009 ini adalah pelatihan lanjutan dari tahun-tahun sebelumnya di kota-kota Indonesia yang dilaksanakan secara free (gratis) dan diperuntukkan bagi seluruh lapisan masyarakat terutama pemerintah daerah setempat. Informasi kegiatan pelatihan TOT ini dapat diakses pada alamat URL http://www.ristek.go.id atau http://www.igos.or.id.
+Diharapkan dengan telah terlaksananya program ini dapat dapat meningkatkan sumber daya manusia yang profesional dalam penggunaan Open Source Software dan mengurangi penggunaan software bajakan.
+
+Jakarta, 31 Mei 2009
+
+Hasan B. Usman Lamatungga hasan@ardelindo.com
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page i
+
+Course Objective
+
+Course Objective
+
+Penyajian pelatihan OpenOffice.org adalah sebagai berikut :
+1. Modul pelatihan OpenOffice ini menggunakan OpenOffice versi 3.0.0 pada distribusi Linux Nusantara 3 (Mahakam), walaupun modul OpenOffice ini disusun menggunakan Linux Nusantara 3 namum dapat pula diterapkan pada distro linux maupun sistem operasi lainnya.
+2. Pemaparan modul menggunakan bahasa Indonesia 3. Materi yang di ajarkan adalah OpenOffice Writer, OpenOffice Calc dan OpenOffice Impress 4. Dalam pelatihan ini pula partisipan akan diberikan CD Installer Linux Nusantara 3. 5. Modul pelatihan di distribusikan dengan bebas (GPL)
+Diharapkan dari pelatihan ini partisipan :
+1. Dapat melakukan Instalasi OpenOffice pada Linux 2. Memahami OpenOffice secara umum 3. Dapat menggunakan dan mengoperasikan OpenOffice Writer 4. Dapat menggunakan dan mengoperasikan OpenOffice Calc 5. Dapat menggunakan dan megoperasikan OpenOffice Impress 6. Dapat melakukan Ekspor file OpenOffice ke format PDF
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page ii
+
+Daftar Isi
+Daftar Isi
+Kata Pengantar ..................................................................................................................................................i Course Objective...............................................................................................................................................ii Daftar Isi..........................................................................................................................................................iii Sekilas Distro Nusantara 3 (Mahakam)............................................................................................................1
+Fitur-Fitur.....................................................................................................................................................1 Kebutuhan Hardware....................................................................................................................................1 Homepage dan Support................................................................................................................................1 Login Pada Distro Nusantara 3 ........................................................................................................................2 OpenOffice.org 3.0.0........................................................................................................................................4 Pendahuluan.................................................................................................................................................4 Paket OpenOffice.org ..................................................................................................................................4 Open Document Format (ODF)....................................................................................................................4 Instalasi OpenOffice.org...............................................................................................................................5 Menjalankan OpenOffice.org Writer................................................................................................................6 Menu OpenOffice.org Writer.......................................................................................................................7 Icon Toolbar Writer......................................................................................................................................7 Mengenali shortcut key Writer.....................................................................................................................9 Mengatur Setting OpenOffice.org Writer.....................................................................................................9 Membuat Dokumen Sederhana .................................................................................................................16 Format Halaman Dokumen........................................................................................................................18 Memasukkan Nomor Halaman...................................................................................................................20 Footnode dan Endnote................................................................................................................................20 Membuat Kolom ........................................................................................................................................21 Tips : ..........................................................................................................................................................22 Format Karakter..........................................................................................................................................23 Format Paragraf Dokumen ........................................................................................................................23 Format Indentasi dan Spasi .......................................................................................................................24 Format Perataan Paragraf...........................................................................................................................24 Aliran Text .................................................................................................................................................25 Tabs............................................................................................................................................................26 Membuat Drops Caps.................................................................................................................................26 Menggunakan Fasilitas Style......................................................................................................................27 Menggunakan Find & Replace...................................................................................................................34 Penyuntingan Otomatis..............................................................................................................................34 AutoSpellcheck...........................................................................................................................................36 Bekerja Dengan Tabel................................................................................................................................36 Menyisipkan Obyek....................................................................................................................................38 Fields..........................................................................................................................................................40 Daftar Isi.....................................................................................................................................................40 Daftar Index................................................................................................................................................44 Menggunakan Mail Merge.........................................................................................................................45 Track Change..............................................................................................................................................48 Navigator ...................................................................................................................................................50 OpenOffice.org.org calc..................................................................................................................................51
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page iii
+
+Daftar Isi
+Menjalankan OpenOffice.org calc..............................................................................................................51 Memahami Lembar Kerja Spreadsheet......................................................................................................52 Operasi Pada Sel ........................................................................................................................................52 Pengaturan Setting OpenOffice.org Calc ..................................................................................................53 Format Sel .................................................................................................................................................53 Membuat Address Data source...................................................................................................................54 Fungsi OpenOffice.org calc........................................................................................................................56 Data Filter ..................................................................................................................................................67 Data Pilot ...................................................................................................................................................67 Membuat Grafik.........................................................................................................................................69 Menggunakan OpenOffice.org Impress..........................................................................................................72 Memahami Lembar Kerja Presentasi ........................................................................................................72 Memulai OpenOffice.org Impress .............................................................................................................74 Menyusun Slide Presentasi Menggunakan Template.................................................................................74 Format halaman .........................................................................................................................................77 Menambah Objek Lain ..............................................................................................................................78 Memberikan Efek Animasi ........................................................................................................................79 Custom Animasi .......................................................................................................................................80 Mencetak Dokumen ...................................................................................................................................81 Ekspor File Dokumen OpenOffice ke Portable Document format.................................................................85 Eksport File Dokumen Tidak Terkontrol ..................................................................................................85 Eksport File Dokumen Terkontrol .............................................................................................................85
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page iv
+
+Sekilas Distro Nusantara 3 (Mahakam)
+Sekilas Distro Nusantara 3 (Mahakam)
+Distro Nusantara 3 (Mahakam) merupakan distro berbasis Fedora yang telah disesuaikan dengan kebutuhan pengguna Indonesia. Pengembangan lanjutan distro ini disponsori oleh Kementrian Riset dan Teknologi Republik Indonesia dan dikembangkan oleh Yayasan Penggerak Linux Indonesia (YPLI). Meskipun disponsori oleh pemerintah, namun distro ini diharapkan dapat tumbuh dan dikembangkan oleh komunitas. Nusantara 3 (Mahakam) dikembangkan dengan mengambil basis Fedora 9. Fedora merupakan salah satu distribusi Linux yang dikembangkan oleh Yayasan Fedora. Distro ini awal mulanya adalah Red Hat, salah satu distro tertua yang dikenal keandalannya di bidang enterprise. Meskipun berasal dari Red Hat, namun dalam pengembangannya Yayasan Fedora berusaha lepas dari bayang-bayang Red Hat, dan berkeinginan menjadi distro yang 100% dikembangkan oleh komunitas.
+Fitur-Fitur
+Beberapa fitur dari Nusantara 3 ini adalah :
+1. Bluetoot enhancement Dukungan bluetooth yang lebih baik. Pemindahan data lewat handphone bluetooth atau media bluetooth lain dapat dilakukan secara otomatis lewat aplet bluetooth yang tersedia di panel.
+2. Percepatan startup dan shutdown Saat menyala pertama dan saat mematikan, versi Nusantara 3 relatif lebih cepat dari versi sebelumnya.
+3. Firefox 3 Fitur firefox3 bisa dirujuk di website mereka di http://www.mozilla.com/firefox. Singkatnya versi ini lebih ringan, dengan dukungan add-on yang lebih banyak, serta dukungan pengecekan keamanan yang lebih baik.
+4. Atur ulang partisi pada saat instalasi Jika partisi penuh, Anda dapat menggeser partisi yang penuh yang masih memiliki ruangan yang cukup. Ini dapat dilakukan terbatas pada partisi yang disusun berdasarkan kaidah penyusunan partisi, sehingga dimungkinkan pembuatan partisi baru.
+5. Sistem Berkas Terenkripsi (Encrypted File System) Anda bisa memilih sistem berkas terenkripsi pada saat instalasi, maupun membuatnya setelah selesai atau pada saat distro sudah digunakan.
+6. Dukungan multimedia yang lebih lengkap dari Fedora. Saat ini Nusantara 3 telah mendukung beberapa formatmultimedia umum seperti .avi, .wmf, DVD, .mp3, .wav, dan VCD.
+Kebutuhan Hardware
+1. Nusantara dapat digunakan di prosesor Pentium 3, namun dianjurkan (dan dioptimasi) untuk Pentium 4 atau lebih baru. Meskipun didesain dengan prosesor Intel, namun Nusantara dapat dipasang di prosesor Via atau AMD dengan kecepatan setara Pentium 4.
+2. Minimal RAM adalah 384 MB. Kami merekomendasikan 512 MB RAM. 3. Ruang harddisk yang dibutuhkan untuk instalasi adalah 1,6 GB. Jadi jika Anda ingin ruang kosong
+yang lebih besar, sediakan lebih besar dari itu.
+Homepage dan Support
+Untuk dukungan pengguna bisa menggunakan alamat berikut: http://www.nusantara-linux.web.id email: nusantara.linux@gmail.com
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 1
+
+Login Pada Distro Nusantara 3
+
+Login Pada Distro Nusantara 3
+
+Login pertama kali pada distro Linux Nusantara 3 secara default di set otomatis dengan menggunakan user "nusa" dan password "nusantara". Selain user "nusa" terdapat user lain yaitu user admin sistem yang lebih dikenal dengan sebutan "root". Kode password user root sama dengan password user nusa yaitu "nusantara". Sementara itu Window manager yang digunakan adalah desktop Gnome versi 2.22.1. Pengertian desktop itu sendiri adalah berupa window manager yang didalamnya terdapat menu-menu, icon-icon, folder-forder dari Linux itu sendiri. Desktop linux nusantara 3 terlihat pada gambar berikut :
+
+Gambar 1 : desktop Nusantara 3
+Tampilan desktop Gnome Linux Nusantara 3 terdiri atas 3 bagian yaitu bagian atas, bagian tengah, dan bagian bawah.
+1. Pada bagian atas terdapat beberapa menu Aplikasi, menu Komponen, menu System. Selain itu terdapat icon browser Firefox, Icon program email Thunderbird, Tampilan applet user nusa, Jam & Tanggal, Volume Suara dan lainnya.  Menu aplikasi terdapat sub-sub menu untuk menampilkan program/ aplikasi tertentu seperti Aksesoris, Grafis, Internet, Peralatan Sistem, Perkantoran, dan Suara/ Video.  Menu Komponen terdapat sub-sub menu Home Folder, Desktop, Documents, Music, Pictures, Video, Download, Komputer, Jaringan, Menghubungi Server, Partisi harddisk /partisi removeable disk seperti flash disk/ cdrom, Cari Berkas dan Terakhir dibuka.  Sedangkan menu System digunakan mengatur desktop, untuk administasi sistem serta untuk keluar dari sistem. Pada menu System terdiri atas Preferensi, Administrasi, Bantuan, Tentang Gnome, Tentang Nusantara, Mengenai komputer ini, kunci layar, keluar dan matikan
+2. Bagian tengah terdapat icon My Computer, Icon Home, Icon Trash dan Folder/ File. Pada bagian ini akan menampilan secara penuh program/ aplikasi tertentu yang sedang aktif.
+3. Sedangkan pada bagian bawah terdapat icon desktop aktif, icon program yang sedang berjalan dan icon Trash (tempat sampah).
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 2
+
+Login Pada Distro Nusantara 3
+Apabila anda memutuskan untuk login dengan user lain misalnya user dengan nama anda sendiri, yang pertama dilakukan adalah mendaftarkan user tersebut pada sistem. Untuk mendaftarkan user tersebut klik pada menu System | Administrasi | Pengguna & Group, nantinya muncul kotak dialog otentikasi root kemudian isikan dengan password root. Jika tidak ada kesalahan input maka akan terlihat kotak dialog manager pengguna seperti pada gambar 2 berikut.
+Gambar 2 : Manager pengguna untuk menambah pengguna (user)
+Pada kotak dialog, menambah pengguna cukup klik Tambah Pengguna kemudian isikan informasi mengenai account pengguna tersebut seperti informasi nama, account serta password. Perhatikan gambar 3 berikut ini :
+Gambar 3 : Menambah pengguna (user) dengan nama pengguna "hasan"
+Anda dapat melakukan penambahan atau perubahaan seputar account pengguna maupun group bila dirasa perlu. Penggunaan account yang telah dibuat terlebih dahulu anda keluar dari sistem kemudian login kembali menggunakan account tersebut.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 3
+
+OpenOffice.org 3.0.0
+OpenOffice.org 3.0.0
+Pendahuluan
+Pengembangan OpenOffice.org dimulai pada bulan Oktober 2000 oleh komunitas open source dimana Sun MicroSystem pada saat itu telah menyumbangkan kode program StarOffice. Sun MicroSystem sebagai sponsor/ donatur utama dalam pengembangan aplikasi perkantoran OpenOffice.org (http://www.OpenOffice.org) tersebut, sehingga dapat dikatakan sejarah pengembangan OpenOffice.org bermula dari aplikasi perkantoran StarOffice. OpenOffice.org sendiri telah mengalami banyak perubahan serta penambahan fitur-fitur semenjak dikembangkan. Versi terakhir OpenOffice.org adalah versi 3.0.1. Penambahan-penambahan fitur OpenOffice.org salah satunya adalah tampilan mirip dengan aplikasi Microsoft Office. Selain itu juga OpenOffice.org dapat berjalan pada berbagai platform sistem operasi seperti linux, windows, solaris dan Mac OS.
+OpenOffice.org memiliki dua lisensi yaitu GNU General Public License dan SISSL (Sun Industri Standard Source License). Penggunaan dua lisensi tersebut sangat membantu bagi pengguna maupun programmer dalam pengembangan OpenOffice.org. Lisensi GNU, General Public License akan menjadikan produk tersebut bebas digunakan dan dikembangkan. Sedangkan license SISSL dari Sun akan terus tetap mengontrol interoprabilitas dan kompatiblitas dari OpenOffice.org sehingga tetap terjaga kehandalannya. Meskipun OpenOffice.org merupakan program yang diprakarsai oleh Sun Microsystem beberapa fitur tidak disertakan dalam OpenOffice.org, hal ini disebabkan ada beberapa source code yang di lisensikan oleh Sun. Berikut adalah fitur yang tidak disertakan dalam OpenOffice.org adalah :
+ Bristol Xprinter yang merupakan fasilitas pencetakan untuk UNIX  L & H international CorrecSpell, Intl. Electronic Theasaurus yang merupakan spellcheker dan
+thesaurus, Inso Word for Word merupakan Filter dokumen  Adabas D, yang merupakan databasa engine  Beberapa fungsi sorting,  Beberapa ClipArt,  Beberapa template  dan lain sebagainya
+Paket OpenOffice.org
+OpenOffice.org 3.0.0 terdiri dari beberapa aplikasi perkantoran, yaitu :  OpenOffice.org Writer, yang digunakan untuk melakukan pengolahan kata  OpenOffice.org Call, yang digunakan untuk aplikasi pengolah angka  OpenOffice.org Impress, yang digunakan untuk membuat file presentasi.  OpenOffice.org Draw, yang digunakan untuk mengolahan citra (gambar)  OpenOffice.org Base, yang digunakan untuk pengolah database  OpenOffice.org Formula, yang digunakan untuk menampilkan rumus-rumus matematika dan lainnya
+Open Document Format (ODF)
+Setiap file atau dokumen yang dihasilkan oleh suatu aplikasi memiliki extension dibelakangnya. Extention ini menunjukkan identitas suatu dokumen, jadi kita bisa mengetahui dokumen tersebut diproduksi oleh software apa. Contoh pada OpenOffice.org, tiap dokumen yang diproduksi itu merupakan Open Document format (ODF) dengan spesifikasi Open Document Text (ODT) untuk dokumen yang berupa teks dokumen, Open Document Presentation (ODP) untuk dokumen berupa presentasi dan Open Document Sheet (ODS) untuk dokumen ya yang berupa lembar kerja.
+Hal yang mendukung penggunaan software Open Source adalah adanya Standardisasi spesifikasi, seperti adanya Format Dokumen yang perlu untuk pertukaran Naskah-naskah, yaitu menggunakan Open Document Format atau ODF yang telah menjadi Standar ISO (International Standards Organizaion).
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 4
+
+Open Document Format (ODF)
+Adanya standar ISO ini memungkinkan interoperabilitas antar software-software, baik itu Open Source maupun Proprietary.
+Solusi lain adalah dengan menggunakan OpenOffice.org bertahap atau secara penuh. OpenOffice.org juga mendukung atas extention-extention file MS-Office 97/2000/XP. Gambar berikut memperlihatkan format file OpenOffice.org yang dapat di simpan dalam format MS-Office sebagai berikut :
+
+Gambar 5 : Menyimpan file OpenOffice Calc dengan format extention .xls
+
+Gambar 4 : Menyimpan file OpenOffice Writer dengan format extention .doc
+
+Gambar 6 : Menyimpan file OpenOffice Impress dengan
+format extention .ppt
+
+Instalasi OpenOffice.org
+OpenOffice.org 3.0.0 biasanya sudah dimuat pada distro Linux Nusantara 3. Ini cukup memudahkan user karena tidak perlu lagi melakukan instalasi secara manual. Tetapi, jika distro yang di install tidak memuat paket OpenOffice.org atau dengan paket OpenOffice.org dengan versi lama, maka user dapat melakukan instalasi OpenOffice.org paket terbaru, baik secara otomatis maupun secara manual. Berikut langkahlangkahnya :
+1. Login sebagai root $ su passwd : ******
+2. Remove OpenOffice versi lama # yum remove openoffice-3.0.0*.*
+3. Copy OpenOffice-3.0.1.tar.gz di directory /opt extract OpenOffice-nya # tar zxvf Ooo_3.0.1_LinuxIntel_install_wJRE_en-Us.tar.gz
+4. # java -jar JavaSetup.jar , ikuti perintah yang ada
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 5
+
+Menjalankan OpenOffice.org Writer
+
+Menjalankan OpenOffice.org Writer
+
+Writer adalah bagian dari OpenOffice.org yang digunakan sebagai aplikasi pengolah kata. Kegiatan ­ kegiatan pengolahan kata berupa pembuatan laporan, penulisan proposal, pembuatan surat, penulisan karya ilmiah, penulisan buku/ artikel dan lain sebagainya dapat dikerjakan menggunakan OpenOffice.org Writer. OpenOffice.org Writer ini mirip dengan Microsoft Word, selain kedua jenis aplikasi pengolah kata tersebut masih terdapat aplikasi serupa seperti halnya StarOffice, Abiword, Kword, Wordstart (WS) dan lain-lain.
+OpenOffice.org Writer yang digunakan dalam pembahasan materi ini adalah versi 3.0.0 yang telah jadi satu dalam Linux Nusantara 3 (mahakam). Writer memiliki kemampuan dalam pengelolaan dokumen berbasis teks. Penggunaan style yang dapat dimanfaatkan guna membuat dokumen dengan cepat serta tertata dengan baik, penggunaan track change guna memonitor aslian dokumen, menulis dokumen spreadsheet/ presentation pada area Writer dapat dilakukan dengan mudah serta mampu mengenali extention DOC dari Microsoft.
+OpenOffice.org Writer selain di Linux dapat berjalan pula pada sistem Windows, Solaris dan MacOS. Menjalankan OpenOffice.org Writer klik pada menu Aplikasi | perkantoran | OpenOffice.org Writer
+
+Title Box Pulldown menu Rules
+
+Function Bar
+
+Object Bar
+
+Vertical Scroll Bar
+
+Drawing Function Status Bar
+
+Horisontal Scroll Bar
+
+Gambar 7 : Tampilan OpenOffice.org Writer
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 6
+
+Menu OpenOffice.org Writer
+
+Menu OpenOffice.org Writer
+
+Menu-menu OpenOffice.org Writer terdiri atas :
+1. Menu File, yaitu menu-menu yang berkaitan dengan operasi file seperti menyimpan dokumen, membuka file, ekspor ke pdf, melakukan/ pengatur pencetakan dan keluar dari file tersebut.
+2. Menu edit, yaitu menu-menu yang berkaitan dengan penyutingan dokumen. 3. Menu View, yaitu menu-menu yang berkaitan dengan tampilan. 4. Menu format, yaitu menu-menu yang berhubungan dengan pengaturan formatdokumen 5. Menu Table, yaitu menu-menu yang berkaitan dengan pengaturan serta penyuntingan tabel 6. Menu Tools, yaitu menu-menu yang berkaitan dengan pengaturan perkakas-perkakas tertentu 7. Menu Windows, yaitu menu-menu yang digunakan untuk pengaturan jendela OpenOffice.org Writer 8. Menu Help, yaitu menu-menu untuk pengaturan fasilitas bantuan.
+
+Icon Toolbar Writer
+
+Icon toolbar pada OpenOffice.org Writer yang umum digunakan dijabarkan pada tabel berikut :
+
+Icon
+
+Keterangan
+
+New, membuat dokumen baru.
+
+Open, membuka dokumen
+
+save, untuk menyimpan dokumen Edit, untuk mengedit dokumen Export, untuk mengeksport file ke format PDF Print, untuk mencetak dokumen secara cepat
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 7
+
+Spelling & Grammar, untuk mengejaan text (off)
+
+Icon Toolbar Writer
+
+AutoSpellcheck, untuk mengecek ejaan text (on)
+
+Cut, untuk memotong karakter teks
+
+Copy, untuk meng-copy teks dokumen
+
+Paste, untuk menempel (paste) teks dokumen hasil dari copy-an
+
+Undo dan redo, untuk kembali/ membatalkan kegiatan/ aksi Font, menentukan tipe dari font/ huruf Aligment, menentukan perataan paragraf Numbering/ bullets Font color, menentukan warna dari font/ huruf
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 8
+
+Icon Toolbar Writer
+Background color, menentukan warna latar belakang paragraf
+Font, menentukan jenis huruf dan ukuran huruf
+Styles, menentukan jenis style yang digunakan
+Mengenali shortcut key Writer
+Standar shortcut key pada writer berikut ini dapat diterapkan pada Calc maupun Impress. Lebih tepatnya shortcut key ini secara garis besar digunakan pada OpenOffice.org, yaitu :
+· Cut (Control+X) · Copy (Control+C) · Paste (Control+V) · Undo (Control+Z) · Redo (Control+Y) · save (Control+S) · Open (Control+O) · New (Control+N)
+Mengatur Setting OpenOffice.org Writer
+Ada kalanya pengaturan setting default OpenOffice.org tidak sesuai dengan kebutuhan kita. Untuk memudahkan, bayangkan bila listrik mati secara mendadak sementara dokumen belum tersimpan atau fitur recovery data tidak diaktifkan maka file dokumen tersebut akan hilang. Contoh lain secara default OpenOffice.org Writer mengatur formatkertas tipe "Letter", ukuran kertas "cm", orentasi kertas "Portrait" dan formatpenomoran "1,2,3, ...". Selain itu masih banyak pengaturan-pengaturan default lainnya. Anda dapat mengatur konfigurasi sesuai dengan kebutuhan yang ada. Pengaturan konfigurasi pada OpenOffice.org terdiri dari :
+1. OpenOffice.org, digunakan untuk mendefinisi pengaturan konfigurasi secara umum OpenOffice.org. Misalnya setting informasi pengguna (user), setting direktori (paths) untuk menyimpan data ­ data file dokumen dan sebagainya. Pengaturan OpenOffice.org terdiri atas :  User Data, mengatur informasi data - data pengguna (user) OpenOffice.org  General, pengaturan umum  Memory (penggunaan memori)  View, pengaturan tampilan dokumen OpenOffice.org Writer  Print, pengaturan dokumen saat di cetak  Paths, pengaturan letak lokasi direktori penyimpanan dokumen OpenOffice.org. Pada gambar 8 menunjukkan letak direktori penyimpan data secara default yang tersimpan di rektori
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 9
+
+Mengatur Setting OpenOffice.org Writer
+/home/nusa/Documents. Untuk merubah klik Edit kemudian memilih direktori lain.
+
+Gambar 8 : Letak lokasi penyimpan file dokumen Open Office
+
+ Colors, pengaturan warna
+
+Secara default
+
+ Font, pengaturan huruf
+
+ Security, pengaturan keamanan
+
+ Apprearance, mengatur pola warna dari elemen-elemen interface seperti HTML Document,
+
+Spreadsheet, Drawing dan sebagainya
+
+ Accessibility, mengatur hal-hal lainnya
+
+ Java, OpenOffice.org memerlukan java runtime environments (jre)
+
+2. Load/Save, mendefinisi pengaturan secara umum dalam hal menyimpan serta memuat (Load) dokumen eksternal. Anda dapat mengatur perlakuan dari fitur Macro, objek OLE OpenOffice.org serta pengaturan dokumen HTML.
+
+Load/ Save terdiri dari :
+
+ General, dibagian ini anda dapat mengatur pola penyimpanan dan pola pemuatan (load) dokumen. Pola penyimpanan data diatur secara otomatis dalam periode tertentu. Selain itu anda dapat menggubah default pola penyimpanan dokumen Writer dari OpenDocumen Text menjadi Microsoft Word 97/2000/XP secara otomatis. Simpan secara otomatis dalam formatMS Office ada kemungkinan beberapa informasi akan hilang, anda perlu memperhatikan kondisi ini.
+
+Gambar 9 : Pola pengaturan penyimpanan data
+ VBA Properties, memuat dan menyimpan dokumen Microsoft Office 97/2000/XP dengan kode VBA
+ Microsotf Office, memuat dan konversi objek Microsoft Office ke OpenOffice.org dan sebaliknya
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 10
+
+Mengatur Setting OpenOffice.org Writer
+ HTML Compatibilty, pengaturan dokumen-dokumen HTML 3. Language Settings, pengaturan bahasa dan bantuan saat penulisan dokumen OpenOffice.org, opsi
+ini terdiri dari :  Language, pengaturan bahasa  Writing Aids, pengaturan bantuan saat penulisan 4. OpenOffice.org Writer, secara khusus mengatur komponen-komponen yang berkaitan dengan pengolahan kata (Text Documents), yang terdiri atas :  General, mengatur perubahan (update) link serta pengaturan satuan ukuran dan tabulasi.
+Satuan ukuran OpenOffice.org Writer yang digunakan adalah Centimeter. Sementara jarak henti tabulasi (jarak posisi tabulasi ketika tombol tab ditekan) adalah 1,25cm. Anda dapat merubah satuan ukuran maupun tabulasi sesuai dengan kebutuhan. Lihat gambar 10
+Gambar 10 : Setting ukuran kertas dan Tabulasi
+ View, pengaturan tampilan OpenOffice.org Writer secara umum misalnya pengaturan mistar (rules) perlu ditampilkan atau tidak dan sebagainya.
+Gambar 11 : Setting tampilan (view) Writer
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 11
+
+Mengatur Setting OpenOffice.org Writer
+ Formating Aids, mengatur bantuan pengaturan secara umum pada saat pengetikan dokumen misalnya menampilkan atau menyembunyikan tanda akhir paragraf (Paragraph End) dan sebagainya
+Gambar 12 : Setting Formatting Aids
+ Grid, digunakan untuk mengetahui ketepatan posisi obyek dokumen secara horisontal maupun vertikal.
+Gambar 13 : Setting tampilan (view) Writer
+ Basic Font, pengaturan huruf yang digunakan pada setiap pengetikan dokumen OpenOffice.org Writer.
+Gambar 14 : Huruf-huruf default Writer dokumen
+ Print, pengaturan pencetakan dokumen yang diinginkan pada dokumen OpenOffice.org Writer. Untuk mencetak dokumen cukup mencentang pada bagian yang di cetak
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 12
+
+Mengatur Setting OpenOffice.org Writer
+ Gambar 15 : Mengatur cetakan dokumen
+ Table, pengaturan tabel dokumen misalnya secara default tabel tidak di border dan sebagainya.
+Gambar 16 : Mengatur setting Tabel
+ Change, mengatur tampilan pesan-pesan dokumen ketika terjadi perubahan. Perubahan dokumen dapat berupa penyisipan (garis bawah warna merah), penghapusan (coretan berwarna merah) dan sebagainya. Pesan-pesan ini ditampilkan ketika fungsi Track Change di aktifkan. Pembahasan Track Change pada bab selanjutnya.
+Gambar 17 : Mengatur tampilan perubahan dokumen
+ Compatibility, mengatur kesesuaian dokumen misalnya penggunaan jenis printer metrics, spasi antara paragraf dan tabel, dan sebagainya.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 13
+
+Mengatur Setting OpenOffice.org Writer
+
+Gambar 18 : pengaturan opsi kesesuaian dokumen
+ AutoCaption, pengaturan AutoCaption OpenOffice.org Writer
+
+Gambar 19 : Pengaturan AutoCaption
+5. OpenOffice.org Writer/Web, digunakan untuk membuat halaman HTML menggunakan OpenOffice.org Writer. Anda dapat mengatur beberapa opsi seperti View, formatting Aids, Grid, Print, Table dan Background (lihat gambar 20). Sementara gambar 21, memperlihatkan dokumen Writer disimpan dalam format HTML
+
+Gambar 20 : Pengaturan opsi HTML pada dokumen writer
+
+Gambar 21 : Menyimpan dokumen Writer dengan format HTML
+
+6. OpenOffice.org Base, pengaturan secara umum terhadap akses data source. Opsi Database ini dapat digunakan pada mail merge.
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 14
+
+Mengatur Setting OpenOffice.org Writer
+Gambar 22 : Database OpenOffice.org
+7. Charts, pengaturan penggunaan warna grafik pada OpenOffice.org
+Gambar 23 : Warna default pada grafik
+8. Internet, pengaturan konfigurasi internet pada OpenOffice.org. Anda dapat mengatur proxy secara manual (lihat gambar), Search Engine, E-mail dan Mozila plug-in.
+Gambar 24 : Mengatur proxy internet pada OpenOffice.org
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 15
+
+Membuat Dokumen Sederhana
+Membuat Dokumen Sederhana
+Anda dapat bekerja dalam mengolah kata seperti membuat dokumen sederhana, membuat surat, artikel, buku/ makalah sampai dengan membuat dokumen yang kompleks. Ketika lembar kerja Writer diaktifkan maka sebuah lembar writer yang disiapkan untuk dilakukan pekerjaan pengolah kata.
+Membuat Dokumen Baru
+Membuat dokumen baru pada OpenOffice.org Writer dapat dilakukan dengan beberapa cara yaitu ; 1. Melalui Menu File | New | Text Dokumen 2. klik new pada icon toolbar (icon toobar new tepat berada dibawah menu File) 3. Kombinasi tombol Ctrl + N
+Menyimpan Dokumen Baru
+Untuk menyimpan dokumen yang telah dibuat dapat dilakukan dengan salah satu cara berikut : 1. Melalui Menu File | save atau save As (simpan dengan nama lain) 2. klik save pada icon toolbar disket 3. Kombinasi tombol Ctrl + S
+Setelah itu akan muncul window baru untuk penyimpanan file, ketikkan nama file pada kotak dialog Nama dan juga memilih tipe extention file dokumen. Bila anda tidak memilih tipe extention file maka secara default Writer akan menyimpan dengan format extention ODT. Mengatur penyimpanan dokumen writer dalam format lain secara otomatis dapat di atur pada bagian Options | Load/Save | General
+Gambar 25 : Menyimpan file OpenOffice dengan format ODT
+Selain itu format extention DOC, writer mendukung extention lainnya seperti html, xml, rtf. Jika diperlukan dokumen dapat di simpan dengan menggunakan password, caranya cukup lakukan atau centang pada kotak save with password
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 16
+
+Membuat Dokumen Sederhana
+Ekspor Dokumen ke PDF
+OpenOffice.org menyediakan fasilitas ekspor ke format Portable Document Format. PDF merupakan suatu format standar dokumen yang digunakan dalam teknologi informasi. Untuk melakukan ekspor ke PDF dapat dilakukan dengan cara berikut.
+1. Melalui menu File | Export as PDF atau 2. Klik pada icon toolbar PDF Detail bahasan ekspor file ke PDF dibahas pada bab selanjutnya
+Membuka Dokumen
+Membuka dokumen yang telah disimpan dapat dilakukan dengan salah satu cara berikut ; 1. Melalui Menu File | Open 2. Klik Open pada icon toolbar direktori 3. Kombinasi tombol Ctrl + O
+Menutup Dokumen
+Membuka dokumen yang telah disimpan dapat dilakukan dengan salah satu cara berikut ; 1. Melalui Menu File | Close (menutup dokumen aktif) 2. Melalui Menu File | Exit (menutup semua dokumen dan keluar dari OpenOffice.org Writer) 3. Kombinasi tombol Ctrl + Q
+Saat dokumen ditutup ketika belum disimpan maka akan muncul kotak dialog konfirmasi yaitu save (menyimpan dokumen), Discard (menutup tanpa disimpan) dan Cancel (membatalkan penutupan dokumen).
+Gambar 26 : Kotak Dialog Konfirmasi Penyimpanan Dokumen
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 17
+
+Format Halaman Dokumen
+Format Halaman Dokumen
+Sebelum pekerjaan penulisan dokumen dimulai hal yang paling umum dilakukan adalah mempersiapkan dan mengatur lembar kerja halaman yang akan digunakan. Persiapan dan pengaturan lembar kerja dokumen misalnya pengaturan ukuran kertas, pengaturan header/footer, pengaturan catatan kaki (footnote), pengaturan kolom dan sebagainya. Untuk mengatur format halaman dokumen klik pada menu Format | Page sehingga terlihat seperti pada gambar 27. Pada kotak dialog Page Style, terdiri atas Organizer, Page, Background, Header, Footer, Borders, Columns dan Footnote
+Gambar 27 : Kotak Dialog Pengaturan Dokumen
+Pengaturan Halaman Organizer
+Bagian Organizer terdiri dari Name, Next Style dan Category. Pengaturan ini berfungsi untuk menentukan format halaman dokumen berikutnya. Dokumen pada halaman satu dengan lainnya memiliki format yang sama disebabkan oleh penggunaan Next Style yang sama. Secara standar setiap halaman dokumen menggunakan style dengan nama "Default". Pada gambar 28 style aktif dengan nama "Default" dan style berikutnya dengan nama "Default", yang berarti halaman 1 dan halaman 2 menggunakan format yang sama yaitu "Default'. Bila ingin mengatur setiap halaman memiliki format yang berbeda misalnya halaman pertama format A4, halaman kedua format Tabloid dan halaman ketiga format Letter. Pengaturan ini sangat mudah, anda hanya cukup memilih next style (next style untuk tiap halaman tidak boleh sama) yang digunakan kemudian mengatur format halaman pada masing-masing halaman dokumen tersebut.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 18
+
+Gambar 28 : Kotak Dialog Pengaturan Dokumen "Organizer" dan tampilan status bar Default
+Menentukan Ukuran Halaman Kertas
+Secara default satuan ukuran halaman kertas adalah Letter dengan ukuran lebar 21,59 cm dan panjang 27,94 cm. Untuk merubah ukuran kertas serta batas margin klik pada menu Format | Page. Pada kotak dialog Page Style pilih Page, sehingga akan muncul gambar 29 berikut :
+Gambar 29 : Kotak dialog pengaturan ukuran halaman dokumen
+Menentukan Header dan Footer
+Header adalah area yang digunakan untuk meletakkan fields atau berupa informasi dibagian atas halaman, sementara footer serupa dengan header tetapi diletakkan pada bagian bawah halaman. Pada Header/Footer anda dapat memasukkan nomor halaman, judul bab, nama pengarang dan sebagainya.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 19
+
+Untuk mengaktifkan Header/Footer klik menu Format | Page, pada kotak dialog Page Style klik pada tab Footer atau Header
+Gambar 30 : Kotak Dialog Pengaturan Header
+Memasukkan Nomor Halaman
+Untuk menampilkan penomoran halaman dokumen di bagian bawah. Langkah pertama adalah mengaktifkan footer dengan cara klik menu Insert | Footer | Default sehingga akan muncul kotak pada bagian bawah dokumen. Masuk pada area tersebut kemudian klik pada menu Insert | Fields | Page Number
+Gambar 31 : Penomoran Halaman Dokumen
+Footnode dan Endnote
+Catatan kaki footnote adalah catatan penjelasan dari suatu teks dokumen yang berada tepat di bawah halaman dokumen dan biasanya berada satu halaman dengan halaman yang diberi catatan kaki tersebut. Cacatan kaki dapat berupa angka atau karakter dengan posisi superscript di sebelah kanan teks tersebut. endnote mirip dengan footnote, namum pada endnote catatan kaki berada pada bagian akhir dokumen. Untuk menggunakan footnote atau endnote posisikan kursor tepat pada kanan teks kemudian klik menu Insert | Footnote sehingga muncul gambar seperti berikut.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 20
+
+Gambar 32 : Memasukkan Catatan Kaki Otomatis
+Pada gambar diatas catatan kaki secara default adalah "Automatic" berupa angka yang di mulai dari angka 1 dan nilainya akan bertambah untuk catakan kaki berikutnya. Pilihan lain adalah karakter yang dapat di inputkan secara manual misalnya di mulai dari "10" atau menggunakan karakter huruf "a"
+Gambar 33: Memasukkan Catatan Kaki Character
+Untuk memasukkan karakter spesial pada catatan kaki dapat dilakukan dengan memilih kotak dibawah kotak teks karakter. Pada bagian type tentukan catatan kaki Footnote atau Endnote, tekan OK, selanjutnya akan muncul halaman untuk menuliskan catatan kaki tersebut.
+Membuat Kolom
+Sebuah dokumen dapat dipecah menjadi beberapa kolom. Pengaturan kolom dilakukan dengan cara mengaktifkan menu Format | Columns atau format| Page Coloumns, kemudian menentukan jumlah kolom. Untuk mengubah ukuran tiap kolom hilangkan checkbox pada Automatic Width kemudian ubah pada bagian width untuk tiap kolom.
+Gambar 34 : Membuat dokumen kolom Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 21
+
+Tips :
+Tips : Format Halaman berbeda-beda
+ Petunjuk :  Membuat ukuran halaman yang berbeda-beda yaitu halaman pertama ukuran A4, halaman kedua tabloid dan halaman ketiga Env. #12.
+ Langkah-langkah :  Dihalaman pertama klik menu Format | Page, pada Organizer pilih Name : Default dan Next Style : First Page. Selanjutnya klik Page, atur paper format sesuai dengan format yang diinginkan yaitu A4 (untuk style : default).  Pindah ke halaman kedua, klik Format | Page | Organizer. Pada Name : First Page dan Next Sytle : Left Page. Kemudian klik Page, atur paper format yaitu Tabloid (untuk style : First Style).  Pindah kehalaman ketiga, tentukan Next Style dan paper format seperti pada langkah-langkah di atas.
+Penomoran Halaman dan Text pada Header/Footer
+1. Nomor halaman pertama tidak dimulai dari angka 1  klik Insert | Header/Footer (untuk menempatkan nomor halaman)  klik Insert | Fields | Other | Variables. Pilih Set page Variable, Selection : On, Offseft : 14 (nomor halaman dimulai setelah angka tersebut), klik Insert
+Gambar 35 : Penomoran tidak dimulai dari 1
+ klik Show Page Variable, As Page Style, Insert  Tampilan halaman akan dimulai tidak dari 1 tapi setelah nomor 14 2. Nomor halaman dengan format "Page 1 of 20"  klik Insert, Hearder/footer.  Arahkan pointer mouse pada header/footer, sebelum penulisan nomor ketik "Page" kemudian
+klik insert, page number (akan muncul number setelah tulisan page). Setelah muncul number, ketik "Of" dan terakhir klik insert, page count.  Nomor halaman dengan formatPage 1 of 20 (halaman 1 dari 20 halaman)
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 22
+
+Format Karakter
+Format Karakter
+Dalam penulisan dokumen karakter dapat diatur sesuai kebutuhan. Format karakter mengatur beberapa hal yaitu jenis huruf, penggunaan efek huruf, posisi, pengaturan link dan pengaturan warna latar. Pengaturan karakter dilakukan dari menu Format | Character dan pada kotak dialog secara default yang ditampilkan adalah bagian Font. Selanjutnya menentukan format karakter sesuai kebutuhan di bagian kotak dialog tersebut yang meliputi jenis Font, Font Effect, Position, Hyperlink dan Background
+Gambar 36 : Pengaturan Karakter
+Format Paragraf Dokumen
+Rangkaian teks suatu dokumen membentuk suatu paragraf sebagai suatu bentuk berkesinambungan antara bab-bab dokumen tersebut. Paragraf antar bab satu dengan lainnya dapat ditentukan sesuai dengan kebutuhan akan penulisan dokumen tersebut. Di paragraf anda dapat menentukan indent dari suatu teks, jarak spasi antara paragraf, jarak baris, pengaturan perataan, penomoran, pengaturan tabulasi, drop caps dan borders. Untuk mengatur paragraf dilakukan dengan cara menentukan suatu paragraf dokumen kemudian klik pada menu Format | Paragraph
+Gambar 37 : Pengaturan Paragraf Dokumen Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 23
+
+Format Indentasi dan Spasi
+Format Indentasi dan Spasi
+Pada bagian kotak dialog Paragraph, tab pertama adalah Indent & Spacing yang mengatur indentasi dan spasi. Indent & Spacing terdiri dari 3 bagian yaitu Indent, Spacing dan Line spacing.
+1. Bagian Indent digunakan untuk mengatur jarak sisi paragraf dan sisi margin.  Before text, mengatur jarak paragraf sisi kiri dengan margin kiri  After text, mengatur jarak paragraf sisi kanan dengan margin kanan  First Line, mengatur jarak pada baris pertama paragraf lebih ke dalam paragraf dari pada baris berikutnya dan seterusnya.
+2. Bagian Spacing digunakan untuk mengatur jarak spasi antara paragraf satu dengan lainnya.  Above Paragraph, mengatur jarak spasi paragraf dengan paragraf di atasnya sedangkan  Below Paragraph, mengatur jarak spasi paragraf dengan paragraf dibawahnya
+3. Bagian Line Spacing, mengatur jarak spasi antara baris paragraf. Terdiri atas single, 1.5 lines, Double, Proportional, At least, Leading dan Fixed.
+Gambar 38 : Double Line Spacing
+Format Perataan Paragraf
+Perataan paragraf adalah pengaturan teks-teks yang berada pada posisi terdekat margin kiri maupun kanan. Perataan diatur pada tab kedua kotak dialog Paragraph yaitu dengan memilih Alignment, dengan mengaktifkan pilihan perataan yaitu rata kiri (Left), rata kanan (Right), rata tengah (Center) dan rata penuh (Justified). Cara lain perataan paragraf dapat dilakukan dengan menggunakan kombinasi tombol keyboard yaitu ctrl+l (rata kiri), ctrl+r (rata kanan), ctrl+e (rata tengah) dan ctrl+j (rata penuh/ rata kedua sisi)
+Gambar 39 : Pengaturan Perataan Paragraf Dokumen
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 24
+
+Aliran Text
+Aliran Text
+Perpindahan teks ke baris berikutnya pada saat mencapai batas margin sebelah kanan dapat diatur dengan adanya fasilitas Text Flow. Kotak dialog Text Flow terdiri atas 3 pilihan yaitu Hyphenation, Break dan Options. Pada bagian hyphenation digunakan untuk mengatur pemenggalan suatu kata, dapat ditentukan pengaturan pemenggalan kata secara otomatis dengan mengaktifkan kotak box Automatically kemudian menentukan jumlah teks yang akan dipenggal pada baris itu dan baris berikutnya.
+Gambar 40 : Kotak dialog Teks Flow
+Bagian breaks digunakan untuk perpindah ke halaman berikutnya sebelum halaman tersebut penuh. Untuk mengaktifkan page breaks dengan memilih :
+ kotak dialog Insert  memilih type break yang akan digunakan apakah "page" atau "coloumn"  Posisi break yang akan digunakan untuk menentukan posisi pemenggalan halaman dokumen
+apakah "before" atau "after"  With pag style digunakan untuk menentukan style tertentu pada pemenggalan halaman dokumen  Page number digunakan untuk menentukan default nomor pada halaman yang dipenggal Bagian terakhir pada sesi Breaks adalah Options yang terdiri dari :  Do not split paragraph, untuk memindahkan seluruh paragraf terakhir di halaman baru hasil
+penyisipan pemenggalan dokumen  Keep with next paragraph, digunakan untuk menyatukan paragraf yang akan edit ke paragraf
+berikutnya pada saat penyisipan pemenggalan dokumen  Orphan control, pengatur agar baris pertama suatu paragraf tidak tercetak sendirian pada akhir
+halaman sementara baris-baris yang lain tercetak pada halaman baru.  Widow control, pengatur agar baris pertama suatu paragraf tidak tercetak sendirian pada akhir
+halaman baru sementara baris-baris yang lain tercetak pada halaman sebelumnya
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 25
+
+Tabs
+Tabs
+Tabs digunakan untuk mengatur perataan teks pada suatu posisi tab berdasarkan jarak ketika tombol keyboard ditekan.
+Gambar 41 : Pengaturan Tabs
+Pengaturan posisi tab dibedakan atas :  Left, pada saat kursor posisi tab, teks ditampilkan rata kiri  Right, pada saat kursor posisi tab, teks ditampilkan rata kanan  Center, pada saat kursor posisi tab, teks ditampilkan rata tengah  Decimal, tab digunakan sebagai pemisah pada penulisan angka
+Membuat Drops Caps
+Drops Caps adalah fasilitas untuk membuat sebuah karakter menjadi lebih besar dari yang lain. Drop caps biasanya digunakan pada awal paragraf.
+Gambar 42: Pengaturan Drops Caps
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 26
+
+Menggunakan Fasilitas Style
+
+Menggunakan Fasilitas Style
+Salah satu fasilitas dalam word prosesor adalah sytles, yaitu fasilitas untuk mengatur dan membuat dokumen secara cepat. Styles merupakan kumpulan pengaturan yang dapat diterapkan pada untuk mengatur paragraf, karakter, pengaturan halaman dan lain sebagainya.
+Ada beberapa jenis style untuk format dokumen yaitu :
+ Paragraph Styles, untuk melakukan pengaturan style yang berhubungan dengan paragraf  Text Styles, untuk melakukan pengaturan style yang berhubungan dengan karaker  Frame Styles, untuk pengaturan halaman style yang berhubungan frame teks dan gambar  Page Styles, untuk pengaturan halaman style termasuk ukuran kertas dan batas margin  Numbering Styles, untuk pengaturan halaman style yang berhubungan dengan daftar  Fill Mode Mode, digunakan untuk penerapan style menggunakan mouse  New Styles Form Selection, digunakan untuk membuat style baru dari teks yang terseleksi serta
+dapat juga digunakan untuk memangil style yang pernah dibuat sebelumnya untuk digunakan pada dokumen baru.
+Mengaktifkan Style
+
+Style dapat diaktifkan dengan menekan tombol F11 pada keyboard atau melalui menu format | Styles and
+
+formatting
+
+Text Style Frame Style
+
+Numbering Style
+
+File Mode Style
+
+New Style Form Selection
+
+Paragraph Style
+
+Style Default
+
+Page Style
+
+Tampilan seluruh ragam style
+
+Gambar 43 : Menampilkan Styles and formatting
+
+Style-style yang tersedia cukup banyak, perhatikan bagian bawah Styles and formatting, bila pilih secara menyeluruh maka terlihat daftar jenis ragam style-style. Ketika pertama kali mengaktifkan Styles and formatting maka akan ditampilkan style-style "Default" (Ditunjukkan dengan berwarna latar biru).
+
+Membuat Sytle Baru : Paragraph Style
+Untuk membuat style baru, pertama-pertama menentukan jenis styles yang akan digunakan. Seperti yang telah dijelaskan diatas jenis styles dibedakan atas Paragraph Styles, Text Styles, Frame Styles, Page Styles dan Numbering Styles. Misalnya dalam contoh ini akan dibuat paragraph style dengan nama
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 27
+
+Menggunakan Fasilitas Style
+"Open_Office", langkah pertama yang dilakukan adalah mengaktifkan Styles and formatting dengan menekan tombol F11. Arahkan kursor pada kotak dialog Styles and formatting, klik pada Paragraph Style (lihat gambar), kemudian pada area Paragraph Style klik kanan pilih New.
+Mengaktifkan Paragraph Style terlihat berwarna asiran abu-abu.
+Membuat Paragraph Style baru, dengan cara klik kanan mouse
+Gambar 44 : Membuat Style Paragraf
+Gambar 45 : Membuat Style Paragraf
+Pada kotak dialog Paragraph Style terdapat banyak pilihan pengaturan yaitu : 1. Pengaturan Organizer 2. Pengaturan Indents & Spacing 3. Pengaturan Aligment 4. Pengaturan Text Flow 5. Pengaturan Font 6. Pengaturan Font Effect 7. Pengaturan Position 8. Pengaturan Numbering 9. Pengaturan Tabs 10. Pengaturan Drop Caps 11. Pengaturan Background 12. Pengaturan Bolder 13. Pengaturan Conditions
+Bagian-bagian pengaturan Paragraph Style terdapat 13 pengaturan. Anda dapat mengatur style paragraf dokumen sesuai kebutuhan dokumen yang buat. Gambar berikut memperlihatkan pengaturan indentasi
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 28
+
+Menggunakan Fasilitas Style
+dan spasi, perataaan dan penggunaan huruf pada Paragraph Style "Open_Office'
+Gambar 46: Pengaturan Indentasi dan Spasi
+Gambar 47 : Pengaturan Font
+Gambar 48 : Pengaturan Perataan Dokumen Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 29
+
+Membuat Page Style
+Seperti penjelasan-penjelasan sebelumnya page style digunakan untuk mengaturan halaman kertas dokumen sepertinya ukuran A4, jenis orentasi dokumen, margin, penomoran dan sebagainya. Untuk membuat page style klik kanan pada area Page Style , perhatikan gambar 49 berikut :
+Gambar 49 : Membuat Page Style
+Muncul kotak dialog Page Style dan pada Organizer kemudian isikan dengan nama "Page_Dokumen", pindah ke bagian Page dan tentukan pengaturan halaman dokumen (lihat gambar 50). Untuk pengaturan lainnya seperti Background, Header, Footer, Borders, Columns dan Footnote dapat diatur sesuai dengan kebutuhan
+Gambar 50 : Pengaturan Dokumen Page Style
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 30
+
+Mengaplikasikan Style
+Setelah membuat beberapa style langkah berikutnya adalah menerapkan style tersebut pada dokumen. Mengaplikasikan style yang dibuat misalnya dalam contoh kali ini diberi nama "Open_Office" dan "Page_Dokumen". Pertama-tama menyeleksi teks dokumen dengan cara blok sejumlah teks atau dengan memposisikan kursor diantara teks tersebut, kemudian double klik pada salah satu style (Open_Office) yang dibuat pada jendela Styles and formatting (perhatikan lingkaran pada gambar)
+
+Tombol Style Aktif dengan nama
+Open_Office pada toolbar
+Posisi Kursor tepat berada di antara
+paragraf
+
+Double klik Item Open_Office
+
+Gambar 51 : Mengaplikasikan Style
+Modifikasi Style
+Untuk melakukan modifikasi item-item pada styles, caranya cukup mudah. Pada bagian item styles yang akan dirubah posisikan kursor pada item tersebut kemudian klik kanan, pilih Modify. Lihat gambar 39 berikut :
+
+Gambar 52 : Modifikasi Styles
+Setelah itu akan muncul kotak dialog pengaturan styles, lakukan perubahaan yang dianggap perlu.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 31
+
+Menghapus Style
+Styles dapat dihapus bila dirasa tidak perlu. Penghapusan styles berlaku pada styles yang dibuat secara customise sementara styles bawaan OpenOffice.org Writer tidak dapat dihapus. Menghapus styles hampir sama dengan memodifikasi styles yaitu klik kanan pada bagian styles yang akan dihapus kemudian pilih Delete Selain menghapus styles dengan cara diatas, item-item sytles yaitu Paragraph Styles yang telah diterapkan juga dapat dihapus dengan cara cepat dengan menggunakan Clear formatting pada drop down toolbar styles.
+Menghapus styles dengan clear formatting
+Gambar 53 : Menghapus Styles dengan cepat
+Import Style
+Fasilitas ini digunakan untuk mengambil styles yang pernah dibuat kemudian diterapkan pada dokumen baru. Agar styles lama dapat diterapkan pada dokumen baru, extention dokumen pada styles lama di set .odt. Import styles dilakukan dengan cara klik pada New Style From Selection | Load styles
+Gambar 54 : New Style form Selection
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 32
+
+Akan muncul kotak dialog Load Styles (gambar 55), pilih / conteng pada bagian Text, Frame, Pages, Numbering dan Overwriter yang artinya mengaktifkan semua fitur style dari dokumen sebelumnya agar dapat digunakan pada dokumen baru, setelah itu klik From File
+Gambar 55 : Memanggil styles
+Pada bagian Open File pilih dokumen yang akan di panggil , lihat gambar 56 berikut.
+Dokumen yang dipanggil
+Gambar 56 : Nama dokumen.odt yang digunaan pada styles dokumen baru
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 33
+
+Menggunakan Find & Replace
+Menggunakan Find & Replace
+Fasilitas find dan replace digunakan untuk mencari kata-kata dalam dokumen dan kemudian menggantikan kata-kata tersebut dengan kata-kata baru. Untuk mengaktif fungsi ini klik pada menu Edit | Find & Replace atau dengan shourtcut Ctrl + F
+Gambar 57 : Fitur Find & Replace
+Pada bagian Search ketikkan kata yang akan dicari atau diganti dan pada bagian Replace With ketikkan kata penggantinya.
+Penyuntingan Otomatis AutoCorrect
+AutoCorrect digunakan untuk mengkoreksi ejaan yang salah. Menjalankan AutoCorrect klik pada menu Tools | AutoCorrect, sehingga muncul kotak dialog seperti terlihat pada gambar 58 berikut :
+Gambar 58 : Kotak dialog AutoCorrect
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 34
+
+Penyuntingan Otomatis
+Fasilitas AutoCorrect terdiri atas : 1. Exceptions, memuat 2 daftar pengecualian dari sebuah teks/ kata yaitu Abbreviations dan Words with Two Initial CApitals. Bila diinginkan penulisan sebuah teks dimana tanda titik bukan menandakan akhir dari suatu kalimat namum merupakan tanda singkatan maka kata tersebut dapat dimasukkan ke dalam daftar pengecualian pada Abbreviations, contoh "acct". pengecualian dua adalah penulisan teks dimana huruf pertama dan huruf kedua adalah huruf kapital maka teks tersebut dapat dimasukkan ke dalam daftar pengecualian Words with Two Initial CApitals, contoh CDs 2. Options, memuat daftar optionsperbaikan otomatis oleh OpenOffice.org Writer misalnya penulisan "1/2" secara otomatis dirubah menjadi "½", penulisan teks setelah tanda titik akan dimulai dengan huruf kapital kecuali teks tersebut tidak termasuk dalam daftar pengecualian (Exceptions)
+Gambar 59 : Kotak dialog AutoCorrect Options
+3. Custom Quotes, digunakan untuk menggantikan tanda kutip default dengan tanda kutip customise
+Gambar 60 : Kotak dialog AutoCorrect Custom Quotes
+4. Word Completion, digunakan untuk melengkapi daftar teks/ kata tertentu. Misalnya penulisan teks secara "automatically" ketika teks diketik 'aut" maka word completion akan menawarkan kelengkapan teks tersebut (ditandain dengan warna biru) selanjutnya tekan enter untuk menyetujui kelengkapan teks tersebut.
+Gambar 61 : Word Completion Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 35
+
+AutoSpellcheck
+AutoSpellcheck
+AutoSpellcheck adalah fasilitas yang digunakan untuk memeriksa kesalahan ejaan dalam format bahasa Inggris. Jika penulisan dokumen dalam bahasa Indonesia sementara fitur autoSpellcheck sedang diaktifkan maka hampir dipastikan ejaan dokumen akan tampil garis merah berombok di bawah kata tersebut. Ini disebabkan tulisan dalam bahasan Indonesia tidak dimasukkan dalam kamus. Untuk menonaktifkan/ mengaktifkan fungsi ini, klik pada Icon ABC
+Gambar 62 : Non aktif/ mengaktifkan fungsi AutoSpellcheck
+Bekerja Dengan Tabel
+Membuat tabel dengan mengaktifkan menu Insert | Table atau shortcut Crtl F12 sehingga akan muncul kotak dialog Insert Table seperti terlihat pada gambar 63
+Gambar 63 : Membuat Tabel
+Setelah muncul kotak dialog pada bagian Name isikan nama tabel misalnya "Tabel10" kemudian tentukan jumlah kolom dan baris tabel misalnya kolom "5" dan baris "4". Beberapa opsi yang perlu diatur adalah :
+ Heading, untuk menentukan heading pada tabel. Heading merupakan baris pertama pada tabel yang digunakan untuk menuliskan judul
+ Repeat Heading, untuk menentukan pengulangan pada baris baru heading jika ukuran tabel lebih dari satu halaman.
+ The First, untuk menentukan jumlah baris baru dari tabel yang akan menjadi heading  Don't Split Table, untuk mencegah tabel melebihi satu halaman.  Border, digunakan untuk memberikan bingkai pada tabel  Autoformat, untuk membuat tabel lebih menarik.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 36
+
+Gambar 64 : Menggunakan Fitur AutoFormat pada tabel
+Cara lain membuat tabel secara cepat dapat memanfaatkan tombol Table pada toolbar, perhatikan gambar berikut (gambar 65).
+Gambar 65 : Membuat Tabel dengan cepat menggunakan Tombol tabel pada toolbar.
+Pengaturan Tabel
+Toolbar Table akan muncul ketika kursor tepat berada di dalam tabel, lihat pada gambar 66
+Gambar 66 : Toolbar Table untuk pengaturan tabel
+Toolbar Table digunakan untuk pengaturan tabel. Ketika kursor diarahkan pada tombol-tombol toolbar tabel maka akan muncul keterangan tombol, berikut ini penjelasan tombol Toolbar Table sebagai berikut :
+ Table, untuk membuat tabel baru  Line Color, menentukan jenis warna bingkai tabel  Line Style, menentukan jenis bingkai pada sel tabel  Border, menentukan sisi sel bingkai tabel  Background, untuk menentukan warna latar belakang sel tabel  Merge, mengabungkan sel-sel tertentu  Split cells, untuk memecah sel tabel  Optimize, untuk melakukan optimasi ukuran baris dan kolom tabel  Top, untuk menentukan perataan vertikal teks dalam sel secara rata atas.  Center, untuk menentukan perataan vertikal teks dalam sel secara rata tengah.  Bottom, untuk menentukan perataan vertikal teks dalam sel secara rata bawah.  Insert Row, untuk menambah satu kolom sel tabel dibawah posisi kursor
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 37
+
+ Insert Column, untuk menambah satu baris sel tabel disamping kanan posisi kursor  Delete Row, menghapus kolom sel tabel  Delete Column, menghapus baris sel tabel  Autoformat, untuk menampilkan kotak dialog Autoformat  Table Properties, menampilkan tabel properties  Sort, mengurutkan item-item tabel  Sum, melakukan penjumlahan pada isi tabel yang berupa angka.
+Menyisipkan Obyek
+Dalam penulisan naskah dokumen seperti penulisan proposal, surat-surat, buku atau makalah maupun artikel rasanya kurang lengkap jika tidak dikombinasikan dengan obyek lain. Obyek lain yang dimaksudkan adalah obyek berupa gambar, berupa grafik, berupa formula dan bahkan berupa obyek OLE. Dengan menyisipkan obyek-obyek tersebut naskah dokumen menjadi lebih punya nilai sehingga memberikan kesan yang baik (profesional). Menyisipkan obyek OLE dimulai dari menu Insert | Object | OLE, kemudian memilih obyek OLE yang di inginkan. Obyek OLE ini dapat berupa obyek spreadsheet, grafik, formula, drawing dan presentation. Naskah dokumen pengolahan kata dapat disisipkan obyek lain misalnya spreadsheet yang mana pada area tersebut seolah-seolah sedang bekerja di aplikasi spreadsheet itu sendiri.
+Menyisipkan Gambar
+Selain obyek OLE, gambar dapat disisipkan, caranya dari menu Insert | Picture | Form File, setelah itu pilih gambar yang akan disisipkan.
+Gambar 67 : Menyisipkan gambar
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 38
+
+Menyisipkan Obyek
+Bila dirasa perlu, gambar-gambar dapat edit terkait dengan pengaturan ukuran gambar, penamaan gambar, penempatan gambar diantara teks, penyisipan link gambar, pengaturan flip gambar, pemotongan gambar, borders serta mengatur warna latar gambar. Untuk melakukan pengaturan gambar caranya adalah double klik pada obyek gambar tersebut. Contoh gambar 68 berikut memperlihatkan pengaturan gambar yang berada di antara teks.
+Gambar 68 : Format Gambar
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 39
+
+Fields
+Fields
+OpenOffice.org writer menyediakan layanan untuk menyisipkan fields, yang dapat digunakan untuk beberapa keperluan seperti menyisipkan penomoran halaman, tanggal secara otomatis, menyisipkan pengarang dokumen dan sebagainya. Memasukkan fields klik pada menu Insert | Fields, kemudian pilih jenis field yang diinginkan misalnya field date, field time, field number, field page count dan beberapa fields lainnya
+Daftar Isi
+Daftar isi digunakan untuk memudahkan dalam pencarian bagian-bagian informasi dalam suatu dokumen. Daftar ini umumnya menampilkan daftar halaman yang mengandung judul bab, sub bab, sub-sub bab dan seterusnya. Daftar isi dapat dibuat secara manual tetapi langkah ini kurang efektif karena butuh waktu yang relatif lama. Dengan adanya fasilitas indexing maka daftar isi dapat dibuat secara otomatis berikut perubahannya dengan mudah dan cepat.
+Membuat Daftar Isi
+Daftar isi dapat dibuat langkah-langkah berikut : 1. Blok teks judul yang akan dijadikan daftar isi, misalnya dalam contoh ini adalah "Bab 1 : Pendahuluan" 2. Pilih menu Insert | Indexes & Tables | Entry, lihat pada gambar 69.
+Gambar 69 : Membuat Daftar Isi
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 40
+
+Daftar Isi
+3. Di kotak dialog Insert Index Entry terdapat beberapa bagian yang harus di pilih yaitu :  Selection Index pilih "Table of Contents"  Bagian Entry keterangan "Bab 1 : Pendahuluan" secara otomatis ditampilkan.  Bagian Level pilih Level : "1", level ini untuk digunakan untuk merujuk pada judul bab. Level 1 merujuk untuk level judul bab, level 2 merujuk untuk judul sub bab, level 3 merujuk untuk judul sub-sub bab, dan seterusnya. Lakukan hal yang sama seperti langkah di atas untuk judul sub/ sub-sub bab lainnya. Bagian judul bab/sub/sub-sub bab yang telah di Entry akan terlihat berwarna "abu-abu"  Bagian Apply All Similar Texts : tidak diaktifkan. Bagian ini terdiri dari Match Case & Whole Words Only. Opsi ini merujuk pada bagian judul yang sama untuk ditampilkan.  Setelah selesai klik Insert | Close
+4. Posisikan kursor pada halaman yang akan memuat daftar isi. Pilih menu Insert | Indexes & Tables | Indexes & table. Pastikan type pada kotak dialog adalah "Table of Contents", setelah itu anda boleh menggantikan Title dari Table of Contents menjadi "Daftar Isi", kemudian klik OK.
+Gambar 70 : Menampilkan Daftar Isi
+Gambar 71 : Daftar isi telah dibuat
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 41
+
+Daftar Isi
+Mengupdate Daftar Isi
+Mengupdate daftar isi dilakukan bila ada penambahan halaman atau terjadinya kesalahan penulisan. Update daftar daftar isi dengan cara :
+1. Posisikan kursor di asiran abu-abu teks, klik kanan mouse pilih Index Entry
+Gambar 72 : klik kanan Index Entry
+2. Lakukan perubahan-perubahan yang diperlukan, contohnya pada level 2 diganti menjadi level 1, kemudian klik Ok | Close.
+Gambar 73 : Merubah/ update Index Entry
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 42
+
+Daftar Isi
+3. Pindah ke halaman daftar isi, klik kanan mouse pada asiran abu-abu teks pilih Update Index/ Table. Perhatikan perubahan yang terjadi.
+Gambar 74 : Update Daftar Isi
+Pembuatan daftar isi, selain pada langkah yang telah disebutkan diatas dapat dilakukan dengan cara memanfaatkan Styles. Dokumen-dokumen yang berisi style paragraf, style halaman dan sebagainya diterapkan dan dijadikan sebagai daftar isi. Langkah terakhir, untuk menampilkan daftar isi klik menu Insert | Indexes & Tables | Indexes & Table
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 43
+
+Daftar Index
+Daftar Index
+Teks-teks dari suatu dokumen tertentu untuk dijadikan sebagai daftar kata - kata penting atau daftar Index termasuk nomor halamannya dilakukan dengan langkah ­ langkah berikut :
+1. Blok kata tersebut kemudian pilih menu Insert | Indexes and Table | Entry 2. Pada bagian Selection, Index : pilih "Alphabetical Index" 3. Aktifkan opsi Apply to all similar text, Match Case dan Whole words only, setelah itu klik Insert |
+Close.
+Gambar 75: Insert Index Entry
+4. Klik menu Insert | Indexes and Tables | Indexes and Tables
+Gambar 76 : Menampilkan Daftar Index
+Dibagian tipe, pilih "Alphabetical Index" dan nonaktifkan "combine indentical entries with p or pp", klik OK
+Gambar 77 : Penyajian kata-kata pending atau Daftar Index Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 44
+
+Menggunakan Mail Merge
+
+Menggunakan Mail Merge
+
+Mail Merge adalah fasilitas untuk membuat surat masal yang dikirimkan ke banyak orang (penerima) hanya dengan sekali dibuat oleh pengirim. Fungsi ini sangat membantu anda untuk mengirimkan surat yang sama terhadap orang yang berbeda-beda.
+
+Cara membuat mail merge :
+
+1. Buat master surat, misalnya undangan
+
+Sebagai contoh Master Surat yang akan dibuat adalah sebagai berikut
+Kepada Yth :
+Bapak Di Kota Kode Pos Telp.
+
+Depok, 20 Mei 2009
+
+Dengan Hormat,
+
+Kami dari PT. Ardelindo Aples, dengan alamat Jln. Margonda Raya No. 535 E Depok 16424, Depok Indonesia,
+
+mengundang Bapak/Ibu
+
+Nama
+
+:
+
+Alamat
+
+:
+
+Untuk mengikuti pelatihan OpenOffice yang akan dilaksanakan di 20 Kota Indonesia
+
+Hormat Kami
+
+Hasan B. Usman Lamatungga Ardelindo
+
+2. Buat data alamat atau data source yang terdiri atas nama, alamat, kota, kode pos dan telepon. Gunakan fasilitas bibliograpy, dengan cara klik View | DataSource, klik simbol + pada bagian kiri Bibliograpy | Tables, klik kanan biblio pilih "edit database file" dan klik Tables | Create Table in Design View (Lihat gambar 78)
+
+Gambar 78 : Tables design view mail merge
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 45
+
+Isikan field-field data sourcenya, selanjutnya klik File | Save
+
+Menggunakan Mail Merge
+
+Gambar 79 : Menentukan field-field mail merge
+Klik File | save, isikan nama file pada bagian table name misalnya "data_source", tekan OK
+Gambar 80 : Tabel Mail Merge
+Muncul dibagian kiri "data_source" yang telah dibuat sementara dibagian kanan memuat field-field data yang perlu anda masukkan.
+
+Gambar 81 : Drag & Drop data field ke dalam master surat
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 46
+
+Menggunakan Mail Merge
+Selanjutnya posisikan kursor di field tertentu misalnya field telepon kemudian drag & drop ke dokumen master. Atur pengaturan posisi field-field tersebut sehingga terlihat rapi, field-field tersebut akan terlihat berwarna abu-abu. Untuk melihat hasil mail merge klik Menu File | Print, pada lembar konfirmasi klik Yes
+Gambar 82: Lembar Konfirmasi untuk mencetak mail merge
+Untuk mencetak dokumen surat berantai sebanyak data yang di inputkan (dalam contoh ini 3 lembar) dengan memilih pilihan printer. Namum bila diputuskan untuk mencetak di lain waktu pilih file. Keluaran dalam bentuk akan membentuk dokumen surat sebagai single dokumen maupun individual dokumen.
+Gambar 83 : Menentukan keluaran mail merge berbentuk printer atau file
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 47
+
+Track Change
+Track Change
+Track change digunakan untuk memantau dokumen ketika terjadi perubahan. Dengan adanya fasilitas track change dokumen-dokumen dapat di pantau sehingga ke aslian dokumen tetap terjaga. Ketika fungsi ini diaktifkan, maka perubahan yang terjadi seperti penyisipan teks maupun penghapusan teks dapat dipantau. Bila terjadi penyisipan teks maka tulisan penyisipan tersebut terlihat dengan jelas berwarna dan bergaris bawah sedangkan bila terjadi penghapusan teks, dokumen teks yang dihapus tidak hilang, melainkan muncul garis coretan berwarna pada teks tersebut. Anda dapat menentukan tindakan atas perubahan-perubahan yang terjadi baik itu diterima (accept) maupun di tolak (deny).
+Track Change diaktifkan melalui menu Edit | Change | Record, untuk menampilkan seluruh dokumen bila terjadi perubahan dengan mengaktifkan menu Edit | Change | Show.
+
+Menyisipkan teks, terlihat teks tersebut bergaris bawah
+
+Menghapus teks, terlihat teks tersebut tercoret
+
+Gambar 84 : Dokumen yang telah di ubah
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 48
+
+Track Change
+Untuk memproteksi dokumen, anda dapat melakukan dengan menginputkan kode sandi dan biasanya kode sandi minimal karakter yang diinputkan adalah 6. Aktifkan kode sandi dari menu Edit, Change, Protect Record.
+Gambar 85 : Proteksi dokumen
+Lakukan tindakan selanjutnya, apakah perubahan-perubahan tersebut diterima atau di tolak, caranya dari menu Edit | Change | Accept or Reject. Ketika anda memilih accept berarti menyetujui perubahan sebaliknya reject tidak menyetujui (menolak)
+Gambar 86 : Kotak dialog Accept or Reject Changes
+Untuk memberikan komentar pada dokumen cukup dengan mengaktifkan menu Edit | Change | Comment, kemudian isikan komentarnya.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 49
+
+Navigator
+Navigator
+Dalam penulisan dokumen biasanya dokumen tersebut terdiri atas berbagai ragam item/ bentuk misalnya dalam bentuk teks, bentuk tabel, link, objek, notes, frame, formula, gambar dan lain sebagainya. Anda akan mengalami kesulitan untuk mengecek penulisan dokumen satu persatu atau untuk melakukan perubahan (update) sementara halaman dokumen tersebut cukup banyak. Misalnya pada halaman 52 dari 200 halaman, ada kesalahan penulisan teks dan jika dilakukan perbaikan kesalahan tersebut secara manual yaitu dengan berpindah satu persatu halaman tentunya ini sangat menyulitkan. Untuk memudahkan pekerjaan tersebut dengan memanfaatkan fungsi Navigator. Navigator dapat diaktifkan melalui menu Edit, Navigator (atau tekan tombol F5). Setelah muncul window Navigator, anda dapat perpindah-pindah antara halaman tertentu untuk melakukan perubahan atau hanya sekedar mengecek data. Window Navigator akan muncul sampai dengan anda me-nonaktifkan fungsi ini. Untuk mengnonaktifkan Navigator dari menu Edit, Navigator (atau tekan tombol F5)
+Gambar 87 : Kotak dialog Navigator
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 50
+
+OpenOffice.org.org calc
+OpenOffice.org.org calc
+Calc adalah aplikasi spreadsheet atau pengolah angka yang merupakan bagian dari OpenOffice.org.org. Calc mirip dengan Microsoft Excel dari Microsoft sehingga pengguna yang sebelumnya telah menggunakan Excel untuk migrasi ke calc pada dasarnya tidaklah sulit. Selain itu juga OpenOffice.org calc mendukung format dari excel sehingga fasilitas ini sangat membantu bila anda nantinya putuskan untuk migirasi ke OpenOffice.org Calc
+Menjalankan OpenOffice.org calc
+OpenOffice.org.org calc dapat dijalankan dari start Menu Aplikasi | Perkantoran | Spreadsheet atau dari Menu File |New | Spreadsheet
+Gambar 88 : Menjalakan Open Office Calc
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 51
+
+Memahami Lembar Kerja Spreadsheet
+
+Memahami Lembar Kerja Spreadsheet
+
+Halaman lembar kerja dari spreadsheet disebut dengan sheet, OpenOffice.org versi 3.0 ke atas menyediakan sekitar 65536 baris dan IV kolom. Secara default sheet pada spreadsheet ada 3 yaitu sheet1, sheet2 dan sheet3. Sheet ini dapat tambahan, dihapus maupun di edit. Perpaduan baris dan kolom ini disebut dengan sel yaitu tempat terjadi pengolahan data dari input yang dimasukkan baik berupa teks, angka, mata uang, jam, maupun field yang lainnya.
+
+Menu Bar
+
+Title Bar
+
+Function Bar Object Bar
+
+Sel aktif
+
+Formula Bar
+
+Baris
+
+Halaman Dokumen / sheet
+
+Kolom
+
+Gambar 89 : Memahami lembar Kerja Calc
+Operasi Pada Sel
+Sel adalah perpaduan baris dan kolom, tempat eksekusi data. Untuk memilih sel pada baris dan kolom klik mouse pada title baris dan kolom, perhatikan sel pada baris dan kolom yang dipilih akan berubah warna menjadi hitam. Anda juga dapat menyembunyikan baris dan kolom tertentu dengan cara klik kanan mouse pada tittle baris atau kolom kemudian pilih "hide", untuk menampilkan kembali baris atau kolom tersebut pilih "show".
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 52
+
+Pengaturan Setting OpenOffice.org Calc
+Pengaturan Setting OpenOffice.org Calc
+Ada beberapa pengaturan setting yang dapat dilakukan, pertama pengaturan setting secara umum OpenOffice.org, kedua pengaturan mekanisme penyimpanan data, ketiga setting penggunaan bahasa, ke empat setting OpenOffice.org Calc, ke lima setting OpenOffice.org base, ke enam pengaturan grafik dan ke tujuh pengaturan setting internet. Pengaturan settingan ini mirip dengan pengaturan pada OpenOffice.org Writer, perbedaannya terletak pada bagian OpenOffice.org Writer maupun OpenOffice.org Calc itu sendiri. Pengaturan setting dilakukan dengan mengaktifkan menu Tools | Options | OpenOffice.org.org calc
+Gambar 90 : Konfigurasi Calc
+Pengaturan setting utama Calc di bagian OpenOffice.org Calc yang terdiri dari General, View, calculate, Sort List, Change, Grid, Print. Pada contoh memperlihatkan pengaturan ukuran halaman dan jarak tabulasinya dan untuk pengaturan yang lain di atur sesuai yang diperlukan.
+Format Sel
+Sel dapat di format untuk mengatur tipe data yang akan di inputkan. Beberapa pengaturan sel adalah pengaturan tipe data angka, pengaturan tipe font, efek font, perataan, bolders, background dan proteksi sel. Pengaturan tipe data angka (numbers) terdiri atas number, percent, currency (mata uang), date, time, scientific, fraction, boolean value dan text. Format sel dapat dilakukan dari menu Format | Cells sehingga akan muncul gambar berikut :
+Gambar 91 : Format Sel Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 53
+
+Format Sel
+Gambar 92, memperlihatkan pengaturan tata letak teks dokumen secara horizontal, vertical, derajat orentasi teks serta pengaturan wrap
+Gambar 92 : Pengaturan tata letak teks
+Membuat Address Data source
+Address data source ada hubungannya dengan surat berantai (mail merge), dengan memanfaatkan fasilitas ini pembuatan mail merge menjadi lebih mudah karena anda cukup memuat/ memanggil data-data pada address data source yang sudah ada. Berikut ini langkah-langkah pembuatan adalah :
+1. Buka file data yang sudah ada, misalnya file data informasi karyawan dimana dalam contoh kali ini filenya "address_data_source.ods"
+Gambar 93 : Pembuatan Data Source Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 54
+
+Membuat Address Data source
+2. Setelah itu, klik File | Wizards | Address data source | Other External data source | next | Setting. Pilih tipe database Spreadsheet | Next | Browse file data_source.ods | Open | Test Connection.
+3. Jika berhasil maka muncul pesan connection successfully
+Gambar 94 : Tes koneksi sukses
+4. Klik Next, pilih kotak dialog Address Book Name, isikan dengan nama daftar_data_source.
+Gambar 95 : penamaan address data source
+5. Menampilkan address data source pada surat berantai dengan menjalankan OpenOffice.org Writer kemudian klik menu Views | Addresses | Tables | Sheet1, sampai dengan tahap ini anda cukup drag & drop field-field address data source tersebut ke surat masternya
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 55
+
+Gambar 96 : Menampilkan data source di writer
+Fungsi OpenOffice.org calc
+Fungsi adalah rumus yang sudah terdefinisi untuk melakukan operasi aritmatika. Semua fungsi ditulis dengan tanda awalan sama dengan (=). OpenOffice.org Calc mendukung fungsi ­ fungsi seperi berikut :
+1. Fungsi matematika 2. Fungsi Logika 3. Fungsi Statistik 4. Fungsi Text/ String 5. Fungsi Spreadsheet 6. Fungsi Tanggal dan Waktu 7. Fungsi DataBase 8. Fungsi Finansial 9. Fungsi Information 10. Fungsi Array 11. Add-in Secara umum penulisan fungsi calc adalah = nama_fungsi (data ; result)
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 56
+
+Fungsi OpenOffice.org calc
+Gambar 97 : Menampilkan fungsi-fungsi Calc
+Modul ini tidak membahas secara keseluruhan fungsi OpenOffice.org Calc, namum beberapa fungsi yang sering digunakan, misalnya :
+1. Fungsi kategori Matematika
+Yang termasuk dalam fungsi matematika di antaranya adalah : a. COS
+Mencari nilai COS dari suatu nilai dalam sel, misalnya COS 90 = -0.45. Notasi = COS (angka) contoh = COS(90) b. SIN Kebalikan dari COS, misalnya SIN 90 = 0.45 Notasi = SIN (angka) contoh = SIN (90) c. INT Fungsi Pembulatan yang terdekat. Notasi = INT (angka) Contoh = INT(4.555) Nilai akhir adalah 4. d. ROUND Fungsi pembulatan desimal tertentu Notasi = ROUND (angka; jumlah desimal) Contoh = ROUND (4.323;2) e. SUM Fungsi Penjumlahan. Notasi =SUM (nilai1 ; nilai 2) Contoh = SUM (5;10) f. ABS Fungsi untuk mengambil nilai absolut suatu angka. Fungsi ini bisa hanya mengubah bilangan negatif ke bilangan positif.
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 57
+
+Fungsi OpenOffice.org calc
+Notasi = ABS (nilai) contoh = ABS (-2)
+g. EXP Fungsi untuk menampilkan hasil pemangkatan dengan bilangan dasar e (2.7182818). Notasi = EXP (angka) Contoh = EXP (2) = 7.39
+2. Fungsi Statistik
+a. AVERAGE Mencari nilai rata-rata data dalam range Notasi = AVERAGE (range) Contoh = AVERAGE (B3;B7)
+b. COUNT Mencari jumlah data angka dalam range Notasi = COUNT (range) Contoh = COUNT (B3;B7)
+c. MAX Mencari data tertinggi dalam range Notasi = MAX (range) Contoh = MAX (B3;B7)
+d. MEDIAN Mencari median / nilai tengah data dalam range Notasi = MEDIAN (range) Contoh = MEDIAN (B3;B7)
+e. MIN Mencari nilai minimal dalam range Notasi = MIN (range) Contoh = MIN (B3;B7)
+f. STDEV Mencari modus standard deviasi dalam range sample data Notasi = STDEV (range) Contoh = STDEV (B3;B7)
+g. MODE Mencari modus data dalam range Notasi = MODE (range) Contoh = MODE (B3;B7)
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 58
+
+Fungsi OpenOffice.org calc
+
+Contoh Kasus 1 :
+
+TABEL PENGELUARAN RUTIN BULANAN UD SINAR JAYA
+
+No Jenis 1 Listrik 2 Air 3 Telpon 4 Pajak Bumi 5 Tranportasi 6 Komsumsi 7 Lain-lain
+Jumlah Rata-rata
+Minimal Maksimal
+
+Bulan Januari ­ Juni 2003
+
+Januari
+
+Februari Maret
+
+25000
+
+26000
+
+27000
+
+18000
+
+21000
+
+22000
+
+95000
+
+120000 134000
+
+60000
+
+60000
+
+60000
+
+25000
+
+30000
+
+30000
+
+100000
+
+10000
+
+10000
+
+15000
+
+50000
+
+5000
+
+April 30000 15000 175000 60000 30000 100000 2500
+
+Mei 50000 19000 210000 60000 25000 100000 1000
+
+Juni 60000 8000 167000 60000 30000 100000 2750
+
+Rumus dicopi ke arah kanan
+Jumlah : =sum(blok) enter
+Rata-rata : =average(blok) enter Minimal : =min(blok) enter Maksimal : =max(blok) enter
+
+3. Fungsi Logika
+
+Untuk membuat ekspresi logika yang menyatakan benar (true) atau salah (false) digunakan operator seperti :
+
+>
+
+Lebih besar dari
+
+>=
+
+Lebih besar atau sama dengan
+
+<
+
+Lebih kecil dari
+
+<=
+
+Lebih kecil dari atau sama dengan
+
+=
+
+Sama dengan
+
+<>
+
+Tidak sama dengan
+
+a. AND
+
+Fungsi AND akan memberikan hasil TRUE, bila semua argument yang ada adalah benar sebaliknya akan dihasilkan FALSE bila ada salah satu argument yang salah.
+
+Notasi = AND (Ekspresi logika 1 ; Ekspresi logika 2 ; ...) Contoh Kasus
+
+Nama
+Bejo Sutiyen
+Hasan Rofiq
+
+Nilai1
+75 40
+80 70
+
+Nilai 2
+75 90
+75 70
+
+AND
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 59
+
+Fungsi OpenOffice.org calc
+
+Nama Syukri
+Gatot
+
+Nilai1 68
+90
+
+Nilai 2 70
+65
+
+AND
+
+Ketentuan : Jika nilai1 lebih besar atau sama dengan 70 dan nilai 2 lebih besar atau sama dengan 75 maka TRUE, Sebaliknya jika nilai 1 lebih kecil dari 70 dan nilai 2 lebih kecil dari 75 maka FALSE
+
+b. OR Fungsi ini akan memberikan hasil TRUE bila salah satu atau lebih dari argument yang ada adalah benar, sebaliknya akan memberikan hasil salah bila tak satu pun dari argument tersebut benar. Notasi = OR (Ekspresi logika 1 ; Ekspresi logika 2 ; ...)
+
+c. NOT Fungsi ini memberikan nilai kebalikan dari argument yang ada. Bernilai argument nya benar (TRUE) maka hasil dari fungi NOT adalah FALSE, sebaliknya bila argument bernilai FALSE maka hasil dari fungsi NOT adalah TRUE. Notasi = AND (Ekspresi logika)
+
+d. IF Jika ekspresi logika bernilai benar maka akan dieksekusi perintah pertama, sebaliknya ekspresi bernilai salah maka akan di eksekusi perintah ke dua, dan seterusnya. Notasi = IF (Ekspresi logika; perintah 1; perintah 2)
+
+Contoh 2 :
+
+Buatlah daftar Penumpan Kereta Api Jakarta ­ Yogyakarta, dengan ketentuan-ketentuan sebagai berikut : Data Masukan · Nama Penumpang · Kode BUS
+Layout Masukan Daftar Penumpang Kereta Api Jakarta ­ Yogyakarta
+
+Nama penumpang Indra Imam Sabili Zainuddin Julianto Luke Edwar Ida Lusia Yoni
+
+Kode Kereta E E K K E K K E
+
+Jenis Kelas
+
+Harga tiket
+
+Catatan
+
+Ketentuan Soal :
+
+· Jika E maka Eksekutif, atau Jika K maka Ekonomi · Jika Eksekutif maka harga tiket Rp. 150.000,· Jika Ekonomi maka harga tiket Rp. 32.000,· Fasilitas, jika Eksekutif maka dapat makan, jika Ekonomi tidak dapat makan
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 60
+
+Fungsi OpenOffice.org calc
+
+Contoh 3 Kasus IF
+
+DAFTAR UPAH HARIAN UD. RAMA SHINTA SURABAYA
+
+No Nama Karyawan Jam kerja Kriteria Upah Bonus
+
+1 Susi
+
+7
+
+2 Suryadi
+
+10
+
+3 Melani
+
+10
+
+4 Priscilia
+
+2
+
+5 Fadel
+
+0
+
+6 Anton w
+
+8
+
+7 Jeni
+
+12
+
+8 Bob
+
+7.5
+
+9 Andy
+
+8.5
+
+10 Bejo
+
+1
+
+· Kriteria
+
+Tunjangan PPN (10%) Gaji bersih
+Jumlah 73620
+
+jika jam kerja <= 8 maka "reguler". Jika jam kerja > 8 maka lembur
+
+· Upah
+
+jika jam kerja <= 8 maka jam kerja * Rp 1000 Jika jam kerja > 8 maka 8 jam pertama * Rp 1000 di tambah lemburnya (jam kerja-8) * Rp 2000
+
+· Bonus
+
+jika jam kerja < 8 maka 0% * upah Jika jam kerja 8 s/d 10 maka 5% * upah Jika jam kerja > 10 maka 10% * upah
+
+Tunjangan Jika lembur maka 5% * upah, jika selain itu tidak ada tunjangan
+
+· PPN
+
+10% DARI UPAH + Bonus + Tunjangan
+
+· Gaji bersih = (upah + bonus+Tunjangan) ­PPN
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 61
+
+Fungsi OpenOffice.org calc
+4. Fungsi Tanggal dan Waktu
+Fungsi tanggal digunakan untuk memproses data yang di input berupa tanggal. Agar dapat dilakukan proses perhitungan maka setiap tanggal yang diwakili sebagai dasar perhitungan pada OpenOffice.org calc di mulai dari tanggal 01/01/1900, 01/01/1904 dan 12/30/1899. Dasar perhitungan tanggal secara default adalah 12/30/1899, untuk mengubahnya klik menu Tools | Options | OpenOffice.org.org | Calc | Calculate sehingga akan muncul seperti pada gambar 98 berikut.
+Gambar 98 : Menampilkan pengaturan kalkulasi Calc
+4.1 Fungsi Tanggal Berikut ini adalah fungsi tanggal : 1. Fungsi date Fungsi yang digunakan untuk memasukkan tanggal pada lembar kerja. Bentuk umum penulisan rumus adalah =Date(mm/dd/yy). Misalnya =Date(05;15;2007). Untuk merubah formatdate, klik pada menu format, sel, Number dan pilih kategori kategori date 2. Fungsi day Menampilkan suatu angka tanggal dari suatu tanggal yang di inputkan dalam bentuk teks menjadi data tanggal. Bentuk umum penulisan rumus adalah = Day(number). Misalnya Sel B1 berisikan data 15/05/2007. Bila pada sell C1 di isikan dengan fungsi = Day(B1) maka akan menghasilkan angka tanggal 15. 3. Fungsi Month Menampilkan suatu angka bulan dari suatu tanggal yang di inputkan dalam bentuk teks menjadi data angka bulan. Bentuk umum penulisan rumus adalah = Month(number). Misalnya Sel B1 berisikan data 15/05/2007. Bila pada sell C2 di isikan dengan fungsi = Month(B1) maka akan menghasilkan angka bulan 05. 4. Fungsi Year Menampilkan suatu angka tahun dari suatu tanggal yang di inputkan dalam bentuk teks menjadi data angka bulan. Bentuk umum penulisan rumus adalah = Year(number). Misalnya Sel B1 berisikan data 15/05/2007. Bila pada sell C3 di isikan dengan fungsi = Year(B1) maka akan menghasilkan angka tahun 2007
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 62
+
+Fungsi OpenOffice.org calc
+
+5. Fungsi weekday Menampilkan suatu angka hari dari suatu tanggal yang di inputkan dalam bentuk teks menjadi data angka bulan. Bentuk umum penulisan rumus adalah = weekday(number). Misalnya Sel B1 berisikan data 15/05/2007. Bila pada sell C4 di isikan dengan fungsi = weekday(B1) maka akan menghasilkan angka 3 (yang berarti hari selasa).
+6. Fungsi Datevalue Menampilkan tanggal dari lembar kerja calc dari teks menjadi numerik. Bentuk umum penulisan rumus adalah = Datevalue(teks)
+
+Contoh Soal 4
+
+1. Dari contoh soal berikut ini tentukan hari, bulan, tahun, urutan hari dan tanggal pemecahan sehingga keluaran seperti pada tabel hasil akhir.
+Tabel fungsi tanggal
+
+Tanggal 20/09/75 12/07/76 16/09/72 31/12/99
+
+Hari
+
+Bulan
+
+Tahun
+
+Urutan Hari Tanggal pemecahan
+
+Hasil Akhir dari tabel fungsi tanggal
+
+Tanggal 20/09/75 12/07/76 16/09/72 31/12/99
+
+Hari
+
+Bulan
+
+20
+
+9
+
+12
+
+7
+
+16
+
+9
+
+31
+
+12
+
+Tahun 1975 1976 1972 1999
+
+Urutan Hari 7 2 7 6
+
+Tanggal pemecahan 22/05/09 22/05/09 22/05/09 22/05/09
+
+2. Perhitungan denda dari keterlambatan peminjaman buku di perpustakaan dengan ketentuan sebagai berikut :
+· Ketentuan Soal a) Keterlambatan adalah pengurangan dari tanggal kembali dengan batas waktu peminjaman b) Batas Waktu peminjaman adalah 10 hari dari tanggal pinjam c) Denda adalah perkalian antara keterlambatan dengan denda keterlambatan perhari (denda perharinya adalah Rp. 500)
+· Layout
+
+Nama Hasan Bahcri Farro Widayat Deby Anton
+
+Tanggal Pinjam 12/07/99 17/08/99 29/06/99 02/08/99 20/09/99 12/06/99
+
+Batas Waktu
+
+Tanggal Kembali 12/08/99 17/09/99 02/09/99 20/10/99 15/08/99 12/07/99
+
+Keterlambatan
+
+denda
+
+Denda per hari
+
+500
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 63
+
+Fungsi OpenOffice.org calc
+
+4.2 Fungsi Waktu :
+
+Fungsi waktu digunakan untuk memproses data berupa waktu. Agar dapat diproses, waktu
+
+diwakili oleh angka pecahan misalnya 0 dan 1 yang menunjukkan suatu hari.
+
+Misalnya
+
+·
+
+Jam 0:00
+
+diwakili oleh angka 0
+
+0 hari
+
+·
+
+Jam 06:00
+
+diwakili oleh angka 0.25
+
+¼ hari
+
+·
+
+Jam 12:00
+
+diwakili oleh angka 0.50
+
+½ hari
+
+·
+
+Jam 24.00
+
+diwakili oleh angka 100
+
+1 hari
+
+Berikut fungsi Waktu : 1. Fungsi time Menampilkan angka pecahan yang mewakili waktu. Bentuk umum penulisan rumus adalah =time(jam;menit;detik). Penulisan waktu menggunakan sistem 24 jam, misalnya waktu 6 sore di tulis 18.00. Pada calc formatpenulisan waktu dapat di atur dari menu format, sel, pada pilihan category pilih time
+
+2. Fungsi hour Menampilkan suatu angka jam dari suatu data waktu. Bentuk umum penulisan rumus adalah = hour(number). Misalnya Sel B2 berisikan data 24:10:15. Bila pada sell C7 di isikan dengan fungsi = hour(B2) maka akan menghasilkan angka 24.
+
+3. Fungsi minute Menampilkan suatu angka minute dari suatu data waktu. Bentuk umum penulisan rumus adalah = minute(number). Misalnya Sel B2 berisikan data 24:10:15. Bila pada sell C8 di isikan dengan fungsi = minute(B2) maka akan menghasilkan angka 10.
+
+4. Fungsi second Menampilkan suatu angka detik dari suatu data waktu. Bentuk umum penulisan rumus adalah = second(number). Misalnya Sel B2 berisikan data 24:10:15. Bila pada sell C9 di isikan dengan fungsi = second(B2) maka akan menghasilkan angka 15.
+
+5. Fungsi Now Fungsi now digunakan untuk menampilkan tanggal dan waktu pada saat ini. formatpenulisan rumus adalah =now()
+
+Contoh Soal 5
+Selesaikan soal berikut sehingga hasil akhir terlihat pada tabel berikut ini dengan ketentuan soal : · Jam kerja di mulai jam 08.30 · Gaji Pokok Rp. 2.000.000 · Lewat jam kerja = jam masuk ­ jam kerja, yang di kelompokkan menjadi 1-15 menit, 16-30
+menit, 31-45 menit dan di atas 45 menit · Jumlah denda 1/200 dari terlambat dikalikan gaji pokok
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 64
+
+Fungsi OpenOffice.org calc
+
+Name
+Hasan Bachri Farro Widayat Deby Anton Ari
+
+Tanggal Jam Masuk masuk
+
+Aug 2, 99 Aug 4, 99 Aug 5, 99 Aug 10, 99 Aug 12, 99 Aug 16, 99 Aug 31, 99
+
+08:29 08:45 09:03 10:00 08:00 08:33 08:59
+
+1-15 M
+
+Jam masuk Gaji Pokok
+
+08:30 Rp2,000,000
+
+Lewat jam kerja 16-30 M 31-45 M >45 M
+
+Jumlah Denda
+
+Name
+Hasan Bachri Farro Widayat Deby Anton Ari
+
+Tanggal Masuk
+
+Jam masuk
+
+Aug 2, 99 Aug 4, 99 Aug 5, 99 Aug 10, 99 Aug 12, 99 Aug 16, 99 Aug 31, 99
+
+08:29 08:45 09:03 10:00 08:00 08:33 08:59
+
+1-15 M 15
+3
+
+Lewat jam kerja 16-30 M 31-45 M >45 M
+33 90
+29
+
+Jumlah Denda
+$2,500.00 $5,500.00 $15,000.00
+$500.00 $4,833.33
+
+5. Fungsi Spreadsheet
+Sebagian fungsi spreadsheet adalah sbb :
+5.1 VLOOKUP
+Fungsi : sebagai pencarian nilai secara vertikal. Fungsi ini mengecek apakah nilai yang di cari terdapat di dalam kolom pertama dari sebuah Array. Syntax : =Vlookup (search criterion ; array ; index ; sort of order) Search criterion : Adalah nilai yang di cari di kolom pertama dari sebuah array. Array : Sebuah referensi, terdiri dari minimal 2 kolom. Index : Nomor kolom di dalam Array yang terdiri dari nilai yang akan di kembalikan. Kolom pertama adalah nomor 1. Sort Order : Merupakan parameter pilihan, yang menyatakan apakah kolom pertama array di sort secara Ascending atau tidak.
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 65
+
+B PLU 4 456012 5 500405 6 500606 7 501122 8 5002001 9 502322
+
+C Deskripsi Belajar Linux Dasar I Database MySQL TCP/IP Lanjutan Linux Networking Trouble shooting Komputer PHP dan MySQL
+
+Fungsi OpenOffice.org calc
+
+D
+
+E
+
+Harga Beli Harga Jual
+
+25000
+
+37000
+
+4 0,000
+
+60,000
+
+85,000 110,000
+
+4 9,000
+
+65,000
+
+22,500
+
+35,000
+
+55,000
+
+70,000
+
+G 2 PLU 3 456012 4 502322 5 509952 6 502001
+
+H Harga Jual
+
+Untuk tabel di atas, kita ingin mendapatkan harga jual dengan mengacu pada tabel 1: Tabel barang, maka syntax nya adalah sbb : =Vlookup(G3;$B$4:$E$10;4)
+
+G3
+
+: Adalah Nilai yang akan di cari, dalam hal ini G3 bernilai : 456012
+
+$B$4 : $B$10 : Adalah Tabel pertama, tanda '$' adalah untuk menyatakan fixed.
+
+4
+
+: Adalah kolom ke 4 dari tabel pertama.
+
+Karena tabel pertama kolom plu sudah di sort secara Ascending, maka tidak di perlukan nilai Sort Order.
+
+5.2 HLOOKUP Fungsi : sebagai pencarian nilai secara Horisontal. Fungsi ini mengecek apakah nilai yang di cari terdapat di dalam kolom pertama dari sebuah Array. Fungsi ini sama dengan Vlookup, beda nya di Kolom dan Baris di tukar.
+
+5.3 COLUMN Fungsi : Menghasilkan nomor kolom dari nilai reference yang di masukkan. Syntax : =column(reference) reference adalah cell yang di berikan.
+Contoh : =column(A1), menghasilkan nilai 1. Kolom A adalah kolom pertama. =column(B1:D5), menghasilkan nilai 2. Kolom B adalah kolom kedua.
+
+5.4 COLUMNS Fungsi : Menghasilkan jumlah kolom dari reference yang di masukkan. Syntax : =columns(array) Contoh : =columns( C19), menghasilkan nilai 1. Hanya terdapat 1 kolom
+=columns(C20:G21), menghasilkan nilai 5. Array C20:G21 terdiri dari 5 kolom.
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 66
+
+Data Filter
+Data Filter
+Data filter digunakan untuk menampilkan sejumlah data tertentu melalui proses penyaringan. Caranya klik menu Data | Filter | AutoFilter | Standard Filter / Advanced Filter sehingga muncul gambar berikut :
+
+Data Pilot
+
+Gambar 99 : Menampilkan data filter
+
+Data pilot digunakan untuk melakukan rekapitulasi laporan berdasarkan kriteria tertentu. Contoh berikut memperlihatkan penggunaan fungsi data pilot. Langkah pertama blok sejumlah data kemudian klik Data | Data Pilot
+
+Gambar 100 : Data laporan untuk ditampilkan menggunakan data pilot
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 67
+
+Kemudian pilih data Current data | Ok, lihat gambar 101
+Gambar 101 : seleksi data pilot
+
+Data Pilot
+
+Gambar 102 : Layout data pilot
+Selanjutnya Drag dan Drop data field yang ada, dan tempatkan field-field tersebut sesuai bentuk yang diinginkan. Lihat pada gambar 102 di atas, dan hasil akhir rekaputulasi data terlihat pada gambar 103.
+
+Gambar 103 : Tampilan data menggunakan data pilot
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 68
+
+Membuat Grafik
+Membuat Grafik
+Dokumen OpenOffice.org Calc tidak melulu ditampilkan dalam bentuk teks maupun dalam bentul tabeltabel tertentu. Penyajian data dalam bentuk grafik akan memberikan nuansa tersendiri dan terlihat profesional. Tipe grafik di OpenOffice.org Calc yang berbentuk kolom, bar, pie, line, area dan sebagainya dipilih dan disesuaikan dengan datanya. Artinya tidak semua bentuk grafik dapat diterapkan pada data dokumennya. Dalam contoh ini, akan dibuat grafik dengan tipe kolom pada dokumen tabel pengeluaran bulanan suatu perusahaan.
+1. Pertama soroti dan blok datanya kemudian klik Insert | Chart, pilih tipe grafik misalnya bentuk column. Aktifkan atau centang tampilan 3 D bila dirasa perlu, selanjutnya klik Next
+Gambar 104 : Tipe grafik Column 3 D
+2. Langkah berikutnya adalah menentukan data range kemudian klik Next
+Gambar 105 : Menentukan data range
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 69
+
+Membuat Grafik
+3. Data series yang sudah ada dapat ditambah atau dihapus , klik Next untuk proses selanjutnya.
+Gambar 106 : Menentukan data series
+4. Pada tahapan ini keterangan judul dan informasi lainnya perlu diinputkan seperti title, subtitle, X axis, Y axis dan Z axis, selanjutnya klik Finish
+Gambar 107 : Memasukkan judul dan label lainnya
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 70
+
+Membuat Grafik
+5. Setelah klik finish pada langkah 4 di atas, grafik berbentuk kolom 3 D akan terlihat seperti pada gambar 108.
+Gambar 108 : Grafik berbentuk kolom telah terbentuk
+6. Grafik yang telah jadi dapat di edit guna melakukan beberapa perubahan yang diperlukan. Untuk mengedit grafik klik ganda pada area grafik tersebut selanjutnya akan muncul area (bingkai abuabu) yang siap di edit.
+Toolbar edit grafik
+Gambar 109 : Mengedit grafik Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 71
+
+Menggunakan OpenOffice.org Impress
+
+Menggunakan OpenOffice.org Impress
+
+OpenOffice.org Impress adalah salah satu aplikasi office yang digunakan untuk membuat dokumen presentasi. Aplikasi Impress mirip dengan PowerPoint dan mendukung format PowerPoint sehingga jika anda sebelumnya telah membuat dokumen presentasi dengan PowerPoint anda masih tetap dapat membuka di OpenOffice.org Impress.
+
+Memahami Lembar Kerja Presentasi
+
+Layar utama OpenOffice.org Impress terdiri dari 3 bagian : slides Pane, Master Pane/ Workspace, dan Task Pane.
+
+Menu Bar
+
+Tool Bar
+
+T it t le Bar
+
+Slide Pane
+
+Mast er Pane
+
+St at us Bar
+
+Gambar 110 : Tampilan OpenOffice.org Impress
+
+T ask Pane
+
+Berikut ini penjelasan dari gambar di atas :
+1. Slide Pane : Bagian ini menampilkan slide-slide yang ada pada dokumen presentasi. Daftar slide yang ada ditampilkan sesuai dengan urutan yang ingin ditampilkan. Beberapa aksi yang dapat dilakukan pada jendela slide adalah : · Menambahkan slide baru pada dokumen presentasi yang ada, setelah slide pertama · Memberikan tanda pada slide tertentu agar tidak ditampilkan pada presentasi · Mengubah nama tiap slide didalam dokumen presentasi · Menggandakan (copy) atau memindahkan (move) isi dari sebuah slide ke slide lainnya.
+2. Master Pane : Menampilan lembar kerja , pada lembar kerja ini perubahan-perubahan lembar kerja dilakukan disini. Tampilan master pane terdiri atas tampilan normal, outline, note, handout dan slide
+
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 72
+
+Memahami Lembar Kerja Presentasi
+solter. Tab menu ini disebut juga sebagai View Button (Tombol Peninjau). Berikut fungsi bagian pada tab menu :
+· Normal View adalah tampilan utama untuk membuat slide satu demi satu. Tampilan ini digunakan untuk merancang slide dan memberikan teks, gambar, dan efek animasi
+· Outline View menampilkan judul topik, list bullet, dan list nomor untuk tiap slide yang ada pada formatoutline. Gunakan modus outline untuk mengatur ulang urutan slide, mengedit judul dan heading, dan mengatur urutan item-item yang ada didalam list, dan juga untuk menambahkan slide baru
+· Notes view Untuk menambahkan catatan pribadi pada tiap slide namun tidak akan ditampilkan pada presentasi
+· slide order view menampilkan thumbnail dari tiap urutan slide. Gunakan tampilan ini untuk mengatur urutan slide, menciptakan slide show, atau mengatur animasi perpindahan antara slide yang satu dengan yang lain
+· Handout view digunakan untuk mencetak slide dalam bentuk kertas. Kita dapat mengatur satu halaman terdiri dari satu, dua, tiga, empat, lima, atau enam slide.
+3. Task Pane : Digunakan untuk mengedit layout halaman, memberikan efek transisi dan animasi. Pada Task pane terdiri dari 4 bagian, yaitu: · Master Pages; dibagian ini kita dapat menentukan style presentasi yang digunakan. Secara default OpenOffice.org menyertakan 4 template yang dapat digunakan. Untuk penambahan template dapat didownload. · Layout; Layout pada presentasi, OpenOffice.org menyediakan 20 model layout yang berbeda. Gunakan sesuai kebutuhan. · Custom Animation; bagian ini terdapat berbagi macam efek animasi yang dapat digunakan pada setiap elemen didalam slide. Cara membuat efek animasi akan dibahas pada bagian selanjutnya. · slide Transition; Efek pergantian slide. OpenOffice.org menyediakan 56 efek pergantian slide yang berbeda. Juga ada pengaturan kecepatan pergantian slide (slow, medium, fast). Dibagian ini juga untuk menentukan apakah pergantian slide secara otomatis dengan rentang (delay) waktu tertentu atau pergantian slide dengan cara manual (slide akan berganti ketika di klik)
+4. Menu Bar : Berisika menu-menu dari Open Office Impress seperti menu File, Edit, View, insert, dan lain sebagainya
+5. Tool Bar : Icon-icon yang merepresentasikan fasiltas perintah dari OpenOffice.org.impress
+6. Tittle Bar : Judul dari lembar kerja aktif
+7. Status Bar : Penjelasan mengenai status bar seperti jumlah slide, bahasa dan lain sebagainya
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 73
+
+Memulai OpenOffice.org Impress
+Memulai OpenOffice.org Impress
+Untuk memulai OpenOffice.org Impress klik pada menu Aplikasi | Perkantoran | OpenOffice Impress atau dapat juga dijalankan melalui aplikasi OpenOffice.org yang sedang aktif. Caranya dari menu aplikasi aktif klik File | New | Presentasi .
+Gambar 111 : Menjalankan Impress
+Menyusun Slide Presentasi Menggunakan Template
+Berikut langkah-langkah penyusunan slide presentasi menggunakan template yang sudah tersedia pada OpenOffice.org Impress :
+1. Langkah pertama pilih tipe form template sementara tipe lembar kerja lainnya adalah empty presentation dan open existing presentation kemudian pilih default pada bagian presentations.
+Gambar 112 : Memilih template default impress Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 74
+
+Menyusun Slide Presentasi Menggunakan Template
+2. Langkah Kedua, menentukan slide design lembar kerja misalnya "Original", selanjutnya klik Create
+Gambar 113 : Memilih design lembar kerja
+3. Langkah ketiga, memilih efek dan transisi yang akan ditampilkan pada saat anda berpindah dari satu slide ke slide lainnya. Dapat pula di atur waktu tertentu yang berjalan secara otomatis, selanjutnya klik create
+Gambar 114 : Efek transisi slide
+4. Langkah 4, diminta untuk mengisikan pengisian beberapa informasi seputar slide dan informasi diri anda. Selanjutnya klik Create
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 75
+
+Menyusun Slide Presentasi Menggunakan Template
+Gambar 115 : Informasi yang perlu di isi
+5. Langkah 5, diminta untuk menampilkan halaman-halaman tertentu, klik Create untuk proses selanjutnya
+Gambar 116 : menentunkan slide yang ditampilkan
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 76
+
+Menyusun Slide Presentasi Menggunakan Template
+Sebuah presentasi sederhana telah dibuat menggunakan template wizard seperti contoh pada gambar dimana penulisan judul bab menggunakan model tampilan Outline.
+Gambar 117 : Sebuah slide sederhana telah terbentuk
+Anda dapat menambah mengedit dan menghapus slide yang telah dibuat. Untuk menyisipkan slide baru pilih Insert | slide maka slide akan terlihat pada layar dan siap untuk dimodifikasi.
+Format halaman
+Untuk mengubah ukuran slide, margin dan setting-setting lain, pilih Format | Page. Jendela pengaturan halaman akan muncul (lihat gambar 118). Di bagian page terdapat beberapa pengaturan seperti ukuran kertas, pengaturan batas margin serta layout setting. Gunakan background untuk mengatur latar belakang slide presentasi.
+Gambar 118 : Format halaman slide presentasi Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 77
+
+Menambah Objek Lain
+Menambah Objek Lain
+Slide presentasi tidak harus berupa teks namum dapat dikombinasikan dengan objek lain seperti gambar, objek OLE, formula, multimedia dan sebagainya. Untuk menambahkan gambar pilih menu Insert | Picture. Objek gambar yang disertai dengan animasi juga dapat dimasukkan sehingga presentasi menjadi lebih menarik. Selain objek gambar, aplikasi spreadsheet juga dapat ditambahkan melalui menu Insert | OLE kemudian memilih tipe objek.
+Gambar 119 : Menyisipkan objek spreeadseat
+Area kerja spreadsheet akan ditampilkan di dalam slide presentasi. Walau sedang berada di Impress, anda dapat bekerja di spreadsheet layaknya bekerja langsung pada aplikasi spreadsheet tersebut. Penambahan objek lainnya seperti multimedia juga dapat dilakukan, caranya klik Insert | Movie & Sound
+Gambar 120 : Menyisipkan objek multimedia
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 78
+
+Memberikan Efek Animasi
+Memberikan Efek Animasi
+Efek animasi akan memberikan nuansa tersendiri dalam presentasi. Presentasi terasa profesional sehingga menambah nilai lebih selain dari pada materi presentasi itu sendiri. Anda dapat mengatur perpindahan antara slide-slide presentasi, mengatur waktu maupun mengatur efek animasi dari isi presentasi itu sendiri.
+Slide Transisi
+Slide animations dapat diihat pada Task Pane | Slide Transitions. Untuk menciptakan animasi pada saat perpindahan antar slide.
+1. Efek Perpindahan Antar slide Pada Task Pane, pilih slide Transition
+Dalam modus slides pane atau slide sorter, pilih slide yang diinginkan untuk diterapkan efek perpindahan. Apabila mengingikan efek perpindahan untuk semua slide yang ada, kita tidak perlu melakukan seleksi
+Selanjutnya kita dapat memilih efek transisi yang diinginkan untuk seluruh slide yang ada, seperti gambar disamping Kustomisasikan efek perpindahan pada bagian Modify transition, pada bagian ini kita dapat mengubah kecepatan dan memberikan suara tambahan.
+Apabila anda mengingikan suara efek suara terus dimainkan berulangulang, beri tanda cek () pada bagian Loop until next sound
+klik tombol Apply to All slides untuk menerapkan pengaturan efek perpindahan slide yang kita inginkan
+Tekan tombol Play untuk meninjau kembali tampilan efek perpindahan antar slide yang telah kita buat sebelumnya
+Tekan tombol slide Show untuk memulai slide show sehingga dapat melihat keseluruhan transisi slide
+Gambar 121 : Efek transisi slide
+2. Menghilangkan Efek Transisi slide, pilih slide yang diinginkan, kemudian pilih No Transition pada bagian list slide Transition di Tasks pane
+3. Memulai Efek Animasi, ada 3 aksi yang dapat digunakan untuk memulai efek animasi :
+· Pertama On click : Efek animasi akan berhenti dan akan mulai lagi apabila mouse di klik · Kedua With previous : Efek animasi berjalan bersamaan dengan efek animasi sebelumnya · Ketiga After previous : Efek animasi berjalan segera setelah efek animasi sebelumnya berakhir .
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 79
+
+Custom Animasi
+Custom Animasi
+Custom animasi digunakan untuk menciptakan animasi pada bagian isi di dalam slide presentasi. Custom animation dapat dibuat dengan cara klik pada Task Pane | Custom Animations, atau dari menu slide Show | Custom Animations
+
+1 2
+
+4
+
+3
+
+5
+
+6
+
+7
+
+Gambar 122 : Menciptakan efek animasi
+Langkah-langkah menambahkan animasi pada isi slide presentasi adalah :
+1. Buat teks/ dokumen slide presentasi 2. Blok teks tersebut, pilih menu klik Task Pane (label 1) atau slide Show | Custom Animations 3. klik Add (label 2) untuk menambahkan animasinya, klik Entrance dan pilih tipe animasi (label 3).
+Pada teks presentasi dapat diatur berganti berwarna ketika muncul pada slide, klik Emphasis dan pilih tipenya bila ingin diatur pergantian warna teks.
+
+Gambar 123 : Menentukan warna huruf
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 80
+
+Custom Animasi
+4. Untuk membuat animasi pada teks ketika dijalankan dapat diatur pengaturan animasi tersebut sesuai dengan keinginan. Misalnya pada Start pilih On Click (label 4), Direction pilih vertikal (label 5), Speed pilih very fast (label 6), dan pada label 7 adalah keterangan urutan teks tersebut ketika dijalankan.
+5. Klik Play untuk melihat atau meninjau teks animasi tersebut sementara slide Show akan memperlihatkan secara keseluruhan teks animasi tersebut.
+Mencetak Dokumen
+Untuk mencetak dokumen, impress menyediakan beberapa pilihan; seperti mencetak satu slide per halaman, mencetak dengan catatan, outline, waktu dan tanggal serta dengan beberapa pilihan mencetak lainnya.
+1. Pengaturan ini dapat dilakukan melalui menu File | Print untuk menampilkan kotak dialog print.
+Gambar 124 : Mencetak dokumen
+2. Untuk beberapa pilihan apa saja yang ingin dicetak pada dokumen pilih Options pada bagian kiri bawah. Berikut keterangan bagian-bagian pilihan untuk mencetak dokumen presentasi;
+Gambar 125 : Tampilan options untuk menentukan cetakan dokumen
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 81
+
+Mencetak Dokumen
+2.1 Quality · Default mencetak file presentasi secara default. Sesuai dengan warna yang dimiliki pada printer dan warna yang diberikan pada file presentasi · Grayscale, menganggap yang dimiliki file presentasi hanya memiliki satu warna saja. Jadi hasil yang dicetak tidak berwarna. · Black & white mencetak warna putih, hitam, dan grayscale namun tidak mencetak bagian yang berwarna.
+2.2 Print · Page name, ketika mencetak juga menyertakan nama slide pada tiap halaman. · Date, ketika mencetak juga menyertakan tanggal saat tersebut pada tiap halaman. · Time juga mencetak menyertakan waktu saat tersebut · Hidden pages juga mencetak halaman slide yang diberi tanda (mark) hidden pada presentasi
+2.3 Page Options · Default, mencetak sesuai dengan ukuran default. · Fit To Page, mencetak pas pada halaman kertas, apabila ukuran slide kecil maka akan dicetak pas para kertas · Tile Pages, Apabila halaman slide lebih kecil maka dimungkinkan terdapat beberapa slide yang dicetak pada satu halaman · Brochure, mencetak dengan model brosur
+3. Klik Pengaturan Halaman, untuk mengatur tata letak dan jenis kertas dapat diatur disini. Dokumen presentasi dapat dicetak dengan beberapa halaman halaman tertentu pada 1 lembar cetakan.
+Gambar 126 : Menentukan jumlah halaman cetakan
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 82
+
+4. Mengatur orentasi serta ukuran kertas, klik pada bagian Properties
+
+Mencetak Dokumen
+
+Gambar 127 : Pengaturan properties
+5. Pada options Tugas, dokumen dapat diatur status daftar prioritas penting atau dapat menunda cetakan pada waktu tertentu.
+
+Gambar 128 : Pengaturan tugas cetakan
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 83
+
+6. Resolusi Kualitas gambar di atur sini, contoh gambar diatur oleh "Printout Mode"
+
+Mencetak Dokumen
+
+Gambar 129 : Pengaturan resolusi kualitas gambar cetakan
+7. Options terakhir adalah options diperluas (general) yang mengatur printout mode, brightness, contrast dan lain sebagainya.
+Gambar 130 : Pengaturan lainnya seperti model cetakan
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 84
+
+Ekspor File Dokumen OpenOffice ke Portable Document format
+Ekspor File Dokumen OpenOffice ke Portable Document format
+OpenOffice.org mempunyai fasilitas untuk mengekspor file ke portable document format atau yang lazim dikenal dengan sebutan PDF. Fasilitas ini sudah terintegrasi secara otomatis ketika OpenOffice.org tersebut terinstall ke sistem, dengan demikian tidak perlu lagi melakukan instalasi tambahan fungsi ini. Fasilitas ekspor file ke PDF dapat dilakukan secara terkontrol untuk mengatur kualitas serta melakukan proteksi terhadap dokumen tersebut.
+Eksport File Dokumen Tidak Terkontrol
+Cara ini yang paling sederhana dan cepat untuk menyimpan file dokumen dalam format PDF. Cukup klik pada icon pada bagian toolbar dengan settingan default.
+Eksport File Dokumen Terkontrol
+Cara ini adalah cara pengaturan penyimpanan / eksport file dokumen ke dalam formatPDF secara terkontrol misalnya pengaturan beberapa halaman yang di eksport ke PDF, pengaturan kompresi image serta pengaturan kode sandi (password) pada dokumen. Berikut ini langkah-langkah Eskport fle ke PDF secara terkontrol yaitu :
+1. klik menu File | Eksport as PDF sehingga muncul kotak dialog tampilan PDF Options, dimana terdapat 5 bagian opsi dan masing-masing opsi tersebut memiliki fungsi yang berbeda yang dapat ditentukan sesuai dengan kebutuhan pengguna.
+Gambar 131 : Tampilan general opsi PDF
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 85
+
+Eksport File Dokumen Terkontrol
+2. Bagian General terdapat beberapa pilihan yaitu Range, Image dan General. 2.1 Bagian Range , menentukan hamalan mana saja yang akan eksport ke PDf · All, seluruh dokumen akan di eksport menjadi PDF · Pages, eskpor sebagian halaman menjadi PDF · Selections, mengekspor semua bagian pada file yang terseleksi ke PDF 2.2 Bagian Images , menentukan pengaturan kwalitas gambar bila di ekspor ke PDF · Lossless compression, gambar yang dieskpor menjadi PDF kualitasnya sama dengan pada file aslinya, gambar pada PDF akan terlihat bagus, namun ukuran file akan menjadi lebih besar · JPEG compression, pengaturan tingkat kualitas gambar pada file PDF sesuai dengan kebutuhan. Kualitas gambar terlihat menurun namun ukuran file dapat ditekan. · Reduce image resolution mengurangi DPI (Dots Per Inch) gambar aslinya pada file PDF. Di sini kualitas gambar juga menjadi berkurang 2.3 Bagian General · Tagged PDF, menyertakan tag-tag khusus dalam tag PDF yang sesuai. Beberapa tag yaitu mengeksport daftar isi, hyperlinks dan controls. Namun pilihan ini dapat memperbesat ukuran file · Export notes, mengeskport catatan pada dokumen Writer atau Calc sebagai catatan PDF. · Export bookmarks, mengeksport headings sebagai 'bookmark' pada PDF · Create PDF form - Submit format · Export automatically inserted blank pages : bagian ini tidak digunakan pada impress · Create hybrid file, membuat file hybrid
+3. Bagian Initial Views. Pada bagian ini berfungsi untuk meng-inialisasi tampilan atau menentukan bagaimana file tersebut ditampilkan pada saat dibaca oleh PDF viewer. Opsi dibagian ini terdiri atas Panes, Magnifaction dan Page Layout
+Gambar 132 : Tampilan Initial View
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 86
+
+Eksport File Dokumen Terkontrol
+4. Bagian User Interface, mengatur pengaturan yang dapat dilakukan pada saat PDF viewers menampilkan file PDF tersebut. Beberapa pilihan sangat berguna apabila kita membuat PDF yang akan digunakan sebagai file presentasi atau display
+Gambar 133 : Tampilan user interface
+4.1 Bagian Window options · Resize window to initial page, jendela PDF viewer akan sesuai dengan besar halaman pertama file PDF tersebut · Center window on screen, jendela PDF viewer akan otomatis terletak pada bagian tengah layar komputer · Open in full screen mode, jendela PDF viewer akan otomatis membuka dengan modus fullscreen · Display document title, jendela PDF viewer akan menampilkan judul dokumen pada bagian tittle bar.
+4.2 Bagian User interface options · Hide menu bar, jendela PDF viewer akan menyembunyikan menu bar secara otomatis. · Hide toolbar, jendela PDF viewer akan menyembunyikan toolbar secara otomatis. · Hide window controls, jendela PDF viewer akan menyembunyikan jendela control, termasuk efek khusus pergantian slide pada impress
+Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 87
+
+Eksport File Dokumen Terkontrol
+5. Bagian Links dimana salah satu funsgi bagian ini mengatur link dokumen secara cross
+Gambar 134 : Tampilan links
+6. Bagian Security dapat diatur penerapan kode sandi / password untuk mengenkripsi dokumen PDF. File PDF yang sudah di sandikan (password) hanya dapat dibuka dengan menggunakan password permissions, file PDF dapat dibaca oleh semua orang, namun dengan ijin terbatas dengan mengaktifkan open password dan permission password, file PDF hanya dapat dibaca dengan memasukkan password dan dengan ijin yang terbatas
+Gambar 135 : Memasukan Konde Sandi file PDF Modul OpenOffice.org.org 3.0.0, oleh Hasan B. U. L, email : hasan@ardelindo.com , bahcri@yahoo.com Page 88

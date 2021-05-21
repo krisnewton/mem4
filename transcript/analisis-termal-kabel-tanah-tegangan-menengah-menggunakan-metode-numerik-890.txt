@@ -1,0 +1,550 @@
+BAB II KABEL DAN PERPINDAHAN PANAS
+II.1 Umum Kemampuan hantar arus kabel dipengaruhi oleh perpindahan panas yang
+terjadi dari kabel ke lingkungan sekitar. Secara umum sumber panas dalam kabel dapat dibagi menjadi dua yaitu panas yang dihasilkan oleh konduktor yang dialiri arus dan panas yang dihasilkan oleh isolasi akibat terpaan medan listrik. Panas yang dihasilkan oleh kabel ini harus dipindahkan ke luar dari kabel agar tidak terjadi kenaikan suhu baik pada konduktor maupun isolasinya.
+Perpindahan panas pada kabel sangat ditentukan oleh konstruksi kabel dan keadaan lingkungan sekitarnya. Bahan penyusun kabel harus mampu menghantarkan panas ke luar dari kabel sebesar mungkin agar kenaikan suhu yang terjadi relatif kecil, sehingga arus yang mengalir dapat maksimal. Dalam bab ini akan dibahas mengenai konstruksi kabel tegangan menengah dan mekanisme perpindahan panas pada kabel.
+II.2 Konstruksi Kabel Tegangan Menengah Umumnya kabel tegangan menengah memiliki konstruksi yang sama dengan
+kabel tegangan tinggi. Dalam penggunaannya kabel dirancang dengan konstruksi yang berbeda-beda sesuai dengan kebutuhannya. Sebagai konduktor berisolasi, konstruksi kabel dibagi menjadi bagian utama dan bagian pelengkap.
+Bagian utama kabel adalah bagian yang harus dimiliki oleh kabel tenaga, yaitu konduktor (conductor), isolasi (insulation), tabir (screen) dan selubung (sheath). Sedangkan bagian pelengkap kabel adalah bagian yang hanya melengkapi
+Universitas Sumatera Utara
+
+kabel digunakan untuk memperbaiki sifat-sifat kabel atau untuk melindungi kabel, bagian-bagian tersebut adalah bantalan (bedding), perisai (armor), bahan pengisi (filler) dan sarung kabel (serving).
+Gambar 2.1 dan 2.2 menunjukkan bagian utama kabel berinti tunggal dan bagian-bagian kabel berinti tiga.
+Selubung Tabir Konduktor
+Isolasi
+Gambar 2.1 Bagian utama kabel berinti tunggal
+Sarung kabel Perisai Bantalan Konduktor Selubung Isolasi
+Bahan Pengisi (filler)
+Gambar 2.2 Bagian-bagian kabel berinti tiga
+II.2.1 Konduktor Kabel tegangan menengah umumnya dibedakan menjadi kabel berinti
+tunggal, berinti dua, dan berinti tiga. Setiap inti kabel merupakan konduktor dan bentuknya dapat dirancang sesuai dengan kebutuhan. Bahan konduktor yang banyak dipakai untuk kabel tenaga listrik adalah pilinan serat tembaga atau aluminium.
+Universitas Sumatera Utara
+
+Adapun bentuk penampang konduktor yang digunakan dalam kabel tenaga terdiri dari beberapa bentuk yaitu bulat tanpa rongga, sektoral dan bulat berongga. II.2.2 Isolasi
+Isolasi merupakan faktor penting pada sistem tenaga listrik dan salah satu gangguan penyaluran tenaga listrik dengan menggunakan kabel adalah kerusakan pada isolasinya. Dengan demikian rancangan kabel harus disesuaikan dengan penggunaannya, sehingga bahan isolasi sesuai dengan kemampuan kabel tersebut.
+Berdasarkan jenis isolasi padat yang dipakai, kabel dapat digolongkan menjadi kabel berisolasi karet, kertas dan sintetis. Isolasi yang digunakan harus mempunyai sifat-sifat sebagai berikut :
+a. Memiliki kekuatan dielektrik yang tinggi agar diameter luar dapat dikurangi sehingga biaya pembuatan kabel berkurang.
+b. Memiliki tahanan jenis yang tinggi. c. Dapat bekerja dalam suhu rendah atau suhu tinggi d. Tidak mudah terbakar. e. Tidak mengisap air (non higroskopis). f. Mudah dibengkok-bengkokkan (fleksibel). g. Sanggup menahan tegangan impuls listrik yang tinggi. Suatu hal yang tidak mungkin dalam suatu jenis isolasi terdapat semua sifat-sifat di atas. Jadi pemilihan jenis isolasi yang akan dipakai didasarkan pada pertimbangan dengan maksud dan tujuan kabel yang akan dipakai.
+Universitas Sumatera Utara
+
+II.2.3 Tabir Untuk tegangan kerja yang tinggi setiap inti kabel dilengkapi dengan suatu
+lapisan yang disebut tabir (screen). Lapisan tabir dipasang diantara selubung (sheath) dan isolasi, tapi untuk kabel sintetis dipasang juga antara isolasi dan konduktor. Tabir ini berfungsi :
+a. Untuk meratakan distribusi tegangan, sehingga tabir harus dibuat dari bahan semikonduktor, misalnya kertas berlapis logam dan kompon grafit.
+b. Untuk mendapatkan distribusi medan listrik yang radial dan seragam sehingga tidak terjadi penumpukan tegangan.
+c. Untuk melindungi dan mengamankan manusia terhadap bahaya listrik. d. Mencegah interferensi gelombang elektromagnetik dengan kabel
+telekomunikasi yang berada di dekatnya.
+II.2.4 Selubung Selubung berfungsi untuk melindungi inti kabel dari pengaruh luar yaitu
+sebagai pelindung terhadap korosi, penahan gaya mekanis, dan pelindung terhadap gaya listrik. Di samping itu selubung juga mencegah keluarnya minyak pada kabel kertas yang diresapi minyak (impregnated paper) dan mencegah masuknya uap air ke dalam kabel. Bahan selubung dapat dibagi menjadi tiga golongan, yaitu :
+1. Selubung logam, misalnya tembaga, timbal dan aluminium. 2. Selubung karet sintetis, misalnya karet silikon (silicone rubber) dan
+polychloroprene. 3. Selubung plastik, misalnya PVC.
+Universitas Sumatera Utara
+
+II.2.5 Bantalan Bantalan adalah lapisan yang terbuat dari serat-serat baik yang diresapi
+minyak ataupun tidak, dipasang bersama-sama kompon kedap air dan ditempatkan di bawah perisai. Fungsi bantalan adalah sebagai tempat kedudukan perisai dan mencegah proses elektrolisa sehingga tidak merusak bagian dalamnya.
+Beberapa bahan dari bantalan diantaranya pita kapas (cotton tape), pita kertas (paper tape) dan jute. Sebelum dipasang bantalan harus dikeringkan dan direndam dalam minyak atau kompon kedap air. Bantalan dipasang lapisan demi lapisan sehingga lapisan atas akan menutupi lapisan yang berada di bawahnya.
+II.2.6 Perisai Bahan isolasi mempunyai sifat mekanis yang kurang sempurna, sehingga
+diperlukan suatu lapisan yang berfungsi melindungi bahan isolasi dari kerusakan mekanis, lapisan ini dinamakan perisai. Secara umum perisai dapat digolongkan menjadi dua jenis, yaitu perisai pita baja (steel tape armor) dan perisai kawat baja (steel wire armor).
+II.2.7 Bahan Pengisi Untuk konstruksi kabel berinti tiga, bila setelah pemasangan ketiga intinya
+maka masih ada ruang (celah) yang tertinggal, maka diperlukan suatu bahan yang dapat mengisi ruangan tersebut agar didapat bentuk kabel yang bulat. Bahan yang mengisi celah ini dinamakan bahan pengisi.
+Bahan pengisi yang banyak digunakan pada bahan isolasi kertas adalah jute, sedangkan kabel isolasi sintetis selain jute digunakan juga karet butyl.
+Universitas Sumatera Utara
+
+II.2.8 Sarung kabel Sarung kabel adalah suatu lapisan bahan serat yang diresapi dengan kompon
+kedap air. Pemasangan sarung kabel biasanya dipasang di atas perisai. Fungsi sarung kabel adalah selain bantalan bagi perisai, juga sebagai komponen yang berhubungan langsung dengan tanah, sehingga sarung kabel merupakan bagian yang pertama sekali terkena pengaruh luar. Bahan sarung kabel yang banyak digunakan untuk kabel tegangan menengah adalah polyethylene dan polyvinyl chloride (PVC) . II.3 Mekanisme Perpindahan Panas pada Kabel
+Perpindahan panas adalah perpindahan energi yang terjadi karena adanya perbedaan suhu pada benda atau material. Proses perpindahan panas ini berlangsung melalui tiga mekanisme, yaitu konduksi, konveksi dan radiasi. Perpindahan panas pada kabel yang ditanam di dalam tanah berlangsung secara konduksi, sehingga dalam bab ini lebih banyak dijelaskan masalah konduksi. II.3.1 Konduksi
+Jika pada suatu benda terdapat gradien suhu, maka pada benda tersebut akan terjadi perpindahan panas dari bagian bersuhu tinggi ke bagian bersuhu rendah. Dalam hal ini panas berpindah secara konduksi dan laju perpindahan panas itu berbanding lurus dengan gradien suhu normal :
+Jika dimasukkan konstanta kesebandingan k, maka diperoleh:
+Universitas Sumatera Utara
+
+di mana q ialah laju perpindahan panas dan
+
+merupakan gradien suhu ke arah
+
+perpindahan panas. Konstanta k disebut konduktivitas termal benda itu, sedangkan
+
+tanda minus (-) diberikan agar memenuhi hukum kedua termodinamika, yaitu panas
+
+mengalir ke tempat yang lebih rendah dalam skala suhu, sebagaimana ditunjukkan
+
+dalam sistem koordinat pada Gambar 2.3.
+
+Persamaan (2.1) disebut hukum Fourier tentang konduksi panas yang
+
+ditemukan oleh seorang ahli matematika fisika bangsa Perancis, Joseph Fourier.
+
+Persamaan (2.1) juga merupakan persamaan dasar dari konduktivitas termal dengan
+
+satuan Watt per meter per derajat Celsius.
+
+2 qx
+1 x
+
+T
+
+2
+
+qx
+
+1
+
+x
+
+x
+
+Gambar 2.3 Konduksi pada dinding datar dan arah aliran panas
+Nilai konduktivitas termal menunjukkan seberapa cepat panas mengalir dalam bahan tertentu. Jika suatu bahan memiliki nilai konduktivitas termal yang besar, maka bahan tersebut merupakan penghantar panas yang baik, sedangkan jika nilai konduktivitas termalnya kecil, maka bahan itu merupakan penghantar yang buruk atau isolator. Nilai konduktivitas termal beberapa bahan diberikan dalam Tabel 2.1.
+
+Universitas Sumatera Utara
+
+Tabel 2.1 Konduktivitas termal beberapa bahan
+
+Bahan
+
+K (W/m.oC)
+
+Bahan
+
+Logam
+
+Bukan Logam
+
+Perak
+
+410
+
+Kuarsa
+
+Tembaga
+
+401
+
+Magnesit
+
+Aluminium
+
+202
+
+Marmar
+
+Nikel
+
+93
+
+Batu Pasir
+
+Besi
+
+73
+
+Kaca, jendela
+
+Baja karbon
+
+43
+
+Kayu mapel atau ek
+
+Timbal
+
+35
+
+Serbuk gergaji
+
+Baja krom-nikel
+
+16,3
+
+Wol kaca
+
+Zat Cair
+
+Gas
+
+Air-raksa
+
+8,21
+
+Hidrogen
+
+Air
+
+0,556
+
+Helium
+
+Amonia
+
+0,540
+
+Udara
+
+Minyak lumas, SAE 50 0,147
+
+Uap air (jenuh)
+
+Freon 12, CCl2F2
+
+0,073
+
+Karbondioksida
+
+K (W/m.oC)
+41,6 4,15 2,08 ­ 2.94 1,83 0,78 0,17 0,059 0,038
+0,175 0,141 0,024 0,0206 0,0146
+
+II.3.1.1 Konduksi Satu Dimensi dan Tiga Dimensi Konduksi satu dimensi dapat dianalisis dengan mengacu pada Gambar 2.4.
+Jika sistem berada pada keadaan tunak (steady state), yaitu jika suhu tidak berubah terhadap waktu, maka penyelesaiannya hanya dengan mengintegrasikan Persamaan (2.1) dan mensubstitusi nilai-nilai yang sesuai untuk memecahkan soal itu. Tetapi, jika suhu zat padat itu berubah terhadap waktu, atau jika ada sumber panas dalam zat padat itu, maka keadaannya akan menjadi lebih rumit.
+
+Universitas Sumatera Utara
+
+qgen = q A dx
+
+A
+
+qx
+
+qx+dx
+
+x dx
+Gambar 2.4 Volume unsur untuk konduksi panas satu dimensi
+Apabila suhu berubah terhadap waktu dan terdapat pula sumber panas dalam zat padat itu, maka dapat dibuat neraca energi untuk bagian yang tebalnya dx sebagai berikut : Energi yang dihantarkan di muka kiri + energi yang dibangkitkan dalam unsur itu = perubahan energi dalam atau dakhil + energi yang dihantarkan ke luar unsur itu melalui muka kanan.
+
+di mana = energi yang dibangkitkan per satuan volume (W/m3) c = panas spesifik bahan (J/kg.oC) = kerapatan (densitas) (kg/m3)
+Universitas Sumatera Utara
+
+Jika hubungan-hubungan ini digabungkan, maka kita dapatkan :
+Persamaan (2.2) berlaku untuk konduksi panas satu dimensi. Untuk mendapatkan persamaan konduksi panas tiga dimensi, maka perlu diperhatikan panas yang dihantarkan ke dalam dan ke luar satuan volume itu dalam ketiga arah koordinat, seperti ditunjukkan pada Gambar 2.5. Neraca energi di sini menghasilkan: Sedangkan kuantitas energi diberikan oleh persamaan :
+sehingga persamaan umum untuk konduksi panas tiga dimensi adalah : Untuk konduktivitas termal yang konstan, Persamaan (2.3) dapat dituliskan sebagai : di mana simbol  = k/c disebut difusitas termal atau kebauran termal bahan dengan satuan meter persegi per detik. Makin besar nilai  makin besar panas yang membaur
+Universitas Sumatera Utara
+
+dalam bahan itu. Persamaan (2.3a) dapat juga dialihragamkan ke dalam koordinat silindris, dan hasilnya adalah sebagai berikut :
+
+Sistem koordinat yang digunakan dengan Persamaan (2.3b) ditunjukkan dalam Gambar 2.5b.
+
+y
+z
+qx
+
+qy+dy
+x
+
+qz
+dy qx+dx
+
+z
+d 
+r dr dz
+
+dz
+
+y
+
+qz+dz
+
+dx
+
+qgen = q dx dy dz
+
+qy
+
+(a)
+
+x
+
+(b)
+
+Gambar 2.5 Volume unsur tiga dimensi untuk konduksi : (a) koordinat kartesius,
+
+(b) koordinat silinder
+
+II.3.1.2 Konduksi pada Dinding Datar Perpindahan panas pada dinding datar yang ditunjukkan pada Gambar 2.6, menerapkan hukum Fourier pada Persamaan 2.1. Jika persamaan tersebut diintegrasikan, maka akan didapatkan :
+
+Universitas Sumatera Utara
+
+Jika konduktivitas termal dianggap tetap, tebal dinding adalah x, sedang dan adalah suhu muka dinding. Jika konduktivitas termal berubah menurut hubungan linier dengan suhu, seperti k = ko (1+), maka persamaan aliran panas menjadi :
+
+A Profil suhu
+
+q
+
+q
+
+ABC
+
+1234
+
+1 TA
+xA kAA
+
+q
+
+2 TB
+
+3
+
+TC
+
+4
+
+xB
+
+xC
+
+kB A
+
+kC A
+
+Gambar 2.6 Perpindahan panas melalui dinding berlapis dan analogi listriknya
+Jika dalam sistem itu terdapat lebih dari satu macam bahan, seperti dinding berlapis pada Gambar 2.6, dan gradien suhu pada ketiga bahan adalah seperti tergambar, maka aliran panas dapat dituliskan sebagai :
+
+Jika ketiga persamaan ini dipecahkan serentak, maka aliran panas itu dapat dituliskan sebagai :
+
+Laju perpindahan panas dapat dipandang sebagai aliran, sedangkan gabungan dari konduktivitas termal, tebal bahan, dan luas merupakan tahanan terhadap aliran itu.
+
+Universitas Sumatera Utara
+
+Suhu merupakan fungsi potensial atau pendorong aliran itu, sehingga persamaan Fourier dapat dituliskan sebagai berikut :
+
+Hubungan di atas analogi dengan hukum Ohm dalam rangkaian listrik. Dalam
+
+Persamaan (2.4), tahanan termal adalah
+
+, dan dalam Persamaan (2.6)
+
+tahanannya adalah jumlah ketiga suku dalam pembagi. Persamaan aliran panas satu
+
+dimensi dengan tahanan termal yang mempunyai susunan seri dan paralel adalah :
+
+di mana merupakan penjumlahan tahanan termal yang tersusun seri atau paralel.
+
+II.3.1.3 Konduksi pada Silinder
+
+Suatu silinder dengan jari-jari dalam , jari-jari luar , dan panjang L,
+
+seperti pada Gambar 2.7. Silinder ini mengalami perbedaan suhu
+
+, dan arah
+
+aliran panas berlangsung menurut arah radial, sehingga koordinat ruang yang
+
+diperlukan untuk menentukan sistem itu hanyalah r.
+
+q
+
+ro
+
+r
+
+ri
+
+dr
+
+L
+
+q
+
+i
+
+o
+
+T = ln(ro ri )
+2kL
+
+Gambar 2.7 Aliran panas satu dimensi melalui silinder dan analogi listriknya
+
+Universitas Sumatera Utara
+
+Berdasarkan hukum Fourier perpindahan panas yang terjadi pada komponen dr yang jaraknya r dari pusat adalah :
+Luas bidang aliran kalor dalam sistem silinder adalah :
+sehingga hukum Fourier menjadi :
+Jika Persamaan (2.11) diintegrasikan dengan batas suhu sampai , dan batas jarijari sampai , maka penyelesaian persamaan tersebut adalah :
+Dan tahanan termal dalam hal ini adalah :
+II.3.2 Konveksi Pada kabel yang dipasang di udara akan terjadi perpindahan panas konveksi
+dan radiasi dari permukaan kabel ke udara sekitar. Konveksi dapat diklasifikasikan menurut sifat aliran menjadi konveksi paksa dan konveksi alami. Konveksi paksa terjadi ketika aliran panas yang berpindah disebabkan oleh suatu alat penggerak seperti angin, pompa atau kipas. Berbeda dengan konveksi alami yang timbul akibat adanya perbedaan kerapatan udara disebabkan oleh perbedaan suhu udara. Dalam perhitungan rating kabel dianggap hanya konveksi alami saja yang terjadi di permukaan kabel.
+Universitas Sumatera Utara
+
+Dengan mengabaikan proses konveksi alami sebagian, maka persamaan perpindahan panas konveksi dapat ditulis :
+di mana q aliran panas konveksi (W/m2) yang sebanding dengan perbedaan suhu permukaan kabel ( ) dengan suhu lingkungan ( ). Pernyataan ini dikenal dengan hukum Newton tentang pendinginan, dengan konstanta kesebandingan h (W/m2.K ) menunjukkan koefisien perpindahan panas konveksi. Nilai koefisien ini bervariasi antara 2 ­ 25 W/m2.K untuk konveksi alami dan antara 25 ­ 250 W/m2.K untuk konveksi paksa.
+II.3.3 Radiasi Radiasi termal yang terjadi pada kabel dapat berupa energi yang dipancarkan
+oleh kabel atau permukaan saluran. Panas yang dipancarkan oleh permukaan kabel diberikan oleh hukum Stefan-Boltzmann :
+
+di mana adalah suhu mutlak dari permukaan kabel (K), disebut konstanta Stefan-Boltzmann dengan nilai 5,67 × 10-8 W/m2.K4, dan adalah emisivitas bahan.
+
+Nilai emisivitas bahan berada pada range
+
+, menunjukkan efisiensi suatu
+
+permukaan memancarkan panas. Jika radiasi terjadi pada permukaan suatu benda,
+
+maka sebagian energi akan diserap dan laju energi yang diserap persatuan luas
+
+permukaan dapat dievaluasi dari sifat radiasi permukaan yang dikenal sebagai
+
+absorptivitas , sehingga :
+
+Universitas Sumatera Utara
+
+di mana adalah radiasi pada permukaan, dengan nilai  berada pada0   1. Persamaan (2.15) dan (2.16) menentukan laju energi yang dipancarkan dan diserap oleh permukaan. Dengan menganggap permukaan ini memiliki  = (permukaan abu-abu), sehingga laju netto perubahan radiasi antara kabel dengan lingkungannya yang dinyatakan dalam per unit luas permukaan kabel adalah :
+
+Sehingga rugi-rugi panas pada perpindahan panas radiasi
+
+dapat diperoleh
+
+dengan mengalikan laju perpindahan panas dengan luas daerah radiasi, dan hasilnya
+
+adalah :
+
+di mana (m2) adalah luas radiasi efektif per meter panjang. Pada kabel yang dipasang di udara, panas pada permukaan kabel berpindah secara konveksi dan radiasi. Total laju panas yang berpindah dari permukaan kabel merupakan penjumlahan dari laju panas yang disebabkan oleh perpindahan panas konveksi dan radiasi dan diperoleh :
+
+di mana (m2) adalah luas kovektif per meter panjang. II.3.4 Perpindahan Panas pada Kabel
+Perpindahan panas pada kabel yang ditempatkan di udara berlangsung secara konduksi dan konveksi. Gambar 2.8 menunjukkan suatu kabel dengan jari-jari , jari-jari konduktor , suhu permukaan konduktor dan suhu lingkungan .
+Universitas Sumatera Utara
+
+Konduktor Isolasi
+
+h, 
+
+ri
+
+i ro
+
+i
+
+ln ro 
+
+ri
+
+
+
+2 kL
+
+Gambar 2.8 Kabel dan analogi listriknya
+
+
+1 2 ro L h
+
+Konduksi terjadi pada permukaan luar konduktor hingga ke permukaan luar isolasi dengan tahanan termal yang dilalui adalah Rcond. Sedangkan secara konveksi terjadi pada permukaan isolasi ke udara dengan tahanan termal yang dilalui Rconv. Secara sistematis perpindahan panas pada kabel dapat ditulis sebagai :
+
+di mana :
+
+q = laju perpindahan panas (W) L = panjang kabel (m)
+= suhu permukaan konduktor (oC) = suhu udara (oC) = jari-jari luar isolasi (m) = jari-jari konduktor (m) k = konduktivitas termal isolasi (W/m oC) h = koefisien perpindahan panas konveksi (W/m2 oC)
+
+Universitas Sumatera Utara
+
+Sedangkan untuk kabel dengan isolasi yang berlapis seperti pada Gambar 2.9, maka laju perpindahan panas yang terjadi dapat ditulis sebagai :
+
+L
+
+L
+
+L
+
+LL
+
+Gambar 2.9 Sebagian penampang kabel dan analogi listriknya
+
+II.4 Persamaan Kesetaraan Energi pada Kabel Dalam analisis perpindahan panas pada sistem kabel, hukum kekekalan
+energi memegang peranan penting. Hukum kekekalan energi yang berlaku di dalam kabel dinyatakan sebagai :
+
+Universitas Sumatera Utara
+
+di mana
+
+adalah laju energi yang masuk ke dalam kabel, energi ini dihasilkan
+
+oleh kabel yang lain yang berada di sekitarnya atau oleh radiasi matahari.
+
+adalah laju energi yang dihasilkan dari rugi-rugi inti dan rugi-rugi dielektrik, dan
+
+adalah perubahan laju energi yang tersimpan dalam kabel. Sedangkan
+
+berhubungan dengan energi yang berpindah secara konduksi, konveksi dan radiasi.
+
+Untuk kabel yang ditanam dalam tanah dipengaruhi juga oleh suhu tanah di sekitar.
+
+II.4.1 Persamaan Perpindahan Panas Perpindahan panas pada kabel yang ditanam di dalam tanah yang homogen
+berlangsung secara konduksi melalui komponen-komponen kabel dan tanah. Karena panjang dari kabel jauh lebih besar daripada diameternya, maka efeknya dapat diabaikan sehingga masalah perpindahan panas dapat diformulasikan ke dalam dua dimensi. Persamaan diferensial yang menjelaskan konduksi panas di dalam tanah memiliki bentuk sebagai berikut :
+
+di mana :
+
+ = suhu yang tidak diketahui (oC)  = difusitas termal medium (m2/s)
+
+Wint = energi panas yang berasal dari dalam kabel (W/m)
+
+ = resistivitas termal bahan (K.m/W)
+
+Persamaan (2.23) dapat diselesaikan dengan kondisi batas yang biasanya ditentukan
+
+dari permukaan tanah. Kondisi batas ini dapat dinyatakan dalam dua bentuk, yang
+
+pertama jika suhu merupakan bagian dari batas, sehingga :
+
+Universitas Sumatera Utara
+
+di mana merupakan suhu batas yang merupakan fungsi dari panjang permukaan s. Dan yang kedua jika panas bertambah atau hilang pada batas disebabkan oleh konveksi atau fluks panas q, maka :
+di mana n adalah arah normal permukaaan batas, h adalah koefisien konveksi, dan adalah suhu batas yang tidak diketahui. II.4.2 Pendekatan Polinomial
+Persamaan (2.23) hingga Persamaan (2.25) dapat diselesaikan menggunakan metode elemen hingga. Bentuk elemen dua dimensi yang paling sederhana dan umum digunakan adalah elemen segitiga seperti ditunjukkan pada Gambar 2.10.
+y m
+j P i i
+m j x
+Gambar 2.10 Koordinat luas Suhu pada beberapa titik di dalam segitiga dapat dihitung dengan persamaan aljabar sebagai berikut :
+di mana , dan adalah koordinat luas seperti yang ditunjukkan pada Gambar 2.10. Untuk menentukan konstanta A, suhu pada node i ditulis sebagai :
+Universitas Sumatera Utara
+
+maka
+
+, dengan cara yang sama untuk node j dan m diperoleh
+
+dan
+
+, sehingga persamaan (2.27) menjadi :
+
+Dan hubungan antara koordinat luas dan koordinat kartesius adalah : Hasil invers dari koefisien vektor :
+
+di mana A adalah luas segitiga. Jika dilihat Persamaan (2.28) dan (2.30) menyatakan bahwa suhu merupakan fungsi linier dalam x dan y. Hal ini berarti gradien baik dalam x maupun y adalah konstan.
+II.4.3 Persamaan Elemen Hingga Pada bagian sebelumnya diberikan cara menghitung suhu pada titik di dalam
+sebuah elemen jika nilai suhu pada node diketahui. Untuk menghitung suhu node dapat digunakan sifat penyederhanaan kalkulus variasi berikut :
+
+di mana :
+
+= resistivitas termal bahan (K.m/W) = fluks panas (W/m2)
+
+Universitas Sumatera Utara
+
+= matriks perubahan suhu = = matriks transpos dari h = koefisien perpindahan panas konveksi (W/m2 oC) Persamaan (2.31) merupakan titik awal untuk menentukan suhu pada setiap node. Dengan memperkecil Persamaan (2.31) menggunakan fungsi elemen yang masingmasing digambarkan sebagai elemen tunggal dan ditulis dengan istilah nilai node. Nilai node adalah nilai-nilai yang tidak diketahui di dalam formula yang diperoleh dengan mengambil turunan , kemudian menyamakannya dengan nol. Fungsi didefinisikan atas setiap elemen secara sendiri, dan integral dalam Persamaan (2.31) harus dipisahkan menjadi integral pada masing-masing elemen secara sendiri dan turunan dihitung untuk setiap elemen sehingga :
+di mana adalah fungsi untuk elemen e, dan E adalah jumlah total elemen. Untuk mempermudah menganalisisnya diambil sebuah elemen tunggal triangular. Karena elemen tersebut menkontribusikan hanya tiga diferensial yang berhubungan dengan nodenya, sehingga dapat ditulis :
+Universitas Sumatera Utara
+
+Turunan dalam Persamaan (2.33) tidak dapat dievaluasi hingga integral dalam Persamaan (2.31) ditulis dalam bentuk nilai node . Hal ini dapat dilakukan dengan menurunkan terhadap x dan y. Hasilnya hanya ada dua koordinat luas yang terpisah dan dianggap itu adalah dan , sehingga :
+
+di mana Jacobian J diperoleh dengan mendiferensiasikan Persamaan (2.30). Dari
+
+Persamaan (2.28) nilai
+
+, sehingga dapat diperoleh :
+
+sehingga untuk elemen tunggal diperoleh : Dengan mensubtitusikan Persamaan (2.36) ke Persamaan (2.31) dengan S dan C yang sesuai untuk elemen tunggal dan mendiferensiasikan , setelah perhitungan rutin Persamaan (2.33) dapat ditulis :
+Konduktivitas matriks elemen dapat diperoleh dengan rumus :
+
+Universitas Sumatera Utara
+
+di mana : Sedangkan matriks elemen kapasitas diberikan oleh : dan elemen vektor panas yang dihasilkan sama dengan :
+
+Tiga Persamaaan (2.38), (2.39) dan (2.40) dapat diterapkan hanya jika ada batas
+
+sepanjang sisi elemen. Faktor
+
+menunjukkan panas total yang dihasilkan dalam
+
+elemen (W/m). Dari Persamaan (2.37) sampai (2.40) untuk setiap elemen, akhirnya
+
+dapat diperoleh persamaan aljabar linier untuk seluruh region :
+
+Dalam analisis steady state Persamaan (2.41) dapat disederhanakan menjadi :
+
+di mana :
+
+H = matriks konduktivitas panas Q = matriks kapasitas panas
+= vektor suhu node = turunan suhu node K = vektor yang menyatakan distribusi suhu dari sumber panas.
+
+Universitas Sumatera Utara

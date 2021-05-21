@@ -1,0 +1,180 @@
+Jenis Kabel Bawah Tanah
+Menurut jumlah dan susunan hantarannya, kabel bawah tanah meliputi : - Kabel hantaran tunggal (single ­ core cable) - Kabel tiga hantaran (three ­ core cable) - Kabel sektoral (sector cable) - Kabel dengan netral konsentris
+Tetapi kabel lebih lazim disebut menurut jenis isolasinya. Ada beberapa isolasi kabel yaitu : - Kertas (di impegnasi di dalam cairan minyak) - Karet - Kain (dengan vernis) - PVC (Poly Vinyl Chloride) - PE (Poly Ethylene) - XLPE (Cross ­ Linked Poly Ethylene)
+Selain itu menurut jenis konduktor yang digunakan, dikenal ada kabel tembaga dan kabel aluminium. Kini orang mulai berangsur ­ angsur meninggalkan kabel tembaga dan beralih menggunakan kabel aluminium, meskipun dialiri tembaga secara elektris maupun pisik lebih baik.
+Sedang dari segi isolasi, sekarang orang mulai menggunakan XLPE yang memiliki ketahanan kerja lebih baik, meskipun harganya mahal ­ mahal dibandingkan dengan isolasi sintetis jenis lain. XLPE mempunyai karakteristik paling baik.
+Tetapi pada umumnya isolasi sintetis mempunyai kelebihan di bandingkan dengan isolasi kertas yaitu " - Lebih bersih - Ringan, karena tak memerlukan selubung logam - Perbaikan dan pemeliharaannya mudah
+
+- Cara penyambungannya sederhana - Suhu kerjanya lebih tinggi (khusus XLPE), karena itu kapasitas
+penyalurannya besar. Jenis kabel yang sering di gunakan pada sistem saluran distribusi
+yaitu pada tegangan kerja 6 kv sampai 30 kv dan saluran sub transmisi pada tegangan kerja 30 kv sampai 220 kv adalah : 1. Kabel ikat (balted cable) 2. Kabel H (Hoclstadter, sercened cable) 3. Kabel isolasi sintetis 4. Kabel isolas minyak (oil filled cable) 5. Kabel SL (Separated Lead) dan SA (Separated Aluminium) 6. Kabel H.S.L
+II.1.1. Kabel Ikat (Belted Cable) Kabel ikat adalah kabel yang mempunyai lapisan kertas pengikat
+(paper belt). Konstruksi dari kabel ini dapat di lihat pada gambar II.1.
+Perisai (armour) Bahan Pengisi (filler)
+Sarung kabel (sewing)
+Lapisan (kertas) (Paper Belt)
+Selubung (Sheath) Bantalan (Bedding) Isolasi Hantaran (Konduktor) Gambar II.1. Konstruksi Dari Kabel Ikat
+
+II.1.2. Kabel H (Hodstadter, Screen Cable) Di dalam jenis kabel H, kertas isolasi ikat (paper insulation belt)
+tidak ada, pada setiap isolasi inti dipasang suatu lapisan yang disebut screen (tabir) yang di buat dari bahan kertas logam (metalized paper) yang berlubang ­ lubang atas konduktor.
+Keuntungan penggunaan kabel H ini, adalah adanya peningkatan penyebaran panas yang terjadi pada penghantar, akibatnya akan menaikkan kemampuan membawa arus.
+Kabel jenis H, biasanya digunakan pada tegangan kerja dari 10 kv sampai 60 kv.
+Lapisan semi konduktor BahanPengisi Penghantar Isolasi
+Selubung Perisai
+Gambar II.2. Konstruksi Kabel H
+II.1.3. Kabel Isolasi Sintentis Kabel isolasi sintetis (isolasi padat) adalah seperti kabel XLPE
+(Cross linked poly ethylene) dan kabel EPR (Ethylene proplene rubber). Didalam kabel isolasi sintentis (padat) ini, setiap lapisan diberi lapisan semi konduktor, kemudian di beri isolasi lalu dipasang semi konduktor dan setelah itu di pasang selubung pelindung (Sheath), yang kadang ­ kadang Sheath ini terbuat dari tembaga (wire copper)
+Pada kabel inti tunggal, sheath berfungsi sebagai kawat netral, hal ini dapat dilihat pada gambar II.3.
+
+Konduktor Isolasi
+Tabir
+Selubung Pelindung (Shield)
+Gambar II.3. Kabel Sintentis Inti Tunggal Sedangkan untuk kabel berinti tiga, dimana tiga buah intinya yang di beri pelindung (pita tembaga) di pasang bersama, lalu di beri bahan pengisi yang biasanya terdiri dari bahan sintetis, sering juga di pasang perisai (armour), jika diperlukan.
+Tabir (Screen) Hantaran (conductor) Isoasi (Insulation) Selubung (Sheath) Bantalan (Bedding) Bahan Pengisi (Filler) Sarung kabel (Serving)
+Gambar II.4. Kabel Sintentis Inti Tiga II.1.4. Kabel Minyak
+Kabel isolasi minyak (oil filled cable) adalah suatu kabel yang isolasinya menggunakan minyak. Kabel isolasi minyak ini mempunyai beberapa macam bentuk antara lain adalah : - Kabel minyak berbentuk bulat : dimana letak saluran minyak terdapat
+pada pusat konduktor
+
+- Kabel minyak datar (flat oil filled cable) dimana tiga kabel dengan selubung timbul di letakkan dengan membuat susunan dan ruang di antara intinya dipergunakan sebagai saluran minyak
+- Kabel minyak dengan tahanan di dalam pipa : dimana tiga buah inti kabel yang telah di beri lapisan tabir (screen), di letakkan di dalam pipa berisi minyak. Cara bekerjanya minyak sebagai isolasi adalah jika pada
+penghantar / konduktor, temperaturnya naik maka minyak akan mencair, ini akan mengalir kedalam lubang minyak dan bila temperaturnya turun minyak kembali akan membeku di dalam kabel dengan demikian tidak terjadi gelembung udara, sehingga dapat mencegah timbulnya kerusakan kabel.
+Penghantar Saluran minyak
+Gambar II.5. Kabel Minyak Bentuk Bulat
+Penghantar Saluran Minyak Gambar II.6. Kabel Minyak Datar
+
+Penghantar
+Saluran minyak
+Gambar II.7. Kabel Minyak Saluran minyak
+Minyak Penghantar
+Gambar II.8. Kabel Minyak Dengan Tahanan II.1.5. Kabel SL dan Kabel S.A
+Kabel jenis S.L. dan S.A pada setiap intinya di isolasi dengan kertas, kemudian di pasang selubung timbal untuk kabel S.L. dan selubung aluminium untuk kabel S.A. Kabel jenis ini terdiri dari 3 buah inti kabel, yang mana ketiga inti ini terdiri dari tiga buah inti kabel inti tunggal, lalu inti tersebut di pasang bersama ­ sama di lengkapi dengan bahan pengisi (piller), bantalan (bedding)
+
+Selubung Timbal Aluminim Penghantar (Conductor) Perisai Bahan Isolasi
+Gambar II.9. Jenis Kabel S.L. dan S.A
+II.1.6. Kabel H.S.L Kabel H.S.L. adalah merupakan gabungan antara kabel H dan S.L
+dimana setiap penghantar (konduktor di isolasi dengan kertas, lalu di lapisi dengan kertas logam atau semi konduktor kemudian di beri selubung timbal lalu ketiga intinya di pasang bersama ­ sama dan di lengkapi dengan perlengkapan kabel.
+II.2. Konstruksi Kabel Bawah Tanah Sebagai penghantar, konstruksi kabel ada dua bagian yaitu :
+a. Bagian utama : yaitu bagian yang harus ada pada setiap kabel antara lain : - Penghantar (conduktor) - Isolasi (Insulation) - Tabir (screen) - Selubung (Sheath)
+b. Bagian pelengkap yaitu : bagian yang hanya di pergunakan untuk memperkuat (memperbaki) sifat ­ sifat kabel tenaga atau untuk melindungi kabel tenaga antara lain yaitu :
+
+- Bantalan (bedding) - Perisai (armour) - Bahan pengisi (filler) - Sarung kabel (serving)
+
+1 2
+3 4
+
+Gambar II.10. Bahagian Utama dari Kabel Keterangan 1. Selubung 2. Isolasi 3. Penghantar 4. Tabir
+
+1 2 3
+4
+Gambar II.11. Bahagian pelengkap dari kabel Keterangan 1. Sarung kabel
+
+2. Perisai 3. Bantalan 4. Bahan pengisi
+a. Bagian Utama 1. Penghantar (konduktor) Berdasarkan dari inti kabel, maka sebagai penghantar yang banyak di pakai adalah - Tembaga : yaitu kabel tembaga polos (plain wire) tanpa lapisan dan kawat tembaga berlapis timah atau (finned lopper wire) - Aluminium : dalam penggunaan kabel, untuk penghantar aluminium terdiri : penghantar bulat tanpa rongga, penghantar bentuk sektoral penghantar bulat berongga. 2. Isolasi (Insulation) Isolasi adalah sifat atau bahan yang dapat memisahkan secara elektris beberapa buah penghantar yang berdekatan, sehingga tidak terjadi kebocoran arus. Menurut jenis isolasi padat yang dipakai pada kabel, dapat di golongkan atas : - Isolasi karet - Isolasi kertas - Thermoplastik - Thermo setting
+3. Tabir (screen) Tabir adalah suatu lapisan yang ada pada kabel yang di pasang sesudah bahan isolasi, dimana tabir ini biasa di jumpai pada kabel tegangan tinggi.
+
+4. Selubung (sheath) Selubung (sheath) di gunakan untuk melindungi inti kabel dari pengaruh luar, seperti : pelindung terhadap korosi, penahan gaya mekanis, mencegah keluarnya minyak dan mencegah masuknya uap air (cairan) kedalam kabel. Selubung (sheaht) ini dapat dibagi tiga golongan yaitu : - Selubung logam : timbal, aluminium - Selubung karet : karet silikon, polychoroprene. - Selubung plastik : PVC
+b. Bagian Pelengkap 1. Bantalan (Bedding) Bantalan (bedding) adalah lapisan yang terbuat dari serat ­ serat yang berguna untuk tempat duduk perisai (armour) dan mencegah proses elektrolisa sehingga tidak merusak bagian dalamnya. Bahan bantalan yang sering digunakan adalah : - Pita kapas (cotton tape) - Pita kertas (paper tape) - Goni (jute) 2. Perisai (Armour) Perisai (armour) ini berfungsi untuk melindungi bahan isolasi dari kerusakan mekanis Secara umum perisai dapat di golongkan atas : - Perisai pita baja (stell tape armour) - Perisai kawat baja (steel wire armour) 3. Bahan Pengisi (Filler) Bahan pengisi biasanya di pakai pada konstruksi kabel yang berinti tiga yaitu di gunakan untuk mengisi ruang (celah) yang kosong sewaktu pemasangan intinya, sehingga dapat bentuk bulat. Bahan pengisi yang banyak di pakai adalah :
+
+- Untuk isolasi kertas di pakai jute (goni)
+
+- Untuk isolasi sintetis di pakai jute (goni) dan karet buttle
+
+4. Sarung kabel (serving)
+
+Sarung kabel adalah suatu lapisan bahan serat yang di resapi
+
+dengan campuran kedap air. Sarung kabel ini biasanya dipasang
+
+diatas armour, yang berfungsi adalah selain untuk bertahan bagi
+
+perisai, juga sebagai kompnen yang berhubungan langsung dengan
+
+tanah, sehingga sarung kabel adalah bagian pertama yang
+
+berhubungan dengan (serkena) pengaruh luar.
+
+Sarung kabel (serving ) yang sering digunakan adalah jute (goni).
+
+Tabel II.1. Perbandingan bahan sarung kabel.
+
+Bahan
+
+Timah Aluminium Vinil
+
+Khloroprene Polyethylene
+
+Tahanan Jenis (cm) -
+
+-
+
+1012~15
+
+107~15
+
+1015
+
+Tegangan tarik(kg/mm2) 1,5
+
+8~18
+
+1,0~2,5
+
+~2.0
+
+~1.0
+
+Muai panjang (%)
+
+5.5
+
+2.0 ~ 30 100 ~ 300 300 ~ 100
+
+~ 350
+
+Ketanahan lengkung
+
+Ketahanan Panas
+
+Ketahanan Dingin
+
+Ketahanan cuaca
+
+Ketahanan ozon
+
+-
+
+-
+
+Ketahanan api
+
+Ketahanan minyak
+
+Ketahanan asam
+
+X
+
+X
+
+Ketahanan alkali
+
+X
+
+X
+
+Ketahanan air
+
+Berat jenis
+
+11.34
+
+2.7
+
+1.4
+
+1.5
+
+0.92
+
+Catatan : X
+
+Paling baik Ada kerusakan tetapi tidak berarti dalam kenyataan Kurusakan lebih besar tetapi dapat dipakai Tidak layak digunakan

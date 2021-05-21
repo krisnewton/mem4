@@ -1,0 +1,1348 @@
+PENGENALAN MICROSOFT WINDOWS 7, MICROSOFT OFFICE 2010 DAN MULTIMEDIA LECTORA INSPIRE
+
+A. Sekilas Tentang Microsoft
+Sistem Operasi Windows awal mulanya dikembangkan oleh William Henry Gates III (dilahirkan pada tanggal 28 Oktober 1955), ia dikenal dengan nama Bill Gates, bersama temannya Paul Allen (saat ini mereka menjabat sebagai Direktur dan Ketua Pencipta Perangkat Lunak bagi Microsoft). Menurut majalah Forbes, Bill Gates merupakan orang terkaya di dunia saat ini.
+Microsoft Corporation didirikan 1975, berkantor pusat di Redmond, Washington, AS, adalah perusahaan software terbesar di dunia (dengan lebih dari 50.000 karyawan di berbagai negara, hingga Mei 2004).
+B. Sistem Operasi Windows
+
+Beberapa versi system operasi windows yang sudah dirilis diantaranya:
+
+1.
+
+Berbasis DOS (FAT 16 dan FAT 32)
+
+a.
+
+1985 November - Windows 1.0
+
+b.
+
+1987 9 Desember - Windows 2.0
+
+c.
+
+1990 22 Mei - Windows 3.0
+
+d.
+
+1992 Agustus - Windows 3.1
+
+e.
+
+1992 Oktober - Windows for Workgroups 3.1
+
+f.
+
+1993 November - Windows for Workgroups 3.11
+
+g.
+
+1995 24 Agustus - Windows 95 (Versi: 4.00.950)
+
+h.
+
+1998 25 Juni - Windows 98 (Versi: 4.1.1998)
+
+i.
+
+1999 5 Mei - Windows 98 Second Edition (Versi: 4.1.2222)
+
+j.
+
+2000 19 Juni - Windows Millennium Edition (Me) (Versi:
+
+4.9.3000)
+
+2.
+
+Berbasis NT Kernel (NTFS)
+
+a.
+
+1993 Agustus - Windows NT 3.1
+
+b.
+
+1994 September - Windows NT 3.5
+
+c.
+
+1995 Juni - Windows NT 3.51
+
+d.
+
+1996 29 Juli - Windows NT 4.0
+
+e.
+
+2000 17 Februari - Windows 2000 (Versi: NT 5.0.2195)
+
+f. 2002 - Windows XP (Windows eXPerience)
+
+g.
+
+2006 - Windows Vista dengan codename "Longhorn".
+
+h.
+
+2009 ­ Windows 7
+
+i.
+
+2010 - 2011 - Windows "Blackcomb".
+
+j.
+
+2012 ­ sekarang Windows 8
+
+C. Microsoft Windows 7
+
+Windows 7 adalah rilis terkini Microsoft Windows yang menggantikan Windows Vista. Windows 7 dirilis untuk pabrikan komputer pada 22 Juli 2009 dan dirilis untuk publik pada 22 Oktober 2009, kurang dari tiga tahun setelah rilis pendahulunya, Windows Vista.
+
+Tidak seperti pendahulunya yang memperkenalkan banyak fitur baru, Windows 7 lebih fokus pada pengembangan dasar Windows, dengan tujuan agar lebih kompatibel dengan aplikasi-aplikasi dan perangkat keras komputer yang kompatibel dengan Windows Vista. Presentasi Microsoft tentang Windows 7 pada tahun 2008 lebih fokus pada dukungan multi-touch pada layar, desain ulangtaskbar yang sekarang dikenal dengan nama Superbar, sebuah sistem jaringan rumahan bernama HomeGroup, dan peningkatan performa. Beberapa aplikasi standar yang disertakan pada versi sebelumnya dari Microsoft Windows, seperti Windows Calendar, Windows Mail, Windows Movie Maker, dan Windows Photo Gallery, tidak disertakan lagi di Windows 7 kebanyakan ditawarkan oleh Microsoft secara terpisah sebagai bagian dari paket Windows Live Essentials yang gratis.
+
+Beberapa kelebihan sistem windows 7
+
+1. Booting lebih cepat Durasi waktu booting (booting delay time) lebih cepat
+2. Irit Konsumsi daya Konsumsi daya lebih irit, sehingga lebih stabil dari pada windows vista karena konsumsi daya yang lebih sedikit
+3. Adanya aplikasi Device Storage Fitur baru untuk memudahkan kita menampilkan semua hal yang berhubungan dengan perangkat / peripheral tertentu, seperti fitur konfigurasi dan dokumentasi
+
+4. Dapat memilih Jaringan Wirelles hanya dengan 1 klik dari system tray 5. Mendukung teknologi Multi Touch / Layar sentuh 6. System pencarian data yang lebih cepat 7. Tampilan dan Aplikasi lebih menarik
+Kekurangan Windows 7
+1. Masih banyak software dan hardware yang belum support dengan windows 7
+D. MENGAKTIFKAN WINDOWS 7 Untuk mengaktifkan sistem Windows 7, ikuti langkah berikut ini : Hidupkan komputer anda dan tunggu sampai area kerja (Dekstop) Windows 7 tampil sempurna. (Lihat gambar 1)
+
+Gambar 1
+
+E. KOMPONEN WINDOWS 7
+
+Shorhcut My Computer
+
+Folder
+
+Explorer
+
+Tombol Stars
+1. Shortcut 2. Icon 3. Tombol star 4. Desktop 5. My Computer 6. Explorer 7. Taskbar
+
+Destop
+
+Taskbar
+
+Gambar 2
+
+: Jalan pintas yang berhubungan dengan file, folder dan program jika anda menghapus shorcut berarti bukan menghapus filenya.
+: Simbol yang mewakili file, folder dan object lain. Menghapus icon berarti menghapus filenya.
+: Klik untuk membuka menu Windows : Tempat kita bekerja dan mengatur Windows : Untuk manajemen file, tidak bisa dihapus tetapi dapat diganti namanya. : Fungsinya mirip dengan My Computer dilengkapi dengan daftar folder di layar kiri dan
+isinya dilayar kanan : Temukan aplikasi yang sedang dijalankan pada bagian ini.
+
+F. SEJARAH DAN PERKEMBANGAN MICROSOFT OFFICE
+Sejarah Microsoft Office dan perkembangannya dari tahun ke tahun memang perlu kita ketahui, agar supaya kita juga tidak ketinggalan versi-versi terbarunya. Karena tidak bisa dipungkiri lagi, dizaman sekarang keseharian hidup kita dalam hal pekerjaan "misalnya" tidak lepas dari Aplikasi perkantoran ini, seperti halnya untuk membuat surat, menginput data karyawan, membuat karya ilmiah dan lain sebagainya, semua itu kita bisa memanfaatkan Microsoft office. Jadi, alangkah baiknya kita mengenal lebih jauh tentang sejarah microsoft office dan perkembangannya hingga sampai saat ini. Dalam perjalanannya, Sejarah Microsoft Office banyak mengalami perubahan dan penambahan fasilitas dari tahun pertama kali diperkenalkannya yaitu tahun 1989. Dan untuk mengenal lebih jauh serta mengikuti perkembangannya, berikut awalmula.com kutipkan dari berbagai sumber sejarah dan perkembangan Microsoft Office.
+Sesuai dengan namanya, software ini diproduksi oleh perusahaan raksasa bernama Microsoft. Microsoft office pertama kali diperkenalkan pada tahun 1989.
+Pada tanggal 30 Agustus 1992, Microsoft meluncurkan Microsoft Office versi 3.0. Pada versi tersebut Microsoft Office menyertakan Microsoft Word sebagai pengolah kata, Microsoft Excel sebagai pengolah angka, Microsoft PowerPoint digunakan sebagai aplikasi presentasi yang handal dan Microsoft Mail digunakan untuk menerima dan mengirim email.
+Setelah populer dengan Microsoft Office 3.0, pada tahun 1995-an Microsoft kembali meluncurkan Microsoft Office 95 bersamaan waktu itu Microsoft meluncurkan sistem operasi Microsoft Windows 95. Pada sistem operasi ini Microsoft merombak total Windows versi 3.1 dan Windows 3.11 for Workgroup, perubahan yang cukup signifikan dalam sejarah sistem operais PC saat itu. Sejalan dengan pekembangan sistem operasi Microsoft Windows, Microsoft Office sendiri terus berkembang dan semakin mapan dan terus digandrungi serta digunakan oleh sebagian besar masyarakat komputer di dunia, termasuk di Indonesia
+Sampai pada tahun 2000-an Microsoft sudah meluncurkan beberapa versi Microsoft Office dan sampai saat ini masih tetap digunakan sebagai andalan aplikasi perkantoran modern. Beberapa versi dari Microsoft Office yang masih banyak digunakan saat ini antara lain Microsoft Office 2000, Microsoft Office XP (2002) dan Microsoft Office 2003. Pada kenyataannya sampai saat ini masih banyak kemampuan Microsoft Office 2003 masih belum tersentuh oleh pemakainya. Namun sejalan dengan perkembangan teknologi dan sistem operasi yang juga terus berkembang, maka diluar dugaan Microsoft kembali akan meluncurkan Microsoft Office 2007 bersamaan dengan Windows Vista yang sebentar lagi akan hadir di tengah-tengah masyarakat komputer
+dunia.
+Perkembangan Microsoft Office :
+1. Microsoft Office 3.0. Ternyata yang pertama dirilis adalah versi 3.0. Pada versi ini hanya tersedia untuk
+OS Windows.
+2. Microsoft Office 4.0. Dirilis pada tahun 1994. Berisi Word 6.0, Excel 5.0, PowerPoint 4.0, Mail and
+Access.
+3. Microsoft Office 4.3. Seri ini merupakan seri dengan 16-bit yang terakhir dan juga versi terakhir yang
+mendukung Windows 3.x, Windows NT 3.1 dan Windows NT 3.5
+4. Microsoft Office 95.Atau juga dikenal dengan versi 7.0. Versi ini menggunakan 32-bit agar cocok dengan Windows 95. Office 95 tersedia dalam dua versi, Office 95 Standard dan Office 95 Professional. Yang versi standar terdiri dari Word 7.0, Excel 7.0, PowerPoint 7.0 dan Schedule+7.0. Versi professional terdiri dari semua yang ada di standar ditambah dengan Access 7.0.
+5. Microsoft Office 97. (Office 8.0), Versi ini dirilis dengan banyak fitur dan pengembangan dibandingkan versi sebelumnya. Pengenalan terhadap command bar, sesuatu hal yang baru dimana menu dan toolbar dibuat lebih mirip dengan visual design-nya. Office 97 juga memiliki fitur Natural Language System dan Sophisticated Grammar Checking. Ini versi yang pertama kalinya menggunakan Office Assistant.
+6. Microsoft Office 2000. (Office 9.0) Pada versi ini bayak opsi ­ opsi disembunyikan. Tentunya opsi tersebut juga penting, tetapi kecil penggunaannya oleh orang awam. Jika ingin digunakan opsi ini dapat dimunculkan. Salah satunya adalah Macro. Mengapa disembunyikan? Karena bisa menyebarkan virus macro. Office 2000 adalah versi terakhir yang bisa dijalankan di Windows 95. Pada versi ini juga tidak ada Product Activation. Enak kan? Product activation mulai ada di versi selanjutnya.
+7. Microsoft Office XP. Bisa disebut sebagai versi 10.0 atau office 2002, merupakan upgrade besar ­ besaran dengan banyak perkembangan dan perubahan. Office XP mengenalkan fitur Safe Mode. Memungkinkan aplikasi contohnya Outlook untuk bisa booting ketika terjadi kesalahan. Safe mode memungkinkan Office untuk mendeteksi, membetulkan atau mem-bypass sumber dari permasalahan system, seperti registry yang corrupt. Lalu adanya fitur Smart Tag yang memungkinkan mengingatkan user bila ada pengetikan yang salah ejaan. Tetapi pada Office ini Smart Tag hanya bisa dijalankan di Word dan Excel. Office XP juga terintegrasi dengan perintah suara dan pendiktean kata, sebaik mungkin seperti penulisan tangan. Di versi
+
+ini ada product activation. Office XP mendukung Windows 98, ME, NT 4.0. Office XP juga dikenal sebagai yang pertama untuk versi Office yang bisa berjalan baik di OS Vista. 8. Microsoft Office 2003. (Office 11.0). Sesuai namanya, versi ini dirilis pada tahun 2003. Dengan fitur logo baru. Dua aplikasi baru juga ada yaitu, Microsoft InfoPath dan OneNote. Ini versi yang pertama kalinya menggunakan gaya Windows XP beserta Icon-nya. Outlook 2003 memberikan fungsi yang telah berkembang seperti Kerberos authentication, RPC over HTTP, dan Cached Exchange Mode. Pada versi ini juga ada penyaring junk mail yang telah dikembangkan. Office 2003 merupakan versi terakhir yang mendukung Windows 2000. Versi ini juga merupakan versi yang paling banyak dipakai di Indonesia terutama untuk Rental dan Warnet dalam kurun waktu terakhir 2009. 9. Microsoft Office 2007. (Office 12.0). Versi ini dirilis tahun 2007. Memiliki fitur baru. Juga adanya Groove, sebuah aplikasi kolaborasi. Office 2007 memiliki design tampilan baru yang bernama Fluen User Interface. Lalu adanya Ribbon UI sebagai pengganti menu dan toolbar. Untuk penginstallannya membutuhkan minimal Windows XP SP 2. Pada tahun 2009 Office ini sudah banyak dipakai sekarang dan mulai menggeser kedudukan Office 2003. Indonesia memang agak lambat untuk menyesuaikan diri dengan adanya peningkatan teknologi. 10. Microsoft Office 2010. (Office 14.0). Untuk sekarang sedang dalam perkembangan. Kemungkinan dirilis adalah pada tahun 2010. Versi 13.0 dilewati karena adanya takhayul terhadap nomor 13
+G. SEKILAS TENTANG MULTIMEDIA LECTORA INSPIRE
+Lectora adalah Authoring Tool untuk pengembangan konten e-learning yang dikembangkan oleh Trivantis Corporation. Lectora Inspire mampu membuat kursus online secara cepat dan sederhana, juga dimanfaatkan untuk membuat multimedia pembelajaran interaktif berbagai mata pelajaran.
+Tahun 2011, Lectora memperoleh 5 penghargaan dalam bidang produk e-learning inovatif, Authoring Tool, Tool presentasi terbaik, dan teknologi e-learning terbaik.
+Dalam satu paket Lectora Inspire mencakup : 1. Flypaper TM for Lectora ­ membuat pembelajar lebih kreatif dan melibatkannya dengan menambah animasi flash, transisi dan efek special 2. Camtasia ® for Lectora ­ membuat video pembelajaran 3. Snagit ® for Lectora ­ mengcapture apa yang didesktop untuk membuat image. Dilengkapi dengan callout, dll
+Fitur Multimedia
+a. Image/ picture (gambar) Support file berekstensi .bmp, .jpeg, .jpg, .gif, .tif, .tiff, .wmf, .png, .emf
+b. Audio / Voice (Suara) Support file berekstensi.mp3, .m4a, . flv, .waf, .mid, .asf, .rm, .au, .wma
+c. Video Support file berekstensi .mov, .asf, .avi, .flv, .f4f, .mpg, .mpeg, .mp4, .m4v, .wmf
+Konten yang dikembangkan Lectora Inspire dapat dipublikasikan ke berbagai Output : a. HTML (untuk ditampilkan sebagai website di internet) b. Single file executable (.exe) (bisa dibuka di pc/Laptop yang tidak ada software Lectora c. CD-ROM (dibuat dalam bentuk cakram) d. Standar e-learning SCORM dan AICC (untuk intranet)
+
+BAB I MICROSOFT WORD 2010
+
+Microsoft Word merupakan program aplikasi pengolah kata (word processor) yang yang biasa
+digunakan untuk membuat laporan, dokumen berbentuk surat kabar, label surat, membuat tabel pada
+dokumen. Microsoft Word 2010 merupakan program pengolah kata terbaru dari Microsoft.
+Fitur Baru di Microsoft Word 2010
+Jadi, apa yang baru Microsoft Word 2010 yang membuatnya begitu menarik? Berikut ini adalah gambaran singkat dari beberapa fitur dari Microsoft Word 2010.
+ Menyediakan kemampuan untuk menciptakan dan mengubah tampilan.  Sementara Ribbon pada Microsoft Word 2010 mungkin terlihat sama dengan 2007, sekarang kita
+dapat menyesuaikan tombol Ribbon pada navigasi dengan langkah-langkah sebagai berikut: Office button (menu File) Word Option  Customization. Quick Access Toolbar juga dapat disesuaikan di Microsoft Word 2010  Selain menekan "Control + F" untuk fitur find, Microsoft Word 2010 sekarang telah mempunyai Opsi "find", "Replace" and "Select" di sudut kanan atas dari Panel Navigasi.  Pilihan Paste Preview dalam Microsoft Word 2010 membuatnya lebih mudah untuk menyalin / memotong dan menyisipkan teks, grafik, grafik, dll sehingga Anda tidak perlu melakukan banyak hal untuk mengorganisir kembali dalam dokumen.  Daripada menggunakan pihak ketiga untuk mengambil screen shots (gambar layar), Microsoft Word 2010 memiliki fitur yang dapat digunakan, cukup pergi ke InsertScreenshot untuk mengambil gambar layar  Tidak memiliki Photoshop? Tidak masalah! Microsoft Word 2010 sekarang memiliki Opsi Background Removal yang dapat menhapus latar belakang gambar. Cukup memasukkan gambar ke dalam dokumen Word Anda, kemudian pilih Background Removal Tool.
+1.1. Cara memulai aplikasi Microsoft Word 2010
+Langkah-langkah : 1. Pilih tombol Start di pojok kiri bawah tampilan windows. 2. Setelah muncul tampilan menunya pilih Program, kemudian Microsoft Office dan Pilih 3. Microsoft Office Word 2010. 4. Muncul Gambar 1.1
+
+Menu Bar
+
+Ribbon Title Bar
+
+Status Bar
+
+Gambar 1.1
+
+Work Area
+View
+
+Vertical Scroll Lock
+Horizontal Scroll Lock
+Zoom
+
+Berikut ini adalah beberapa istilah yang akan dipakai dalam mengoperasikan Microsoft Word 2010:  Title Bar
+merupakan baris judul yang menunjukan lembar kerja yang sedang aktif  Menu Bar
+Merupakan menu-menu yang ada pada microsoft word yang dapat digunakan untuk melakukan perintah tertentu. Yang termasuk menu bar FILE , HOME , INSERT , PAGE LAYOUT , REFERENCES , MAILINGS , REVIEW, VIEW.  Status Bar Menunjukan baris menu yang sedang aktif.  Work Area Merupakan lembar kerja yang ada di microsoft word.  Horizontal Scroll Lock Digunakan untuk menggeser/menggulung layar ke kiri dan ke kanan  Vertical Scroll Lock Digunakan untuk menggeser/menggulung layar ke atas dan ke bawah  Hotkey / shortcut Berupa kombinasi beberapa tombol tertentu pada keyboard yang menyebabkan program aplikasi yang sedang berjalan untuk melakukan suatu proses tertentu  Tombol View. Tombol ini berfungsi untuk merubah tampilan dokumen seperti print layout, fullscreen layout, web layout, out line dan draft.  Zoom. Digunakan untuk menentukan ukuran tampilan lembar kerja di layar pada jendela word.
+Menu File dari Microsoft Word 2010
+Tombol Microsoft Office yang hadir di Microsoft Word 2007 diubah menjadi Menu File dalam Microsoft Word 2010. Menu File berisi Save, Save As, Open, Recent, New, Print, Save & Send, Help, Options dan Exit. Di sisi kanan Anda dapat melihat informasi rinci tentang dokumen seperti ukuran, jumlah halaman, dan sebagainya.
+Ribbon pada Microsoft Word 2010
+Microsoft Word 2010 Ribbon, yang merupakan tempat di mana isi toolbar ditempatkan, sangat berguna dan akan memberikan akses cepat dan mudah ke ikon paling sering digunakan di Ms Word 2010. Ada File, Home, Insert, Page Layout, References, Mailings, Review dan View di Ribbon pada Microsoft Word 2010. Setiap tab juga memiliki beberapa kelompok untuk mengatur dan menyediakan lebih baik menggunakan fitur Microsoft Office 2010.
+* Tab Home terdapat groups Clipboard, Font, Paragraph, Styles and Editing. * Tab Insert terdapat groups Pages, Tables, Illustrations, Links, Header and Footer, Text,
+Symbols. * Tab Page Layout terdapat groups Themes, Page Setup, Page Background, Paragraph dan
+Arrange. * Tab References terdapat Table of Contents, Footnotes, Citations and Bibliography, Captions,
+Index dan Table of Authorities.
+Juga ada tiga tab lain yang berguna dari Microsoft Word 2010 yang memiliki beberapa grup dan semua ini tersedia dengan Microsoft Word 2010 untuk membantu Anda menyelesaikan tugas-tugas Anda menulis dengan mudah dan cepat.
+
+Dengan MS Word 2010 ada juga Quick Access Toolbar yang berisi save, undo, Repeat Typing dan Customize Quick Access dop down list. Dalam daftar tersebut ada icon New, Open, Save, E-mail, Quick Print, Print Preview and Print, Spelling & Grammar, Undo, Redo, Draw Table, Open Recent File. Anda juga dapat memilih untuk menampilkan Quick Access Toolbar bawah Ribbon dengan memilih Show below the Ribbon selection dan Anda juga dapat menyesuaikan lebih lanjut dengan tombol More Commands dan membuat Microsoft Word 2010 sesuai dengan keinginan dan kebutuhan Anda. Quick Access Toolbar pada MS Word memungkinkan kinerja tugas rutin Anda jauh lebih cepat. Membuka dokumen yang baru + Langkah-langkah:
+Klik pada gambar Microsoft Word di pojok kiri atas  klik New
+Membuka dokumen yang baru dibuka Seperti yang dapat Anda bayangkan, daftar dokumen yang baru dibuka akan bertambah seiring
+berjalannya waktu. Ruang terbatas, sehingga akhirnya dokumen lama akan hilang dari daftar. Namun, Anda dapat 'pin' dokumen-dokumen yang anda anggap penting sehingga Anda dapat membuka dokumen tersebut dengan mudah tanpa mencari di dalam folder.
++ Langkah-langkah: Klik pada gambar Microsoft Word di pojok kiri atas klik Recent  Klik pada dokumen yang ingin anda "pin"
+Menyimpan Dokumen dengan Microsoft Word 2010 + Langkah-langkah:
+Tab menu File  klik Save  File name (di sini Anda akan mengetikkan nama dokumen yang ingin Anda simpan) Selanjutnya Anda harus memilih di mana Anda ingin menyimpan dokumen Anda  Klik Save.
+Menyimpan Dokumen dengan nama baru + Langkah-langkah:
+Tab menu File  klik Save As File name (di sini Anda akan mengetikkan nama dokumen yang ingin Anda simpan) Selanjutnya Anda harus memilih di mana Anda ingin menyimpan dokumen Anda  Klik Save Menyimpan Dokumen secara otomatis + Langkah-langkah: Klik tab menu File  klik Word options (jendela Word options akan muncul) klik Save (yang terletak di sisi kiri tepat di bawah tombol Proofing)ubah Auto Save time sesuai keinginan anda)  klik OK.
+
+Mengubah Tampilan Teks
+Setelah Anda menyelesaikan penyusunan teks dari Word dokumen Microsoft 2010, Anda dapat mengedit word document untuk membuatnya terlihat lebih baik. Anda dapat membuatnya terlihat lebih formal dengan membuat beberapa perubahan dan penyesuaian dengan menggunakan ikon pada tab Home di MS Office 2010. Anda dapat menggunakan grup Styles Anda dapat membuat sendiri dengan menggunakan tombol change styles. Dalam tombol change styles Anda dapat mengubah warna, font dan spasi paragraf. Dengan Microsoft Word 2010 ada juga cukup banyak gaya font baru dan Anda dapat mengaksesnya melalui halaman Home. Ada juga numberings bullet points, aligning and paragraph spacing options, colour choices dan pilihan banyak lagi di dalam tab Home pada Microsoft Word 2010. Semua ikon ini dapat membantu Anda untuk membuat dokumen Anda terlihat jauh lebih baik dan lebih profesional dan Microsoft Word 2010.
+Cara lain adalah dengan menekan CTRL + SHIFT + F secara bersamaan untuk menampilkan jendela Font.
+
+Blok kata atau kalimat yang akan diedit klik Home  lihat pada grup  klik Change Case  Pilih salah satu pilihan.
+
+Font
+
+> Sentence Case: saya adalah seorang siswa. saya selalu giat belajar. saya sangat pintar.  saya adalah seorang siswa. Saya selalu giat belajar. Saya sangat pintar.
+> Lowercase: MICROSOFT WORD  microsoft word > UPPERCASE: microsoft word  MICROSOFT WORD > Capitalise Each Word: microsoft word  Microsoft Word > Toggle Case: miCroSoTt wOrd  MIcROsOtT WoRD
+
+Menambahkan Bullet pada dokumen
+
+Microsoft Word memungkinkan Anda untuk membuat daftar bullet cepat dan mudah. Untuk memulai daftar Anda, Anda dapat mengklik perintah bullets dalam grup Paragraph pada tab Home dan kemudian mulai mengetik.
+
++ Langkah-langkah: Klik Home  lihat pada grup Paragraph  klik Bullet
+
+Contoh:
+
++ ............. > .............. * ............. + ................. dan lain-lain.
+
+Menambahkan Numbering pada dokumen
+Jika Anda ingin membuat daftar bernomor (menambahkan numbering), klik tombol daftar bernomor dalam kelompok yang sama pada Ribbon. Aturan yang sama berlaku mengenai membuat daftar bertingkat dan mengakhiri mereka.
+Anda juga dapat memulai sebuah daftar bernomor dengan mengetikkan dan "1." Menekan space bar (spasi). Jangan lupa tanda titik (.), jika tidak, maka ini tidak akan bekerja!
+Jika Anda ingin huruf bukan nomor untuk daftar Anda, ketik "a." Dan kemudian tekan spasi. Daftar yang anda buat akan tampak seperti gambar di bawah.
+Membuat Bullet baru
++ Langkah-langkah: Klik Home  Grup Paragraph  Bullets (the down arrow)  Pilih Define New Bullet  Klik Symbol (untuk memilih bullet baru brupa simbol) atau klik Picture (untuk memilih bullet baru berupa gambar)  pilih simbol atau gambar yang diinginkan  klik OK.
+
+Gambar (a) adalah tampilan Define New Bullet. Gambar (b) adalah tampilan bullet baru dengan gambar.
+
+(a)
+
+(b)
+
+Ribbon pada Microsoft Word 2010
+Anda dapat mengedit teks Anda melalui the Home yang berisi groups Clipboard, Font, Paragraph, Styles dan Editing.
+
+Yang baru dari Microsoft Word 2010
+Setiap versi dari Microsoft Office memiliki sesuatu yang baru dan spesifik yang umumnya mengherankan pengguna. Dengan Microsoft Word 2010 ada banyak fitur baru, namun yang terbaik dari semua adalah tab Format. Tab ini fitur khusus dari Microsoft Word 2010 tidak dapat dilihat bila Anda baru saja menulis sebuah teks, namun jika Anda memasukkan gambar ke dokumen dan klik pada gambar Anda dengan mudah akan melihat Picture Tools dan tab Format dari Microsoft Word 2010 .
+
+Dalam tab format Microsoft Word 2010, ada adjust, picture style, arrange dan size, ini memungkinkan Anda untuk memformat dan menyesuaikan gambar yang disisipkan ke dokumen dan untuk membuatnya cocok dengan kebutuhan Anda. Juga bagi mereka yang tidak cukup akrab dengan Microsoft Word 2010, Anda dapat menyisipkan gambar melalui tab Insert yang ditempatkan persis di samping tab Home.
+Mengatur Paragraf dan Spasi
+Klik icon Paragraph Klik Indent and Spacing
+Pada Spacing tentukan berapa spasi yang diinginkan Klik Ok. Atau dengan cara lain : Blok kalimat yang ingin diatur paragrafnya Tekan tombol kombinasi:
+Untuk 1 spasi tekan Ctrl + 1 (Single) Untuk 1½ spasi tekan Ctrl + 5 (1,5 lines) Untuk 2 spasi tekan Ctrl + 2 (Double)
+
+Membuat Borders and Shading
+Dari tab Page Layout
+Klik icon Page Border : Membuat garis bingkai halaman. Setting : Memilih bentuk bingkai halaman. Style : Memilih bentuk garis bingkai halaman. Color : Memilih warna garis bingkai halaman. Width : Memilih ketebalan garis bingkai halaman. Art : Memilih jenis bingkai halaman. Options : Memberikan pilihan pada jarak bingkai. Klik OK
+Membuat Subscript (Pangkat bawah) dan Superscript (Pangkat Atas) Blok huruf atau kalimat yang akan dijadikan subscript atau superscript
+Klik tab Home dan klik icon Subscript atau Superscript Dapat juga dengan tekan tombol kombinasi:
+Ctrl + = atau klik icon untuk subscript / huruf agak kecil dan kebawah sedikit) Ctrl + Shift + = atau untuk superscript / huruf agak kecil dan keatas sedikit)
+Menyisipkan Gambar Pada Dokumen
++ Langkah-langkah: Klik Insert Klik Picture pada grup illustration  Klik Select a Picture  Klik Insert (untuk memasukkan gamar pada lembar dokumen).
+
+Membuat Wordart
+
+Word art merupakan fasilitas yang ada pada Ms. Word yang dapat digunakan untuk membuat teks lebih
+
+artistic.
+
+Langkah ­ langkah membuat Wordart :
+
+1. Click menu insert
+
+2. Pilih Wordart
+
+pilih salah satu yang diinginkan
+
+CYBER CREATIVE Contoh. Pembuatan wordart
+
+Contoh. Pembuatan wordart
+
+Membuat Drop Cap Pernahkah kamu melihat tulisan baik itu di majalah , koran , buletin , buku dan lainnya yang huruf pertamanya berbeda atau hurufnya besar sendiri. nah itu merupakan fasilitas yang ada di Ms.Word yaitu menggunakan drop cap. mari kita membuat drop cap . Langkah-langkah nya : 1. Block satu huruf diawal paragraf yang akan dijadikan Drop Cap 2. Pilih menu Insert 3. Pilih Drop Cap kemudian pilih salahsatu tife dari drop cap yang diinginkan.
+
+Contoh. Pembuatan Drop Cap
+
+4. Pilih Dropped atau In Margin
+
+5. Seandainya bentuknya tidak sesuai klik di Drop Cap Options
+
+6. Tentukan pengaturannya :
+
+Position
+
+: Pilih letak teks yang diinginkan.
+
+Font
+
+: Pilih jenis huruf.
+
+Lines to drop
+
+: Tentukan jumlah baris tinggi drop cap.
+
+Distance from text
+
+: Memodifikasi jarak drop cap dengan teks
+
+LATIHAN 1
+Buatlah teks dibawah ini :
+Penyebaran virus dewasa ini semakin ganas, motif yang digunakanpun semakin beragam, mulai dari hanya sekedar "pamer" , sampai dengan merusak dan mengambil data. Media penginfeksianpun semakin canggih mulai dari disket, LAN sampai internet. Ada satu hal yang pasti, penyebaran virus tersebut telah membawa dampak yang cukup besar (dan menyebalkan) bagi para pengguna komputer baik materiil maupun non materiil.
+Maraknya penyebaran virus dan spyware, rupanya semakin memberikan semangat bagi para
+pembuat virus lokal untuk terus "berkarya". hal ini terbukti dengan keluarnya virus lokal baru dengan nama resmi W32/Kang.A atau lebih dikenal dengan nama Kangen. Dinamakan Kangen karena setiap komptuer yang terinfeksi akan menampilkan refrain lagu Kangen (Dewa 19) pada file MS Word atau wallpaper Norman
+Virus Control mendeteksi virus ini pada tanggal 14 April 2005 sebagai W32/Kang.A.
+Cara kerja virus Kangen mempunyai kemiripan dengan virus Pesin dengan beberapa perbedaan kecil. Sama seperti Pesin / MyHeart, Kangen menyebar melalui disket dan jaringan (File Sharing) dan akan membuat file yang mengandung virus mirip dengan dengan icon file dokumen MS. Word dengan ekstensi.EXE (contoh: Kangen.exe dengan ukuran 64kb). Dalam menyebarkan dirinya melalui jaringan (file sharing), Kangen tidak dapat berjalan secara otomatis melainkan memerlukan bantuan pihak ketiga untuk menjalankan file yang telah terinfeksi. Jika file ini dijalankan maka akan muncul dokumen MS. Word dengan teks Refrain lagu Kangen.
+Pengaturan Page Set Up: Kertas : A4
+Margin : Left : 2.5 Right : 2.5 Top : 3 Bottom : 3
+Orientation : Portrait
+Cara Membuat atau Menyisipkan Tabel
+
+Jika Anda memerlukan menggunakan tabel dalam Word dokumen Microsoft 2010 yang Anda kerjakan, maka Anda cukup menggunakan tombol insert yang sama dan dengan mengklik pada group Table Anda dapat menyisipkan tabel dengan kolom dan baris sebanyak yang Anda butuhkan untuk digunakan. Setelah menambahkan tabel untuk Microsoft 2010 dokumen Word, Anda dapat mengisinya dengan data dan Anda juga dapat memformat data dan tabel, seperti perbatasan dan warna untuk membuatnya lebih profesional dan menarik hanya dalam beberapa detik.
++ Langkah-langkah Klik Insert  klik Table (pada grup Table)  Arahkan kursor untuk memilih banyaknya kolom dan baris yang Anda inginkan  Klik untuk membuat tabel
+Setelah Anda memasukkan gambar ke dokumen Microsoft Word 2010, klik pada gambar dan kemudian klik pada tab Format yang muncul dalam warna merah muda dengan pilihan Picture Tools. Di sana Anda dapat melihat bingkai yang dapat Anda pilih untuk memformat gambar yang dimasukkan. Hal ini juga memungkinkan untuk mengubah posisi teks dan ini juga sedikit berbeda dari Program Microsoft Word sebelumnya. Ada juga pilihan dengan Microsoft Word 2010 yang memungkinkan Anda untuk menghapus latar belakang untuk memberikan penampilan yang lebih baik untuk gambar Anda dan dokumen secara keseluruhan. Grup Size dan Adjust memungkinkan Anda untuk mengubah gambar sesuai dengan keinginan Anda.
+Setelah Anda telah melalui pedoman ini Anda bisa mulai menjelajahi Microsoft Word 2010 dan mulai membuat Anda huruf, esai, laporan, dokumen dan hal lain yang mudah dan cepat.
+Fasilitas Pengolahan Tabel Dari menu Table, pilih:  Draw Table : Menggambar kotak tabel.  Insert : Menyisip tabel, kolom, baris atau sel.  Delete : Menghapus tabel, kolom, baris atau sel.  Select : Memilih tabel, kolom, baris atau sel.  Merge Cells : Menggabungkan sel.  Split Cells : Membagi sel.  Split Table : Membagi tabel.  Table AutoFormat : Memilih format tabel.  Auto Fit : Mengepas kolom / baris otomatis.  Heading Rows Repeat : Mengulangi judul tabel ke tabel halaman berikutnya.  Convert : Mengubah jenis penulisan teks menjadi tabel atau sebaliknya.  Sort : Mengurutkan data tabel.  Formula : Operasi perhitungan data tabel.  Hide Gridlines : Menyembunyikan garis bantu tabel.  Table Properties : Memodifikasikan tabel, kolom, baris atau sel
+
+Cara membuat rumus (Equation) Membuat Typesetting Matematis
+
+Klik tab Insert
+
+Klik icon Equation
+
+Klik tanda panah kebawah dan pilih jenis Equation yang anda inginkan
+
+Jika tidak ada yang cocok klik di Insert New Equation
+
+Ketik Equation yang anda inginkan Jika telah selesai klik sembarang tempat dalam lembaran kerja
+
+Tampilan Equation
+Cara Menggunakan Formula  Letakkan kursor pada sel yang akan diisi rumus
+ Klik tab Layout
+ Klik di icon Formula  Isikan kotak Formula dengan
+ =Product(Left) Untuk mengalikan semua bilangan yang ada sebelah kiri  =Product(Right) Untuk mengalikan semua bilangan yang ada sebelah kanan  =Product(Above)  Untuk mengalikan semua bilangan yang ada diatasnya  =Sum(Left) Untuk menjumlahkan semua bilangan yang ada sebelah kiri  =Sum(Right) Untuk menjumlahkan semua bilangan yang ada sebelah kanan  =Sum(Above) Untuk menjumlahkan semua bilangan yang ada atasnya  Klik OK
+Cara Membuat dan Mempercantik tabel + Langkah-langkah:
+klik Insert  pada grup Tables  klik Table  klik Insert Table  tentukan berapa kolom dan baris yang ingin dibuat.
+
+Untuk mempercantik tabel, ikuti langkah-langkah berikut: + Langkah-langkah:
+Blok tabel yang dipercantik  lihat pada Table Tools  Klik pada tab Design  klik Table Styles  Shading atur tampilan yang anda sukai dengan Style, Color, Width
+
+(a)
+
+(b)
+
++ Jika gambar table anda tidak sempurna seperti pada gambar (b). Berikut adalah cara untuk melakukannya: tempatkan kursor pada setiap sel tabel kemudian klik Layout  klik Select (pada grup Table)  Select Table  ubah lebar dan tinggi tabel sesuai keinginanmu pada Cell Size.
+LATIHAN 2
+Buatlah rumus dan table dibawah ini :
+
+NAMA BARANG TELEVISI KULKAS PARABOLA KOMPUTER PC DVD PLAYER
+
+JUMLAH BARANG 10 8 12 9 10
+
+Untuk perkalian gunakan fungsi product = PRODUCT (LEFT)
+ATAU = B2 * C2 Maka Hasilnya D2
+
+HARGA PER UNIT Rp 2000000 Rp 1200000 Rp 1500000 Rp 4000000 Rp 300000
+
+TOTAL HARGA
+
+Menambahkan Header pada Dokumen
++ Langkah-langkah: klik Insert  pada group Header & Footer  klik Header  Pilih salah satu header 
+
+(a)
+
+(b)
+
+Anda akan melihat Header & Footer Tools pada Ribbon.
+
+Untuk menambahkan header, pada Header & Footer Tools tab lihat grup Insert  klik klik Quick
+
+Parts  klik Field pilih FileName click OK.
+
+Mengubah Posisi Header
++ Langkah-langkah: Lihat pada Header & Footer Tools tab lihat pada grup Position  Insert Alignment Tab.
+
+(a)
+
+(b)
+
+pilih pengaturan yang anda inginkan seperti pada gambar (a) dan OK, setelah selesai mengedit, klik
+
+tombol Close di ribbon seperti pada gambar (b).
+
+Menambahkan Footer
+Sepeti cara menambahkan header, berikut adalah langkah-langkah untuk menambahkan footer + Langkah-langkah:
+click Insert  Grup Header & Footer  Footer.
+Menambahkan Ekstra Shape pada SmartArt
+Ketika Anda memasukkan SmartArt ke dalam dokumen Word Anda, Anda mendapatkan nomor standar dari bentuk dalam diagram. Shape adalah wadah untuk setiap item dalam daftar Anda. Jumlah Shape mungkin, atau mungkin tidak, cukup bagi Anda. Jika menurut anda daftar Shape yang ada di Microsoft Word 2010 anda kurang, Anda dapat menambahkan Shape lain ke SmartArt
+Untuk menambahkan Shape lain,pastikan Anda telah mengklik shape yang telah Anda buat, lalu Akan terlihat SmartArt Tool pada Ribbon.
+
+
+
++ Langkah-langkah: Klik gambar  Pada SmartArt Tool klik Design klik Add Shape  Pilih pilihan yang muncul dibawah add shape untuk menambahkan shape di tempat yang anda inginkan
+Anda akan melihat bahwa ketika Anda menambahkan Shape, ukuran dari setiap Shape akan menyesuaikan ukuran huruf agar dapat masuk di dalam shape yang telah kita buat
+. Menghapus Shape bahkan lebih mudah daripada menambahkan Shape. Pilih Shape yang ingin Anda hapus dan kemudian tekan tombol delete atau tombol backspace pada keyboard Anda.
+Mengatur Margin pada Microsoft Word 2010
+a. Untuk memperlihatkan batas-batas margin + Langkah-langkah:
+Klik View  grup Show  tandai Ruler.
+b. Mengubah ukuran Margin: + Langkah-langkah:
+klik Page Layout  grup Page Setup  klik Margins pilih margin yang diinginkan.
+
+(a)
+
+(b)
+
+(c)
+
+Bila belum sesuai keinginan, klik Custom Margins, maka akan muncul tampilan seperti dibawah ini
+
+Dalam jendela tersebut anda dapat menentukan batas margin kanan, atas, kiri, bawah, tampilan orientasi, ukuran kertas yang akan dan digunakan (pada Paper)
+
+Membuat Columns Klik tab Page Layout
+Klik icon Columns Tentukan jumlah kolom yang kalian inginkan
+
+MENGENAL MENDELEY
+Citation merupakan elemen penting dalam sebuah penulisan karya ilmiah. Seringkali penulis pemula, pelajar, mahasiswa dan masyarakat akademik pada umumnya, terjebak dalam tindakan plagiasi yang tidak disengaja karena kurang hati-hati dalam membuat sebuah sitiran.
+Mendeley adalah sebuah perangkat lunak yang kelahirannya diilhami oleh sebuah upaya untuk mengintegrasikan "citation & reference manager" ke dalam sebuah jejaring sosial. Dengan jejaring semacam ini, peneliti di berbagai belahan dunia dapat berkolaborasi dan melakukan sharing data penelitian.
+Perangkat lunak Mendeley saat ini tersedia dalam 2 (dua) versi, Desktop Edition dan Institutional Edition. Mendeley Desktop Edition (selanjutnya dalam panduan ini akan disebut Mendeley saja) adalah perangkat lunak "citation & reference manager" yang bisa didapatkan secara gratis (tidak berbayar) dan sangat kompatibel dengan program pengolah kata MS Word (2003,2007,2010), Mac Word (2008, 2011), Open Office/Libre Office (3.2), dan Bib Tex. Beberapa fitur yang menjadi andalan Mendeley antara lain:
+1. Dapat berjalan pada MS Windows, Mac, ataupun Linux. 2. Menampilkan metadata dari sebuah file PDF secara otomatis. 3. Backup dan sinkronisasi data dari beberapa komputer dengan akun online. 4. Smart filtering dan tagging. 5. PDF viewer dengan kemampuan anotasi dan highlighting. 6. Impor dokumen dan makalah penelitian dari situs-situs eksternal (misalnya PubMed,
+Google Scholar, arXiv, dll). 7. Integrasi dengan berbagai perangkat lunak pengolah kata seperti MS Word, Open Office,
+dan Libre Office. 8. Fitur jejaring sosial. 9. iPhone dan iPad app. 10. Free web storage sebesar 2 GB yang dapat dimanfaatkan sebagai online backup.
+Disamping itu, pengaturan dan manajemen file hasil download sangat mudah dilakukan dengan "drag and drop", sehingga terasa sangat user friendly. Namun demikian bukan berarti Mendeley tidak memiliki kelemahan. Mendeley akan mengunggah semua file yang ada di hard disk lokal ke web site Mendeley, sehingga apabila file-file ini kita dapatkan dari jurnal berbayar seperti ScienceDirect, ProQuest, ClinicalKey tentunya akan sedikit bermasalah khususnya dengan hak akses terhadap file-file tersebut. Mendeley merupakan dekstop dan program web untuk mengelola berbagai makalah penelitian, menemukan data penelitian dan berkolaborasi secara online. Mendeley bekerja dengan baik pada progam pengolah data seperti microsoft word, LibreOffice writer, dan sebagainya sehingga secara otomatis membuat sitasi dan juga daftar pustaka.
+Mendeley mengharuskan pengguna untuk menyimpan semua data kutipan yang disalin , menyimpan dokumen pada kebijaksanaan penggunanya. Software mendeley dapat diunduh secara gratis pada alamat web mendeley yaitu www.mendeley.com. Setelah software mendeley
+
+diunduh, instalasi dapat dilakukan secara offline dan kemudian dilanjutkan registrasi pengguna secara online untuk dapat menggunakannya. Setelah pendaftaran, aplikasi mendeley menyediakan ruang penyimpanan web gratis dengan kapasitas 2 GB bagi penggunanya yang dapat terus diupgrade dengan biaya tertentu.
+Aplikasi mendeley dapat dijalankan dengan langkah-langkah sebagai berikut: 1. Membuat akun
+Akun dapat dibuat dengan mengunjungi situswww.mendeley.comuntuk kemudian melakukan proses sign up 2. Download aplikasi mendeley Aplikasi didodownload pada situs tersebut untuk kemudian dilakukan instalasi 3. Melakukan verifikasi akun mendeley Verifikasi dapat dilakukan dengan membuka email dan digunakan sebagai akun registrasi akun pada aplikasi mendeley 4. Membuat library dalam mendeley Artikel PDF dapat diunduh dari sembarang situs jurnal, misalnyahttp://ejournal.litbang.depkes.go.id untuk kemudian dimasukkan dalam library di Mendeley. 5. Cara melakukan pengecekan metadata pada setiap artikel yang diunduh Bisa saja artikel PDF yang Anda masukkan ke library Mendeley memuat metadata yang salah maka perlu dilakukan koreksi metadata tersebut, dan klik tombol Details are correct. 6. Cara melakukan instalasi plugin Mendeley untuk Microsoft Word Lakukan instalasi plugin Mendeley untuk Microsoft Word, lihat pada menu Tools. 7. Cara melakukan instalasi plugin Mendeley untuk Web Importer Lakukan instalasi plugin Mendeley untuk Microsoft Word, lihat pada menu Tools. 8. Cara melakukan pembuatan kutipan atas artikel di Microsoft Word Gunakan menu References > Insert Citation di Microsoft Word. 9. Cara menuliskan catatan kaki pada paragraf pemustaka Mengarahkan kursor pada bagian akhir paragraf, klik "references" dan kemudian klik "insert citation" dan klik "go to mendeley" sehingga akan muncul tampilan aplikasi mendeley. Selanjutnya pilih jurnal yang akan dijadikan rujukan lalu klik "cites", maka secara otomatis sumber rujukan akan keluar pada bagian akhir paragraf.
+10. Cara melakukan pembuatan Daftar Pustaka pada bagian akhir tulisan di Microsoft Word (Insert Bibliography). Gunakan menu References > Insert Bibliography di Microsoft Word. Secara otomatis Word akan membuat daftar pustaka. Cara Menggunakan Mendeley Untuk Menambahkan Referensi, Daftar Pustaka atau Bibliografi di Microsoft Office Word.
+Apabila instalasi plugin telah berhasil dilakukan pada sistem operasi Windows, maka pada Microsoft Word akan ditambahkan grup icon baru pada tab References. Patut diperhatikan bahwa secara default pada Microsoft Word sudah terdapat fungsi untuk mengelola referensi, sehingga setelah plugin Mendeley terinstall akan ada dua group icon yang memiliki fungsi yang sama. Grup icon Mendeley dapat dibedakan dengan melihat lambang Mendeley berwarna merah pada icon Insert Citation, seperti dapat dilihat pada gambar 3.
+
+Cara mengakses Mendeley pada Microsoft Word agak berbeda dibandingkan dengan Microsoft Word pada sistem operasi Windows.
+2. Melakukan sitasi Melakukan sitasi menggunakan Mendeley sangat mudah dilakukan, yaitu dengan cara meng-klik menu Insert or Edit Citation pada toolbar/menu Mendeley. Pengguna dapat memilih format sitasi yang akan digunakan pada dokumen sesuai dengan kebutuhannya. Perubahan format sitasi
+
+dapat dilakukan sebelum atau sesudah sitasi ditambahkan ke dalam dokumen. Mendeley mendukung banyak format sitasi ilmiah dan jumlah format ini dapat ditambah atau dikurangi sesuai dengan kebutuhan. Pada saat pengguna meng-klik menu Insert or Edit Citation maka akan tampil kotak dialog seperti diperlihatkan pada Gambar 6. Pada kotak dialog tersebut pengguna diminta memasukkan kata kunci dari referensi yang akan disitasi pada text box yang disediakan. Setelah pengguna memasukkan kata kunci tertentu, misalnya "Mendeley", selanjutnya akan tampil daftar referensi yang sesuai dengan kriteria pencarian. Pengguna tinggal memilih salah satu referensi yang dimaksud dari daftar yang diberikan untuk memasukkan sitasi tersebut ke dokumen aktif.
+Apabila perlu dilakukan perubahan format sitasi, dapat dilakukan dengan cara memilih salah satu style dari daftar yang tersedia pada menu Style. Beberapa format sitasi berikut secara default tersedia dalam Mendeley:  American Medical Association  American Political Science Association  America Psychological Association 6th Edition  American Sociological Association  Chicago Manual of Style 16th edition  Harvard Reference Format 1  IEEE
+
+ Modern Humanities Research Association 3rd Edition  Modern Language Association 7th Edition  Nature
+Seandainya format yang akan digunakan bukan salah satu dari format sitasi diatas, pengguna dapat menambahkan format lain dengan memilih menu More Styles pada daftar format sitasi. Selanjutnya pengguna tinggal memilih tab Get More Styles kemudian memasukkan kata kunci dari format sitasi yang akan ditambahkan, misalnya "vancouver". Apabila format sitasi yang dicari tersedia, format tersebut dapat ditambahkan pada Mendeley dengan meng-klik install, seperti ditunjukkan oleh Gambar 7. Gambar 8 memperlihatkan beberapa contoh format sitasi, American Psychological Association 6th Edition, IEEE, dan Nature setelah pengguna menambahkan sitasi pada dokumen.
+
+3. Menambahkan bibliografi Mendeley menyediakan fungsi untuk menambahkan bibliografi atau daftar pustaka dari semua referensi yang digunakan pada dokumen secara otomatis. Untuk menambahkan bibliografi, pengguna tinggal memilih menu Insert Bibliography pada toolbar/menu Mendeley. Format penulisan bibliografi secara otomatis akan disesuaikan dengan format sitasi yang digunakan pada dokumen. Pada saat dilakukan perubahan format sitasi, format penulisan bibliografi juga akan menyesuaikan dengan perubahan tersebut. Gambar 9 memperlihatkan contoh bibliografi dari contoh pada gambar 8 yang dihasilkan secara otomatis oleh Mendeley, misalkan format sitasi yang dipilih adalah Nature.
+MAIL MERGE Mail Merge adalah suatu fasilitas pada Microsoft Word 2010 yang dapat melakukan integrasi
+antar aplikasi Microsof Office 2010 seperti Excel, Access, Outlook bahkan dalam Word sendiri. Mail Merge dalam Microsoft Word 2010 biasa digunakan untuk pembuatan dokumen massal seperti surat massal, alamat dan pengisian label serta katalog. Dengan menggunakan mail Merge kita tidak perlu mengetik dokumen yang sama secara berulang-ulang. Ada dua komponen dalam pembuatan mail merge : 1. Dokumen utama (Main Document)
+Yaitu dokumen yang bertindak sebagai formulir isian yang menerima data yang disisipkan dari sumber data. Dokumen utama dapat berupa surat, amplop, label atau formulir. 2. Sumber Data (Data Source) Yaitu sumber semua data yang akan disisipkan ke dalam dokumen utama. DOKUMEN UTAMA
+Microsoft Word 2010 menyediakan fasilitas wizard untuk membuat dan memformat dokumen. Dimana dapat mengikuti langkah-langkah yang disediakan dan dapat bergerak atau berpindah dari dokumen utama ke sumber data atau sebaliknya sambil melakukan editing. Langkah-langkah pembuatan dokumen utama :  Klik Tab Maillings  Pilih tool Start Mail Merge  Klik dan pilih tool Step by Step Merge Wizard..kemudian tampil task panel Mail Merge
+disebelah kanan
+
+ Pilih dan Klik Letters pada Select Document Type  Klik tombol Next : Starting Document (step-1)
+
+Gambar jendela Mail Merge step-1
+ Sekarang ada berada di jendela Mail Merge Jendela-2  Pilih/klik Use Current Current pada perintah Select Starting document  Klik tombol Next : Select Receptionts, dan tampil dijendela Mail Merge Step-3
+
+Membuat Data
+
+ Klik tombol Type a New list pada perintah select recipients.
+
+ Klik tool
+
+(create...) pada type new list, sehingga tampil
+
+jendela New Address List
+
+ Klik tombol Customize Columns (dapat menambah Add), atau (menghapus Delete) atau (mengganti Rename) nama field
+ Misalnya menambahkan field Nama dikotak isian type name your field  OK
+
+ Contoh field yang dibuat misalnya: Nama, Alamat, Nama Barang  Gunakan tombol Move Up (ke atas), Move Dwon (ke bawah) untuk mengatur letak field
+yang tidak sesuai.
+
+ Selanjutnya isikan data-data dijendela New Address List, untuk memindahkan kursor ke field lain gunakan tombol Tab, untuk menambah field yang baru New Entry
+ OK  Klik Save sehingg tampil Mail Merge Recipients.  Klik OK, kemudian klik tombol Next : Write your letter (step-3)
+
+Membuat Naskah Surat Ketik teks surat seperti contoh dibawah dan simpan dengan nama file Surat Panggilan
+
+LABORATORIUM KOMPUTER STKIP PGRI SUMATERA BARAT
+Jl. Gunung Pangilun Padang Telp. (0751) 53731
+Padang, 6 Juli 2020
+
+Kepada Yth, ....................................... ....................................... di tempat
+
+Sesuai dengan lamaran saudara yang diajukan kepada kami, maka dengan ini kami mengharapkan kehadiran saudara pada :
+
+Hari Tanggal Waktu Tempat
+
+: .......................................................... : .......................................................... : .......................................................... : Aula STKIP PGRI Sumbar Lantai IV
+
+Demikianlah surat panggilan ini kami sampaikan, atas perhatiannya kami ucapkan terima kasih
+
+Hormat kami,
+
+Dr. Rahmat, M.Pd Rektor Universitas PGRI Sumbar
+
+Menempatkan Field pada Naskah
+
+ Letakan kursor di bawah teks Kepada Yth.
+
+ Klik tombol
+
+dijendela Task Pane Mail Merge
+
+ Sehingga tampil jendela Insert Merge Field, kemudian klik field Nama, klik tombol Insert, klik tombol Close
+
+MENYISIP DATA KE DALAM DOKUMEN UTAMA Langkah untuk menyisip data ke dalam dokumen utama adalah :  Letakkan insert point/kursor pada posisi isian yang diinginkan  Klik tombol Next: Preview your letter  Klik Field yang diinginkan, akan tampil di dokumen seperti ini <<nama>> selanjutnya gunakan tombol  Lanjutkan penyisipan Field lainnya seperti langkah tersebut diatas.  Klik tombol Next: Complete the merger dijendela Task Pane Mail Merge, untuk menyimpan hasil pengabungan.
+Setelah selesai meyisip seluruh data (Field) ke dokumen utama simpan kembali dokumen utama (klik save) Pada latihan ini dokumen utama akan tampil seperti dibawah ini :
+
+LABORATORIUM KOMPUTER STKIP PGRI SUMATERA BARAT
+Jl. Gunung Pangilun Padang Telp. (0751) 53731
+
+Kepada Yth, <<Nama>> <<Alamat>> di tempat
+
+Padang, 6 Juli 2020
+
+Sesuai dengan lamaran saudara yang diajukan kepada kami, maka dengan ini kami mengharapkan kehadiran saudara pada :
+
+Hari Tanggal Waktu Tempat
+
+: <<Hari>> : <<Tanggal>> : <<Waktu>> : Aula STKIP PGRI Sumbar Lantai IV
+
+Demikianlah surat panggilan ini kami sampaikan, atas perhatiannya kami ucapkan terima kasih
+
+Hormat kami,
+
+Dr. Rahmat, M.Pd Rektor Universitas PGRI Sumbar
+
+MENGGABUNGKAN DOKUMEN ATAU CETAK (PRINT) PADA MAIL MERGE  Setelah data field ditempatkan kedalam naskah surat, langkah selanjutnya menggabungkan data dan surat. Klik tombol Next: Preview your letter dijendela Task Pane Mail Merge.  Maka tampil surat data pertama, untuk menampilkan data berikutnya dan sebelumnya, gunakan tombol
+
+ Klik tombol Next: Complete the merger dijendela Task Pane Mail Merge, untuk menyimpan
+
+hasil pengabungan.
+
+ Pilih/Klik tool (Print) sehingga tanpil Merge to Print di jendela Task Pane Mail Merge,
+
+kemudian tampil di jendela Merge to Print.
+
+ Pada perintah Merge record tandai pilihan:
+
+All
+
+: untuk semua data yang sudah digabung
+
+Current record : untuk data yang sedang terbuka (aktif)
+
+From...to... : menentukan data dari data ke....sampai data ke...
+
+ OK
+
+Berikut tampilan salah satu hasil penggabungan atau cetak mail merge tersebut.
+
+LABORATORIUM KOMPUTER STKIP PGRI SUMATERA BARAT
+Jl. Gunung Pangilun Padang Telp. (0751) 53731
+
+Padang, 6 Juli 2020 Kepada Yth, Cecep Setiadi Jl. Gajah Nakal No. 3 di tempat
+
+Sesuai dengan lamaran saudara yang diajukan kepada kami, maka dengan ini kami mengharapkan kehadiran saudara pada :
+
+Hari Tanggal Waktu Tempat
+
+: Senin : 21 Juni 2004 : 10.00 WIB : Aula STKIP PGRI Sumbar Lantai IV
+
+Demikianlah surat panggilan ini kami sampaikan, atas perhatiannya kami ucapkan terima kasih
+
+Hormat kami,
+
+Dr. Rahmat, M.Pd Rektor Universitas PGRI Sumbar
+
+CETAK DOKUMEN
+Cara ngeprint atau mencetak jika anda belum terbiasa dengan aplikasi yang anda gunakan tentunya akan menjadikan akan kebingungan. Berikut ini hanya sekedar share dan pengetahuan cara ngeprint atau mencetak dokumen pada microsoft office word 2010. Pada microsoft office word 2010 terdapat tampilan yang berbeda ketika kita melakukan perintahprint/mencetak atau mudahnya adalah ketika ngeprint. Ketika kita melakukan perintah melalui menu utama File > Print atau mengunakan shortcut keyboard CTRL + P pada microsoftoffice 2010 akan muncul jendela untuk mencetak dokumen.
+Ada beberapa pilihan yang bisa anda pilih pada menu printing Microsoft word 2010. Menu ini bertujuan untuk melakukan pengaturan dalam mengeprint dokumen. Beberapa pengaturan utama yang perlu anda lakukan untuk mencetak dokumen menggunakan Microsoft word 2010 antara lain adalah jenis printer yang digunakan untuk ngeprint dan halaman pada dokumen yang akan diprint dan beberapa pengaturan lain jika diperlukan
+Pada pengaturan jenis printer yang akan digunakan untuk memprint terdapat pada menu yang paling atas dan bertuliskan print dan gambar print. Disini anda dapat melakukan pengaturan memilih jenis printer yang ada dan terhubung dengan komputer anda. Anda tinggal mengklik tombol yang menunjukkan anak panak kebawah untuk memilih jenis printer yang terhubung dan terinstall pada komputer anda
+
+Pengaturan utama yang lain ketika kita menjalankan perintah ngeprint dokumen pada microsoft office 2010adalah mengatur atau memilih halaman mana saja yang akan kita print. Pengaturan ini dapat anda lakukan pada menu di bawahnya yaitu menu Setting.
+Pada menu setting terdapat 4 pilihan yaitu sebagai berikut : Print All Pages Jika anda memilih pilihan ini, maka semua halaman dari dokumen yang anda buka pada microsoft office 2010 akan di print semua halaman. Print All Page biasanya yang tampil pertama kali ketika anda melakukan perintah mencetak dokumen pada hampir semua versi microsoft word. Maka jika anda ingin mencetak halaman-halaman tertentu saja, dapat anda lakukan pengaturan cara mengeprint dengan pilihan setting nomer 2 atau 3 atau 4
+Pilihan setting kedua adalah Print selection. Print selection bertujuan melakukan print hanya pada halaman-halaman tertentu yang anda pilih dengan memblok tulisan-tulisan atau pada halaman tertentu. Perintah blok pada dapat anda lakukan dengan menggunakan perintah drag atau meletakkan kursor pada text pertama dan kemudian menekan shift dan tombol anak panah ke bawah, ke kanan, ke kiri atau ke atas pada keyboard sesuai dengan keinginan anda. Print Current Page. Perintah print current page bertujuan melakukan perintah print hanya pada halaman yang saat itu ditampilkan pada layar monitor anda. Print custom range. Setting pada saat ngeprint jika memilih pilihan print custom adalah bertujuan melalukan print pada halaman dengan range/rentang tertentu. Misalnya anda hanya ingin mencetak halaman 1 s/d 2, maka anda dapat memasukkan pada kotak di bawahnya cukup dengan menuliskan angka 1-2 (ditengahnya diberi tanda -). Jika anda hanya melakukan pencetakan pada halaman 2, 5 dan 7 saja, maka kotak isian dapat anda masukkan 2,5,7 (ditengahnya diberi tanda koma) Setelah settingan selesai anda lakukan, kemudian anda tinggal mengklik tombol paling atas yang
+
+bergambar print. Maka dengan segera dokumen yang anda pilih untuk di print akan tercetak dengan printer yang anda pilih waktu melakukan setting untuk mencetak dokumen.
+
+BAB II MICROSOFT EXCEL 2010
+Microsoft Office Excel 2010 (untuk selanjutnya disebut MS. Excel saja) merupakan sebuah program aplikasi pengolah angka buatan Microsoft Corporation. MS. Excel 2010, seperti halnya MS. Word 2010, merupakan hasil pengembangan dari beberapa versi sebelumnya. MS. Excel tampil lebih user friendly dan sudah menggunakan ribbon sebagai standar baru dalam menampilkan menu-nemu tool. Berdasarkan klaim mereka, ribbon adalah sebuah inovasi yang kelak di masa mendatang menjadi sebuah standar bagi tampilan menu.
+Sebelum mulai memasuki pembahasan Microsoft Excel 2010, ada baiknya kita mengenal lebih dulu bagaimana tampilan Microsoft Excel itu, Langkah-langkah dalam memulainya.
+Langkah ­ langkah dalam memulai Microsoft Excel  Aktifkan komputer terlebih dahulu  Klik tombol Start pada taskbar  Pilih menu All Program, Pilih Microsoft Office  Kemudian klik Microsoft Excel 2010
+Function Cel Bar l
+Column Heading Row Heading
+Gambar : Tampilan Microsoft Excel 2010
+KOMPONEN MICROSOFT EXCEL 2010  Row Heading Row Heading (Kepala garis), adalah penunjuk lokasi baris pada lembar kerja yang aktif. Row Heading juga berfungsi sebagai salah satu bagian dari penunjuk sel (akan dibahas setelah ini). Jumlah baris yang disediakan oleh Microsoft Excel adalah 65.536 baris.  Column Heading Column Heading (Kepala kolom), adalah penunjuk lokasi kolom pada lembar kerja yang aktif. Sama halnya dengan Row Heading, Column Heading juga berfungsi sebagai salah satu bagian dari penunjuk sel (akan dibahas setelah ini). Kolom di simbol dengan abjad A ­ Z dan gabungannya. Setelah kolom Z, kita akan menjumpai kolom AA, AB s/d AZ lalu kolom BA, BB s/d BZ begitu seterus sampai kolom terakhir yaitu IV (berjumlah 256 kolom). Sungguh suatu lembar kerja yang sangat besar, bukan. (65.536 baris dengan 256 kolom).  Cell Pointer Cell Pointer (penunjuk sel), adalah penunjuk sel yang aktif. Sel adalah perpotongan antara kolom dengan baris. Sel diberi nama menurut posisi kolom dan baris. Contoh. Sel A1 berarti perpotongan antara kolom A dengan baris 1.
+
+ Formula Bar Formula Bar, adalah tempat kita untuk mengetikkan rumus-rumus yang akan kita gunakan nantinya. Dalam Microsoft Excel pengetikkan rumus harus diawali dengan tanda ,,= . Misalnya kita ingin menjumlahkan nilai yang terdapat pada sel A1 dengan B1, maka pada formula bar dapat diketikkan =A1+B1 .
+
+MENGGERAKKAN PENUNJUK SEL (CELL POINTER)
+
+Cell Pointer berfungsi untuk penunjuk sel aktif. Yang dimaksud dengan sel aktif ialah sel yang akan dilakukan
+
+suatu operasi tertentu. Untuk menggerakan ponter dengan Mouse dapat dilakukan dengan meng-klik sel yang
+
+diinginkan. Untuk sel yang tidak kelihatan kita dapat menggunakan Scroll Bar untuk menggeser layar hingga sel
+
+yang dicari kelihatan lalu klik sel tersebut. Untuk kondisi tertentu kita lebih baik menggunakan keyboard. Berikut
+
+daftar tombol yang digunakan untuk menggerakan pointer dengan keyboard :
+
+Tombol
+
+Fungsi
+
+    Tab Enter Shift + Tab Shift + Enter Home Ctrl + Home
+
+Pindah satu sel ke kiri, atas, kanan atau bawah Pindah satu sel ke kanan Pindah satu sel ke bawah Pindah satu sel ke kiri Pindah satu sel ke atas Pindah ke kolom A pada baris yang sedang dipilih Pindah ke sel A1 pada lembar kerja yang aktif
+
+Ctrl + End
+
+Pindah ke posisi sel terakhir yang sedang digunakan
+
+PgUp PgDn Alt + PgUp Alt + PgDn
+
+Pindah satu layar ke atas Pindah satu layar ke bawah Pindah satu layar ke kiri Pindah satu layar ke kanan
+
+Ctrl + PgUp
+
+Pindah dari satu tab lembar kerja ke tab lembar berikutnya
+
+Ctrl + PgDn
+
+Pindah dari satu tab lembar kerja ke tab lembar sebelumnya
+
+Menginputkan Data Dalam Sel
+ Pilih / klik sel tempat data yang akan dimasukkan  Ketikan data yang akan dimasukkan  Tekan enter untuk mengakhirinya  Untuk mengedit data yang telah diketik, tekan F2 atau Double klik di sel yang mau di edit.
+
+ Untuk menghapus data dalam sel, tekan tombol Delete di keyboard. Memformat Kolom dan Baris
+ Merubah ukuran kolom  Letakkan pointer di pembatas kolom yang ingin dirubah ukurannya, lalu drag
+sesuai dengan ukuran yang di inginkan.
+ Jika ingin merubah ukuran kolom lebih dari satu kolom, maka blok kolom yang ingin dirubah kolomnya menggunakan mouse atau menggunakan tombol keyboard.
+
+Kemudian klik tab Home dan klik icon Format _ Column Width _ Isi lebar kolom dan tekan Ok
+Merubah Ukuran Baris  Letakkan pointer di pembatas baris yang ingin dirubah ukurannya, lalu drag sesuai dengan ukuran yang di inginkan
+ Jika ingin merubah ukuran baris lebih dari satu baris, maka blok baris yang ingin dirubah menggunakan mouse atau menggunakan tombol keyboard.
+ Kemudian klik tab Home dan klik icon Format _ RowHeight _ Isi lebar Baris dan tekan Ok
+
+SHEET (Lembar Kerja) Menambah sheet baru
+ Klik di Icon New
+
+atau tekan CTRL + N
+
+Mengganti nama sheet  Klik kanan di sheet yang ingin diganti namanya  Pilih Rename
+
+Menghapus sheet  Klik kanan di sheet yang ingin dihapus  Pilih Delete
+
+FILE Menyimpan File
+ Klik Menu File _ Save / Save as
+
+Membuka File  Klik Menu File _ Open _ Tentukan directory _ Pilih salah satu file
+MEMFORMAT CELLS Mengcopy dan Memindahkan Isi Sel
+ Mengcopy Sel Blok sel yang ingin di-Copy Pilih menu Edit ­ Copy (Ctrl + C) Pilih sel untuk menempatkan hasil copy-an Pilih menu Edit ­ Paste (Ctrl + V) untuk mengeluarkan isi copy-an
+ Memindahkan Sel Blok sel yang ingin dipindahkan Pilih menu Edit ­ Cut (Ctrl + X) Pilih sel yang baru untuk meletakkan hasil pindahan Pilih menu Edit ­ Paste (Ctrl + V)
+Membuat Nomor & Bulan Berurut Ketik angka atau bulan pertama pada sel yang diinginkan Ketik angka atau bulan kedua pada sel selanjutnya (berurutan) Blok kedua sel tersebut secara berurutan Letakkan pointer pada sudut kanan bawah hingga keluar tanda tambah
+Menggabungkan Sel Blok sel yang ingin digabungkan Pilih menu Format ­ Cells Klik Alignment Tandai / klik Merge Cells ­ Ok
+Atau Blok sel yang ingin digabungkan secara berurutan
+Klik icon
+
+Mengetengahkan Teks Klik tab Home Klik di tanda panah icon Alignment Klik Alignment Pada Horizontal pilih Center Pada Vertical pilih Center Klik Ok
+Mengatur Tata Letak Teks Klik sel dimana terdapat teks yang ingin diatur tata letaknya Klik Alignment Pada Orientation aturlah tata letak dan derajat kemiringan teks Klik Ok
+Membuat Garis Tabel Blok seluruh sel yang ingin diberi garis tabel Klik Alignment Klik Border Pilih garis tabel yang ingin Anda masukkan Ok
+Membuat Simbol Mata Uang Blok semua angka yang ingin diberi simbul mata uang Klik Alignment Pilih Number Klik Accounting Pilih mata uang di Symbol Isikan angka 0 (nol) pada Decimal Places Klik Ok
+
+Membuat Nama Satuan Pada Penulisan Angka Blok semua sel yang berisi angka Klik Alignment Klik Number ­ Custom Pada Type tuliskan 0 "unit" (untuk nama satuan unit) Klik Ok
+LATIHAN 1 : 1. Buatlah di dalam sheet 1 Kolom B2
+2. Buatlah di dalam sheet 1 Kolom G2
+Gantikan nama Sheet dengan Latihan 1 o Simpanlah dalam folder Nama sendiri dengan nama LATIHAN EXCEL o Buka kembali file Latihan-1 yang telah tersimpan 3. Buatlah didalam sheet 3 kolom B2
+Note : Setiap penulisan rumus selalu diawali dengan tanda sama dengan ( = ), dan setelah siap memasukkan rumus harus menekan Enter
+
+MENGGUNAKAN FUNGSI
+
+Fungsi sebenarnya adalah rumus yang sudah disediakan oleh Microsoft Excel, yang akan membantu dalam proses perhitungan. kita tinggal memanfaatkan sesuai dengan kebutuhan. Pada umumnya penulisan fungsi harus dilengkapi dengan argumen, baik berupa angka, label, rumus, alamat sel atau range. Argumen ini harus ditulis dengan diapit tanda kurung ().
+
+Beberapa Fungsi yang sering digunakan:
+
+ Fungsi Average(...)
+
+Fungsi ini digunakan untuk mencari nilai rata-rata dari sekumpulan data(range). Bentuk umum penulisannya adalah = AVERAGE(number1,number2,...), dimana number1, number2, dan seterusnya adalah range data yang akan dicari nilai rata-ratanya.  Fungsi Logika IF(...)
+
+Fungsi ini digunakan jika data yang dimasukkan mempunyai kondisi tertentu. Misalnya, jika nilai sel A1=1,
+
+maka hasilnya 2, jika tidak, maka akan bernilai 0. Biasanya fungsi ini dibantu oleh operator relasi
+
+(pembanding) seperti berikut :
+
+Lambang
+
+Fungsi
+
+=
+
+Sama dengan
+
+<
+
+Lebih kecil dari
+
+>
+
+Lebih besar dari
+
+<=
+
+Lebih kecil atau sama dengan
+
+>=
+
+Lebih besar atau sama dengan
+
+<>
+
+Tidak sama dengan
+
+ Fungsi Max(...) Fungsi ini digunakan untuk mencari nilai tertinggi dari sekumpulan data (range). Bentuk umum penulisannya adalah =MAX(number1,number2,...), dimana number1, number2, dan seterusnya adalah range data (numerik) yang akan dicari nilai tertingginya.
+ Fungsi Min(...) Sama halnya dengan fungsi max, bedanya fungsi min digunakan untuk mencari nilai terendah dari sekumpulan data numerik.
+ Fungsi Sum(...) Fungsi SUM digunakan untuk menjumlahkan sekumpulan data pada suatu range. Bentuk umum penulisan fungsi ini adalah =SUM(number1,number2,...). Dimana number1, number2 dan seterusnya adalah range data yang akan dijumlahkan.
+ Fungsi Left(...) Fungsi left digunakan untuk mengambil karakter pada bagian sebelah kiri dari suatu teks. Bentuk umum penulisannya adalah =LEFT(text,num_chars). Dimana text adalah data yang akan diambil sebagian karakternya dari sebelah kiri, num_chars adalah jumlah karakter yang akan diambil.
+ Fungsi Mid(...) Fungsi ini digunakan untuk mengambil sebagian karakter bagian tengah dari suatu teks. Bentuk umum pemakaian fungsi ini adalah =MID(text,start_num,num_chars). Artinya mengambil sejumlah karakter mulai dari start_num, sebanyak num_char.
+ Fungsi Right(...) Fungsi ini merupakan kebalikan dari fungsi left, kalau fungsi left mengambil sejumlah karakter dari sebelah kiri, maka fungsi mengambil sejumlah karakter dari sebelah kanan teks.. Bentuk umum penulisannya adalah =RIGHT(text,num_chars). Dimana text adalah data yang akan diambil sebagian karakternya dari sebelah kanan, num_chars adalah jumlah karakter yang akan diambil.
+ Fungsi HLOOKUP dan VLOOKUP Fungsi HLOOKUP dan VLOOKUP digunakan untuk membaca suatu tabel secara horizontal (VLOOKUP) atau secara vertikal (VLOOKUP). Bentuk umum penulisan fungsi ini adalah :
+=HLOOKUP(Lookup_value, Table_array, Row_index_num,...) =VLOOKUP(Lookup_value, Table_array, Col_index_num,...)
+Dari rumus diatas, dapat dilihat bahwa bedanya hanya pada nomor indeksnya saja, kalau kita pakai HLOOKUP, maka digunakan nomor indeks baris (Row_index_num), tapi kalu pakai VLOOKUP digunakan nomor indeks kolom (Col_index_num). Nomor indeks adalah angka untuk menyatakan posisi suatu kolom/baris dalam tabel yang dimulai dengan nomor 1 untuk kolom/baris pertama dalam range data tersebut.
+
+FORMAT KARAKTER 1. LEFT (Mengambil Karakter Kiri) Left ini digunakan untuk mengambil karakter pada bagian sebelah kiri dari suatu teks. Bentuk umum penulisannya adalah =LEFT(text,num_chars). Contoh : LEMBAGA ® =LEFT(E20,3) ® Hasilnya : LEM
+2. MID (Mengambil Karakter Tengah) Mid ini digunakan untuk mengambil karakter pada bagian tengah dari suatu teks. Bentuk penulisannya adalah : =MID(text,start_num,num_chars) Contoh : LEMBAGA ® =MID(E20,2,3) ® Hasilnya : EMB
+3. RIGHT (Mengambil Karakter Kanan) Right ini digunakan untuk mengambil karakter pada bagian sebelah kanan dari suatu teks. Bentuk penulisannya adalah : =RIGHT(text,num_chars) Contoh : LEMBAGA ® =RIGHT(E20,4) ® Hasilnya : BAGA
+4. DATA SORT (Mengurutkan Data) Langkah mengurutkan suatu data adalah : Blok seluruh data yang ingin diurutkan
+Pilih tab Data ­ klik icon Sort , Klik AZ untuk pengurutan Ascending (diurutkan berdasarkan dari kecil ke yang besar) Klik ZA untuk pengurutan Descending (diurutkan berdasarkan dari besar ke yang kecil) Ok 5. DATA FILTER (Menyaring Data) Langkah menyaring suatu data adalah : Blok seluruh data dalam tabel
+Pilih tab Data ­Klik icon Filter Untuk menghilangkan tanda klik kembali icon Filter
+
+LATIHAN 2 : 1. Lakukan fungsi Mid, Left, Right.
+2. Urutkan gaji dari yang terendah sampai yang tertinggi serta saring data alamat yang berasal dari Panggoi.
+FUNGSI LOGIKA Fungsi logika atau bersyarat memungkinkan kita menguji persyaratan dalam sel. Fungsi bersyarat ini adalah suatu kondisi atau =IF yang hasilnya bergantung pada benar atau salahnya pengujian. Fungsi Logika memerlukan operator perbandingan yaitu : = (sama dengan) < (lebih kecil dari) > (lebih besar dari) <= (lebih kecil sama dengan) >= (lebih besar sama dengan) <> (tidak sama dengan) 1. IF(logical_test,value_if_true,value_if_false) Untuk memilih di antara dua nilai berdasarkan dua kondisi yaitu kondisi benar atau kondisi salah. 2. Fungsi If Tunggal Contoh 1 : =IF(A2>50,"Naik Kelas","Tinggal Kelas")
+Artinya jika nilai sel A2 lebih besar dari 50, maka dinyatakan "Naik Kelas", sebaliknya jika nilai sel A2 kurang dari 50 maka dinyatakan "Tinggal Kelas". Contoh 2 : =IF(A2="B","Baik","Buruk") Artinya jika nilai sel A2 berinisial B, maka bersikap "BAIK". Namun sebaliknya bila bukan B, maka bersikap "BURUK".
+3. Fungsi If Majemuk Contoh : =IF(C4="A","ISTIMEWA",IF(C4="B","BAIK",IF(C4="C","CUKUP","KURANG"))) Artinya jika pada sel C4 nilainya A maka hasilnya "ISTIMEWA", jika pada sel C4 nilainya B maka hasilnya "BAIK", jika pada sel C4 nilainya C maka hasilnya "CUKUP", atau selain kondisi diatas maka akan menghasilkan nilai "KURANG"..
+
+4. Pembuatan laporan gaji karyawan Buatlah tabel berikut :
+a. Penulisan usia Isi kolom usia dengan rumus : =($C$3-D5)/366 Maksud dari rumus diatas adalah kolo E3 diabsolutkan, diambil kolom D5 kemudian hasilnya dibagi jumlah hari dalam setahun.
+b. Penulisan masa kerja Isi kolom masa kerja dengan rumus =($C$3-F5)/366 hal ini sama seperti penulisan usia.
+c. Penulisan tunjangan masa kerja Isi kolom tunjangan anak dengan perintah : - tunjangan diberikan sebesar Rp. 100,000,- untuk setiap 1 tahun. Tulis rumus : =(G5*100000)
+d. Pengisian tunjangan menikah Isi kolom tunjangan menikah dengan perintah : - jika berstatus menikah mendapat tunjangan Rp. 500,000 - jika belum menikah tidak dapat tunjangan Tulis rumus : =if(I5="N";500000;0)
+e. Pengisian tunjangan anak Isi kollom tunjangan anak dengan perintah : - Setiap 1 anak mendapat tunjangan Rp. 100,000, paling banyak 3 anak yang mendapa tunjangan Tulis rumus : =IF(J7<=3;100000*J7;IF(J7>3;300000;0))
+f. Penulisan gaji pokok Isi kolom gaji pokok dengan perintah : - Jika gol I maka gajinya Rp. 1500,000 - Jika gol II maka gajinya Rp. 2000,000 - Jika gol III maka gajinya Rp. 2500,000 Tulis rumus : =if(N5="I";1500000;if(N5="II";2000000;2500000))
+g. Pengisian gaji kotor Isi kolom gaji kotor dengan menjumlahkan seluruh uang yang diperoleh Tulis rumus : =sum(K5:N5)
+h. Pengisian PPH Isi kolom PPH dengan perintah : - Setiap pegawai mendapat PPH 5% Tulis rumus : =(O5*5%)
+i. Pengisian gaji bersih Isi kolom gaji bersih dengan cara gaji kotor di kurangi PPH(pajak).
+
+LATIHAN 3 : Latihan a.
+
+Ketentuan :
+
+1. Jenis Kelamin :
+
+@ Jika P maka jenis kelaminnya Pria
+
+@ Jika W maka jenis kelaminnya Wanita
+
+2. Pekerjaan Ortu : @ Jika Kodenya PN maka pekerjaan ortunya Pegawai Negeri
+
+@ Jika Kodenya WR maka pekerjaan ortunya Wiraswasta
+
+@ Jika Kodenya PS maka pekerjaan ortunya Pegawai Swasta
+
+@ Jika Kodenya BR maka pekerjaan ortunya Buruh
+
+3. Keterangan :
+
+@ Jika nilainya > 50 maka keterangannya Lulus
+
+@ Jika nilainya < 50 maka keterangan Gagal
+
+Latihan b.
+
+Buat ulang tabel pembuatan laporan gaji karyawan, kemudian isikan perintah berikut : a. Isi kolom usia b. Isi kolom masa kerja c. Isi kolom tunjangan anak dengan perintah : - tunjangan diberikan sebesar Rp. 150,000,- untuk setiap1 tahun. d. Isi kolom tunjangan menikah dengan perintah : - jika berstatus menikah mendapat tunjangan Rp. 625,000 - jika belum menikah tidak dapat tunjangan e.Isi kollom tunjangan anak dengan perintah : - Setiap 1 anak mendapat tunjangan Rp. 175,000, paling banyak 2 anak yang mendapa tunjangan f. Isi kolom gaji pokok dengan perintah : - Jika gol I maka gajinya Rp. 1,567,000 - Jika gol II maka gajinya Rp. 2,435,000 - Jika gol III maka gajinya Rp. 2,789,000 g. Isi kolom gaji kotor h. Pengisian PPH Isi kolom PPH dengan perintah : - Setiap pegawai mendapat PPH 5% kecuali gol I. i. Isi kolom gaji bersih. j. Untuk setiap uang di beri mata uang rupiah
+
+TUGAS- TUGAS MICROSOFT EXCEL 2010
+TUGAS 1 MEMBUAT TABEL SEDERHANA
+Buatlah tabel seperti gambar di bawah ini. Perhatikan posisi tabel, baris dan lebar kolom.
+SMP NEGERI 1 RAWAMERTA Jl. Kompleks Pendidikan Rawamerta
+
+DAFTAR NAMASTAF PENGAJAR SMP NEGERI 1 RAWAMERTA
+
+No
+
+NAMA
+
+LENGKAP
+
+1 Uus Sugiana 2 Sarip Komarna 3 Kasturi Agus Cholik
+
+4 Tri Wiratno
+
+5 Tibih Subanda 6 Nur Rahmat Kurniawan
+
+7 Cum Wiarsih
+
+8 Istiana Ekawati 9 Syarifah Badriah
+
+10 Tatin Laraswati
+
+11 Imas Rahmawati 12 Dedi Kusnaedi
+
+13 Gilang Purnama
+
+14 Suwardi Eka Cipta 15 Iwan Kurniawan
+
+ALAMAT
+Pasir Awi Sukamerta Panyingkiran Majalaya Bekasi Sukamerta Sukamerta Sukamerta Panyingkiran Panyingkiran Panyingkiran Sukapura Sukaraja Panyingkiran Sukapura
+
+AKUN Facebook
+
+Twitter
+
+Uus Sugiana Deden Sarip Kasep Kasturi Agus Cholik Threeum Virat Tibih Subanda Nur Rahmat Kurniawan Cucum Wiarsih Istiana Ekawati Syarifah Badriah Tatin Laraswati Imas Rahmawati Pamanahrasa Gondewa Gilang Purnama Okok'a Amethyst Iwan Hathairattanakool
+
+@kasturi46 @ThreeumVirat @nurrahmatk @pagil_ang @Okok_Amethyst @Kang_KunKun
+
+MATA PELAJARAN
+Bahasa Sunda IPA
+Matematika IPS IPS IPS
+Matematika Bahasa Indonesia
+PAI Bahasa Sunda
+IPA Bahasa Indonesia Matematika / TIK Bahasa Inggris / TIK
+TIK
+
+TUGAS 2 MENGGUNAKAN FUNGSI OPERATOR PERHITUNGAN DAN FUNGSI STATISTIK
+Buatlah tabel seperti gambar di bawah ini. Perhatikan posisi tabel, baris dan lebar kolom.
+
+LEMBAGAPELATIHAN DAN KETERAMPILAN KOMPUTER SALWA COMPUTER
+
+DAFTAR NILAI SISWA
+
+No
+
+NAMA SISWA
+
+RINCIAN NILAI
+
+Nilai
+
+PAKET PROGRAM Mengetik Latihan Latihan Latihan
+
+Ujian
+
+Praktikum
+
+Akhir
+
+10 Jari Evaluasi 1 Evaluasi 2 Evaluasi 3
+
+Akhir
+
+1 Kijaga Reksa 2 Pamanahrasa Gondewa 3 Threeum Virat 4 Suryana Yan 5 HestyAyu 6 Iwan Hathairattanakool 7 Ratu Tika Bravani 8 Nyi Iteung Clubbing 9 Kang Kun Kun 10 Ahmadinejad Safei
+
+Office Terpadu Microsoft Excel Microsoft Excel Microsoft Word Microsoft Excel Office Terpadu Office Terpadu Office Terpadu Microsoft Word Microsoft Word
+
+83
+
+78
+
+82
+
+81
+
+75
+
+80
+
+80
+
+76
+
+82
+
+81
+
+76
+
+80
+
+82
+
+77
+
+84
+
+80
+
+81
+
+85
+
+79
+
+80
+
+80
+
+84
+
+76
+
+75
+
+81
+
+81
+
+82
+
+82
+
+79
+
+80
+
+82
+
+79
+
+80
+
+80
+
+79
+
+80
+
+79
+
+83
+
+83
+
+83
+
+75
+
+85
+
+81
+
+80
+
+81
+
+81
+
+76
+
+85
+
+90
+
+85
+
+87
+
+88
+
+85
+
+85
+
+75
+
+79
+
+80
+
+81
+
+75
+
+80
+
+Nilai Terbesar (Max) Nilai Terkecil (Min) Rata-rata (Average)
+
+Petunjuk :  Untuk menggabungkan Cell, gunakan icon "Merge and Center"  Gunakan "Wrap Text" untuk membuat teks dua baris di dalam satu cell  Untuk menghitung "Nilai Akhir" gunakan formula : "=SUM(D9:I9)/6"  Untuk menghitung Nilai Terbesar (Max) gunakan formula "=MAX(Range...)  Untuk menghitung Nilai Terkecil (Min) gunakan formula "=MIN(Range...)  Untuk menghitung Nilai Rata-rata (Average) gunakan formula "=AVERAGE(Range...)  Range adalah area data (blok data). Contoh : D9:D18, D9:I9  Jika hasil perhitungan menghasilkan nilai desimal, gunakan "Decrease Decimal" untuk mengurangi angka di
+belakang koma (pembulatan angka).  Simpanlah dokumen yang telah dibuat tadi ke folder yang telah ditentukan, beri nama "Latihan 2".
+TUGAS 3 MENGGUNAKAN FUNGSI OPERATOR PERHITUNGAN DAN FUNGSI STATISTIK
+Buatlah tabel seperti gambar di bawah ini. Perhatikan posisi tabel, baris dan lebar kolom.
+SALWA COMPUTER
+PERHITUNGAN LABA
+
+NAMA No
+BARANG
+1 USB Keyboard 2 Mouse Optik 3 USB Data Storage 8 GB 4 DDR RAM 512 MB 5 DDR 2 RAM 1 GB 6 Harddisk SATA250 GB 7 Harddisk SATA120 GB 8 DVD RW Eksternal 16x 9 Monitor LCD 15" 10 Windows 7 HE Original
+TOTAL HARGA MAKSIMAL HARGA MINIMAL RATA-RATA
+
+HARGA JUAL
+
+HARGA BELI
+
+Rp
+
+85.000 Rp
+
+Rp
+
+45.000 Rp
+
+Rp
+
+220.000 Rp
+
+Rp
+
+225.000 Rp
+
+Rp
+
+325.000 Rp
+
+Rp
+
+475.000 Rp
+
+Rp
+
+415.000 Rp
+
+Rp
+
+425.000 Rp
+
+Rp 1.100.000 Rp
+
+Rp
+
+800.000 Rp
+
+67.500 34.000 175.000 170.000 285.000 335.000 295.000 385.000 950.000 700.000
+
+LABA
+
+Petunjuk :  Gunakan format data "Accounting / Currency" untuk menambahkan simbol "Rp"  Untuk menghitung laba, = Harga Jual ­ Harga Beli  Untuk menghitung persentase, = Laba / Harga Beli  Total = SUM(Range...)  Harga Maksimal = MAX(Range...)  Harga Minimal = MIN(Range...)  Rata-rata = AVERAGE(Range...)
+
+PERSENTASE (%)
+
+TUGAS 4 MERUBAH FORMAT TANGGAL (LONG DATE, SHORT DATE DAN CUSTOM)
+Buatlah tabel seperti gambar di bawah ini. Perhatikan posisi tabel, baris dan lebar kolom.
+MERUBAH FORMAT TANGGAL
+
+Long Date
+01 Januari 2012 03 Februari 2012
+05 Maret 2012 07 April 2012 09 Mei 2012 11 Juni 2012
+13 Juli 2012 15 Agustus 2012 17 September 2012 19 Oktober 2012 21 Nopember 2012 23 Desember 2012
+
+Short Date
+01/ 01/ 2012 03/ 02/ 2012 05/ 03/ 2012 07/ 04/ 2012 09/ 05/ 2012 11/ 06/ 2012 13/ 07/ 2012 15/ 08/ 2012 17/ 09/ 2012 19/ 10/ 2012 21/ 11/ 2012 23/ 12/ 2012
+
+d/ m/ yy
+
+dd/ mmm/ yyyy dd-mmm-yy dd-mmmm-yyyy
+
+1/ 1/ 12 3/ 2/ 12 5/ 3/ 12 7/ 4/ 12 9/ 5/ 12 11/ 6/ 12 13/ 7/ 12 15/ 8/ 12 17/ 9/ 12 19/ 10/ 12 21/ 11/ 12 23/ 12/ 12
+
+01/ Jan/ 2012 03/ Feb/ 2012 05/ Mar/ 2012 07/ Apr/ 2012 09/ Mei/ 2012 11/ Jun/ 2012 13/ Jul/ 2012 15/ Agust/ 2012 17/ Sep/ 2012 19/ Okt/ 2012 21/ Nop/ 2012 23/ Des/ 2012
+
+01-Jan-12 01-Januari-2012
+
+03-Feb-12 03-Februari-2012
+
+05-Mar-12
+
+05-Maret-2012
+
+07-Apr-12
+
+07-April-2012
+
+09-Mei-12
+
+09-Mei-2012
+
+11-Jun-12
+
+11-Juni-2012
+
+13-Jul-12
+
+13-Juli-2012
+
+15-Agust-12 15-Agustus-2012
+
+17-Sep-12 17-September-2012
+
+19-Okt-12 19-Oktober-2012
+
+21-Nop-12 21-Nopember-2012
+
+23-Des-12 23-Desember-2012
+
+Petunjuk : Secara umum, format tanggal ada dua, yaitu "Long Date (dd mmmm yyyy)" dan "Short Date (dd/mm/yyyy)".  d = Day (Hari), m = Month (Bulan) dan y = Year (Tahun)  Tanda pemisah tanggal bisa menggunakan "Spasi", "- " atau "/"  Untuk merubah tanggal "Custom", blok terlebih dahulu sel atau range yang berisi format tanggal. Klik Number ­
+Custom, lalu ketik format tanggal yang diinginkan.
+
+FUNGSI LOOKUP VLOOKUP
+Fungsi Vlookup ini digunakan untuk membaca tabel secara vertical (tegak). Bentuk penulisannya adalah : =VLOOKUP(lookup_value,table_array,col_index_num,[range_lookup]) Contoh Vlookup :
+
+Untuk mencari kolom lulusan, maka ketik rumus =Vlookup(C3,$G$6:$I$9,2) Dimana C3 (kolom C baris 3) merupakan Sel Kode di dalam Tabel Gaji Karyawan, kemudian data yang ada dalam Tabel Perbandingan harus diblok/ditandai, agar data dapat terbaca di dalam Tabel Gaji Karyawan. Untuk memunculkan simbol dollar ketika data diblok, tekan F4 di keyboard. Di ujung rumus ketik letak kolom lulusan (kolom 2). Untuk mencari kolom gaji ketik rumus =Vlookup(C3,$G$6:$I$9,3), maka caranya sama seperti diatas. Namun yang berbeda adalah diujung rumus, ketik letak kolom gaji (kolom 3).
+
+HLOOKUP Fungsi Hlookup ini digunakan untuk membaca tabel secara horizontal penulisannya adalah : =HLOOKUP(lookup_value,table_array,col_index_num,[range_lookup]) Contoh Hlookup :
+
+(mendatar).
+
+Bentuk
+
+Untuk mencari kolom lulusan, maka ketik rumus =Vlookup(C3,$G$6:$I$9,2) Dimana C3 (kolom C baris 3) merupakan Sel Kode di dalam Tabel Gaji Karyawan, kemudian data yang ada dalam Tabel Perbandingan harus diblok/ditandai, agar data dapat terbaca di dalam Tabel Gaji Karyawan. Untuk memunculkan symbol dollar ketika data diblok, tekan F4 di keyboard. Di ujung rumus ketik letak kolom lulusan (kolom 2). Untuk mencari kolom gaji ketik rumus =Vlookup(C3,$G$6:$I$9,3), maka caranya sama seperti diatas. Namun yang berbeda adalah diujung rumus, ketik letak kolom gaji (kolom 3).
+LATIHAN 4 :
+
+Ketentuan :  Isi Nama Ruang dan Nama Pengawas dengan menggunakan tabel Vlookup  Isi Nilai Ujian dengan menggunakan tabel Hlookup
+
+LATIHAN 5 MEMBUAT GRAFIK (CHART)
+
+Grafik atau chart merupakan media visual penerjemah data dalam bentuk angka kedalam data dalam bentuk gambar. Dalam penelitian biasanya difungsikan untuk menghubungkan data antara variabel x dan variabel y. Cara membuat Garafik atau chart dalam Microsoft Excel 2010 begitu mudah. Yang pertama harus kita lakukan adalah menyiapkan data terlebih dahulu. Buatlah tabel seperti gambar di bawah ini. Perhatikan posisi tabel, baris dan lebar kolom.
+
+SMP NEGERI 1 RAWAMERTA REKAPITULASI NILAI UN SISWA KELAS 9 J
+
+Nama Siswa
+
+Mata Pelajaran
+
+B. Indonesia
+
+MTK
+
+IPA
+
+B. Inggris
+
+Chica Khaerunisa
+
+85
+
+75
+
+70
+
+75
+
+Chika Galuh Safitri
+
+85
+
+76
+
+72
+
+72
+
+Dede Abdul Muhyi
+
+72
+
+55
+
+45
+
+25
+
+Devi Melinda
+
+81
+
+62
+
+64
+
+46
+
+Dicky Pratama
+
+60
+
+42
+
+51
+
+39
+
+Ebah Suhaebah
+
+64
+
+55
+
+68
+
+52
+
+Endang Purnama
+
+74
+
+64
+
+66
+
+57
+
+Petunjuk :
+
+ Blok range tabel A5:B12
+
+ KlikRibbon Insert ­ Chart ­ Chart Type ­ OK
+
+ Klik Layout ­ Chart Title ­ Above Chart : "REKAPITULASI NILAI UN SISWA KELAS 9 J"  Klik Layout ­ Axis Title ­ Primary Horizontal Axis Title ­ Title Below Axis : "NAMA SISWA"
+
+ Klik Layout ­ Axis Title ­ Primary Vertical Axis Title ­ Rotated Title : "NILAI UN"
+
+NILAI UN
+
+REKAPITULASI NILAI UN SISWA KELAS 9 J
+
+100
+
+80
+
+60
+
+40
+
+20
+
+B. Indonesia
+
+0
+
+MTK
+
+IPA
+
+B. Inggris
+
+NAMA SISWA
+
+BAB III MICROSOFT POWERPOINT 2010
+Presentasi merupakan kegiatan yang penting dalam mengkomunikasikan suatu gagasan kepada orang lain dengan berbagai tujuan, misalnya untuk menarik audiensi agar mereka membeli produk, menggunakan jasa atau untuk kepentingan lain.
+Salah satu alat peraga yang dapat digunakan untuk mendukung presentasi adalah computer. Adapun salah satu perangkat lunak yang dapat dipakai adalah PowerPoint yang merupakan bagian dari Microsoft Office. Dengan menggunakan software ini seseorang dapat menuangkan ide-ide cemerlangnya dalam bentuk visual yang menarik dalam waktu yang singkat.
+Microsoft PowerPoint 2010 ini sebenarnya merupakan versi 14 dari tipe program presentasi milik Microsoft Windows yang jadi satu paket dalam Microsoft Office 2010 (juga disebut Office 2010 dan Office 14). Sedangkan Microsoft Office 2010 itu sendiri sudah dirilis pada 15 Juni 2010. Bukan berarti setelah selama satu tahun program ini beredar dan dipakai masyarakat dunia, Microsoft PowerPoint 2010 mulai meredup popularitasnya. Justru setelah satu tahun sejak dirilisnya program ini, masih terasa fitur-fitur baru yang sepertinya tidak ada habis-habisnya untuk dicoba. Versi baru dari program presentsi Microsoft ini menawarkan beberapa fitur baru yang mengesankan, banyak sekali perbedaan dari pendahulunya (PowerPoint 2007).
+Gambar 32 Microsoft Office PowerPoint 2010
+1. FITUR ­ FITUR DI POWERPOINT 2010 Berikut ini adalah fitur-fitur baru yang tersedia dalam PowerPoint 2010 : a. Membuat, mengelola, dan berkolaborasi dengan orang lain  Mengelola file dalam tampilan Backstage yang baru  Menghubungkan penulis presentasi dengan rekan Anda  Secara otomatis menyimpan versi presentasi  Mengatur slide Anda menjadi beberapa bagian  Menggabungkan dan membandingkan presentasi  Dapat bekerja dengan file presentasi PowerPoint yang terpisah dalam jendela yang berbeda  Dapat bekerja dari mana saja: PowerPoint Web Apps  PowerPoint Mobile 2010 untuk Windows Phone 7 : Mengedit dan melihat dari telepon Anda b. Perkayalah presentasi Anda dengan video, gambar, dan animasi  Menyertakan, mengedit, dan memutar video dalam presentasi  Memangkas klip audio atau video
+
+ Menggunakan bookmark di audio dan klip video  Menghubungkan video dari situs web  Menerapkan tekstur yang artistik dan efek ke gambar  Menghapus latar belakang dan bagian yang tidak diinginkan lainnya dari gambar  Memotong foto dengan lebih tepat (presisi)  New SmartArt graphic picture layouts  Menggunakan transisi dengan efek 3-D motion graphic  Salin dan sisipkan efek animasi dari satu objek (teks atau bentuk) ke yang lain  Menambahkan screenshot untuk sebuah slide c. Mengirim dan membagikan presentasi anda secara lebih efektif  Membuat bentuk presentasi portabel untuk saling berbagi  Mengubah presentasi menjadi video  Menyiarkan tampilan slide Anda  Mengidentifikasi dan memecahkan masalah dengan kemudahan akses  Mengaktifkan mouse ke laser pointer
+2. KOMPONEN ­ KOMPONEN POWERPOINT 2010
+Berikut ini komponen-komponen yang terdapat dalam PowerPoint 2010 beserta fungsinya.  File Backstage : tombol yang berisi sebuah menu pull down, seperti= new, open, save, save as, print, close,
+dan lain-lain. Tombol ini menggantikan Office Button pada Office 2007.  Quick Access Toolbar : merupakan toolbar yang berisi tombol-tombol perintah secara cepat. secara default,
+terdapat 3 perintah yaitu, save, undo, dan redo. untuk keperluan tertentu, tombol-tombol ini bisa ditambahkan maupun dihilangkan sesuai dengan keperluan.  Title Bar : berisi nama file yang sedang dibuka diikuti dengan nama aplikasinya, dalam hal ini adalah microsoft powerpoint. saat pertama kali powerpoint dibuka, secara otomatis akan diberi nama presentation 1.  Tab Ribbon : semacam toolbar yang berisi beberapa grup, dimana masing-masing grup terdiri dari berbagai macam perintah yang sudah diklasifikasikan sesuai dengan fungsinya masing-masing.  Group : terdiri dari kumpulan beberapa perintah yang sudah diklasifikasikan sesuai dengan fungsinya. perintah-perintah tersebutditandai dengan gambar.  Slide Pane : untuk menampilkan slide-slide yang telah dibuat.  Placeholder : digunakan untuk memasukkan teks didalamnya.  Slide Number : digunakan untuk melihat slide yang aktif dan jumlah slide yang telah dibuat.  View Mode : digunakan untuk mengatur mode tampilan. ada 3 macam pilihan tampilan yaitu normal, slide sorter, dan slide show.  Zoom Slider : digunakan untuk memperbesar atau memperkecil suatu tampilan slide.
+3. RIBBON TAB DESIGN
+Gambar 33 Ribbon Tab Desain pada Microsoft Office PowerPoint 2010
+Jika anda mengklik Ribbon tab Design, maka akan muncul Ribbon dengan beberapa tool group, antara lain : Page Setup, Themes, dan Background, berfungsi untuk mendesain slide Anda.  Page Setup, terdapat tombol untuk mengatur orientasi dari slide, apakah anda akan menggunakan orientasi
+portrait atau landscape.  Themes, Anda bisa menggunakan pilihan desain yang sudah disiapkan oleh Ms. PowerPoint 2007untuk slide
+Anda.  Background, untuk memperindah slide yang Anda buat, anda bisa menata latar belakang slide Anda dengan
+menggunakan menu pada toolgroup ini.
+4. RIBBON TAB ANIMATIONS
+Gambar 34 Ribbon Tab Animations pada Microsoft Office PowerPoint 2010
+Pada Ribbon Tab Animations, Anda bisa menambahkan berbagai macam bentuk animasi pada slide Anda. Terdapat 3 tool group yang bisa Anda gunakan, antara lain :  Preview, tombol ini dipergunakan untuk melihat hasil dari animasi yang Anda berikan untuk slide Anda.  Animations, Anda dapat memilih animasi bagi objek yang ada pada slide, terdiri dari animate dan custom
+animations.  Transition to This Slide, untuk memebrikan slide pada perpindahan slide yang Anda buat.
+
+5. RIBBON TAB SLIDE SHOW
+Gambar 35 Ribbon Tab Slide Show pada Microsoft Office PowerPoint 2010 Ribbon Tab Slide Show terdiri dari beberapa tool group, antara lain :  Start Slide Show, untuk menentukan dari mana slide Anda dijalankan, apakah dari awal (from beginning) atau dari slide yang sedang aktif (from current slide show) atau pilihan Anda sendiri (custom slide show).  Set Up, pada tool group ini terdapat tombol yang bisa digunakan untuk menyembunyikan slide (hide slide), merekam narasi (record narration) dan menentukan urutan slide (rehearse timings) yang akan ditampilkan.  Monitors, Anda bisa mengatur resolusi dari slide presentasi Anda pada tool group ini. 6. RIBBON TAB VIEW
+Gambar 36 Ribbon Tab View pada Microsoft Office PowerPoint 2010 Tool group yang terdapat pada Ribbon Tab ini antara lain :  Presentation Views, pada bagian ini Anda dapat melihat keseluruhan dari slide yang telah Anda buat. Anda bisa melihatnya secara normal, slide sorter, notes page, dan slide show. Selain itu Anda juga dapat membuat slide Master sesuai dengan desain yang Anda inginkan.  Show/Hide, untuk membantu Anda dalam membuat slide presntasi, Anda bisa menampilkan penggaris (ruler) dan garis bantu (gridlines).  Zoom, Anda dapat memperbesar ukuran slide yang Anda buat atau secara normal.  Color/Grayscale, Pada bagian ini anda dapat menentukan apakah slide yang Anda buat berwarna (color) atau hitam putih (grayscale).  Window, Anda manata tampilan window PowerPoint apakah secara cascade, split, atau berpindah ke window lain. MEMBUAT PRESENTASI SEDERHANA 1. Menyiapkan Dokumen Buka aplikasi Microsoft PowerPoint 2010. Klik Start ­ All Program ­ Microsoft Office ­ Microsoft PowerPoint 2010. Maka akan tampil layar seperti di bawah ini.
+Gambar 37 Tampilan awal PowerPoint 2010
+
+Pada saat pertama kali aktif, PowerPoint akan menyediakan satu buah slide standar dengan layout "Title Slide" seperti tampil pada gambar di atas. Untuk menambahkan slide baru, klik "New Slide pada Ribbon Home, lalu pilih layout yang dikehendaki. Pada bagian kiri layar terdapat panel slide. Jika ingin merubah layout slide, klik slide yang akan dirubah layout-nya, kemudian klik "Layout" pada Ribbon Home, pilih layout yang dikehendaki. Untuk menyisipkan teks, klik tulisan "Click to add title" pada slide. Untuk menyisipkan objek, gunakan Ribbon Insert. Cara yang digunakan sama persis ketika kita menggunakan Microsoft Word atau Excel.
+Gambar 38 Tampilan Pilihan Layout Slide
+2. Membuat Presentasi Sederhana Dengan cara yang sudah dijelaskan sebelumnya, cobalah anda rancang presentasi dengan slide-slide seperti di bawah ini. Perhatikan jenis layout, teks, objek dan design. Slide 1
+
+Slide 2 Slide 3
+
+Slide 4
+Memberi Efek Transisi (Transitions) Pada Slide  Klik salah satu slide. Klik Ribbon Transitions ­ Transition to this slide. Pilih efek transisi yang akan digunakan. Klik combo-nya untuk memilih jenis transisi lainnya.  Lakukan hal yang sama untuk slide berikutnya.
+Memberi Efek Animasi (Animations) Pada Objek  Pada slide 1, klik teks "Akses dan Penerapan Aplikasi Internet"  Klik Ribbon Animations - Animation.  Pilihlah efek yang dikehendaki. Preview efek bisa dilihat saat meng-klik salah satu efek.  Klik "More Entrace Effects", "More Emphasis Effects", "More Exit Effects" dan "More Motion Effects" untuk mencoba berbagai jenis efek lainnya.  Lakukan hal yang sama untuk teks atau objek lainnya pada slide 1 dan slide-slide berikutnya.
+Menampilkan Presentasi  Klik Ribbon Slide Show ­ From Beginning untuk memulai presentasi. Atau dengan menekan tombol "F5" pada keyboard.  Klik Ribbon Slide Show ­ From Current Slide untuk memulai presentasi hanya untuk slide tertentu saja (slide yang dipilih).  Tekan tombol "Esc" (Escape) untuk mengakhiri presentasi.
+
+BAB IV MULTIMEDIA LECTORA INSPIRE
+ANTARMUKA LECTORA INSPIRE Lectora Inspire memiliki antarmuka yang familiar dengan kita yang telah mengenal maupun menguasai
+Microsoft Office. Antarmuka Lectora Inspire terbagi dalam 3 hal utama, yakni Menu dan Toolbar, Title Explorer, dan Work Area. Menu-menu yang ada di dalam Lectora, hampir sama dengan menu-menu yang berada dalam program-program Microsoft Office. Menu-menu itu antara lain File, Edit, Add, Layout, Tools, Mode, Publish, View, dan Help.
+Title Explorer merupakan pohon direktori yang menampilkan semua objek, chapter, section, dan page yang terdapat dalam work area Lectora. Work Area sendiri merupakan area kerja Lectora, dimana didalamnya kita dapat melakukan editing media pembelajaran. Yang patut dicatat dan diperhatikan, semua objek, level, chapter, section dan page dalam work area ini memiliki level-level tertentu, yang digambarkan dalam pohon direktori title explorer. Level tertinggi berada langsung di bawah judul/title dari konten media pembelajaran kita, menyusul kemudian di bawahnya level chapter/bab, level section/sub bab, dan yang terbawah adalah level page. Berikut tampilan antarmuka lectora.
+Menu dan Toolbar
+Title Explorer
+Project atau file yang dibuat menggunakan Lectora mengacu kepada title/judul. Title yang dibuat, mempunyai ekstensi berkas *.awt. Sebagai pengembangan konten e-learning, title mengacu pada topik media pembelajaran yang kita buat.
+
+MEMBUAT TITLE/ JUDUL MENGGUNAKAN TITLE WIZARD Title Wizard digunakan untuk membuat kerangka title secara otomatis dengan menentukan sytle
+tampilan, jumlah chapter dan page, test, serta tombol-tombol navigasi standar. Berikut ini langkah membuat Title menggunakan Title Wizard.
+1. Buka Software Lectora Inspire Demo. Klik dua kali pada icon Lectora Inspire Demo yang ada di desktop.
+2. Akan muncul halaman Getting Started With Lectora. Pada menu Create New Title, pilih Title Wizard.
+3. Selanjutnya akan muncul halaman pemilihan design template dari Media Pembelajaran yang akan kita buat. Pilih salah satu, lalu setelah itu klik "Start Wizard"
+4. Setelah "Start Wizard" dipilih, akan muncul form pemberian nama pada title/media pembelajaran kita. Beri nama pada Media pembelajaran kita, lalu tentukan pula dimana kita akan menyimpan media pembelajaran kita itu dengan memilih "Choose Folder". Klik Next untuk melanjutnkan ke langkah berikutnya.
+
+5. Langkah berikutnya adalah pengaturan ukuran halaman, apakah fixed size, atau taller page with scrollbar. Fixed size berarti ukuran halaman telah ditentukan dan dikunci oleh lectora, sedang dengan memilih opsi taller page, kita bisa mengatur seberapa besar ukuran halaman pada media pembelajaran kita. Untuk lebih memudahkan, pilih Fixed size, lalu klik Next. Tampilan selanjutnya adalah pengaturan chapter dan page dalam media pembelajaran.
+Chapter, Section, Page Pada sebuah buku, Chapter mengacu pada suatu bab. Pada pengembangan konten e-learning, chapter
+dapat diasumsikan satuan untuk KD (kompetensi dasar). Sedangkan section dapat digunakan untuk menyatakan bagian-bagian dari chapter. Chapter dan section berisi halaman-halaman (page). Pada title wizard, pengaturan jumlah chapter dan page dalam media pembelajaran dilakukan setelah pengaturan ukuran halaman.
+Number of Chapters menentukan jumlah bab yang akan dibuat dalam sebuah media pembelajaran. Sementara Include Help berarti kita menambahkan sebuah halaman "Help" yang berfungsi untuk menampilkan panduan navigasi/penggunaan media pembelajaran kita oleh user/pemakai, sehingga pemakai tidak akan kesulitan dalam mengakses konten-konten dalam media pembelajaran kita. Sedangkan dengan mencontreng "Include test at end of Title", maka secara otomatis akan ada chapter Evaluasi yang dibuat oleh Lectora, di akhir media pembelajaran kita. Setelah itu, kita klik Next untuk memberikan penamaan pada setiap chapter sesuai dengan keinginan kita.
+
+Setelah selesai memberi nama pada setiap chapter yang ada pada media pembelajaran kita, maka langkah selanjutnya adalah klik finish. Akan tampil halaman awal media pembelajaran.
+Untuk menambahkan chapter, section, maupun page pada media pembelajaran, gunakan fitur Add yang ada pada Menubar Lectora. Agar hasil penambahan chapter, section, maupun page sesuai dengan keinginan kita, pastikan untuk mengaktifkan halaman terakhir terlebih dahulu sebelum halaman yang akan kita add, pada title explorer.
+
+Text Formatting Sama halnya dengan perangkat lunak pemrosesan kata, Lectora memungkinkan untuk mengatur
+tampilan dan style suatu teks. Untuk menambahkan teks pada suatu halaman, langkahnya yakni aktifkan dulu halaman tersebut dengan mengekliknya di bagian title explorer, lalu setelah itu klik Add > Object > Text Block.
+Untuk memulai pengetikan, klik dua kali pada text block tersebut. Lakukan pula pengaturan-pengaturan seperti yang ada pada perangkat lunak pemroses kata.
+Menambahkan Objek Objek yang ditambahkan pada title dapat berupa teks, gambar, animasi, suara, video, dan lain
+sebagainya. Untuk menambahkannya, klik Add > Object > Pilih opsi penambahan yang kita inginkan. Contoh saat kita akan menambahkan gambar pada halaman Welcome Page, maka langkahnya adalah sebagai berikut:
+o Sorot halaman Welcome Page, klik menu Add > Object > Image. o Klik tanda segitiga di sebelah kanan "Import", From file berfungsi untuk mengambil objek dari
+windows explorer, Media Library digunakan untuk mengambil objek dari library Lectora.
+
+o Setelah gambar terpilih, Klik Apply. o Langkah tersebut hampir sama dengan langkah-langkah untuk menambahkan animasi, suara,
+dan video. Sedangkan untuk menambahkan obyek berupa tombol, kita dapat menempuh langkah mudah sebagai berikut:
+o Sorot halaman welcome page pada title explorer. o Klik Menu Tools > Button Wizard
+o Pilih Custom color Button with Text agar kita dapat mengkustomisasi dan memberi nama pada tombol yang akan kita buat. Selanjutnya klik Next.
+o Akan muncul opsi-opsi bentuk dari tombol yang akan dibuat, apakah itu rectangle (kotak), rounded rectangle (kotak elips), elliptical button (elips), dan chiseled button (bentuk tombol seperti pahatan). Setelah memilih salah satu, klik next.
+o Kemudian muncul pertanyaan apakah akan membuat single button (hanya 1 tombol) atau Multiple tombol (lebih dari 1 tombol). Pilih single button, lalu klik Next.
+o Muncul halaman untuk pengaturan nama dan warna tombol. Beri nama pada kolom text, dan atur warna pada kolom appearance sesuai dengan yang diinginkan. Setelah itu klik finish, maka tombol telah jadi.
+
+ Langkah ini bisa diulangi untuk membuat tombol-tombol yang lain.
+Inheritance (Pewarisan) Objek yang ditambahkan pada title dapat berupa teks, gambar, animasi, suara, video, dan lain
+sebagainya. Objek dapat ditambahkan pada level title, level chapter, level section, dan level page.  Objek yang ditambahkan pada level title akan muncul pada setiap page pada title.  Objek yang ditambahkan pada level chapter hanya akan muncul di setiap page pada chapter tersebut.  Objek yang ditambahkan pada level section hanya akan muncul di setiap page pada section tersebut.  Objek yang ditambahkan pada suatu page hanya akan muncul di page tersebut.
+
+Akan tetapi lectora juga memungkinkan untuk melakukan pengecualian melalui fasilitas exclude object. Sehingga bisa diatur, ada satu atau beberapa objek yang tidak nampak di halaman tertentu, sedang di halaman yang lain nampak. Contoh saat kita ingin menampilkan tombol "lanjut" pada setiap halaman pada media pembelajaran yang dibuat, kecuali pada halaman terakhir media pembelajaran itu. Langkahnya adalah kita tambahkan dulu objek tombol tersebut, langsung di bawah judul/title. Kita klik judul yang merupakan pohon direktori teratas pada title explorer, baru kemudian kita klik Tools > Button Wizard > lakukan langkah pembuatan tombol sebagaimana yang telah dijelaskan di bab sebelumnya. Setelah selesai pembuatan tombol, maka secara otomatis tombol akan tampak pada setiap halaman yang ada pada media pembelajaran kita. Kita bisa menggunakan tombol F11 pada keyboard, untuk menampilkan hasil preview media pembelajaran kita, dan tombol Escape (ESC) untuk keluar dari mode preview tersebut.
+Selanjutnya kita sorot halaman terakhir pada chapter terakhir di media pembelajaran kita, maka akan muncul jendela page properties seperti gambar di bawah ini.
+Pada tabulasi "Inherit", ada tiga opsi yang tertera, yakni Inherit All objects from parent (artinya semua objek yang diletakkan diatas halaman ini akan ditampilkan/diwariskan), Inherit no objects form parent (artinya semua objek yang diletakkan di atas halaman ini tidak akan ditampilkan/diwariskan), dan exclude inherintance of certain object (artinya beberapa objek akan dikecualikan penampilannya di halaman ini). Kita pilih opsi yang ketiga ini, maka akan muncul kolom inherited yang menampilkan daftar objek yang diwariskan, serta kolom excluded yang menampilkan objek-objek yang dikecualikan. Kita klik objek tombol "lanjut" pada kolom inherited, kemudian klik tombol pindahkan, untuk memindahkan tombol "lanjut" ke kolom excluded, lalu klik Apply. Maka penampilan tombol "lanjut" akan dikecualikan pada halaman terakhir media pembelajaran. Tekan tombol F11 untuk melihat hasil tampilannya dalam preview mode.
+
+Menambahkan Action Setiap objek pada page dapat saling dikenai aksi. Seperti tombol "lanjut" yang dibuat pada bab
+sebelumnya. Dengan adanya aksi, maka tombol tersebut dapat bermakna dan berfungsi. Tanpa adanya aksi, tombol tersebut hanya sebatas gambar biasa saja.
+Menambahkan aksi pada tombol "lanjut", yakni jika di klik akan menuju halaman berikutnya, langkahnya adalah dengan menyorot tombol "lanjut" terlebih dahulu.
+Muncul Button Properties, klik pada tabulasi "On Click". Beri Aksi Go To, dengan target Next Page. Maka setelah di Apply dan dijalankan dalam mode preview (F11), saat tombol "lanjut" diklik, akan muncul halaman berikutnya.
+
+Menambahkan Transition Transition adalah animasi atau gerakan-gerakan yang terjadi saat suatu halaman dimunculkan/ berpindah ke halaman berikutnya. Dengan adanya transisi, maka perpindahan antar halaman akan lebih menarik. Memberikan transisi pada halaman bisa dilakukan dengan menyorot halaman itu, lalu arahkan pada tabulasi "Transition" pada jendela Page Properties.
+Terdapat opsi Transition Type untuk menentukan berbagai jenis transisi yang akan kita gunakan, serta kecepatan proses transisi itu. Setelah selesai memilih, klik Apply, dan jalankan di mode preview (F11) untuk melihat hasil dari tampilan transisi antar halaman.
+
+Microsoft Windows 7
+83

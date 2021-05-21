@@ -1,0 +1,1106 @@
+Buku Pelajaran
+Teknologi Informasi dan Komunikasi
+Kelas XI Semester II
+untuk Sekolah Menengah Atas dan Madrasah Aliyah
+
+Penulis Editor Desain dan Layout
+
+: Onno W. Purbo : Eko Sujatmiko : Antonius Fran Setiawan
+
+ii
+
+Teknologi Informasi dan Komunikasi untuk Kelas XI Semester 2
+© Diterbitkan pertama kali oleh Kementerian Negara Riset dan Teknologi bekerja sama dengan Departemen Pendidikan Nasional dan Departemen Komunikasi dan Informatika, Republik Indonesia
+Hak cipta dilindungi oleh undang-undang. Buku ini dilisensikan sebagai buku terbuka (Open Publication License). Siapapun dapat menggunakan, mempelajari, dan memperbanyak atau menyebarluaskan sebagian atau seluruh isi buku ini dalam berbagai bentuk tanpa harus meminta izin kepada penerbit dan penyusunnya.
+Perpustakaan Nasional: Katalog Dalam Terbitan (KDT)
+Penulis: Onno W. Purbo Editor: Eko Sujatmiko Tata letak dan sampul: Antonius Fran Setiawan Cetakan I. Jakarta: Kementerian Negara Riset dan Teknologi, 2008 127 hlm., 21 x 29,7 cm ISBN 979-630-065-5.
+Cetakan Pertama, Oktober 2008
+Hak Cipta dan Merek Dagang Seluruh hak cipta dan merek dagang yang digunakan dalam buku ini merupakan hak cipta atau milik dari pemegang hak cipta atau merek dagang masing-masing pihak. Hak cipta penulisan ada pada penulis, hak cipta tata letak ada pada penata letak, hak distribusi ada pada Ristek, Diknas, dan Depkominfo. Linux adalah merek dagang Linus Torvalds.
+Peringatan dan Pernyataan Segala daya upaya telah dikerahkan agar buku ini dapat selengkap dan seakurat mungkin, walau begitu tidak ada pernyataan apapun mengenai kebenaran maupun kecocokannya. Segala informasi di buku ini disediakan berdasarkan apa adanya. Pengarang dan penerbit dengan segala hormat tidak bertanggung jawab pun tidak memiliki pertanggungjawaban kepada apapun atau siapa pun akibat terjadinya kehilangan atau kerusakan yang mungkin timbul yang berasal dari informasi yang dikandung dalam buku ini.
+iv
+
+KATA SAMBUTAN
+Menuju masyarakat informasi berbasis pengetahuan merupakan tujuan yang hendak dicapai oleh bangsa Indonesia, khususnya dalam menciptakan dan meningkatkan kemandirian bangsa. Untuk itu berbagai kegiatan dan aktivitas dalam mencapai tujuan tersebut perlu dilakukan secara bertahap dan berkesinambungan.
+Terkait dengan upaya tersebut, Kementerian Negara Riset dan Teknologi (KNRT) dalam hal ini Asisten Deputi Pengembangan dan Pemanfaatan Teknologi Informasi merasa terpanggil untuk ikut berpartisipasi, mendukung dan mendorong program tersebut guna terciptanya kemandirian bangsa, sesuai dengan tugas, fungsi dan tanggung jawabnya.
+Melalui semangat Indonesia, Go Open Source! (IGOS) dengan berbagai manfaatnya berkeinginan turut serta untuk membesarkan program Buku Sekolah Elektronik (BSE) yang telah dicanangkan oleh Departemen Pendidikan Nasional Republik Indonesia.
+Salah satu wujud nyata untuk mensukseskan program BSE adalah melakukan kerjasama dengan para narasumber dan penulis buku Teknologi Informasi dan Komunikasi (TIK), khususnya berbasis Open source untuk menerbitkan buku pelajaran TIK bagi siswa/ siswi Sekolah Menengah Atas/ Madrasah Aliyah (SMA/MA) dan pendidikan lain yang sederajat. Kontribusi yang kami berikan sangat kecil dan masih sangat jauh dari kesempurnaan. Namun demikian, kami berharap dengan awal yang kecil ini selanjutnya akan memberikan dampak luas di masa yang akan datang bagi bangsa dan negara Indonesia.
+Diharapkan terbitan ini dapat dimanfaatkan bagi para siswa/siswi (SMA/MA). Dengan demikian, pengenalan, penggunaan dan pemanfaatan open source dapat berlangsung sejak dini, dan sekaligus dapat menumbuhkembangkan kreativitas dalam menciptakan piranti lunak berbasis Open Source.
+Jakarta, 28 Oktober 2008
+Kemal Prihatman Asisten Deputi Pengembangan dan Pemanfaatan Teknologi Informasi Kementerian Negara Riset dan Teknologi Republik Indonesia
+v
+
+KATA SAMBUTAN
+Buku merupakan salah satu sarana penting dalam upaya meningkatkan mutu pendidikan. Salah satu permasalahan perbukuan dalam era otonomi daerah dewasa ini adalah ketersediaan buku yang memenuhi standar nasional pendidikan dengan harga murah yang dapat dijangkau oleh masyarakat luas. Untuk mengatasi hal tersebut, Departemen Pendidikan Nasional telah membeli 407 hak cipta buku teks pelajaran dari penulis/penerbit.
+Buku-buku teks pelajaran SD, SMP, SMA dan SMK yang telah dinilai dan dinyatakan memenuhi syarat kelayakan untuk digunakan di dalam proses pembelajaran oleh Badan Standar Nasional Pendidikan (BSNP) ini ditetapkan melalui Peraturan Menteri Pendidikan Nasional Nomor 34 Tahun 2008.
+Buku-buku yang hak ciptanya telah dimiliki oleh Departemen Pendidikan Nasional tersebut kemudian dialihformatkan oleh Pustekkom menjadi buku elektronik (e-book) yang penyebarluasannya dilakukan melalui media web BSE yang beralamat di bse.depdiknas.go.id dan cakram digital (CD/DVD). Seluruh buku telah diunggah (upload) ke web BSE dan saat ini buku-buku tersebut dapat diunduh (download), digandakan, dicetak, dialih-mediakan, atau difotokopi secara bebas oleh masyarakat. Namun untuk penggandaan yang bersifat komersial, maka harga penjualannya harus memenuhi Harga Eceran Tertinggi (HET) yang telah ditetapkan oleh Pemerintah. Dengan melalui Jardiknas diharapkan buku-buku teks pelajaran murah ini mudah diakses oleh siswa dan guru di seluruh Indonesia maupun Sekolah Indonesia yang berada di luar negeri.
+Dari tahun ke tahun jumlah buku teks pelajaran tersebut akan ditambah sehingga kebutuhan masyarakat terhadap buku murah dapat terpenuhi. Disamping menyediakan buku murah sendiri, Departemen Pendidikan Nasional menyambut baik dukungan dan sumbangan buku-buku teks pelajaran lain dari lembaga atau mitra kerja.
+Salah satu mitra yang telah memberikan perhatian pada upaya untuk menyediakan buku teks pelajaran adalah Kementerian Negara Riset dan Teknologi yang pada tahun 2008 ini telah bersedia menghibahkan hak cipta 6 (enam) buah buku teks pelajaran Teknologi Informasi dan Komunikasi (TIK) berbasis Open Source untuk SMA kelas X, XI dan XII kepada Departemen Pendidikan Nasional. Bukubuku tersebut akan diunggah dan disebarluaskan melalui web BSE sehingga masyarakat nantinya dapat mengunduh, menggandakan, mencetak, mengalihmediakan, atau memfotokopinya kapan saja dan dimana saja.
+Untuk itu kami menyampaikan penghargaan yang setinggi-tingginya kepada Kementerian Negara Riset dan Teknologi yang telah berkenan menyerahkan buku teks pelajaran TIK tersebut kepada Departemen Pendidikan Nasional untuk digunakan secara luas oleh para siswa dan guru di seluruh Indonesia.
+Kami berharap semua pihak dapat mendukung kebijakan ini. Kepada para siswa kami ucapkan selamat belajar dan manfaatkanlah serta terapkanlah buku ini dengan sebaik-baiknya. Kita menyadari bahwa buku ini masih perlu ditingkatkan mutunya. Oleh karena itu, sumbang saran dan kritik sangat kami harapkan.
+Jakarta, Oktober 2008
+Kepala Pusat Teknologi Informasi dan Komunikasi Pendidikan
+vi
+
+KATA PENGANTAR
+Buku pelajaran TIK (Teknologi Informasi dan Komunikasi) untuk SMA/MA berbasis FOSS (Free/Open Source Software) ini disusun berdasarkan kurikulum pendidikan nasional KTSP (Kurikulum Tingkat Satuan Pendidikan). Penerbitan buku ini diharapkan dapat melengkapi koleksi buku-buku sekolah elektronik yang telah diterbitkan Departemen Pendidikan Nasional dan didistribusikan melalui web http://bse.depdiknas.go.id.
+Perangkat lunak atau program komputer yang digunakan sebagai bahan pembelajaran di buku ini berlisensi bebas atau merdeka, lisensi yang menjadi ciri khas perangkat lunak FOSS. Para guru dan siswa dapat memperoleh semua program yang digunakan dalam buku ini tanpa harus membayar lisensi kepada pembuatnya. Perangkat lunak FOSS seperti sistem operasi Linux dan aplikasi OpenOffice.org dapat diperoleh dengan cara men-download dari Internet, meng-copy CD yang disertakan dalam buku atau majalah, atau membeli dari penyedia CD/DVD lainnya.
+Buku yang diterbitkan oleh Kementerian Negara Riset dan Teknologi ini disusun oleh para pengajar dan penulis yang telah lama berkecimpung di dunia pendidikan maupun dunia kepenulisan buku-buku TIK. Sebagian besar materi yang terdapat di buku ini telah digunakan di laboratorium komputer pada beberapa SMA yang dikelola oleh Divisi Pendidikan Sekolah LP3T-NF (Lembaga Pendidikan dan Pengembangan Profesi Terpadu ­ Nurul Fikri).
+Rangkaian buku TIK untuk SMA/MA berbasis FOSS ini terdiri atas 6 judul sesuai dengan kelas dan semester. Buku kelas X semester I membahas sistem operasi komputer dan berbagai aplikasi komputer, sementara buku kelas X semester II membahas aplikasi pengolah kata (word processor). Buku kelas XI semester I membahas Internet, sementara buku kelas XI semester II membahas pengolah angka atau lembar kerja (spreadsheet). Buku kelas XII semester I membahas program untuk desain grafis, termasuk pengolah gambar bitmap dan vektor. Buku kelas XII semester II membahas program presentasi.
+Kami ucapkan terima kasih kepada semua pihak yang telah membantu penyusunan dan penerbitan buku ini. Kami menunggu kritik dan saran Anda demi penyempurnaan buku ini dan buku-buku lain yang akan kami susun untuk mencerdaskan generasi muda bangsa Indonesia. Kritik dan saran dapat dikirim melalui email ke alamat penulisbuku@nurulfikri.com.
+Jakarta, 28 Oktober 2008
+Penyusun: Onno W. Purbo, Julianto Arief Setiadi, Lusi Endang Bayu Pratama, Nanang Kuswana, Siswanto, Saruri
+vii
+
+Daftar Isi
+KATA SAMBUTAN.............................................................................................................5 KATA SAMBUTAN.............................................................................................................7 KATA PENGANTAR...........................................................................................................9 PETUNJUK PENGGUNAAN BUKU................................................................................13
+DESKRIPSI UMUM...........................................................................................................13 MENGENAL OPENOFFICE.ORG CALC........................................................................17
+Standar Kompetensi.........................................................................................................17 Kompetensi Dasar:...........................................................................................................17 A. MENGENAL PROGRAM PENGOLAH ANGKA.....................................................................17 B. MENGENAL OPENOFFICE.ORG CALC.............................................................................18 C. MEMULAI OPENOFFICE.ORG CALC................................................................................19 D. MENGENAL MENU, TOOLBAR, DAN IKON DALAM OPENOFFICE.ORG CALC.........................21 E. JENIS DATA DALAM OPENOFFICE.ORG CALC...................................................................23 F. ISTILAH DAN MANUVER PADA OPENOFFICE.ORG CALC.....................................................23 G. MEMBUAT GARIS PADA TABEL KERJA............................................................................27 H. MEMPERLEBAR DAN MEMPERSEMPIT KOLOM...............................................................30 I. MEMPERLEBAR DAN MEMPERKECIL BARIS.....................................................................31 J. MENYIMPAN LEMBAR KERJA........................................................................................32 K. MENUTUP LEMBAR KERJA...........................................................................................34 L. MEMBUKA FILE YANG SUDAH DISIMPAN........................................................................35 M. KELUAR DARI PROGRAM CALC......................................................................................36 N. RANGKUMAN..............................................................................................................36 O. ISTILAH-ISTILAH PENTING.............................................................................................36 EVALUASI........................................................................................................................37 PENANGANAN LEMBAR KERJA...................................................................................39 Standar Kompetensi.........................................................................................................39 Kompetensi Dasar:...........................................................................................................39 A. MENYISIPKAN/MENAMBAHKAN LEMBAR KERJA..............................................................39 B. MEMBERI NAMA LEMBAR KERJA...................................................................................42 C. MENGHAPUS LEMBAR KERJA........................................................................................43 D. OPERATOR MATEMATIKA..............................................................................................44 E. FUNGSI STATISTIK........................................................................................................45 F. FUNGSI MATEMATIKA....................................................................................................46 G. MENYISIPKAN BARIS PADA LEMBAR KERJA.....................................................................50 H. MENYISIPKAN KOLOM PADA LEMBAR KERJA..................................................................52 I. MENGUBAH LEBAR KOLOM DARI MENU FORMAT..............................................................53 J. MENGUBAH TINGGI BARIS DARI MENU FORMAT...............................................................54 K. FUNGSI PERINTAH UNDO/TIDAK JADI.............................................................................55 L. FUNGSI PERINTAH REDO...............................................................................................55
+
+M. MEMBERI NAMA SEL/TABEL REFERENSI.........................................................................55 N. MENGHAPUS SEL........................................................................................................56 O. PERINTAH MENGHAPUS BARIS......................................................................................57 P. PERINTAH MENGHAPUS KOLOM....................................................................................57 Q. RANGKUMAN..............................................................................................................58 R. ISTILAH-ISTILAH PENTING.............................................................................................59 S. EVALUASI....................................................................................................................59
+MENGGUNAKAN RUMUS DAN FUNGSI.......................................................................61 Standar Kompetensi.........................................................................................................61 Kompetensi Dasar:...........................................................................................................61 A. PENERAPAN RUMUS DAN FUNGSI.................................................................................61 B. PENERAPAN FUNGSI STRING.........................................................................................62 C. PENERAPAN FUNGSI LOGIKA IF.....................................................................................65 D. PENERAPAN FUNGSI KHUSUS (HLOOKUP DAN VLOOKUP)................................................69 E. MEMBERIKAN CATATAN (KOMENTAR) PADA SEL..............................................................73 F. MENGHAPUS CATATAN DAN KOMENTAR..........................................................................73 F. RANGKUMAN...............................................................................................................74 G. ISTILAH-ISTILAH PENTING.............................................................................................74 H. EVALUASI....................................................................................................................74
+MENGELOLA BASIS DATA.............................................................................................77 Standar Kompetensi.........................................................................................................77 Kompetensi Dasar:...........................................................................................................77 A. PENGERTIAN BASIS DATA.............................................................................................77 B. MENGGUNAKAN FASILITAS DATA SORT...........................................................................77 C. MENGGUNAKAN FASILITAS DATA FILTER..........................................................................80 D. MENGGUNAKAN FASILITAS VALIDASI DATA......................................................................82 E. MENGGUNAKAN FASILITAS SUBTOTAL.............................................................................85 F. RANGKUMAN...............................................................................................................88 G. ISTILAH-ISTILAH PENTING.............................................................................................88 H. EVALUASI....................................................................................................................89
+MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK.....................................................91 Standar Kompetensi.........................................................................................................91 Kompetensi Dasar:...........................................................................................................91 A. TABEL PIVOT..............................................................................................................91 B. MENAMPILKAN GRAFIK...............................................................................................93 C. MEMODIFIKASI GRAFIK YANG SUDAH ADA.......................................................................99 D. RANGKUMAN............................................................................................................103 E. ISTILAH-ISTILAH PENTING...........................................................................................103 F. EVALUASI...................................................................................................................103
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA....................105 Standar Kompetensi.......................................................................................................105 Kompetensi Dasar:.........................................................................................................105 A. MENYALIN DATA ANTAR-FILE.......................................................................................105 B. MEMBAGI LEMBAR KERJA DENGAN PRINTAH SPLIT.......................................................110 C. MENGEMBALIKAN JENDELA KE BENTUK SEMULA..........................................................111
+
+D. MENGUNCI BARIS DAN KOLOM MENGGUNAKAN PERINTAH FREEZE.................................111 E. MENGEMBALIKAN TABEL FREEZE KE POSISI SEMULA......................................................112 F. MEMBUAT RUMUS ANTARLEMBAR KERJA......................................................................113 G. MEMBUAT PROTEKSI PADA LEMBAR KERJA..................................................................115 H. MEMBUKA PROTEKSI LEMBAR KERJA.........................................................................116 I. MENAMPILKAN HASIL CETAKAN KE LAYAR......................................................................117 J. MENAMPILKAN HASIL CETAKAN KE PRINTER.................................................................119 K. MENCETAK SEBAGIAN LEMBAR KERJA ATAU YANG DITANDAI...........................................120 L. RANGKUMAN.............................................................................................................122 M. ISTILAH-ISTILAH PENTING...........................................................................................122 N. EVALUASI..................................................................................................................123
+DAFTAR PUSTAKA.......................................................................................................127
+
+PETUNJUK PENGGUNAAN BUKU
+DESKRIPSI UMUM
+Buku ini disusun berdasarkan Kurikulum Tingkat Satuan Pelajaran (KTSP) 2006 untuk mata pelajaran Teknologi Informasi dan Komputer kelas XI semester 2. Pokok bahasan utama yang dibahas dalam buku ini adalah:
+ Dasar-dasar pengoperasian komputer  Fungsi dan proses kerja peralatan teknologi informasi dan komunikasi  Etika penggunaan teknologi informasi dan komunikasi  Pengenalan sistem operasi Linux  Pengelolaan file dan pengaturan periferal komputer  Pengenalan jenis-jenis perangkat lunak aplikasi.
+1. PETA KOMPETENSI
+Secara umum, buku ini mengacu pada Standar Kompetensi dan Kompetensi Dasar (SK & KD) bagi SMA seperti yang tercantum dalam tabel berikut.
+PETUNJUK PENGGUNAAN BUKU 11
+
+Standar Kompetensi Membuat dokumen menggunakan program pengolah angka (spreadsheet)
+Menggunakan Formula pada lembar kerja untuk melakukan perhitungan secara otomatis
+Menggunakan fungsi pembacaan tabel
+Menggunakan grafik untuk menyajikan data secara visual Menggunakan spreadsheet untuk mengelola database (basis data)
+
+Kompetensi Dasar
+1. Fungsi menu dan Icon 2. Layout lembar kerja 3. Rumus & Fungsi dasar 4. Mencetak dokument 5. Conversi ke dokumen PDF
+ Memasukkan formula matematika  Memasukkan fungsi statistika  Setting format angka  Menggunakan Ekspresi Logika
+ Praktik fungsi pembacaan tabel secara vertikal dan horizintal (Vlookup & Hlookup)
+ Menggabungkan fungsi pembacaan tabel dengan fungsi logika
+A. Praktik membuat grafik B. Praktik memodifikasi grafik
+1. Mengurutkan data berdasarkan model urutan A ke Z atau Z ke A
+2. Menyaring atau memfilter data 3. Menggunakan statistika databse
+
+Secara rinci, kompetensi dasar (KD) yang dibahas dalam buku ini tercantum pada tabel berikut.
+
+Kompetensi Dasar Mengenal OpenOffice.org Calc Mengenal menu dan toolbar Menangani lembar kerja Mengubah Lembar Kerja Menggunakan rumus dan fungsi Mengelola basis data Membuat data pilot dan mengelola data grafis Memproteksi dan memanipulasi lembar kerja
+
+Bab 1 1 2 2 3 4 5 6
+
+2. CARA MENGGUNAKAN BUKU
+Buku ini secara khusus ditujukan untuk siswa dan guru SMA atau yang sederajat yang mengikuti dan mengampu pembelajaran Teknologi Informasi dan Komuter (TIK). Namun demikian, buku ini juga dapat digunakan oleh pembaca umum yang berminat
+xii
+
+dalam dunia Teknologi Informasi dan Komputer. Buku ini dapat dijadikan buku pegangan siswa karena ini menyediakan bahan-bahan pelajaran yang lengkap untuk mata pelajaran TIK di tingkat SMA/MA. Beberapa bagian dari buku ini mungkin memerlukan buku-buku referensi tambahan untuk lebih memperkaya wawasan dan peningkatan kemampuan. Bagi guru, buku ini dapat digunakan sebagai referensi untuk menyusun modul-modul ajar bagi peserta didiknya. Buku ini disusun sedemikian rupa agar siswa dapat belajar secara mandiri dan terdorong untuk mencoba secara langsung. Oleh karena itu, dalam buku ini terdapat banyak ilustrasi baik yang berupa gambar, skema maupun listing program. Hal ini dimaksudkan agar siswa dapat dengan mudah memahami penjelasan ataupun penerapan mengenai suatu konsep tertentu. Untuk menguji kompetensi siswa, pada bagian akhir bab terdapat dengan soal-soal latihan yang berkaitan dengan pokok bahasan pada bab tersebut.
+PETUNJUK PENGGUNAAN BUKU 13
+
+BAB I
+MENGENAL OPENOFFICE.ORG CALC
+Standar Kompetensi
+ Menggunakan perangkat lunak pengolah angka untuk menghasilkan informasi.
+Kompetensi Dasar:
+ Mengetahui OpenOffice.org Calc sebagai program pengolah angka.  Menjalankan OpenOffice.org Calc.  Mengetahui struktur file OpenOffice.org Calc.  Mengetahui menu, toolbar, dan ikon pada OpenOffice.org Calc.  Mengetahui istilah-istilah pada OpenOffice.org Calc.  Manuver pada lembar kerja OpenOffice.org Calc.  Membuat garis pada lembar kerja.  Memperlebar dan memperkecil kolom.  Memperlebar dan memperkecil baris.  Menyimpan lembar kerja.  Menutup lembar kerja.  Membuka file yang sudah disimpan.  Keluar dari program Calc.
+A. MENGENAL PROGRAM PENGOLAH ANGKA
+Program pengolah angka (spreadsheet) adalah program aplikasi komputer yang mensimulasikan suatu lembar kerja. Program ini menayangkan sejumah sel yang secara kesatuan membentuk grid yang terdiri dari kolom dan baris. Setiap sel dapat berisi huruf teks atau angka. Sel tersebut dapat juga berisi rumus yang mendefinisikan suatu perhitungan matematis berdasarkan isi sel lain atau kombinasi dari banyak sel yang dapat di-update setiap waktu. Program pengolah angka sering digunakan untuk pengolahan data keuangan. Program ini mampu memperbarui hitungan pada seluruh sel yang ada di lembaran begitu satu sel diubah nilainya.
+MENGENAL OPENOFFICE.ORG CALC 15
+
+B. MENGENAL OPENOFFICE.ORG CALC
+
+OpenOffice.org Calc adalah salah satu jenis program pengolah angka yang bersifat open source. Program ini merupakan bagian dari perangkat lunak keluarga OpenOffice.org.
+
+OpenOffice.org (OO.o atau OOo) adalah kumpulan perangkat lunak aplikasi yang dapat dioperasikan dalam berbagai sistem operasi komputer. OpenOffice.org mendukung standar ISO OpenDocument Format (ODF) untuk pertukaran data sebagai standar format file. OpenOffice.org mampu mengenali bermacam-macam format dokumen, termasuk format Microsoft Office '97­2003. Bahkan, untuk OpenOffice.org versi 3, program ini juga mampu mengenali format dokumen Microsoft Office 2007.
+
+OpenOffice.org awalnya diturunkan dari StarOffice, sebuah kumpulan perangkat lunak yang dikembangkan oleh StarDivision yang dibeli oleh Sun Microsystems pada bulan Agustus 1999. Source code dari perangkat lunak StarOffice dilepaskan pada bulan Juli 2000 dengan maksud untuk menekan Microsoft Office dengan memberikan versi bebas, terbuka, dan berkualitas dari StarOffice.
+
+Walaupun secara informal dikenal sebagai OpenOffice, istilah ini digunakan dipatenkan oleh orang lain. Oleh karena itu, OOo yang kita kenal diberi nama OpenOffice.org.
+
+Untuk dapat menjalankan program OpenOffice.org Calc, spesifikasi komputer yang
+
+dibutuhkan adalah sebagai berikut.
+
+Prosesor
+
+: Pentium III ke atas.
+
+Sistem Operasi
+
+: Linux.
+
+Memori
+
+: minimal 64 Mbyte, di sarankan 128 Mbyte ke atas.
+
+Harddisk
+
+: 170 Mbyte ke atas.
+
+Monitor
+
+: minimal VGA (800 x 600), 256 Warna
+
+16 MENGENAL OPENOFFICE.ORG CALC
+
+C. MEMULAI OPENOFFICE.ORG CALC
+Gambar 1.1 Langkah-langkah untuk membuka program OpenOffice.org Calc OpenOffice.org Calc dapat kita akses melalui perintah Applications  Office  OpenOffice.org Spreadsheet. Mula-mula, pilihlah menu Applications, kemudian lanjutkan dengan memilih menu Office, dan akhirnya pilihlah OpenOffice.org Spreadsheet.
+MENGENAL OPENOFFICE.ORG CALC 17
+
+Gambar 1.2 Jendela OpenOffice.org Calc memperlihatkan bagian lembar kerja yang cukup besar
+Beberapa fungsi dan fasilitas Calc mirip dan kompatibel dengan sejumlah fungsi dan fasilitas yang terdapat pada Microsoft Excel. Contoh fungsi-fungsi yang sama pada kedua program pengolah angka itu antara lain adalah:
+1.fungsi logika; 2.fungsi finansial; 3.fungsi teks (string); 4.fungsi statistika; 5.fungsi database; dan 6.fungsi matematika.
+File Calc (*.ods)
+
+Sheet1
+
+Sheet2
+65.536 Baris 256 Kolom
+
+Sheet3
+
+Gambar 1.3 Struktur file OpenOffice.org Calc 18 MENGENAL OPENOFFICE.ORG CALC
+
+Sheet4
+
+D. MENGENAL MENU, TOOLBAR, DAN IKON DALAM OPENOFFICE.ORG CALC
+
+Menu Pulldown
+
+Toolbar Standard
+
+Menu Formating
+
+Pointer
+
+Baris Masukan
+
+Baris Lembar Kerja
+
+Kolom Scroll Bar
+
+Gambar 1.4 Komponen-komponen penting dalam jendela OpenOffice.org Calc
+Gambar 1.4 memperlihatkan komponen-komponen penting yang terdapat dalam jendela OpenOffice.org Calc. Beberapa menu utama, toolbar, dan ikon pada lembar kerja perlu kita kenal. Berikut adalah penjelasan tentang komponen-komponen penyusun jendela lembar kerja tersebut.
+
+MENGENAL OPENOFFICE.ORG CALC 19
+
+1. Baris Judul
+
+Gambar 1.5 Baris Judul
+
+Baris Judul terdapat pada bagian paling atas dalam jendela program. Bagian ini memuat keterangan tentang perangkat lunak yang sedang kita gunakan dan nama file yang sedang aktif. Dalam Gambar 1.4 nama perangkat lunak yang terbaca adalah OpenOffice.org Calc, sedangkan nama file yang tengah dibuka adalah Untitled1. Di ujung sebelah kanan Baris Judul terdapat tiga tombol pengaturan jendela, yaitu tombol minimized, maximized/restored, dan closed.
+
+1.Tombol Minimized ; tombol ini berfungsi untuk memperkecil tampilan lembar kerja.
+
+2.Tombol Maximized/Restore lembar kerja.
+
+; tombol ini berfungsi untuk memperbesar tampilan
+
+3.Tombol Closed ; tombol ini berfungsi untuk menutup tampilan lembar kerja.
+
+2. Menu Pulldown
+
+Gambar 1.6 Menu Pulldown Menu Pulldown berfungsi untuk menampilkan perintah pada menu File, Edit, View, Insert, Format, Tools, Data, Window, dan Help.
+3. Toolbar Standard
+
+Gambar 1.7 Toolbar Standard Toolbar Standard menampilkan sejumlah ikon untuk beberapa perintah cepat seperti menyimpan file, mencetak, dan sebagainya.
+4. Menu Formating
+Gambar 1.8 Menu Formatting Menu Formating digunakan untuk memformat huruf dan kalimat, seperti jenis huruf, ukuran huruf, huruf besar, huruf miring, garis bawah, dan masih banyak lagi.
+20 MENGENAL OPENOFFICE.ORG CALC
+
+5. Pointer
+Pointer dapat digunakan seperti mouse pada layar. Pointer dapat juga digunakan untuk memblok sebuah wilayah pada lembar kerja.
+6. Lembar Kerja
+
+Gambar 1.9 Lembar kerja
+Lembar kerja digunakan sebagai tempat untuk bekerja/menulis/menghitung. Sebuah file dapat menyimpan beberapa lembar kerja yang dapat saling berkaitan.
+7. Scroll Bar
+Scroll Bar digunakan untuk menggulung layar ke atas atau ke samping.
+E. JENIS DATA DALAM OPENOFFICE.ORG CALC
+Berdasarkan sifat-sifatnya, data dalam OpenOffice.org Calc dapat dikelompokkan ke dalam beberapa jenis data. Pengelompokan ini bertujuan untuk memudahkan OpenOffice.org Calc dalam pengidentifikasian data. Perhatikan tabel berikut.
+
+Jenis
+
+Sifat/Ciri
+
+Contoh
+
+Karakter/String/Labe Tidak dapat dilakukan operasi perhitungan l atau Alfanumerik
+
+Semua huruf, gabungan huruf dan angka. Semua angka yang diawali dengan tanda petik.
+
+Numerik Number
+
+atau Dapat dilakukan operasi perhitungan
+
+Semua angka yang ditulis secara langsung
+
+Date/Time
+
+Diawali dengan perintah DATE atau TIME. '=DATE(2008;08;17) atau
+
+Dapat dilakukan operasi perhitungan
+
+TIME(12:31:00)
+
+Formula/Rumus
+
+Ditulis pada Baris Masukan. Selalu diawali '=SUM(); =A4+G6; dsb. dengan tanda  = (sama dengan).
+
+Tabel 1.10 Macam-Macam Data dalam OpenOffice.org Calc
+F. ISTILAH DAN MANUVER PADA OPENOFFICE.ORG CALC
+
+Notasi yang sering digunakan dalam melakukan manuver pada OpenOffice.org Calc adalah sebagai berikut.
+
+ Sel, merupakan pertemuan antara kolom dan baris. Contoh sel adalah A1, B12, Z20.
+
+MENGENAL OPENOFFICE.ORG CALC 21
+
+Huruf menandakan kolom, sedangkan angka menandakan baris. Jadi, A1 merupakan sel pada kolom A dan baris 1.  Range, merupakan sekumpulan sel. Contoh range ditunjukkan dengan notasi A1:A12, artinya sekumpulan sel dari nomor A1, A2, A3, sampai dengan A12. Selain menggunakan mouse dan menggerakan scroll bar, untuk melakukan manuver pada lembar kerja, kita dapat juga menggunakan beberapa tombol yang terdapat pada papan tik (keyboard). Tabel berikut memperlihatkan pemakaian tombol-tombol tersebut.
+
+Tombol
+
+Ctrl +
+
+atau Ctrl +
+
+Enter
+
+Tab Home
+
+Ctrl + Home
+
+PgUp atau PgDn Alt + PgUp atau Alt + PgDn
+
+Kegunaan Pindah sel sesuai petunjuk panah.
+Pindah ke awal kolom A atau ke akhir kolom IV. Pindah satu sel ke bawah Pindah satu sel ke samping kanan. Pindah ke kolom A Pindah ke sel A1 Pindah satu layar ke atas atau ke bawah Pindah satu layar ke kiri atau ke kanan
+
+Tabel 1.1 Tombol Manufer dan Kegunaannya
+
+Gambar 1.11 Contoh pengisian lembar kerja OpenOffice.org Calc 22 MENGENAL OPENOFFICE.ORG CALC
+
+Berikut adalah latihan untuk menuliskan sebuah informasi pada lembar kerja. Lakukanlah secara bertahap, langkah demi langkah seperti berikut.
+4. Kliklah sel B4, kemudian tulislah "Daftar Harga". 5. Kliklah sel B5, kemudian tulislah "Toko Kelontong". 6. Kliklah sel B7, kemudian tulislah "No". 7. Kliklah sel B10, kemudian tulislah 1. 8. Lanjutkan pengisian lembar kerja seperti terlihat pada Gambar 1.10.
+Kerjakan supaya lembar kerja di atas berhasil dibuat sama dengan lembar kerja di komputer Anda. Selanjutnya, masukanlah rumus ke dalam lembar kerja agar OpenOffice.org Calc melakukan proses perhitungan. Berikut adalah langkahlangkah yang perlu Anda lakukan. 1. Kerjakan kolom "Pendapatan Kotor". 2. Kliklah F10 dan tuliskan "=". 3. Kliklah sel E10. 4. Tekanlah tombol "*". 5. Kliklah sel D10. 6. Tekanlah tombol Enter. Langkah-langkah ini menghasilkan keluaran angka 200000 pada sel F10. Anda akan melihat rumus "=E10*D10" pada Baris Masukan. 1. Kerjakan kolom "Diskon". 2. Kliklah sel G10 dan tuliskan "=". 3. Kliklah sel F10. 4. Tekanlah tombol "*". 5. Tuliskan "10%", maksudnya diskon 10%. 6. Tekan tombol Enter. Langkah-langkah di atas memberikan keluaran angka 20000 pada sel G10. Anda akan melihat rumus "=F10*0.1" pada Baris Masukan. 1. Kerjakan kolom "Pendapatan Bersih". 2. Kliklah sel H10 dan tuliskan "=". 3. Kliklah sel F10. 4. Tekanlah tombol "-". 5. Kliklah sel G10. 6. Tekan tombol Enter. Langkah-langkah ini menghasilkan keluaran angka 180000 pada sel H10. Anda akan melihat rumus "=F10-G10" pada Baris Masukan. Selanjutnya, salinlah semua rumus agar berlaku di baris 11 sampai 14. Cara yang perlu dilakukan adalah sebagai berikut. 7. Kerjakan kolom "Pendapatan Kotor"
+a. Kliklah sel F10. b. Tekanlah tombol Ctrl+C untuk mengopi rumus. c. Bloklah sel F11 sampai F14 dengan cara menggerakkan mouse dari F11
+sampai F14. d. Tekanlah tombol Ctrl+V untuk mem-paste rumus.
+MENGENAL OPENOFFICE.ORG CALC 23
+
+e. Kerjakan kolom "Diskon". f. Kliklah sel G10. g. Tekanlah tombol Ctrl+C untuk mengopi rumus. h. Bloklah sel G11 sampai G14 dengan cara menggerakkan mouse dari
+G11 sampai G14. i. Tekanlah tombol Ctrl+V untuk mem-paste rumus. 8. Kerjakan kolom "Pendapatan Bersih". a. Kliklah sel H10. b. Tekanlah tombol Ctrl+C untuk mengopi rumus. c. Bloklah sel H11 sampai H14 dengan cara menggerakkan mouse dari
+H11 sampai H14. d. Tekanlah tombol Ctrl + V untuk mem-paste rumus. Terakhir, Anda perlu menghitung "Total Pendapatan". Hal ini dapat Anda lakukan dengan menjumlahkan semua "Pendapatan Bersih" melalui perintah SUM. Langkah-langkahnya sebagai berikut. 3. Kliklah sel H15. 4. Ketik "=SUM(". 5. Bloklah sel H10 sampai H14 menggunakan mouse. 6. Ketik ")". Langkah di atas memberikan keluaran angka 585000 pada sel H15. Anda akan melihat rumus "=SUM(H10:H15)" pada Baris Masukan.
+Gambar 1.12 Hasil akhir proses perhitungan 24 MENGENAL OPENOFFICE.ORG CALC
+
+Jika Anda mengganti angka pada kolom D atau kolom E, angka yang lain akan berubah secara serentak. Hal ini yang menyebabkan OpenOffice.org Calc menjadi sangat menarik.
+G. MEMBUAT GARIS PADA TABEL KERJA
+Salah satu cara untuk mempercantik tampilan adalah membuat garis pada perhitungan yang kita buat. Teknik membuat garis tidak sukar. Ikutilah langkah-langkah berikut.
+Gambar 1.13 Memblok tabel 1. Bloklah wilayah yang akan dikonfigurasi garis pinggirnya dengan menggunakan mouse.
+Pastikan semua wilayah yang akan diset garis pinggirnya terblok dengan warna hitam.
+MENGENAL OPENOFFICE.ORG CALC 25
+
+Gambar 1.14 Memilih menu Format - Cells 2. Kliklah menu Format. 3. Pilihlah menu Cells atau tekanlah tombol Ctrl+1. 4. Kita akan diarahkan untuk masuk ke menu format sel. Kita dapat memformat
+nomor/angka yang ada pada sel, memformat huruf, hingga memproteksi sel.
+26 MENGENAL OPENOFFICE.ORG CALC
+
+Jenis Garis Pengaturan Garis
+Gambar 1.15 Kotak dialog pengaturan garis 5. Kliklah menu Format Cell. 6. Pilihlah Borders untuk mengatur pinggiran sel. 7. Pilihlah Line Arrangement agar semua pinggir sel diberi batas. 8. Pilihlah Line Style yang memiliki jenis garis yang tebal agar garis batas terlihat lebih
+jelas. 9. Kliklah OK jika proses pemilihan telah dilakukan. Anda akan melihat semua sel yang sebelumnya diblok kini mempunyai garis batas yang cukup tebal (Gambar 1.15).
+MENGENAL OPENOFFICE.ORG CALC 27
+
+Gambar 1.16 Tabel dengan garis pinggir tebal pada setiap selnya
+H. MEMPERLEBAR DAN MEMPERSEMPIT KOLOM
+Hal lain yang sering juga dilakukan adalah menyesuaikan lebar kolom sesuai kebutuhan kita. Kadang kala kita perlu memperbesar kolom, tetapi kadang kala pula kita perlu mempersempit ukuran kolom. Proses pengubahan ukuran kolom tidak sukar. Berikut adalah langkah-langkah yang dapat Anda lakukan.
+28 MENGENAL OPENOFFICE.ORG CALC
+
+Posisi Mouse Pada Batas Antar Kolom
+Gambar 1.17 Memperlebar atau mempersempit kolom 1.Letakkan mouse di baris atas pada batas antarkolom. 2.Pastikan ada tanda panah saat mouse berada di atas batas antarkolom. 3.Gerakkan mouse ke kiri atau ke kanan untuk mempersempit atau memperlebar kolom. 4.Lepaskan mouse untuk mengakhiri.
+I. MEMPERLEBAR DAN MEMPERKECIL BARIS
+Proses memperlebar atau memperkecil baris tidak jauh berbeda dengan proses memperlebar atau memperkecil kolom. Anda dapat memperlebar dan memperkecil sebuah baris dengan melakukan langkah-langkah berikut.
+MENGENAL OPENOFFICE.ORG CALC 29
+
+Posisi Mouse Pada Batas Antar Baris
+Gambar 1.18 Memperlebar atau mempersempit ukuran kolom 1.Letakkan mouse pada kolom paling kiri batas antarbaris. 2.Pastikan ada tanda panah saat mouse berada di pinggir kiri pada batas antarbaris. 3.Gerakkan mouse ke atas atau ke bawah untuk memperkecil atau memperlebar baris. 4.Lepaskan mouse untuk mengakhiri.
+J. MENYIMPAN LEMBAR KERJA
+Setelah kita bersusah payah mengerjakan pekerjaan kita, pastikan lembar kerja yang kita kerjakan dapat disimpan di komputer yang kita gunakan. Biasanya file-file yang ada disimpan dalam folder /home/namauser/Document. Untuk menyimpan lembar kerja yang kita kerjakan, langkah yang perlu kita lakukan sangat sederhana.
+30 MENGENAL OPENOFFICE.ORG CALC
+
+Gambar 1.19 Menyimpan lembar kerja
+Untuk lembar kerja baru, lakukan langkah berikut. 1.Kliklah perintah File. 2.Pilihlah perintah Save As atau kliklah Ctrl+Shift+S. Untuk lembar kerja lama dan akan disimpan ulang, lakukan langkah berikut. 1. Kliklah perintah File. 2. Pilihlah perintah Save atau Ctrl + S. Pada perintah ini, lembar kerja akan disimpan
+dengan nama file lama. Data-data pada file lama akan ditimpa oleh data yang baru. Pada proses klik Save as kita perlu memberitahukan nama file yang akan digunakan dengan menuliskannya pada menu yang tampil.
+MENGENAL OPENOFFICE.ORG CALC 31
+
+Nama File
+Jenis File
+Gambar 1.20 Mengisikan nama file pada penyimpanan file dengan perintah Save as 1. Masukkan nama file yang kita inginkan. 2. Tentukan jenis file. Default jenis file yang akan digunakan adalah .ODS
+(OpenDocument Spreadsheet). 3. Tekanlah tombol Save untuk menyimpan file ke dalam harddisk. Biasanya file tersebut
+akan masuk ke folder Documents.
+K. MENUTUP LEMBAR KERJA
+Setelah semua pekerjaan selesai dilakukan dan lembar kerja sudah disimpan dalam harddisk, kita dapat menutup lembar kerja. Hal ini dapat dilakukan melalui langkahlangkah berikut.
+32 MENGENAL OPENOFFICE.ORG CALC
+
+1. Kliklah File. 2. Pilihlah selanjutnya Close. Maka lembar kerja kita akan ditutup.
+L. MEMBUKA FILE YANG SUDAH DISIMPAN
+Gambar 1.21 Membuka file yang pernah disimpan Untuk membuka file OpenOffice.org Calc yang pernah kita gunakan dan pernah kita simpan dalam harddisk, lakukanlah langkah-langkah berikut. 1. Kliklah File. 2. Pilihlah Recent Documents. 3. Pilihlah dari daftar dokumen yang diberikan.
+MENGENAL OPENOFFICE.ORG CALC 33
+
+Kadangkala, dokumen yang ingin kita buka tidak ada dalam Recent Document. Kita perlu menggunakan cara lain untuk membaca dokumen tersebut. Berikut adalah langkah-langkah yang dapat kita lakukan.
+
+1. Kliklah File. 2. Pilihlah Open atau tekanlah Ctrl+O. 3. Melalui menu yang ada kita dapat melihat folder dan memilih file yang hendak kita
+buka.
+
+M. KELUAR DARI PROGRAM CALC
+Untuk keluar dari program OpenOffice.org Calc, caranya cukup mudah. Kita dapat menggunakan langkah-langkah berikut.
+
+1. Kliklah File. 2. Kliklah Exit atau tekanlah Ctrl+Q.
+
+N. RANGKUMAN
+ OpenOffice.org Calc adalah program open source untuk pengolah angka.  OpenOffice.org Calc dapat dijalankan dari desktop komputer dengan mengklik
+ApplicationsOfficeOpenOffice.org Spreadsheet.  OpenOffice.org Calc memiliki menu pulldown, toolbar standard, menu formating,
+pointer, baris masukan, kolom, dan baris pada lembar kerja seperti program MicrosoftN Excel.  Sel adalah pertemuan antara kolom dan baris, sedangkan range adalah sekumpulan sel.  Untuk memberi garis pada lembar kerja dapat dilakukan melalui perintah Format­ Cells.  Kolom dan baris pada lembar kerja dapat diperlebar atau dipersempit ukurannya dengan menggunakan mouse.  Untuk menyimpan dan membuka lembar kerja pada OpenOffice.org Calc dapat dilakukan melalui menu File.
+
+O. ISTILAH-ISTILAH PENTING
+
+Istilah Borders Calc Cell Close
+
+Arti Batas. Nama program pengolah kata dari OpenOffice.org. Sel pada lembar kerja. Tutup.
+
+34 MENGENAL OPENOFFICE.ORG CALC
+
+Harddisk Exit File Format Line arrangement Line style Maximized Memory Minimized Open source Prosesor Pulldown Save Sistem operasi Source code Spreadsheet Range Recent documents Restore
+
+Tempat penyimpan data pada komputer. Keluar. Berkas. Membuat pola awal atau membersihkan data/media. Pengaturan garis. Pola garis. Memaksimalkan. Memori komputer. Meminimalkan. Kode program komputer yang terbuka. Otak komputer. Menu yang dapat ditarik ke bawah. Simpan. Perangkat yang mengatur operasi komputer. Kode program komputer. Lembar kerja yang lebar. Wilayah. Dokumen yang baru. Mengembalikan.
+
+EVALUASI
+a. Soal Teori Jawablah pertanyaan-pertanyaan berikut.
+1.Mengapa OpenOffice.org Calc disebut program pengolah angka? 2.Fungsi-fungsi apa saja yang dapat dikerjakan oleh OpenOffice.org Calc? 3.Menu apa saja yang ada pada Menu Pulldown? 4.Menu apa yang perlu kita pilih untuk mengubah jenis huruf atau mengubah bentuk huruf? 5.Tanda apa yang mengawali sebuah rumus dalam sebuah sel pada Calc? 6.Apa yang membedakan sel dengan range?
+
+b. Praktik Kerjakan tugas-tugas berikut.
+1.Gambarkan struktur file OpenOffice.org Calc. 2.Buatlah lembar kerja yang berisi nama, alamat, tanggal lahir teman Anda dalam satu kelas. 3.Simpanlah berkas kerja OpenOffice.org Calc dalam format Microsoft Excel.
+
+MENGENAL OPENOFFICE.ORG CALC 35
+
+BAB II
+PENANGANAN LEMBAR KERJA
+Standar Kompetensi
+ Menggunakan perangkat lunak pengolah angka untuk menghasilkan informasi.
+Kompetensi Dasar:
+ Menyisipkan atau menambahkan lembar kerja.  Memberi nama lembar kerja.  Menghapus lembar kerja.  Mengetahui operator matematika.  Mengetahui fungsi statistik.  Mengetahui fungsi matematika.  Menyisipkan baris pada lembar kerja.  Menyisipkan kolom pada lembar kerja.  Mengubah lebar kolom dari menu Format.  Mengubah tinggi baris dari menu Format.  Melakukan perintah Undo atau tidak jadi.  Melakukan perintah Redo.  Memberi nama sel atau tabel referensi.  Menghapus sel.  Melakukan perintah menghapus baris.  Melakukan perinah menghapus kolom.
+A. MENYISIPKAN/MENAMBAHKAN LEMBAR KERJA
+Lembar kerja standar/baru pada OpenOffice.org Calc biasanya menyediakan tiga buah lembar kerja, yaitu Sheet1, Sheet2, dan Sheet3. Kadangkala kita perlu menyisipkan lembar kerja tambahan. Langkah sederhana untuk menyisipkan lembar kerja adalah sebagai berikut.
+PENANGANAN LEMBAR KERJA 37
+
+Gambar 2.1 Lembar kerja OpenOffice.org Calc 1. Kliklah menu Insert. 2. Pilihlah Sheet. Cara lain untuk menyisipkan lembar kerja baru adalah dengan melakukan klik kanan pada salah satu sheet. Setelah itu, Anda dapat memilih Insert Sheet pada menu yang muncul.
+Gambar 2.2 Menu pintas untuk menyisipkan lembar kerja baru 38 PENANGANAN LEMBAR KERJA
+
+Gambar 2.3 Kotak dialog penambahan sheet Sesudah kita memilih perintah Insert Sheet, menu untuk menambahkan Sheet akan ditampilkan. Jika kita menekan tombol OK, lembar kerja tambahan akan langsung dibuat. Kita dapat pula melakukan konfigurasi lanjutan dengan mengatur beberapa hal seperti: 1. posisi lembar kerja, apakah Before current sheet atau After current sheet; 2. jumlah lembar kerja, No of sheets; dan 3. nama lembar kerja, Name. Sesudah konfigurasi dilakukan, kita dapat menekan tombol OK. Lembar kerja tambahan akan muncul setelah kita menekan tombol OK.
+Gambar 2.4 Tambahan lembar kerja baru
+PENANGANAN LEMBAR KERJA 39
+
+B. MEMBERI NAMA LEMBAR KERJA
+Sering kali kita perlu mengubah nama lembar kerja supaya lebih mudah mengingat isinya. Teknik mengganti nama lembar kerja sangat mudah. Berikut adalah langkah-langkah yang dapat Anda ikuti.
+Gambar 2.5 Mengubah nama lembar kerja 1. Lakukan klik kanan pada lembar kerja yang ingin Anda ubah namanya. Langkah ini
+akan memunculkan menu pintas seperti terlihat pada Gambar 2.6.
+Gambar 2.6 Menu pintas untuk mengubah nama lembar kerja 2. Gambar 2.6 memperlihatkan menu Insert Sheet, Delete Sheet, Rename Sheet, Move/
+Copy Sheet, dan sebagainya. Dari antara pilihan itu, pilihlah menu Rename Sheet. 3. Pada menu Rename Sheet, ubahlah kolom Name dengan nama yang Anda inginkan. 4. Tekanlah tombol OK jika nama yang Anda kehendaki telah dimasukkan.
+Gambar 2.7 Kotak dialog pengisian nama lembar kerja 5. Perhatikan tampilan lembar kerja. Setelah tombol OK ditekan, nama lembar kerja akan 40 PENANGANAN LEMBAR KERJA
+
+berubah sesuai dengan nama yang Anda tuliskan (Gambar 2.8).
+Gambar 2.8 Hasil pengubahan nama lembar kerja
+C. MENGHAPUS LEMBAR KERJA
+Untuk menghapus lembar kerja, caranya sangat mudah. Langkah yang perlu dilakukan adalah sebagai berikut. 1. Lakukan klik kanan pada lembar kerja yang ingin dihapus. Langkah ini memunculkan
+daftar menu pintas yang berisi pilihan menu Insert Sheet, Delete Sheet, dan sebagainya (Gambar 2.9).
+Gambar 2.9 Menghapus lembar kerja PENANGANAN LEMBAR KERJA 41
+
+2. Tekanlah menu Delete Sheet. Selanjutnya, OpenOffice.org Calc akan bertanya apakah kita yakin untuk menghapus lembar kerja yang dimaksud. Pertanyaan ini diajukan sebagai proteksi supaya tidak ada kesalahan dalam proses penghapusan lembar kerja. Jika kita yakin, tekanlah tombol Yes. Lembar kerja tersebut akan dihapus oleh OpenOffice.org Calc.
+
+Gambar 2.10 Pertanyaan untuk mengonfirmasi proses penghapusan lembar kerja
+D. OPERATOR MATEMATIKA
+Dalam berbagai fungsi dan rumus, OpenOffice.org Calc menggunakan operator matematika. Tabel berikut memperlihatkan contoh pemakaian operator matematika pada perangkat lunak pengolah angka tersebut.
+
+Keterangan Tambah Kurang Kali Bagi Pangkat
+
+Matematika 5+5 5-5 5x5 10/2 102
+
+Calc 5+5 5-5 5*5 10/2 10^2
+
+Tabel 2.1 Operator Matematika Penggunaan operator matematika dapat dilihat dalam contoh sederhana berikut.
+
+Contoh: Hitunglah nilai Y berdasarkan persamaan Y = (X1 + 10)/(X2 + 20) untuk X1 dan X2 yang bernilai tertentu.
+
+Penyelesaian: 1. Petakan imajinasi kita ke Calc sebagai berikut.
+ Y adalah sel C1.  X1 adalah sel A1.  X2 adalah sel B1. 2. Ubah rumus pada soal ke dalam format penulisan rumus Calc di sel C1, yaitu = (A1 + 10) / (B1 + 20).
+
+42 PENANGANAN LEMBAR KERJA
+
+3. Kliklah sel C1. 4. Ketikkan "=(A1+10)/(B1+20)".
+Gambar 2.11 Penulisan rumus dalam OpenOffice.org Calc 5. Masukkan angka pada sel A1 dan B1. Misalnya, A1 = 20, B1 = 10. Selanjutnya,
+perhatikan nilai yang muncul pada sel C1. Secara otomatis Calc akan menghitung rumus pada sel C1 dan memberikan nilai keluaran sebesar 1.
+
+Gambar 2.12 Penggunaan rumus matematika pada Calc
+Dalam menuliskan rumus pada lembar kerja Calc, kita harus berhati-hati. Penulisan yang tidak tepat dapat menyebabkan hasil tidak muncul atau berbeda dengan rumus yang dimaksud. Berikut adalah contoh penulisan rumus yang dapat memberikan nilai keluaran yang berbeda dengan rumus =(A1+10)/(B1+20).
+ =A1+10/B1+20  =(A1+10/B1+20)  =A1+10/(B1+20)  =(A1+10)/B1+20
+
+E. FUNGSI STATISTIK
+Fungsi statistik yang sering digunakan pada OpenOffice.org Calc dapat dibaca pada tabel berikut.
+
+Fungsi SUM AVERAGE
+
+Keterangan Menjumlah data dalam satu range. Menghitung nilai rata-rata dalam satu range.
+
+PENANGANAN LEMBAR KERJA 43
+
+Fungsi MAX MIN COUNT
+
+Keterangan Menghasilkan nilai terbesar dalam satu range. Menghasilkan nilai terkecil dalam satu range. Menghitung jumlah data dalam satu range.
+
+Tabel 2.2 Fungsi Statistik dan Kegunaannya
+F. FUNGSI MATEMATIKA
+Fungsi matematika dan trigonometri yang sering digunakan pada OpenOffice.org Calc dapat dibaca pada tabel berikut.
+
+Fungsi ABS INT ROUND EVEN ROUNDOWN ROUNDUP SQRT COUNTA COUNTIF RANK MOD
+
+Kegunaan Menghasilkan nilai absolut. Membulatkan nilai ke bilangan genap terdekat. Membulatkan nilai ke bilangan desimal yang ditentukan. Membulatkan nilai ke bilangan genap terdekat ke atas. Membulatkan suatu bilangan ke bawah. Membulatkan suatu bilangan ke atas. Menghasilkan akar kuadrat. Menghitung sel tak kosong pada satu range. Menghitung jumlah data dalam suatu range menurut kriteria. Mengurutkan posisi tingkatan dari suatu bilangan. Menghasilkan sisa pembagian.
+
+Tabel 2.3 Fungsi Matematika dan Kegunaannya Untuk memberikan gambaran tentang penggunaan fungsi statistik dan matematika, ada baiknya kita memerhatikan latihan berikut. Dalam latihan ini ada sebuah daftar nilai siswa di sebuah kelas yang menggunakan kriteria:
+Nilai Akhir = 15% Nilai Ulangan 1 + 15% Nilai Ulangan 2 + 70% Nilai Ujian Akhir
+Setelah kita berhasil mengetahui Nilai Akhir semua siswa, kita dapat menghitung nilai rata-rata kelas serta mengetahui nilai tertinggi dan nilai terendahnya. Adapun daftar nilai sebelum proses perhitungan dapat kita lihat pada tampilan dalam Gambar 2.13.
+
+44 PENANGANAN LEMBAR KERJA
+
+Gambar 2.13 Daftar nilai ulangan siswa Lembar kerja pada gambar di atas menyajikan informasi nilai ulangan siswa. Lembar kerja tersebut terdiri atas sejumlah kolom yang berisi:
+1. nomor; 2. nama lengkap; 3. nilai ulangan 1; 4. nilai ulangan 2; 5. nilai ujian akhir; dan 6. nilai akhir.
+Pada bagian bawah daftar nilai terdapat baris yang nantinya akan kita isi dengan:
+1. nilai rata-rata; 2. nilai maksimum; dan 3. nilai minimum.
+Setelah semua nama, nilai ulangan, dan ujian kita masukkan, langkah selanjutnya adalah memasukkan beberapa rumus yang kita butuhkan untuk menghitung nilai akhir, nilai rata-
+PENANGANAN LEMBAR KERJA 45
+
+rata, nilai maksimum, dan nilai minimum. Adapun rumus yang dimasukkan adalah sebagai berikut.
+ Rumus untuk menghitung "Nilai Akhir". 1.Langkah-langkah yang harus dilakukan adalah sebagai berikut. 1.Kliklah sel G4. 2.Ketikkan "=15%*". 3.Kliklah sel D4. 4.Ketikkan "+15%*". 5.Kliklah sel E4. 6.Ketikkan "+70%*". 7.Kliklah sel F4. 8.Tekanlah Enter. 2.Langkah-langkah di atas akan memberikan hasil berupa sebuah nilai pada sel G4 yang merupakan "Nilai Akhir". Sementara itu, pada baris masukan akan terlihat rumus yang digunakan, yaitu "=0.15*D4+0.15*E4+0.7*F4". 3.Langkah berikutnya, kita perlu mengopikan rumus "Nilai Akhir" untuk menghitung nilai akhir siswa-siswa lain. Langkah yang perlu dilakukan adalah sebagai berikut. 1.Klikkan mouse pada sel G4. 2.Lakukan klik kanan. 3.Pilihlah menu Copy. 4.Gunakan mouse untuk memblok G5 sampai G13. 5.Lakukan klik kanan pada daerah yang diblok. 6.Pilihlah menu Paste. 4.Setelah proses mengopi rumus "Nilai Akhir" selesai, kini semua siswa sudah mempunyai nilai akhir.
+Rumus untuk menghitung "Nilai Rata-Rata". Langkah-langkah yang harus dilakukan adalah sebagai berikut. 1.Klikkan mouse pada sel G15. 2.Ketikkan "=AVERAGE(". 3.Gunakan mouse dan bloklah sel G4 sampai G13. 4.Ketikkan ")". 5.Tekanlah Enter. 6.Perhatikan sel G15. Setelah langkah-langkah di atas dilakukan, nilai rata-rata kelas dapat dibaca pada sel tersebut. Sementara itu, pada baris masukan akan tampak rumus yang digunakan, yaitu "=AVERAGE(G4:G13)".
+Rumus untuk menghitung "Nilai Tertinggi". Proses yang dilakukan sangat mirip dengan proses perhitungan nilai rata-rata kelas. Berikut adalah langkah-langkahnya. 1.Klikkan mouse pada sel G16. 2.Ketikkan "=MAX(". 3.Gunakan mouse. Bloklah sel G4 sampai G13. 4.Ketikkan ")".
+46 PENANGANAN LEMBAR KERJA
+
+5.Tekanlah Enter. Langkah-langkah di atas akan menampilkan nilai tertinggi kelas pada sel G16. Sementara itu, pada baris masukan akan tampak rumus yang digunakan, yaitu "=MAX(G4:G13)". Rumus untuk menghitung "Nilai Terendah". Proses yang dilakukan sangat mirip dengan proses perhitungan nilai rata-rata kelas. Langkah-langkahnya adalah sebagai berikut.
+1.Klikkan mouse pada sel G17. 2.Ketikkan "=MIN(". 3.Gunakan mouse. Bloklah sel G4 sampai G13. 4.Ketikkan ")". 5.Tekanlah Enter. Langkah-langkah di atas akan menampilkan nilai terendah kelas pada sel G17. Sementara itu, pada baris masukan akan tampak rumus yang digunakan, yaitu "=MIN(G4:G13)".
+Gambar 2.14 Hasil perhitungan nilai siswa dalam lembar kerja Calc Hasil akhir dari proses perhitungan tampak pada Gambar 2.14. Sekarang semua nilai akhir siswa telah terisi. Nilai rata-rata kelas, nilai maksimum, dan nilai minimum terlihat secara langsung.
+PENANGANAN LEMBAR KERJA 47
+
+G. MENYISIPKAN BARIS PADA LEMBAR KERJA
+Kadangkala kita perlu menyisipkan satu atau beberapa baris pada lembar kerja. Langkahlangkah yang perlu dilakukan adalah sebagai berikut.
+Gambar 2.15 Menyisipkan baris pada lembar kerja 1. Bloklah sel di tempat yang akan kita sisipi baris. 2. Letakkan mouse pada wilayah sel yang diblok. 3. Lakukan klik kanan hingga muncul menu Default Formatting, Format Cells, Insert,
+Delete, dan sebagainya (Gambar 2.16).
+Gambar 2.16 Menu untuk penyisipan baris 48 PENANGANAN LEMBAR KERJA
+
+4. Pilihlah menu Insert. 5. Pada empat pilihan yang muncul Shift cells down, Shift cells right, Entire row, dan
+Entire column, pilihlah Entire row. 6. Tekanlah OK.
+Gambar 2.17 Pilihan untuk menyisipkan baris
+Beberapa baris yang ditambahkan.
+Gambar 2.18 Hasil penyisipan baris pada lembar kerja Setelah proses penyisipan baris selesai dilakukan, pada lembar kerja akan tampak beberapa baris kosong yang merupakan tambahan dari langkah-langkah yang kita kerjakan.
+PENANGANAN LEMBAR KERJA 49
+
+H. MENYISIPKAN KOLOM PADA LEMBAR KERJA
+Kadangkala kita perlu menyisipkan kolom baru. Untuk menyisipkan kolom, langkahlangkah yang harus dilakukan tidak terlalu banyak. Berikut adalah contohnya.
+Gambar 2.19 Menyisipkan kolom pada lembar kerja  Klikkan mouse pada kolom yang akan kita sisipi.  Lakukan klik kanan untuk memperoleh menu Format Cells, Column Width, Insert
+Columns, Delete Columns, dan sebagainya seperti Gambar 2.20.
+Gambar 2.20 Pilihan menu untuk penyisipan kolom 50 PENANGANAN LEMBAR KERJA
+
+ Untuk menyisipkan kolom, pilihlah Insert Column. Sesudah proses penyisipan kolom selesai, kolom baru akan ditambahkan pada tempat kita melakukan Insert Column.
+Kolom yang ditambahkan
+Gambar 2.21 Hasil penyisipan kolom baru pada lembar kerja Calc
+I. MENGUBAH LEBAR KOLOM DARI MENU FORMAT
+Untuk mengubah ukuran kolom, kita dapat menggunakan mouse guna menggeser batas kolom yang hendak kita perlebar. Namun, sebagai alternatif lain kita dapat pula menggunakan menu Format dalam pengubahan lebar kolom yang kita kehendaki. Dengan cara ini kita dapat memperoleh ukuran yang lebih presisi. Berikut adalah langkah-langkah yang dapat kita lakukan. 1. Klikkan mouse pada kolom yang ingin kita ubah lebarnya. 2. Pilihlah menu Format. 3. Pilihlah Column. 4. Pilihlah Width. Langkah ini akan memunculkan menu seperti Gambar 2.22.
+PENANGANAN LEMBAR KERJA 51
+
+Gambar 2.22 Menu untuk mengatur lebar kolom 5. Masukkan lebar kolom yang kita inginkan, misalnya 4". 6. Tekanlah tombol OK. Lebar kolom akan berubah sesuai dengan yang kita kehendaki. Pada menu Format yang dilanjutkan dengan menu Column ada empat pilihan pengaturan. Tiap-tiap pilihan memiliki fungsinya masing-masing. 1. Width, untuk mengubah kolom ke lebar yang tetap seperti kita kehendaki. 2. Optimal Width, untuk mengubah kolom secara otomatis tergantung lebar informasi. 3. Hide, untuk menyembunyikan kolom. 4. Show, untuk memperlihatkan kolom.
+J. MENGUBAH TINGGI BARIS DARI MENU FORMAT
+Jika kita ingin mengubah tinggi baris, langkah yang perlu dilakukan adalah sebagai berikut. 1. Bloklah baris yang akan diubah tingginya. 2. Kliklah menu Format. 3. Kliklah pilihan Row. 4. Kliklah pilihan Height. Program Calc akan memunculkan tampilan seperti Gambar
+2.23. 5. Masukkan nilai tinggi baris yang kita inginkan.
+Gambar 2.23 Kotak dialog untuk mengubah tinggi baris 6. Tekanlah tombol OK jika kita sudah yakin.
+52 PENANGANAN LEMBAR KERJA
+
+K. FUNGSI PERINTAH UNDO/TIDAK JADI
+Saat mengedit lembar kerja, kita mungkin ingin membatalkan perintah yang baru saja kita kerjakan. Misalnya, kita tanpa sengaja menghapus data yang cukup penting, sehingga kita ingin membatalkan perintah penghapusan yang baru saja kita lakukan. Untuk proses pembatalan semacam ini, kita dapat menggunakan perintah Undo.
+Langkah meng-Undo sebuah perintah tidak terlalu sukar. Kita dapat menggunakan langkah-langkah berikut.
+1. Kliklah menu Edit. 2. Klikkan mouse pada pilihan Undo.
+Selain cara di atas, alternatif lain membatalkan perintah pada program Calc adalah dengan
+menekan tombol Ctrl+Z atau mengklik ikon Undo ( ).
+L. FUNGSI PERINTAH REDO
+Berbeda dengan Undo yang sifatnya membatalkan atau menggagalkan sebuah perintah, perintah Redo adalah perintah yang berguna untuk mengulangi perintah yang tadinya dibatalkan. Langkah untuk melakukan perintah Redo adalah sebagai berikut.
+1.Kliklah menu Edit. 2.Klikkan penunjuk mouse pada pilihan Redo.
+Selain cara di atas, untuk mengulangi perintah yang sebelumnya pernah dibatalkan, kita dapat pula melakukannya dengan menekan tombol Ctrl + Y atau mengklik ikon Redo ( ).
+M. MEMBERI NAMA SEL/TABEL REFERENSI
+Kadangkala kita perlu memberi nama sebuah sel atau tabel untuk memudahkan proses referensi pada saat perhitungan. Pemberian nama pada sebuah sel atau tabel relatif mudah. Kita dapat melakukannya melalui langkah-langkah berikut.
+1.Bloklah tabel menggunakan mouse. 2.Kliklah menu Insert. 3.Pilihlah Name. 4.Kliklah Define atau langsung gunakan tombol Ctrl+F3. 5.Masukkan nama tabel referensi yang kita inginkan pada kolom nama yang tersedia. Pastikan tidak ada spasi pada nama yang kita berikan. Jika ada spasi, biasanya menu tersebut akan menolak.
+PENANGANAN LEMBAR KERJA 53
+
+6.Jika kita telah yakin dengan nama yang kita berikan, tekanlah tombol OK yang berada di ujung kanan bawah kotak dialog tersebut.
+Gambar 2.24 Memberi nama tabel referensi
+N. MENGHAPUS SEL
+Menghapus sel yang tidak kita kehendaki caranya cukup mudah. Kita dapat melakukannya menggunakan langkah-langkah berikut. 1.Bloklah sel atau sekumpulan sel yang akan kita hapus. 2.Kliklah menu Edit. 3.Klikkan penunjuk mouse pada pilihan Delete Cells atau tekanlah tombol Ctrl+-. Langkah ini memunculkan tampilan seperti Gambar 2.25.
+Gambar 2.25 Kotak dialog untuk menghapus sel 54 PENANGANAN LEMBAR KERJA
+
+4.Pilihan default yang diberikan adalah Shift cells up. Kita dapat mengganti pilihan tersebut dengan cara mengklik pilihan yang kita kehendaki. 5.Tekanlah tombol OK jika kita telah yakin dengan pilihan yang kita inginkan.
+Arti pilihan-pilihan yang terdapat dalam kotak dialog penghapusan sel adalah sebagai berikut.
+ Shift cells up, geser sel lain ke atas untuk memenuhi sel yang dihapus.  Shift cells left, geser sel lain ke kiri untuk memenuhi sel yang dihapus.  Delete entire row(s), hapus seluruh baris dari sel tersebut.  Delete entire column(s), hapus seluruh kolom dari sel tersebut.
+O. PERINTAH MENGHAPUS BARIS
+Untuk menghapus baris, kita dapat mereka caranya dari teknik menghapus sel di atas. Berikut adalah langkah-langkahnya.
+1. Bloklah baris yang akan dihapus. 2. Kliklah menu Edit. 3. Pilihlah Delete Cells atau tekanlah tombol Ctrl+-. 4. Klikkan penunjuk mouse pada pilihan Delete entire row(s). 5. Tekanlah tombol OK untuk melaksanakan proses penghapusan.
+P. PERINTAH MENGHAPUS KOLOM
+Untuk menghapus kolom, caranya relatif sama dengan menghapus baris. Berikut adalah langkah-langkahnya.
+1.Bloklah baris yang akan dihapus. 2.Kliklah menu Edit. 3.Pilihlah Delete Cells atau tekanlah tombol Ctrl+-. 4.Klikkan penunjuk mouse pada pilihan Delete entire column(s). 5.Tekanlah tombol OK untuk melaksanakan proses penghapusan.
+PENANGANAN LEMBAR KERJA 55
+
+Q. RANGKUMAN
+ Lembar kerja standar pada OpenOffice.org Calc biasanya menyediakan tiga buah lembar kerja, yaitu Sheet1, Sheet2, dan Sheet3. Untuk menyisipkan lembar kerja baru, caranya adalah dengan mengklik menu Insert­Sheet.
+ Nama lembar kerja dapat kita ganti dengan cara mengklik kanan lembar kerja yang hendak kita ganti namanya dengan memilih menu Rename Sheet.
+ Untuk menghapus lembar kerja, caranya adalah dengan mengklik kanan dan memilih menu Delete Sheet.
+ Dalam berbagai fungsi dan rumus, OpenOffice.org Calc menggunakan operator matematika. Macam-macam fungsi antara lain adalah SUM, AVERAGE, MAX, MIN, dan COUNT.
+ Untuk menyisipkan baris/kolom pada lembar kerja dapat dilakukan melalui menu Insert.
+ Tinggi baris dapat diubah melalui menu Format­Row.  Untuk membatalkan perintah yang pernah dijalankan dapat dilakukan dengan menekan
+menu Edit­Undo atau mengklik ikon Undo. Sebaliknya, untuk menjalankan kembali perintah yang pernah dibatalkan, caranya adalah dengan menekan menu Edit­Redo atau ikon Redo.  Untuk memudahkan proses referensi pada saat perhitungan, kita dapat memberi nama sel atau tabel.  Sel yang tidak kita kehendaki dapat dihapus dengan cara mengklik menu Edit­Delete Cells atau menekan tombol Ctrl+-. Selain itu, baris dan kolom dapat pula dihapus melalui menu tersebut.
+56 PENANGANAN LEMBAR KERJA
+
+R. ISTILAH-ISTILAH PENTING
+
+Istilah Column Copy sheet Delete sheet Entire column Entire row Insert Insert sheet Move sheet Redo Rename sheet Sheet Shift cells down Shift cells right Undo Width
+
+Arti Kolom. Menyalin lembar kerja ke tempat lain. Menghapus lembar kerja. Seluruh kolom. Seluruh baris. Menyisipkan. Menyisipkan lembar kerja. Menggeser lembar kerja. Mengulang. Mengubah nama lembar kerja. Lembar kerja. Geser sel ke bawah. Geser sel ke kanan. Tidak jadi/batal. Lebar.
+
+S. EVALUASI
+
+a. Soal Teori Jawablah pertanyaan-pertanyaan berikut.
+1.Jelaskan langkah untuk menyisipkan lembar kerja. 2.Tulisan rumus Y sama dengan X kuadrat ditambah 10 dalam notasi matematika biasa maupun notasi Calc. 3.Bagaimana cara menyisipkan baris pada lembar kerja? 4.Apa yang dimaksud dengan perintah UNDO dan REDO? 5.Jika kita menghapus sebuah sel, apa yang terjadi dengan sel yang berada di bawahnya? Bagaimana juga kondisi sel yang ada di sebelah kanannya? 6.Terangkan cara membuat tabel referensi.
+b. Praktik Kerjakan tugas-tugas berikut.
+1.Sisipkan 5 lembar kerja sesudah lembar kerja yang pertama (Sheet1). 2.Hitunglah nilai rata-rata, nilai tertinggi, dan nilai terendah sebuah kelas yang mempunyai nilai 60, 67, 70, 40, 70, 80, 95, 67, dan 70.
+
+PENANGANAN LEMBAR KERJA 57
+
+3.Hitunglah nilai Y sebagai fungsi Cosinus X dengan X adalah bilangan dari 0 sampai 1 dengan spasi 0.05. 4.Buatlah tabel usia semua teman sekelasmu. Hitunglah rata-rata usia mereka, usia minimum, dan usia maksimumnya. 5.Buatlah tabel jarak rumah ke sekolah untuk semua siswa yang ada di kelas. Hitunglah rata-rata jarak tempuh, jarak minimum, dan jarak maksimum berdasarkan data yang terkumpul.
+58 PENANGANAN LEMBAR KERJA
+
+BAB III
+MENGGUNAKAN RUMUS DAN FUNGSI
+
+Standar Kompetensi
+ Menggunakan perangkat lunak pengolah angka untuk menghasilkan informasi.
+Kompetensi Dasar:
+ Mengetahui penerapan rumus dan fungsi.  Mengetahui penerapan fungsi string.  Mengetahui penerapan fungsi logika IF.  Mengetahui penerapan fungsi khusus HLOOKUP dan VLOOKUP.  Melakukan pemberian catatan atau komentar pada sel.  Menghapus catatan dan komentar.
+
+A. PENERAPAN RUMUS DAN FUNGSI
+
+Kali ini kita akan mencoba mengembangkan pengetahuan kita untuk menerapkan rumus menggunakan fungsi-fungsi matematika yang ada dalam OpenOffice.org Calc.
+
+Perlu kita sadari bersama bahwa pengertian rumus dan fungsi berbeda cukup jauh. Rumus adalah sekumpulan fungsi matematika yang berada dalam sebuah sel. Sementara itu, fungsi adalah berbagai operator matematika yang dapat digunakan dalam rumus.
+
+Beberapa fungsi yang akan dibahas dalam bab ini antara lain adalah:
+
+1.fungsi string; 2.fungsi khusus 3.fungsi logika 4.fungsi statistik.
+
+(HLOOKUP dan VLOOKUP); (IF); dan
+
+Tabel berikut memperlihatkan beberapa simbol matematika yang akan sangat membantu dalam proses penulisan rumus.
+
+MENGGUNAKAN RUMUS DAN FUNGSI 59
+
+Simbol = ^ / * + ; , ( )
+
+Kegunaan Digunakan paling depan sebelum memasukkan rumus. Simbol operasi pangkat. Simbol operasi pembagian. Simbol operasi perkalian. Simbol operasi penambahan. Simbol operasi pengurangan. Simbol pembatas antar-rumus. Simbol pembatas antar-rumus. Simbol awal kumpulan rumus. Simbol akhir kumpulan rumus.
+
+Tabel 3.1 Simbol Matematika dalam Penulisan Rumus pada OpenOffice.org.Calc
+B. PENERAPAN FUNGSI STRING
+Fungsi string adalah fungsi yang digunakan untuk mengolah kata-kata atau huruf dalam kalimat yang kita masukkan dalam sel. Beberapa fungsi string yang sering digunakan adalah sebagai berikut.
+
+Fungsi Left(teks, n) Right(teks, n) Mid(teks, posisi awal, n) Lower(teks) Upper(teks)
+
+Kegunaan Mengambil n huruf dari kiri Mengambil n huruf dari kanan Mengambil n huruf dari posisi tertentu Menjadikan huruf kecil semua Menjadikan huruf besar semua
+
+Tabel 3.2 Fungsi String dan Kegunaannya
+Agar lebih memahami penggunaan fungsi string, ada baiknya kita melakukan latihan. Buatlah pada lembar kerja OpenOffice.org Calc seperti dalam Gambar 3.1.
+
+60 MENGGUNAKAN RUMUS DAN FUNGSI
+
+Gambar 3.1 Pemakaian fungsi String Berikut adalah latihan pemakaian fungsi string Left.
+1. Kliklah sel D5. 2. Tuliskan "=Left(". 3. Kliklah sel B5. 4. Tuliskan tombol titik koma ";". 5. Kliklah sel C5. 6. Tuliskan kurung tutup ")". 7. Tekanlah tombol Enter. Langkah-langkah di atas menghasilkan keluaran pada sel D5. Dalam contoh adalah "komp". Selanjutnya, salinlah rumus D5 ke sel di bawahnya dengan cara berikut. 8. Kliklah sel D5. 9. Tekanlah tombol Ctrl+C untuk melakukan penyalinan. 10. Bloklah sel di bawah sel D5 (dalam hal ini sel D6 dan D7). 11. Tekanlah tombol Ctrl+V, untuk mem-paste. Hasil yang akan diperoleh terlihat seperti Gambar 3.2.
+MENGGUNAKAN RUMUS DAN FUNGSI 61
+
+Gambar 3.2 Hasil pemakaian fungsi String "Left"
+Selanjutnya, kita akan melakukan latihan untuk pemakaian fungsi string Right. Pada dasarnya, langkah-langkah yang dilakukan tidaklah jauh berbeda jauh dengan sebelumnya. Berikut adalah langkah-langkah yang dapat Anda lakukan.
+1. Kliklah sel D11. 2. Tuliskan "=Right(". 3. Kliklah sel B11. 4. Tuliskan tombol titik koma ";". 5. Kliklah sel C11. 6. Tuliskan kurung tutup ")". 7. Tekanlah tombol Enter. Langkah-langkah di atas memberikan keluaran pada sel D11, yaitu "uter". Setelah itu, salinlah rumus D11 ke sel di bawahnya dengan cara berikut. 1.Kliklah sel D11. 2.Tekanlah tombol Ctrl+C untuk melakukan penyalinan. 3.Bloklah sel di bawah sel D11, yaitu sel D12 dan D13. 4.Tekanlah tombol Ctrl+V untuk mem-paste. Hasil yang akan diperoleh adalah sebagai berikut.
+Gambar 3.3 Hasil pemakaian fungsi String "Right"
+Selanjutnya, kita akan melakukan latihan menggunakan fungsi String Mid. Langkahlangkah yang harus dilakukan juga tidak berbeda jauh dengan sebelumnya. Berikut adalah langkah-langkah itu selengkapnya.
+1.Kliklah sel E17. 2.Ketiklah "=Mid(". 3.Klik sel B17. 4.Ketiklah tombol titik koma ";". 5.Kliklah sel C17. 6.Ketiklah tombol titik koma ";". 7.Kliklah sel D17. 8.Ketiklah kurung tutup ")". 9.Tekan tombol Enter.
+62 MENGGUNAKAN RUMUS DAN FUNGSI
+
+Latihan di atas menghasilkan keluaran pada sel E17 (dalam contoh adalah "p"). Selanjutnya, kopikan rumus E17 ke sel di bawahnya dengan cara berikut.
+1.Kliklah sel E17. 2.Tekanlah tombol Ctrl+C untuk melakukan penyalinan. 3.Bloklah sel di bawahnya (dalam hal ini E18 dan E19). 4.Tekanlah tombol Ctrl+V, untuk mem-paste. Hasil yang akan diperoleh adalah sebagai berikut.
+Gambar 3.4 Contoh pemakaian fungsi String Mid
+C. PENERAPAN FUNGSI LOGIKA IF
+Kadangkala kita membutuhkan kemampuan untuk melakukan tes secara logika, misalnya untuk menentukan sebuah kondisi benar atau salah. Fungsi untuk melakukan tes secara logika adalah IF. Sebuah tes logika dapat pula diikuti secara bersamaan dengan fungsi logika lainnya, seperti AND, OR, atau NOT.
+Format logika IF sangat sederhana, yaitu:
+= IF(test;nilai jika benar;nilai lainnya) = IF(A1>10; "A lebih besar dari 10"; "A lebih kecil dari 10")
+ test--persamaan untuk melakukan pengujian; misalnya apakah A > 10 atau B = Benar?
+ nilai jika benar--nilai atau kalimat yang akan ditampilkan/diberikan jika benar.  nilai lainnya--nilai atau kalimat yang akan ditampilkan/diberikan jika tidak benar.
+Untuk lebih jelasnya, ada baiknya kita memperhatikan latihan berikut. Skenario yang dibuat dalam latihan ini adalah sebagai berikut.
+1.Membuat daftar nilai sebuah kelas. 2.Nilai Akhir = 10%, Ulangan 1 + 10%, Ulangan 2 + 15%, Praktikum + 65%, Ulangan Umum. 3.Kelulusan harus di atas nilai 65. 4.Siswa kelas dirangking berdasarkan Nilai Akhir yang dicapai.
+Contoh tabel nilai yang belum di proses tampak pada Gambar 3.5.
+MENGGUNAKAN RUMUS DAN FUNGSI 63
+
+Gambar 3.5 Membuat daftar nilai
+Proses yang pertama kali dilakukan adalah menghitung nilai akhir masing-masing siswa. Hal ini dilakukan melalui langkah-langkah berikut.
+1.Klikkan mouse pada sel G4. 2.Ketiklah "=10%*". 3.Klikkan mouse pada sel C4. 4.Ketiklah "+10%*". 5.Kliklah sel D4. 6.Ketik "+15%*". 7.Klikkan mouse pada sel E4. 8.Ketiklah "+65%*". 9.Klikkan mouse pada sel F4. 10.Tekanlah tombol Enter.
+Latihan di atas menghasilkan keluaran nilai 64.6 pada sel G4. Pada baris masukan akan tampak rumus =0.1*C4+0.1*D4+0.15*E4+0.65*F4. Kita perlu mengopikan rumus tersebut ke sel di bawahnya melalui langkah-langkah berikut.
+ Klikkan mouse pada sel G4.  Tekanlah tombol Ctrl+C untuk mengopi rumus.  Bloklah sel G5 sampai G14 menggunakan mouse.  Tekanlah tomblol Ctrl+V untuk mem-paste rumus.
+Sekarang semua nilai akhir semua siswa akan tampil seperti Gambar 3.6.
+64 MENGGUNAKAN RUMUS DAN FUNGSI
+
+Gambar 3.6 Hasil pembuatan daftar nilai siswa Langkah selanjutnya adalah menentukan siswa yang lulus dan yang tidak lulus. Hal ini dilakukan menggunakan fungsi logika IF. Berikut langkah-langkah yang perlu dilakukan.
+1.Klikkan mouse pada H4. 2.Ketiklah "=IF(". 3.Klikkan mouse pada sel G4. 4.Ketiklah ">65;"LULUS";"GAGAL")" 5.Tekanlah tombol Enter. Pada sel H4 akan keluar hasil "GAGAL", sedangkan pada baris masukan akan tampak rumus "=IF(G4>65;"LULUS";"GAGAL"). Kita perlu mengcopi rumus tersebut ke sel di bawahnya. Hal ini dapat dilakukan menggunakan langkah-langkah berikut. 1.Klikkan mouse pada sel H4. 2.Tekanlah tombol Ctrl+C untuk mengopi rumus. 3.Bloklah sel H5 sampai H14 menggunakan mouse. 4.Tekanlah tomblol Ctrl+V untuk mem-paste rumus. Sekarang tertulis dengan jelas siswa mana yang LULUS dan mana yang GAGAL seperti tampak pada Gambar 3.7.
+MENGGUNAKAN RUMUS DAN FUNGSI 65
+
+Gambar 3.7 Penggunaan fungsi logika IF untuk menentukan status kelulusan siswa Langkah selanjutnya adalah menentukan rangkinng siswa berdasarkan nilai yang di peroleh. Hal ini dilakukan menggunakan fungsi RANK berikut,
+1.Klikkan mouse pada I4. 2.Ketik "=RANK(". 3.Klikkan mouse pada sel G4. 4.Ketik ";". 5.Bloklah sel G4 sampai G14 menggunakan mouse. 6.Ketik ")". 7.Tekanlah tombol Enter. Pada sel I4 akan keluar rangking hasil perhitungan, sedangkan pada baris masukan akan tampak rumus "=RANK(G4;G4:G14). Kita perlu menuliskan rumus tersebut satu per satu untuk sel I5 sampai dengan I14 karena tidak mungkin dikopi begitu saja. Hasil yang akan diperoleh dari ranking tampak pada Gambar 3.8.
+66 MENGGUNAKAN RUMUS DAN FUNGSI
+
+Gambar 3.8 Hasil pemeringkatan nilai siswa dengan fungsi Rank
+D. PENERAPAN FUNGSI KHUSUS (HLOOKUP DAN VLOOKUP)
+Ada dua fungsi yang menarik untuk digunakan dalam OpenOffice.org Calc, yaitu HLOOKUP dan VLOOKUP.
+1. HLOOKUP; fungsi ini untuk melihat tabel secara horizontal. 2. VLOOKUP; fungsi ini untuk melihat tabel secara vertikal.
+Fungsi melihat tabel ini menjadi penting karena sangat membantu dalam berbagai perhitungan. Dengan memanfaatkan kedua fungsi itu, kita cukup mengubah nilai/isi tabel referensi saja, tanpa perlu mengubah seluruh data yang ada.
+Format lebih detail untuk fungsi HLOOKUP dan VLOOKUP adalah sebagai berikut.
+= VLOOKUP(lookup_value;table_array;col_index_number;range_lookup)
+Berikut adalah contoh tabel untuk VLOOKUP.
+
+Kode C1 P2
+
+Barang CD Playstation Mesin Playstation
+
+500 50000
+
+Harga
+
+Tabel 3.3 Contoh Tabel VLOOKUP
+
+MENGGUNAKAN RUMUS DAN FUNGSI 67
+
+= HLOOKUP(lookup_value;table_array;row_index_number;range_lookup) Contoh tabel untuk HLOOKUP adalah sebagai berikut.
+
+Kode Barang Harga
+
+C1 CD Playstation 500
+
+P2 Mesin Play Station 50000
+
+Tabel 3.4 Contoh Tabel HLOOKUP
+Pada latihan berikut kita akan mencoba sebuah skenario rental playstation dengan kriteria berikut.
+1.Jenis sewa, tarif sewa/hari akan menggunakan fungsi HLOOKUP danVLOOKUP. 2.Lama sewa, tanggal pengembalian dikurangi oleh tanggal peminjaman. 3.Denda merupakan fungsi logika, dengan ketentuan: 4.Lama sewa kelebihan 3 hari, dikenakan denda Rp2.000,00/hari. 5.Lama sewa kelebihan 7 hari, dikenakan denda Rp7.000,00/hari. 6.Jumlah pembayaran, lama sewa dikalikan tarif ditambah denda.
+Contoh isian rental playstation adalah sebagai berikut.
+
+Gambar 3.9 Contoh isian rental playstation Langkah untuk melakukan perhitungan untuk menghitung lama penyewaan, tarif, denda, dan jumlah sewa yang harus dibayarkan adalah sebagai berikut.
+Jenis barang yang disewa dapat diperoleh menggunakan VLOOKUP sebagai berikut.
+68 MENGGUNAKAN RUMUS DAN FUNGSI
+
+ Kliklah sel C4.  Ketiklah "=VLOOKUP(B4;".  Bloklah sel A15 sampai B16.  Ketiklah ";2;0)" atau ";2;FALSE)".  Tekanlah tombol Enter. Langkah-langkah di atas menghasilkan keluaran "CD Play Station" pada sel C4. Pada baris masukan akan tampak rumus =VLOOKUP(B4;A15:B16;2;0). Lakukan hal yang sama untuk sel C5 sampai dengan C10 atau kopikan rumus di sel C4 untuk sel C5 sampai C10.
+Lama waktu penyewaan dapat diperoleh dengan cara berikut. 1. Kliklah sel F4. 2. Ketiklah "=". 3. Kliklah sel E4. 4. Ketiklah "-". 5. Kliklah sel D4. 6. Tekanlah tombol Enter. Pada sel F4 akan tampak angka "2". Artinya, waktu penyewaan adalah dua hari. Pada baris masukan akan tampak rumus "=E4-D4". Lakukan hal yang sama untuk sel F5 sampai F10 atau kopikan rumus di sel F4 untuk sel F5 sampai F10.
+Tarif yang harus dibayar dapat dihitung menggunakan cara berikut.  Klikkan mouse pada sel G4.  Ketiklah "=HLOOKUP(B4;".  Bloklah sel F14 sampai sel G16.  Ketiklah ";3;FALSE)" atau ";3;0)".  Tekanlah tombol Enter. Pada sel G4 akan tampak "500" yang artinya tarif sewa CD Playstation adalah Rp500,00/hari. Pada baris masukan akan tampak rumus =HLOOKUP(B4;F14:G16;3;0). Lakukan hal yang sama untuk sel G5 sampai G10 atau kopikan rumus pada sel G4 untuk sel G5 sampai G10.
+Denda agak rumit perhitungannya. Secara matematis, rumus yang digunakan adalah:
+jika (3 hari< Lama Sewa < 7 hari), maka Denda = Lama Sewa x 2000; dan jika Lama Sewa > 7 hari, maka Denda = Lama Sewa x 7000.
+Implementasi pada lembar kerja dapat dilakukan sebagai berikut.
+1. Kliklah sel H4. 2. Ketiklah "=IF(". 3. Kliklah sel F4. 4. Ketiklah ">7;7000;IF(".
+MENGGUNAKAN RUMUS DAN FUNGSI 69
+
+5. Kliklah sel F4. 6. Ketiklah ">3;2000;0))". 7. Tekanlah tombol Enter. Pada sel H4 akan tampak "0", artinya tidak didenda. Sementara itu, pada baris masukan akan tampil rumus =IF(F4>7;7000;IF(F4>3;2000;0)). Kopikan rumus dari sel H4 ke sel H5 sampai dengan H10. Setelah semua nilai dihitung, yang terakhir perlu dihitung adalah jumlah sewa beserta denda yang perlu dibayarkan.  Kliklah sel I4.  Ketiklah "=".  Kliklah sel F4.  Ketiklah "*".  Kliklah sel G4.  Ketiklah "+".  Kliklah sel F4.  Ketiklah "*".  Kliklah sel H4.  Tekanlah tombol Enter. Pada sel I4 akan tampak "1000", artinya ongkos sewa yang harus dibayar adalah Rp1.000,00. Sementara itu, pada baris masukan akan tampil rumus =F4*G4+F4*H4. Kopikan rumus dari sel I4 ke sel I5 sampai dengan I10. Hasil akhir dari perhitungan rental playstation yang kita lakukan akan tampak pada Gambar 3.10.
+Gambar 3.10 Perhitungan rental playstation
+70 MENGGUNAKAN RUMUS DAN FUNGSI
+
+E. MEMBERIKAN CATATAN (KOMENTAR) PADA SEL
+Untuk memberikan catatan/komentar pada sebuah sel, kita dapat melakukannya dengan menggunakan perintah InsertNote. Berikut adalah contoh langkah-langkah yang dapat dilakukan untuk memberikan komentar pada tabel nilai kelas yang dibuat di atas.
+1. Klikkan mouse pada sel H4. 2. Pilihlah Insert. 3. Pilihlah Note. 4. Pada tampilan/kolom Note kita dapat memasukan komentar yang dimaksud.
+Gambar 3.11 Pemberian catatan/komentar pada suatu sel
+F. MENGHAPUS CATATAN DAN KOMENTAR
+Catatan dan komentar yang kita buat dapat dengan mudah dihapus. Langkah sederhana untuk menghapus catatan adalah sebagai berikut. 1.Klikkan mouse pada sel yang ada catatan/komentarnya. 2.Kliklah menu Edit. 3.Klikkan mouse pada menu Delete Content. Tampilannya di layar terlihat seperti Gambar 3.12. 4.Pastikan hanya Notes yang dicentang. 5.Tekanlah tombol OK untuk menghapus catatan dan komentar.
+MENGGUNAKAN RUMUS DAN FUNGSI 71
+
+Gambar 3.12 Penghapusan komentar melalui menu Delete Contents
+F. RANGKUMAN
+ OpenOffice.org Calc menyediakan fasilitas perhitungan matematis menggunakan rumus dan fungsi.
+ Contoh fungsi string adalah Left, Right, Mid, Lower, dan Upper.  Contoh fungsi logika adalah IF.  Contoh fungsi khusus adalah HLOOKUP dan VLOOKUP.  Untuk memberikan catatan/komentar pada sebuah sel, kita dapat melakukannya dengan
+menggunakan perintah InsertNote.
+
+G. ISTILAH-ISTILAH PENTING
+
+Daftar Istilah Delete Content Note String
+
+Arti Buang isi. Catatan. Rangkaian huruf atau karakter.
+
+H. EVALUASI
+a. Soal Teori Jawablah pertanyaan-pertanyaan berikut.
+1.Jelaskan tentang fungsi string. Apa yang dapat dilakukan menggunakan fungsi string? 2.Jelaskan tentang fungsi logika IF. 3.Jelaskan fungsi-fungsi statistik pada OpenOffice.org Calc. 4.Dapatkah kita membuat lebih dari satu komentar pada sebuah sel?
+
+72 MENGGUNAKAN RUMUS DAN FUNGSI
+
+b. Praktik Kerjakan tugas-tugas berikut.
+1. Buatlah tabel yang berisi nama lengkap semua teman sekelasmu. Gunakan fungsi string pada kolom selanjutnya agar memperoleh cuplikan 5 huruf pertama dari nama teman sekelasmu.
+2. Buatlah tabel yang berisi tanggal lahir semua teman sekelasmu. Pada kolom selanjutnya, hitunglah umur mereka dengan cara mengurangi tanggal hari ini dengan tanggal lahir.
+3. Dari tabel umur teman sekelasmu, gunakan fungsi logika IF untuk mengisi kolom selanjutnya. Jika usia lebih kecil daripada 17 tahun, ditulis "Belum Dewasa", sementara yang lainnya ditulis "Sudah Dewasa".
+MENGGUNAKAN RUMUS DAN FUNGSI 73
+
+BAB IV
+MENGELOLA BASIS DATA
+Standar Kompetensi
+ Menggunakan perangkat lunak pengolah angka untuk menghasilkan informasi.
+Kompetensi Dasar:
+ Mengetahui basis data pada OpenOffice.org Calc.  Menggunakan fasilitas Data Sort.  Menggunakan fasilitas Data Filter.  Menggunakan fasilitas Validasi Data.  Menggunakan fasilitas Subtotal.
+A. PENGERTIAN BASIS DATA
+Calc mempunyai fungsi untuk melakukan manajemen pengelolaan basis data model relasional. Basis data dibangun menggunakan struktur kolom dan baris. Field basis data dibangun pada kolom-kolom Calc. Sementara itu, Record basis data dibangun pada barisbaris Calc. Beberapa fungsi basis data Calc yang banyak digunakan dalam proses pengolahan data adalah:
+1. Data Sort; 2. Data Filter; 3. Validasi Data; dan 4. Subtotal.
+B. MENGGUNAKAN FASILITAS DATA SORT
+Fasilitas data sort digunakan untuk mengurutkan data mengacu pada Field yang kita inginkan. Untuk memperlihatkan proses pengurutan data, kita akan membuat data berikut yang berisi Nama, Kota, Tanggal Lahir, dan Umur. Tanggal lahir ditulis menggunakan format bulan/tanggal/tahun dalam bentuk angka agar Calc mengenali bahwa yang kita masukkan adalah tanggal.
+MENGELOLA BASIS DATA 75
+
+Gambar 4.1 Penulisan data tanggal pada lembar kerja Calc Pada Gambar 4.1, perhitungan umur dilakukan secara otomatis dari informasi tanggal lahir menggunakan langkah berikut.
+1.Kliklah sel D2. 2.Ketiklah "=YEARS(". 3.Kliklah sel C2. 4.Ketiklah ";TODAY();1)".
+Secara otomatis, Calc akan memperlihatkan umur (dalam satuan tahun). Sementara itu, pada baris masukan diperlihatkan rumusnya, yaitu "=YEARS(C2:TODAY();1)". Seperti yang sudah-sudah, rumus pada sel D2 perlu dikopi ke sel D3 sampai D14. Perhatikan baik-baik bahwa pada bagian paling atas atau pada baris pertama, kita menuliskan nama Field dan bukan Record atau data. Berikut adalah langkah-langkah sederhana untuk mengurutkan data agar berurut sesuai dengan usia dari yang paling tua ke yang paling muda.
+1.Klikkan mouse pada sembarang sel. 2.Pilih Data. 3.Pilih Sort. 4.Pada menu yang ditampilkan, pilihlah Sort By UMUR agar tabel berurut berdasarkan umur. 5.Pilihlah salah satu antara Ascending (Naik) atau Decending (turun). 6.Tekanlah tombol OK.
+76 MENGELOLA BASIS DATA
+
+Gambar 4.2 Mengurutkan berdasar umur Setelah tombol OK ditekan, maka tabel yang kita miliki akan berubah dan sekarang urutan akan berdasarkan umur. Perhatikan bahwa NAMA, KOTA, dan TGL LAHIR akan turut mengurut mengikuti UMUR.
+Gambar 4.3 Hasil pengurutan berdasarkan umur MENGELOLA BASIS DATA 77
+
+C. MENGGUNAKAN FASILITAS DATA FILTER
+Kadangkala kita ingin memfilter atau menyaring data berdasarkan kriteria tertentu. Hal ini dapat dengan mudah dilakukan menggunakan fasilitas Data Filter yang tersedia dalam Calc.Sebagai contoh, kita ingin memfilter data yang ada berdasarkan kota dari setiap anggota. Langkah yang perlu dilakukan adalah sebagai berikut.  Klikkan mouse pada sembarang sel dalam data.  Kliklah menu Data.  Pilihlah Filter.  Pilihlah Auto Filter. Langkah di atas memberikan hasil seperti Gambar 4.4.
+Gambar 4.4 Pemakaian Auto Filter Jika kita mengklik anak panah yang ada di sebelah Field, kita dapat mengaktifkan pilihan Filter yang ada. Perhatikan Gambar 4.5.
+Gambar 4.5 Pilihan Filter 78 MENGELOLA BASIS DATA
+
+Jika Filter yang dipilih adalah "Jakarta", lembar kerja hanya akan menampilkan data yang termasuk dalam kategori kota "Jakarta" saja.
+Gambar 4.6 Tampilan data yang diperoleh dengan filter Jakarta Teknik Auto Filter yang mungkin akan menarik adalah untuk mencari anggota yang mempunyai umur lebih muda daripada 40 tahun. Cara yang perlu dilakukan tidak terlalu sukar, yaitu sebagai berikut.
+1.Klikkan mouse pada sembarang sel dalam data. 2.Kliklah menu Data. 3.Pilihlah Filter. 4.Pilihlah Auto Filter. 5.Kliklah anak panah yang terdapat di sebelah Field. Pada pilihan Filter yang tampak, pilihlah Standard Filter.
+Gambar 4.7 Pilihan Filter Langkah di atas memunculkan jendela pengaturan Standard Filter (Gambar 4.8).
+MENGELOLA BASIS DATA 79
+
+Gambar 4.8 Penyaringan data dengan Standard Filter 6.Pilihlah Field name  UMUR. 7.Pilihlah Condition  "<". 8.Pilihlah Value "40" (Gambar 4.8). Setelah kita menekan tombol OK, lembar kerja akan berubah. Kali ini lembar kerja hanya menampilkan data yang berumur kurang dari 40.
+Gambar 4.9 Penyaringan yang memberikan informasi nama-nama yang berumur di bawah 40 tahun
+D. MENGGUNAKAN FASILITAS VALIDASI DATA
+Salah satu fasilitas yang sangat membantu dalam proses pemasukan data adalah fasilitas untuk mengecek dan memvalidasi data. Sebagai contoh, kita menghendaki data yang masuk harus memenuhi syarat tertentu seperti:
+1.umur yang diizinkan harus di atas 17 tahun; 2.gaji bulanan harus di atas Upah Minimum Regional (UMR); dan sebagainya. Kondisi-kondisi di atas dapat kita masukan dalam lembar kerja untuk memvalidasi data yang di masukkan. Jika data yang dimasukan salah, fasilitas validasi data akan memberitahukan kesalahan yang kita buat. Sebagai contoh, mari kita lihat sebuah lembar kerja berisi nama, kota, dan gaji pada Gambar 4.10.
+80 MENGELOLA BASIS DATA
+
+Gambar 4.10 Lembar kerja berisi data nama, kota, dan gaji Yang akan dilakukan di sini adalah memvalidasi bahwa tidak ada orang yang memperoleh gaji di bawah upah minimum. Misalnya, upah minimum yang ditentukan pemerintah adalah Rp500.000,00/bulan. Langkah yang perlu dilakukan untuk melakukan validasi tersebut adalah sebagai berikut.  Bloklah data Gaji menggunakan mouse. Kemudian, lakukan klik kanan agar kolom
+dengan nilai gaji terblok.
+Gambar 4.11 Memblok data pada kolom Gaji  Kliklah menu Data.  Pilihlah Validity (Validasi).
+MENGELOLA BASIS DATA 81
+
+Gambar 4.12 Jendela pengaturan Validity  Pastikan menu Criteria pada jendela validasi ditampilkan pada layar.  Pilihlah AllowDecimal.  Hilangkan tanda centang pada Allow blank cells.  Pilihlah Datagreater than or equal to.  Masukkan Minimum500000. Arti langkah di atas adalah untuk mengecek apakah ada angka yang di bawah 500.000. Asumsi upah minimum adalah 500.000.
+82 MENGELOLA BASIS DATA
+
+Gambar 4.13 Menu Error Alert pada jendela Validity  Pada menu Error Alert divalidasi. Pastikan kita memilih Action  "Stop". Pada
+bagian Error message kita dapat menuliskan keterangan "Gaji harus di atas Upah Minimum Regional Rp. 500.000/bulan".  Jika kita memasukan angka di bawah 500.000 dalam kolom gaji, kita akan melihat keterangan yang memberitahukan bahwa gaji harus di atas UMR (Gambar 4.14).
+Gambar 4.14 Keterangan untuk masukan data di bawah 500.000
+E. MENGGUNAKAN FASILITAS SUBTOTAL
+Pada saat membuat anggaran, kita perlu menghitung jumlah sebagian dari total pengeluaran (subtotal). Tujuan pemakaian subtotal adalah untuk melihat pengeluaran tiap-
+MENGELOLA BASIS DATA 83
+
+tiap bagian. Logika subtotal relatif sederhana, yaitu: 1. urutkan lembar kerja berdasarkan jenis/kelompok yang kita inginkan; dan 2. lakukan perhitungan subtotal dari menu Data dan Subtotals. Contoh lembar kerja sebuah acara perkawinan di desa yang akan dihitung subtotalnya adalah sebagai berikut.
+Gambar 4.15 Lembar kerja anggaran acara perkawinan Langkah yang diperlukan untuk menghitung subtotal adalah sebagai berikut.  Urutkan data berdasarkan kelompok pengeluaran yang terdapat dalam kolom BAGIAN.  Pilih menu Data.  Pilih Sort berdasarkan Field yang kita kehendaki. Field dalam contoh yang dibuat
+adalah BAGIAN.
+Gambar 4.16 Hasil pengurutan kolom BAGIAN 84 MENGELOLA BASIS DATA
+
+ Klikkan mouse pada sembarang sel pada lembar kerja kita.  Kliklah menu Data.  Pilihlah Subtotals. Langkah ini menghasilkan keluaran berupa tampilan untuk
+mengonfigurasi subtotal.  Pastikan kita memilih Group byBAGIAN.  Centanglah pilihan pada bagian Calculate subtotals for  BIAYA.  Pilihlah Use function  Sum.
+Gambar 4.17 Pengaturan pada jendela Subtotals  Tekanlah tombol OK. Langkah ini akan menampilkan hasil perhitungan subtotal untuk
+lembar kerja.
+MENGELOLA BASIS DATA 85
+
+Gambar 4.18 Hasil perhitungan Subtotal pada anggaran acara perkawinan
+
+F. RANGKUMAN
+1. Calc mempunyai fungsi untuk melakukan manajemen pengelolaan basis data model relasional. Basis data dibangun menggunakan struktur kolom dan baris.
+2. Fasilitas data sort digunakan untuk mengurutkan data mengacu pada Field yang kita inginkan.
+3. Untuk menyaring data berdasarkan kriteria tertentu kita dapat menggunakan fasilitas Data Filter.
+4. Fasilitas Calc yang sangat membantu dalam proses pemasukan data adalah fasilitas untuk mengecek dan memvalidasi data.
+5. Untuk menjumlahkan data-data yang berupa angka menurut kelompok-kelompok tertentu, kita dapat memanfaatkan menu Data­Subtotals.
+
+G. ISTILAH-ISTILAH PENTING
+
+Istilah Ascending Calculate subtotals Criteria
+
+Arti Naik. Menghitung sebagian dari total. Kriteria.
+
+86 MENGELOLA BASIS DATA
+
+Istilah Descending Error Alert Equal to Filter Greater than Sort Subtotals Sum UMR Record
+
+Arti Turun. Pemberitahuan kesalahan. Sama dengan. Tapis. Lebih besar daripada. Mengurutkan. Sebagian dari total. Jumlah. Upah Minimum Regional. Catatan.
+
+H. EVALUASI
+
+a. Soal Teori Jawablah pertanyaan-pertanyaan berikut.
+1. Sebutkan macam-macam fungsi pengelolaan basis data yang didukung oleh Calc. 2. Apa yang terjadi pada data Anda pada saat dilakukan pengurutan menggunakan pilihan
+Ascending? Bagaimana pula dengan pilihan Descending? 3. Berapakah Upah Minimum Regional (UMR) di wilayah Anda? Bagaimana cara membuat
+validasi data agar gaji pegawai sebuah perusahaan tidak kurang dari UMR? 4. Berapakah usia maksimum seorang Sales Promotion Girl (SPG)? Bagaimana cara bagian
+personalia di sebuah department store atau mal membuat validasi data umur SPG?
+b. Praktik Kerjakan tugas-tugas berikut.
+1. Buatlah lembar kerja berisi nama, alamat, nomor telepon, kota kelahiran teman-temanmu dalam satu kelas. Gunakan fungsi data sort untuk mengurutkan data pada lembar kerja berdasarkan nama.
+2. Pada lembar kerja pada soal Praktik nomor 1, gunakan fasilitas auto filter untuk menampilkan teman-teman yang mempunyai kota kelahiran yang sama.
+3. Buatlah lembar kerja yang berisi nama teman-temanmu dan jumlah buku yang dibawa dalam tas masing-masing. Gunakan fasilitas auto filter untuk menampilkan nama temanmu yang membawa buku kurang dari empat. Buatlah lembar kerja berisi anggaran panitia perayaan HUT Kemerdekaan RI. Gunakan fasilitas subtotal untuk melihat anggaran tiap-tiap seksi dalam kepanitiaan tersebut. Macam-macam seksi dalam kepanitiaan antara lain adalah seksi konsumsi dan seksi dokumentasi.
+
+MENGELOLA BASIS DATA 87
+
+BAB V
+MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+Standar Kompetensi
+ Menggunakan perangkat lunak pengolah angka untuk menghasilkan informasi.
+Kompetensi Dasar:
+ Membuat tabel pivot.  Menampilkan grafik.  Memodifikasi grafik yang sudah ada.
+A. TABEL PIVOT
+Kadangkala kita membutuhkan desain lembar kerja yang agak berbeda dari yang biasanya. Sebagai contoh, kita ingin menyusun data menurut susunan grafik yang terdiri atas sumbu X dan sumbu Y, sementara masukan data yang diberikan dalam bentuk kolom dan baris. Dalam contoh yang akan digunakan pada bagian ini, kita akan melihat sebuah kumpulan data suhu yang dicatat pada tanggal dan waktu tertentu. Jadi, kolom yang digunakan adalah TANGGAL, JAM, dan SUHU.
+Gambar 5.1 Lembar kerja dengan tiga kolom berisi data tanggal, jam, dan suhu MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK 89
+
+Tampilan data dalam bentuk kolom bisa menyulitkan kita dalam memvisualisasikan efek 2 dimensi untuk data yang termuat dalam lembar kerja dalam hubungan TANGGAL dan JAM. Agar data yang tersimpan pada lembar kerja tersebut dapat memperlihatkan bentuk 2 dimensi dengan lebih jelas, kita dapat menggunakan beberapa langkah sederhana berikut ini.
+1.Klikkan mouse pada Field yang ada pada lembar kerja. 2.Kliklah menu Data. 3.Pilihlah menu Data pilot. 4.Pilihlah menu Start. Langkah ini memunculkan tampilan menu berikut.
+Gambar 5.2 Jendela Select Source 5.Pilihlah Current selection. 6.Tekanlah tombol OK. Selanjutnya, kita akan melihat tampilan menu untuk DataPilot dengan informasi TANGGAL, JAM, dan SUHU. 7.Geserlah (drag) TANGGAL ke Row Fields, JAM ke Column Fields, dan SUHU ke Data Fields. Tampilan DataPilot terlihat seperti Gambar 5.3.
+Gambar 5.3 Jendela DataPilot 90 MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+
+8.Tetapkanlah Field yang akan menjadi Row dan Kolom. Dalam latihan ini, buatlah:
+1.Field Tanggal menjadi baris (Row); 2.Field Jam menjadi kolom (Column); dan 3.Field Suhu menjadi data.
+Hasil yang kita peroleh menjadi 2 dimensi dengan TANGGAL sebagai baris, JAM sebagai kolom, dan SUHU pada data.
+Gambar 5.4 Hasil Pivot Data
+Pemakaian Pivot Data dapat memperjelas tampilan tabel. Sebagaimana terlihat pada Gambar 5.4, kita dapat membayangkan bentuk 2 dimensi untuk tabel tersebut. Kita dapat melihat dengan lebih jelas perubahan suhu yang terjadi pada jam tertentu dan hari tertentu. Kita dapat pula mengecek perubahan suhu yang terjadi pada hari yang sama untuk jam yang berbeda.
+B. MENAMPILKAN GRAFIK
+OpenOffice.org Calc dapat dipakai untuk menampilkan grafik hasil perhitungan. Tambahan grafik bermanfaat untuk mempermudah pembaca dalam memvisualisasikan data-data dalam suatu tabel. Biasanya orang lebih mudah membayangkan hasil perhitungan (datadata dalam tabel) jika hasilnya berbentuk gambar. Ada banyak bentuk grafik yang dapat kita gunakan. Pada dasarnya pemilihan grafik tersebut didasarkan pada pertimbangan mudah tidaknya tampilan gambar itu dimengerti pembaca. Jadi, dengan keberadaan gambar, kita tidak lagi harus membayangkan angkaangka yang ada, termasuk menentukan mana data yang lebih kecil dan mana yang lebih besar. Latihan berikut memperlihatkan cara menampilkan grafik untuk data yang terdapat dalam tabel.
+MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK 91
+
+Gambar 5.5 Contoh data statistik serangan di internet Indonesia Langkah yang diperlukan untuk menampilkan grafik tidak sukar. Berikut adalah langkahlangkah yang dapat Anda lakukan. 1. Bloklah sel A3 sampai D7 untuk menyeleksi seluruh data yang ada. 2. Kliklah menu "Insert".
+Gambar 5.6 Membuat grafik melalui menu Insert­Chart 3. Pilihlah Chart. Pada layar akan langsung ditampilkan grafik (chart) dari data yang kita
+miliki beserta menu Chart Wizard yang dapat membantu mengonfigurasikan grafik (chart) yang kita buat. 4. Pada dasarnya sampai tahapan ini kita dapat melihat grafik (chart) yang kita inginkan 92 MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+
+sebagai berikut.
+Gambar 5.7 Grafik hasil olahan tabel pada Gambar 5.5 5. Unsur yang kurang pada gambar grafik di atas adalah tidak adanya judul. Judul dapat
+ditambahkan melalui menu Chart Wizard dalam langkah pengisian Chart Elements. Pada Chart Elements, kita dapat menambahkan nama pada kotak isian Title, Subtitle, X axis, dan Y axis untuk memudahkan kita dalam membaca grafik yang dibuat.
+Gambar 5.8 Menu Chart Wizard MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK 93
+
+6. Gambar 5.9 memperlihatkan hasil yang diperoleh setelah kita memasukkan judul (Title) dan keterangan sumbu-X (X axis). Tampak bahwa grafik yang kita buat menjadi lebih mudah untuk dimengerti.
+Gambar 5.9 Grafik dengan tambahan judul dan keterangan pada sumbu-X Ada 4 menu Chart Wizard yang perlu kita ketahui, yaitu Chart Type, Data Range, Data Series, dan Chart Elements.  Chart Type dipakai untuk mengatur tipe grafik.  Data Range dipakai untuk mengatur jangkauan/wilayah data.  Data Series dipakai untuk mengatur deretan data.  Chart Elements dipakai untuk mengatur elemen/komponen grafik.
+94 MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+
+Gambar 5.10 Memilih jenis grafik melalui menu Chart Type pada Chart Wizard Pada bagian Chart Type, kita dapat dengan mudah menggunakan berbagai pola atau tipe grafik. Pilihan jenis grafik yang ada adalah kolom, bar, pie, area, garis, pencar, jaring, stock, serta gabungan kolom dan garis. Untuk menambah cantik grafik yang kita buat, Calc menyediakan pula menu pilihan untuk membuat grafik tiga dimensi (3D) seperti bentuk silinder, piramida, dan lain-lain.
+Gambar 5.11 Menentukan Data Range
+MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK 95
+
+Pada bagian Data Range, kita dapat mengonfigurasikan wilayah data yang akan digunakan untuk menampilkan grafik. Format yang digunakan adalah:
+$NamaLembarKerja.$Kolom1$Baris1:$KolomAkhir$BarisAkhir Kita dapat juga mengonfigurasikan urutan data menjadi baris atau kolom. Biasanya urutan data menjadi kolom.
+Gambar 5.12 Menentukan Data Series Pada menu Data Series dalam Chart Wizard, kita dapat menentukan data mana saja yang akan kita tampilkan dalam grafik. Menu yang paling banyak digunakan umumnya adalah Add dan Remove maupun Tombol Naik dan Tombol Turun.
+96 MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+
+Gambar 5.13 Mengatur komponen-komponen grafik Menu Chart Elements merupakan menu terakhir yang ada dalam Chart Wizard. Melalui menu ini kita dapat mengonfigurasikan judul grafik, nama sumbu-X, maupun nama sumbu Y. Pengaturan ini bertujuan untuk memudahkan pembaca grafik.
+C. MEMODIFIKASI GRAFIK YANG SUDAH ADA
+Kadangkala kita perlu mengubah dan memodifikasi grafik yang sudah ada. Paling tidak ada dua hal yang sering dilakukan, yaitu mengganti tipe/jenis grafik dan mengganti warna grafik.
+1.Mengganti Tipe Grafik
+Langkah untuk mengubah tipe grafik adalah sebagai berikut. 1.Kliklah dua kali pada grafik yang akan kita ubah tipe grafiknya. 2.Lakukanlah klik kanan pada grafik tersebut sehingga mengeluarkan menu seperti Gambar 5.14.
+MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK 97
+
+Gambar 5.14 Menu yang muncul ketika grafik diklik kanan 3.Pilihlah menu Chart Type.
+Selain memiliih menu Chart Type, kita tentu saja dapat memilih menu yang lain. Misalnya, Data Ranges dan 3D View untuk mengubah data masukan dan bentuk 3D. Di samping kedua menu tersebut, menu yang juga akan sangat membantu dalam memperlihatkan tampilan data adalah menu Insert Regression Curve. 4.Pada menu Chart Type kita dapat mengubah grafik yang akan kita gunakan. Sebagai contoh, pilihlah Pie, 3D Look, dan Realistic.
+Gambar 5.14 Macam-macam grafik berbentuk kue (pie) 5.Setelah menetapkan semua pilihan yang kita kehendaki, langkah selanjutnya adalah menekan tombol OK. Langkah ini memunculkan grafik yang tampil dalam bentuk grafik pie.
+98 MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+
+Gambar 5.15 Grafik kue (pie)
+1.Mengganti Warna Grafik
+Langkah yang perlu kita lakukan untuk mengganti warna grafik adalah sebagai berikut. 1.Klikkan mouse dua kali pada grafik yang akan kita ubah warnanya. 2.Lakukanlah klik kanan sehingga muncul menu Object Properties, Chart Type, Data Ranges, dan lain-lain seperti Gambar 5.17.
+Gambar 5.16 Menu yang muncul ketika grafik diklik kanan 3.Pilihlah Object Properties. Pada menu ini pilihlah Area. Selanjutnya, kita dapat menentukan warna pada menu Fill dengan mengklik menu tersebut. 4.Pilihlah Color dan kliklah warna yang menarik. 5.Tekanlah tombol OK jika telah selesai.
+MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK 99
+
+Gambar 5.17 Pengaturan warna isian grafik melalui menu Area Gambar 5.18 memperlihatkan contoh gambar grafik yang sudah diubah warnanya.
+Gambar 5.18 Hasil pengaturan warna pada grafik kue 100 MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+
+D. RANGKUMAN
+ Data pilot merupakan fasilitas pengaturan grafik yang memungkinkan pengguna melakukan pivot (pengubahan susunan baris dan kolom) tabel. Langkah yang perlu dilakukan adalah mengklik menu Data­Data Pilot. Pembuatan tabel pivot ini akan memudahkan kita dalam melihat data dari sudut lain.
+ Data tabel dapat divisualisasikan dalam bentuk grafik. Langkah pembuatannya diawali dengan menyeleksi data yang ada dan dilanjutkan dengan mengklik menu Insert­Chart.
+Elemen gambar.
+Tipe gambar.
+ Grafik yang sudah jadi dapat kita modifikasi, misalnya dengan mengganti tipe grafik maupun mengganti warna grafik. Langkah untuk melakukan modifikasi tersebut dapat dilakukan melalui pilihan menu yang muncul pada saat grafik diklik kanan.
+E. ISTILAH-ISTILAH PENTING
+
+Istilah 3D View Area Chart elements Chart Type Chart Wizard Data series Object Properties Regression Curve.
+
+Arti Tampilan tiga dimenasi. Daerah atau wilayah.
+Pembantu/penolong pembuat gambar. Rentetan data. Karakteristik objek. Kurva regresi.
+
+F. EVALUASI
+
+a. Soal Teori Jawablah pertanyaan-pertanyaan berikut.
+1. Keuntungan apa yang dapat kita peroleh dari tabel pivot atau tabel pilot? 2. Ada berapa jenis grafik yang dapat kita gunakan untuk memvisualisasikan data pada
+Calc?
+b. Praktik Kerjakan tugas-tugas berikut.
+1. Buatlah tabel pilot dari data pengukuran suhu ruangan kelas dalam waktu satu minggu yang dilakukan pada saat pelajaran sekolah mulai dari pukul 7 pagi sampai pukul 2 siang dengan selang pengukuran satu jam.
+MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK 101
+
+2. Buatlah tabel yang berisi nama tim sepak bola Inggris dan jumlah gol yang berhasil dimasukkan dalam musim pertandingan terakhir. Tampilkan dalam bentuk grafik.
+3. Pada grafik yang sama (soal Praktik nomor 2), ubahlah warna grafik agar tampak lebih menarik. Ubahlah juga judul grafik maupun keterangan sumbunya agar terlihat lebih menarik.
+102 MEMBUAT DATA PILOT DAN MENGOLAH GRAFIK
+
+BAB VI
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+Standar Kompetensi
+ Menggunakan perangkat lunak pengolah angka untuk menghasilkan informasi.
+Kompetensi Dasar:
+ Menyalin data antar-file.  Membagi lembar kerja dengan perintah Split.  Mengembalikan jendela ke bentuk semula.  Mengunci baris dan kolom menggunakan perintah Freeze.  Mengembalikan tabel Freeze ke posisi semula.  Membuat rumus antarlembar kerja.  Memproteksi lembar kerja.  Membuka proteksi lembar kerja.  Menampilkan hasil cetakan ke layar monitor.  Menampilkan hasil cetakan ke printer.  Mencetak sebagian lembar kerja atau yang ditandai.
+A. MENYALIN DATA ANTAR-FILE
+Dalam mengoperasikan OpenOffice.org Calc kadangkala kita perlu memisahkan data-data yang akan kita proses ke dalam beberapa file yang terpisah. Agar proses perhitungan tetap dapat dijalankan, kita perlu menyambungkan (me-link) file tersebut menjadi satu kesatuan.
+Bagian ini akan menerangkan konsep penyambungan data antar-file dalam sebuah sistem pembukuan sebuah toko sederhana. Data-data tersebut disimpan dalam tiga buku terpisah, yaitu Pembelian, Penjualan, dan Laba.
+Rumus sederhana yang digunakan untuk menghitung keuntungan adalah:
+Laba (kotor) = Penjualan - Pembelian.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 103
+
+Adapun data atau barang yang diperjualbelikan sangat sederhana. Berikut adalah macam barang-barang tersebut. 1. Pensil. 2. Penghapus. 3. Penggaris. 4. Kertas Folio. 5. Gunting. 6. Lem. File yang akan digunakan isinya harus memakai nomor dan nama barang yang sama persis di antara ketiga file tersebut. Hal ini penting agar tidak terjadi kesalahan perhitungan di kemudian hari. File pembelian.ods adalah sebagai berikut.
+Gambar 6.1 File pembelian.ods File penjualan.ods adalah sebagai berikut.
+Gambar 6.2 File penjualan.ods File pendapatan.ods adalah sebagai berikut. 104 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+Gambar 6.3 File pendapatan.ods Yang akan kita kerjakan adalah sebagai berikut. 1.Mengopi isi total pembelian dari file pembelian.ods ke file pendapatan.ods. 2.Mengopi isi total penjualan dari file penjualan.ods ke file pendapatan.ods. 3.Menghitung laba kotor dalam file pemasukan.ods. Langkah-langkah yang perlu dilakukan adalah sebagai berikut. 1.Klikkan mouse pada file pembelian.ods. 2.Bloklah total pembelian dari sel E3 sampai sel E8. 3.Lakukanlah klik kanan pada total pembelian yang sudah diblok. 4.Klikkan mouse pada file pendapatan.ods. 5.Klikkan mouse pada kolom total pembelian sel C3. 6.Lakukanlah klik kanan pada sel C3 dalam file pendapatan.ods. 7.Pilihlah Paste Special agar total pembelian dari file pembelian.ods terkopi ke pendapatan.ods. 8.Dalam menu Paste Special, centanglah menu Link.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 105
+
+Gambar 6.4 Jendela Paste Special
+9.Tekanlah OK setelah mencentang menu Link pada Paste Special.
+Lakukan hal yang hampir sama untuk mengopi file penjualan.ods ke file pendapatan.ods. Langkah-langkahnya sebagai berikut: A.Klikkan mouse pada file penjualan.ods. B.Bloklah total penjualan dari sel E3 sampai sel E8. C.Lakukanlah klik kanan pada total penjualan yang sudah diblok. D.Klikkan mouse pada file pendapatan.ods. E.Klikkan mouse pada kolom total pembelian sel D3. F.Lakukanlah klik kanan pada sel D3 dalam file pendapatan.ods. G.Pilihlah Paste Special agar total penjualan dari file penjualan.ods terkopi ke pendapatan.ods. H.Dalam menu Paste Special, centanglah menu Link. I.Tekanlah tombol OK setelah mencentang menu Link pada Paste Special.
+Setelah total pembelian dan total penjualan terkopi ke dalam file pendapatan.ods, kita dapat menghitung laba kotor. Langkah-langkah yang perlu dilakukan adalah sebagai berikut. 1.Klikkan mouse pada file pendapatan.ods. 2.Klikkan mouse pada sel E3. 3.Ketikkan "=".
+106 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+4.Kliklah sel D3. 5.Ketikkan "-". 6.Kliklah sel C3. Kopikan rumus pada sel E3 untuk mengisi seluruh kolom laba kotor dari sel E4 sampai E8. Langkah-langkah yang perlu dilakukan adalah sebagai berikut. Kliklah sel E3. Tekanlah tombol Ctrl+C untuk mengopi rumus sel. Bloklah sel E4 sampai E8. Lakukanlah klik kanan pada sel yang diblok. Pilihlah Paste. Agar total laba kotor yang ada terlihat, jumlahkan seluruh laba kotornya. Berikut adalah langkah-langkah yang dapat kita lakukan. Kliklah file pendapatan.ods. Klikkan mouse pada sel E9. Ketikkan "=SUM(". Bloklah sel E3 sampai E8. Ketikkan ")". Tekanlah tombol Enter. Perhatikanlah kolom E9 yang memperlihatkan angka laba kotor yang kita peroleh. Amatilah bahwa laba kotor yang nilainya minus (-), artinya kita RUGI dan bukan untung. Tampilan hasil akhir perhitungan adalah sebagai berikut.
+Gambar 6.5 Penghitungan laba kotor
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 107
+
+B. MEMBAGI LEMBAR KERJA DENGAN PRINTAH SPLIT
+Salah satu kesulitan yang umumnya dihadapi pengguna pada pengolahan file Calc yang memiliki data yang sangat besar adalah proses penyuntingan. Untuk memudahkan proses editing, kita dapat tetap menampilkan nama Field untuk kolom yang sedang kita edit. Langkah ini dapat mempermudah kita dalam menyunting tampilan lembar kerja yang memiliki data yang sangat banyak. Contoh kemampuan Calc dalam mengolah data yang sangat banyak adalah menahan (freeze) beberapa Field pada lembar kerja. Untuk menanggulangi masalah data yang sangat besar, kita perlu menahan Field antara lain dengan menggunakan fasilitas Split Windows. Langkah yang perlu kita lakukan untuk melakukan Split Windows adalah sebagai berikut. 1.Pilihlah salah satu file ods yang cukup besar atau buatlah file contoh yang agak besar. 2.Letakkan mouse kira-kira di tengah lembar kerja. 3.Kliklah menu Window. 4.Klikkan mouse pada pilihan Split. Setelah itu, lembar kerja tampak terbelah seperti Gambar 6.6. Dua buah garis terlihat membelah lembar kerja. Pada dasarnya kita akan melihat empat lembar kerja yang persis sama di sebuah lembar kerja.
+Gambar 6.6 Melakukan Split Untuk melakukan manuver pada lembar kerja, gunakan panah ke kiri, ke kanan, ke atas, atau ke bawah.
+108 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+C. MENGEMBALIKAN JENDELA KE BENTUK SEMULA
+Untuk mengembalikan jendela lembar kerja yang telah kita split ke bentuknya yang semula, langkah-langkah yang perlu dilakukan tidaklah sukar. Berikut adalah langkahlangkah yang dapat kita kerjakan. Kliklah menu Window. Kliklah Split. Setelah itu, lembar kerja akan tampak kembali seperti semula.
+Gambar 6.7 Mengembalikan jendela Split ke bentuk semula
+D. MENGUNCI BARIS DAN KOLOM MENGGUNAKAN PERINTAH FREEZE
+Setelah kita dapat membagi lembar kerja menjadi empat bagian, kebutuhan lain yang sering dibutuhkan pada lembar kerja yang mengandung data besar adalah membekukan baris dan kolom tertentu agar tidak berubah pada saat kita mengedit lembar kerja.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 109
+
+Cara yang paling sederhana untuk membekukan lembar kerja adalah melakukan Split Windows yang dilanjutkan dengan Freeze pada bagian Windows yang hendak dibekukan. Hal ini dapat dilakukan melalui beberapa perintah seperti pada langkah-langkah berikut. Pilihlah file ods yang cukup besar untuk diproses. Klikkan mouse pada sel yang merupakan pertemuan Field yang nantinya akan di-Freeze. Kliklah menu Window. Klikkan mouse pada pilihan Split. Lembar kerja akan dibagi oleh Calc. Klikkan mouse pada sel tempat Window yang akan di-Freeze (dibekukan). Klikkan mouse pada menu Window. Klikkan mouse pada pilihan Freeze. Hasil langkah-langkah di atas adalah lembar kerja yang salah satu window-nya di-Freeze seperti tampak pada Gambar 6.8.
+Gambar 6.8 Mengunci baris dan kolom dengan fasilitas Freeze
+E. MENGEMBALIKAN TABEL FREEZE KE POSISI SEMULA
+Untuk menonaktifkan fasilitas Freeze tidak terlalu sukar. Anda dapat mengikuti perintahperintah berikut. 1.Kliklah menu Window. 2.Klikkan mouse pada pilihan Freeze. 110 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+Langkah ini akan membuat Freeze pada lembar kerja menjadi tidak aktif.
+F. MEMBUAT RUMUS ANTARLEMBAR KERJA
+Kadangkala kita perlu mengopi rumus/data antarlembar kerja, bahkan antar-file dalam lembar kerja yang lain. Proses membuat rumus antarlembar kerja adalah sebagai berikut. 1.Buatlah sebagian rumus pada lembar kerja yang satu. 2.Kliklah lembar kerja yang lain, dapat juga dari lembar kerja dalam file yang lain. 3.Klikkan penunjuk mouse pada sel yang dibutuhkan pada lembar kerja tersebut. 4.Kembalilah ke lembar kerja asal. 5.Selesaikan penulisan rumus. Berikut adalah latihan membuat rumus antarlembar kerja. 1.Siapkan lembar kerja pertama. Lembar kerja daftar gaji misalnya berisi daftar gaji untuk tiap-tiap jabatan.
+Gambar 6.9 Daftar gaji 2.Siapkan lembar kerja kedua. Lembar kerja ini berisi daftar pegawai yang mencakup kolom nama, alamat, jabatan, dan gaji. Untuk sementara, kolom gaji sengaja kita kosongkan dahulu.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 111
+
+Gambar 6.10 Daftar pegawai 3.Buatlah rumus menggunakan fungsi VLOOKUP agar informasi tentang gaji untuk setiap jabatan dapat dikopikan ke lembar kerja pegawai melalui langkah berikut.
+1.Pilihlah lembar kerja daftar pegawai. 2.Kliklah sel E5. 3.Ketikkan "=VLOOKUP(". 4.Kliklah sel D5. 5.Ketikkan ";". 6.Pilihlah lembar kerja lainnya, yaitu yang berisi daftar gaji. 7.Bloklah kolom-kolom, mulai dari sel B5 sampai C7 sampai memblok kolom jabatan dan gaji. 8.Ketikkan ";2;FALSE)" untuk mengakhiri. Angka dua dibutuhkan untuk memberitahukan VLOOKUP agar melihat kolom kedua sebagai referensi data yang akan diambil. 9.Tekanlah tombol ENTER jika rumus telah selesai kita buat.
+4.Selanjutnya, lakukanlah hal yang sama dengan sel E5 pada sel E6 sampai sel E11. Memang, kita dapat saja mengopikan isi sel E5 ke sel E6 hingga E11, tetapi kita perlu mengedit rumus yang dikopi agar kolom yang diblok dari lembar kerja daftar gaji tidak salah.
+Setelah proses pembuatan rumus pada lembar kerja yang berbeda selesai dilakukan, hasil akhir lembar kerja tersebut tampak seperti Gambar 6.11.
+112 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+Gambar 6.11 Hasil pengisian kolom gaji pada lembar kerja Daftar Pegawai
+G. MEMBUAT PROTEKSI PADA LEMBAR KERJA
+Kadangkala kita membutuhkan mekanisme untuk memproteksi kerahasian data yang ada pada sebuah lembar kerja atau seluruh dokumen yang sedang kita kerjakan. Tujuan proteksi adalah untuk mencegah pengubahan atau pembacaan dokumen oleh orang yang tidak berhak. Mekanisme proteksi lembar kerja maupun dokumen sangat sederhana, yaitu: pilihlah dokumen atau lembar kerja yang akan diproteksi; dan aktifkan menu proteksi dengan memasukkan password. Langkah detail proses proteksi sebuah lembar kerja adalah sebagai berikut. 1.Bukalah dokumen yang akan diproteksi. 2.Pilihlah lembar kerja yang akan diproteksi jika kita ingin memproteksi lembar kerja. 3.Pilihlah menu Tools. 4.Pilihlah menu Protect Document. 5.Kliklah menu Sheet. Jika kita ingin memproteksi dokumen, klikkan penunjuk mouse pada menu Document.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 113
+
+Gambar 6.12 Kotak dialog untuk memproteksi lembar kerja 6.Pada menu Protect Sheet yang ditampilkan, isikan kata sandi pada kotak Password dan Confirm. Password dapat berupa kombinasi huruf dan angka. 7.Kliklah OK jika password telah dimasukkan. Sel/dokumen yang telah diproteksi tidak dapat diubah sembarangan. Pihak yang dapat mengubah data dalam dokumen tersebut hanyalah mereka yang mengetahui password-nya. Jika seseorang berusaha mengubah data pada sel, peringatan seperti tampak pada Gambar 6.13 akan muncul.
+Gambar 6.13 Peringatan yang menunjukkan proteksi sel
+H. MEMBUKA PROTEKSI LEMBAR KERJA
+Untuk membuka kembali lembar kerja dapat dilakukan melalui perintah berikut. 1.Bukalah dokumen yang akan dibuka proteksinya. Jika Anda harus memasukkan password, masukkan password. 2.Pilihlah lembar kerja yang akan dibuka proteksinya. 3.Pilihlah menu Tools. 4.Pilihlah menu Protect Document. 5.Klikkan penunjuk mouse pada menu Sheet. Jika kita ingin membuka proteksi dokumen, kliklah menu Document.
+114 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+Gambar 6.14 Membuka proteksi lembar kerja 6.Masukkan password yang sebelumnya diset. 7.Tekanlah tombol OK, maka lembar kerja atau dokumen tersebut tidak lagi diproteksi.
+I. MENAMPILKAN HASIL CETAKAN KE LAYAR
+Untuk dokumentasi atau berbagai keperluan, kita sering kali perlu mencetak pekerjaan kita ke kertas. Sebelum pencetakan ke kertas dilakukan, kita sering kali perlu melihat dahulu tampilan yang akan tercetak melalui layar komputer. Tujuan penayangan ini adalah untuk memastikan bahwa hasil cetak nantinya dapat memuaskan. Latihan untuk menampilkan hasil cetak ke layar komputer dapat dilakukan melalui perintah berikut. 1.Bukalah lembar kerja yang akan dicetak. 2.Kliklah menu File. 3.Klikkan penunjuk mouse pada pilihan Page Preview atau ikon pada toolbar. Gambar 6.15 memperlihatkan contoh tampilan pada layar yang akan dicetak.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 115
+
+Gambar 6.15 Pratayang tampilan lembar kerja yang hendak dicetak
+Dalam proses preview, kita dapat melakukan beberapa operasi dasar menggunakan menu Preview.
+
+Gambar 6.16 Macam-macam ikon pada menu Preview
+
+Fungsi menu preview dapat dibaca pada tabel berikut.
+
+Ikon
+
+Nama
+
+Previous
+
+Kegunaan Untuk melihat halaman sebelumnya.
+
+Next
+
+Untuk melihat halaman selanjutnya.
+
+116 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+Ikon
+
+Nama
+
+First Page
+
+Kegunaan Untuk melihat halaman pertama.
+
+Last Page Zoom In Zoom Out
+
+Untuk melihat halaman terakhir. Untuk memperbesar layar. Untuk memperkecil layar.
+
+Full Screen Format Page Close Preview
+
+Untuk menampilkan cetakan secara penuh di layar. Untuk mengatur layout cetakan. Untuk menutup tampilan Preview.
+
+Tabel 6.1 Macam-Macam Ikon pada Menu Preview
+Jika kita telah selesai melihat pratayang lembar kerja yang akan dicetak, kita dapat menekan tombol Close Preview.
+
+J. MENAMPILKAN HASIL CETAKAN KE PRINTER
+Untuk mencetak lembar kerja ke printer, kita dapat melakukannya melalui perintah berikut.
+Pilihlah file dokumen yang akan dicetak. Pilihlah lembar kerja yang akan dicetak. Kliklah menu File. Klikkan penunjuk mouse pada pilihan Print (Ctrl + P) atau dengan menekan ikon pada toolbar.
+Pada layar akan muncul menu berikut.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 117
+
+Gambar 6.16 Kotak dialog untuk pengaturan lembar kerja yang akan dicetak
+Pada menu print kita dapat memilih beberapa parameter penting seperti berikut.
+1.Name, nama printer yang akan digunakan. 2.Selected sheets, untuk mencetak lembar kerja yang kita pilih. 3.All pages, untuk mencetak semua halaman. 4.Pages, untuk mencetak halaman tertentu saja. 5.Number of copies, banyaknya kopian yang akan dicetak. Default-nya adalah 1.
+Jika semua sudah selesai dikonfigurasi, tekanlah tombol OK untuk mencetak.
+K. MENCETAK SEBAGIAN LEMBAR KERJA ATAU YANG DITANDAI
+Ketika mencetak lembar kerja, kita mungkin hanya perlu mencetak sebagian tampilan dari lembar kerja yang ada. Beberapa langkah berikut menjelaskan teknik mencetak sebagian tampilan lembar kerja tersebut.
+118 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+1.Bukalah dokumen tempat lembar kerja berada. 2.Pilihlah lembar kerja yang kita inginkan. 3.Bloklah sel lembar kerja yang ingin kita cetak.
+Gambar 6.17 Memblok bagian lembar kerja yang hendak dicetak 4.Kliklah menu File. 5.Klikkan pointer mouse pada pilihan Print. 6.Klikkan pointer mouse pada pilihan Selected Cells. Langkah ini berguna jika kita tidak hendak mencetak seluruh lembar kerja. 7.Kliklah OK untuk mencetak.
+MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA 119
+
+L. RANGKUMAN
+
+ Untuk menyalin/mengopi data antardokumen Calc, kita dapat memanfaatkan fasilitas Paste Special.
+ Untuk memudahkan pembacaan lembar kerja yang memiliki banyak data, kita dapat membagi layar menurut kelompok Field dan datanya. Langkah ini dapat dilakukan dengan memanfaatkan fasilitas split.
+ Kolom maupun baris dalam lembar kerja dapat dibekukan dengan menggunakan perintah yang terdapat pada menu Window­Split­Freeze. Perintah yang sama juga dapat dilakukan untuk memulihkan kembali baris atau kolom yang semula dibekukan.
+ Fungsi VLOOKUP bermanfaat untuk pembuatan rumus yang melibatkan data yang berada dalam lembar kerja yang berbeda.
+ Lembar kerja dapat dibuatkan proteksi untuk mencegah pengubahan atau pembacaan dokumen oleh orang yang tidak berhak. Proteksi biasanya melibatkan penggunaan sandi (password).
+ Dokumen yang hendak dicetak dapat ditampilkan bentuk pratayangnya terlebih dahulu.Dengan melihat pratayang tersebut, kita dapat melihat gambaran dokumen yang bakal dicetak. Tampilan pratayang (preview) dapat diakses melalui menu File­Page Preview atau ikon Preview.
+
+M. ISTILAH-ISTILAH PENTING
+
+Istilah Freezed Last Page Next Pages Previous Print Protect Document Protect Sheet Tools Split Windows Zoom in Zoom out
+
+Arti Dibekukan, tidak dapat diubah. Halaman terakhir. Selanjutnya. Halaman. Sebelumnya. Cetak. Memproteksi dokumen. Memproteksi lembar kerja. Alat. Memisahkan. Jendela. Memperbesar layar. Memperkecil layar.
+
+120 MEMPROTEKSI, MEMANIPULASI, DAN MENCETAK LEMBAR KERJA
+
+N. EVALUASI
+a. Soal Teori Jawablah pertanyaan-pertanyaan berikut.
+1. Mungkinkah kita membuat perhitungan dari data yang terdapat pada empat atau lima dokumen sekaligus?
+2. Mengapa kita perlu melakukan split dokumen? 3. Apa yang terjadi jika kita mem-freeze sebuah kolom? 4. Sebutkan langkah yang harus dilakukan untuk memproteksi sebuah lembar kerja. 5. Langkah apa yang perlu dilakukan untuk memproteksi sebuah dokumen? 6. Apa beda antara mencetak ke layar dengan mencetak ke printer? 7. Terangkan manfaat perintah Previous, Next, Last Page, First Page, Zoom in, dan Zoom
+out. b. Praktik Kerjakan tugas-tugas berikut.
+1. Buatlah dua dokumen. Dokumen pertama berisi nama, tanggal lahir, dan nomor telepon teman sekelasmu. Dokumen kedua berisi nama dan kota kelahiran teman sekelasmu. Pada dokumen kedua, hitunglah umur teman sekelasmu berdasarkan informasi tanggal lahir yang ada dalam dokumen pertama.
+2. Pada dokumen kedua, urutkan data berdasarkan usia, yaitu mulai dari yang paling muda hingga yang paling tua.
+121
+
+DAFTAR PUSTAKA
+http://apakabarpsbg.wordpress.com/2008/06/18/tutorial-openoffice-berbahasa-indonesia/ http://documentation.openoffice.org/tutorials/index.html http://inpics.net/ http://www.kaaredyret.dk/openoffice_links.html http://www.learnopenoffice.org/tutorials.htm http://www.tutorialsforopenoffice.org/ Kementerian Negara Riset dan Teknologi Republik Indonesia, 2007, Panduan
+Pendayagunaan Open Source Software: Aplikasi Perkantoran OpenOffice.org. Suarna, Nana, 2007, Cara Mudah Belajar: OpenOffice.Org 2.0 Writer­Calc­Impress,
+Yrama Widya. Bandung, 2007.

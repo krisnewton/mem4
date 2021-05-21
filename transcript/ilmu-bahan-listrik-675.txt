@@ -1,0 +1,2182 @@
+MODUL PEMBELAJARAN
+KODE : LIS PTL 005 (P)
+ILMU BAHAN LISTRIK
+BIDANG KEAHLIAN : KETENAGALISTRIKAN PROGRAM KEAHLIAN : TEKNIK PEMANFAATAN ENERGI
+PROYEK PENGEMBANGAN PENDIDIKAN BERORIENTASI KETERAMPILAN HIDUP
+DIREKTORAT PENDIDIKAN MENENGAH KEJURUAN DIREKTORAT JENDERAL PENDIDIKAN DASAR DAN MENENGAH
+DEPARTEMEN PENDIDIKAN NASIONAL 2003
+
+KATA PENGANTAR
+Bahan ajar ini disusun dalam bentuk modul/paket pembelajaran yang berisi uraian materi untuk mendukung penguasaan kompetensi tertentu yang ditulis secara sequensial, sistematis dan sesuai dengan prinsip pembelajaran dengan pendekatan kompetensi (Competency Based Training). Untuk itu modul ini sangat sesuai dan mudah untuk dipelajari secara mandiri dan individual. Oleh karena itu kalaupun modul ini dipersiapkan untuk peserta diklat/siswa SMK dapat digunakan juga untuk diklat lain yang sejenis.
+Dalam penggunaannya, bahan ajar ini tetap mengharapkan asas keluwesan dan keterlaksanaannya, yang menyesuaikan dengan karakteristik peserta, kondisi fasilitas dan tujuan kurikulum/program diklat, guna merealisasikan penyelenggaraan pembelajaran di SMK. Penyusunan Bahan Ajar Modul bertujuan untuk menyediakan bahan ajar berupa modul produktif sesuai tuntutan penguasaan kompetensi tamatan SMK sesuai program keahlian dan tamatan SMK.
+Demikian, mudah -mudahan modul ini dapat bermanfaat dalam mendukung pengembangan pendidikan kejuruan, khususnya dalam pembekalan kompetensi kejuruan peserta diklat.
+Jakarta, 01 Desember 2003 Direktur Dikmenjur,
+Dr. Ir. Gator Priowirjanto NIP 130675814
+
+DAFTAR ISI
+
+Halaman
+
+KATA PENGANTAR ............................................................
+
+i
+
+REKOMENDASI ..................................................................
+
+ii
+
+DAFTAR ISI ........................................................................
+
+iv
+
+PETA KEDUDUKAN MODUL ................................................
+
+v
+
+GLOSARRY/PERISTILAHAN
+
+I PENDAHULUAN
+
+1
+
+A. Deskripsi ................................................................
+
+1
+
+B. Prasyarat ................................................................
+
+1
+
+C. Petunjuk Penggunaan Modul ........................................
+
+2
+
+D. Tujuan Akhir...........................................................
+
+3
+
+E. STANDAR KOMPETENSI......................................
+
+4
+
+F. Cek Kemampuan ......................................................
+
+6
+
+II PEMBELAJARAN
+
+7
+
+A. RENCANA BELAJAR PESERTA DIKLAT......................
+
+7
+
+B. KEGIATAN BELAJAR. .............................................
+
+8
+
+Kegiatan Belajar 1
+
+8
+
+A. Tujuan Kegiatan ..............................................
+
+8
+
+B. Uraian Materi .................................................
+
+8
+
+C. Rangkuman 1 .................................................
+
+18
+
+D. Tugas 1 ........................................................ Test
+
+20
+
+E. Formatif 1 ...............................................
+
+21
+
+F. Jawaban Test Formatif 1 ...................................
+
+25
+
+Kegiatan Belajar 2
+
+26
+
+A. Tujuan Kegiatan .........................................
+
+26
+
+B. Uraian Materi .................................................
+
+26
+
+C. Rangkuman 2 .................................................
+
+48
+
+D. Tugas 2 ........................................................
+
+50
+
+Ilmu Bahan Listrik
+
+F. Lembar Kerja .................................................
+
+31
+
+KEGIATAN BELAJAR 6
+
+32
+
+A. Tujuan Kegiatan ..............................................
+
+32
+
+B. Uraian Materi .................................................
+
+32
+
+KEGIATAN BELAJAR 7
+
+35
+
+A. Tujuan Kegiatan ..............................................
+
+36
+
+B. Uraian Materi .................................................
+
+35
+
+KEGIATAN BELAJAR 4
+
+57
+
+A. Tujuan Kegiatan ..............................................
+
+57
+
+B. Uraian Materi .................................................
+
+57
+
+C. Rangkuman ...................................................
+
+66
+
+D. Tes Formatif .................................................
+
+68
+
+E. Jawaban Tes Formatif .......................................
+
+69
+
+F. Lembar Kerja .................................................
+
+70
+
+III EVALUASI ................................................................
+
+71
+
+KUNCI JAWABAN ......................................................
+
+72
+
+IV PENUTUP ..................................................................
+
+74
+
+DAFTAR PUSTAKA .............................................................
+
+75
+
+LAMPIRAN
+
+iii
+
+PETA KEDUDUKAN MODUL
+
+PERISTILAHAN
+
+ACSR
+
+:
+
+ACAR
+
+:
+
+? (alpha)
+
+:
+
+ASA
+
+:
+
+atm (atmosfir) :
+
+breakdown voltage :
+
+cambric
+
+:
+
+dielektrikum
+
+:
+
+FCS
+
+:
+
+? (gamma)
+
+:
+
+? (lambda)
+
+:
+
+Magnetisasi
+
+:
+
+Magnetostriksi :
+
+MCB
+
+:
+
+? (miu)
+
+:
+
+OLR
+
+:
+
+PE
+
+:
+
+PVC
+
+:
+
+Repeater
+
+:
+
+? (rho)
+
+:
+
+sintetis
+
+:
+
+vulkanisasi
+
+:
+
+Aluminium Conductor Steel Reinforced Aluminium Conductor Alloy Reinforced koefisien muai ruang suatu benda American Standard Association satuan tekanan udara tegangan tembus bahan kain yang telah dipernis penyekat antara dua bagian yang berdekatan pada suatu kondensator Plastic Clad Silica daya hantar jenis koefisien muai panjang suatu benda proses pembuatan magnet proses perubahan fisik saat bahan ferromagnetik dimagnetisasi Miniatur Circuit Breaker permeabilitas suatu bahan Over Load Relay polyethilene Polyvinilclorida penguat ulang tahanan jenis bahan tiruan proses penyampuran karet kasar dengan belerang
+
+Ilmu Bahan Listrik
+
+I. PENDAHULUAN
+
+DESKRIPSI MODUL
+
+Modul ini berjudul "Ilmu Bahan Listrik" merupakan salah satu bagian dari keseluruhan
+
+tujuh judul modul, dimana enam modul lainnya adalah : gambar listrik, teknik listrik,
+
+alat ukur dan pengukuran, kesehatan dan keselamatan kerja, perkakasa peralatan kerja,
+
+dan elektronika daya.
+
+Ketujuh judul modul ini diturunkan melalui analisis kebutuhan pembelajaran dari unit
+
+kompetensi melaksanakan persiapan pekerjaan awal pada sub kompetensi 9 tentang
+
+ilmu bahan listrik. Pengembangan isi modul ini diarahkan sedemikian rupa, sehingga
+
+materi pembelajaran yang terkandung didalamnya disusun berdasarkan topik -topik
+
+selektif untuk mencapai kompetensi dalam memelihara instalasi listrik.
+
+Pengetahuan : Memahami sifat-sifat benda dan bahan penyekat sebagai material
+
+yang akan digunakan dalam teknik listrik.
+
+Keterampilan : Melakukan pemilihan jenis bahan listrik yang sesuai dengan
+
+kebutuhan yang akan digunakan dalam pemasangan peralatan
+
+listrik.
+
+Sikap
+
+: Penentuan dan pemilihan bahan listrik yang cocok untuk
+
+digunakan sebagai keperluan dalam pemasangan teknik listrik.
+
+PRASYARAT
+Pendidikan Formal Telah menyelesaian pendidikan setara Sekolah Lanjutan Tingkat Pertama (SLTP) atau sederajat Kaitan dengan modul/kemampuan lain Tidak ada, karena merupakan mata ajar konsep dasar
+
+1
+
+Ilmu Bahan Listrik
+PETUNJUK PENGGUNAAN MODUL
+1. Petunjuk bagi siswa
+Langkah -langkah belajar yang ditempuh : a. Baca petunjuk kegiatan belajar pada setiap modul kegiatan belajar b. Baca tujuan dari setiap modul kegiatan belajar c. Pelajari setiap materi yang diuraikan/dijelaskan pada setiap modul kegiatan d. Pelajari rangkuman yang terdapat pada setiap akhir modul kegiatan belajar e. Baca dan kerjakan setiap tugas yang harus dikerjakan pada setiap modul
+kegiatan belajar f. Kerjakan dan jawablah dengan singkat dan jelas setiap ada ujian akhir modul
+kegiatan belajar (test formatif)
+2. Peran guru
+a. Menjelaskan petunjuk -petunjuk kepada siswa yang masih belum mengerti b. Mengawasi dan memandu siswa apabila ada yang masih kurang jelas c. Menjelaskan materi-materi pembelajaran yang ditanyakan oleh siswa yang
+masih kurang dimengerti d. Membuat pertanyaan dan memberikan penilaian kepada setiap siswa
+TUJUAN AKHIR
+Setelah mengikuti/ menyelesaikan kegian-kegiatan belajar dari modul ini , diharapkan siswa memiliki spesifikasi kinerja sebagai berikut : a. Memahami tentang sifat-sifat benda padat yang akan digunakan pada bidang
+teknik ketenagalistrikan b. Mampu menentukan bahan penyekat yang akan digunakan untuk keperluan teknik
+listrik c. Mengetahui dan memahami karakteristik penyekat bentuk padat d. Memahami sifat-sifat penyekat cair dan mampu menerapkannya
+2
+
+Ilmu Bahan Listrik
+e. Dapat menjelaskan sifat-sifat penyekat bentuk gas dan mampu menerapkannya f. Dapat memilih bahan penghantar yang baik g. Mengetahui dan memahami bahan-bahan magnetik yang dapat digunakan dalam
+bidang ketekniklistrikan h. Mampu memilih dan menggunakan bahan-bahan semi konduktor dan super
+konduktor
+STANDAR KOMPETENSI
+Kode Kompetensi : PTL.KON.001 A Unit Kompetensi : Ilmu Bahan Listrik
+Ruang Lingkup : Unit kompetensi ini berkaitan dengan pemilihan jenis-jenis bahan yang digunakan untuk keperluan teknik distribusi tenaga listrik Sub Kompetensi 1 : Merencanakan jenis bahan listrik yang akan digunakan untuk keperluan teknik distribusi tenaga listrik KUK :
+1 Sifat-sifat benda dipela jari sesuai fungsi dan tujuan 2 Macam-macam bahan penyekat 3 Macam-macam bahan konduktor 4 Macam-macam bahan magnetik 5 Macam-macam bahan semikonduktor Sub Kompetensi 2 : Melakukan pemilihan jenis bahan listrik yang akan digunakan KUK : 1. Sifat fisis, mekanis, dan kimia 2. Mengidentifikasi maksud, tujuan dan fungsi dari bahan penyekat, konduk-
+tor, magnetik, dan semikonduktor.
+3
+
+Ilmu Bahan Listrik
+Sub Kompetensi 3 : Menggunakan / menerapkan bahan lis-trik sesuai fungsi dan tujuan yang telah ditetapkan
+KUK : 1. Mengikuti prosedur / ketentuan pema-kaian bahan sesuai dengan fungsi dan tujuan yang telah ditetapkan 2. Mengikuti aturan sesuai dengan SOP
+Sub Kompetensi 4 : Membuat Berita Acara Hasil Pemilihan
+KUK : 1. Data hasil pemilihan dicatat dalam laporan pemilihan bahan 2. Berita acara dibuat sesuai format yang telah ditetapkan lembaga
+Kode Modul ; LIS PTL 005 (P)
+4
+
+Ilmu Bahan Listrik
+
+CEK KEMAMPUAN
+
+Daftar Pertanyaan
+1. Apakah siswa sudah memahami sifat-sifat benda sesuai fungsi dan tujuan ?
+2. Apakah siswa mampu menjelaskan macam-macam bahan penyekat dengan fungsinya ?
+3. Apakah siswa mampu menjelaskan macam-macam bahan konduktor dengan fungsinya ?
+4. Apakah siswa mampu menjelaskan macam-macam bahan magnetik penyekat beserta fungsinya ?
+5. Apakah siswa mampu menjelaskan macam-macam bahan semikonduktor beserta fungsinya ?
+6. Apakah siswa dapat membedakan sifat fisis, mekanis, dan kimia dari bahan yang akan digunakan ?
+7. Apakah siswa mampu mengidentifikasi maksud, tujuan dan fungsi dari bahan penyekat, konduk-tor, magnetik, dan semikonduktor ?
+8. Apakah siswa telah mengikuti prosedur / ketentuan pemakaian bahan sesuai dengan fungsi dan tujuan yang telah ditetapkan ?
+9. Apakah siswa telah mengikuti aturan sesuai dengan SOP ?
+10. Apakah siswa telah mencatat data hasil pemilihan dalam laporan pemilihan bahan ?
+11. Apakah siswa telah membuat berita acara sesuai format yang telah ditetapkan lembaga bersangkutan ?
+
+Tingkat Penguasaan (score : 0 ­ 100 )
+
+5
+
+Ilmu Bahan Listrik
+
+II. PEMBELAJARAN
+
+A. RENCANA BELAJAR SISWA
+
+Jenis kegiatan
+
+Tanggal Waktu
+
+1. Merencanakan jenis bahan listrik yang akan digunakan untuk keperluan teknik distribusi tenaga listrik
+2. Melakukan pemilihan jenis bahan listrik yang akan digunakan
+3. Menggunakan / menerapkan bahan lis-trik sesuai fungsi dan tujuan yang telah ditetapkan
+4. Membuat Berita Acara Hasil Pemilihan
+
+Tempat belajar
+
+Alasan
+
+Tanda
+
+perubahan tangan guru
+
+6
+
+Ilmu Bahan Listrik
+B. KEGIATAN BELAJAR 1. Kegiatan Belajar 1
+SIFAT-SIFAT BENDA PADAT
+a. Tujuan Kegiatan Pembelajaran 1 :
+- Siswa memahami sifat-sifat benda padat dan mampu menerapkannya
+b. Uraian Materi 1 :
+1.1 Sifat Fisis
+Benda padat mempunyai bentuk yang tetap (bentuk sendiri), dimana pada suhu yang tetap benda padat mempunyai isi yang tetap pula. Isi akan bertambah atau memuai jika mengalami kenaikkan suhu dan sebaliknya benda akan menyusut jika suhunya menurun. Karena berat benda tetap , maka kepadatan benda akan bertambah, sehingga dapat disimpulkan sebagai berikut : ? Jika isi (volume) bertambah (memuai), maka kepadatannya akan berkurang ? Jika isinya berkurang (menyusut), maka kepadatan akan bertambah ? Jadi benda lebih padat dalam keadaan dingin daripada dalam keadaan panas
+Hubungan tentang kepadatan ini dapat dirumuskan : p ? M V
+Diamana p : kepadatan dengan satuan gram/cm3, M : massa dengan satuan gram, dan V : isi atau volume dengan satua cm3 (cc : centimeter cubic). Pemuaian benda antara yang satu dengan yang lain berbeda, tergantung dari koefisien muai ruang dari benda. Koefisien muai ruang atau panjang benda padat dapat dilihat pada tabel 1.1. Ketentuan bahwa koefisien muai ruang suatu benda adalah bilangan yang menunjukkan pertambahan ruang dalam cm3 suatu benda yang isinya 1 cm3 , bilamana suhunya dinaikkan 10C. Dalam rumus ketentuan ini dapat ditulis :
+? ? Vt2 ? Vt1 1? ? (t2 ? t1
+7
+
+Ilmu Bahan Listrik
+
+dimana Vt1 : volume benda pada suhu t10C atau cc, Vt2 : volume benda pada suhu t20C
+atau cc, t1 : suhu benda sebelum dipanasi, t2 : suhu benda sesudah dipanasi, dan ? : koefisien muai ruang (alpha).
+Tabel 1.1 Koefisien muai-panjang dan muai -ruang benda padat
+
+No.
+
+Jenis bahan
+
+Koefisien muai panjang ( ? )
+
+Koefisien muai ruang ( ? )
+
+1. Besi
+
+0,000012
+
+0,000036
+
+2. Marmer
+
+0,000012
+
+0,000036
+
+3. Nikel
+
+0,000013
+
+0,000039
+
+4. Emas
+
+0,000014
+
+0,000042
+
+5. Kuningan
+
+0,000019
+
+0,000057
+
+6. Platina
+
+0,000019
+
+0,000057
+
+7. aluminium
+
+0,000024
+
+0,000072
+
+Jika akan menghitung perpanjangan saja, maka dapat menggunakan koefisien muai-
+
+panjang ? (lambda), menyatakan bahwa koefisien muai-panjang sustu benda adalah
+
+bilangan yang menunjukkan pertambahan panjang dalam cm dari suatu benda yang panjangnya 1 cm bila dinaikkan suhunya 10C. Untuk jelasnya dapat dirumuskan dalam
+persamaan : ? ? Lt2 ? Lt1 1 ? ? (t2 ? t1
+
+dimana Lt1 : panjang benda pada suhu t10C atau cc, Lt 2 : panjang benda pada suhu t20C
+
+atau cc, t1 : suhu benda sebelum dipanasi, t2 : suhu benda sesudah dipanasi, dan ? :
+
+koefisien muai-panjang (lambda).
+
+Panas jenis bahan padat
+
+Yang dimaksud dengan panas jenis suatu zat adalah bilangan yang menunjukkan berapa kalori yang diperlukan oleh 1 gram zat itu pada tiap kenaikkan suhu 10C.
+
+Berikut adalah tabel panas-jenis beberapa bahan padat.
+Tabel 1.2 Panas jenis bahan padat
+
+No.
+
+Nama bahan
+
+Panas jenis No.
+
+Nama bahan
+
+Panas jenis
+
+1. Emas 2. Timah 3. Perak 4. Kuningan 5. Tembaga 6. Besi
+
+0,03
+
+7. Nikel
+
+0,11
+
+0,03
+
+8. Gelas
+
+0,20
+
+0,06
+
+9. Aluminium
+
+0,21
+
+0,09
+
+10. Naphtalin
+
+0,31
+
+0,09
+
+11. Es
+
+0,50
+
+0,10
+
+8
+
+Ilmu Bahan Listrik
+
+Pangkal cair/beku bahan padat Kalau 1 gram tembaga dipanaskan hingga suhunya naik terus, maka setelah suhu
+mencapai 10830C tembaga akan mulai mencair. Suhu 1083 0C ini disebut pangkal cair tembaga. Kemudian dipanaskan terus hingga seluruhnya mencair. Selama pencairan awal sampai akhir suhu tetap 10830C tidak naik walaupun dipanaskan terus. Bila telah mencair seluruhnya dan tetap dipanaskan, maka suhu cair tembaga itu akan naik melebihi pangkal cair. Sebaliknya, jika tembaga yang sedang mencair pada suhu lebih tinggi dari 10830C itu mulai didinginkan, maka suhu sedikit demi sedikit akan turun dan setelah mencapai suhu 10830C tembaga mulai membeku lagi. Jadi suhu 10830C juga merupakan pangkal beku dari tembaga. Berarti pangkal cair = pangkal beku . Ketentuan : pangkal cair/beku suatu zat adalah suhu yang pada saat pencairan/pembekuan zat itu terjadi. Berikut adalah tabel menjelaskan tentang pan gkal cair/beku bahan padat.
+
+No. Nama bahan
+1. Es 2. Naphtalin 3. Bismuth 4. Timah 5. Seng 6. Aluminium 7. Perak
+
+Tabel 1.3 Pangkal cair/beku bahan padat
+
+Pangkal cair/beku No. Nama bahan
+
+00C. 800C. 2710C. 3270C. 4190C. 6590C. 9610C.
+
+8. Emas 9. Tembaga 10. Nikel 11. Besi 12. Platina 13. wolfram
+
+Pangkal cair/beku
+10630C. 10830C. 14520C. 15300C. 17550C. 34000C.
+
+Kalor lebur dan kalor beku Ketentuan menyatakan bahwa kalor lebur suatu zat adalah bilangan yang
+menunjukkan berapa kalori yang diperlukan untuk mencairkan 1 gram zat padat itu pada pangkal cair. Sedangkan kalor beku suatu zat adalah bilangan yang menunjukkan banyaknya kalori yang dikeluarkan oleh 1 gram zat ketika membeku pada pangkal bekunya.
+
+9
+
+Ilmu Bahan Listrik
+Contoh 1.1 1. Sebatang aluminium pada suhu 300C panjangnya 40 cm. Jika dipanaskan sampai
+1000C, dengan koefisien muai panjang aluminium ? = 0,000024, berapakah panjang aluminium setelah dipanaskan ?
+Jawab : Lt2 ? Lt1 ?1 ? ? (t2 ? t1 ?= 40 {1 + 0,000024 (100 ­ 30)} = 40,0672
+Jadi panjangnya setelah dipanaskan sampai 1000C menjadi 40,0672 cm . 2. Sebuah benda pejal dibuat dari kuningan pada suhu 300C volumenya 30 cc. Jika
+dipanasi sampai 1200C dengan koefisien muai-ruang ? = 0,000057. Berapakah volumenya setelah dipanaskan ?
+Jawab : Vt2 ? Vt1 ?1? ? (t2 ? t1? = 30 {1+0,000057(120 ­ 30)} = 30,1539
+Jadi volume kuningan setelah dipanaskan sampai 1200C menjadi 30,1539 cc.
+1.2 Sifat Mekanis
+Sifat mekanis adalah perubahan bentuk dari suatu benda padat akibat adanya gaya-gaya dari luar yang bekerja pada benda tersebut. Jad i adanya perubahan itu tergantung kepada besar kecilnya gaya, bentuk benda, dan dari bahan apa benda tersebut dibuat. Jika tidak ada gaya dari luar yang bekerja, maka ada tiga kemungkinan yang akan terjadi pada suatu benda : a. Bentuk benda akan kembali ke bentuk semula, hal ini karena benda mempunyai sifat
+kenyal (elastis) b. Bentuk benda sebagian saja akan kembali ke bentuk semula, hal ini hanya sebagian
+saja yang dapat kembali ke bentuk semula karena besar gaya yang bekerja melampaui batas kekenyalan sehingga sifat kekenyalan menjadi berkurang. c. Bentuk benda berubah sama sekali, hal ini dapat terjadi karena besar gaya yang bekerja jauh melampaui batas kekenyalan sehingga sifat kekenyalan sama sekali hilang.
+Tegangan patah. Tiap bahan yang mengalam i pembebanan jika ditambah terus menerus, mula-
+mula mengalami perubahan bentuk dan akhirnya akan patah. Tegangan patah adalah batas tegangan dalam kg/cm2, dimana bahan akan patah apabila bebannya melampaui
+10
+
+Ilmu Bahan Listrik
+
+batas. Sedangkan yang dimaksud dengan tegangan tar ik/tekan dalam satua kg/cm2 yaitu besarnya gaya yang bekerja (kg) dalam satuan luas (cm2), dan dapat ditulis dengan
+
+persamaan :
+
+?t
+
+?
+
+P q
+
+, dimana ? t : tegangan (kg/cm2), P : gaya yang bekerja (kg) ,
+
+dan q : luas potongan normal (cm2).
+
+Besar batas-proporsional, batas-elastis, batas-cair dan batas-patah untuk tiap-tiap
+
+_
+bahan dapat diperoleh dengan percobaan. Kecuali besar tegangan yang diizinkan (? )
+
+dapat pula tergantung kepada macam muatannya, antara lain :
+
+a. Muatan yang bersifat diam dan besarnya tetap, disebut muatan statis.
+
+b. Muatan santak mempunyaim satu atah, tetapi berubah antara nol dan nilai tertinggi.
+
+Untuk muatan ini tegangan yang diizinkan 2/3 dari tegangan muatan statis.
+
+c. Muatan berganti-ganti bekerja dengan arah berganti-ganti. Tegangan yang diizinkan
+
+1/3 dari tegangan yang diizinkan untuk muatan statis.
+
+Contoh 1.2
+
+_
+Jika pada muatan statis suatu bahan mempunyai ? = 1200 kg/cm2, maka pada muatan
+
+_
+santaks diambil ? = 2/3 x 1200 = 800 kg/cm2. Pada muatan berganti-ganti harus
+
+_
+diambil ? = 1/3 x 1200 = 400 kg/cm2.
+
+Angka keamanan, yaitu perbandingan antara tegangan patah dengan tegangan yang
+
+diizinkan, atau dirumuskan :
+
+v
+
+?
+
+?
+_
+
+p
+
+,
+
+dimana
+
+v
+
+:angka
+
+keamanan,
+
+?p
+
+:
+
+tegangan
+
+patah
+
+?t
+
+_
+dan ? t : tegangan yang diizinkan.
+
+Contoh 1.3 Suatu bahan mempunyai tegangan patah 4000 kg/cm2, dan untuk tegangan yang diizinkan sebesar 800 kg/cm2. Hitung berapa besar angka keamanannya dari bahan
+
+tersebut ?
+
+Jawab :
+
+v?
+
+? p
+_
+?t
+
+?
+
+4000 800
+
+?
+
+5
+
+Angka keamanan selalu diambil lebih besar dari satu, sehingga makin besar angka
+
+keamanan suatu bangunan maka makin aman bangunan tersebut.
+
+11
+
+Ilmu Bahan Listrik
+Perubahan Bentuk karena Beban Jika suatu batang mengalami beban tarik/tekan, maka akan memanjang atau memendek. Menurut percobaan Robert Hooke menyatakan : batang yang panjangnya 1 cm dibawah batas muatan tertentu, maka pemanjangan atau pemendekannya : a. Berbanding lusur dengan gaya tarik/tekan (P) b. Berbanding lusur dengan panjang semula (l) c. Berbanding terbalik dengan luas potongan (q) d. Tergantung pada macam bahan batang tersebut. Ditulis dalam bentuk persamaan ( disebut rumus Hooke) sebagai berikut :
+P. l ?l ?
+E.q dimana ? l : perpanjangan/perpendekan (cm), P : besar beban (kg), l : panjang batang sebelum dibebani (cm), E : modulus elastis (tergantung macam bahan), q : luas potongan (cm2). Tegangan Geser Tegangan geser biasanya deiberi tanda ? (baca : tau) dapat ditulis dengan persamaan : ? ? P dimana P : besar beban (kg), q : luas potongan normal (cm2), dan ? : tegangan
+q geser yang diizinkan (kg/cm2).
+1.3 Sifat Kimia
+Berkarat adalah termasuk sifat kimia dari suatu bahan yang terbuat dari logam. Hal ini terjadi karena reaksi kimia dari bahan itu sendiri dengan sekitarnya atau bahan itu sendiri dengan bahan cairan. Biasanya reaksi kimia dengan bahan cairan itulah yang disebut berkarat atau korosi. Sedangkan reaksi kimia dengan sekitarnya disebut pemburaman .
+12
+
+Ilmu Bahan Listrik
+2. Kegiatan Belajar 2
+BAHAN PENYEKAT
+a. Tujuan Kegiatan Pembelajaran :
+- Siswa memahami macam -macam bahan penyekat dan sifat-sifatnya
+b. Uraian Materi 2 : 2.1 Maksud dan Tujuan
+Bahan penyekat atau sering disebut dengan istilah isolasi adalah suatu bahan yang digunakan dengan tujuan agar dapat memisahkan bagian-bagian yang bertegangan atau bagian-bagian yang aktif. Sehingga untuk bahan penyekat ini perlu diperhatikan mengenai sifat-sifat dari bahan tersebut, sepeti : sifat listrik, sifat mekanis, sifat termal, ketahanan terhadap bahan kimia, dan lain-lain.
+a. Sifat Listrik
+yaitu suatu bahan yang mempunyai tahanan jenis listrik yang besar agar dapat mencegah terjadinya rambatan atau kebocoran arus listrik antara hantaran yang berbeda tegangan atau dengan tanah. Karena pada kenyataannya sering terjadi kebocoran, maka harus dibatasi sampai sekecil-kecilnya agar tidak melebihi batas yang ditentukan oleh peraturan yang berlaku (PUIL : peraturan umum instalasi listrik).
+b. Sifat Mekanis Mengingat sangat luasnya pemakaian bahan penyekat, maka perlu dipertimbang-
+kan kekuatannya supaya dapat dibatasi hal-hal penyebab kerusakan karena akibat salah pemakaian. Misal memerlukan bahan yang tahan terhadap tarikan, maka dipilih bahan dari kain bukan dari kertas karena lain lebih kuat daripada kertas.
+c. Sifat Termis Panas yang timbul pada bahan akibat arus listrik atau arus gaya magnit
+berpenga-ruh kepada penyekat termasuk pengaruh panas dari luar sekitarnya. Apabila
+13
+
+Ilmu Bahan Listrik
+panas yang terjadi cukup tinggi, maka diperlukan pemakaian penyekat yang tepat agar panas tersebut tidak merusak penyekatnya.
+d. Sifat Kimia Akibat panas yang cukup tinggi dapat mengubah susunan kimianya, begitu pula
+kelembaban udara atau basah disekitarnya. Apabila kelembaban dan keadaan basah tidak dapat dihindari, maka harus memilih bahan penyekat yang tahan air, termasuk juga kemungkinan adanya pengaruh zat-zat yang merusak seperti : gas, asam, garam, alkali, dan sebagainya.
+2.2 Bentuk Penyekat
+Bentuk penyekat menyerupai dengan bentuk benda pada umumnya, yaitu : padat, cair, dan gas sesuai dengan kebutuhannya.
+a. Penyekat bentuk padat Beberapa macam penyekat bentuk padat sesuai dengan asalnya, diantaranya :
+(1) Bahan tambang, seperti : batua pualam, asbes, mika, mekanit, mikafolium, mikalek, dan sebagainya.
+(2) Bahan berserat, seperti : benang, kain, (tekstil), kertas, prespan, kayu, dll. (3) Gelas dan keramik (4) Plastik (5) Karet, bakelit, ebonit, dan sebagainya. (6) Bahan -bahan lain yang dipadatkan.
+b. Penyekat bentuk cair Penyekat dalam bentuk cair ini yang paling banyak digunakan adalah minyak transformator dan macam-macam minyak hasil bumi.
+c. Penyekat bentuk gas Penyekat dalam bentuk gas ini dapat dikelompokkan ke dalam : udara dan gas -gas lain, seperti : Nitrogen, Hidrogen dan Carbondioksida (CO2), dan lain-lain.
+14
+
+Ilmu Bahan Listrik
+
+2.3 Pembagian Kelas Bahan Penyekat
+
+Berdasarkan suhu maksimum yang diizinkannya, maka bahan penyekat listrik
+
+dapat dibagi menjadi :
+
+Kelas Maksimum Temperatur ( 0 C ) Kelas Maksimum Temperatur ( 0 C )
+
+Y
+
+90
+
+F
+
+155
+
+A
+
+150
+
+H
+
+180
+
+E
+
+120
+
+C
+
+180 ke atas
+
+B
+
+130
+
+1. Kelas Y Yang termasuk dalam kelas ini adalah bahan berserat organis (seperti kertas, karton, katun, sutera, dan sebagainya) yang tidak dicelup dalam bahan pernis atau bahan pencelup laiinya. Termasuk juga bahan termoplastik yang dapat lunak pada suhu rendah.
+2. Kelas A Yaitu bahan berserat dari kelas Y yang telah dicelup dalam pernis atau kompon atau yang terendam dalam cairan dielektrikum (seperti penyekat fiber pada transformator yang terendam minyak). Bahan -bahan ini adalah katun, sutera, dan kertas yang telah dicelum, termasuk kawat email (enamel) yang terlapis damar-oleo dan daman polyamide.
+3. Kelas E Yaitu bahan penyekat kawat enamel yang memakai bahan pengikat polyvinylformal, polyurethene dan damar epoxy dan bahan pengikat lain sejenis dengan bahan selulosa, pertinaks dan tekstolit, film triacetate, film dan serat polyethylene terephthalate.
+4. Kelas B Yaitu bahan bukan organik (seperti : mika, gelas, fiber, asbes) yang dicelup atau direkat menjadi satu dengan pernis atau kompon, dan biasanya tahan panas (dengan dasar minyak pengering, bitumin sirlak, bakelit, dan sebagainya).
+5. Kelas F Yaitu bahan bukan organik yang dicelup atau direkat menjadi satu dengan eposide, polyurethane atau pernis lain yang tahan panas tinggi.
+
+15
+
+Ilmu Bahan Listrik
+6. Kelas H Yaitu semua bahan komposisi bahan dasar mika, asbes dan gelas fiber dicelup dalam silikon dan tidak mengandung sesuatu bahan organis seperti kertas, katun dll.
+7. Kelas C Yaitu bahan bukan organik yang tidak dicelup dan tidak terikat dengan zat-zat organik, seperti : mika, mikanit, yang tahan panas (menggunakan bahan pengikat bukan organik), mikalek, gelas dan bahan keramik. Hanya satu bahan organis saja yang termasuk kelas C yaitu polytetrafluoroethylene (teflon).
+16
+
+Ilmu Bahan Listrik
+3. Kegiatan Belajar 3
+PENYEKAT BENTUK PADAT
+a. Tujuan Pembelajaran :
+- Siswa memahami sifat-sifat penyekat bentuk padat dan mampu menerapkannya
+b. Uraian Materi 3 : 3.1 Bahan Tambang
+Bahan tambang adalah bahan yang berasal dan terdapat dari penggalian dalam tanah dalam bentuk bijih (seperti besi, seng, bongkahan batu : pualam, batu tulis, dll.) yang harus diproses dahulu untuk mendapatkan bahan yang dikehendaki. Beberapa macam bahan tambang tersebut antara lain : a. Batu pualam , yaitu batu kapur (CaCo3) atau dolomit merupakan bongkahan batu
+besar yang dipotong-potong menjadi lempengan tebal dengan ukuran tertentu. b. Asbes, yaitu bahan berserat, tidak kuat dan mudah putus, dan sebenarnya kuat baik
+digunakan untuk penyekat listrik.. c. Mika. Mika ini mempunyai sifat-sifat teknis yang baik, sehingga banyak digunakan
+sebagai bahan penyekat. d. Mikanit. Yaitu Mika yang telah mendapat perubahan bentuk maupun susunan
+bahannya sesuai kebutuhan. Tujuan melapis mika dan terkadang dengan tambahan kain, kertas atau pita adalah untuk memperoleh tebal yang dikehendaki agar dapat mempertinggi daya sekat listrik, dan untuk menanbah kekuatan mekanis agar tidak retak jika digulung atau dilipat. e. Mikafolium. Yaitu sejenis mikanit dan sebagai bahan menggunakan mika yang ditaburkan di atas lapisan kertas tipis dengan perekat pernis dan bahan sintetis lain. Mikafolium mudah dibengkokan dengan cara pemanasan, dan bahan ini digunakan sebagai penyekat untuk pembungkus kawat atau batang lilitan pada mesin-mesin listrik tegangan tinggi.
+17
+
+Ilmu Bahan Listrik
+f. Mikalek . Yaitu dengan menggunakan gelas dan plastik sebagai bahan dasar, bubuk mika sebagai pengisi dan ditambah perekat pernis kemudian dicetak. Pengepresan cetakan membutuhkan suhu yang tinggi untuk dapat melunakan gelas, sehingga bahan ini mempunyai kekuatan mekanis yang tinggi.
+g. Batu tulis. Yaitu merupakan bahan penyekat dengan bentuk berlapis -lapis dan mudah dibelah-belah dengan pahat atau martil. Batu tulis ini tidak dapat digosok halus seperti pualam, mempunyai mekanis kuat sebagai penyekat, tetapi kurang menarik dan dapat menyerap air. Walaupun lebih tahan terhadap asam dan panas tetapi bahan ini sudah jarang dipakai.
+h. Phlogopite. Yaitu batu ambar mika yang mengandung kalium, silikat magnesium aluminium yang berasal dari kanada dan madagaskar. Sedangkan Muscivite adalah mika putih yang mengandung kalium, silikat aluminium yang merupakan salah satu bahan penyekat terbaik karena lebih kuat, lebih keras, lebih fleksibel daripada Phlogopite dan juga tahan terhadap asam dan zat alkali.
+3.2 Bahan Berserat
+Bahan dasar yang dipergunakan untuk bahan berserat berasal dari tiga mac am, yaitu tumbuh-tumbuhan, binatang, dan bahan tiruan (sintetis). Sebenarnya bahan ini kurang baik sebagai bahan penyekat listrik karena sifatnya sangat menyerap cairan, sedangkan cairan itu dapat merusak penyekat yang menyebabkan daya sekatnya menurun. Tetapi karena faktor-faktor lain seperti : bahan berlimpah sehingga murah harganya; daya mekanisnya cukup kuat dan fleksibel; dan dengan disusun berlapis-lapis dan dicampur dengan zat-zat tertentu untuk meningkatkan daya sekat, daya mekanis dan daya tahan panas, sehingga bahan berserat ini banyak dipakai sebagai penyekat listrik.
+Beberapa bahan yang termasuk bahan berserat, antara lain : a. Benang Benang merupakan hasil pemintalan pertama dari sebuah kapas yang berserat cukup panjang, setelah biji-bijinya yang menempel dipisahkan terlebih dahulu. Dari kumpulan benang ini dapat dibuat tali, pita, dan kain tenun, yang selanjutnya disebut dengan tekstil. Dalam bidang kelistrikan banyak digunakan sebagai penyekat kawat.
+18
+
+Ilmu Bahan Listrik
+Pemakaian benang banyak dipakai untuk penyek at kawat halus yang digunakan dalam pembuatan pesawat-pesawat cermat seperti pengukuran listrik. Sekarang banyak digunakan benang sintetis dari bahan plastik, gelas, dan sebagainya karena lebih kuat dan tahan panas.
+b. Tekstil Dengan menenun benang menjad i tekstil (pita dan kain dengan berbagai macam corak, ukuran dan kualitas) maksudnya adalah untuk memperoleh penyekat yang lebih baik, yaitu pertama lebih kuat, dan kedua dalam beberapa hal mempermudah teknis pelaksanaan (membalut lilitan penyekat kawat). Selain tekstil dari kapas, ada juga dari serat yumbuh-yumbuhan yang dikenal dengan nama lena (linnen). Bahan ini lebih kuat daripada kertas. Pada tekstil ini ada yang terbuat dari bahan tiruan (sintetis), dimana bahan ini digunakan dalam bidang kelistrikan sebagai penyekat kawat-kawat lilitan mesin listrik, pengikat, dan sebagainya. Karena sifat tekstil ini dapat menyerap cairan, maka untuk memperbaiki daya sekatnya dilapisi atau dicelup ke dalam cairan lak penyekat.
+c. Kertas Bahan dasar kertas adalah selulosa, dimana bahan ini adalah zat sel tumbuh-tumbuhan yang terdapat antara kulit dan batangnya. Selulosa ini berserat, fleksibel, lunak dan menyerap air, sedangkan bahan pembuat kertasnyadiambil dari kayu, merang, rami, majun (sisa bahan tekstil), dan lain-lain. Kertas yang terlalu kering atau lembab, kekuatan penyekatnya berkurang karena kertas sangat menyerap cairan, sehingga untuk mengatasinya kertas dilapisi lak penyekat. Penggunaan kertas untuk penyekat selain sebagai pembalut lilitan kawat dan kumparan, juga untuk penyekat kabel dan kondensator kertas. Untuk memenuhi tebal yang diharapkan kertas dibuat berlapis -lapis.
+d. Prespan Prespan juga sebetulnya kertas, karena bahan dasarnya sama hanya berbeda sifatsifatnya saja. Dibandingkan dengan kertas, prespan lebih padat sehingga kurang menyerap air. Padat karena pembuatannya ditekan dengan tegangan tinggi sehingga
+19
+
+Ilmu Bahan Listrik
+lebih keras dan lebih kuat, tetapi dapat dibengkokan dengan tidak retak-retak sehingga baik sekali untuk penyekat alur stator atau rotor mes in listrik, juga pada transformator sebagai penyekat lilitan dan kawatnya. Prespan ini di pasaran berbentuk lembaran atau gulungan dengan ukuran tebal antara 0,1 sampai 5 mm, warnanya kekuning-kuningan, coklat muda atau abu. Karena daya menyerap air masih ada, maka dalam pelaksanaannya selalu masih perlu dilapisi lak penyekat.
+e. Kayu Pada tahun-tahun yang silam, kayu banyak digunakan sebagai penyekat misalnya untuk tiang listrik, karena terdapat dimana-mana dan harganya murah. Sekarang kayu banyak terdesak oleh besi, beton, dan bahan sintetis. Kelebihan kayu adalah kekuatan mekanisnya cukup tinggi tergantung dari macam dan kerasnya kayu, tetapi kelemahannya adalah menyerap air, dapat rusak karena hama dan penyakit serangga sehingga mudah rapuh. Supaya day a tahan lama, maka kayu harus diawetkan lebih dahulu.
+f. Fiber Pulkanisir Proses pembuatan bahan ini sebelum digulung pada silinder baja, kertas dilewatkan melalui larutan chlorida seng (ZnCl2) yang panas. Tiap lapisan direkatkan dengan perekat sampai mencapai tebal lapisan yang dikehendaki pada gulungan tersebut. Pembersihan kembali zat chlorida seng dilakukan dengan air bersih, kemudian di pres menjadi lembaran, papan, atau dibuat pipa dengan tebal antara 0,5 sampai 25 mm. Bahan ini kuat sekali, tetapi menyerap air sehingga sebelumnya dilapis dahulu dengan parapin, minyak transformator atau zat lain serupa.
+g. Kain Pernis Bahan kain yang telah dipernis sering disebut dengan cambric. Kelebihan bahan ini adalah fleksibel, kekuatan mekanisnya tinggi sedangkan lapisan pernisnya merupakan penyekat listrik yang baik. Sehingga daya penyekat semacam ini sangat luas digunakan pada pekerjaan mesin listrik, peralatan, serta kabel listrik selain dijadikan pita dan pembalut. Macam penyekat ini dapat digunakan untuk suhu sekitar 1000C, dengan bahan sintetis seperti polyester dan polyamid.
+20
+
+Ilmu Bahan Listrik
+Kain pernisan dijual dalam gulungan dengan lebar kira-kira 1 yard dan panjang antara 45 yard sampai 90 yard.
+h. Pita Penyekat Bahan ini banyak digunakan dalam bidang instalasi listrik, yang merupakan pita penyekat dengan campuran karet dalam gulungan kecil antara 1 dan 5 cm lebar dan garis tengah luar kira-kira 15 cm. Tebal pita kira-kira 0,25 mm. Sekarang banyak pita perekat terbuat dari bahan sintetis kuat dan tidak menyerap air, tetapi tidak untuk suhu yang tinggi.
+3.3 Gelas dan Keramik
+a. Gelas Gelar merupakan penyekat yang baik untuk arus listrik, tetapi kekuatan mekanisnya kecil dan sangat rapuh tidak seperti bahan keramik. Pemakaian dalam teknik listrik antara lain untuk pembuatan bola lampu pijar, termometer-kontak (untuk mengontrol suhu tertentu suatu tenpat seperti tempat penetasan telur), dan lain-lain. Untuk hiasan penerangan listrik banyak dipakai ornamen kaca yang dibuat dari kaca susu, kaca kabur (matglas) dan kaca opal, yang dalam perdagangan terdapat bermacam-macam bahan gelas seperti gelas kristal, gelas kali, gelas natron, dan gelas flint. Bahan baku pembuatan gelas adalah kuarsa dan kapur yang dicairkan bersama-sama dengan bahan lainnya. Paduan kuarsa dengan oksida timbel menghasilkan gelas kristal, bahan baku ditambah dengan potas menghasilkan gelas kali, dan penambahan soda menghasilkan gelas natron. Pengerjaan bahan baku di atas biasanya dipanaskan sampai + 20000C, sehingga menjadi encer dan baru dikerjakan.
+b. Keramik Keramik didapat dari bahan galian dengan melalui proses pemanasan, kemudian dijadikan barang keramik, seperti cangkir teko, dalam teknik listrik digunakan untuk penyekat loceng dan mantal. Keramik yang digunakan untuk keperluan teknik listrik harus mempunyai daya sekat yang besar dan dapat menahan gaya mekanis yang besar seperti porselin dan steatit. Bahan penyekat dari porselin seperti : penyekat lonceng,
+21
+
+Ilmu Bahan Listrik
+penyekat mantel, penyekat cincin, penyekat tegangan tinggi, sekering pipa porselin, dan lain-lain. Sedangkan bahan penyekat terbuat dari steatit, antara lain : sakelar, kontak tusuk, manik-manik penyekat kawat penghubung yang dapat melentur (fleksibel) dan letaknya berdekatan dengan alat pemanas listrik, untuk pembuatan bumbung penerus (tube), pena-kontak -baut, badan alat-alat pemanas seperti kompor listrik, seterika, dan lain-lain.
+3.4 Plastik
+Plastik merupakan paduan dari dua bahan yaitu bahan perekat (seperti damar atau resin) dan bitumin dengan bahan pengisi serbuk batu, serbuk kayu dan katun. Menurut paduannya, ada bermacam-macam bahan plastik, diantaranya bakelit. Ada dua jenis plastik yang perlu kita ketahui, yaitu : a. Thermoplastik. Bahan ini pada suhu 600C sudah menjadi lunak, dan pemanasan
+sampai mencair tidak merubah struktur kimiawi b. Thermosetting plastik. Bahan ini setelah mengalami proses pencairan dan cicetak
+menjadi barang akan mengalami perubahan struktur kimiawi, hingga tidak dapat lunak lagi walaupun dipanaskan. Beberapa bahan pengisi paduan dalam pembuatan plastik selain yang telah disebutkan di atas, antara lain : mika, alpha selulosa, kain kapas, kertas, asbes, grafit, karbon, dan kanvas.
+3.5 Karet, Ebonit dan Bakelit
+a. Karet Karet merupakan bahan penting untuk penyekat dalam teknik listrik yang terbuat dari getah bermacam-macam pohon karet, salah satu diantaranya : Hevea Braziliensis yang menghasilkan karet terbanyak dengan kualitas tinggi. Proses penyampuran karet kasar dengan belerang dan bahan tambahan lainnya dibeut vulkanisasi. Untuk mendapatkan vulkanisasi yang baik dengan cara pemanasan uap, karena tekanan uap dpat mencegah terjadinya pori dalam masa yang divulkanisir, sedang pemanasannya dapat berjalan teratur. Bahan perekat untuk kulit, karet dan sebagainya dapat dibuat dari karet kasar dicampur dengan bensin atau bensol. Karet kasar juga merupakan bahan untuk pembuatan pita penyekat (dibuat dari bahan katun,
+22
+
+Ilmu Bahan Listrik
+dicelupkan dalam larutan karet kasar untuk memberi gaya perekat pada pita tersebut. Pita penyekat ini dapat dipakai untuk menyekat tempat sambungan kawat, ujung kabel nadi dan batu mahkota, serta dalam industri mobil. Dalam teknik listrik karet sebagai penyekat hantaran listrik, sepatu kabel, perkakas pemasangan instakasi kistrik, dll.
+b. Ebonit Bahan dasar ebonit adalah karet dan untuk mendapatkan kekerasan dicampur dengan belerang dan bahan tambahan lainnya sekitar 30 sampai 50 % dengan melalui proses vulkanisasi yang lama. Dalam perdagangan ebonit berbentuk lempeng, batang atau pipa dengan bermacam-macam ukuran.
+c. Bakelit Bakelit adalah bahan paduan secara kimia bermacam -macam zat yang pertama dibuat oleh perusahaan Bakelit Co., yang kemudian dibuat oleh perusahaan lain dengan nama sendiri-sendiri, seperti perusahaan Philips dari Belanda dengan nama philite, perusahaan Hasemeir dengan nama hajalite yang dikenal dengan nama bakelit.
+3.6 Bahan Dipadatkan
+Bahan penyekat yang dipadatkan mula-mula cair kemudian dijadikan padat. Bahan ini banyak dipakai sebagai pelapis, pengisi, pemadatan (inpregnasi) dan perekat bahan penyekat padat. Beberapa bahan yang dipadatkan antara lain : lilin dengan parafin; damar (gondorukem, arpus); bitumin; bahan-bahan pelarut seperti : kerosin (minyak tanah), gasolin, spiritus putih, bensin, methanol (methyl alkohol), ethanol (ethyl alkohol), aceton, minyak terpentin, dll.; minyak pengering (minyak biji lena dan minyak Tung); pernis (pernis minyak, pernis hitam, lak selulosa, pernis bakelit, pernis sirlak, pernis gliptal); dan kompon (kompon bitumin, kompon kuarsa, dan kompon kabel).
+3.7 Bahan Isolasi PVC
+Polivinilklorida atau PVC adalah hasil polimerisasi dari vinilklorida H2C = CHCl. Pada proses polimerisasi, ikatan ganda yang melekat pada molekul vinilklorida diubah menjadi ikatan tunggal. Ikatan yang bebas kemudian mengikat molekul-molekul vinilklorida lain sehingga timbul molekul-molekul makro panjang, yaitu PVC :
+23
+
+Ilmu Bahan Listrik
+H Cl H Cl H Cl H Cl
+.... ­ C ­ C ­ C ­ C ­ C ­ C ­ C ­ C ­ ...
+H H H H H H H H Pada suhu kamar PVC ini keras dan rapuh, dan supaya dapat digunakan sebagai bahan isolasi kabel, PVC harus dicampur dengan bahan pelunak (plasticiser). Bahan lunak yang dicampur umumnya sebanyak 20 % hingga 40 % kadang-kadang bahkan lebih, dan hasil campuran ini disebut kompon PVC. Untuk membedakan PVC yang belum dicampur dinamakan damar PVC (PVC resin). Kompon PVC kabel ini harus digunakan bahan pelunak dengan sifat-sifat listrik yang baik, tidak boleh menguap, dan tidak boleh menjalarkan nyala api. Damar PVC sendiri walaupun dapat dibakar, tetapi akan padam sendiri apabila sumber apinya disingkirkan.
+Berat jenis damar PVC sekitar 1,4 tergantung jenis dan banyaknya bahan yang dicampurkan, sedangkan berat jenis kompon PVC berkisar antara 1,25 ­ 1,55. Damar PVC memiliki ketahanan cukup baik terhadap sejumlah besar bahan kimia lain, dan dengan menggunakan bahan pelunak yang tepat dapat diciptakan kompon PVC yang tahan terhadap bahan kimia tertentu.
+Salah satu kelemahan kompon PVC akibat digunakan bahan pelunak adalah ketahanan terhadap tekanan, yaitu kalau ditekan cukup lama dan cukup kuat kompon PVC tidak dapat pulih dan makin tinggi suhunya makin kurang ketahanan terhadap tekanan tersebut. Umumnya kompon PVC hanya dapat digunakan sampai suhu 700 C terus menerus. Tetapi dengan menggunakan bahan pelunak khusus dapat dibuah sampai suhu lebih tinggi sampai 1050C.
+3.8 Polietilen atau PE
+Polietilen atau PE adalah hasil polimerisasi dari etilen H2C = CH2, dengan sifat-sifat listrik lebih baik dari pada yang dimiliki PVC. Hanya PE lebih mudah terbakar. Kalau PE dibakar, nyala apinya akan tetap menjalan, juga setelah sumber apinya disingkirkan. Karena itu PE hampir tidak digunakan untuk kabel-kabel arus kuat, kecuali XLPE (crosslinked polyethylene). Karena sifat PE yang baik pada frekuensi tinggi, maka banyak digunakan untuk kabelkabel telekomunikasi. Kelebihan PE dibanding PVC adalah tidak lebih mudah menyerap air, dan kalau digunakan di tempat yang lembab atau basah, tahanan isolasi PVC akan lebih menurun dibandingkan dengan PE.
+24
+
+Ilmu Bahan Listrik
+4. Kegiatan Belajar 4
+PENYEKAT BENTUK CAIR
+a. Tujuan Pembelajaran :
+- Siswa memahami sifat-sifat penyekat bentuk cair dan mampu menerapkannya
+b. Uraian Materi 4 :
+4.1 Cairan
+Cairan atau bahan bentuk cair adalah benda yang pada suhu biasa berbentuk cair dan umumnya tidak dalam keadaan murni tetapi merupakan persenyawaan macam macam unsur. a. Air Macam-macam air di alam, antara : air hujan, air sumur, air tambang atau mineral, dan air laut. Semua air tersebut bukan bahan penyekat, tetapi sebaliknya akan membahayakan penyekat karena sifatnya yang merusak seperti terjadi karat karena beroksidasi dengan air tersebut. Air suling atau air murni dapat disebut sebagai bahan penyekat walaupun masih dapat mengalirkan arus listrik dalam jumlah yang sangat kecil. Karena air dalam susunan kimianya mengandung zat asam yang mudah bergabung dengan logam, maka air tidak dipakai sebagai penyekat listrik secara langsung. Kalau ada air yang digunakan dalam peralatan/mesin listrik, fungsinya hanya sebagai pendingin dan tidak langsung berhubungan dengan hantaran atau bagian yang bertegangan listrik.
+b. Minyak Transformator Minyak transformator adalah hasil pemurnian minyak bumi yang diperlukan untuk pendingin. Karena transformator, tahanan pengasut, penghubung tenaga, atau yang bekerja dengan tegangan tinggi sangat membutuhkan pendinginan. Tanpa pendinginan yang baik akan merusak penyekat inti, lilitan dan bagian lain yang perlu. Beberapa persyaratan yang harus dipenuhi sebagai minyak transformator, antara lain : ? Minyak harus cair dan jernih, tidak berwrna (transparan)
+25
+
+Ilmu Bahan Listrik
+? Bebas dari komponen air, asam, alkali, aspal, ter, dan sebagainya ? Campuran abu (arang) pada minyak baru tidak lebih dari 0,005 % ? Minyak baru tidak boleh mengandung asam 0,05 mg KOH/g ? Minyak yang pernah dipakai mengandung asam 0,4 mg KOH/g. ? Pengantar panas + 0,0015 W/cm pada suhu + 200C, atau pengantar pana tidak lebih
+dari 0,02 W/cm pada suhu + 800C. Mengingat persyaratan di atas sangat berat, maka perlu tindakan pencegahan untuk mempertahankan kondisi yang diinginkan, antara lain : ? Pengawasan dalam pengiriman atau transport ? Tempat penyimpanan, baik wadah maupun gudang ? Pengontrolan selama dipakai ? Segera dibersihkan jika mulai kotor ? Tempat dan cara pembersihan yang baik ? Minyak harus selalu tertutup rapat ? Menambah atau mengganti minyak harus elalui disaring dengan sempurna ? Saringan harus baik, jangan ada bagian-bagian kecil dari saringan terbawa dalam
+minyak, misalnya potongan kecil filter, serat-serat dan kotoran lainnya.
+c. Minyak Kabel Minyak kabel merupakan salah satu pemurnian minyak bumi yang dibuat pekat dengan cara dicampur dengan damar. Miny ak kabel digunakan untuk memadatkan penyekat kertas pada kabel tenaga, kabel tanah, dan terutama kabel tanaga tegangan tinggi. Selain untuk menguatkan daya sekat dan mekanisnya penyekat kertas, juga untuk menjaga atau menahan air supaya tidak dapat meresap dan sekaligus sebagai dielektrikum. Minyak yang digunakan sebagai dielektrikum pada kondensaor kertas keadaannya lebih padat, dan pada suhu 35 ­ 500C, keadaannya padat sekali.
+26
+
+Ilmu Bahan Listrik
+c. Rangkuman 1 : Suatu benda yang akan digunakan untuk keperluan bahan -bahan listrik baik baik
+sepeti untuk bahan konduktor, bahan isolator, maupun dijadikan sebagai bahan semi konduktor, harus diuji terlebih dahulu mengenai sifat -sifat dan karakteristiknya agar sesuai dengan keperluan bahan listrik yang akan digunakan. Beberapa sifat bahan listrik tersebut di antaranya adalah sifat fisis, sifat mekanis, dan sifat kimia.
+Dalam menentukan bahan yang akan dijadikan sebagai penyekat bahan listrik, maka seperti sifat fisis, sifat mekanis, sifat termis dan sifat kimia sangat penting untuk dilakukan suatu pengujian. Adapun macam-macam bentuk penyekat yang umum digunakan dalam ketenagalistrikan yaitu berbentuk padat, caira, dan gas. Disamping itu penyekat juga dapat dikelompokkan berdasarkan kelas suhu maksimum yang diizinkannya yaitu kelas Y, kelas A, kelas E, kelas B, kelas F, kelas H dan kelas C.
+Pada penyekat bentuk padat bahan listrik ini dapat dikelompokkan menjadi beberapa macam, diantaranya yaitu : bahan tambang, bahan berserat, gelas dan keramik, plastik, karet, ebonit dan bak elit, dan bahan-bahan lain yang dipadatkan. Bahan penyekat yang berbentuk cairan yang banyak digunakan pada teknik listrik adalah air, minyak transformator, dan minyak kabel. Sedangkan beberapa macam bahan penyekat dari bentuk gas yang sering digunakan un tuk keperluan teknik listrik diantaranya : udara, nitrogen, hidrogen, dan karbondioksida.
+27
+
+Ilmu Bahan Listrik
+d. Tugas 1 : 1. Buatlah suatu percobaan untuk membuktikan adanya penambahan panjang suatu
+batang aluminium dengan panjang 50 cm pada suhu 30OC. Dipanaskan sampai suhu 100OC. Koefisien muai panjang aluminium ? = 0,000024. Hitung panjang aluminium setelah dipanaskan ? 2. Buatlah suatu percobaan dengan 300 gram es yang sedang menjadi cair dicampur dengan 1 liter air pada suhu 100OC. Hitunglah suhu terakhir saat es itu semua menjadi air ? 3. Buatlah pengamatan terhadap minyak transformator, dan amatilah minyak tersebut apakah masih memenuhi persyaratan sebagai penyekat ? berikan alasan saudara !
+28
+
+Ilmu Bahan Listrik
+e. Tes Formatif 1 : 1. Apakah koefisien muai-ruang itu ? 2. Terangkan secara singkat apa arti kalor lebur dan kalor beku suatu zat ? 3. Hitung berapa kilogram air yang dapat dinaikkan 2OC dengan 10 kilogram kalori ? 4. Suatu benda pejal dibuat dari kuningan pada suhu 30OC volumenya 30 cc.
+Berapakah volumenya, jika benda tersebut kita panasi sampai 120OC. Koefisien muai-ruang kuningan ? = 0,000057 ? 5. Dua buah benda, benda A bidbuat dari besi beratnya 2 kg, panas jenis besi (PJ) = 0,1 suhunya 400OC. Benda B dibuat dari tembaga, beratnya 3 kg, panas jenis tembaga P J = 0,09 dan suhunya 900OC. Kedua benda tersebut dirapatkan satu sama lain hingga rapat benar. Berapa lama kemudian suhu kedua benda tersebut menjadi sama ? dan berapakah suhu akhir kedua benda tersebut ? 6. Bahan-bahan apakah yang termasuk dalam kelas Y ? 7. Bahan termoplastik yang dapat menjadi lunak pada suhu rendah digolongkan dalam kelas apa ? 8. Katun, sutera dan kerta yang telah dicelup dalam pernis atau kompon termasuk dalam kelas apa ? 9. Sebutkan bahan-bahan dasar yang digunakan untuk bahan isolasi berserat dan berikan contohnya ? 10. Sebutkan bahan -bahan yang dapat digunakan sebagai bahan penyekat dipadatkan ?
+29
+
+Ilmu Bahan Listrik
+f. Kunci Jawaban Formatif 1 : 1. Koefisien muai-ruang : bilangan yang menunjukkan pertambahan ruang dalam cm3
+suatu benda yang isinya 1 cm3, bila suhunya dinaikkan 1OC. 2. Kalor lebur zat : bilangan yang menunjukkan berapa kalori yang diperlukan untuk
+mencairkan 1 gr zat padat pada pangkal cair. Sedangkan kalor beku : bilangan yang menunjukkan banyaknya kalori yang dikeluarkan oleh 1 gr zat ketika membeku pada pangkal bekunya. 3. 2 kilogram 4. 30,1539 cc 5. 687OC. 6. Kelas Y : bahan berserat organis yang tidak dicelup dalam bahan pernis atau bahan pencelup lainnya. Contohnya : kertas, karton, katun, dan sutera. 7. Kelas Y 8. Kelas A 9. Bahan dasar : tumbuh-tumbuhan, binatang dan bahan tiruan (sintetis). Contohnya : benang, tekstil, kertas, prespan, kayu, fiber pulkanisir, kain oernis, pita penyekat. 10. Diantaranya : lilin dengan parafin, damar, bitumin, dan lain-lain.
+30
+
+Ilmu Bahan Listrik
+g. Lembar Kerja 1 : 1. Alat : obeng, tang, cutter, isolasi, termometer, meteran, alat tulis menulis, kabel, dan
+lain -lain 2. Bahan : aluminium, korek api, lilin, es, air, tempat es, tempat air, minyak
+transformator, alat pendeteksi temperatur (sensor suhu), dan lain-lain 3. Keselamatan kerja : jas lab, sarung tangan, senter, kerjakan sesuai instruction
+manual, patuhi prosedur kerja yang telah ditentukan, patuhi peraturan yang tercantum di lab atau tempat praktik. 4. Langkah kerja : tentukan peralatan-peralatan dan komponen-komponen yang akan dibutuhkan, buat rancangan diagram pengawatan yang akan dilakukan, pasang peralatan pengukur yang akan digunakan sesuai dengan diagram rencana, rangkai peralatan yang telah dipasang, periksa dan uji rangkaian atau peralatan yang telah dipasang, perbaiki apabila masih terdapat kesalahan atau komponen yang belum berfungsi dengan benar, uji sesuai dengan prosedur dan instruction manual yang berlaku, buat berita acara laporan pengujian atau percobaan 5. Laporan : Jawab pertanyaan-pertanyaan dan laporkan hasil pengujian sesuai dengan tugas yang diberikan
+31
+
+Ilmu Bahan Listrik
+5. Kegiatan Belajar 5
+BAHAN PENYEKAT GAS
+a. Tujuan Kegiatan Pembelajaran :
+- Siswa memahami bahan penyekat bentuk gas dan mampu menerapkannya
+b. Uraian Materi 5 :
+5.1 Macam-Macam Gas
+Gas merupakan benda teringan dan tidak mempunyai bentuk dan volume yang tetap. Beberapa macam bahan gas yang dpat dijadikan sebagai penyekat, antara lain :
+a. Udara Susunan udara di bumi hampir 80 % terdiri dari Nitrogen (N 2) dan kira-kira 20 % adalah Oksigen (O2), yang lain-lain macam gas dan uap hanya 1 % saja yaitu Argon, Helium, Neon, Kripton, Xenon, dan Carbondioksida (CO2). Dalam peralatana dan mesin listrik disengaja atau tidak udara merupakan sebagian dari penyekat lain yang telah ditentukan, seperti antara kawat-kawat jaringan listrik, udara dipakai sebahai penyekat. Pada tegangan yang tidak terlalu tinggi udara adalah penyekat yang baik, karena kebocoran melalui udara adalah kecil sekali. Tetapi bila tegangan antara dua penghantar atau elektroda menjadi terlalu tinggi, maka akan ada arus yang meloncat melalui udara yang disebut tegangan tembus. Bila jarak antara dua penghantar tidak begitu besar, keteguhan -listrik udara kurang lebih 3 sampai 5 kV/mm, tetapi keteguhan ini akan menurun bila jarak antara kedua elektroda itu semakin besar. Artinya besar tegangan tembus (breakdown voltage) dari udara tidak sebanding dengan jarak antara kedua elektroda tersebut. Untuk keamanan maka harus menggunakan penyekat padat. Tekanan udara juga berpengaruh terhadap keteguhan-listrik dari udara/ gas, dimana keteguhan akan naik apabila tekanan udara/gas naik, dan sebaliknya akan turun apabila tekanan udara/gar menurun. Udara banyak digunakan sebagai pendingin mesin, generator, dan transformator dengan vetilator atau pompa.
+32
+
+Ilmu Bahan Listrik
+b. Nitrogen Jenis gas ini tidak berwarna, tidak berbau dan tidak berasa, begitu pula tidak dapat terbakar, tidak memelihara pembakaran, sangat larut sedikit dalam air dan sukar bersenyawa dengan unsur lain. Gar ini dihasilkan dengan cara penyulingan bertingkat udara cair yaitu dengan pendinginan dan pemampatan udara dapat menjadi cair. Penyulingan dilakukan untuk menguapkan gas nitrogen pada titik didih ­ 1960C, sehingga tinggal oksigen cair, warnanya biru muda. Nitrogen merupakan penyekat juga, karena 80 % terdiri dari nitrogen, dan digunakan sebagai pengontrol saluran kabel pengisi/distribusi untuk mengetahui masih baik/ tidaknya penyekat kabel yang dipakai. Pada kabel tanah sering terjadi kerusakan penyekat akibat adanya karat, kerusakan mekanis atau kerusakan lapisan timah hitam karena tergores atau retak, sebagai akibat tanah longsor, gempa bumi dan sebab lain. Pada kabel dengan penyekat (kertas, kain pernisan, karet, dan sebagainya) yang masip tidak dapat segera diketahui jika terjadi keretakan/kerusakan penyekatnya. Maka sekarang kabel tidak dibuat masip tetapi bagian tengahnya berlubang yang merupakan saluran. Saluran ini diisi gas nitrogen dengan tekanan 1 ­ 1,5 kg/cm2. Apabila terjadi keretakan/kerusakan kabel maka terjadilah kebocoran nitrogen pada tempat keretakan tersebut, sehingga tekanan nitrogen pada kabel menurun. Dengan demikian dapat segera diketahui terjadinya kerusakan kabel. Untuk tekanan sedang digunakan sekitar 2,5 ­ 3 kg/cm2. Dengan digunakan sistem ini ternyata bahan penyekat padat yang dipakai dapat lebih hemat daripada yang masip. Ada juga kemungkinan dinaikkannya tekanan gas menjadi + 15 kg/cm2, tetapi masih jarang dipakai.
+c. Hidrogen Hidrogen bebas hanya terdapat sedikit dalam lapisan udara. Gas gunung berapi juga mengandung hidrogen tetapi bercampur dengan zat lain. Sebagai persenyawaan dalam jumlah besar misalnya pada air, hidrokarbon, dsb., hidrogen diperdagangkan dalam botol-botol baja dengan tekanan 150 atmosfir (atm). Sifat hidrogen tidak berwarna, tidak berbau, dan tidak berasa, merupakan gas teringan, dimana pada 00C dan 76 cg Hg, satu liter Hidrogen beratnya 0,09 gram. Dalam bentuk cair mudah terbakar tetapi tidak memelihara pembakaran. Hidrogen mudah bergabung dengan oksigen dan chlor dan merupakan pereduksi yang kuat. Gas hidrogen ini dibuat dengan cara : elektrolisa air,
+33
+
+Ilmu Bahan Listrik
+dan dengan cara mendinginkan gas air (CO + H2) sampai ­ 1910C, dimana gas CO mengembun tinggal H2 saja. Keuntungan penggunaan gas hidrogen dibandingkan dengan udara pada sistem pendingin turbogenerator dan kondensor sinkron, antara lain : ? Kerugian ventilasi berkurang 8 sampai 10 kali, dan efisiensi mesin mencapai 0,7
+sampai 1 prosen lebih tinggi, dan kepekaan hidrogen lebih rendah 8 ­ 10 kali dari udara ? Rata-rata pemindahan panas oleh hidrogen pada bagian-bagian panas 1,35 kali lebih banyak dan daya hantar panas hidrogen 6,7 kali lebih besar, sehingga dapat mengurangi 20 % keaktifan bahan (baja dan tembaga) ? Daya tahan penyekat meningkat dengan tidak adanya oksidasi. Debu dan lembab sangat berkurang sehingga mengurangi jumlah periode p emeliharaan dan perbaikan ? Karena tidak ada bahaya kebakaran jika terjadi kerusakan pada penyekat lilin, maka tidak dibutuhkan pengaman kebakaran. ? Kebisingan suara berkurang sekali ? Pendingin yang dibutuhkan relatif lebih rendah
+d. Carbon Dioksida setiap pembakaran carbon dengan oksigen yang berlebihan akan menghasilkan carbondioksida. Gas ini tidak berwarna, menyebabkan rasa segar pada air, tidak terbakar bahkan dapat memadamkan nyala api dan larut dalam air. Dalam teknik listrik gas karbondioksida juga digunakan dalam turbogenerator. Jika suatu mesin dengan pendingin hidrogen akan diganti dengan pendingin udara atau sebaliknya, sedang mesin tetap jalan, maka gas hidrogen yang diganti harus terbuang keluar dahulu. Begitu pula jika udara akan diganti gas hidrogen, udara harus bersih terbuang dahulu. Sebab percampuran antara hidrogen dengan udara mengakibatkan ledakan, dimana jika terjadi dalam suatu mesin sangat berbahaya.
+34
+
+Ilmu Bahan Listrik
+
+6. Kegiatan Belajar 6
+
+BAHAN PENGHANTAR
+
+a. Tujuan Kegiatan Pembelajaran :
+- Siswa memahami bahan-bahan penghantar dan mampu menerapkannya
+
+b. Uraian Materi 6 :
+
+6.1 Sifat Dasar Penghantar
+
+beberapa sifat penting yang dimiliki penghantar ialah : tahanan jenis listrik,
+
+koefisien suhu tahanan, daya hantar panas, kekuatan tegangan tarik, dan timbulnya daya elektro-motoris termo.
+
+a. Daya Hantar Listrik Arus listrik yang mengalir dalam penghantar selalui mengalami tahanan dari
+penghantar itu sendiri. Besarnya tahanan tergantung bahannya, dan besarnya tahanan tiap meter dengan penampang 1 mm2 pada suhu 200C dinamakan tahanan jenis yang dihitung dengan persamaan :
+
+R ? ? .l
+
+atau
+
+q
+
+? ? R.q l
+
+dimana R : besar tahanan salam satuan ohm, l : panjang kawat dalam satuan meter, q :
+
+penampang kawat dalam satuan mm2, dan ? (rho) : tahanan jenis dalam satuan ? .mm2 m
+
+Daya hantar jenis adalah kebalikan dari tahanan jenis, dirumuskan :
+
+? ? 1 satuan S.m
+
+?
+
+mm2
+
+? : gamma, dan S : Siemens
+
+Contoh 6.1 Besar tahanan tembaga dengan panjang satu meter, penampang 1 mm2 suhu 200C
+ternyata 0,0175 Ohm, maka besar tahanan jenis tembaga sama dengan 0,0175 Ohm. mm2/m. Untuk penetapan tahanan jenis bagi at cair diambil panjang satu cm dan
+
+35
+
+Ilmu Bahan Listrik
+penampang satu cm2, sehingga satuannya menjadi : Ohm = Ohm. cm, sedangkan cm / cm2
+daya hantarnya menjadi : S.Cm ? S Cm2 Cm
+
+b. Koefisien Suhu Tahanan Suatu bahan akan mengalami perubahan isi apabila terjadi perubahan suhu,
+memuai jika suhu naik dan menyusut jika suhu dingin, tentunya akan mempengaruhi besar nilai tahanannya, yang dapat dihitung dengan persamaan :
+R = R0 { 1 + ? (t ­ t0) } dengan Ro : besar tahanan awal (ohm), R : besar tahanan akhir (ohm), to : suhu awal (0C), t : suhu akhir (0C), dan ? : koefiien suhu tahanan. Nilai tahanan jenis, berat jenis dan titik cair dari bermacam-macam bahan dapat dilihat pada tabel 6.1.
+Tabel 6.1 Nilai Tahanan Jenis, Berat Jenis, dan Titik Cair Bahan
+
+Nama Bahan
+Perak Tembaga Cobalt Emas Aluminium Molibdin Wolfram Seng Kuningan Nikel Platina Nikeline Timah putih Baja Vanadium Bismuth Mangan Timbel Duraluminium Manganin Konstanta Air raksa
+
+Tahanan Jenis
+0,016 0,0175 0,022 0,022 0,03 0,05 0,05 0,06 0,07 0,079
+0,1 0,12 0,12 0,13 0,13 0,2 0,21 0,22 0,48 0,48 0,5 0,958
+
+Berat Jenis
+10,5 8,9 8,42 19,3 2,56 10,2 19,1 7,1 8,7 8,9 21,5
+7,3 7,8 5,5 9,85 7,4 11,35 2,8
+8,9 13,56
+
+Titik Cair
+960 1083 1480 1063 660 2620 3400 420 1000 1455 1774
+232 1535 1720 271 1260 330
+­ 38,9
+
+36
+
+Ilmu Bahan Listrik
+Bahan penghantar yang paling banyak dipakai adalah tembaga, karena tembaga merupakan bahan penghantar yang paling baik setelah perak dan harganyapun murah karena banyak terdapat. Akhir-akhir ini banyak digunakan Aluminium dan Baja sebagai penghantar walaupun tahanan jenisnya agak besar, hal ini dengan pertimbangan sangat berlimpah dan harganya menjadi lebih murah.
+c. Daya Hantar Panas Daya hantar panas ini menunjukkan jumlah panas yang melalui lapisan bahan
+tiap satuan waktu dalam satuan kkal/m.jam, derajat. Pada umumnya logam mempunyai daya hantar panas yang tinggi sedangkan pada bahan-bahan bukan logam rendah.
+d. Kekuatan Tegangan Tarik sifat mekanis ini penting untuk hantaran di atas tanah, maka bahan yang dipakai
+harus diketahui kekuatannya lebih -lebih menyangkut tegangan tinggi. Penghantar listrik dapat berbentuk padat, cair, atau gas. Yang berbentuk padat umumnya logam, elektrolit dan logam cair (air raksa) merupakan penghantar cair, dan udara yang diionisaikan dan gas-gas mulia (neon), kripton, dan sebagainya) sebagai penghantar bentuk gas.
+e. Timbulnya Daya Elektro Motoris-Termo Sifat ini penting terhadap dua titik kontak yang terbuat dari dua bahan yang
+berlainan, karena pada rangkaian arus akan terbangkit daya elektro motoris -termo tersendiri bila ada perbedaan suhu. Karena elektromotoris ini dapat tinggi, sehingga dapat menyimpangkan daya pengukuran arus atau tegangan listrik yang sangat kecil. Besarnya perbedaan tegangan yang terbangkit tergantung dari sifat -sifat kedua bahan dan sebanding dengan perbedaan suhunya. Daya elektro-motoris yang terbangkit oleh perbedaan suhu dinamakan : daya elektro motoris termo.
+6.2 Macam-Macam Bahan Penghantar
+Fungsi penghantar pada teknik listrik adalah untuk menyalurkan energi listrik dari satu titik ke titik lain. Penghantar yang lazim digunakan antara lain : tembaga dan aluminium. Beberapa bahan penghantar yang masih ada dan relevansinya, antara lain :
+37
+
+Ilmu Bahan Listrik
+
+a. Aluminium Aluminium murni mempunyai massa jenis 2,7 g/cm3, ? -nya 1,4. 105, titik leleh
+
+6580C dan tidak korosif. Daya hantar aluminium sebesar 35 m/ohm.mm2 atau kira-kira
+
+61, 4 % daya hantar tembaga. Aluminium murni dibentuik karena lunak, kekuatan tariknya hanya 9 kg/mm2. Untuk itu jika aluminium digunakan sebagai penghantar
+
+yang dimensinya cukup besar, selalu diperkuat dengan baja atau paduan aluminium.
+
+Penggunaan yang demikian mis alnya pada : ACSR (Aluminium Conductor Steel
+
+Reinforced), ACAR (Aluminium Conductor Alloy Reinforced). Konstruksi penghantar
+
+dari aluminium dan baja dapat dilihat pada gambar 6.1.
+
+paduan
+
+baja
+
+aluminium
+
+aluminium
+
+a. ACSR
+
+b. ACAR
+
+Gambar 6.1 Penampang penghantar dari aluminium
+
+Penggunaan aluminium yang lain adalah untuk busbar, dan karena alasan tertentu
+
+misalnya ekonomi, maka dibuat penghantar aluminium yang berisolasi, seperti : ACSR
+
+­ OW. Menurut ASA (American Standard Association), paduan aluminium diberi
+
+tanda seperti tabel 6.1 berikut.
+
+Tabel 6. 1 Penandaan Paduan aluminium
+
+Nama Bahan
+Aluminium (kemurnian minimum 99%) Paduan yang mayoritas terdiri dari : Tembaga Mangan Silikon Magnesium Magnesium dan Silikon S eng Lain-lain Seri-seri yang tidak digunakan
+
+Penandaan
+1xxx
+2xxx 3xxx 4xxx 5xxx 6xxx 7xxx 8xxx 9xxx
+
+38
+
+Ilmu Bahan Listrik
+Contoh 6.1 1. Penandaan 1045 untuk aluminium tempa, berarti :
+a. 1xxx menunjukkan kemurnian 99 % b. x0xx tidak ada pemeriksaan terhadap sisa pengotoran 1 % ­ 0,45 % = 55 % c. xx45 menunjukkan 99,45 % bahan tersebut dari aluminium 2. Penandaan 6050 untuk aluminium tempa, berarti : a. 6xxx menunjukkan aluminium dengan campuran mayoritas Si dan Si b. x0xx tidak ada pemeriksaan terhadap pengotoran 1 % ­ 0,5 % = 5 % c. xx45 menunjukkan bahan tersebut dari paduan magnesium dan silikon 99,5 %
+
+b. Tembaga Tembaga mempunyai daya hantar listrik yang tinggi yaitu 57 ? mm2/m pada
+suhu 200C. Koefisien suhu (? ) tembaga 0,004 per 0C. Kurva resistivitas tembaga terhadap suhu adalah tidak linier sep erti yang ditunjukan pada gambar 6.2.
+
+? ?
+
+0,20
+
+(? mm2 ) 0,15
+
+M
+
+0,10
+
+0,05
+
+0
+
+400
+
+600
+
+1200
+
+1600
+
+T (0C)
+
+Gambar 6.2 Kurva resistivitas tembaga sebagai fungsi dari suhu
+Pemakaian tembaga pada teknik listrik yang terpenting adalah sebagai penghantar, misalnya : kawat berisolasi (NYA, NYAF), kabel (NYM, NYY, NYFGbY), busbar, lamel mesin dc, cincin seret pada mesin ac, dan lain -lain. Tembaga mempunyai ketahanan terhadap korosi, oksidasi. Massa jenis tembaga murni pada suhu 200C adalah 8,96 g/cm3, titik beku 10830C. Kekuatan tarik tembaga tidak tinggi berkisar antara 20 hingga 40 kg/mm2, kekuatan tarik batang tembaga akan naik setelah batang tembaga diperkecil penampangnya untuk dijadikan kawat berisolasi atau kabel. Cara memperkecil penampang batang tembaga menjadi kawat dengan menggunakan penarik tembaga seperti gambar 6.3.
+
+39
+
+Ilmu Bahan Listrik
+Gambar 6.3 Penarikan batang tembaga menjadi kawat
+Untuk memperkecil penampang batang tembaga digunakan batu tarik (die) yang besarnya beragam, makin ke ujung makin kecil penampang rautannya. Makin kecil penampang kawat diperlukan, makin banyak tahapan batu tarik yang digunakan. Bahan batu tarik untuk pembuatan kawat yang cukup besar diameternya adalah wolfram karbida, sedangkan untuk pembuatan kawat yang diameternya kecil adalah intan. Selama penarikan akan terjadi penambahan panjang. Untuk itu roda tarik yang dipasang di belakang batu tarik putarannya atau diameternya dibuat lebih besar. Sesudah diadakan penarikan terhadap batang tembaga menjadi kawat, tembaga akan lebih lenting. Keadaan ini kurang baik digunakan sebagai kawat berisolasi atau kabel. Agar tembaga menjadi lunak kembali perlu diadakan pemanasan. Namun harus diusahakan selama proses penarikan tidak terjadi oksidasi. Setelah proses pemanasan selesai, maka proses pembuatan kawat berisolasi atau kabel dapat dimulai. Untuk penghantar yang penampangnya lebih kecil dari 16 mm2 digunakan penghantar pejal, sedangkan untuk penghantar yang penampangnya > 16 mm2 digunakan penghantar serabut yang dipilin. Pemberian isolasi pada kawat berisolasi seperti ditunjukkan pada gambar 6.4.
+Gambar 6.4 Pemberian isolasi untuk kawat
+40
+
+Ilmu Bahan Listrik
+
+Kawat dari gulungan A ditarik melalui alat ekstrusi B . selanjutnya pvc yang keluar dari C didinginkan pada bak pendingin D. Keluar dari D kawat yang sudah terisolasi diuji dengan pengujian cetusan (spark testing) E, ditarik dengan penarik F dan selanjutnya digulung dengan penggulung G.
+
+c. Baja
+
+Baja merupakan logam yang terbuat dari besi dengan campuran karbon.
+
+Berdasarkan campuran karbonnya, baja dikategorikan menjadi tiga macam, yaitu : baja
+
+dengan kadar karbon rendah ( 0 ­ 25 %), baja dengan kadar karbon menengah (0,25 ­
+
+0,55 %), dan baja dengan kadar karbon tinggi ( di atas 0,55 %). Meskipun
+
+konduktivitas
+
+baja
+
+rendah
+
+yaitu
+
+:
+
+7,7
+
+?
+
+m .mm2
+
+,
+
+tetapi digunakan
+
+pada penghantar
+
+transmisi yaitu ACSR, dimana fungsi baja dalam hal ini adalah untuk memperkuat
+
+konduktor aluminium secara mekanis setelah digalvanis dengan seng. Keuntungan
+
+dipakainya baja pada ACSR adalah menghemat pemakaian aluminium. Berdasarkan
+
+pertimbangan di atas, maka dibuat penghantar bimetal (berbeda dengan termal bimetal
+
+pada pengaman) seperti gambar 6.5.
+baja
+
+tembaga
+
+Gambar 6.5 Penampang kawat bimetal
+Keuntungan dari penghantar dengan menggunakan bimetal, antara lain : a. Pada arus bolak balik ada kecenderungan arus melalui bagian luar konduktor (efek
+kulit) b. Dengan melapisi baja menggunakan tembaga, maka baja sebagai penguat
+penghantar terhindar dari korosi. Pemakaian penghantar bimetal selain untuk kawat penghantar adalah untuk busbar, pisau hubung, dan lain-lain.
+d. Wolfram Logam ini berwarna abu-abu keputih -putihan, mempunyai massa jenis 20 g/cm3,
+titik leleh 34100C, titik didih 59000C, ? =4,4.10­ 6 per 0 C, tahanan jenis 0,055
+41
+
+Ilmu Bahan Listrik
+? .mm2/m. Wolfram diperoleh dari tambang yang pemisahannya dengan menggunakan magnetik atau proses kimia. Dengan reaksi reduksi asam wolfram (H2WO4) dengan suhu 7000C diperoleh bubuk wolfram. Bubuk wolfram kemudian dibentuk menjadi batangan dengan suatu proses yang disebut metalurgi bubuk yang menggunakan tekanan dan suhu tinggi (2000 atm, 16000C) tanpa terjadi oksidasi. Dengan menggunakan mesin penarik, batang wolfram diameternya dapat diperkecil menjadi 0,01 mm (penarikan dilakukan pada keadaan panas). Penggunaan walfram pada teknik listrik antara lain untuk : filamen (lampu pijar, lampu halogen, lampu ganda), elektroda, tabung elektronik, dan lain-lain.
+e. Molibdenum Sifat logam ini mirip dengan wolfram, begitu pula cara mendapatkannya.
+Molibdenum mempunyai massa jenis 10,2 g/cm3, titik leleh 26200C, titik didih 37000C, ? = 53. 10­ 7 per 0 C, resistivitasnya 0,048 ? .mm2/m, koefisien suhu 0,0047 per 0 C. Penggunaan Molibdenum, antara lain : tabung sinar X, tabung hampa udara, karena molibdenum dapat membentuk lapisan yang kuat dengan gelas. Sebagai campuran logam yang digunakan untuk keperluan yang keras, tahan korosi, dan bagian-bagian yang digunakan pada suhu tinggi.
+f. Platina Platina merupakan logam yang berat, berwarna putih keabu-abuan, tidak korosif,
+sulit terjadi peleburan dan tahan terhadap sebagian besar bahan kimia. Massa je nisnya 21,4 g/cm3, titik leleh 17750C, titik didih 45300C, ? = 9. 10­ 6 per 0 C, resistivitasnya 0,1 ? .mm2/m, koefisien suhu 0,00307 per 0 C. Platina dapat dibentuk menjadi filamen yang tipis dan batang yang tipis-tipis. Penggunaan platina pada teknik listrik antara lain untuk elemen pemanas pada laboratorium tentang oven atau tungku pembakar yang memerlukan suhu tinggi yaitu di atas 13000C, untuk termokopel platina-rhodium (bekerja di atas 16000C), platina dengan diameter + 1 mikron digunakan untuk menggantung bagian gerak pada meter listrik dan instrumen sensitif lainnya, dan untuk bahan potensiometer. Berikut adalah tabel konstanta untuk bahan penghantar.
+42
+
+Ilmu Bahan Listrik
+
+Tabel 6.2 Konstanta Bahan Penghantar
+
+Bahan
+Aluminium Baja Tembaga Air raksa Molibdenum Wolfram Platina
+
+Massa jenis g/cm3 2,7 7,7 8,96 13,55 10,22 19,27 21,5
+
+? :0 ­ 100o
+23,86 10,5 -13,2
+16,86 61 54 4,5 9,09
+
+Titik leleh
+659,7 1170-1530
+1083 -38,86 2620 3390 1769
+
+Titik didih panas 2447 2595 356,73 4800 5500 4300
+
+Kondukti vitas 0,57 0,11 0,944 0,02 0,33 0,31 0,17
+
+Kekuatan tarik
+20 ­ 30 37 ­ 64
+40 100-250 420 34
+
+g. Air Raksa Air raksa adalah satu-satunya logam berbentuk cair pada suhu kamar.
+Resistivitasnya 0,95 ? .mm2/m, koefisien suhu 0,00027 per 0 C. Pada pemanasan di udara air raksa sangat mudah terjadi oksidasi. Air raksa dan campurannya khusus uap air raksa adalah beracun. Penggunaan air raksa antara lain : gas pengisi tabung elektronik, penghubung pada sakelar air raksa, cairan pada pompa diffusi, elektroda pada instrumen untuk mengukur sifat elektris bahan dielektrik padat. Logan lain yang juga banyak digunakan pada teknik listrik, antara lain : tantalum dan niobium. Tantalum dan niobium yang dipadukan dengan aluminium banyak digunakan sebagai kapasitor elektrolitik.
+
+h. Bahan-Bahan resistivitas Tinggi Bahan resistivitas tinggi yang digunakan untuk peralatan yang memerlukan
+resistansi yang besar agar bila dialiri arus listrik akan terjadi penurunan tegangan yang besar. Contoh penggunaan bahan resistivitas tinggi antara lain : pada pemanas listrik, rheostat dan resistor. Bahan -bahan ini harus mempunyai koefisien suhu yang rendah. Untuk elemen pemanas, pada suhu tinggi untuk waktu yang lama tidak boleh terjadi oksidasi dan meleleh.
+Bahan-bahan yang resistivitasnya tinggi antara lain : konstantan, man ganin, nikron dan fechral yang komposisinya ditunjukkan pada tabel 6.3.
+
+43
+
+Ilmu Bahan Listrik
+
+Tabel 6.3 Bahan Resistivitas Tinggi
+
+Nama Paduan
+Konstantan Kromel
+Manganin Nikrom
+Fechral
+Nikelin
+
+Komposisi (%)
+60 Cu, 40 Ni 0,7 Mn, 0,6 Ni, 23-27 Cr, 4,5-6,5 Al + Fe 86 Cu, 12 Mn, 2 Ni 1,5 Mn, 75-78 Ni, 20-23 Cr, sisanya Fe 0,7 Mn, 0,6 Ni, 12-15 Cr, 3,5-5 Al, sisanya Fe 54 Cu, 26 Ni, 20 Zn
+
+Massa jenis
+8,9 6,9 ­ 7,3
+8,4 8,4 ­ 8,5
+7,1 ­ 7,5
+­
+
+Resistivitas ? .mm2/m
+0,48 ­ 0,52 1,3 ­ 1,5
+0,42 ­ 0,48 1 ­ 1,1
+1,2 ­ 1,35
+0,4 ­ 0,47
+
+Koefisien suhu 10­ 5 per 0 C
+5,25 6,5
+5,3 10 ­ 20
+10 ­ 12
+23
+
+i. Timah Hitam Timah hitam mempunyai massa jenis 11,4 g/cm3, agak lunak, meleleh pada suhu
+3270C, titik didih 15600C, warna abu-abu dan sangat mudah dibentuk, yang merupakan bahan yang tahan korosi dan mempunyai konduktivitas 4,5 m/? .mm2. Pemakaian timah hitam pada teknik listrik antara lain : sel akumulator, selubung kabel tanah, disamping digunakan sebagai pelindung pada industri nuklir. Timah hitam tidak tahan terhadap pengaruh getaran dan mudah mengikat sisa asam. Untuk pemakaian sebagai pelindung kabel tanah jika ditanam pada tempat tersebut diperlukan pelindungan tambahan. Kapur basah, air laut, dan semen baah dapat bereaksi dengan timah hitam. Itulah sebabnya disamping timah hitam sebagai pelidung kabel tanah, juga digunakan paduan dari timah hitam yang mempunyai struktur kristal yang lebih halus, lebih kuat, dan lebih tahan getaran. Tetapi bahan ini adalah lebih mudah korosi dan mengandung racun.
+
+j. Bimetal Setiap logam mempunyai muai panjang (? ) yang berbeda-beda. Hal ini berarti
+bila 2 logam dengan ? berbeda dipanasi dengan suhu yang sama, maka panjangnya akan berbeda. Apabila keduanya disatukan menjadi bimetal (seperti gambar 6.6), maka apabila dipanasi bimetal akan melengkung ke arah logam yang mempunyai ? yang lebih kecil.
+
+44
+
+Ilmu Bahan Listrik
+
+?2
+
+?1
+
+?1<?2
+
+Gambar 6.6 Penyimpangan bimetal karena ? 1 < ? 2
+Besarnya lengkungan (penyimpangan) a ditentukan oleh perbedaan muai panjang (? 2 -
+? 1), panjang (l), beda suhu (t2 ­ t1) dan ketebahalan (h) dari kedua logam. Penyimpangan maksimum bimetal adalah :
+
+a ? 3 . (? 2 ? ? 1)(t2 ? t1).l 2
+
+4
+
+h
+
+bahan yang umum digunakan untuk bimetal adalah invar (63,1 % + 36,1 % Ni + 0,4 % Mn + 0,4 % Cu) sebagai logam yang mempunyai ? kecil yaitu 1,5 .10-6 per 0C untuk
+
+suhu 0 hingga 1000C. Sedangkan untuk kedua logam dengan ? yang lebih besar dapat
+
+digunakan : besi, nikel, konstantan, tembaga dengan proses dingin, perunggu atau
+
+monel (66 % Ni + 28 % Cu + Fe, Mn) atau baja non magnetik.
+
+Penggunaan bimetal pada teknik listrik adalah untuk rele termal, seperti pada : Miniatur
+
+circuit Breaker (MCB), dan Over Load Relay (OLR). Bimetal sebagai rele termal tidak
+
+selamanya dilewati arus, kecuali arus yang tidak terlalu besar. Untuk memutuskan arus
+
+besar pada rele ada lilitan pemanas khusus yang ditempatkan disekeliling bimetal.
+
+Pengaruh panas dari lilitan inilah yang digunakan untuk mempengaruhi pembengkokan
+
+bimetal.
+
+6.3 Serat Optik
+Serat optik ini banyak digunakan untuk bidang elektro telekomunikasi sebagai media transmisi komunikasi data. Perkembangan terakhir pemakaian serat optik (optic fibre) sebagai saluran transmisi komunikasi jarak jauh lebih menguntungkan jika dibandingkan dengan transmisi konvensional antara lain : saluran 2 kawat sejajar menggunakan kabel koaksial. Keun tungan menggunakan serat optik ini antara lain : dimensi kecil dan ringan, bebas dari interferensi elektromagnetis, tidak ada bahaya loncatan bunga api, tidak mungkin terjadi gangguan hubung singkat, kemungkinan
+
+45
+
+Ilmu Bahan Listrik
+terjadinya percakapan silang (cross talk) sangat kecil, tahan terhadap pengaruh kimia dan suhu sehingga cocok untuk daerah tropis. Sistem komunikasi yang menggunakan transmisi serat optik harus mengubah sinyal listrik menjadi sinyal cahaya pada sisi pengirim dan mengubah sinyal cahaya menjadi sinyal listrik pada sisi penerima. Untuk itu diperlukan sumber optik pada sisi pengirim dan detektor optik pada sisi penerima. Berdasarkan konstruksinya, serat optik dapat dibedakan menjadi 3 macam, yaitu : a. Serat optik berbentuk batang dielektrik (selubung udara) b. Serat optik dengan inti yang mempunyai lapisan tunggal c. Serat optik dengan inti yang mempunyai lapisan ganda. Sedangkan berdasarkan teknik pembuatan aserat optik dapat dilakukan dengan 4 cara : a. Dengan pengendapan uap kimia, dapat dilakukan dengan pengendapan uap kimia :
+intern, ekstern, dan plasma. b. Dengan gelas komponen jamak, yaitu dibuat dari oksidasi-oksidasi garam karbonat
+yang diproses dengan senyawa basa. Kemurnian yang diperoleh tidak sebaik proses pengendapan kimia. c. Dengan metode batang dan tabung, yaitu dengan cara membuat batang inti gelas yang dimasukkan pada lapisan yang berbentuk tabung kemudian dipanasi dan dimasukkan pada pengarah. Kelemahan metode ini yaitu pencetakan menggunakan proses pemanasan kaca dingin, sehingga memungkinkan terjadi perubahan permukaan baik pada inti maupun lapisannya. d. Dengan serat silika dilapisi resin silikon, yaitu dengan kosntruksi dasar serat yang terbuat dari silika dioksidasi (Si O2) dan lapisannya terbuat dari plastik yang mengandung resin (damar) silikon. Jenis ini lazim disebut serat optik dilapis plastik (Plastic Clad Silica Fibre : PCS Fibre). Pada prakteknya, serat optik yang digunakan untuk transmisi telekomunikasi diperkuat dengan komponen tambahan, antara lain : pembungkus atau jaket yang berfungsi menahan pengaruh luar (udara dan air), bahan penguat seperti : kawat baja, plastik, pengisi, pita, dan konduktor terisolasi yang membentuk satu kesatuan kabel. Fungsi konduktor berisolasi adlah untuk menyalurkan catu daya penguat ulang (repeater). Seperti halnya dengan kabel konvensional, kabel serat optik juga terdapat bermacam macam konstruksi, tergantung pada : penggunaan di udara, air, atau dalam tanah; serta spesifikasi lain yang dikeluarkan oleh produsen.
+46
+
+Ilmu Bahan Listrik
+7. Kegiatan Belajar 7
+BAHAN MAGNETIK
+a. Tujuan Kegiatan Pembelajaran :
+- Siswa memahami bahan-bahan magnetik dan mampu menerapkannya
+b. Uraian Materi 7 :
+7.1 Sifat-Sifat Bahan Magnet
+Menurut sifat bahan terhadap pengaruh kemagnetan, maka dpat digolongkan menjadi : a. Diamagnet, yaitu bahan yang sulit untuk menyalurkan garis-garis gaya magnit
+(ggm). Permeabilitasnya lebih kecil dari 1 (satu) dan tidak mempunyai dua kutub permanen. Contoh bahan ini antara lain : Bi, Cu, Au, Al2O3, NiSO4, dan lain-lain. b. Paramagnetik, yaitu bahan yang dapat menyalurkan ggm tetapi tidak banyak. Permeabilitasnya sedikit lebih besar dari 1 (satu), dan susunan dwikutubnya tidak beraturan. Contoh bahan ini diantaranya : Al, Fb, FeSO 4, Fe Cl2, Mo, W, Ta, Pt, dan Ag. c. Ferromagnetik, yaitu bahan yang mudah menyalurkan ggm, dengan permeabilitas jauh di atas 1 (satu). Contohnya : Fe, Co, Ni, Gd, Dy. d. Anti Ferromagnetik, yaitu bahan yang mempunyai susceptibilitas positif yang kecil pada segala suhu dengan perubahan susceptibilitas suhu karena keadaan khusus. Teori anti ferromagnetik ini dikembangkan oleh Neel seorang ilmuwan Perancis. Susunan dwukutubnya sejajar tetapi berlawanan arah. Contohnya : MnO2, MnO, FeO, dan CoO. Bahan -bahan ferromagnetik mempunyai resistivitas rendah sehingga pemakaiannya terbatas pada frekuens i rendah. Sehingga dikembangkan bahan ferrimagnetik yang mempunyai resistivitas jauh lebih tinggi dibandingkan dengan bahan ferromagnetik. e. Ferrimagnetik (ferrit), yaitu suatu bahan yang mampu digunakan untuk perlatan dengan frekuensi tinggi disamping arus eddy yang terjadi kecil. Rumus bahan
+47
+
+Ilmu Bahan Listrik
+ferrimagnetik adalah MO, Fe2O3 (M : logam bervalensi 2 yaitu : Mn, Mg, Ni, Cu, Co, Zn, Cd). Contohnya : ferrit (? NiO), seng (? ZnO), dan nikel (Fe2O3) dimana ? + ? = 1. Gambaran dwikutub bahan magnet seperti dijelaskan pada gambar 7.1.
+
+a. Paramagnetik
+
+b. Ferromagnetik
+
+c. AntiFerromagnetik
+
+d. Ferrimagnetik
+
+Gambar 7.1 susunan dwikutub bahan-bahan magnetik
+
+Istilah bahan magnetik yang umum digunakan adalah bahan ferromagnetik, yang dapat dikategorikan menjadi 2 macam, yaitu : a. Bahan yang mudah dijadikan magnet yang lazim disebut bahan magnetik lunak.
+Bahan in banyak digunakan untuk inti transformator, inti motor atau generator, rele, peralatan sonar atau radar. b. Bahan ferromagnetik yang sulit dijadikan magnet tetapi setelah menjadi magnet tdak mudah kembali seperti semula yang disebut dengan bahan magnetik keras. Bahan ini digunakan untuk pabrikasi magnet permanen. Sifat-sifat bahan magnetik mirip dengan sifat dari bahan dielektrik, dimana momen atom dan molekul-molekul yang menyebabkan adanya dwikutub sama dengan momen dwikutub pada bahan dielektrik. Magnetisasi pada bahan magnet seperti polaritas pada bahan dielektrik.
+
+7.2 Parameter-Parameter Magnetik
+Beberapa parameter yang menentukan sifat kemgnetan (magnetisasi) dari suatu bahan antara lain :
+48
+
+Ilmu Bahan Listrik
+a. Permeabilitas dan Susceptibilitas Magnetik Pada perhitungan tentang magnet terdapat hubungan antara fluksi (B) dengan
+satuan Wb/m2 atau tesla dengan kuat medan (H) dengan satuan A lilit/m, yang dirumuskan : B = ? H karena ? = ? r . ? 0 maka dapat juga ditulis dengan :
+B=?r.?0 H dimana ? : permeabilitas bahan yang merupakan hasil perkalian permeabilitas absolut (? 0) dengan permeabilitas relatif (? r), besarnya ? 0 = 4 . ? . 10­7 H/m.
+Kuantitas yang diekspresikan (? r ­ 1) disebut magnetisasi per unit dari intensitas medan magnet yang disebut susceptibilitas magnetisasi. Besarnya ? untuk bahan ferromagnetik adalah tidak konstan. Jika arus I dialirkan melalui kumparan dengan inti bertambah dari nol bertahap sehingga medan magnet dan rapat fluksi akan bertambah. Pertambahan keduanya akan sebanding seperti terlihat pada gambar 7.2.
++B P
+Q
+
+Br
+
+­H
+
++H
+
+0
+
+B
+
+T
+
+Hc
+
+C
+
+q S
+
+­B
+
+Gambar 7.2 Jerat histerisis bahan ferro
+Berdasrkan gambar 7.2 , kurva OP mula-mula naik dengan tajam, kemudian setelah mencapai tahapan tertentu kurvanya mendatar karena B atelah mencapai kejenuhan (saturasi). Kalau diadakan pembandingan B dengan H maka diperoleh harga ? yang tidak tetap. Setelah tercapai titik P, kemudian I diturunkan secara bertahap sehingga diperoleh kurva PQ yaitu pada saat I sama dengan nol, masih terdapat sisa kemagnetan (Br). Kemudian arah arus dibalik dengan cara sebelumnya maka H akan bertambah dan B menjadi nol di titik R sehingga diperoleh Hc yang disebut dengan gaya Koersip (Coersive Force). Prosedur di atas diulang-ulang sehingga diperoleh
+
+49
+
+Ilmu Bahan Listrik
+kurva tertutup PQRSCTP yanag disebut dengan istilah Jerat Histerisis Magnetik. Luas daerah ini sebanding dengan volume bahan magnetik yang dimagnetisasi. Apabila inti tersebut diberi arus bolak-balik maka akan menimbulkan arus eddy (eddy current) yang lazim disebut dengan arus pusar atau arus focoult.
+b. Momen Magnetik Seperti diketahui bahwa jika sebuah kumparan yang dilewati arus (I) diletakan
+pada rapat arus yang merata akan menimbulkan torsi yang besarnya tergantung pada : luas kumparan, arus, dan rapat fluksi yang terpotong bidang kumparan. Momen dwikutub magnetik hubungannya dengan torsi adalah :
+Pm = I . Kumparan dimana Pm : merupakan vektor yang arahnya tegak lurus terhadap kumparan dengan satuan A/m2 . Batang magnet permanen juga dapat menyebabkan torsai apabila diletakkan di dalam medan yang merata. Jika magnet tersebut diharapkan untuk mendapatkan kutub-kutub bebas yang berlawanan, maka dapat dikatakan sebagai momen dwikutub sebagai hasil dari kuat kutub dengan jarak antara kutub -kutub.
+c. Magnetisasi Semua bahan memungkinkan menghasilkan medan magnetik, dari itu diperoleh
+secara eksperimental untuk menimbulkan momen magnetik. Besarnya momen ini pe unit volume disebut mahnetisasi dari medium (M) dengan satuan C/m, dt atau A/m. Pada saat medan magnet diberikan kepada suatu naham, induksi magnetik (rapat fluksi) adalah penjumlahan dari efek pada keadaan pakem suatu bahan, sehingga besarnya rapat fluksi (B) menjadi :
+B =?0.B +?0.M M = (? ­ 1) . H = Xm . H Xm adalah susceptabilitas magnetik, M magnetisasi bahan dapat diekspresikan sebagai momen dwikutub (pm) dengan satuan C. m2/dt atau A/m2, dimana : M = N . pm N adalah jumlah dwikutub magnetik per unit volume. Berdasarkan susceptibilitasnya dapat dibedakan sifat kemgnetab suatu bahan yaitu : untuk Xm negatif 10­5 adalah diamagnetik, untuk Xm kecil dan p[ositif 10­3 pada suhu kamar (karena Xm berbanding terbalik dengan suhu) adalah paramagnetik, untuk Xm yang besar adalah ferromagnetik.
+50
+
+Ilmu Bahan Listrik
+
+7.3 Laminasi Baja Kelistrikan
+
+Cara yang paling praktis untuk mengubah bahan magnetik lunak untuk menjadi baja kelistrikan adalah dengan menambah silikon ke dalam komposisinya. Cara ini akan mengurangi rugi histerisis dan arus pusar dengan tajam, karena resistivitasnya bertambah. Paduan baja dengan tambahan silikon, sekarang ini merupakan bahan yang sangat penting untuk bahan magnetik lunak pada teknik listrik. Namun perlu diingat bahwa penambahan silikon akan menyebabkann bahan menjadi rapuh.
+Tabel 7.1 memberikan data campuran silikon pada baja sehubungan dengan resistivitas dan massa jenisnya.
+Tabel 7.1 Campuran Si dan pengaruhnya terhadap resistivitas & massa jenis Baja
+
+Kandungan Si (%)
+0,8 ­ 1,8 1,8 ­ 2,8 2,8 ­ 4,0 4,0 ­ 4,8
+
+Resistivitas ? -mm2/m
+1,25 0,4 0,5 0,57
+
+Massa Jenis g/cm3
+7,8 7,75 7,65 7,55
+
+Laminasi untuk transformator umumnya mengandung Si sekitar 4 %, sedangkan untuk jangkar motor listrik kandungan Si nya 1 ­ 2 %. Namun hal ini dapat diubahubah berdasarkan standar masing-masing negara penghasil mesin-mesin tersebut. Selanjutnya periksa tabel 7.2. Ketebalan laminasi baja transformator untuk inti peralatan listrik adalah 0,1 ­ 1 mm, dan yang bisa dipasarkan adalah 0,35 mm dan 0,5 mm dalam bentuk lembaran 2 x 1 m, 1,5 x 0,75 m. kurva magnetisasi baja transformator seperti ditunjukkan pada gambar 7.2.
+
+B (Tesla)
+
+2 1,8 1,6 1,4 1,2 1 0,8 0,6 0,4 0,2
+0 1000 2000 3000 4000 5000 6000
+
+H (A/m) Gambar 7.2 Kurva B ­ H baja transformator
+
+51
+
+Ilmu Bahan Listrik
+
+Baja listrik jenis lain adalah baja listrik dengan proses dingin. Kemampuan baja
+
+listrik sangat tinggi terutama jika fluksi magnetiknya searah dengan panjang laminasi.
+
+Karena kristal baja ini dibuat searah dengan proses dingin dan aniling pada ruang yang
+
+diisi hidrogen. Baja ini digunakan pada pembuatan inti transformator dengan lilitan
+
+jenis ribbon (misalnya : transformator arus). Baja ini memungkinkan mengurangi berat
+
+dan dimensi transformator 20 ­ 25 % dan untuk transformator radio, hal ini dapat
+
+mencapai 40 %.
+
+Tabel 7.2 Bahan-bahan Magnetik Lunak
+
+Klasifikasi
+
+Komposisi (sisanya % Fe)
+
+Hc A lilit/m
+
+Br Wb/m2
+
+I. Besi Murni untuk baja listrik
+
+0,01 % C
+
+6,32 ­ 31,6
+
+2,1 ­ 2,15
+
+II. Besi Tuang
+
+2 ­ 3,5 % C
+
+126,4
+
+> 1,5
+
+III. Dinamo dan transformator :
+
+Baja trafo I
+
+0,7 % Si
+
+158
+
+2,1
+
+Baja trafo II
+
+1 % Si
+
+252,8
+
+2
+
+Baja trafo III
+
+1,7 ­ 2,7 % Si
+
+63,2 ­ 79
+
+1,95
+
+Baja trafo IV
+
+3,4 ­ 4,3 % Si
+
+23,7 ­ 47,4
+
+1,9
+
+IV. Bahan bahan yang mengandung Ni
+
+Permenorm 3601K1 (it)
+
+36 % Si
+
+7,9
+
+1,3
+
+Nikel murni
+
+99 % Ni; 0,2 % Cu 1,2
+
+0,6
+
+Hyperm
+
+50 % Ni
+
+4,74 ­ 1,9
+
+1,5
+
+Memetal (it)
+
+76 % Ni; 5 % Cu 1,2
+
+0,8
+
+Supermalloy
+
+79 % Ni; 5 % Mo 0,47
+
+0,78
+
+0,5 % Mn
+
+V. Bahan yang mengandung Al
+
+Sendust
+
+5,4 % Al; 9,6 % Si 1,74
+
+1,1
+
+Vacadur
+
+16 % Al
+
+3,95
+
+0,9
+
+VI. Bahan yang mengandung Co
+
+Vacoflux 50
+
+49 % Co; 1,8 V
+
+110,6
+
+2,35
+
+Cobal murni
+
+99 % Co
+
+790
+
+7,8
+
+VII. Paduan termo
+
+Thermoflux 65/1000
+
+30 Ni induksinya sangat tergantung pada suhu,
+
+misalnya : H = 7900 amper lilit/m
+
+t = 00C
+
+t = 200C
+
+t = 600C
+
+B = 0,41
+
+B = 0,3
+
+Dimana it : inti toroida, 1 A lilit/m = 0,0126 oersted, 1 wb/m2 = 104 gauss.
+
+B = 0,065
+
+7.4 Bahan Magnet Lunak Lain
+Bahan magnetik lunak yang banyak digunakan adalah paduan besi-nikel. Kurva pada gambar 7.3 menunjukkan hubungan antara permeabilitas dengan komposisi antara besi dan nikel. Pada komposisi nikel 20 % paduan menjadi nonmagnetis dan permeabilitas maksimum dicapai pada komposisi nikel + 21,5 %. Paduan yang terdiri
+52
+
+Ilmu Bahan Listrik
+dari besi-nikel dengan tambahan molibdenum, chromium atau tembaga disebut permalloy. Permalloy dapat dibedakan berdasarkan kandungan nikelnya yaitu permalloy nikel rendah yaitu permalloy yang mengandung nikel 40 ­ 50% dan permalloy yang mengandung nikel 72 ­ 80 % disebut permalloy tinggi.
+Dibandingkan dengan permalloy tinggi permalloy rendah mempunyai permeabilitas yang lebih rendah, mempunyai induksi pada keadaan jenuh yang lebih tinggi, permeabilitas permalloy berbanding terbalik dengan frekuensi seperti ditunjukkan pada gambar 7.3.
+? 0 20000
+15000
+10000 5000 0 10 102 103 104 105 106 Hz frekuensi
+Gambar 7.3 ?0 = f (f) pada permalloy
+Pemalloy yang mengandung Ni sangat tinggi akan mempunyai permeabilitas yang tinggi (hingga 800.000) setelah diadakan treatment termal. Daya koersipnya rendah yaitu antara 0,32 ­ 0,4 amper lilit/m. Permalloy dipabrikasi pada lembaran tipis hingga sampai 3 mikron. Permalloy sensitive terhadap benturan, tekanan mempengaruhi sifat kemagnetannya. Permeabilitas absolut dari paduan alfiser yang komposisinya 9,5 % Si, 5,6 % Al, dan sisanya besi, berkisar antara 10.000 ­ 35. 000, daya koersip 1,59 amper lilit/m dan resistivitas 0,81 ? . mm2/m. Alfiser adalah sangat regas sehingga mudah dijadikan bubuk untuk dibuat bahan dielektrikmagnet. Harganya lebih daripada permalloy karena komposisinya tidak tergantung Ni. Camlloy termasuk bahan magnetik lunak yang komposisinya adalah 66,5 % Ni, 30 % Cu, 3,5 % Fe. Yang menarik dari bahan ini adalah : bahan akan kehilangan sifat ferromagnetnya (titik currie) pada suhu yang relatif rendah yaitu 1000C (titik currie untuk Fe adalah 7680C). Bahan -bahan ferromagnetik yanaga berubah ukurannya pada medan magnet antara lain Ni murni, beberapa paduan antara Fe dengan Cr, Co dengan Al. Gejala demikian ini disebut magnetostriksi). Dielektrikmagnet
+53
+
+Ilmu Bahan Listrik
+digunakan untuk perlatan rangkaian magnetik yang bekerja pada frekuensi yang sangat tinggi dengan kerugian arus pusar yang rendah.
+Sekarang banyak digunakan ferrit pada peralatan yang bekerja pada frekuensi tinggi, dimana bahan ini adalah kompon keramik yang mempunyai rumus umum MO Fe2 O3. M adalah logam diantara Fe, Cu, Mn, Zn dan Ni. Ferrit dibuat dengan campuran senyawa oksidanya dengan perbandingan yang tepat dalam bentuk bubuk, dengan tambahan sedikitr bahan organik untuk mengikat atau merekatkan ditekan dan dipanasi 1100 ­ 14000C di ruang yang berisi oksida. Ferrit adalah semikonduktor yang mempunyai resistivitas antara 102 ­ 107 ? .cm. karena resistivitas yang tinggi tersebut, maka penggunaannya pada frekuensi tinggi adalah tepat karena rugi daya yang disebabkan arus pusar adalah kecil. Pada ferrit besarnya permeabilitas adalah berbanding terbalik dengan frekuensi. Ferrit mempunyai massa jenis 3 ­ 5 g/cm3, kapasitas termal 0,17 kalori/g.0C, konduktivitas panas 5.10-2 W/cm 0C, muai panjang 10-5 setiap 0C.
+7.5 Bahan Magnet Permanen
+Magnet permanen digunakan pada instrumen penginderaan, rele, mesin -mesin listrik kecil, dan lain-lain. Baja karbon yaitu baja dengan komposisi karbon 0,4 ­ 1,7 % yang merupakan dasar untuk pembuatan magnet permanen. Walaupun harganya murah tetapi kualitas kemagneetannya tidak terlalu tinggi. Kemagnetan bahan ini relaltif mudah hilang terutama oleh pukulan atau vibrasi. Untuk menaikkan mutu kemagnetan baja karbon ditambah wolfram, kromium atau kobal. Magnet yang dibuat dari karbon murni, wolfram, kromium, dan baja kobal harus dikeraskan dalam air atau minyak mineral sebelum dimagnetisasi. Bahan paduan alni terdiri dari aluminium, nikel dan besi, dimana jika bahan tersebut ditambah dengan Si maka disebut alnisi. Sedangkan alnico adalah bahan paduan yang terdiri dari aluminium, nikel, dan kobal, dimana bahan tersebut mempunyai sifat kemagnetan yang tinggi dan lebih murah dibanding baja kobal kualitas tinggi. Vectolit adalah bahan paduan yang terdiri dari besi, kobal oksida sedangkan ferroxdure adalah bahan paduan yang terdiri dari besi oksida dan barium dimana bahan ini disebut juga barium ferrit dan di pasaran dengan nama arnox, indox atau ferroba yang dibuat dari bahan bubuk yang yang dipadukan pada suhu tinggi. Penggunaannya antara lain :
+54
+
+Ilmu Bahan Listrik
+
+magnet pengeras suara, perangkat penggandeng magnetik, dan lain-lain. Sifat-sifat
+
+kemagnetan dari bahan magnet permanen paduan dijelaskan pada tabel 7.3.
+
+Tabel 7.3 Sifat Bahan Magnet Keras
+
+Nama
+Baja wolfram Baja chrom Baja kobal
+Alni Alnisi Alnico II Alnico V Vektolit Platina kobal
+
+Komposisi
+93,3% Fe, 0,7%C, 6% W 96% Fe, 1% C, 3 % Cr 59% Fe, 1% C, 5% Cr, 5 % W, 30% Co 57% Fe, 4% Cu,25% Ni,14% Al 51% Fe, 1% Si,34% Ni,14% Al 55%Fe,17% Ni,12% Co,10% Al 51% Fe, 24% Co,14% Ni,8% Al 44% Fe3O4,30% Fe2O3,26% Co2O3 77% Pt, 23% Co
+
+Hc A-lilit/m
+4.800 4.800 17.500
+43.800 63.700 50.000 50.000 70.000 200.000
+
+Br Wb/m2
+1,05 0,9 0,9
+0,55 0,4 0,7 1,2 0,6 0,45
+
+(BH) Maks J/m3 2.400 2.200 7.400
+10.400 11.200 17.000 45.000 4.000 16.000
+
+7.6 Magnetostriksi
+Pada saat bahan ferromagnetik dimagnetisasi, secara fisik akan terjadi perubahan dimensi yang disebut dengan gejala magnetostriksi. Ada 3 jenis magnetostriksi, yaitu : a. Magnetostriksi Longitudinal yaitu perubahan panjang atau pendek searah dengan
+magnetisasi. b. Magnetostriksi transversal yaitu perubahan dimensi tegak lurus dengan arah
+magnetisasi c. Magnetostriksi volume yaitu perubahan volume sebagai akibat kedua efek di atas. Perubahan panjang (? l) searah induksi magnetisasi disebut efek joule. Magnetostriksi joule (?) adalah perbandingan antara perubahan panjang (? l) dengan panjang semula (l), yang harganya tidak lebih dari 30. 10 ­6. Magnetostriksi beber apa bahan dapat dijelaskan pada gambar 7.4.
++Vc 36% Ni + 64% Fe
+
+0 B
+Fe Co Ni -Vc
+Gambar 7.4 Magnetostriksi joule sebagai fungsi dari medan magnet (H)
+55
+
+Ilmu Bahan Listrik
+Perubahan searah panjang menyebabkan perubahan permeabilitas ke arah perubahan panjang tersebut yang disebut efek Villari. Secara umum dikatakan bahwa permeabilitas akan naik karena adanya penurunan perubahan akat kenaikkan tegangan tarik. Sebalik nya untuk bahan dengan ? negatif, tekanan yang digunakan akan mengurangi permeabilitas. Secara praktis pengaruh penggunaan magnetostriksi sangat terbatas, diantaranya : oscilator frekuensi tinggi dan generator super sound, proyektor suara bawah air, detektor suara, dan lain-lain. Karena permeabilitas berhubungan dengan magnetostriksi maka untuk menggunakan bahan-bahan permeabilitas tinggi harus diusahakan magnetostriksinya serendah mungkin.
+56
+
+Ilmu Bahan Listrik
+
+8. Kegiatan Belajar 8
+BAHAN SEMIKONDUKTOR DAN SUPERKONDUKTOR
+
+a. Tujuan Kegiatan Pembelajaran :
+- Siswa memahami bahan-bahan semi konduktor dan super konduktor serta mampu menerapkannya
+
+b. Uraian Materi 8 :
+8.1 Bahan Semi Konduktor
+Semi konduktor saat ini mempunyai peranan penting di bidang elektronika dan penggunaannya tidak terbatas pada arus lemah. Hal penting dalam semi konduktor adalah memahami susunan pita dan atom konduksi elektroniknya baik pada bahan konduktor maupun pada semi konduktor. Pada bahan tersebut terdapat pita konduksi maupun pita valensi, dimana kedua pita tersebut saling menumpuk, dan pada isolator jarak keduanya cukup jauh. Pada semi konduktor jarak keduanya tidak terlalu jauh dan ini memungkinkan terjadinya tumpang tindih jika dipengaruhi : panas, medan magnet, dan tegangan yang cukup tinggi. Perbandingan jarak kedua pita disebut celah energi seperti ditunjukkan pada gambar 8.1.
+
+Pita konduksi
+
+6 ev Pita valensi
+
+0,12­5,3 ev
+
+a. intan
+
+b. semi konduktor
+
+c. konduktor
+
+Gambar 8.1 Celah energi pada beberapa bahan
+Dari gambar 8.1 di atas terlihat bahwa celah energi pada intan 6 ev dan intan merupakan bahan isolator dengan resistivitas tinggi, sedangkan bahan semi konduktor mempunyai celah energi lebih sempit daripada isolator 0,12 ­ 5,3 ev seperti Si sebagai salah satu bahan semi konduktor dengan celah energi 1,1 ev.
+
+57
+
+Ilmu Bahan Listrik
+
+Berdasarkan lebar dan sempitnya celah energi dari bahan-bahan di atas, terlihat bahwa
+
+untuk menjadikan bahan semikonduktor agar menghantar listrik diperlukan energi yang
+
+tidak besar. Silikon dan germanium murni disebut semi konduktor intrinsik jika belum
+
+mendapatkan bahan tambahan, sedangkan yang sudah mendapatkan bahan tambahan
+
+disebut ekstrinsik. Bahan tambahan yang dimaksud arsenikum (As) atau boron (B).
+
+bahan semikonduktor yang mendapatkan tambahan As akan menjadi semi konduktor
+
+jenis N, sedangkan yang mendapatkan tambahan B akan menjadi semi konduktor jenis
+
+P. Beberapa bahan tambahan untuk semi konduktor dapat dilihat pada tabel 8.1.
+
+Tabel 8.1 Enegi Ionisasi
+
+Bahan Pengotoran
+Tipe- n Pospor Arsen Antimon
+Tipe-p Boron Aluminium Gallium Indium
+
+Si (ev)
+0,044 0,049 0,039 0,045 0,057 0,065 0,16
+
+Ge (ev)
+0,012 0,013 0,010 0,010 0,010 0,011 0,011
+
+a. Semi konduktor Intrinsik
+
+Telah dibahas sebelumnya, untuk menjadikan pita valensi bertumpang tindih
+
+dengan pita konduksi diantaranya diperlukan medan. Sebagai contoh : Si mempunyai
+
+celah energi 1 ev. Ini diperkirakan beda energi antara dua inti ion yang terdekat dengan jarak + 1 A0 (10­10 m). Maka dari itu diperlukan gradien medan + 1 V/10-10 m untuk
+
+menggerakan elektron dari bagian atas pita valensi ke bagian bawah pita konduksi.
+
+Namun gradien sebesar itu kurang praktis. Kemungkinan lain untuk keadaan transisi
+
+yaitu tumpang tindih kedua pita dapat diperoleh dengan pemanasan. Pada suhu kamar
+
+ada juga beberapa elektron yang melintasi celah energi dan hal ini menyebabkan
+
+terjadinya semi konduksi. Pada semi konduktor intrinsik, konduksi tersebut disebabkan
+
+proses intrinsik dari bahan tanpa adanya pengaruh tambahan. Kristal Si dan Ge murni
+
+adalah semi konduktor intrinsik. Elektron-elektron yang dikeluarkan dari bagian teratas
+
+pita valensi ke bagian pita konduksi karena energi termal adalah penyeban konduksi.
+
+Banyaknya elektron yang terkuat untuk bergerak melintasi celah energi dapat dihitung
+
+dengan distribusi kemungkinan Fermi-Dirac :
+
+P(E) ?
+
+1
+
+(1 ? e)( E ? E f ) / K .T
+
+58
+
+Ilmu Bahan Listrik
+dimana Ef : tingkat fermi seperti gambar 8.2, K : konstanta boltzman = 8,64.10­5 ev /0K, E-Ef : Eg/2, Eg : besaran celah energi termal KT pada suhu kamar (0,026 ev). Karena nilai 1 pada penyebut dapat diabaikan, maka persamaan di atas dapat ditulis :
+P(E) ? e (? Eg / 2KT )
+Pada suhu 00C semua elektron berada pada pita valensi, dimana keadaan ini kemungkinan adanya elektron di daerah 0 > E > Ef adalah 100 % atau P(?) = 1; semua keadaana terdapat elektron. Untuk E > Ef , P(E) = 0 kemungkinan adanya elektron di daerah E > Ef adalah 0 %, semua keadaan di atas Ef adalah kosong kalau energi elektron E sama besar dengan kemungkinan P(E), maka dapat dituliskan bahwa
+banyaknya elektron n yang melalui celah energi adalah : n ? N e9 ? Eg / 2KT )
+E
+
+Pita konduksi Eg
+Pita valensi
+
+½ Eg
+
+tingkat fermi Ef
+
+0
+
+0,5
+
+1
+
+Gambar 8.2 Tingkat fermi pada semi konduktor intrinsik pada pertengahan celah energi
+Karena perpindahan elektron dari pita valensi, maka pada pita valensi terjadi lubang di setiap tempat yang ditinggalkan elektron tersebut. Suatu semi konduktor intrinsik mempunyai lubang yang sama pada pita valensi dan elektron pada pita konduksi. Pada pemakaian elektron yang lari ke pita konduksi dari pita valensi, misalnya karena panas dapat dipercepat menggunakan keadaan kosong yang memungkinkan pada pita konduksi. Pada waktu yang sama lubang pita valensi juga bergerak tetapi berlawanan arah dengan gerakan elektron. Konduktivitas dari semi konduktor intrinsik tergantung konsentrasi muatan pembawa tersebut yaitu ne dan nh.
+
+b. Semi Konduktor Ekstrinsik Pada semi onduktor ekstrinsik konduksi dapat dilakukan setelah adanya
+penyuntikan bahan penambah atau pengotoran dari luar (ekstraneous inqurities). Proses
+
+59
+
+Ilmu Bahan Listrik
+
+penyuntikan bahan tambahan terhadap semi konduktor murni disebut doping.
+
+Penambahan bahan tersebut kepada semi konduktor murni akan meningkatkan
+
+konduktivitas semi konduktor. Suatu kristal silikon yang didoping dengan elemen
+
+kolom 5 pada susunan berkala seperti P, As atau Sb. Pada gambar 8.3 menjelaskan
+
+kristal Si yang didoping dengan P. Pada gambar 8.3 tersebut 4 dari 5 elektron pada
+
+orbit terluar dari atom pospor mengikat 4 silikon sekelilingnya. Elektron ke 5 dari atom
+
+P tidak mempunyai atom semula dan dapat diasumsikan berputar mengelilingi ion
+
+pospor positif seperti halnya elektreon 1s mengelilingi inti hidrogen. Namun demikian
+
+mempunyai sebuah perbedaan penting yaiotu elektro dari atom pospor bergerak pada
+
+medan listrik dari kristal silikon dan bukan pada ruang bebas seperti halnya pada atom
+
+H. Hal ini akan membawa akibat konstanta dielektrik dari kristal pada perhitungan orbitan dan radius orbit elektron menjadi sangat besar kira-kira 80 A0 dibandingkan 0,5 A0 dari orbit hidrogen.
+
+Si
+Si
+Si Si
+
+elektron bebas Si
+Si
+e
+p. Si
+Si
+
+Gambar 8.3 Silikon yang didoping dengan pospor
+Hal ini dapat diartikan bahwa elektron ke-5 tersebut bebas dan tingkat energinya bedekatan terhadap pita konduksi. Eksistensi elektron ke-5 ke dalam pita konduksi lebih cepat terlaksana daripada eksistensi dari pita valensi kristal Si. Atom p dinamakan mendonorkan elektronnya pada semi konduktor. Tingkat energi dari elektron ke-5 dinamakan tingkat donor. Semi konduktor yan g didonorkan dari elemen-elemen pada kolom 4 (mendonorkan muatan negatif) disebut semi konduktor tipe-n. Energi yang diperlukan untuk mengeluarkan elektron ke-5 masuk ke dalam pita konduksi disebut energi ionisasi seperti ditunjukkan pada tabel 8.1. Dibandingkan dengan celah energi, besarnya energi ionisasi dari atom pengotor sangat kecil. Pada suhu kamar, elektron-elektron tingkat donor sudah dikeluarkan dari pita
+60
+
+Ilmu Bahan Listrik
+valensi masuk ke dalam pita konduksi. Kumpulan elektron ini jauh lebih besar dari kumpulan elektron yang dikeluarkan dari pita valensi pada proses intrinsik. Sesuai dengan hukum gerakan massa, hasil dari banyaknya elektron-elektron pada pita konduksi dan banyaknya lubang pada pita valensi harus konstan. Kondisi ini secara drastis akan mengurangi banyaknya lubang pada semi konduktor tipe-n. Elektronelektron pada pita konduksi menjadi pembawa muatan mayoritas (majority charge carries).
+Proses doping kristal Si dengan elemen kolom 3 antara lain : Ga, Al, dan In dapata dijelaskan: Aluminium mempunyai 3 elektro pada orbit terluarnya, sedangkan untuk menyisipkan Si pada akristal ini Al memerlukan elektron ekstra untuk melengkapkan ikatan sekelilingnya menjadi tetra hedral (mengikat 4 atom Si). Elektron ekstra ini dapat diperoleh dari atom Si yang terdekat sehingga menimbulkan lubang pada Si. Atom Al dengan elektron ekstra menjadi sebuah muatan negatif dan lubang dengan sebuah muatan posisitf dapat dianggap berputar mengelilingi atom Al. Hal ini dapat dijelaskan pada gambar 8.4
+lubang (hole)
+Si Si Si
+Si Al.O Si
+Si Si Si
+Gambar 8.4 Silikon yang didoping dengan elemen kolom ke -3 (Al)
+Pada suhu 0O, lubang tetap terikat pada atom pengotor. Kalau suhu dinaikkan, lubang akan terlepas dari atom pengotor dan menjadi konduksi. Energi ionisasi untuk sebuah ikatan lubang bebas dari pengotornya kira-kira sama dengan energi ionisasi dari elektron-elektron donor pada kristal yang sama. Tingkat ikatan lubang disebut tingkat akseptor (aluminium menerima sebuah elektron) dan selalu di atas pita valensi.
+61
+
+Ilmu Bahan Listrik
+Kumpulan lubang diusahakan dengan eksitasi termal pada Si yang didoping jauh lebih besar daripada yang diusahakan dengan eksitasi dari elektron pada pita konduksi. Menurut hukum gerakan massa disini lubang-lubang positif sebagai pembawa mayoritas muatan. Dengan demikian semi kondukstor ekstrinsik disebut semi konduktor tipe-p. Pada semi konduktor ekstrinsik, banyaknya elektron pada pita konduksi dan banyaknya lubang pada pita valensi tidak sama apakah elektron atau yang lubangnya lebih dominan tergantung dari tipe proses ekstrinsiknya. Adapun macammacam penggunaan semi konduktor seperti ditunjukkan pada tabel 8.2.
+
+Tabel 8.2 Macam-macam Semi konduktor dan Penggunaannya
+
+Nama Semi Konduktor
+Barium Titinate (Ba Ti) Bismut Telurida (Bi2 Te3) Cadmium sulfida (Cd S) Gallium arsenida (Ga As)
+Germanium (Ge) Indium antimonida (In Sb)
+Indium arsenida (In As) Silikon (Si) Silikon Carbida (Si Cb) Seng Sulfida (Zn S) Germanium Silikon (Ge Si) Selenium (Se) Aluminium Stibium (Al Sb) Gallium pospor (Ga P) Indium pospor (In P) Tembaga Oksida Plumbun Sulfur (Pb S) Plumbun Selenium (Pb Se) Indium Stibium (In Sb)
+
+Penggunaannya
+Termistor (PTC) Konversi termo elektrik Sel Fotokonduktif Dioda, transistor, laser, led, generator gelombang mikro Diode, transistor Magnetoresistor, piezoresistor, detektor radiasi inframerah Piezoresistor Diode, transistor, IC Varistor Perangkat penerangan elektro Pembangkitan termoelektrik Rectifier Diode penerangan Diode penerangan Filter inframerah Rectifier Foto sel Foto sel Detektor inframerah, filter inframerah, generator Hall
+
+8.2 Bahan Super Konduktor
+Bahan konduktor yang dijumpai sehari-hari, selalu mempunyai resistansi. Hal ini disebabkan bahan -bahan tersebut mempunyai resistivitas. Seperti telah dibahas bahwa resistivitas akan mencapai harga nol pada suhu kritis (TC). Dewasa ini sedang dikembangkan usaha untuk mencapai suhu kritis (Tc) bahan-bahan untuk dijadikan super konduktor. Disamping itu medan magnet pada bahan super konduktor lebih kecil daripada medan kritis (Hc) seperti ditunjukkan pada gambar 8.5.
+
+62
+
+Ilmu Bahan Listrik
+
+B Bc
+
+Kondisi superkonduktif
+
+T
+
+0
+
+Tc
+
+Gambar 8.5 Daerah super konduktor pada bidang medan magnet dan suhu
+Dengan demikian suatu super konduktor akan hilang super konduktivitasnya jika suhunya di atas kritis dan medannya di atas kuat medan kritis. Terdapat 30 unsur dan hampir 100 senyawa yang dapat digunakan sebagai bahan super konduktor. Suhu kritis tertinggi super konduktor adalah 18,1OK untuk senyawa Nb3 Sn yang ditemukan oleh Mathias seorang ahli USA.
+Perlu diingat bahwa tidak selalu terjadi pada bahan yang pada suhu kamar seperti : Cu, Ag dan Au merupakan konduktor yang baik akan menjadi super konduktor pada kondisi yang lebih mudah dibandingkan bahan lain pada suhu kamar konduktivitasnya jelek. Ada 2 jenis super konduktor yaitu jenis I : Pb, Ag, dan Sn dapat menyalurkan arus pada permukaan sampai kedalaman 104 mm pada medan magnet hingga setinggitingginya seperti medan magnet Nb dan paduan Pb. Super konduktor jenis II jika medan magnetnya mencapai medan kritis dan suhu kritisnya relatif (lebih tinggi dari jenis I), keadaan super konduktor tidak langsung berubah menjadi konduktor normal, tetapi menjadi bahan yang merupakan peralihan atau dari kondisi super konduktor menjadi konduktor normal. Pada jenis I yang mengantarkan arus tetap akan menimbulkan medan magnet tanpa kerugian karena medan listrik di semua tempat nol, sedangkan pada jenis II dalam keadaan yang sama akan menimbulkan kerugian yang sangat kecil dan dapat diabaikan. Jika diteliti dari tabel 8.3 dapat dijelaskan bahwa : a. Logam menovalen adalah bukan super konduktor b. Logam ferromagnetik dan antiferromagnetik adalah bukan super konduktor c. Konduktor yang baik pada suhu kamar adalah bukan super konduktor dan logam
+super konduktor sebagai logam normal adalah bukan konduktor yang baik pada suhu kamar.
+
+63
+
+Ilmu Bahan Listrik
+d. Film tipis dari Be, Bi, dan Fe adalah menunjukkan sebagai super konduktor. e. Bismut, Pb, dan Te menjadi super konduktor jika mendapat tekanan yang tinggi.
+Penggunaan dari super konduktor sampai saat ini belum dipabrikasi dalam skala besar. Mesin -mesin listrik, transformator dan kabel sedang dikembangkan menggunakan super konduktor. Dengan menggunakan super konduktor efisiensi dapat dicapai 99,99 %. Dengan kabel super konduktor berdiameter beberapa cm dapat digunakan menyalurkan semua daya yang dihasilkan semua pembangkit listrik di Indonesia. Terdapat dua perangkat yang umum menggunakan super konduktor, yaitu :
+a. Elektromagnet karena konduktor tidak mempunyai kerugian yang disebabkan resistansi, maka
+dimungkinkan membuat selenoide dengan super konduktor tanpa kerugian yang menimbulkan panas. Selenoide dengan arus yang sangat kecil pada medan magnet nol untuk kawat yang digunakan memungkinkan membangkitkan sebuah medan magnet tipis dari lilitan. Karena dengan bahan super konduktor memungkinkan membuat elektromagnet yang kuat dengan ukuran yang kecil. Aplikasi dari elektromagnet dengan super konduktor antara lain : komponen Magneto Hidro Dinamik.
+
+Tabel 8.3 Suhu Kritis (Tc) beberapa bahan super konduktor
+
+Unsur Ti Zn Al Tl In Sn Hg Ta V Pb Nb Tc Th U
+
+Tc (0K) 0,49 0,82 1,20 2,38 3,40 3,73 4,16 4,39 5,1 7,22 8,00 11,2 1,37 0,68
+
+Senyawa Na Bi Ba Ba3 Nb Zn Mo N Mo Re V2,95 Ga Nb N V3 Si Nb3 Al Nb3 Sn
+Cu S Pb Sb
+
+Tc (0K) 2,2 6,0 10,8 12,0 12,6 14,4 15,2 17,1 18,0 18,1
+1,6 1,5
+
+64
+
+Ilmu Bahan Listrik
+b. Elemen Penghubung Karena super konduktor mempunyai Hc dan Tc, maka dalam pemakaian super
+konduktor sebagai elemen penghubung dapat menggunakan pengaruh salah satu besaran di atas. Artinya suatu gawai penghubung yang menggunakan super konduktor akan dapat berubah sifatnya dari super konduktor menjad i konduktor biasa karena pengubahan suhu atau medan magnet di atas nilai kritisnya. Pemutus arus yang bekerja dipengaruhi oleh magnetik dielektrik Cryotron, misalnya digunakan pada pemutus komputer.
+65
+
+Ilmu Bahan Listrik
+c. Rangkuman 2 : Selain bahan penyekat atau isolator di atas, ada bahan lain yang juga banyak
+digunakan dalam teknik ketenagalistrikan yaitu bahan penghantar atau sering dinamakan dengan istilah konduktor. Suatu bahan listrik yang akan dijadikan penghantar, juga harus mempunyai sifat-sifat dasar penghantar itu sendiri seperti : koefisien suhu tahanan, daya hantar panas, kekuatan tegangan tarik dan lain -lain. Disamping itu juga penghantar kebanyakan menggunakan bentuk padat seperti tembaga, aluminium, baja, seng, timah, dan lain -lain. Untuk keperluan komunikasi sekarang banyak digunakan bahan penghantar untuk media transmisi telekomunikasi yaitu menggunakan serat optik.
+Erat kaitannya dengan keperluan pembangkitan energi listrik, yaitu suatu bahan magnetik yang akan dijadikan sebagai medium untuk konversi energi, baik dari energi listrik ke energi mekanik, energi mekanik ke energi listrik, energi listrik menjadi energi panas atau cahaya, maupun dari energi listrik menjadi energi listrik kembali. Bahan magnetik ini tentunya harus memenuhi sifat-sifat kemagnetan, dan parameterparameter untuk dijadikan sebagai bahan magnet yang baik. Dalam pemilihan bahan magnetik ini dapat dikelompokkan menjadi tiga macam, yaitu ferromagnetik, paramagnetik, dan diamagnetik.
+Suatu bahan yang sekarang lag i ngetren dan paling banyak sedang dilakukan riset-riset di dunia ilmu pengetahuan dan teknologi yaitu bahan semi konduktor. Berkembang nya dunia elektronika dan komputer saat ini adalah merupakan salah satu peranan dari teknologi semi konduktor. Bahan ini sangat besar peranannya pada saat ini pada berbagai bidang disipilin ilmu terutama di bidang teknik elektro seperti teknologi informasi, komputer, elektronika, telekomunikasi, dan lain -lain. Berkaitan dengan bahan semi konduktor, pada saat ini dapat dikelompokkan menjadi dua macam yaitu semi konduktor dan super konduktor.
+66
+
+Ilmu Bahan Listrik
+d. Tugas 2 : 1. Buatlah suatu percobaan untuk menghitung nilai hambatan atau tahanan dari suatu
+kawat tembaga, dengan diameter 1,5 mm2 dan 2,5 mm2, panjangnya 1 meter. Dimana tahanan jenis tembaga itu adalah 0,0175 ohm mm2/m ! 2. Buatlah suatu percobaan dari dua buah kawat penghantar yang berbeda (yang satu ACSR dan yang lain ACAR). Masing -masing penghantar tersebut mempunyai panjang dan diameter yang sama atau menyesuaikan dengan keadaan. Amati tentang : daya hantar jenis atau tahanan jenisnya, nilai resistansinya, muai panjang, dan lain-lain yang memungkinkan untuk menambah pengetahuan saudara. Catat dan laporkan kepada guru saudara tentang hal-hal yang saudara temukan/ketahui ! 3. Amatilah perbedaan antara magnet permanen dengan magnet yang dibuat dengan induksi elektromagnetik. Lakukan percobaan dan buat laporan perbedaan di antara kedua benda tersebut ! 4. Buat suatu percobaan untuk mengetahui cara kerja dari bahan semi konduktor (dioda silikon atau germanium yang ada di pasaran), yaitu dengan cara menghubungkan sebuah atau beberapa buah dioda dengan sumber tegangan ac tertentu. Amati, catat dan buat laporan tentang hasil percobaan yang telah saudara lakukan, dan berikan suatu kesimpulan terhadap bahan semi konduktor tersebut !
+67
+
+Ilmu Bahan Listrik
+e. Tes Formatif 2 : 1. Sebutkan contoh bahan penyekat yang digunakan untuk penyekat bentuk gas ? 2. Suatu kawat tembaga mempunyai diameter 2,5 mm2 digunakan untuk
+menghantarkan arus listrik. Ketika dilakukan suatu percobaan, ternyata penghantar tersebut mempunyai tahanan sebesar 0,5 ohm. Jika kawat tersebut mempunyai daya hantar jenis sebesar 57, 143 m/ohm.mm2, hitunglah berapa panjang kawat penghan tar tersebut ? 3. Singkatan dari apakah ACSR dan ACAR ? 4. Tuliskan kode penandaan untuk : tembaga dan seng ? 5. Sebutkan apa keuntungan dari suatu penghantar yang menggunakan bimetal ? 6. Jelaskan ciri-ciri dari platina dan tentukan karakteristik dari bahan tersebut ? 7. Pada bidang apa serat optik banyak dipergunakan, dan apa keuntungan menggunakan serat optik dibandingkan dengan yang lainnya ? 8. Sebutkan macam-macam bahan magnet menurut sifat pengaruh kemagnetannya ? 9. Jelaskan apa yang saudara ketahui tentang Permalloy ? 10. Apa perbedaan antara semi konduktor intrinsik dan semi konduktor ekstrinsik ?
+68
+
+Ilmu Bahan Listrik
+f. Kunci Jawaban Formatif 2 : 1. Udara, Nitrogen, hidrogen, dan karbondioksida 2. Jawab : l = (0,5 x 2,5) x 57,143 = 71,43 meter 3. ACSR : Aluminium Conductor Steel Reinforced, sedangkan ACAR : Aluminium
+Conductor Alloy Reinforced 4. Tembaga : 2xxx, dan seng : 7xxx 5. Keuntungan : (a) pada arus ac ada kecenderungan arus melalui bagian luar
+konduktor (efek kulit), (b) dengan melapisi baja menggunakan tembaga maka baja sebagai penguat penghantar terhindar dari korosi. 6. Platina merupakan logam berat, berwarna putih keabu-abuan, tidak korosif, sulit terjadi peleburan, dan tahan terhadap sebagian besar bahan kimia. Karateristiknya : massa jenisnya 21,4 g/cm3, titik leleh 17750C, titik didih 45300C, ? = 9. 10­ 6 per 0 C, resistivitasnya 0,1 ? .mm2/m, koefisien suhu 0,00307 per 0 C. 7. Dalam bidang telekomunikasi (TELKOM), keuntungannya antara lain : dimensi kecil dan ringan, bebas interferensi elektromagnetik, tidak ada bahaya loncatan bunga api, tidak terjadi gangguan hubung singkat, kemungkinan terjadi cross talk sangat kecil, tahan terhadap kimia dan suhu, cocok untuk daerah tropis. 8. (a) Diamagnetik, (b) Paramagnetik, (c) Ferromagnetik, (d) Anti Ferromagnetik, )e) Ferrimagnetik (Ferit). 9. Permalloy : paduan yang terdiri dari besi-nikel dengan tambahan molibdenum, chromium atau tembaga. 10. Semi konduktor intrinsik : semi konduktor yang terbuat dari bahan Silikon atau Germanium yang masih murni belum ada campuran bahan lain. Sedangkan semi konduktor ekstrinsik : semi konduktor yang terbuat selain bah an Silikon atau Germanium, juga mendapat tambahan bahan lain seperti arsenikum (As) atau Boron
+(B).
+69
+
+Ilmu Bahan Listrik
+g. Lembar Kerja 2 : 1. Alat : mikrometer, obeng, tang, cutter, isolasi, termometer, meteran, alat tulis
+menulis, ohmmeter, ampermeter, voltmeter, alat pendeteksi temperatur (sensor suhu), osciloscop, dan lain -lain 2. Bahan : kawat tembaga, kawat ACSR, kawat ACAR, magnet permanen, kawat tembaga atau kabel, batang besi, baterai atau aki, serbuk besi, kertas, kabel, dioda silikon, dioda germanium, sumber ac, sakelar, dan lain-lain 3. Keselamatan kerja : jas lab, sarung tangan, senter, kerjakan sesuai instruction manual, patuhi prosedur kerja yang telah ditentukan, patuhi peraturan yang tercantum di lab atau tempat praktik. 4. Langkah kerja : tentukan peralatan-peralatan dan komponen-komponen yang akan dibutuhkan, buat rancangan diagram pengawatan yang akan dilakukan, pasang peralatan pengukur yang akan digunakan sesuai dengan diagram rencana, rangkai peralatan yang telah dipasang, periksa dan uji rangkaian atau peralatan yang telah dipasang, perbaiki apabila masih terdapat kesalahan atau komponen yang belum berfungsi dengan benar, uji sesuai dengan prosedur dan instruction manual yang berlaku, buat berita acara laporan pengujian atau percobaan 5. Laporan : Jawab pertanyaan-pertanyaan dan laporkan hasil pengujian sesuai dengan tugas yang diberikan
+70
+
+Ilmu Bahan Listrik
+III. EVALUASI
+PERTANYAAN : 1. Apa yang disebut koefisien muai panjang ? 2. Terangkan secara singkat apa arti panas jenis suatu benda ? 3. Air 2 kilogram suhu 80OC dicampur dengan air 3 kilogram suhu 40OC. Hitunglah
+suhu akhir ? 4. Sebuah benda dibuat dari bahan perak, beratnya 2 kg dan suhunya 30OC. Jika benda
+tersebut dinaikkan suhunya sampai 900OC, berapa kCal yang diperlukan untuk pemanasan itu ? Panas jenis perak = 0,06. 5. Berapa kCal panas yang diperlukan untuk mencairkan timah seberat 4 kg pada suhu 20OC, jika diketahui : panas jenis timah 0,03, pangkal cair timah 327OC dan kalor lebur timah 5,9. 6. Apa yang dimaksud dengan bahan tambang dan sebutkan contohnya ? 7. Apa bedanya karet, ebonit, dan bakelit ? 8. Pada bahan penyekat gas selain gas Nitrogen dan Oksigen, sebutkan minimal lima jenis gas dan uap lain yang dapat digunakan ? 9. Sebutkan beberapa sifata dasar yang harus dimiliki oleh suatu penghantar atau konduktor ? 10. Tuliskan kode penandaan untuk bahan penghantar : Aluminium, Magnesium dan bahan yang jarang digunakan ? 11. Untuk apakah penggunaan Platina pada bidang teknik listrik ? 12. Sebutkan macam-macam bentuk serat optik berdasarkan konstruksinya ? 13. Apa yang dimaksud dengan bahan Ferromagn etik dan berikan contohnya ? 14. Apa yang dimaksud dengan permalloy rendah dan permalloy tinggi ? 15. Berikan contoh alat-alat yang menggunakan magnet permanen ? 16. Jelaskan menurut saudara pengertian dari semi konduktor dan berikan contohnya ? 17. Berdasarkan dari bahan pembuatannya, apa perbedaan antara semi konduktor jenis P dengan semi konduktor jenis N ?
+71
+
+Ilmu Bahan Listrik
+KUNCI JAWABAN 1. Koefisien muai panjang : bilangan yang menunjukkan pertambahan panjang dalam
+cm dari suatu benda yang panjangnya 1 cm bila dinaikkan suhunya 1OC. 2. Panas jenis suatu benda : bilangan yang menunjukkan berapa kalori yang
+diperlukan oleh 1 gram zat itu pada tiap kenaikkan suhu 1OC. 3. 2(80-X) = 3(X-40) ? 5X = 280 ? X = 280/5 = 56OC. 4. 2(900-30)0,06 = 104,4 kCal 5. 4 kg dari 20OC ­ 327OC ? 4(t2-t1)0,03 = 4(327-27)0,03 = 36;
+4 kg pada 327OC = 4 x 5,9 = 23,6 kCal; ? Jadi panas = 36 + 23,6 = 59,6 kCal. 6. Bahan tambang : bahan yang berasal dan terdapat dari penggalian dalam tanah
+dalam bentuk bijih yang harus diproses dahulu untuk mendapatkan bahan yang dikeh endaki. Contohnya : besi, seng, batu pualam, asbes, mika, mikalek, batu tulis, dan lain-lain. 7. Karet : terbuat dari getah macam-macam pohon karet, ebonit : karet yang dicampur dengan belerang atau bahan lainnya sekitar 30 ­ 50 % untuk mendapatkan kekerasan, dan bakelit : panduan secara kimia bermacam -macam zat. 8. Argon, Helium, Neon, Kripton, Xenon, carbondioksida. 9. Memiliki : daya hantar listrik yang baik, koefisien suhu dari tahanan, daya hantar panas, kekuatan tegangan tarik, dan daya elektro-motoris termo. 10. Aluminium : 1xxx; Magnesium : : 5xxx; dan Bahan jarang pakai : 9xxx 11. Penggunaan platina pada teknik listrik : untuk elemen pemanas laboratorium tentang oven (tungku pembakar) yang memerlukan suhu tinggi di atas 13000C, untuk termokopel platina-rhodium (bekerja di atas 16000C), platina diameter + 1 mikron untuk menggantung bagian gerak meter listrik dan instrumen sensitif lainnya, dan untuk bahan potensiometer. 12. (a) berbentuk batang elektrik (selubung udara), (b) inti dengan lapisan tunggal, (c) inti dengan lapisan ganda. 13. Bahan yang mudah menyalurkan ggm dengan permeabilita di atas 1. Contohnya : Fe, Co, Ni, Gd, Dy.
+72
+
+Ilmu Bahan Listrik
+14. Permalloy rendah : permalloy yang mempunyai kandungan nikel antara 40­50 %, sedangkan permalloy tinggi : permalloy yang mempunyai kandungan nikel 72­80 %
+15. Contohnya : dinamo sepeda, speaker, mainan anak-anak (tamiya, mobil remote, dll.)
+16. Semi konduktor : suatu bahan yang terkadang dapat menghantarkan arus listrik, atau konduktor, tetapi kadang-kadang berfungsi sebagai pengekat atau isolator. Contohnya : Silikon (Si), dan Germanium (Ge)
+17. Jenis P : apabila bahan semi konduktor murni (Si atau Ge) mendapat bahan tambahan jenis boron (B), sedangkan jenis N : apabila bahan semi konduktor murni tersebut mendapat tambahan dari jenis bahan arsenikum (As).
+73
+
+Ilmu Bahan Listrik
+IV. PENUTUP
+Materi pembelajaran pada modul ini merupakan materi dasar yang harus dimiliki oleh setiap siswa yang mengambil keahlian di bidang teknik listrik, sehingga harus sudah menempuh materi pembelajaran atau modul Bahan Listrik dan telah lulus dengan mendapat skor 60 (skala 100). Apabila belum menempuh dan belum lulus, maka siswa yang bersangkutan harus melalui her terlebih dahulu atau mengulang lagi.
+74
+
+Ilmu Bahan Listrik
+DAFTAR PUSTAKA
+Agung Murdhana dan Djadjat Sudrajat, 1993, Teknik Listrik STM, Armico, Bandung. B.L. Theraja dan A.K. Theraja, 1993, A Text-Book of Electrical Technology, vol 4,
+Electronic Device and Circuits, New Delhi. Dieter Kind, 1993, Pengantar Teknik Eksperimental Tegangan Tinggi, ITB,
+Bandung. Johny BR, 1992, Keterampilan Teknik Listrik Praktis, Yrama Widya Dharma,
+Bandung Harten, P. van, dan E. Setiawan, 1991, Instalasi Listrik Arus Kuat 1, Binacipta,
+Bandung M. Afandi dan Agus Ponidjo, 1977, Pengetahuan Dasar Teknik Listrik 1, Direktorak
+Pendidikan Menengah Kejuruan, Departemen P dan K, Jakarta. Muhaimin, 1999, Bahan-Bahan Listrik Untuk Politeknik, Pradnya Paramita,
+Jakarta. Soelaeman, T.M., Samsudin, dan A. Rida Ismu, 1977, Ilmu Bahan Listrik 1,
+Direktorat Pendidikan Menegah Kejuruan, Departemen P dan K, Jakarta Tata Sardia, dan Shinraku Saito, 2000, Pengetahuan Bahan Listrik , Pradnya
+Paramita, Jakarta.
+75
+
+STORYBOARD
+Judul Modul Pembelajaran : ILMU BAHAN LISTRIK
+
+Bidang Keahlian Program Keahlian
+
+: KETENAGALISTRIKAN
+
+:
+
+Teknik Pembangkitan
+
+Teknik Transmisi
+
+X Teknik Distribusi Listrik Teknik Pendingin dan Tata Udara
+
+Teknik Pemanfaatan Energi
+
+NO URUTAN PEMBELAJARAN
+
+N A R A S I
+
+SIMULASI PEMBELAJARAN SESUAI URUTAN TOPIK
+
+KETERANGA N SIMULASI
+
+Animasi Gambar Video Audio Simulasi Praktik Latihan Evaluasi Skor
+
+1. DESKRIPSI MATERI
+
+Lingkup materi modul ini meliputi :sifat-sifat X X X benda padat, bahan-bahan penyekat, penyekat
+
+bentuk padat, penyekat bentuk cair, penyekat
+
+bentuk gas, bahan penghantar, baham magnetik,
+
+dan bahan semi konduktor dan super konduktor
+
+2. PRASYARAT
+
+Pendidikan Formal : Telah menyelesaian
+
+X
+
+X
+
+pendidikan setara Sekolah Lanjutan Tingkat
+
+Pertama (SLTP) atau sederajat
+
+Kaitan dengan modul/kemampuan lain :
+
+Tidak ada, karena merupakan mata ajar konsep
+
+dasar
+
+3 . PETA KEDUDUKAN MODUL Modul ini termasuk ke dalam bidang keahlian
+
+X
+
+Ketenagalistrikanpada program keahlian
+
+Teknik Distribusi Listrik
+
+4. PERISTILAHAN
+
+ACSR, ACAR, ? (alpha), ASA, atm (atmos- X
+
+X X
+
+5. PETUNJUK PENGGUNAAN MODUL
+6. KEGIATAN BELAJAR 1 6.1. Penjelasan Umum 6.2. Uraian Sub Materi
+
+fir), breakdown voltage, cambric, dielektrikum,
+
+FCS, ? (gamma), ? (lambda), Magnetisasi,
+
+Magnetostriksi, MCB, ? (miu), OLR, PVC, PE,
+
+Repeater, ? (rho), sintetis, vulkanisasi.
+
+Petunjuk bagi siswa: Baca petunjuk kegiatan X
+belajar pada setiap modul kegiatan belajar, b
+
+X X
+
+aca tujuan dari setiap modul kegiatan belajar,
+
+pelajari setiap materi yang diuraikan/ dijelaskan
+
+pada setiap modul kegiatan, pelajari rangkuman
+
+yang terdapat pada setiap akhir modul kegiatan
+
+belajar, baca dan kerjakan setiap tugas yang
+
+harus dikerjakan pada setiap modul kegiatan
+
+belajar, kerjakan dan jawablah dengan singkat
+
+dan jelas setiap ada ujian akhir modul kegiatan
+
+belajar (test formatif)
+
+Peran guru : menjelaskan petunjuk-petunjuk
+
+kepada siswa yang masih belum mengerti,
+
+mengawasi dan memandu siswa apabila ada
+
+yang masih kurang jelas, menjelaskan materi-
+
+materi pembelajaran yang ditanyakan oleh siswa
+
+yang masih kurang dimengerti, membuat
+
+pertanyaan dan memberikan penilaian kepada
+
+setiap siswa
+
+Modul ini merupakan modul dasar yang harus
+
+X X X
+
+dipahami oleh setiap siswa pada tingkat
+
+pertama, karena banyak bahan-bahan listrik dari
+
+teknik listrik yang akan digunakan untuk
+
+pembelajaran pada mata ajaran lainnya baik
+
+untuk pengembangan maupun aplikasi- aplikasi
+
+praktis bidang ketenagalistrikan.
+
+Sifat-sifat benda padat
+
+X X X X
+
+Bahan-bahan penyekat
+
+Penyekat bentuk padat
+
+Penyekat bentuk cair
+
+Penyekat bentuk gas
+
+Evaluasi 7. PEMBELAJARAN 1
+7.1. Penjelasan Umum
+7.2. Penjelasan Materi Materi 1 : Evaluasi 1
+
+Bahan penghantar
+
+Baham magnetik
+
+Bahan semi konduktor dan super konduktor
+
+Evaluasi dilakukan pada setiap akhir kegiatan belajar, dengan tujuan untuk mengetahui
+
+X XX
+
+tingkat/derajat kemampuan atau daya serap
+
+siswa terhadap materi pembelajaran yang telah
+
+disampaikan
+
+X X X X
+Setelah mengikuti pembelajaran ini digarapkan
+
+siswa dapat : memahami tentang sifat-sifat
+
+benda padat yang akan digunakan pada bidang
+
+teknik ketenagalistrikan, mampu menentukan
+
+bahan penyekat yang akan digunakan untuk
+
+keperluan teknik listrik, mengetahui dan
+
+memahami karakteristik penyekat bentuk padat,
+
+memahami sifat-sifat penyekat cair dan mampu
+
+menerapkannya, menjelaskan sifat-sifat penye-
+
+kat bentuk gas dan mampu menerapkannya,
+
+memilih bahan penghantar yang baik, menge-
+
+tahui dan memahami bahan-bahan magnetik
+
+yang dapat digunakan dalam bidang ketekniklis-
+
+trikan, dan mampu memilih dan menggunakan
+
+bahan-bahan semi konduktor dan super
+
+konduktor.
+
+- Sifat-sifat benda padat - Bahan-bahan penyekat
+
+X X X X X
+
+- Penyekat bentuk padat
+
+- Penyekat bentuk cair
+
+Evaluasi dilakukan setelah selesai materi pembelajaran satu yang mencakup empat unit
+
+X XX
+
+materi dengan : a. Tugas/latihan : sebanyak 3 soal
+
+b. Test formatif : 10 soal pertanyaan dalam
+
+bentuk essay
+
+Materi 2 :
+
+- Penyekat bentuk gas - Bahan penghantar
+
+X X X X X
+
+- Baham magnetik
+
+- Bahan semi konduktor dan super konduktor
+
+Evaluasi 2
+
+Evaluasi dilakukan setelah selesai materi pembelajaran dua yang mencakup tiga unit
+
+X XX
+
+materi dengan :
+
+a. Tugas/latihan : sebanyak 4 soal
+
+b. Test formatif : 10 soal pertanyaan dalam
+
+bentuk essay
+
+8 . POT TEST/EVALUASI AKH IR Evaluasi akhir dilakukan setelah selesai seluruh materi pembelajaran yang mencakup tujuh unit
+
+X X
+
+materi dengan :
+
+a. Testakhir : 17 soal pertanyaan dalam
+
+bentuk essay

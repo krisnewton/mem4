@@ -1,0 +1,1595 @@
+RESUME UTILITAS HOTEL
+SUMBER TENAGA LISTRIK
+
+JARINGAN LISTRIK
+
+Sumber tenaga listrik pada rancangan hotel ada 2 (dua) ,yaitu : 1. PLN (Perusahaan Listrik Negara) sebagai sumber utama listrik hotel.
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+Skema Sistem Distribusi listrik PLN
+
+aliran ini berasal dari jaringan kota yang dikelola oleh pemerintah, karenanya dalam distribusi watt-nya sangat terbatas pada pemakaian maksimal yang diijinkan.
+
+Auto Switch
+
+MDP
+
+SDP
+
+PP
+
+2. Generator Set (GENSET) sebagai cadangan/ back up listrik hotel.
+
+GENSET
+
+Generator merupakan alat yang mengubah gerakan mekanis menjadi elektris melalui proses kemagnetan. sumber tenaga ini dikelola oleh pemilik bangunan dan merupakan fasilitas bangunan.
+
+MACAM PERALATAN LISTRIK
+
+ada kelebihan dan kekurangan tersendiri pada masing-masing sumber a. Transformator (TRAFO)
+
+listrik diatas,
+
+Adalah peralatan yang digunakan untuk merubah atau
+
+mengganti tegangan arus bolak-balik, menjadi searah.
+
+KETERANGAN : MDP : Main Distribution Panel SDP : Sub Distribution Panel PP : Panel Pembagi
+
+PENGGUNAAN TENAGA LISTRIK PADA BANGUNAN
+Pemakaian tenaga listrik dalam bangunan pada umumnya, dapat dikelompokan dalam 3 (tiga) kategori meunurut peruntukanya, yaitu :
+A. PERLINDUNGAN BANGUNAN
+- perlindungan terhadap bahaya kebakaran - perlindungan terhadap petir - perlindungan terhadap pencemaran
+B. PENGADAAN FASILITAS
+- pengadaan air bersih, air panas - pengadaan transportasi dalam bangunan (lift/eskalator) - pengkondisian udara (Air Conditioner) - penerangan - sound system - telepon
+C. PELAYANAN KEGIATAN KONSUMEN, berupa :
+- Berbagai macam peralatan listrik yang digunakan untuk mendapatkan kemudahan, efisiensi dan juga kenyamanan.
+
+b. SwitchBoard Adalah kupulan saklar , sekering dan atau pemutus arus yang
+berdiri terpisah berfungsi untuk merubah / mengalihkan serta memberikan pengamanan terhadap beberapa aliran listrik yang dihubungkan dengan sumber energi utama
+c. PanelBoard Adalah perlengkapan hubung bagi yang pada tempat
+pelayananya berbetuk suatu panel atau kombinasi berbagai panel, yang diperlengkapi peralatan listrik seperti sakelar, kabel, dsb.fungsinya untuk mengontrol, membagi, dan melindungi rangkaian dan alat-alat pemakai tenaga listrik
+d. Sakelar Merupakan alat yang digunakan untuk menghubungkan ,
+memutuskan dan mengubah rangkaian listrik dalam keadaan berbeban ataupun tidak.
+e. Peralatan pelindung jalur listrik Untuk melindungi isolasi, kabel, saklar, dan peralatan lain
+dari kelebihan muatan dan lorsleting aliran listrik, diperlukan suatu otomat untuk memutus arus.
+contoh :
+- Sekering, merupakan peralatan yang sederhana terdiri
+dari sambungan atau kawat yang dapat meleleh pada suhu yang relatif rendah. Sekering tidak hanya digunakan padad arus tetap tetapi juga untuk memutus kapasitas. Agar diperoleh kapasitas yang aman untuk menghindarkan korsleting pada ketinggian beban tertentu.
+
+MACAM SALURAN LISTRIK
+a. Kabel Terisolasi yang di expose
+b. kabel terisolasi dalam jalur terbuka (tray)
+c. Kabel terisolasi dalam jalur tertutup
+SAYARAT PERANCANGAN JARINGAN
+INSTALASI LISTRIK YANG EKONOMIS
+1. Fleksibilitas Jaringan harus memberi kemungkinan untuk
+pembebanan beban, tetapi harus dalam batas ekonomis, cadangan tambahan beban yang berlebihan (over design) adalah tidak ekonomis dan merupakan pemborosan.
+2. Handal & Terpercaya Jaringan instalasi harus dapat di andalkan dan dapat
+dipercaya, sebab pembebanan oleh peralatan listrik sering tidak dapat dikontrol. hal yang perlu diperhatikan adalah kualitas bahan-bahan instalasi.
+3. Keamanan Jaringan instalasi harus dirancang sesuai Peraturan
+Nasional yang berlaku (Peraturan Umum Instalasi Listrik). Tabung-tabung instalasi harus mudah dicapai dan bebas hambatan/halangan fisik.
+
+JARINGAN LISTRIK
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+GENERATOR SET DAN TRAFO
+
+Alat Generator adalah sebuah mesin yang dapat mengubah tenaga mekanis menjadi tenaga listrik melalui proses induksi elektromagnetik. Generator ini memperoleh energi mekanis dari prime mover. Generator arus bolak-balik (AC) dikenal dengan sebutan alternator. Generator didesain untuk mampu mensuplai tenaga listrik ketika terjadi gangguan, yang kemudian suplai tersebut digunakan untuk beban prioritas.
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+Transformator Schneider Electric 630 KVA (Trafo)
+
+DENYO DCA-600SPK
+PRIME POWER GENERATOR Three Phase
+SPECIFICATIONS
+ALTERNATOR Frequency 50 Hz Output Continuous/Standby 550/605KVA Rotating Speed 1500RPM NO. Of Phases Three Phase 4 wire Rated Voltage 380/440 Power Factor 0.8 Voltage Regulation % +0.5 Excitation Brushless, Rotating Exciter (with A.V.R.)
+Insulation Class F
+UNIT Dimensions (L/W/H mm) 5580x1650x2400 Dry Weight 8860kg
+Price : US $ 140,000-150,000
+
+transformator atau yang biasa kita kenal dengan trafo adalah komponen elektronika yang berfungsi untuk menaikkan atau menurunkan tegangan listrik. Dengan demikian fungsi transformator ini sangat diperlukan sekali dalam sebuah sistem/rangkaian elektronika. Di sini transformator berperan dalam menyalurkan tenaga atau daya listrik dari tegangan tinggi ke tegangan yang rendah atau sebaliknya, namun dengan frekuensi yang sama.
+
+ENGINE Make & Model KOMATSU SA6D170A
+
+Type Inlined, Direct injected,
+
+Turbo Charged, After Cooled
+
+Output Rating
+
+639/1500 PS/rpm
+
+470/1500 KW/min-1
+
+No. of Cylinders-Bore X Stroke Piston
+
+Displacement
+
+6-170 X 170mm
+
+Fuel Diesel
+
+23.150L
+
+Fuel Consumption 81.8L/H
+
+Lube Oil Sump Cap 119L
+
+Coolant Capacity 112L
+
+Battery Capacity
+
+190H52x2
+
+Fuel Tank Capacity 490L
+
+SOUND 7m/dB (A) 1500/1800rpm 67dB
+
+Price : Rp. 119.000.000,-
+
+JARINGAN LISTRIK
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+ELEVATOR
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+Create the ideal look for your project. Schindler 5500 Fits you.
+
+Green mobility
+
+Schindler Passenger Elevator
+Schindler 5500 MRL Planning Data
+Height and plan view
+
+Freedom of design
+
+Lift/Elevator merupakan aksesibilitas tamu / pengunjung maupun karyawan dari lantai 1 ke lantai lainnya.
+lift diletakan dekat dengan pengunjung yaitu 30 - 40 meter.
+Harga per unit lift Schindler type 5500 berkisar :
+Rp. 250.000.000.00,-
+
+TRANSPORTASI DALAM BANGUNAN
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+HVAC
+Heating, Ventilation, Air Conditioners
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+AIR CONDITIONER
+
+BEBERAPA JENIS AIR CONDITIONER
+
+Sebuah peralatan Air Conditioner dipergunakan untuk :
+
+AC SPLIT
+
+a. Mengatur suhu udara b. Mengatur sirkulasi udara c. Mengatur kelembaban udara d. Mengatur kebersihan udara.
+Air conditioner mempertahankan kondisi udara baik suhu dan kelembabannya agar nyaman dengan cara sebagai berikut :
+a. Pada saat suhu ruangan tinggi air conditioner akan mengambil panas dari udara sehingga suhu udara diruangan turun. Sebaliknya saat suhu ruangan rendah air conditioner akan memberikan panas ke udara sehingga suhu udara akan naik.
+b. Bersama dengan itu kelembaban udara juga dikurangi sehingga kelembaban udara dipertahankan pada tingkat yang nyaman
+Untuk menunjang kerja air conditioner tersebut, maka pada air conditioner umumnya dilengkapi dengan Heater, Cooler Evaporator), dan sistim ventilasi seperti Blower, Air purifier ( pembersih Udara ) dan
+
+- Unit mandiri yang sesuai untuk pemakain dalam ruangan berukuran kecil.
+- tergantung kondisi, umurnya bisa mencapai 10 sampai 12 tahun.
+- Jenis AC yang umum dipasaran adalah tipe :
+* Vertikal/ dipasang didinding - kapasitas PK : 1.5 sampai 2,5 PK
+* Ceiling mounted (Tipe Cassette) - kapasitas PK : 2 sampai 6 PK
+* Floor standing - kapasitas PK : 3 sampai 7,5 PK
+
+PROSES KINERJA AC (Air
+
+AC CENTRAL
+
+Sistem AC Central
+AC sentral adalah sistem pendinginan ruangan yang dikontrol dari satu titik atau tempat dimana proses pendinginan udara terpusat pada satu lokasi yang kemudian didistribusikan/dialirkan ke semua arah atau lokasi (satu Outdoor dengan beberapa indoor). sesuai dengan ukuran ruangan dan isinya dengan menggunakan saluran udara. Saat ini ada dua sistem AC Central yang banyak dipakai untuk pendinginan ruangan yaitu :
+
+CHILLER UNIT AHU (Air Handling Unit)
+
+Sistem Air dan Sistem Freon.
+Komponen AC Central
+1. Chiller (Compressor, Condensor, Evaporator) 2. Cooling tower 3. Air Handling Unit 4. Fan Coil unit 5. Control Unit (thermostat) 6. Ducting 7. Diffuser 8. Damper 9. Variable Air Volume 10. Variabel speed drive/ Variable frequency drive
+
+SISTEM PENGATURAN UDARA DALAM RUANG
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+AIR CONDITIONER YANG DIGUNAKAN PADA RANCANGAN HOTEL
+
+HVAC
+Heating, Ventilation, Air Conditioners
+
+AC UNTUK RUANG GENERAL MANAGER DAN STAF (Ruang tiap divisi)
+
+AH-A9MEY
+Powerful Jetstream Gentle Coanda Cool Air Flow Green Ag+ coated Pre-Filter (NEW) Two Way Auto Swing Louver Low Voltage System (LOVES) Auto Re-start function Anti Rust Evaporator Easy Grip Remote Control With 12H Timer
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+AC UNTUK KAMAR TIPE STANDAR DAN RUANG FITNESS DAN SPA
+
+AH-AP12MHL
+Plasmacluster HD 7000 Low Wattage 970 watt Powerful Jetstream Gentle Coanda Air Flow Green Ag+ coated Pre-Filter (NEW) Four Way Auto Swing Louver Self Cleaning function Filter Sign Low Voltage System (LOVES) Auto Restart Function Anti Rust Evaporator Large Size Easy Grip Remote Control with 24/12H Clock Mode
+
+Features Colour Jetstream Coanda Low Wattage Turbo Cooling Plasmacluster Ion Shower Auto Swing Louver Auto Restart Function Anti Rust Evaporator Self Cleaning Function Remote Control Coverage Floor Area Capacity Cool Capacity Pipe Diameter Liquid Side Gas Side Refrigerant Volume Power Supply Rated Frequency Rated Voltage Rated Current Rate Input Dimensions In Door Out Door Net Weight In Door Out Door
+harga : Rp. 2.770.000,-
+
+:White :Yes :Yes :Normal :No :No :2-Way Auto Swing Louver :Yes :Yes :No :Easy Grip Remote Control with 12H Timer :10-18 m2
+:2.64 kW :1 PK
+:1/4 inch :3/8 inch :R22 - 490
+:50 hz :220 Volt :4 Ampere :860 Watt
+:860 x 292 x 198 mm :598 x 495 x 265 mm
+:8,5 kg :22 kg
+
+Features
+
+Colour
+
+:
+
+Body
+
+Jetstream
+
+Coanda
+
+Low Wattage
+
+Turbo Cooling
+
+Plasmacluster Ion Shower
+
+Auto Swing Louver
+
+Auto Restart Function
+
+Self Cleaning Function
+
+Remote Control
+
+Coverage Floor Area Capacity Cool Capacity Pipe Diameter Liquid Side Gas Side Refrigerant Volume Power Supply Rated Frequency Rated Voltage Rated Current Rate Input Dimensions In Door Out Door Net Weight In Door Out Door
+
+harga : Rp. 4.480.000,-
+
+Two Tone Colour - Silver Panel & White
+:Yes :Yes :Yes :No :Yes - Plasmacluster High Density 7000 :4-Way Auto Swing Louver :Yes :Yes with Plasmacluster Ions :Large Size Easy Grip Remote Control with 24 H / 12 H Clock Mode :15 - 24 m2
+:3.5 kW :1 1/2 PK
+:1/4 inch :1/2 inch :R22 - 890
+:50 hz :220 Volt :4.6 Ampere :970 Watt
+:860 x 292 x 223 mm :730 x 540 x 250 mm
+:9 kg :32 kg
+
+SISTEM PENGATURAN UDARA DALAM RUANG
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+AIR CONDITIONER YANG DIGUNAKAN PADA RANCANGAN HOTEL
+AC UNTUK KAMAR TIPE DELUXE
+
+Features
+
+Colour
+
+:Two Tone Colour - Silver Panel &
+
+White Body
+
+Jetstream :Yes - Super Jetstream with
+
+Reversible Louver
+
+Coanda :Yes
+
+Low Wattage
+
+:Yes
+
+Turbo Cooling
+
+:No
+
+Plasmacluster Ion Shower :Yes - Plasmacluster
+
+High Density 7000
+
+Auto Swing Louver :4-Way Auto Swing Louver
+
+Auto Restart Function :Yes
+
+Anti Rust Evaporator
+
+:Yes
+
+Self Cleaning Function :Yes with Plasmacluster
+
+Ions
+
+Remote Control :Large Size Easy Grip Remote
+
+Control with 24 H / 12 H Clock
+
+Mode
+
+Coverage Floor Area
+
+:21 - 34 m2
+
+Capacity
+
+Cool :5.01 kW
+
+Capacity :2 PK
+
+Pipe Diameter
+
+Liquid Side :1/4 inch
+
+Gas Side :1/2 inch
+
+Refrigerant Volume :R22 - 750
+
+Power Supply
+
+Rated Frequency :50 hz
+
+Rated Voltage
+
+:220 Volt
+
+Rated Current
+
+:7.4 Ampere
+
+Rate Input :1540 Watt
+
+Dimensions
+
+In Door
+
+:1.050 x 313 x 250 mm
+
+Out Door :730 x 540 x 250 mm
+
+Net Weight
+
+In Door
+
+:12 kg
+
+Out Door :34 kg
+
+harga : Rp. 6.525.000,-
+
+HVAC
+Heating, Ventilation, Air Conditioners
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+AH-AP18MHL
+Plasmacluster HD 7000 Low Wattage 1540 watt Super Jetstream with Reversible Louver Gentle Coanda Air Flow Green Ag+ coated Pre-Filter (NEW) Four Way Auto Swing Louver Self Cleaning function Low Voltage System (LOVES) Auto Restart Function Anti Rust Evaporator Large Size Easy Grip Remote Control with 24/12H Clock Mode
+AC UNTUK KAMAR TIPE JUNIOR SUITES
+AH-XP24MY
+Plasmacluster HD 7000 Inverter Technology (save up to 50%) Instant Low Wattage 1 kW dan 1.5 kW Super Jetstream with Reversible Louver Gentle Coanda Air Flow Green Ag+ coated Pre-Filter (NEW) Two Way Auto Swing Louver Self Cleaning function Low Voltage System (LOVES) Auto Re-start Function Anti Rust Evaporator Easy Grip Remote Control with 12H Timer
+
+AC UNTUK KAMAR TIPE PRESIDENTIAL SUITE
+
+GX-XP24NY
+Plasmacluster G7 (Double PCI Generator) Inverter Technology (save up to 50%) Auto Swing Louver Turbo Cooling function Auto Re-start function Easy Grip Remote Control with 12H Timer All AL (Aluminum) condenser Auto Stop (for drain pump error)
+
+Features
+
+Colour
+
+:Two Tone Colour - Silver
+
+Panel & White Body
+
+Jetstream
+
+:Yes
+
+Low Wattage
+
+:Inverter with 2 Step Instant
+
+Low Wattage (@1 kW and
+
+@1.5 kW)
+
+Turbo Cooling
+
+:No
+
+Plasmacluster Ion Shower :Yes - Plasmacluster
+
+High Density 7000
+
+Auto Swing Louver :2-Way Auto Swing Louver
+
+Auto Restart Function :Yes
+
+Anti Rust Evaporator
+
+:Yes
+
+Self Cleaning Function :Yes with Plasmacluster
+
+Ions
+
+Remote Control :Easy Grip Remote Control
+
+with 12H Timer
+
+Coverage Floor Area
+
+:6 - 48 m2
+
+Capacity
+
+Cool
+
+:6.25 kW
+
+Capacity
+
+:2 1/2 PK
+
+Pipe Diameter
+
+Liquid Side
+
+:1/4 inch
+
+Gas Side
+
+:5/8 inch
+
+Refrigerant Volume :R410A - 1000
+
+Power Supply
+
+Rated Frequency :50 hz
+
+Rated Voltage
+
+:220 Volt
+
+Rated Current
+
+:8.9 Ampere
+
+Rate Input
+
+:1880 (330 - 2.200) Watt
+
+Dimensions
+
+In Door
+
+:1050 x 313 x 250 mm
+
+Out Door
+
+:850 x 710 x 330 mm
+
+Net Weight
+
+In Door
+
+:12 kg
+
+Out Door
+
+:42 kg
+
+harga : Rp. 10.550.000,-
+
+Features
+
+Colour
+
+:White
+
+Jetstream
+
+:No
+
+Coanda
+
+:No
+
+Low Wattage
+
+:Inverter
+
+Turbo Cooling
+
+:Yes
+
+Plasmacluster Ion Shower :Yes - Double Ion
+
+Generator Plasmacluster HD 7000
+
+Auto Swing Louver :2-Way Auto Swing
+
+Louver
+
+Auto Restart Function :Yes
+
+Anti Rust Evaporator
+
+:Yes
+
+Self Cleaning Function :No
+
+Remote Control :Easy Grip Remote
+
+Control with 12H Timer
+
+Coverage Floor Area
+
+:8 - 50 m2
+
+Capacity
+
+Cool
+
+:7.03 kW
+
+Capacity
+
+:2 1/2 PK
+
+Pipe Diameter
+
+Liquid Side
+
+:1/4 inch
+
+Gas Side
+
+:3/8 inch
+
+Refrigerant Volume :R410A - 1000
+
+Power Supply
+
+Rated Frequency :50 hz
+
+Rated Voltage
+
+:220 Volt
+
+Rated Current
+
+:11.2 Ampere
+
+Rate Input
+
+:2340 (395 - 2.600) Watt
+
+Dimensions
+
+In Door
+
+:850 x 250 x 850 mm
+
+Out Door
+
+:850 x 710 x 330 mm
+
+Net Weight
+
+In Door
+
+:27 kg
+
+Out Door
+
+:42 kg
+
+harga : Rp. 16.000.000,-
+
+SISTEM PENGATURAN UDARA DALAM RUANG
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+AIR CONDITIONER YANG DIGUNAKAN PADA RANCANGAN HOTEL
+
+HVAC
+Heating, Ventilation, Air Conditioners
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+COOLING TOWER
+
+AC CENTRAL UNTUK RUANG RESRAURANT, CAFE & LOUNGE, BAR, BALLROOM DAN LOBBY
+
+CHILLER
+Name Product : UPRIGHT FREEZER 4 DOOR Dimention : 1220mm x 760 mm x 1965 mm Material : Stainlees Stell Temperature : Freezer ( -18 °C ) Cooling System : Blower with Automatic Defrosting Qty Door : 4 Door ( auto Closing Door ) Shelf : 6 shelf Compressor : Emraco Aspera ( Italy ) Power : 220 Volt/ 1 Phase / 50Hz Temperare Control : Digital, brand : Carel ( Italy ) Refrigeran :R 404a Harga : Rp 19.000.000,-
+
+Harga Pembuatan & Pemasangan Ducting Seng BJLS :
+* DUCTING AC SUPPLY & RETURN : (termasuk material, per m2) Seng BJLS 0.4 : Rp. 240.000 /m2. Seng BJLS 0.5 : Rp. 300.000 /m2. Seng BJLS 0.6 : Rp. 350.000 /m2. Seng BJLS 0.7 : Rp. 375.000 /m2. Seng BJLS 0.8 : Rp. 410.000 /m2. Seng BJLS 1.0 : Rp. 465.000 /m2.
+
+AHU type cs754i dengan harga : Rp. 20.000.000 40.000.000,00
+Flexible Aluminium Ducting (Plat).
+Kegunaan : Laundry, Kitchen, dll. Material : Plat Zincalume 0.1mm (Bukan Aluminium Foil). Diameter : 10cm, 12.5cm, 15cm, 20cm, 25cm, 30cm sampai 50cm. Daya Tahan Panas : maximum 250 C.
+
+­ Harga di atas adalah harga terpasang untuk Jakarta. ­ Harga sudah termasuk : jacketing glaswool & aluminium foil, support (siku), gantungan (behel). ­ Harga tambahaan untuk Flendes : Rp.25.000 /flendes.
+* DUCTING EXHAUST & FRESH AIR : (termasuk material, per m2) Seng BJLS 0.4 : Rp. 205.000 /m2. Seng BJLS 0.5 : Rp. 265.000 /m2. Seng BJLS 0.6 : Rp. 300.000 /m2. Seng BJLS 0.7 : Rp. 325.000 /m2. Seng BJLS 0.8 : Rp. 365.000 /m2. Seng BJLS 1.0 : Rp. 405.000 /m2.
+­ Harga di atas adalah harga terpasang untuk Jakarta & Dalam Kuantiti. ­ Harga sudah termasuk : support (siku), gantungan (behel). ­ Harga tambahaan untuk Flendes : Rp.25.000 /flendes.
+
+NON ISOLASI : Aluminium Foil : 2 Apply. Compression : Up to 90%. Temperature Range : -30 sampai 110 derajat C. Kawat : 1-1.2mm. Panjang : 10m /roll. Ukuran : 4inch ­ 14inch.
+Harga : 4inch : rp. 130.000 /roll. 6inch : rp. 170.000 /roll. 8inch : rp. 205.000 /roll. 10inch : rp. 240.000 /roll. 12inch : rp. 275.000 /roll. 14inch : rp. 315.000 /roll. * Harga di atas berlaku untuk kuantiti tertentu.
+
+* Untuk JASA KERJA saja (tidak termasuk material), harga : Rp.60.000 /m2.
+
+ISOLASI :
+
+­ Harga di atas adalah harga terpasang untuk Jakarta.
+
+Glasswool : High Quality, 24K,
+
+* RUMUS HITUNG M2 dengan contoh ukuran ducting Lebar : 100cm, Tinggi : 50cm, Panjang : 120cm
+
+1inch.
+
+(1 + 0.5) x 2 x 1.2 = 3.6 m2
+
+Aluminium Foil : 2 Apply. Temperature Range : -30 sampai
+
+Supply Air Diffuser (SAD) Aluminium + Damper.
+
+skema HVAC
+
+110 derajat C. Kawat : 1-1.2mm. Panjang : 10m /roll. Ukuran : 6inch ­ 14inch.
+
+Material : Aluminium Clear Anodized. Harga : 1 inch ­ 12 inch : rp. 9.000 /inch. 13 inch ­ 16 inch : rp. 10.000/inch.
+
+17 inch ­ 20 inch : rp. 11.000 /inch.
+
+Harga :
+
+21 inch ­ 25 inch : rp.14.000 /inch.
+
+6inch : rp. 290.000 /roll. 8inch : rp. 345.000 /roll. 10inch : rp. 445.000 /roll. 12inch : rp. 535.000 /roll.
+
+­ Rumus cara hitung per inch dengan contoh ukuran Grille 50cm (20inch) x 25 cm (10inch) : 20 inch + 10 inch : 2 = 15 inch. ­ Harga di atas adalah Harga untuk Kuantiti
+
+14inch : rp. 675.000 /roll.
+
+tertentu.
+
+* Harga di atas berlaku untuk
+
+kuantiti tertentu.
+
+SISTEM PENGATURAN UDARA DALAM RUANG
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+JARINGAN AIR BERSIH
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+PENYEDIAAN AIR BERSIH
+
+JENIS PIPA DAN UKURAN
+
+Air bersih dapat diperolah dari beberapa sumber yaitu : 1. Ait tanah
+a. Air tanah dangkal (unconfined aquifier) b. Air tanah dangkal (confined aquifier)
+2. Air hujan
+3. Air permukaan dapat berasal dari sungai, danau, waduk, telaga dsb.
+pemenuhan air bersih pada suatu bangunan tergantung dari lokasi bangunan serta fasilitas di sekitarnya. Untuk imemenuhi kebutuhan air pada suatu bangunan, sumber air dapat dibedakan atas :
+1. PDAM 2. Sumber sendiri, berupa sumur artesistant,deep wel, dll. 3. Gabungan PDAM dan sumber sendiri.
+Jaringan air bersih memerlukan sistem pemipaan (Plumbing), yaitu system yang penyediaan atau pengeluaran air ke tempat-tempat yang dikehendaki tanpa ada gangguan atau pencemaran terhadap daerah-daerah yang dilalui dan dapat memenuhi kebutuhan pemakainya. Secara umum, skema jaringan air bersih adalah sebagai berikut :
+
+Agar dapat digunakan maka air harus memenuhi persyaratan kualitas air, Sebagai berikut :
+1. Persyaratn fisik
+a. Air harus bersih dan tidak keruh b. Tidak berwarna apapun c. Tidak berasa apapun d. Tidak berbau apaun e. Suhu antara 10-25 C (sejuk) f. Tidak meninggalkan endapan g. kekeruhan : tidak mengandung SiO2 25mg/I
+2. Syarat kimiawi, antara lain:
+a. Tidak mengandung bahan kimiawi yang mengandung racun b. Tidak mengandung zat-zat kimiawi yang berlebihan c. Cukup yodium d. pH air antara 6,5 ­ 9,2
+3. Syarat mikrobiologi, antara lain:
+
+SUMBER AIR BERSIH
+
+KEBUTHAN AIR BERSIH
+
+Tidak mengandung kuman-kuman penyakit seperti disentri, tipus, kolera, dan bakteri patogen penyebab penyakit.
+
+Polyvinyl chloride (PVC) adalah pipa yang terbuat dari plastik dan beberapa kombinasi vinyl lainnya. Memiliki sifat yang tahan lama dan tidak gampang dirusak. Pipa PVC juga tidak berkarat atau membusuk. Oleh karena itu, PVC ini paling sering digunakan dalam sistem irigasi/perairan dan pelindung kabel.
+Berikut ini adalah macam-macam ukuran pipa PVC dengan standard JIS (satuan inch) yang dimulai dari AW 1/2 sampai AW 10 (atau lebih), D 1 1/4 sampai D 10 (atau lebih) dan C 5/8 sampai C 5
+AW = paling tebal, biasanya dipakai untuk perairan yang memiliki tekanan (seperti pakai pompa) D = tidak terlalu tebal, bisa untuk tekanan yang tidak terlalu besar atau bisa dipakai untuk buangan. C = paling tipis, biasanya untuk buangan air, tidak bisa untuk tekanan.
+
+jaringan transmisi PENYIMPANAN jaringan distribusi
+PEMAKAIAN
+
+Kebutuhan Air pada bangunan rancangan hotel berdasarkan standar adalah 3000 liter/kamar/hari.
+
+KEBUTHAN PERLENGKAPAN SANITER
+
+Closet Urinoir Bathub Douche/mandi pancuran
+
+8 liter/kali 30 liter/kali 250 liter/kali
+25 liter/kali
+
+DAYA BUANG RATA-RATA/AVERAGE DISCHARGE PERLENGKPAN SANITER
+
+Closet
+
+120 liter/menit
+
+Bathub
+
+90 liter/menit
+
+Washtafel/Urinoir 60 liter/menit
+
+Kebutuhan kloset 1 buah/40 orang
+
+DATA UNTUK MENENTUKAN DIAMETER PIPA PENYALUR
+(ATAS DASR KEHILANGAN TEKANAN 0.,2m/m2)
+
+Diameter : 3/8" 1/2" 3/4" 1" 1 1/4" 1 1/2" 2" 3" 4"
+
+Debit liter/menit 5 12,5 30 65 130 200 425 1.500 2000
+
+Kran : 1/2" 3/4" 1" 1 1/4"
+
+20 wastafel,bathub 40 70 110
+
+WAVIN TIGRIS GREEN terbuat dari Polypropylene Random type 3, yang merupakan material propylene dengan random copolymer yang disingkat PP-R type 3, yang merupakan material propylene dengan random copolymer yang disingkat PP-R type 3 atau PPR 80. Produk ini dirancang untuk mengaliri air panas dan dingin bertekanan, dengan jenjang produk yang luas. Untuk aplikasinya, pipa WAVIN TIGRIS GREEN tersedia dalam bebagai kelas tekanan dan temperatur dengan variasi ketebalan dinding sesuai dengan penggunaannya.
+Sistem penyambungan yang digunakan oleh WAVIN TIGRIS GREEN adalah sistem penyambungan heat fusion dengan menggunakan alat pemanas yang praktis dan sangat mudah.
+
+JARINGAN AIR BERSIH Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+JARINGAN AIR BERSIH
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+Tangki atas Lantai Tertinggi
+Lantai 3 Lantai 2 Lantai 1
+
+SISTEM DISTRIBUSI AIR BERSIH PADA RANCANGAN HOTEL
+
+Y Down Feed System
+
+Y Kelebihan Down Feed System
+
+S
+
+Dalam sistem ini air ditanpung dulu a. Pompa tidak bekerja tidak terus-menerus
+
+a
+
+ditangki bawah (ground tank), kemudian sehingga lenih efisien dan awet.
+
+l
+
+dipompakan ke tangki atas (upper tank) yang
+
+u
+
+biasanya dipasang diatas atap atau di lantai b. Air bersih selalu tersedia setiap saat.
+
+tertinggi bangunan. Dari sini air didistribusikan
+
+r
+
+ke seluruh bangunan. Sistem tangki atap ini c. Tidak memerlukan pompa otomatis , kecuali
+
+a
+
+cukup efisien diterapkan karena :
+
+untuk sistem pencengah bahaya kebakaran
+
+n
+
+(springkler dan hydrant).
+
+a. Selama airnya digunakan, perubahan
+
+tekanan yang terjadi pada alat plumbing hampir Kekurangan sistem ini adalah :
+
+d
+
+tidak berarti.
+
+a. Membutuhkan biaya tambahan untuk
+
+i
+
+pengadaan tangki tambahan.
+
+s
+
+b. Sistem pompa menaikan air ke tangki atas
+
+t
+
+bekerja secara otomatis dengan cara yang b. menambah beban pada struktur bangunan. sangat sederhana sehingga kesulitan dapat
+
+r
+
+ditekan.
+
+c. Menambah biaya pemeliharaan.
+
+i
+
+b
+
+c. Perawatan tangki sangat sederhana
+
+Akan tetapi untuk pemaikan jangka panjang
+
+dibandingkan dengan misalnya tangki tekan.
+
+sistem ini termasuk efektif dan efisien walaupun
+
+u
+
+biaya pembuatan mahal. jika bangunan Berlantai
+
+s
+
+banyak/tinggi down feed system harus dikengkapi
+
+i
+
+denga Spillback tank, yaitu berupa tangki pembantu
+
+yang diletakan pada lantai tertentu. Untuk
+
+meminimalisir tekan air yang kuat. (tekanan air
+
+Pompa
+
+setiap 7 meter ialah 1 atmosfer).
+
+Tangki bawah
+
+POMPA AIR BERSIH
+
+HEAT PUMP WATER HEATER SYSTEM
+
+HEATER PUMP
+
+Tipe
+
+= HPC 35.0 - 9000
+
+Hot Water Out put = 860 L/h
+
+Power Supply
+
+= 380V/50Hz/3Ph
+
+Average Heating Capacity = 35000 watt
+
+Nominal Power Input = 9000 watt
+
+Current
+
+= 16,5 Ampere
+
+Refrigerant = R407C/R410A/R22
+
+Compressor Type = Scroll
+
+Compressor Quantity = 1
+
+Rate Water Temperature = 55°C
+
+Max Water Temperature = 65°C
+
+Ambient Temp.
+
+= -15°C - 45°C
+
+Water Pressure Drop = 40 Kpa
+
+Connection Pipe = 40mm
+
+Max Water pressure = 600 Kpa
+
+Fan Air Flow Rate = 13000 m3/h
+
+Fan Output Power = 1000 watt
+
+Noise Level = 65 dB(A)
+
+Net Dimension
+
+= 960 x 960 x 900 mm
+
+Net Weight = 250 Kg
+
+Harga = Rp 99.900.000,-
+
+Saluran pengisi
+Sumber Air
+
+Pompa
+
+Y Down Feed System
+
+SHIMIZU PC 502 BIT Suction Head : 50 m Discharge Head : 50 m Total Head : 100 m Maximum Flow Rate : 100 Liter/min Motor Output : 500 Watt Voltage/Hz/Phase : 220 V/50 Hz/1 Automatic Pipe Size : 1.25" x 1"
+Harga : Rp. 2.040.000,00
+
+HEATER TANK
+
+Tipe Tangki Volume ( Liter ) Diameter ( mm ) Tinggi ( mm ) Material Tangki (in) Berat Kosong Harga
+
+: Un Pressure Tank 3000 : 3000 L : 1570 mm : 1952 mm : SS 304L-2,0mm : 570 kg : Rp. 111.500.000
+
+JARINGAN AIR BERSIH Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+JARINGAN AIR KOTOR (SANITASI)
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+FUNGSI SALURAN PEMBUANGAN AIR KOTOR DALAM BANGUNAN
+
+1. Fungsi kenyamanan. Sebagai bagian dari sebuah bangunan, saluran air kotor berfungsi sebagai penunjang kegiatan yang sedang berlangsung dalam bangunan.
+2. Fungsi estetika. Dengan adanya jaringan saluran pembuangan air kotor, maka penampilan fisik bangunan akan lebih estetis karena secara keseluruhan penampilan bangunan akan leibih teratur.
+3. Fngsi utilitas. Saluran pembuangan air kotor merupakan suatu aliran yang berfungsi sebagai pengangkut bahan-bahan limbah dari kegiatan yang sedang berlangsung dalam suatu bangunan.
+Klasifikasi berdasarkan jenis air buangan:
+· Sistem pembuangan air kotor.
+Adalah system pembuangan untuk air buangan yang berasal dari kloset, urinal, bidet, dan air buangan yang mengandung kotoran manusia dari alat plambing lainnya ( black water ).
+· Sistem pembuangan air bekas.
+Adalah system pembuangan untuk air buangan yang berasal dari bathtub, wastafel, sink dapur dan lainnya ( grey water ). Untuk suatu daerah yang tidak tersedia riol umum yang dapat menampung air bekas, maka dapat di gabungkan ke instalasi air kotor terlebih dahulu
+· Sistem pembuangan air hujan.
+Sistem pembuangan air hujan harus merupakan system terpisah dari system pembuangan air kotor maupun air bekas, karena bila di campurkan sering terjadi penyumbatan pada saluran dan air hujan akan mengalir balik masuk ke alat plambing yang terendah.
+· Sistem air buangan khusus.
+Sistem pembuangan air yang mengandung gas, racun, lemak, limbah pabrik, limbah rumah sakit, pemotongan hewan dan lainnya yang bersifat khusus.
+
+Klasifikasi menurut cara pembuangan air kotor :
+1. Sistem pembuangan campuran.
+yaitu sistem pembuangan domana segala jenis air buangan dikupulkan ke dalam suatu saluran dan dialirkan ke luar gedung, tanpa memperhatikan jenis air buangan.
+2. Sistem pembuangan terpisah.
+yaitu sistem pembuangan dimana segala jenis air buangan dikumpulkan dan dialirkan ke luar gedung secara terpisah.
+3. Sistem pembuangan air secara tidak langsung.
+yaitu sistem pembuangan air dimana air buangan dari beberapa lantai gedung bertingkat digabungkan dalam suatu kelompok.
+Klasifikasi menurut letaknya :
+1. Sistem pembuangan dalam bangunan.
+yaitu sistem pembuangan yang terletak di dalam gedung, sampai jarak satu meter dari dinding luar bangunan tersebut.
+2. Sistem pembuangan di luar banguan, atau riol bangunan. yaitu sistem pembuangan di luar bangunan, di
+halaman, mulai satu meter dari dinding paling luar dari bangunan sampai ke riol kota.
+
+BAGIAN ­ BAGIAN SISTEM PEMBUANGAN · Alat ­ alat plambing yang di gunakan untuk pembuangan seperti bathtub,wastafel, bak-bak cuci piring, cuci pakaian, kloset, urinal, bidet, dsb. · Pipa ­ pipa pembuangan. · Pipa ven. · Perangkap dan penangkap ( interceptor ). · Bak penampung dan tangki septic. · Pompa pembuangan.
+SKEMA PEMBUANGAN AIR KOTOR
+
+Klasifikasi berdasarkan cara pengaliran :
+· Sistem gravitasi.
+Air buangan mengalir dari tempat yang lebih tinggi ke tempat yang lebih rendah secara gravitasi ke saluran umum yang letaknya lebih rendah
+· Sistem bertekanan. Sistem yang menggunakan alat ( pompa ) karena saluran umum letaknya lebih tinggi dari letak alat plambing, sehingga air buangan di kumpulkan terlebih dahulu dalam suatu bak penampungan, kemudian di pompakan keluar ke roil umum. Sistem ini mahal, tetapi biasa di gunakan pada bangunan yang mempunyai alat ­ alat plambing di basement pada bangunan tinggi / bertingkat banyak.
+
+PERANAN PIPA VEN
+
+JARINGAN AIR KOTOR Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+JARINGAN AIR BERSIH
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+CW868NJ
+6L/3L Water Saving Dual Flush. Solid Duroplast Seat & Cover. Bowl Shape : European Standard. Fully Covered Trapway. Rough In : 220 mm.
+IDR 4,920,000
+
+KEBUTUHAN ALAT SANITARY PADA RANCANGAN HOTEL MENGGUNAKAN SANITARY MERK TOTO
+LW641J Semi Recessed Counter Lavatory 3 Tap Holes LW641J Size : 505 x 505 x 115 mm Available : LW 641 CJ ( 1 Tap Hole ) IDR1,130,000 (belum termasuk keran)
+
+TX432SHBR "Helio" Single Lever Bath & Shower Set
+IDR 1,400,000
+
+TS113W Double Towel Bar Size : 610 mm IDR 591,000
+TX2BV1B Soap Basket Size : 157 x 107 mm
+IDR 289,000
+
+TX703AES "Ego II" Paper Holder IDR 229,000
+TX704AEZ Robe Hook IDR 61,000
+
+CW811PJ/SW811JP "Le Muse" Close Coupled Toilet Dual Flush 4,5/3 L Rough-In : 140 mm - 220 mm IDR 6,450,000
+CW823J 6L Tornado-II Siphonic Flush. Solid Duroplast Seat & Cover. Bowl Shape : Elongated Fully Covered Trapway Rough In : 305 mm IDR. 7,230,000
+CW660NPJ/SW660J Dual Flush Toilet (4.5/3 liters)(P-trap Installation) Bowl Shape : Round Rough-In : 180 mm ( P - Trap) IDR 2,460,000
+
+LW819J "Le Muse" Vessel Lavatory IDR1,809,000 (not inclued faucet)
+LW817J "Le Muse" Floor Standing Lavatory IDR4,971,000 (not inclued faucet)
+CE9/TV150NWV12 6 L Single Flush Min. Water Pressure : 0.70 Kgf/cm2 Rough-In : 582 mm IDR 3,170,000
+
+TX488SRR
+
+FB1700-75
+Bathtub w/Apported Anti-Slip (1700 x 750 x
+
+"Rei" Fixed Shower Head w/Pipe (L= 400 mm, Diameter = 250 mm) (Wall Type)
+
+TX4W Combination Towel Shelf & Towel Bar (L= 660 mm)
+
+390) Size : 1700 x 750 x 390 mm
+Capacity : 180 Liters Pop-Up Waste : 9005 ( Optional )
+
+IDR 1,490,000
+TX404SDN Single Lever Bath & Shower Mixer With Diverter
+
+IDR 1,490,000
+TX704AJ "Jazz" Robe Hook
+
+TX11B IDR 246,000
+TX706AES
+
+IDR4,410,000
+
+IDR 1,230,000
+
+IDR 198,000
+
+"Ego II" Soap Holder
+
+IDR 320,000
+
+PPY1530WV1
+
+TX726AE
+
+Corner Bathtub w/AntiSlip Size : 1500 x 1500 x 660 mm Capacity : 276 Liters Pop-Up Waste
+
+TX488SIN "Icon" Fixed Shower Head w/Pipe (L= 400 mm) (300 x 300 mm) (Wall Type)
+
+"Ego" Combination Towel Shelf & Towel Bar (L= 660 mm)
+IDR 2,050,000 TX706AE "Ego" Soap Holder
+
+Included : DB501-2
+
+IDR 2,680,000
+
+IDR 608,000
+
+IDR33,620,000
+
+TX469SMBR Mono Mixing Valve for Bath & Shower w/Diverter
+IDR 2,950,000
+
+TX704ARYN "Royal Crown" Double Robe Hook
+IDR 437,000
+
+TX703AI "Icon" Paper Holder IDR 551,000
+
+U104 Urinal IDR 2,090,000
+
+LW952J Console Lavatory (560 x 350 x 109 mm)
+IDR 935,000 (price does not inclued faucet)
+
+TX1BV1N
+Floor Drain With Square Flange ( for 2" G.I. Pipe )
+( 115 x 115 mm )
+IDR 404,000
+
+JARINGAN AIR BERSIH Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+Jaringan Internet
+
+JARINGAN INTERNET, PABX & CCTV
+Private Automatic Branch eXchange dan
+Close Circuit Television
+
+Pengertian Jaringan Internet adalah suatu sistem jaringan yang terkait dalam lingkup global dan memfasilitasi komunikasi layanan data seperti remote login, transfer file, surat elektronik, World Wide Web dan newsgroup. Dengan meroketnya permintaan untuk konektivitas, jaringan Internet telah menjadi jalan raya komunikasi bagi jutaan pengguna. Jaringan Internet awalnya terbatas pada lembaga militer dan akademis, tapi sekarang ini hampir seluaruh lapisan telah menggunakan jaringan internet.
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+Jaringan CCTV
+
+D-LINK Switch Managed [DES-3200-28] 24 Ports 10/100Mbps, 4 Slot SFP Gigabit UTP, Managable
+
+CCTV ( Closed Circuit Television)merupakan sebuah perangkat kamera video digital yang digunakan untuk mengirim sinyal ke layar monitor di suatu ruang atau tempat tertentu. Hal tersebut memiliki tujuan untuk memantau situasi dan kondisi suatu tempat,sehingga dapat mencegah terjadinya kejahatan atau dapat dijadikan barang bukti dari tindakan kejahatan yang telah terjadi.
+
+Rp 3,499,000
+
+TP-LINK 3G Wireless-N Router [TL-MR3420] - 3G Broadband Wireless N Router, 802.11b/g/n, 300Mbps
+
+harga : Rp 448.500,-
+
+Jaringan Telepon
+PABX atau Private Automatic Branch eXchange adalah perangkat penyambungan komunikasi telepon yang terletak di sisi pelanggan, misalnya di gedung-gedung perkantoran, bangunan komersil, yang memerlukan percabangan sambungan telepon. Secara umum perangkat PABX terhubung ke penyedia layanan telekomunikasi publik.
+Sistem Jaringan Telepon
+Penggunaan jumlah telepon pada suatu bangunan pada umunya tidak diketahui secara tepat dan oleh karenanya perlu dirancang secara Terpadu dengan perancangan jaringan utilitas lainnya. Meskipun pada saat tahap rancangan jumlah telepon sudah diketahui, pada kenyataanya masih sering terjadi penambahan jumlah dan perubahan jaringan layanan telepon. Untuk maksud ini, maka perncangan jumlah saluran telepon didasarkan pada prakiraan per satuan luas lantai yang akan mempengaruji alokasi kebutuhan ruangan untuk kebutuhan : 1. layanan penerimaan telepon, berikut panel utama telepon 2. saluran vertical (riser), pipa saluran dan panel distribusi 3. lemari untukperlengkapan telekomunikasi 4. lokasitempat penambahan sambungan 5. ruang peralatan untuk perlengkapan khusus telekomunikasi 6. sistem distribusi termasuk pipa jaringan, kotak sambungan di lantai, dan lain-lain.
+untuk dapat berfungsinya sistem telekomunikasi di dalam bangunan, diperlukan saluran telepon dari telkom.
+
+Pesawat Telephone Panasonic KXTS880 Fitur KX-TS880 · Caller ID Compatible Requires subscription to Caller · 50-Station Phonebook · 20One-Touch/ 10-Spead Dialer · HandsFree Speaker Phone · 2-Step Tilt Angle · 20-Radial Memory/Auto Radial · Headset Jack
+
+Pada umumnya,CCTV seringkali digunakan pada area umum seperti : Hotel, Bandar Udara, Kantor, dan pabrik,namun seiring perkembangan jaman ,sekarang CCTV juga sangat diperlukan di perumahan-perumahan. Sistem kamera digital saat ini dapat dikontrol melalui Personal Computer ataupun telephone genggam dimanapun dan kapanpun selama ada komunikasi melalui internet maupun akses GPRS.
+
+Harga : Rp. 475.000,00
+
+SONY CCTV [SSC-N11] Color Mini-Dome Camera, 1/3 type Super HAD CCD II, 540 TVL, 0.55 Lux Color, Auto White Balance Mode
+Rp 2,218,700
+EVERFOCUS CCTV [ESD200E-PB4NGR] Covert Camera, 1/3" Sony Super CCD Sensor, 380 TVL, 0.3 Lux, Auto White Balance Mode.
+Rp 1,105,000
+
+INFINITY CCTV [DS-310] Box Camera, 1/3" Sony CCD Sensor, 420 TVL, C/CS Mount, 0.01 Lux, Auto White Balance Mode
+
+Rp 825,000
+
+Kabel CCTV merk PRO RG59 + Power 95% Braid
+
+PABX PANASONIC KX-TDA100D 32 Line 120 Extension Analog 4 Extension Digital
+Berat : 10000 gram
+Harga : Rp. 38.453.000,00
+
+SAMSUNG CCTV Protech [SCO-1020R] 1/4" CMOS Sensor, 3.6mm Lens, 520 TVL Horizontal Resolution, Night Vision, Waterproof
+Rp 1,590,000
+
+HARGA DIATAS TERDIRI DARI:
+
+-1 unit KX-TDA100D Main Unit 7 Slot Flexible untuk Line /Extension + 4 Extension Digital -2 unit KX-TDA0181 Expansion card 16 port Line ( PT.Telkom Indonesia ) -5 unit KX-TDA1178 Expansion card 24 port extension analog -1 unit KX-DT333 Digital telephone display 24 co line
+
+Panjang 1 roll kabel ini adalah 300 meter. Beratnya 19 kg.
+Rp.1,250,000.00
+VISION PRO VP-2916 New Generation DVR 16ch H.960 video Compression,That system integrates other related informations,like Alarm and Voice ,Support Mobile Phones ( Windows, Symbian, Blacberry, Iphone, Android)
+harga : Rp. 3.499.000
+
+Harga belum termasuk biaya pemasangan dan seting program
+
+TELECOMUNICATION & SECURITY
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+KEBUTUHAN ELEKTRONIK
+
+Samsung 22" Full HD LED TV Hitam - UA22H5000
+
+Spesifikasi Samsung 22" Full HD LED TV Hitam - UA22H5000
+
+SKU
+
+: SA848ELAGBRYANID-308456
+
+Harga
+
+: RP 1.649.000
+
+Model
+
+: UA22H5000
+
+Ukuran (L x W x H cm) : 51.3 x 32.1 x 4.38
+
+Berat (kg)
+
+: 3
+
+Warna
+
+: Hitam
+
+Ukuran Layar (in)
+
+: 22.0
+
+Fitur Tampilan
+
+: Full HD
+
+Garansi produk
+
+: 1 Tahun Garansi ( Service dan Spare Part)
+
+Input
+
+: USB
+
+USB Port
+
+: 2
+
+Resolusi Layar
+
+: 1920 x 108
+
+HDMI Port
+
+: 2
+
+Tipe Layar
+
+: LED
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+PANASONIC NR-AK5ED MINI BAR
+
+Double Rotation Compressor
+
+Kapasitas (L)
+
+: 50L (Net)
+
+Dimensi WxDxH : 489 x 510 x 488 mm
+
+Warna
+
+: Silver Grey
+
+Daya Listrik (watt) : 65 w
+
+Harga
+
+: Rp. 1.450.000,00
+
+Panasonic Hair Dryer EH-NE11
+Y External Ion Outlets Y Quick Dry Nozzle Y Gagang yang Dapat Dilipat
+
+Samsung UA40F6400 Hitam - 40" - 3D LED Smart TV
+
+Spesifikasi Samsung UA40F6400 Hitam - 40" - 3D LED
+
+SKU
+
+: SA848ELABOANANID-85653
+
+Harga
+
+: RP 14.539.000
+
+Ukuran (L x W x H cm) : 92.82 x 54.38 x 4.96
+
+Berat (kg)
+
+: 11
+
+Warna
+
+: Hitam
+
+Ukuran Layar (in)
+
+: 40.0
+
+Fitur Tampilan
+
+: Full HD
+
+Fitur
+
+: Wi-Fi|Dual Core|Full HD |3D|Remote
+
+Input
+
+: 3.5mm jack
+
+Output
+
+: LAN|USB|HDMI
+
+Koneksi Nirkabel
+
+: WiFi
+
+Resolusi Layar
+
+: 1920 x 108
+
+Tipe Layar
+
+: LED
+
+Konsumsi Daya
+
+: AC100-240V
+
+USB Port
+
+: 3
+
+HDMI Port
+
+: 4
+
+Samsung LED TV Seri 5 48" UA48H5500AW | Full HD 1080p Smart
+
+Spesifikasi Samsung LED TV UA48H5100 - 48" - Hitam
+
+SKU
+
+: SA848ELAFDVJANID-252946
+
+Harga
+
+: RP 12.000.000
+
+Model
+
+: UA48H5100
+
+Ukuran (L x W x H cm) : 108 x 31 x 71
+
+Berat (kg)
+
+: 12 kg
+
+Ukuran Layar (in)
+
+: 48.0
+
+Fitur Tampilan
+
+: Full HD
+
+Audio
+
+: Dolby Ms10
+
+Garansi produk
+
+: Garansi Resmi
+
+USB Port
+
+: 2
+
+Resolusi Layar
+
+: 1920 x 1080
+
+Model = EH-NE11 Ukuran (L x W x H cm) = 12 X 11 X 24 Berat (kg) = 1 Warna = Putih/Ungu Daya Listrik = 1200 Watt
+3 Pilihan kecepatan : - tombol 1 : Angin dingin - tombol 2 : Angin sedang - tombol 3 : Angin panas
+Harga : Rp. 468.395,00
+
+OXONE Coffee & Tea Maker [OX-212]
+
+Panasonic Hair Dryer EH-NA45
+
+Ion Ganda Untuk Melembabkan Rambut nanoeTM & Ion Platinum
+
+Quick Dry Nozzle Pengeringan Rambut yang Sehat
+
+Mode Sehat 50°C
+
+FiturTeknis
+
+Nomor Model Dimensi (TxLxP)
+Berat
+
+: EH-NA45 : 226 (dengan nozzle yang Disetel)
+226 X 235 X 84mm : 510 g (Tanpa kabel Daya dan Nozzle)
+
+Harga
+
+: Rp1.229.810,00
+
+Spesifikasi - Kapasitas : 1.25 liter - Konsumsi Daya : 650 Watt - Voltase : 220 Volt ; 50Hz
+OX-121 Eco Coffee & Tea Maker Oxone ­ hitam  Elegant Design  Lampu tombol on/off  Penyaring tetap  Katup anti bocor  Tekanan pengukur air  Kapasitas 1.25 L  650 Watt
+Harga : Rp. 450.000,00
+
+KEBUTUHAN ELEKTRONIK
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+JARINGAN INTERNET,
+
+STUDIO PERANCANGAN INFRASTRUKTUR II
+
+PABX & CCTV
+
+JENIS - JENIS KABEL :
+1 Kabel NYA
+
+Private Automatic Branch eXchange dan
+Close Circuit Television
+
+kabel internet (network)
+
+Kabel jenis ini di gunakan untuk instalasi rumah dan dalam instalasi rumah yang sering di gunakan adalah NYA dengan ukuran 1,5 mm2 dan 2,5 mm2, yang berinti tunggal, berlapis bahan isolasi PVC Kode warna isolasi ada warna merah, kuning, biru dan hitam. Lapisan isolasinya hanya 1 lapis sehingga mudah cacat, tidak tahan air (NYA adalah tipe kabel udara) dan mudah digigit tikus. Agar aman jika menggunakan kabel tipe ini lebih baik kabel dipasang di dalam pipa atau saluran penutup, karena selain tidak bisa diganggu oleh hewan pengerat dan tidak terkenah air, juga apabila ada isolasi yang terkelupas (terbuka) tidak bisa tersentuh langsung oleh manusia.
+
+5. Kabel NYFGbY/NYRGbY/NYBY
+Kabel ini dirancang khusus untuk instalasi tetap dalam tanah yang ditanam langsung tanpa memerlukan perlindungan tambahan (kecuali harus menyeberang jalan). Pada kondisi normal ke dalaman pemasangan di bawah tanah adalah 0,8 meter.
+
+kabel tv
+
+2. Kabel NYM
+Kabel jenis ini hanya direkomendasikan khusus untuk instalasi tetap di dalam bangunan yang dimana penempatannya biasa di luar/ di dalam tembok ataupun di dalam pipa (conduit). Kabel NYM berinti lebih dari 1, memiliki lapisan isolasi PVC (biasanya warna putih atau abu-abu), ada yang berinti 2, 3 atau 4. Kabel NYM memiliki lapisan isolasi dua lapis, sehingga tingkat keamanannya lebih baik dari kabel NYA (harganya lebih mahal dari NYA). Kabel ini dapat dipergunakan dilingkungan yang kering dan basah, namun tidak boleh ditanam.
+3. Kabel NYY
+Kabel ini dirancang untuk instalasi tetap di dalam tanah yang dimana harus tetap diberikan perlindungan khusus (misalnya duct, pipa PVC atau pipa besi). Kabel protodur tanpa sarung logam. Instalasi bisa ditempatkan di dalam dan di luar ruangan, dalam kondisi lembab ataupun kering, memiliki lapisan isolasi PVC (biasanya warna hitam), ada yang berinti 2, 3 atau 4. Dan memiliki lapisan isolasi yang lebih kuat dari kabel NYM (harganya lebih mahal dari NYM). Kabel NYY memiliki isolasi yang terbuat dari bahan yang tidak disukai tikus.
+4. Kabel NYAF
+Kabel ini direncanakan dan direkomendasikan untuk instalasi dalam kabel kotak distribusi pipa atau di dalam duct. Kabel NYAF merupakan jenis kabel fleksibel dengan penghantar tembaga serabut berisolasi PVC. Digunakan untuk instalasi panel-panel yang memerlukan fleksibelitas yang tinggi. Kabel jenis ini sangat cocok untuk tempat yang mempunyai belokan ­ belokan tajam. Digunakan pada lingkungan yang kering dan tidak dalam kondisi yang lembab/basah atau terkena pengaruh cuaca secara langsung.
+
+kabel telepon
+
+6. Kabel NYCY
+Kabel ini dirancang untuk jaringan listrik dengan penghantar konsentris dalam tanah, dalam ruangan, saluran kabel dan alam terbuka. Kabel protodur dengan dua lapis pelindung pita CU Kabel. Instalasi ini bisa di tempatkan di luar atau di dalam bangunan, baik pada kondisi lembab maupun kering.
+
+HARGA ANEKA KABEL (update Januari 2014)
+NYA 1×0,9 Paramount/Endwell/Sejenis rp 40.000/rol (90m, warna kabel Putih)
+
+NYZ 2×30 Transparan rp 50.000/rol (40m) NYZ 2×50 Transparan rp 60.000/rol (40m) NYZ 2×80 Transparan rp 80.000/rol (40m)
+
+7. Kabel BC
+Kabel ini dipilin/stranded, disatukan. Ukuran / tegangan mak = 6 ­ 500 mm2 / 500 V Pemakaian = saluran di atas tanah dan penghantar pentanahan.
+
+Kabel TV RG6-5C-75Ohm Avatar/Sejenis rp 100.000/rol (100m)
+Kabel Telepon 2×0,6 EAA rp 115.000/rol (100m) Kabel Telepon 4×0,6 EAA rp 185.000/rol (100m)
+
+8. Kabel AAAC
+Kabel ini terbuat dari aluminium-magnesium-silicon campuran logam. Keterhantaran elektris tinggi yang berisi magnesium silicide, untuk memberi sifat yang lebih baik. Kabel ini biasanya dibuat dari paduan aluminium 6201. AAAC mempunyai suatu anti karat dan kekuatan yang baik, sehingga daya hantarnya lebih baik.
+
+Kabel Kawat BC 6mm rp 7.500/mtr Kabel Kawat BC 10mm rp 12.000/mtr Kabel Kawat BC 16mm rp 18.000/mtr Kabel Kawat BC 25mm rp 25.000/mtr Kabel Kawat BC 35mm rp 38.000/mtr Kabel Kawat BC 50mm rp 50.000/mtr
+
+11. Kabel NYMHYO
+
+Merupakan kabel jenis serabut dengan berintikan dua serabut.
+
+9. Kabel ACSR
+
+Kabel ini biasanya digunakan untuk soundsystem, loudspeaker, virtual video. Gunakan kabel jenis
+
+Kabel ACSR merupakan kawat penghantar yang terdiri dari aluminium berinti kawat baja. Kabel ini digunakan untuk saluran-saluran transmisi tegangan tinggi, dimana jarak antara menara/tiang berjauhan, mencapai ratusan meter, maka dibutuhkan kuat tarik yang lebih tinggi, untuk itu digunakan kawat penghantar ACSR.
+
+12. Kabel NYMHY
+
+10.
+
+10. Kabel ACAR
+
+Kabel ACAR yaitu kawat penghantar aluminium yang diperkuat dengan logam campuran, sehingga kabel ini lebih kuat daripada kabel ACSR.
+
+NYA/NYM untuk jembatan / hantaran listrik yang bersifat
+Kabel jenis ini khusus direkomendasikan untuk digunakan sebagai penghubung alat-alat rumah tangga yang sering dipindah pindah dan harus di tempat kering. Kabel ini mempunyai isolasi plastic tahan panas.Temperaturnya tidak boleh lebih dari 85 derajat celcius
+
+JENIS KABEL
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+FIRE PROTECTION STUDIO PERANCANGAN INFRASTRUKTUR II
+
+FIRE PROTECTION SYSTEM (SISTEM FIRE ALARM)
+Sistem fire protection atau disebut juga dengan sistem fire alarm (sistem pengindra api) adalah suatu sistem terintegrasi yang didesain untuk mendeteksi adanya gejala kebakaran, untuk kemudian memberiperingatan (warning) dalam sistem evakuasi dan ditindaklanjuti secara otomatis maupun manual dengan deengan sistem instalasi pemadam kebakaran (sistem Fire fighting).
+Peralatan utama dari sistem protection ini adalah MCFA (Main Control Fire Alarm) atau disebut juga dengan Fire Alarm Control Panel (FACP). MACP berfungsi meneriman sinyala masuk (input signal) dari detector dan komponen pendeteksi lainnya(Fixed Heat detector dan smoke detector).
+1. Macam Macam Sistem Pendetectian
+Dalam prakteknya, ada 3 sistem pendetectian dari fire protection ini, yaitu: a. Non addresable System b. Semi addresable System c. Full Adresable System
+a. Non addresable System
+Sistem ini disebut juga dengan sistem konvensional. Pada sistem inji MCFA menerima sinyal masukan langsung dari detector (biasanya jumlahnya sangat terbatas) tanpa pengalamatan dan langsung memerintahkan komponen outpu (keluaran) untuk merespon input (masukan) tersebut. Sistem ini pada umumnya digunakan pada bangunan / area supervisi berskala kecil, seperti perumahan, pertokoan, perkantoran, dan lain-lain.
+b. Semi Addresable System
+Pada sistem ini dilakukan pengelompokan pada detector dan alat penerima masukan (input) berdasarkan area pengawasan (supervisory area). Masing-masing zona dikendalikan (baik input maupun output) oleh zona kontroler yang mempunyai alamat/ adress yang spesifik. Pada saat detector atau alat penerima masukan lainnya memberikan sinyal, maka MCFA akan meresponnya (I/O) berdasar zona kontroler yang mengumpulkannya.
+Dalam kontruksinya tiap zona dapat terdiri dari:
+- Satu lantai dalam bangunan / gedung - Beberapa ruangan yang berdekatan pada satu lantai di sebuah gedung - Beberapa ruangan yang mempunyai karakteristik tadi di sebuah gedung
+Pada display MCFA akan terbaca alamat zona yang terjado gejala kebakaran, sehingga dengan demikian tindakan yang harus diambil dapat dilokalisir hanya pada zona tersebut.
+c. Full Addresable System
+Merupakan pengembangan dari sistem semi adresibble. Pada system ini semua detector dan alat pemberi masukan (deteksi) mempunyai alamat yang spesifik, sehingga proses pemadaman dan evakuasi dapat dilakukan langsung pada titik yang diperkirakan mengalami kebakaran.
+2. Peralatan Utama
+a. Pendeteksi
+Pendeteksi atau alat penerima input (masukan) yang bekerja secara otomatis (automatic Input Device), yaitu:
+Heat Detektor(Pengindra panas).. Berdasar cara kerjanya, heat detektor dibagi menjadi 2 jenis, yaitu:
+* Fixed Temperatur heat detector, yang bekerja mendeteksi suhu udara di sekitar casing-nya (ambiencetemperatur) dengan membandingkannya terhadap suhu setting defaultnya, misla 57 ` C , 75 ` C dan sebagainya
+* ROR (Rate of Rise) heat detector yang bekerja mendeteksi kecepatan peningkatan suhu di sekitar casing-nya. Bila kecepatan peningkatan suhu berjalan lebih lambat dari nilai settingnya, maka detector ini tidak akan memberikan respon.
+Smoke Detector (pengindra asap).
+b. MCFA (Main Control Fire Alarm)
+MCFA merupakan peralatan utama dari sistem protection. (Main Control Fire Alarm) atau disebut juga dengan Fire Alarm Control Panel (FACP), berfungsi meneriman sinyal masuk (input signal) dari detector dan komponen pendeteksi lainnya(Fixed Heat detector dan smoke detector).
+
+SKEMA FIRE ALARM SYSTEM
+
+FIRE ALARM SYSTEM
+
+FIRE FIGHTING SYSTEM
+
+1. Fire Fighting Sistem Sprinkler
+Sistem ini menggunakan instalasi pipa sprinkler bertekanan dan head sprikler sebagai alat 2. Fire Fighting Sistem Hydran
+Sistem ini menggunakan instalasi hydran sebagai alat utama pemadam kebakaran, yang terdiri dari box hydran dan accesories, pilar hydran dan siemese.
+3. Fire Fighting fire Extinguisher
+Fire extinguisher atau lebih dikenal dengan nama APAR (Alat Pemadam Api Ringan) merupakan alat pemadam api yang pemakaiannya dilakukan secara manual dan langsung diarahkan pada posisi dimana api berada.
+
+4. Fire Fighting Sistem Gas
+Sistem fire gas biasanya digunakan untuk ruangan tertentu, seperti: ruang Genset, ruang panel dan ruangan eletronik (ruang central komputer: ruang hub dan server, IT, Comunication dan lain-lain).
+
+FIRE EXTINGUISHER (APAR)
+
+HYDRANT
+
+Model SV - 120 P (Dry Chemical Powder) Berat : 12 Kg Harga : Rp. 2.182.813
+Model SV - 900 C (Co2) Berat : 9 Kg Harga : Rp. 8.043.750
+Model SV - 120 F (Liquid Foam) Berat : 12 kg Harga : Rp. 2.117.500
+
+Hydrant merupakan sebuah terminal air untuk bantuan darurat ketika terjadi kebakaran. hydrant ini juga berfungsi untuk mempermudah proses penanggulangan ketika bencana kebakaran melanda.
+Hydran Equipment, harga Hydrant Box Type :
+1. Hydrant Box Type A1 Harga Rp. 580.000, -
+2. Hydrant Box Tpe A2 Harga Rp. 1.020.000, -
+3. Hydrant Box Type B Harga Rp. 1.300.000, -
+4. Hydrant Box Type C Harga Rp. 1.020.000, -
+
+Bosch Fire Panel FPC-500-8 Harga : Rp. 8.557.000,00
+
+FPC-500-8
+The FPC-500-x Conventional Fire Panel is the ideal solution for small and medium-sized objects. Thanks to the proven conventional line technology a cost-saving fire alarm system can be set up.
+· FPC-500-8: 8 zones for up to 256 detectors
+With the integrated LCD display, the panel can be programmed and operated. The optional extensions such as relay modules, open collector modules and key switches allow further tailoring to user needs.
+
+Bosch Manual Call Points and Signalling Devices FNM-320-LED-SRD
+
+Harga : Rp. 1.188.000,00
+
+FNM-320 Sounders Conventional
+Features - Maximum volume of 112 dB(A) - Compact, robust, and maintenance-free - Suitable for adverse environmental conditions - Available as combined solution sounder with integratedLED - Available in versions for surface- and flush-mount feed cables
+
+Bosch Fire Detectors Conventional FCP-OT320
+
+Harga : Rp. 660.000,00
+
+The FCP-320/FCH-320 Series Conventional Automatic Fire Detectors set new standards in fire detection technology through a combination of optical, thermal and chemical (gas) sensors and intelligent evaluation electronics. Their most impressive feature is their ability to prevent false alarms, as well as speed and accuracy of detection.
+The enhanced operating voltage range of 8,5 V DC up to 30 V DC and the two variants with 820  alarm resistor or 470  alarm resistor enables the detector application with nearly all conventional fire panels.
+
+Bosch Manual Call Points FMC-120-DKM-G-R
+- Adjustment of the manual call point after alarm triggering - Indicator LED for alarm or for inspection evaluation - Second contact with connections for panel control - Variants for indoor and outdoor use Harga : Rp. 369.000,00
+
+HYDRANT JOCKEY PUMP : Merk : EBARA Type : EVM 18-10F5/ 11 Cap. : 15 m3/ h Head : 130 m
+Power : 11 KW/ 380 V/ 50 HZ/ 3 Phase/ 2 Pole/ 2900 Rpm
+Price : Rp 24.800.000,- / Unit C/W Motor, Coupling,
+
+SPRINGKLER
+tipe; -upright -sidewall -pendant -Horizon mirage
+Harga murah, dan terjangkau Pendant 20rb/pc (w/o plate) Upright 20rb/pc (w/o plate) sidewall 50rb/pc (w/o plate) min. 50 pc
+
+FIRE PROTECTION
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.
+
+RESUME UTILITAS HOTEL
+
+PENANGKAL PETIR STUDIO PERANCANGAN INFRASTRUKTUR II
+
+PENGERTIAN PETIR
+Petir adalah peristiwa alam yang sering terjadi di bumi, terjadinya seringkali mengikuti peristiwa hujan baik air atau es, peristiwa ini dimulai dengan munculnya awan hitam dan lidah api listrik bercahaya terang bergerak merambat terus memanjang kearah bumi bagaikan sulur akar dan kemudian diikuti suara menggelegar dan efeknya akan sangat fatal bila mengenai mahluk hidup.
+PERLINDUNGAN TERHADAP BAHAYA PETIR
+Penangkal petir adalah rangkaian jalur yang difungsikan sebagai jalan bagi petir menuju ke permukaan bumi, tanpa merusak benda-benda yang dilewatinya. Ada 3 bagian utama pada penangkal petir:
+Y Batang penangkal petir Y Kabel konduktor Y Tempat pembumian
+1. Penangkal Petir Kovensional / Faraday / Frangklin
+Kedua ilmuan diatas Faraday dan Frangklin mengetengahkan system yang hampir sama , yakni system penyalur arus listrik dengan menghubungkan antara bagian atas bangunan dan grounding. Sedangkan system perlindungan yang dihasilkan ujung penerima / Splitzer adalah sama pada rentang 30 ~ 45 ` . Perbedaannya adalah system yang dikembangkan oleh Faraday bahwa Kabel penghantar terletak pada sisi luar bangunan dengan pertimbangan bahwa kabel penghantar juga berfungsi sebagai penerima sambaran, dan bentuknya Berupa sangkar elektris atau biasa disebut sangkar Faraday.
+
+3. Penangkal Petir Elektrostatis
+Prinsip kerja penangkal petir elektrostatis mengadopsi sebagian system penangkal petir radio aktif, yaitu menambah muatan pada ujung finial/splitzer agar petir selalu melilih ujung ini untuk di sambar. Perbedaan dengan system radio aktif adalah jumlah energi yang dipakai. Untuk penangkal petir radio aktif muatan listrik dihasilkan dari proses hamburan zat berradiasi sedangkan pada penangkal petir elektrostatis energi listrik yang dihasilkan dari listrik awan yang menginduksi permukaan bumi.
+GROUNDING SYSTEM / PEMBUMIAN
+Grounding system adalah suatu perangkat instalasi yang berfungsi untuk melepaskan arus petir kedalam bumi, salah satu kegunaannya untuk melepas muatan arus petir. Standart kelayakan grounding/pembumian harus bisa memiliki nilai Tahanan sebaran/Resistansi maksimal 5 Ohm (Bila di bawah 5 Ohm lebih baik). Material grounding dapat berupa batang tembaga, lempeng tembaga atau kerucut tembaga, semakin luas permukaan material grounding yang di tanam ke tanah maka resistansi akan semakin rendah atau semakin baik.
+Untuk mencapai nilai grounding tersebut, tidak semua areal bisa terpenuhi, karena ada beberapa aspek yang mempengaruhinya, yaitu :
+1. Kadar air, bila air tanah dangkal/penghujan maka nilai tahanan sebaran mudah didapatkan.
+2. Mineral/Garam, kandungan mineral tanah sangat mempengaruhi tahanan sebaran/resistansi karena jika tanah semakin banyak mengandung logam maka arus petir semakin mudah menghantarkan.
+3. Derajat Keasaman, semakin asam PH tanah maka arus petir semakin mudah menghantarkan.
+4. Tekstur tanah, untuk tanah yang bertekstur pasir dan porous akan sulit untuk mendapatkan tahanan sebaran yang baik karena jenis tanah seperti ini air dan mineral akan mudah hanyut.
+
+2. Penangkal Petir Radio Aktif
+Penelitian terus berkembang dan dihasilkan kesimpulan bahwa petir terjadi karena ada muatan listrik di awan dihasilkan oleh proses ionisasi , maka penggagalan proses ionisasi di lakukan dengan cara memakai Zat beradiasi misl. Radiun 226 dan Ameresium 241 , karena 2 bahan ini mampu menghamburkan ion radiasinya yang bisa menetralkan muatan listrik awan. Sedang manfaat lain adalah hamburan ion radiasi akan menambah muatan pada Ujung Finial / Splitzer dan bila mana awan yang bermuatan besar tidak mampu di netralkan oleh zat radiasi kemudian menyambar, maka akan condong mengenai unit radiasi ini . Keberadaan penangkal petir jenis ini sudah dilarang pemakaiannya , berdasarkan kesepakatan internasional dengan pertimbangan mengurangi pemakaian zat beradiasi dimasyarakat yang disinyalir mempunyai efek negatif pada lingkungan hidup dan kesehatan.
+
+Paket Penangkal Petir System Radius 150 M Rp. 9.500.000,-
+· 1 Unit Split Atas Merk KURN Tipe R 150 · 15 Meter Kabel Arde BC 70 singgel KURN · 1 Batang Besi Tembaga Untuk Grounding Bawah Panjang 2 Meter · 4 Batang Pipa Pralon Ukuran 1,5 Inci · 1 Batang Tiang Penangkal Panjang 2 Meter Ukuran 2 Inci · 2 Titik Pengeboran @4 Meter · Berikut Instalasi Dan Tes Pembumian Dengan Batas Max 0,5 Ohm
+NB : Test Equipment Megger @ Rp. 200.000,Penambahan Kabel BC 25 @ Rp. 60.000,-/m Penambahan Kabel NYY 70 @ Rp. 160.000,/m
+
+PENANGKAL PETIR
+
+Nama : David Ady Iswantara Nim : 5125211104 Dosen : Dr. Endy Marlina, ST.,MT.

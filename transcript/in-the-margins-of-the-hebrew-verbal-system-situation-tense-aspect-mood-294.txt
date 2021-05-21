@@ -1,0 +1,531 @@
+Reformatted version. Published in Zeitschrift für Althebraistik 9 (1996), 152-81.
+In the Margins of the Hebrew Verbal System: Situation, Tense, Aspect, Mood
+Ronald Hendel
+     Jonah Ibn Jan,   §1871
+The nature of the verbal system in Classical Biblical Hebrew (hereafter CBH) has been hotly contested in modern times.2 In recent years the debate generally has turned on the identification of the semantic category - tense, aspect, mood, or some other - that is the primary basis for the contrasts among the major verbal forms, in particular the Pf. vs. Impf.3 In light of the considerable differences of opinion, I propose to investigate some of the less frequent uses of these verbal forms, where the debate is often most crucial, in an attempt to delineate some of the key semantic dimensions of the CBH verbal system. I will argue that the linguistic categories of situation, tense, aspect, and mood are present in varying degrees and relationships in the semantics of the CBH verb in these marginal uses, and I will attempt to specify these degrees and relationships.
+With regard to the majority of uses of the verb in CBH, the theoretical models of tense alone or aspect alone each work passably well, as the coexistence of these two theories over the last century demonstrates. It is at the margins of language use that the differences are most significant, i.e. in the statistically less frequent uses. I would submit that in order to understand
+1 Translated from the Arabic original Kitb al-Luma (11th cent.); modern edition by Tene and Wilensky (1964).
+2 For critical surveys of research, see McFall 1982; Mettinger 1973; Waltke-O'Connor 1990: 45578 (§29).
+3 The most recent arguments for the primacy of one or another semantic category include: Rainey 1990: 408-13 (absolute tense); Gropp 1991: 51-55 (relative tense); Eskhult 1990 (aspect); WaltkeO'Connor 1990: 475-502 = §29.6-31.1 (aspect and a contrast of dependent/independent); Huehnergard 1988: 22 (aspect and absolute tense); Buth 1992: 103-4 (aspect and absolute tense); Zuber 1986 (mood). A text-linguistic model is advocated by Niccacci 1990, on which see Pardee 1993.
+
+2
+the verbal system as a whole it is necessary to examine these marginal uses. As in the case of the natural sciences, it is often in the domain of marginal phenomena that the right - or more analytically precise - distinctions can be made, which can then be seen to comprehend the whole. These fine distinctions in CBH begin to disappear in Late Biblical Hebrew (LBH) and are obsolete in Rabbinic Hebrew (RH), as scholars have long been aware.4 Hence the margins of CBH are their sole surviving domain. The problem I will address is, in brief, why in certain contexts "some forms of the verb occur in the place of some others," as the great medieval grammarian Ibn Jan observed (quote above). To attend to the semantic contrasts involved in these marginal uses is to discover the axes on which the whole system depends.
+A word on terminology. I will use the familar names when referring to the CBH verbal forms, viz., those entrenched in the majority of standard reference works. Familiar names are helpful when discussing complex matters. Moreover, the familiar names are sometimes more accurate linguistically than the modern neologisms, as in the case of the "Converted Imperfect" and the "Converted Perfect," which are indeed treated as "converted" forms in the synchronic structure and historical evolution of CBH.5 For reasons of pedagogy and utility, therefore, I will use the familiar abbreviations: Pf., Impf., Juss., Conv. Pf., Conv. Impf., Imv., Pt., etc.6
+The following treatment will be limited primarily to prose usage. In CBH, as in most other languages, poetry extends and plays on normal linguistic rules and forms.7 Hence to understand the verb in CBH it is prudent to begin with prose, from which poetry takes its point of departure.
+4 See Driver 1892: 287, s.v. "Late usages"; Bergsträsser §7g, 8h, 10l; Kutscher 1982: 45; and esp. Eskhult 1990: 103-20, and Sáenz-Badillos 1993: 112-29. For the periods of Hebrew see Sáenz-Badillos.
+5 While the historical evolution of the Conv. Impf. is well-known (*wa + yaqtul preterite), the origin of the Conv. Pf. is less clear. The best explanation traces the origin in the resultative *wa + qatala in the apodosis of conditional clauses (as in Amarna Canaanite, see Moran 1961: 64-65; WaltkeO'Connor §32.1.2), with a secondary extension to all semantic categories of the Impf. (including imperfectivity and relative future or non-past tense), plus consecution, by a semantic analogy with *wayaqtul conceived as a "converted imperfect." This semantic analogy can be represented (after loss of final short vowels) as *qatal : *wa-yaqtul :: *yaqtul : *wa-qatal. For this analysis see Bergsträsser §3g; Fenton 1973: 38-39; and T. O. Lambdin, unpublished class handouts, Near Eastern Languages and Civilizations 192, Harvard University. In this model the semantic field of *wa-qatala is generated analogically by a synchronic reinterpretation of both *wa-yaqtul and *wa-qatala as "converted" forms, as if indeed the prefixed waw were a waw hippûk, a "waw conversive."
+6 The only feasable alternative terminology is the morphological/historical series: Suffix Conjugation, Long Prefix Conjugation, and Short Prefix Conjugation (with no clear corresponding terms for the converted forms or the other volitionals). However, the latter terms may be infelicitous since the morphological difference between the Long and Short Prefix Conjugations is preserved in only a few categories in Hebrew.
+7 See the elegant treatment of Crystal 1987: 71-74.
+
+3
+I. Situation
+The linguistic term, "situation," while not entirely familiar to Semitists, covers a series of contrasts quite familiar, particularly that of dynamic (or fientic) vs. stative.8 Situation, as a linguistic category, refers to the inherent meaning of the circumstance signified by the verb. Situation is therefore a quality of the lexicalization of meaning. A stative verb signifies a situation quite different than that signified by a dynamic verb; consider the contrast between "he is fat" (stative) vs. "she opens the door" (dynamic). While linguists have defined various typologies of situations, the one most commonly indicated in language, and the one formally marked in the Hebrew Qal, is the contrast of dynamic vs. stative.9 Bernard Comrie aptly characterizes the contrast between stative and dynamic situations: "states are static, i.e. continue as before unless changed, whereas events and processes are dynamic, i.e. require a continual input of energy if they are not to come to an end."10 Situation as a lexicalization of meaning is stressed in John Huehnergard's recent discussion of stativity in Semitic, where he advocates that the term stative "be applied only as a lexical designation, to refer to the class of roots which lexically denote a state or condition."11
+In the Qal of sound verbs the contrast of dynamic vs. stative is formally marked in the contrasts between vowel classes (or Ablaut). To use T. O. Lambdin's terminology for these vowel classes, the *(a, u) class (qtal, yiqtl) is the dominant dynamic class for sound verbs, while the *(i, a) class (qtel, yiqtal) is the dominant stative class for sound verbs. Weak verbs also generally preserve the distinction between dynamic and stative verbs in contrasting vowel classes, with some secondary mixing due to phonological influences.12 The formally marked contrast between dynamic and stative in the Qal has various reflexes in the derived conjugations (see below).
+Let us consider some features of situation in the present temporal frame, which is infrequent in CBH prose yet very revealing. The semantic distinction between dynamic and stative verbs correlates with a functional distinction in the present frame. For the simple present use the Pf. is the primary form used for stative verbs, while the Impf. is the primary finite form
+8 On "situation," see Comrie 1976: 13, 48-51; Lyons 1977: 483; Binnick 1991: 170-97. On stative verbs in Hebrew, see Joüon-Muroaka §§41, 111h; Waltke-O'Connor §22.2-4; on broader issues in Semitic (esp. Akkadian) see Huehnergard 1987; Buccellati 1988: 153-89.
+9 Some verbs which are generally stative, such as verbs of intellectual state or emotion, can also
+be used dynamically, e.g., , "to be afraid" (stative) and "to fear" (dynamic); see the discussion in
+Waltke-O'Connor §22.2.3. A similar overlap of situation applies to the generally unmarked contrast of being vs. becoming; see Joüon-Muraoka §41b; and below, n. 18. Note that in earlier Semitic the semantic contrast of being : becoming corresponds to the contrast of *qatil (predicate adjective) : *yaqtul/yaqattal (finite verb); see Huehnergard (1987: 227) for the Akkadian evidence. The active Pf. for stative verbs would seem to combine the semantic values of predicate adjective and relative past perfective.
+10 Comrie 1976: 13. 11 Huehnergard 1987: 229. 12 E.g., the *(a, a) class is a mixed class, since nearly all II- and III-guttural verbs, whether stative or dynamic, secondarily came into this class by the influence of the guttural on the adjacent vowel. Some
+other *(a, a) verbs are also semantically stative, as  and . Lambdin's full treatment is
+unpublished; see now Waltke-O'Connor §22.3-4.
+
+4
+for dynamic verbs.13 This contrast conforms to the semantic constituency of present time: since the present is inherently unbounded and incomplete, it requires a verb that either describes an unbounded state or an continuing activity.14 Hence for stative verbs the Pf. is suitable to express a present state. (This follows historically from the adjectival origin of the qtel form.)15 For dynamic verbs the Impf. form is used for the simple or general present, as it is aspectually unbounded (imperfective; see below). The predicate Pt., a tenseless durative form, may also be used for dynamic verbs in the simple present, and is the preferred form when the subject is expressed.16 Consider the following examples:17
+stative
+  ù Ô ù ùÍ    ù Ô ù     (Gen 32:11)
+"I am unworthy (Pf.) of all the kindness and faithfulness ..."
+    >  ùÔ     ù   ù (Gen 27:4)
+"and prepare me a delicious meal such as I love (Pf.)."
+     ù      (Gen 48:19)
+"I know (Pf.), my son, I know (Pf.)."
+dynamic
+ù > ù  >  Î  ù (Gen 32:30)
+"Why do you ask (Impf.) my name?" (simple present)
+>~        ... >~    (Gen 37:15-16)
+"'What are you looking for (Impf.)?' ... `I am looking for (Pt.) my brothers.'" (simple present)
+    ù Í ù °ù >  ùÊ   ù °ù   ù ù   >    Ô  (Gen 2:24)
+"Therefore a man leaves (Impf.) his father and mother and joins (Conv. Pf.) with his wife, and they become one flesh." (general present sequence)18
+13 On the predicate Pt. used in the present temporal frame in a manner complementary to the Impf., see below.
+14 On the relationship between present time and imperfective aspect, see Comrie 1976: 66-72; Lyons 1977: 704.
+15 See Bergsträsser §6g; Joüon-Muraoka §112a; Waltke-O'Connor §30.5.3. 16 See Joüon-Muraoka §121d,h; Driver §135; Bergsträsser §13g; Waltke-O'Connor §37.6; Gordon 1982: 1-25. 17 For additional examples, see Driver §11, 28; Joüon-Muraoka §112a, 113c; Bergsträsser §6g; Waltke-O'Connor §30.5.3, 31.3.
+18 Note that the construction  + , "to become X," signifies a dynamic situation. This is the
+only construction in which the situational contrast of being vs. becoming is formally marked in CBH; see above, n. 9.
+
+5
+
+The semantic difference in situation is indicated by the difference in use of the verbal form in these temporal contexts. Although this correspondence has long been noted, its diagnostic significance in the verbal system of CBH verb has not been adequately stressed. The distribution of Pf. vs. Impf. according to situation conflicts with the general characterization of these forms in CBH as "past" vs. "present-future." This characterization is imprecise since the form used in the present varies according to situation. A more accurate characterization of the complementarity of these forms with respect to situation and tense is as follows (with further refinement to come below in the treatment of tense):
+
+stative
+
+Pf. non-future (= present/past) Impf. future
+
+dynamic
+
+Pf. past Impf. non-past (= present/future)
+
+For verbs of a given situation, the use of the opposite form (i.e., Pf. in the place of Impf.,
+and vice versa) in the present will signal a semantic difference on another level, that of aspect
+(see further below). A representative use of this type of contrast is the performative (only used for dynamic verbs) in which an action is effected pragmatically by verbal declaration.19
+Performative statements use the Pf. in the present frame. The use of the performative Pf. poses a
+formal contrast with the Impf. in the present for dynamic verbs, indicating an aspectual value of perfectivity, viz., as action wholly achieved and complete in the act of saying it.20
+
+   ù     ù ...       Ô   ù    Ú  (Gen 1:29)
+"I (hereby) give (Pf.) to you all seed-bearing plants ... this will be your food."
+
+°ù     Ê  Ú  ù   >    > ù ùÍ (Gen 17:20)
+"Concerning Ishmael I have heard you; I (hereby) bless (Pf.) him."
+
+ù     Ô ...   Ê >  ùÊ   Ì ù (Gen 22:16-17)
+"And he said, `By myself I swear (Pf.) ... that I will indeed bless you."
+
+ , ù  Í      ù      (2 Sam 19:30)
+"I (hereby) proclaim (Pf.) that you and Ziba shall divide the land."
+
+An aspectual contrast indicated by the use of the contrasting verbal form in the present frame is rare for stative verbs.21 The sole example in prose is the artful statement by Yahweh:
+
+19 See Ewald §135c; Joüon-Muraoka §112f; Bergsträsser §6e; Waltke-O'Connor §30.5.1d; Hillers
+1995. 20 For additional examples see the previous note. Comparable to the aspectual contrast in the
+performative Pf. is the use of the gnomic Pf.; see Joüon-Muraoka §112d; Bergsträsser §6f; Waltke-
+O'Connor §30.5.1c. 21 Such a use is not uncommon in the past frame, particularly for  (Impf.) and  (Conv. Pf.);
+see Joüon-Muraoka §§111i, 113a; Lambdin §110; and Exod 33:8-9, below.
+
+6
+
+   >     (Exod 3:14)
+
+The grammatical sense of this statement may be represented as "I am one who is/exists enduringly," with the use of the Impf. signaling an imperfective sense for the verb "to be."22 The
+semantic force of this verbal use not only creates an appropriate sense of the eternality and
+dominance of God, but offers an elegant paronomasia by which the statement both conceals and
+partially reveals the name Yahweh.
+
+From a consideration of these marginal uses in the present, it is clear that distinctions of both tense and aspect may be indicated by the contrasts of Pf. and Impf., which formal contrast in the present frame derives initially from the distinction of situation.
+
+A number of other key issues in the CBH verbal system pertain to the semantics of
+situation. Several scholars have done important work on the relation between situation in the Qal and in the derived conjugations.23 There are derivational relationships between stative Qal
+and factitive Piel, and between dynamic Qal and causative Hiphil, plausibly stemming from the
+original semantic relationships among these conjugations. In the synchronic system of CBH the
+relationship among these conjugations has become more complex, but there remain discernible
+distinctions in Piel and Hiphil based on the Qal situation contrast of stative vs. dynamic, and on
+the inner contrast within the dynamic class of transitive vs. intransitive. These relationships may be charted roughly as follows:24
+
+Qal
+
+Piel
+
+Hiphil
+
+stative
+
+>
+
+dynamic/intransitive >
+
+dynamic/transitive >
+
+factitive frequentative resultative
+
+intransitive causative/singly transitive causative/doubly transitive
+
+There are also relationships between situation in the Qal and the semantics of voice in the derived conjugations.25 The Niphal effects a change in voice and situation for dynamic/transitive
+verbs, functioning as a complement to situation in the Qal.
+
+Qal
+
+Niphal
+
+dynamic/transitive >
+
+reflexive/transitive or middle/intransitive or passive/intransitive or resultative/stative
+
+22 See the commentaries. 23 On the relationships among Qal, Piel, and Hiphil, see esp. Jenni 1968; Lambdin 1971: 193-95,
+211-13, and unpublished course handouts; and Waltke-O'Connor §24, 27. 24 After Lambdin, unpublished class handouts; similarly Jenni 1981 §§12.4.3, 13.4.3. 25 See the intriguing treatment in Waltke-O'Connor §21.2. On the Qal : Niphal relationship, see
+Lambdin §140; Müller 1985; Waltke-O'Connor §23.
+
+7
+While these analyses may need further refinement, they demonstrate the relevance of situation for an understanding of the derived conjugations.
+In sum, the semantics of situation, involving the meaning of the circumstance signified by the verb, is a key dimension in the verbal system of CBH. Contrasts of situation concern not only the verbal lexicon, but also the semantics of tense and aspect, and the relations between the Qal and the derived conjugations.
+II. Tense
+Ibn Jan and grammarians since have been particularly concerned with the temporal contexts in which the Impf. takes the place of the Pf., and vice versa. Rabbinic, Medieval, and Modern Hebrew are absolute tense systems, in which the Pf. marks the past, the Pt. marks the present, and the Impf. marks the future.26. Medieval grammarians (and from them the early moderns) saw the CBH verb through this template, and hence did not grasp the differently constituted category of tense in CBH. Theories of relative tense, as opposed to absolute tense, have been applied in various forms to CBH since the mid-1700's,27 and have been embraced in varying forms by some modern scholars, most notably Gotthelf Bergsträsser in his 29th edition of Gesenius' Hebräische Grammatik.28
+I will argue that relative tense as currently understood in general linguistics provides an accurate model for the operations of tense in CBH. I differ from other advocates of relative tense in holding that this is not the only or primary category in CBH, but operates in relationship with the categories of aspect, mood, and situation. That which distinguishes absolute tense from relative tense in instanced in the less freqent uses, viz, in the margins of the verbal system.
+The system of relative tense, as with any tense system, involves the relationships among three temporal points: that of the speaker or speech-act (S), the event (E), and the reference point (R).29 In this manner, as Robert Binnick observes, "a tense does not `situate' a process in time,
+26 Segal 1927: 150-56; Gordon 1982: 26-30. Qumran Hebrew is an early exemplar of this phase: see Qimron 1986: esp. 70-86.
+27 See McFall, 1982: 21-23, 33-34, 41-43, 177-79; on the wider history of these concepts, see Binnick, 1991: 37-43, 109-18.
+28 Bergsträsser §6-7; also Kurylowicz 1972: 79-93, and 1973; Bartelmus 1982: 15-79; and Gropp 1991: 51-55. Bergsträsser describes (§7d) the temporal contrasts of Pf. : Impf. as "Vergangenheit : Gegenwart/Zukunft und Vorzeitigkeit : Gleichzeitigkeit/Nachzeitigkeit." He adds: "kommt also noch Einmaligkeit : Wiederholung (z. T. auch Ereignis : Zustand)." This formulation of the temporal contrasts is inexact, however, in that it only applies to dynamic verbs (see above). Kurylowicz's description of the prime contrast of Pf. : Impf. as "anteriority : non-anteriority" similarly fails to address stative verbs, as noted by Gropp (1991: 51-52), who nonetheless adopts Kurylowicz's analysis. Bartelmus (1982: 48-79) regards the relative tense values of Pf., Pt., and Impf. as Vorzeitigkeit, Gleichzeitigkeit, and Nachzeitigkeit, respectively, thereby missing the complementarity, according to verbal situation, of the Pf. and Impf. in present usage.
+29 On this model, which derives from the work of Hans Reichenbach with modifications by Bernard Comrie, see Comrie 1985; and Binnick 1991: 109-16.
+
+8
+but rather `orders' it relative to a point of reference."30 In an absolute tense system the reference point is always the time of the speaker or speech-act (R = S). In a relative tense system R may or may not coincide with S. R may be past to the speaker (R < S), it may be simultaneous (R = S), or it may be future (R > S). As a result of this non-identity of R and S in a relative tense system, the event E may be in different temporal relations to R and S. In the case of R < E < S the tense relation is called relative future, i.e., E is future relative to R, even though past to S. In the opposite case of S < E < R the tense relation is relative past, i.e., E is past relative to R, even though future to S. In the many cases where R = S, the tense relations are the same as those in an absolute tense system: E < R = S is relative past and absolute past; E = R = S is relative present and absolute present; and E > R = S is relative future and absolute future.
+In a relative tense system a single verbal form is used as relative past (in CBH the Pf.) and another as relative future (in CBH the Impf.). In contrast, in an absolute tense system a variety of different forms and constructions are required to express the equivalent values. Hence to translate the Pf. it is necessary in English to use the past form ("did"), the pluperfect ("had done"), and the future perfect ("will have done"). To translate the Impf. it is necessary to use the future construction ("will do") and various other constructions ("would do" for relative future to a past R). Some tense relations expressed clearly in a relative tense system cannot be conveyed unambiguously in an absolute tense system.
+In a sense, absolute tense is a subset of relative tense, since it consists of one out of many possible configurations of the temporal relationships of S and R. In most relative tense systems, including CBH, R = S in most instances, hence the model of absolute tense is usually adequate. In the margins of verbal use, however, R may be past or future to S, revealing the identity of CBH as a relative tense system.
+In the following examples I will restrict the terms "relative future" and "relative past" to cases where R  S, and will retain the ordinary terms "future," "past," and "present" where R = S. This use is not intended to confuse the identification of the system as a whole as a relative tense system, but simply to highlight the marginal but linguistically significant cases where E is in different temporal relations to R and S. In these marginal uses relative tense value of the verb is usually indicated contextually by the clause structure, particularly by subordination or disjunction, and by the use of temporal adverbs.31
+The following examples illustrate the relative future uses of the Impf., where R < E < S. R is in each case the time of the previous independent verb in the clause sequence, which is the contextual `present' within the narrative sequence. If the relative future is in a subordinate clause, then R is the time of the verb in the governing clause. Note that these relative future uses
+are indicated by subordination or by temporal adverbs, such as , (), or  (with
+compounds).32
+30 Binnick 1991: 361. 31 Binnick (1991: 307-8) aptly calls temporal adverbs "frame adverbials," lexemes that refer to intervals of time, or to intervals anchored at one end, which serve to locate the reference point. 32 For additional examples, see Joüon-Muraoka §113i-k; GKC §107c; Bergsträsser §7a,c,g; Waltke-O'Connor §31.6.2c-3c.
+
+9
+relative future (R < E < S)
+ù      >  ° Ê ù °ù Ê  ~ Ìù (2 Kgs 3:27)
+"He took his first-born son, who was to rule (Impf.) after him."
+Ê  ù       (Gen 24:45)
+"Now I had yet to finish (Impf.) speaking"
+°ù  Í Ô   Ì ù  ù      ù ùÍ  ù °ù  Í Ìù (Gen 37:18)
+"They saw him from a distance, and before he drew near (Impf.) to them, they conspired against him"
+> >   (Exod 15:1)33
+"Then Moses sang (Impf.)"
+ ° ~ > >° ù  Ê  >     (1 Kgs 11:7)
+"Then Solomon built (Impf.) a high place for Chemosh, the abomination of Moab"
+ ùÊ   Ì   >    ^ ùÊ  ù   > Ì ù (Jonah 4:5)
+"He sat under it in the shade until he would see (Impf.) what would happen (Impf.) to the city"34
+In each of these instances, including stative and dynamic verbs, the events are past with respect to the speaker, who may be a character in the narrative (as in Gen 24:45) or the narrator (as in the other examples).35 The event referred to by the Impf. form is future with respect to R, which is the time of the previous independent verb in the sequence. The event is, therefore, future with respect to the ongoing `present' in the narrative sequence.
+The temporal adverb (), "not yet, before," requires a relative future verb by its inherent meaning. The adverb , "then," may be followed by a relative future, but may be
+followed by other forms as well, depending on the temporal circumstance (for an example of a
+relative past after , see below). The use of  + Impf. as relative future in a narrative sequence
+seems to include both disjunction and temporal succession, thereby indicating a stylistic or logical pause (as Exod 15:1 and 1 Kgs 11:7, above), compared to the ordinary past sequential use
+33 This verse and other instances of  + Impf. were taken by rabbinic interpreters as proof of the
+resurrection of the dead in the world to come; see b. Sanh. 91b (citing Exod 15:1, Josh 8:30, but troubled by 1 Kgs 11:7). Ibn Ezra correctly compared this use to Classical Arabic; see McFall 1982: 8; WaltkeO'Connor §31.6.3a. On Classical Arabic as a relative tense and aspect system, see Comrie 1985: 63-64; 1976: 78-80.
+34 Note  used dynamically. On the situational multivalence of some stative verbs, particularly
+in the future, see above, n. 9. 35 Note that there is no difference between direct speech and narrative (third person) discourse in
+the relative tense system.
+
+10
+of the Conv. Impf. Hebraists often tend to resort to quite convoluted reasoning to explain the relative future uses of the Impf. and the force of these temporal adverbs, though advocates of relative tense have long since analyzed them correctly.36
+The use of the Pf. as a relative past when future to the speaker (S < E < R) is also
+indicated contextually, usually by subordination or by temporal adverbs such as  (and compounds), , and .37 The relative past tense is generally rendered in English by the future
+perfect construction.
+relative past (S < E < R)
+> ÍÊ>  >   ùÊ ùÊ   Í>  ù (1 Kgs 8:47)
+"and they will take it to heart in the land to which they will have been taken captive (Pf.)"
+ù  Ê Ë >       >    ù      Ô  (Gen 28:15)
+"Indeed I will not leave you until I will have done (Pf.) what I have told you."
+  Ë  Ê Ë       (Gen 24:33)
+"I will not eat until I will have spoken (Pf.) my words."
+ù  ù     Ô     (2 Sam 5:24)
+"then take action, for then Yahweh will have gone (Pf.) before you"
+   ù      Ê ùÊ   ùÍ  Ú ù Í>  ù (Lev 14:43)
+"if the plague returns and infests the house after he will have taken out (Pf.) the stones"
+ Ú ù i  Ô Ê ù   Ôù   ù (Lev 14:48)
+"the priest shall declare the house clean, for the plague will have been healed (Pf.)"
+In each of these instances the event is past to R but future to S. R is the previous independent verb in the clause sequence or the verb of the governing clause. The speech-act in each of these instances is that of a character (Moses, God, Abraham's servant, etc.) who is referring to future events.38
+A more frequent class of relative past use of the Pf. is when both the event and the reference point are past to the speaker, in the configuration E < R < S. This value corresponds to
+36 Bergsträsser §7a-c; though he hedges on  + Impf., appealing in some cases to the old yaqtul
+preterite (cf. §7c,g). For various imaginative explanations, see Rundgren 1961: 97-101; Rabinowitz 1984; Waltke-O'Connor §31.6.3. Note the loss of the relative future (as with the whole relative tense
+system) in LBH, where , , and  in the past frame are consistently followed by the Pf..
+37 For additional examples, see Driver §17; Joüon-Muraoka §112i; Waltke-O'Connor §30.5.2b. 38 Driver (§138) and Joüon-Muraoka (§167h) suggest that some uses of the Pf. in the protasis of a real condition (marked by ) express a relative past value future to S. For an alternative analysis, see below.
+
+11
+the English pluperfect. This use is generally indicated contextually by subordination or by simple disjunction within a clause sequence. Note that a subordinate or disjunctive clause with a Pf. does not require a relative past value, but merely allows it, according to context: simple past use of the Pf. is also common in these clauses. Relative past tense is one kind of semantic information, among others, that may be signaled syntactically by disjunction or subordination.39 This condition emphasizes that relative tense is not merely a function of clause structure, but is one semantic axis among others that clause structure may indicate.
+relative past (E < R < S)
+  >  Ô     Ì ù (Gen 1:31)
+"God saw all that he had made (Pf.)"
+> · ù  Ô >  Ì ù (Gen 28:11)
+"He stayed there for the night for the sun had set (Pf.)."
+ù   Á   Ô       ù (Gen 31:32)
+"Now Jacob did not know that Rachel had stolen (Pf.) them."
+ ù  >  ù  Á ù  ùÊ ù   ù   ù      ù (Gen 31:34)
+"Now Rachel had taken (Pf.) the teraphim and had put (Conv. Impf.) them in a camel-bag and had sat (Conv. Impf.) on them." (relative past sequence)
+ù      ùÍ   ù [  ]     Í >   ù (2 Kgs 20:4)
+"Now Isaiah had not left (Pf.) the middle courtyard, when the word of Yahweh came to him."
+This use of the Pf. as relative past when past to S persists in later stages of Hebrew as a vestige of the CBH relative tense system.
+A special use of the Pf. as a relative past is as what Dennis Pardee and others call the epistolary Pf.40 In this use, found only in letters and formal messages, the Pf. "represents a situation in past time from the viewpoint of the recipient of a message."41 This is a species of relative tense in which R is neither the time of the speaker nor a point indicated grammatically within the discourse, but the time of the reception of the message. In the following examples, from royal messages, the event is past relative to R (the recipient/reception), though present to S (the speaker/speech-act): S = E < R.
+39 On disjunctive clauses generally, see Lambdin §132, 197; Waltke-O'Connor §39.2. For further examples, see Driver §16; Bergsträsser §6d; Joüon-Muraoka §112c, 118d.
+40 See Pardee 1983; Waltke-O'Connor §30.5.1d. 41 Waltke-O'Connor §30.5.1d.
+
+12
+relative past (epistolary)
+  ù  Ô  > ù    > Ú  ...  ù ...   Ê      ù ù  > Ìù (1 Kgs 15:18-
+19) "King Asa sent them to Ben Hadad ... saying .. `I have sent (Pf.) you a gift of silver and gold'"
+ù     > Ú  ù  Î ù  Û ù ° ùÔ   ù  ù        Û ù  Ìù ùË        (2 Kgs 5:6)
+"He brought the letter to the King of Israel, which read, `Now when this letter reaches you, note that I have sent (Pf.) to you my servant Naaman.'"
+  >    >   ù ...   >   > Ìù   ùÊ    Í   Ì ù (2 Chron 2:10-12)
+"Huram, King of Tyre, said in a letter that he sent to Solomon ... `Now I have sent (Pf.) you a wise man'"
+This epistolary use is found in epigraphic CBH and other Semitic languages (Ugaritic, Akkadian, Phoenician, Aramaic),42 and has parallels in non-Semitic languages. As a species of relative tense, Binnick notes, "it seems to refocus the deictic center from the ego to the other (or to some other)."43 Note that this relative past use of the Pf. is formally identical to the performative Pf., though the two have different nuances. The act of sending a gift or a wise man is not accomplished in the act of its utterance, unlike a blessing or oath or legal bequest which are accomplished in the speech-act itself.44 Rather there must actually be a gift in the package or a wise man sent for the epistolary statements above to be felicitous. Further, the epistolary Pf. is a polite form, expressing some deference to the recipient. (For other polite uses of the Pf. in modal utterances, see below.)
+These examples of the Impf. used as a relative future and the Pf. used as a relative past show quite clearly that, when viewed from these marginal uses, CBH is a relative tense system. This system begins to break down in LBH and disappears entirely in Rabbinic Hebrew, where the Pf. is restricted to the absolute past (and the pluperfect) and the Impf. to the absolute future, with the Pt. now the form for present tense.45 In Rabbinic Hebrew, as in Modern Hebrew, tense is absolute.
+42 See Pardee 1983; Pardee and Whiting 1987. 43 Binnick 1991: 317.
+44 For this reason the use of  in the Pf. in greeting formulae in epigraphic CBH is best
+regarded as a performative Pf. (pace Pardee 1983: 35). Note that this usage occurs outside of letters (as at
+Kuntillet Ajrud; cf. Gen 17:20, above), unlike the restricted epistolary use of . Hillers (1995: 764) includes the epistolary use of  in his treatment of performatives, overlooking the semantic and
+pragmatic differences between the two uses. 45 The changes in the tense and aspect system of CBH begin to occur in LBH, probably by
+influence from Aramaic (see, e.g., Sáenz-Badillos 1993: 129). Aramaic, in its turn, changed from a relative to an absolute tense system probably by influence from Persian, an Indo-European language. On the influence of native Persian speakers on Imperial Aramaic, see recently Kaufman 1992: 174.
+
+13
+
+The semantic relations in CBH of Pf. and Impf. with respect to tense may be characterized as follows. The relations among tense, aspect, and mood will be explored below.
+
+stative Pf. relative non-future (= present/past) Impf. relative future
+
+dynamic
+
+Pf. relative past Impf. relative non-past (= present/future)
+
+III. Aspect
+Heinrich Ewald, in his Kritische Grammatik der hebräischen Sprache of 1827, described the Hebrew verbal system as primarily aspectual, which he defined as contrasting "completed" (perfectam) and "non-completed" (imperfectam) events, irrespective of temporal frame.46 Particularly through the modern revisions of Gesenius's grammar (with the exception of Bergsträsser's) and the influential Treatise on the Use of the Tenses in Hebrew by S. R. Driver (3rd ed. 1892), this model has become the dominant one in the field.47 Our present understanding of aspect, however, requires some finer distinctions.48
+Aspect is concerned with the "different ways of viewing the inner temporal constituency of a situation,"49 in contrast to tense which describes the temporal relations between an event, a speaker, and a reference point. The primary aspectual distinction that is grammaticalized in most languages is that of perfectivity vs. imperfectivity. In Bernard Comrie's formulation:
+the perfective looks at the situation from outside, without necessarily distinguishing any of the internal structure of the situation, whereas the imperfective looks at the situation from inside, and as such is crucially concerned with the internal structure of the situation.50
+Aspect is concerned with the differing perceptions of an event, either seen from without as a bounded whole (perfective) or seen from within as an unbounded process (imperfective).
+
+46 Ewald 1870 is the final edition of this work; see Ewald §§134-36. On Ewald's precursers in
+Hebrew grammar, see McFall 1982: 43-44; and on the history of aspectual theory, see Binnick 1991: 43-
+50. It is interesting to note that Bishop Lowth contributed to aspectual theory in a work on English
+grammar but did not see the relevance for CBH; see Binnick 1991:45-47; McFall 1982: 13. 47 E. Rödiger revised Gesenius's grammer from the 14th through 22nd editions (1845-1872) and
+replaced Gesenius's absolute tense model with Ewald's aspectual model; see McFall 1982: 15; GKC
+§§47a, 106a. Driver 1892 remains an invaluable work despite the apt criticisms of Waltke-O'Connor
+§29.3l-m. 48 On the following, see Comrie 1976; Lyons 1977: 703-18; Dahl 1985; and Binnick 1991: 135-
+214. 49 Comrie 1976: 3. 50 Comrie 1976: 4.
+
+14
+An alternative but logically equivalent description of this aspectual contrast addresses the relationship between an event (E) and the event frame through which E is perceived.51 If the event is seen as a whole within the event frame then it is viewed perfectively; if the event's boundaries (either beginning or end) extend outside of the frame then the view is imperfective. Both descriptions emphasizes that any event or situation, even stative ones, may be viewed perfectively or imperfectively. The difference of aspect is one of perspective, not of an inherent quality of the event or situation. As Comrie states with admirable precision, aspectual differences relate to how one "looks at a situation."
+There are many occasions in the margins of CBH where the occurrence of one verbal form in the place of another indicates an aspectual distinction. The uses that show most clearly the semantics of aspect are when the Impf. is used to express imperfectivity in a past context, and when the Pf. is used to express perfectivity in a future context. These classes of verbal use appear to contradict the ordinary tense values for these forms, discussed above. In these (and only these) aspectual uses of the verb, tense reference is neutralized; viz, the verb expresses primarily aspect, with the ordinary tense value reduced to zero.
+Herein lies one of the curious features at the margins of the CBH verbal system: the Impf. in the past frame (to S) may be used primarily to express tense (relative future) or aspect (imperfectivity); and conversely, the Pf. in the future frame (to S) may be used primarily to express tense (relative past) or aspect (perfectivity).52 How does one determine which is the primary semantic value of a verb in these marginal uses? The answer, as ever, is context - clause structure, adverbs, and the general implicature of the discourse. Various linguistic and discursive signals are given such that these marginal uses are rarely obscure.53 As a general rule, where there are no contextual indicators of relative tense value, the aspectual sense is primary. The grammatical and discursive context is sufficient (in prose) to determine the semantics of tense and aspect in these marginal uses. This is not to lose sight of the fact that in the vast majority of uses in CBH there is a coincidence of tense and aspect in verbal use.
+The Impf. used to express imperfectivity in the past generally conveys habitual, iterative, or durative sense, as the grammars observe. These uses are signaled contextually by clause disjunction, with the Impf. providing backgrounded information.54 Occasionally one finds imperfective sequences (Impf. + Conv. Pfs.) in past tense narration, backgrounding the perfective
+51 Binnick 1991: 209-13, esp. 212: "Aspect characterizes the different relationships of a predicate to the event frame."
+52 The relative past use of the Pf. also seems to entail perfectivity; for the aspectual sense of the relative future Impf., see below.
+53 Note Lyon's remarks (1977: 396-97): "It is a universally recognized and demonstrable fact that many of the acceptable utterances of English and other languages are ambiguous: they can be interpreted in two or more different ways. Frequently, though not always, their ambiguity passes unnoticed in everyday language-behaviour, because the context is such that all but one of the possible interpretations are irrelevant or relatively improbable."
+54 Imperfective clauses may also begin with , which similarly indicates a backgrounded clause
+or sequence; see Waltke-O'Connor §32.2.6. Lambdin notes (§197c) of a similar construction: "Such clauses are conjunctive by definition, but because of their formal departure from the sequence in which they occur, they clearly mark an anticipatory temporal subordination."
+
+15
+main sequence. The following is an example of an imperfective sequence backgrounding a past perfective sequence:55
+imperfective in past
+Í >   ù  Ê ù  Ô   ù     Ä  >  > > Ú  ù   , ùÊ   Ú  ù Ìù i  ù   ù  Í   ù    ù  ù > Í   ù  Ê ù i   Á   ù ù    ù       ù   Ìù Èù  ù  Ê ù i    ù  Í>  ù  ^ ù  Í >  ù  Ê ù
+    ù
+(Gen 29:2-4)
+He saw a well in the field with three flocks of sheep lying by it, for from that well they used to water (Impf.) the flocks, and there was a big rock on the mouth of the well; all the flocks would be gathered (Conv. Pf.) there, and they would roll (Conv. Pf.) the rock from the mouth of the well, and they would water (Conv. Pf.) the sheep, and would return (Conv. Pf.) the rock to its place on the mouth of the well. Jacob said to them, "My brothers, where are you from?"
+Note that the Impf. can express imperfectivity in the past for either dynamic or stative verbs, as in the following example:
+ÚùÛ     ù      Ô  (Num 9:16)
+"Thus it used to be (Impf.) continually, the cloud would cover (Impf.) it"
+The contrast between perfectivity and imperfectivity in the past is illustrated in the following passage:56
+> Ú ù  ÍÔ > >   ù    ù ù Ê Í   >  Ô   > ù       ù Í >    ù ...   ù   Ë ùÔ Í    ù  ù   Ì ù 23  °    i °  ^ ù
+ ù  ° ù
+(1 Sam 2:22-25)
+"Now Eli was very old, and he was hearing (Conv. Pf.) about all that his sons were doing (Impf.) to all Israel, and how they were lying (Impf.) with the women who stood at the door of the Tent of Meeting. He said (Conv. Impf.) to them, `Why are you doing (Impf.) such things?...' But they would not hear (Impf.) their father's voice."
+55 Other extended imperfective sequences include Exod 33:7-11; Exod 34:34-35; Num 9:15-23. For other examples, see GKC §107b,e; Bergsträsser §7d; Joüon-Muraoka §113e-f; Waltke-O'Connor §31.2b.
+56 Note also the literary contrasts between the proper and improper acts of "hearing" and "desire" by Eli, Yahweh, and the wicked sons.
+
+16
+The past imperfective events ("was hearing," "were doing," "were lying," "would hear") are those seen as extending without boundary, without discernible beginning or end from the perspective of the speaker/speech-act (note also the present imperfective, "are doing"), while the perfective event ("said") is seen as complete and bounded.
+An exception to this use of the Impf. to express imperfectivity in a past frame is the case where two events co-occur, one complete and the other durative (a type of imperfectivity). In these cases of aspectual contrast the durative action is expressed by a noun clause, commonly with a predicate Pt.57
+ù   ^  >   >  > Ú  ù Ìù ù  , Ìù (Gen 18:2)
+"He lifted (Conv. Impf.) his eyes and saw (Conv. Impf.) that three men were standing (Pt.) before him."
+ , ùÊ   Ú  ù > Íù   Ìù (Gen 37:15)
+"A man found (Conv. Impf.) him while he was wandering (Pt.) in the fields."
+Í >     Í> ùÍ  ù   ùÊ  °   (1 Sam 9:27)
+"As they were going down (Pt.) to the edge of the city, Samuel said (Pf.) to Saul ..."
+The predicate Pt., in CBH a tenseless durative form, fits well into this restricted use in the place of the wider-ranging imperfectivity of the Impf.
+The counterpart to the past imperfective with Impf. is the future perfective with Pf. This use is quite rare in CBH, where it goes by the title of "prophetic perfect."58 The instances where the Pf. "takes the place" of the Impf. to express perfective aspect in the future, while rare, are clear enough in their perfective nuance. This primarily aspectual use of the Pf., with tense value neutralized, occurs most often in relation to divine actions or their consequences, particularly in poetry, hence the attribute "prophetic." The emphasis on the already complete quality of the action also makes this use appropriate for oaths and threats. Unlike the relative past use of Pf. in a future frame, which is contextually indicated by clause structure and temporal adverbs, the perfective Pf. in the future is indicated solely by semantic context:
+perfective in future
+Í   Íù Ô Í   Í  Á  (Num 17:27)
+"Alas, we will die (Pf.), we will perish (Pf.), all of us will perish (Pf.)!"59
+   ù        ù     Ô  (1 Sam 2:16)
+"Now give it; if not, I will take (Pf.) it by force."
+57 See Driver §§31, 135; GKC §116u; Bergsträsser §13e; Joüon-Muraoka §166c-i; WaltkeO'Connor §37.6.
+58 See recently Klein 1990; also see Driver §14; Joüon-Muraoka §112g; Bergsträsser §6h; Waltke-O'Connor §30.5.1e.
+59 Note the parallel expression , "will die," in the following verse.
+
+17
+ù       Ô  (2 Kgs 5:20)
+"As Yahweh lives, I will run (Pf.) after him."
+Note that in these instances there is no ambiguity concerning an aspectual vs. relative tense interpretation; contextually aspect is the only relevant possibility.
+In the examples above where a temporally unexpected Pf. takes the place of the Impf., and vice versa, we see the workings of the aspectual system of CBH. As we have seen, there is a complementarity of aspect and tense value in these marginal domains, for which the indications of clause structure, adverbs, and semantic context are crucial in showing the proper sense. The contrast of perfective vs. imperfective obtains in all temporal frames (past, present, and future) by using Pf. and Impf. in a manner that contrasts with the aspectual force of the other form in a given temporal frame. In this way the CBH system achieves a maximum of semantic contrasts with a minimum of distinctive forms. The predicate Pt. also belongs to this system as a tenseless imperfective (durative) form.
+In most languages, including CBH, the past temporal frame is the most clearly marked for aspectual contrasts.60 In CBH the present is also marked for aspectual contrasts, as we have seen above in the discussion of situation. The future, as often is the case, is less clear. The occasional use of the Pf. as a future perfective indicates that the Impf. is the contrasting imperfective form. Yet one also finds the Impf. as future yet not clearly imperfective. In the following example the durative future event is expressed with a Pt., and the intersecting sequence of events expressed with Impf. (and Conv. Pf.):
+ù  Ë     ùÍ ù   °    ù   ù  >  Ê   ù ° Ú  (1 Kgs 1:14)
+"Then, while you are still there speaking (Pt.) with the king, I will come (Impf.) in after you and will confirm (Conv. Pf.) your words."
+The future sequence, "will come" and "will confirm," represents a series of events that will interrupt the durative act, "are speaking." This aspectual contrast, with Pt. vs. Impf. in the future, indicates that the Impf. may not have a clear or primary aspectual value in some uses.61 Where the contrast in the future is with a Pt., the Impf. may be used primarily for tense as a future form; where the contrast in the future is with a Pf., the Impf. clearly has tense and aspect value as a future imperfective. As ever, the context serves to indicate and to disambiguate the primary semantic values.
+Our characterization of the semantic contrasts of Pf. and Impf., as illustrated by their marginal uses, may be refined as follows with respect to situation, tense, and aspect. The relative frequency of use for the different values is indicated by 1° (frequent use) and 2°-3° (marginal
+60 See Comrie 1976: 71-73, esp. 72: "it may well be a general characteristic of human languages to resort to greater aspectual differentiation in the past than in other tenses."
+61 For this reason Joüon-Muraoka (§113b) regard the future Impf. as lacking aspectual value; Waltke-O'Connor (§31.1.2) also regard the future Impf. as non-aspectual. As we have seen, the semantics of the future Impf. involve both aspect and tense in varying relations.
+
+18
+
+uses). In the discussion above we have indicated the grammatical and contextual conditions for the semantic values of each form.
+
+stative
+
+Pf. 1° relative non-future state 2° perfective state (zero tense)62
+
+Impf. 1° relative future state 2° imperfective state (zero tense)
+
+dynamic
+
+Pf. 1° relative past perfective event 2° perfective event (zero tense)
+
+Impf. 1° relative non-past imperfective event 2° imperfective event (zero tense) 3° relative future event (zero aspect)
+
+As in the case of the relative tense system of CBH, the aspectual system begins to break down in LBH and becomes extinct in RH. Beginning in LBH one finds all kinds of
+imperfectivity expressed by the Pt. (with the periphrastic construction of  + Pt. for past or
+future imperfectivity) or by adverbs. The subtle dance of relative tense and aspect in CBH, involving the contrasts of Pf. (+ Conv. Impf.) and Impf. (+ Conv. Pf.), changes utterly in postclassical Hebrew.
+
+IV. Mood
+Mood is generally defined as involving the speaker's attitude or opinion toward a proposition.63 The major contrast in mood is between the indicative (or declarative) and the modal, in which the former is unmarked for mood and the latter is marked.64 Like tense and aspect, mood is a key dimension of the grammaticalization of meaning, but differs functionally in that, as F. R. Palmer notes, "modality... does not relate semantically to the verb alone, or primarily, but to the whole sentence."65 This feature is of particular significance for Hebrew, since there is in many cases no contrast of verbal form for the semantic contrast of indicative vs. modal.66
+The only verbs in Hebrew formally marked and restricted to modal use are the volitional forms (hereafter Volits.),67 i.e. the cohortative, imperative, and jussive. The primary form used to express most other sorts of modality (including volition) is the Impf., which can only be
+62 The future perfective ("prophetic perfect") of stative verbs is found only in poetry:  (Isa 2:11);  (Isa 11:9);  (Ps 126:1);  (Ps 126:2); see Klein 1990.
+63 On mood and modality, see Palmer 1986; Lyons 1977 791-849. 64 On the indicative as the unmarked member, see Palmer 1986: 14-33, 81-88. 65 Palmer, 1986: 2. 66 On this feature in CBH and earlier Semitic, see Huehnergard 1988: 20-22. 67 Following the terminology of Waltke-O'Connor §34.1; similarly Joüon-Muraoka §114; Bergsträsser §10a.
+
+19
+interpreted as modal by context. In rare instances the Pf. is also used modally (see below). Hence mood exists differently in the verbal system than tense or aspect, since its chief contrast (indicative vs. modal) is indicated in most cases by semantic context rather than by form. Part of the reason for the multifunctional mood of the Impf. lies in its tense reference as relative future (or non-past). Linguists have observed that future reference is often related to modality: since the future is by definition unknown, reference to the future is often expressed with a nonindicative form. In many languages (including the Indo-European languages) there is a historical relationship between modal forms and the future tense.68 Hebrew would appear to be a prime example of this permeability between modality and the future.69
+A key semantic distinction among modal utterances in most languages is that between deontic and epistemic modality.70 Deontic modality (from Greek deon, "that which is binding") involves the speaker's will, as in statements of wish, command, permission, or obligation. These kinds of utterances express the speaker's desire or decision concerning an action. Epistemic modality (from epistm, "knowledge") involves the speaker's opinion or knowledge about a proposition, as in statements of doubt, belief, or other shades of expectation or opinion. Epistemic utterances relate to the speaker's state of knowledge, rather than to the speaker's will.
+In English and other European languages some modal verbs may be used for either epistemic or deontic modality, with the particular sense indicated by context, as in the following:
+"You may be excused from the table now." (deontic) "He may arrive tomorrow." (epistemic)
+One finds a similar multivalence in modal uses of the Impf. in CBH:
+ Ä   Á ù  Ô ù (Gen 2:16)
+"You may eat from every tree of the garden. (deontic)
+   >  ù    ù Í  Í    (Exod 5:11)
+"Go get straw yourselves, wherever you may find it." (epistemic)
+This multivalence in the modality of the Impf. has tended to obscure the distinction between deontic and epistemic modality in descriptions of Hebrew.71
+The distinction between deontic and epistemic modality in CBH is clearly shown in the difference between the modal use of the Volits. and the Impf. The Volits. are specialized for
+68 Lyons 1977: 815; Palmer 1986: 216-18. 69 This is a prime emphasis of Zuber 1986: 13-15. 70 See esp. Palmer 1986: 18-20, 51-125. Palmer (102-3) also proposes a third kind, "dynamic modality," which involves the utterances of willingness or ability. This kind of utterance, while clearly modal, is not clearly deontic or epistemic. In Hebrew this would pertain to the modal use of the Impf. to express what Waltke-O'Connor call (§31.4.c) the "non-perfective of capability." 71 The tendency in the grammars is to adopt the traditional categories of Greek and Latin grammar.
+
+20
+deontic modality, expressing wishes, commands, and the like, while the Impf. may be used for either deontic or epistemic modality. Where the two overlap defines the category of deontic modality; where they diverge defines epistemic modality.
+In the margins of the modal system in CBH, there are places where some forms of the verb occur in the place of some others to express various kinds of semantic contrast. Within the field of deontic modality these variations in form indicate contrasts either of aspect (perfective : imperfective) or of reality (real : unreal), while in epistemic modality one finds only the contrast of reality (real : unreal). Let us turn first to the contrasts of aspect, found in the deontic classes of prohibition and wish.
+In prohibitions (or negative commands) the constructions with Juss. vs. Impf. seem to indicate a difference of aspect.72 The construction *al + Juss. is used for perfective prohibitions, while lo* + Impf. is used for imperfective prohibitions.73 The latter construction is used for situations seen as unbounded by the speaker, as in perpetual commands or legal prohibitions (consistently in apodictic law), while the former is used to prohibit specific, punctual events. Compare, for example, the aspectual difference among the following prohibitions:
+ùË    ù      (Gen 18:3)
+"Do not pass by your servant." (perfective prohibition - a specific event)
+ Í  °ù    ù  Ú ù  ù   >   (Gen 22:12)
+"Do not lay your hand on the boy; do not do anything to him." (perfective prohibition - a specific event)
+Úù ù  Ä   (Gen 2:17)
+"Do not eat of it." (imperfective prohibition - unbounded duration)
+   Ä   Ä  Ä (Exod 20:13-15 = Deut 5:17-19)
+"Do not murder. Do not commit adultery. Do not steal. (imperfective prohibition ­ unbounded duration)
+72 These constructions and the contrast of Conv. Impf. : Impf. are the only clear survivals in CBH of the older aspectual contrast between the *yaqtul perfective and the *yaqtulu imperfective. In earlier Northwest Semitic (and West or Central Semitic) these forms contrast aspectually in both indicative and in deontic modal use; see Huehnergard 1988: 20-22.
+73 Lambdin (§102) describes the contrast as "immediate, specific commands" vs. "durative, nonspecific." Similarly Williams (§396) describes the latter as having "imperfect aspect." Varying descriptions of the contrast are given in GKC §§107o, 109d; Bergsträsser §10m-n; Joüon-Muraoka §113m.
+
+21
+The  + Juss. construction is used for a complete and bounded event, with beginning and end in sight, while the  + Impf. is used for an unbounded situation, conceived without end. This
+contrast, like other contrasts in the aspectual system of CBH, disappears in the course of LBH.74
+The other class of deontic modality in which an aspectual contrast is formally indicated is in the (rare) use of the precative Pf.. In these uses, clearly found only in poetry, the Pf. is used to indicate a perfectivity of wishful expectation, with the event conceived as complete and bounded, hence expressing confidence in its accomplishment. As in the future perfective use of the Pf. in the indicative (to which this modal use corresponds), the precative Pf. generally describes divine actions. In the following poetic bicola the precative Pf. in the second colon acts as an intensifying parallel to the Imv. in the first colon, giving a sense of perfectivity to God's act of salvation:75
+ ù      ~ ù ùÍ   i ù  ù > ° (Ps 22:22)
+"Save me from the lion's mouth; Rescue me from the horns of wild bulls."
+This deontic modal use of the Pf. to express a perfective wish is found in other Semitic languages (Aramaic, Arabic), and is paralleled in non-Semitic languages.76
+The aspectual contrast in this instance is with the other forms used for wishes (Volits. and Impf.), which are therefore either imperfective or aspectually neutral in this use. If the aspectual
+contrast evident in the prohibitions (perfective [ + Juss.] vs. imperfective [ +Impf.]) is
+compared to this aspectual contrast in positive volition, then we may infer that the Pf. is `more' perfective than the Volits. in deontic modality. It may be simpler, however, to regard positive deontic modality as aspectually neutral in the forms other than the Pf., and hence to see a simple opposition (perfective : zero aspect) obtaining for the aspectual contrast of precative Pf. : Impf./Volits. This issue, pertaining to aspectual contrasts within positive deontic modality, may correspond to the question of the varying prominence of aspect for the Impf. in future indicative uses (see above).
+The other marginal uses for the Pf. within the modal system involve the semantic axis of real vs. unreal.77 The contrast in degrees of reality, in which the Pf. is the unreal member and the Impf. the real, may best be described as a modal reflex of tense, derived from the temporal contrast (in the dynamic verb) of past vs. non-past. `Pastness,' seen as a property of the Pf., translates into logical distance from (present) reality; as Robert Binnick observes, "because of its
+74 See, e.g., Qimron 1986: 80-81. The Juss. is virtually obsolete in Rabbinic Hebrew; see Segal 1927: 54, 72.
+75 For other possible examples of the precative perfect, see Ewald §223b; Joüon-Muraoka §112k; Waltke-O'Connor §30.5.4d. Driver (§20) and Bergsträsser (§6h) question the certainty of this usage in Hebrew.
+76 See Waltke-O'Connor §30.5.4c; Loprieno 1986: 22. 77 On real vs. unreal modality, see Palmer 1986: 116-119, 191-95, 210-13; Lyons 1977: 795-96; Binnick 1991: 390-93; and in CBH, GKC §106p; Joüon-Muraoka §§163c, 167k; Waltke-O'Connor §30.5.4b (though the latter confuse the issue with Greek and Latin irrealis).
+
+22
+ability to distance, to detach the event from the speech-act situation, the past may be used for irrealities."78 Many languages use this semantic tense-effect to distinguish between real modality (referring to actual or possible events) vs. unreal modality (referring to impossible or unlikely events). In CBH the Pf. is used to indicate unreality in both deontic and epistemic modality. For deontic modality this includes wishes and requests. For epistemic modality this includes conditions and some kinds of questions.
+In CBH both unreal wishes (deontic) and unreal conditions (epistemic) are indicated by
+the Pf. plus a particle, usually Í, occasionally  or .79 This use of the Pf. contrasts
+with the use of the Impf. or Volits. (plus particles) in real wishes and real conditions.80 Examples of unreality in wishes and conditions are:
+      ùÊ Í  Í (Num 14:2)
+"Would that we had died in Egypt." (wish)
+ ù        ù °    Í (Judg 8:19)
+"If you had let them live, I would not kill you. (condition)
+    Í >   Ô Í       Í Ô (Gen 43:10)
+If we had not delayed, by now we would have come back twice."81 (condition)
+In these cases the wish or proposition is impossible, hence the temporally past form is used for
+that which is unfulfillable or unreal. Note that it is not the particle Í in itself that indicates unreality, for Í + Impf. or Volits. expresses a real (possible) wish.82 The use of the Pf. is integral
+to the unreal modal construction.
+A related use of the Pf. as the less vivid (unreal) form in deontic modality occurs in the case of polite requests. In many languages the past form, as the less vivid, is used to mark politeness or deference, as in the following expressions where one `backshifts' into the past (or past modal) for politeness: "I would like;" "je voudrais;" "ich möchte." Compare the following requests in English:83
+78 Binnick 1991: 390; similarly Lyons 1977: 819. 79 See Driver §§18, 139-40; Joüon-Muraoka §167k; GKC §106p; Waltke-O'Connor §30.5.4a-b; Zuber 1986: 111-13. 80 However not all real conditions need be considered modal, as may be seen in the ordinary use of the Pf. in past real conditions as past perfectives. On the frequent use of indicatives (modally unmarked forms) in real conditions "where the speaker is not committed to the truth of either clause," and on the modal ambiguity of conditional clauses, see Palmer 1986: 28, 189-91 (quote from p. 28). Lyons also observes (1977: 796 n. 4) that in a conditional clause where a speaker is not committed to the truth or falsity of either proposition, "the function of the past-tense marker in the first clause will be temporal rather than modal."
+81 In the use of the negative unreal construction, Í + Pf., the negation of the action specified in
+the protasis is unreal, while in the apodosis the consequence is unreal. 82 E.g., Gen 17:18, 30:34. 83 From Palmer 1986: 211.
+
+23
+"Would you pass the salt?" vs. "Will you pass the salt?"
+The contrast in degree of vividness (past modal form vs. non-past form) may account for some instances in CBH where a Pf. is used rather than an Impf., as in the following polite requests, framed as real conditions:
+ù   >  ùÔ ù   ù    Ô (Gen 40:14)
+"If you would remember me when all is well with you"
+ù  ùÊ         (Gen 18:3)
+"My lords, if I find favor in your eyes"84
+The kinds of contrast, if any, between Pf. and Impf. in real conditions is contested.85 In some instances, such as the above polite requests, the semantic axis of real : unreal, correlating with vivid : less vivid, may account for the use of the Pf. in this construction.
+Elsewhere one occasionally finds the Pf. used in real conditions to express a related value in the axis of real : unreal, that of the real but extremely dubious or remote. In the instances below the Pf. expresses a degree of remoteness within a real condition (note that the condition is marked by *im, not lû). These cases express what we may call real-remote epistemic modality;86 viz., a possible but very improbable event from the speaker's perspective.87
+ù  ù ù  ^  ù ù  ù      (Gen 43:9)
+"If I were not to bring him back to you and set him before you"
+ù  Ú ù ù  ù    Á  (Judg 16:17)
+"If I were shaved, my strength would leave me."
+ ù     Ú ù Ë  Ô  Ô ù Ô   (Jer 37:10)
+"Even if you were to defeat the whole Chaldean army that is fighting against you"
+,  ù ù     ù ù        (2 Sam 15:33)
+84 Note that this is not a question of past tense reference, since Abraham says it on first seeing the strangers.
+85 Cf. Lambdin §196 ("the original distinction... has become obscured"); Waltke-O'Connor §30.5.4b ("perfective value even though that value is not obvious"); GKC §159n ("which will be completely fulfilled in the future"); Joüon-Muraoka §167h n. 1 ("quite frequently for the past future [futur passé])."
+86 On the linguistic relationship of real-remote and unreal modality, note Lyons's comment (1977: 819): "Contra-factivity is simply a special case of subjectively modalized remote possibility."
+87 GKC (§159m) notes this use in some conditions, particularly involving imprecations of innocence (as in Ps 7:4-5; Job 31:9) in which "the speaker assumes for a moment as possible and even actual, that which he really rejects as inconceivable."
+
+24
+
+"If you were to cross over with me, you would be a burden to me."88
+
+Note that in Gen 43:9 the Pf. is followed by a Conv. Pf. in the protasis, indicating that an Impf. is the expected initial form. In these and other cases (see below, 2 Kgs 7:4), the real condition is given a nuance of remoteness by use of the Pf.
+
+The other occasional use of the Pf. to express real-remote epistemic modality is in
+questions which (as Driver observes) "express astonishment at what appears to the speaker in the highest degree improbable"89:
+
+   ù    ù         (Gen 18:12)
+"After I have grown old, am I to have fertility, and my husband is also old?"
+
+ù   ù     Ô           ù    (Gen 21:7)
+"Who would have told Abraham that Sarah would suckle children? But I have borne a son for his old age."
+
+ÍÚù Á    ... ~  ù   >  ùÊ °ù   >  (1 Sam 26:9-10)
+"Who could lay his hand on the anointed of Yahweh with impunity? ... Yahweh will strike him down."
+
+In each of these instances the proposition is real (possible), however remote (note that in the first and second instances they actually occur). The Pf. as the unreal member of the real : unreal contrast is used fruitfully to express real-remote modality in these utterances.
+
+In these marginal classes of modal use - prohibitions; precative Pf.; unreal wishes and conditions; polite requests; real-remote conditions and questions - where one form is used in the place of another, we see, more clearly than in common uses, the effects of the complex interrelationships of tense (and tense-effects), aspect, and mood.
+
+From the vantage point of these marginal uses we may characterize the chief contrasts in form and meaning in the modal system as follows:
+
+deontic
+
+Pf. Impf.
+
+unreal or polite or real + perfectivity real or real + imperfectivity
+
+88 Lambdin (§196) suggests that there is no distinction in verbal semantics between this passage
+and Num 32:29:  ù     Í  ùÍ    Í    . Note, however, that the contrast is explicable in terms of the analysis advanced here. In 2 Sam 15:33       is used for an extremely unlikely event, since the king is expressly instructing Hushai not to cross over with him. In Num 32:29 Í    is used by Moses
+for a situation that he expressly urges, that Reuben and Gad cross over the Jordan. The real : unreal axis is evident in this contrast.
+89 Driver §19; GKC §106p; Joüon-Muraoka §112j.
+
+25
+
+epistemic
+
+Volits. real or real + perfectivity
+Pf. unreal or real-remote Impf. real
+
+V. Conclusions
+The "enigma" of the CBH verbal system is a reflection of the fact that various models work passably well when confronted with the majority of sentences in the Hebrew Bible. To consider for example the major grammars written or revised in the early part of this century, GKC (following Ewald) describes CBH as an aspectual system (hence the terms `Perfect' and `Imperfect');90 Joüon describes the system as consisting in various measures of absolute tense and aspect (hence his terms `Perfect' and `Future');91 and Bergsträsser defines the system as one of relative tense,92 and inveighs against aspectual theories.93 All three grammars are invaluable, but their methods too often lead to an atomistic compilation of grammatical categories rather than a sustained attempt to pursue the semantic relations of the verbal system as a whole. Hence the common impression that CBH is a pastiche rather than a language.94 I have tried to show
+
+90 GKC §106-107. Other works advocating a primarily aspectual analysis (with various construals of aspect) include Driver 1892; Rundgren 1961; Kustár 1972; Segert 1975; Williams 1976; Jenni 1981; Pardee 1985; Loprieno 1986; Eskhult 1990. Waltke-O'Connor (§29-31) argue that the Pf. has perfective aspectual value and that the Impf. signifies "either an imperfective situation in past and present time, or a dependent situation," following some conjectures of D. Michel.
+91 Joüon-Muraoka §111-13; similarly Lambdin §91; Kutscher 1982: 44; Huehnergard 1988: 2021; Buth 1992: 95-96.
+92 Bergsträsser §6-7; similarly Kurylowicz 1972: 84-91, and 1973 (on which see the criticisms of Binnick 1991: 438); Bartelmus 1982: 40-79; Gropp 1991: 52-54. Blau (1993: 86, 217) holds an absolute tense model, but in subordinate clauses allows for "the writer's discretion whether or not to use the tenses relatively" (p. 115); Revell's view (1989:3-4) is similar in allowing for both absolute and relative tense.
+93 Others who reject the validity of aspectual theory include Zuber 1986: 1-11 (who argues that the semantic contrast of Pf. : Impf. is indicative : modal-future); Niccacci 1990: 166 (who presents a textlinguistic model of Hebrew clause sequences); Rainey 1990: 408-9 (who maintains the primacy of absolute tense); and McFall 1982: 50-51 (who argues awkwardly against both tense and aspect, concluding that the system remains an enigma). Note Lyons' remarks (1977: 705): "Aspect is, in fact, far more commonly to be found throughout the languages of the world than tense is: there are many languages that do not have tense, but very few, if any, that do not have aspect;" see also Dahl 1985.
+94 On theories that CBH is a Mischsprache (e.g., H. Bauer, G. R. Driver, and A. Sperber) see the critical appraisals of McFall 1982: 93-151; Waltke-O'Connor §29.3-4; and Halpern 1987: 134-39. Note also E. A. Knauf's claim (1990) that CBH is an artificial Bildungssprache manufactured by exilic and postexilic tradants - though he admits that the verbal system is that of pre-exilic Hebrew; against this extreme position note the abundant continuities between pre-exilic inscriptional Hebrew and CBH (see esp. Sarfatti 1982; Young 1993: 103-21, 203-5; and on verbal syntax, Pardee 1978). More cogently, Sáenz-Badillos (1993: 56) considers CBH as "the language of literature and administration;" similarly Sarfatti 1982: 80-81; Young 1993: 103-13 (who notes some distinctions among literary and administrative genres). I would submit that the analysis of CBH above in terms of situation, relative tense, aspect, and mood is pertinent to the other Northwest Semitic languages of the LB and Iron Age,
+
+26
+that attention to the marginal uses in the system may help to reveal the semantic axes of the whole.
+The major semantic dimensions that characterize the CBH verbal system when seen from its margins, and the major distinctions within these, may be outlined as follows. I refer to lexicalization vs. grammaticalization of meaning as indicating the difference of root or stem meanings (lexicalization) vs. verbal inflection and syntactic or contextual implicature (grammaticalization). The symbol  means "entails, consists of."
+I. Lexicalization of meaning 1. Situation  stative : dynamic a. dynamic  intransitive : transitive 2. Reflexes of situation in derived conjugations (factitive, resultative, frequentative, causative, etc.)
+II. Grammaticalization of meaning 1. Relative tense a. dynamic  relative past : relative non-past b. stative  relative non-future : relative future 2. Aspect  perfective : imperfective 3. Mood  indicative : modal a. modal  epistemic : deontic; real : unreal
+Other distinctions and contrasts occur within each of these semantic dimensions, and each dimension intersects and affects the others in significant ways. No simple diagram will do, since language, which is both systemic and instrumental, is not simple.95 To return to Ibn Jan, the first to chart CBH comprehensively, grammatical inquiry into Biblical Hebrew is necessarily
+a  , a study of a complex and intricately patterned garden.96
+and to other Semitic languages (on Classical Arabic see Comrie 1976: 78-80; 1985: 63-64), but this awaits demonstration on another occasion.
+95 Cf. Müller's reflections (1986: 379) on the diverse oppositions and semantic dimensions of language as "eine diffuse Einheit."
+96 My thanks to Baruch Halpern, Bill Propp, and especially Randy Garr for their astute comments and criticisms of various drafts of this essay.
+
+27
+Bibliography
+R. Bartelmus, HYH: Bedeutung und Funktion eines hebräischen "Allerweltswortes": Zugleich ein Beitrag zur Frage des hebräischen Tempussystems (ATS 17), St. Ottilien, 1982.
+G. Bergsträsser, Hebräische Grammatik, Vol. 2, Leipzig, 1929. R. I. Binnick, Time and the Verb: A Guide to Tense and Aspect, Oxford, 1991. J. Blau, A Grammar of Biblical Hebrew, 2nd ed., Wiesbaden, 1993. G. Buccellati, "The State of the `Stative,'" in: Y. L. Arbeitman (ed.), Fucus: A Semitic/Afrasian
+Gathering in Remembrance of Albert Ehrman, Amsterdam, 1988, 153-89. R. Buth, "The Hebrew Verb in Current Discussions," JOTT 5, 1992, 91-105. B. Comrie, Aspect: An Introduction to the Study of Verbal Aspect and Related Problems, Cambridge,
+1976. _______, Tense, Cambridge, 1985. D. Crystal, The Cambridge Encyclopedia of Language, Cambridge, 1987. Ö. Dahl, Tense and Aspect Systems, Oxford, 1985. S. R. Driver, A Treatise on the Use of the Tenses in Hebrew, 3rd ed., Oxford, 1892. M. Eskhult, Studies in Verbal Aspect and Narrative Technique in Biblical Hebrew Prose (AUU 12),
+Uppsala, 1990. H. Ewald, Ausführliches Lehrbuch der hebräischen Sprache des Alten Bundes, 8th ed., Leipzig, 1870. T. L. Fenton, "The Hebrew `Tenses' in the Light of Ugaritic," in: Proceedings of the Fifth World
+Congress of Jewish Studies, Jerusalem, 1973, Vol. 4, 31-39. A. Gordon, "The Development of the Participle in Biblical, Mishnaic, and Modern Hebrew," Afroasiatic
+Linguistics 8, 1982, 121-79. D. M. Gropp, "The Function of the Finite Verb in Classical Biblical Hebrew," HAR 13, 1991, 45-62. B. Halpern, "Dialect Distribution in Canaan and the Deir Alla Inscriptions," in: D. M. Golomb (ed.),
+"Working With No Data": Semitic and Egyptian Studies Presented to Thomas O. Lambdin, Winona Lake, 1987, 119-39. J. Huehnergard, "`Stative,' Predicative Form, Pseudo-Verb," JNES 46, 1987, 215-32. _______, "The Early Hebrew Prefix-Conjugations," HS 29, 1988, 19-23. D. R. Hillers, "Some Performative Utterances in the Bible," in: D. P. Wright, D. N. Freedman, and A. Hurvitz (eds.), Pomegranates and Golden Bells: Studies in Biblical, Jewish, and Near Eastern Ritual, Law, and Literature in Honor of Jacob Milgrom, Winona Lake, 1995, 757-66. E. Jenni, Das hebräische Piel: Syntaktisch-semasiologische Untersuchung einer Verbalform im Alten Testament, Zurich, 1968. _______, Lehrbuch der hebräischen Sprache des Alten Testaments, 2nd ed., Basel, 1981. P. Joüon and T. Muraoka, A Grammar of Biblical Hebrew, Rome, 1993. S. A. Kaufman, "Languages (Aramaic)," ABD 4, 1992, 173-78. G. L. Klein, "The `Prophetic Perfect,'" JNSL 16, 1990, 45-60. E. A. Knauf, "War `Biblisch-Hebräisch' eine Sprache?" ZAH 3, 1990, 11-23. J. Kurylowicz, Studies in Semitic Grammar and Metrics, 1972, 84-91. _______, "Verbal Aspect in Semitic," Or 42, 1973, 114-20. P. Kustár, Aspekt im Hebräischen, Basel, 1972. Y. Kutscher, A History of the Hebrew Language, Jerusalem, 1982. T. O. Lambdin, Introduction to Biblical Hebrew, New York, 1971. A. Loprieno, Das Verbalsystem im Ägyptischen und im Semitischen: Zur Grundlegung einer Aspekttheorie, Wiesbaden, 1986. J. Lyons, Semantics, Cambridge, 1977. L. McFall, The Enigma of the Hebrew Verbal System: Solutions from Ewald to the Present Day, Sheffield, 1982. T. N. D. Mettinger, "The Hebrew Verb System: A Survey of Recent Research," ASTI 9, 1973, 64-84.
+
+28
+W. L. Moran, "The Hebrew Language in Its Northwest Semitic Background," in: G. E. Wright (ed.), The Bible and the Ancient Near East. Essays in Honor of William Foxwell Albright, Garden City, NY, 1961, 54-72.
+H.-P. Müller, "Ergativelemente im akkadischen und althebräischen Verbalsystem," Bib 66, 1985, 385417.
+_______, "Polysemie im semitischen und hebräischen Konjugationssystem," Or 55, 1986, 365-89. A. Niccacci, The Syntax of the Verb in Classical Hebrew Prose (JSOTSup 86), Sheffield, 1990. F. R. Palmer, Mood and Modality, Cambridge, 1986. D. Pardee, "The Judicial Plea from Mead ashavyahu (Yavneh-Yam): A New Philological Study,"
+Maarav 1, 1978, 33-66. _______, "The `Epistolary Perfect' in Hebrew Letters," BN 22, 1983, 34-40. _______, rev. of Bartelmus 1982, CBQ 47, 1985, 107-10. _______, rev. of Niccacci 1990, JNES 52, 1993, 313-14. _______ and R. M. Whiting, "Aspects of Epistolary Verbal Usage in Ugaritic and Akkadian," BSOAS 50,
+1987, 1-31. E. Qimron, The Hebrew of the Dead Sea Scrolls (HSS 29), Atlanta, 1986. I. Rabinowitz, "z Followed by Imperfect Verb-Form in Preterite Contexts: A Redactional Device in
+Biblical Hebrew," VT 34, 1984, 53-62. A. F. Rainey, "The Prefix Conjugation Patterns of Early Northwest Semitic," in: T. Abusch, J.
+Huehnergard, and P. Steinkeller (eds.), Lingering Over Words: Studies in Ancient Near Eastern Literature in Honor of William L. Moran, Atlanta, 1990, 407-20. E. J. Revell, "The System of the Verb in Standard Biblical Prose," HUCA 60: 1-37. F. Rundgren, Das althebräische Verbum: Abriss der Aspektlehre, Stockholm, 1961. A. Sáenz-Badillos, A History of the Hebrew Language, Cambridge, 1993. G. B. Sarfatti, "Hebrew Inscriptions of the First Temple Period: A Survey and Some Linguistic Comments," Maarav 3, 1982, 55-83. M. H. Segal, A Grammar of Mishnaic Hebrew, Oxford, 1927. S. Segert, "Verbal Categories of Some Northwest Semitic Languages: A Didactic Approach," Afroasiatic Linguistics 2, 1975, 83-94.
+D. Tene and M. Wilensky (eds.), Jonah Ibn Jan,  , Jerusalem, 1964.
+B. K. Waltke and M. O'Connor, An Introduction to Biblical Hebrew Syntax, Winona Lake, 1990. R. J. Williams, Hebrew Syntax: An Outline, Toronto, 1976. I. Young, Diversity in Pre-Exilic Hebrew, Tübingen, 1993. B. Zuber, Das Tempussystem des biblischen Hebräisch (BZAW 164), Berlin, 1986.

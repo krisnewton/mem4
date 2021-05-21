@@ -1,0 +1,2234 @@
+LAPORAN STUDI KELAYAKAN BISNIS -NUVAN WEDDING-
+Disususn untuk memenuhi tugas mata kuliah studi kelayakan bisnis
+
+Oleh :
+
+Fathin Ahmad Faisal Mustika Kusumawardhani Nuning Imbar Purwati Rani Retnowati
+
+125121012 125121022 125121026 125121028
+
+Program Studi Keuangan dan Perbankan Jurusan Akuntansi
+Politeknik Negeri Bandung 2014
+
+KATA PENGANTAR
+Puji serta syukur kehadirat Tuhan Yang Maha Esa karena atas RahmatNya Kami dapat menyelesaikan laporan ini dengan baik. Shalawat dan salam senantiasa diberikan kepada junjungan kita, Nabi Muhammad SAW. Semoga kita mendapatkan syafaatnya dan menjadi pengikutnya hingga akhir zaman, amin. Laporan ini kami buat adalah untuk belajar memahami dan menganalisis secara nyata bagaimana suatu bisnis dapat dikatakan layak atau tidak. Serta untuk memenuhi penilaian tugas akhir mata kuliah Studi Kelayakan Bisnis di semester kelima ini.
+Ucapan terimakasih kami sampaikan kepada pihak-pihak yang telah membantu penyusunan laporan ini. Kepada Dosen mata kuliah Studi Kelayakan Bisnis: Mardha Tri Meilani serta teman-teman sekalian. Sebagai manusia yang tidak luput dari kesalahan, Kami menyadari bahwa Laporan ini jauh dari kata sempurna. Untuk itu Kami mohon kritik dan saran yang membangun dari pembaca sekalian untuk perbaikan tulisan Kami di masa yang akan datang.
+Bandung, November 2014
+TIM SKB
+i
+
+DAFTAR ISI
+KATA PENGANTAR ............................................................................................ i DAFTAR ISI.......................................................................................................... ii DAFTAR TABEL ................................................................................................ iii DAFTAR GAMBAR ............................................................................................ iv RINGKASAN BISNIS ...........................................................................................1
+BAB I Latar Belakang Bisnis/Pemrakarsa Bisnis .............................................3 1.1 Bisnis yang diusulkan ............................................................................3 1.1.1 Bisnis yang diusulkan................................................................3 1.1.2 Rencana Pelaksanaan ................................................................5 1.1.3 Rencana Jumlah dana yang diinvestasikan ...............................5 1.1.4 Pemrakarsa ................................................................................6 1.2 Gambaran umm kondisi perusahaan/Pemrakarsa saat ini......................7 1.2.1 Perkembangan Usaha ................................................................7 1.2.2 Posisi perusahaan dalam persaingan .........................................8 1.2.3 Kemampuan fnansial .................................................................8
+BAB II Analisis Aspek yang Dikaji ......................................................................9 2.1 Analisis Aspek Pasar dan pemasaran.....................................................9 2.2 Analisis Aspek Teknis dan Produksi ...................................................40 2.3 Analisis Aspek Manajemen, Hukum, Ekonomi, Sosial dan Budaya ...55 2.4 Analisis Aspek Keuangan ....................................................................57
+BAB III Simpulan dan Rekomendasi ................................................................69 BAB IV LAMPIRAN-LAMPIRAN....................................................................70
+ii
+
+DAFTAR TABEL
+Tabel 2.1.1 Proyeksi Permintaan .........................................................................11 Tabel 2.1.2 Kapasitas Produksi Pesaing ..............................................................11 Tabel 2.1.3 Proyeksi Penawaran Pesaing ............................................................12 Tabel 2.1.4 Rencana Penjualan dan Pangsa Pasar ...............................................12 Tabel 2.2.1 Rencana Produksi..............................................................................44 Tabel 2.2.2 Utilitas Sarana ...................................................................................44 Tabel 2.2.3 Mesin dan Peralatan ..........................................................................45 Tabel 2.2.4 Kendaraan .........................................................................................45 Tabel 2.2.5 Rencana Bahan Baku Produksi .........................................................45 Tabel 2.2.6 Tenaga Kerja Langsung ....................................................................57 Tabel 2.2.7 Biaya Umum .....................................................................................57 Tabel 2.2.8 Jabatan, Uraian Tugas dan Penggajian .............................................56 Tabel 2.2.9 Kegiatan Pra Operasi dan Jadwal Pelaksanaan.................................56 Tabel 2.4.1 Hasil Analisis Kelayakan Bisnis .......................................................59 Tabel 2.4.2 Nilai Perlengkapan yang Dimiliki.....................................................59 Tabel 2.4.3 Nilai Perlengkapan yang Dibutuhkan ...............................................59 Tabel 2.4.4 Biaya yang Diperlukan......................................................................60 Tabel 2.4.5 Biaya Operasi dan Kebutuhan Modal Kerja .....................................61 Tabel 2.4.6 Pembiayaan Bisnis ............................................................................62 Tabel 2.4.7 Schedule Cicilan Kredit ....................................................................63 Tabel 2.4.8 Anggaran Penjualan ..........................................................................64 Tabel 2.4.9 Proyeksi Laba Rugi...........................................................................65 Tabel 2.4.10 Penyusutan dan Amortisasi...............................................................66 Tabel 2.4.11 Proyeksi Neraca ................................................................................66 Tabel 2.4.12 Proyeksi Arus Kas.............................................................................67
+iii
+
+DAFTAR GAMBAR
+Gambar 2.1.1 Contoh Produk Maria Pinot (1).......................................................13 Gambar 2.1.2 Contoh Produk Maria Pinot (2).......................................................13 Gambar 2.1.3 Contoh Pamflet Maria Pinot............................................................18 Gambar 2.1.4 Contoh Pamflet DERIS Wedding ...................................................19 Gambar 2.1.5 Alur Kerja Nuvan Wedding ............................................................39 Gambar 2.2.1 Peta Lokasi Nuvan Wedding...........................................................48 Gambar 2.2.2 Perencanaan Layout Nuvan Wedding .............................................48 Gambar 2.2.3 Struktur Organisasi Nuvan Wedding ..............................................55
+iv
+
+RINGKASAN BISNIS
+
+Bisnis yang dianalisis dalam studi kelayakan bisnis ini adalah suatu bisnis
+
+yang bergerak dalam bidang jasa wedding package. Wedding package tersebut
+
+terdiri dari pemberian jasa rias pengantin, dekorasi pelaminan dan jasa catering.
+
+Setelah kami lakukan penelitian secara mendalam tentang aspek yang
+
+berpengaruh terhadap rencana bisnis "Nuvan Wedding" yang dilakukan selama
+
+kurang lebih 2 bulan, maka kami rekomendasikan agar bisnis ini dapat dijalankan
+
+karena dari hasil penelitian yang diperoleh bahwa bisnis ini dapat menghasilkan
+
+menguntungkan yang cukup menjanjikan dan dikatakan layak. Sehubungan
+
+dengan itu kami siap mempresentasikan mengenai hasil penelitian yang kami
+
+laporkan dalam studi kelayakan bisnis ini.
+
+Adapun Ringkasan Bisnis Nuvan Wedding adalah sebagai berikut :
+
+MANAJEMEN
+
+1. Nama Perusahaan
+
+: NUVAN Wedding
+
+2. Nama Pemilik/Pimpinan Perusahaan : Ny. Imas Liahayati
+
+3. Bidang Usaha
+
+: Jasa
+
+4. Jumlah Karyawan/Tenaga Kerja : 3 orang (tetap)
+
+5. Badan Hukum
+
+: CV
+
+6. Alamat Perusahaan
+
+: Jl. Cipedes Tengah No 5A RT 02
+
+RW 05 Kel. Sukagalih Kec.
+
+Sukajadi Kota Bandung 40163
+
+PEMASARAN
+
+1. Produk yang dipasarkan 2. Sasaran Konsumen / Pembeli 3. Wilayah Pemasaran
+4. Rencana Penjualan / Tahun
+
+: Jasa tata rias, catering, dan dekorasi : Masyarakat menengah ke bawah : Kota Bandung, Kota Cimahi, Kab. Bandung, Kab. Bandung Barat :
+
+th 1
+
+48
+
+th 2
+
+50
+
+th 3
+
+52
+
+th 4
+
+54
+
+th 5
+
+56
+
+1
+
+PRODUKSI/OPERASI
+
+1. Kapasitas Produksi 2. Ketersediaan Bahan Baku 3. Fasilitas/ Sasaran Produksi 4. Dampak Lingkungan
+
+: 192 Acara / Tahun : : Rias, Catering, dan Dekorasi : Postif, karena usaha ini dapat membuka lapangan pekerjaan untuk masyarakat sekitar.
+
+KEUANGAN
+
+1. Total pembiayaan Bisnis
+
+: Rp 3.552.250.000
+
+2. Modal Sendiri
+
+: Rp 2.807.980.000
+
+3. Pinjaman yang Diajukan
+
+: Rp 744.270.000
+
+4. Jangka waktu pengembalian pinjaman: 3 tahun
+
+5. Penjualan per tahun (Rp)
+
+:
+
+th 1
+
+2.400.000.000
+
+th 2
+
+2.500.000.000
+
+th 3
+
+2.600.000.000
+
+th 4
+
+2.700.000.000
+
+th 5
+
+2.800.000.000
+
+rata rata 2.600.000.000
+
+6. Keuntungan per tahun (Rp)
+LabaBersih 1 LabaBersih 2 LabaBersih 3 LabaBersih 4 LabaBersih 5
+Rata rata
+
+:
+265.555.225 288.204.725 310.855.225 394.907.500 417.557.500 335.416.035
+
+7. Alternatif Anggunan/Jaminan dimiliki: Sertifikat Tanah yang berlokasi di
+
+Jl. Cipedes Tengah No. 5A RT 02
+
+RW 05 Kel. Sukagalih Kec.
+
+Sukajadi Kota Bandung 40163
+
+8. Rencana realisasi bisnis
+
+: Januari 2015
+
+2
+
+BAB I LATAR BELAKANG BISNIS
+1.1 Bisnis Yang Diusulkan I.1.1 Sifat/ Jenis Bisnis yang Diusulkan Era globalisasi menjanjikan suatu peluang dan tantangan bisnis baru dalam berbagai sektor industri di Indonesia. Salah satu industri yang berkembang adalah wedding package organizer. Wedding Package Organizer adalah pelayanan jasa organizer yang menawarkan berbagai macam paket pernikahan yang bisa dipilih diantaranya Tata rias dan Busana wedding, Florist dan Dekorasi wedding, Photography dan Video Shooting, MC, dan Hiburan. Wedding Package Organizer merupakan salah satu pengembangan ekonomi kreatif dan peluang usaha yang abadi karena selama manusia memimpikan hidup berpasang-pasangan, suatu acara pesta pernikahan akan selalu menjadi suatu kebutuhan. Pernikahan merupakan moment yang paling membahagiakan dalam kehidupan setiap orang. Oleh sebab itu, pernikahan selalu dilaksanakan dengan perencanaan dan persiapan yang matang mulai dari undangan, gedung, dekorasi, catering, gaun dan tata rias pengantin, souvenir, hiburan, dan fotografi. Saat itulah wedding package organizer menyiapkan perlengkapan yang dibutuhkan untuk pelaksanaan acara pesta pernikahan sesuai keinginan calon pengantin dan keluarga. Pernikahan adalah suatu acara yang suci dan sakral. Dimana setiap calon pengantin
+3
+
+menginginkan suatu acara pernikahan yang berkesan tidak terlupakan dan berbeda dengan yang lainnya. Karena kesakralan dan ingin kesan yang berbeda ini pula yang menyebabkan setiap calon pengantin menginginkan pernikahan yang sempurna dan berjalan dengan lancar tanpa hambatan apapun.
+Selama masih ada pasangan yang berniat untuk melangsungkan pernikahan, maka keberadaan bisnis ini akan tetap di butuhkan dan memunculkan peluang bisnis yang disebut dengan Wedding Package Organizer.
+Dilihat dari keuntungan yang akan diperoleh dan waktu yang di gunakan dalam menjalankan bisnis ini fleksibel, hal ini memicu pertumbuhan jasa Wedding organizer di Indonesia kian meningkat sekaligus memunculkan persaingan yang semakin kompetitif.
+Semua acara pernikahan tersebut hendaknya terselenggara dengan baik agar senantiasa memiliki kesan baik bagi klien maupun siapa saja yang hadir dan terlibat. Semua tak lepas dari kinerja SDM yang terlibat baik dari pra acara hingga pasca acara. Selain itu kreatifitasnya yang tinggi juga menjadi hal penting karena ini lah yang menjadi hal terpenting dari kesan sebuah moment penting, sebab pernikahan merupakan suatu hal terindah dalam kehidupan hingga meninggalkan kesan yang mendalam, untuk itu bisnis kami yang bernama "Nuvan Wedding" siap mewujudkannya.
+Nuvan Wedding Package merupakan salah satu bentuk usaha mandiri yang ikut menyemarakan industri bisnis wedding dengan menyediakan
+4
+
+pelayanan dalam bidang jasa paket pernikahan di Kota Bandung. Adapun layanan yang disediakan oleh perusahaan ini yakni jasa tata rias pengantin, keluarga pengantin, dekorasi pelaminan, dan catering. Perusahaan ini memiliki nama yaitu "Nuvan Wedding".
+Tarif jasa wedding package ini tentunya di tentukan dengan sistem paket. Semakin lengkap fasilitas yang diberikan, maka harga paket semakin mahal. Pengambilan paket tentunya menjadi hak sepenuhnya dari klien yang disesuaikan dengan budget yang dimiliki. Dari penjualan jasa paket inilah penghasilan utama bisnis ini diperoleh.
+Bisnis ini memiliki nilai proyek yang cukup besar dan menjanjikan. Meskipun demikian biaya operasional yang harus dikeluarkan pun cukup besar. Namun untuk memperoleh penghasilan tambahan dalam bisnis ini, kami menambah layanan misalnya dengan menyediakan jasa rias wajah dan tata rias rambut ataupun kerudung.
+I.1.2 Rencana Pelaksanaan Bisnis ini mulai di analisis layak atau tidaknya mulai dari bulan
+September-November 2014. Dan direncanakan akan mulai produksi pada bulan Januari tahun 2015.
+I.1.3 Rencana Jumlah Dana Yang Diinvestasikan Dari hasil perhitungan yang telah dilakukan dapat disimpulkan bahwa
+jumlah dana yang harus diinvestasikan dalam pembuatan bisnis Nuvan
+5
+
+Wedding sebanyak Rp 1.715.050.000,- Terdiri dari Modal sendiri Rp 1.521.940.000,- dan Kredit Rp 193.110.000,-
+
+I.1.4 Pemrakarsa Dalam bisnis Nuvan Wedding ini yang berperan sebagai pemrakarsa
+(pencetus ide) adalah Nuning Imbar .P dan anggota lainnya yang terdiri dari Fathin Ahmad Faisal, Mustika Kusumawardhani dan Rani Retnowati sebagai tim yang menganalisis layak atau tidaknya ide bisnis ini.
+Adapun struktur organisasi perusahaan Nuvan Wedding adalah sebagai berikut : Struktur Organisasi
+Pimpinan - SDM dan Umum Ibu Imas Liahayati
+
+Bag. Pemasaran Bagus Au
+
+Bag. Operasional Bp. Dadi Purwadi
+
+Bag. Adm dan Keuangan Nuning Imbar .P
+
+6
+
+1.2 Gambaran Umum Kondisi Perusahaan 1.2.1 Perkembangan Usaha (model bisnis) Dewasa ini bisnis wedding berkembang sangat cepat, baik dari segi jumlah pemrakarsa bisnis itu sendiri maupun segi perkembangan model dekorasi ataupun design wardrobe yang ditawarkan. Itu semua sesuai dengan perkembangan dunia fashion yang berkembang sangat cepat. Di kota Bandung, kota Cimahi, kab. Bandung dan kab. Bandung Barat jumlahnya mencapai lebih dari 50 perusahaan (dari perusahaan yang baru didirikan, mulai berkembang maupun perusahaan yang telah lama menjadi penyedia jasa tersebut sejak awal tahun 2000-an). Dilihat dari persaingan tersebut maka suatu perusahaan penyedia jasa wedding perlu berlomba dalam menyediakan kualitas produk yang lebih baik dan memiliki karya yang lebih kreatif dari para pesaingnya serta menawarkan berbagai keunggulan, kemudahan dan perbedaan bagi para pengguna produknya. Dengan ilmu dan pengalaman yang dimiliki pemrakarsa bisnis ini, maka Nuvan Wedding siap untuk bersaing dengan menyediakan pilihan paket-paket wedding yang memiliki kualitas serta design yang dapat di unggulkan dari beberapa pesaing yang telah ada sebelumnya. Beberapa perbedaan yang dilakukan oleh Nuvan Wedding untuk merebut kualitas pelayanan, fitur produk yang ditawarkan yaitu pertama, service yang memuaskan, dalam hal ini konsumen melakukan pemilihan paket apa saja yang akan di gunakan dan disewa oleh konsumen (klien) pada saat acara pernikahannya (saat pra resepsi dan resepsi
+7
+
+pernikahannya). Pembayaran administrasi yang sangat simple dan praktis baik pembayaran dengan cara tunai maupun transfer.
+1.2.2 Posisi Perusahaan dalam Persaingan Posisi perusahaan berada pada kondisi pasar persaingan sempurna
+karena pada wilayah pemasaran bisnis ini juga banyak ditemui bisnis yang sejenis tetapi tidak menawarkan paket yang lengkap sehingga keunggulan dari paket yang di tawarkan Nuvan Wedding yaitu kelengkapan yang dimilikinya seperti dekorasi pelaminan beserta properti, dekorasi catering dan kelengkapannya, busana serta aksesoris wedding adalah milik sendiri (tidak menyewa) sehingga harga yang ditawarkan menjadi jauh lebih rendah dibandingkan dengan pesaing yang memiliki kelengkapan paket yang sama tetapi dengan harga tinggi. Hal tersebut menjadi keunggulan yang dapat dijadikan kekuatan Nuvan Wedding dalam menjalankan persaingan bisnis ini.
+1.2.3 Kemampuan Finansial Modal yang dialokasikan untuk kebutuhan bisnis ini diperoleh dari
+dana dan asset pribadi pemilik bisnis dan ditambah dengan pembiayaan yang diperoleh dari pengajuan kredit kepada bank konvensional. Untuk pengembangan usaha, Nuvan Wedding mengambil dana dari laba yang diperoleh pada periode sebelumnya sehingga produksi bisnis ini dapat sesuai dengan target penjualan yang telah di rencanakan sebelumnya.
+8
+
+BAB II ANALISIS ASPEK
+2.1 Analisis Aspek Pasar dan Pemasaran A. Gambaran Umum Pasar 1. Deskripsi Produk Produk yang akan dipasarkan adalah berupa : a. Barang = paket makanan dan minuman Deskripsi : makanan dan minuman tersebut disajikan dalam sebuah acara / pesta yang terdiri dari paket makananan dan minuman prasmanan (buffet) serta stand food stall/dessert. b. Jasa = paket jasa tata rias, penyewaan wardrobe dan aksesoris wedding, penyewaan dekorasi pelaminan dan dekorasi catering serta pelayanan jasa catering. Deskripsi : - Paket jasa tata rias : rias pengantin, rias wajah serta jasa penataan rambut dan kerudung. - Penyewaan wardrobe dan aksesoris wedding : penyewaan baju pengantin, baju orang tua dan keluarga pengantin, serta penyewaan kebaya modern. - Penyewaan dekorasi wedding dan catering : penyewaan 1 set pelaminan, 1 set dekorasi catering.
+9
+
+- Pelayanan jasa catering : memberikan jasa mulai dari menyediakan makanan, minuman, penjaga stand makanan dan kebersihan catering.
+2. Wilayah Pemasaran Wilayah pemasaran dari bisnis ini yaitu Kota Bandung, Kota
+Cimahi, Kabupaten Bandung, dan Kabupaten Bandung Barat.
+B. Permintaan 1. Jumlah Permintaan Terhadap Produk a. Target Konsumen: Untuk produk utama (wedding package) = Penduduk Bandung dan sekitarnya Pria dan Wanita berumur 20-29 tahun (usia produktif untuk menikah) b. Proyeksi Seluruh Target Konsumen Minimal 48 pasang klien pertahun. 2. Jumlah kebutuhan Jumlah kebutuhan per konsumen tidak bisa dihitung karena usaha ini bergerak di bidang jasa yang hanya dapat dipergunakan sekali dalam seumur hidup, dengan cara memuaskan klien dalam 1 momen tersebut. 3. Jumlah Permintaan Jumlah permintaannya didapat dari kuesioner dan diketahui bahwa dari 40 kuesioner yang diberikan 37 responden memilih untuk
+10
+
+menggunakan jasa wedding package. Maka bila dihitung dari seluruh
+
+masyarakat kota Bandung dan sekitarnya usia 20-29 tahun akan
+
+menggunakan wedding package adalah (37/40 x 100%) = 92.5%.
+
+Menurut data statistik di kota Bandung dan sekitarnya, kami
+
+mendapatkan data bahwa setiap tahunnya yang akan menikah di kota
+
+Bandung dan sekitarnya ada 1.524 - 1.816 pasang dan kami
+
+mengambil nilai tengahnya yaitu 1.668. Maka untuk jumlah
+
+permintaannya 1.668 x 0.925 = 1.543 permintaan pertahun.
+
+Tabel 2.1.1 Proyeksi Permintaan Untuk Perode 4 ­ 5 Tahun
+
+Periode
+1 2 3 4 5
+
+Proyeksi Permintaan (dalam orang)
+339 (22% x 1.543) 386 (25% x 1.543) 417 (27% x 1.543) 447 (29% x 1.543) 463 (30% x 1.543)
+
+C. Penawaran Adapun daftar produk sejenis yang ditawarkan oleh pesaing adalah
+sebagai berikut :
+
+Tabel 2.1.2 Kapasitas Produksi Pesaing
+
+Nama Perusahaan Maria pinot Nuning wedding Wida wedding Megarashy organizer Deris wedding Total Penawaran
+
+Kapasitas produksi (kali) pertahun 248 232 56 140 180 856
+
+11
+
+Tabel 2.1.3 Proyeksi Penawaran Pesaing Untuk 4 ­ 5 Perode Mendatang
+
+Periode 1 2 3 4 5
+
+Proyeksi Penawaran (kali) 188 (22% x 856) 214 (25% x 856) 231 (27% x 856) 248 (29% x 856) 257 (30% x 856)
+
+Tabel 2.1.4 Rencana Penjualan dan Pangsa Pasar
+
+Periode
+1 2 3 4 5
+
+Permintaan
+339 386 417 447 463
+
+Penawaran
+188 214 231 248 257
+
+Peluang Pasar 151 172 186 199 206
+
+Rencana Penjualan
+48 50 52 54 56
+
+Pangsa Pasar 14.16 % 12.95 % 11.99 % 12.08 % 12.09 %
+
+D. Pesaing
+
+-Maria Pinot-
+
+1. Produk
+
+Baju : Mengusung tema modern budaya nusantara. Memakai kain
+
+tradisional khas nusantara yang di kemas secara modern (contoh :
+
+kain songket, ulos dan berbagai macam kain tenun khas dari
+
+berbagai daerah di Indonesia). Menggunakan kebaya dengan
+
+kualitas payet jepang no. 1.
+
+Rias : Make up dan riasan pengantin khas budaya nusantara.
+
+Penggunaan make up yang dominan natural/soft make up. Riasan
+
+bagian kepala khas dengan aksesoris budaya nusantara serta
+
+penggunaan warna kebaya yang dominan berwarna gold.
+
+12
+
+Gambar 2.1.1
+Gambar 2.1.2
+2. Harga Metode Penetapan Harga Penetapan harga sesuai harga yang berlaku (Going rate
+pricing) Contoh paket yang tersedia di Maria Pinot Wedding Package IDR 8.500.000  Make up akad 13
+
+ Kebaya & Beskap Akad(ready stock)  Freash Flower (Melati)  Bonus
+- Make up Ibu (CPW) - Kebaya Ibu (CPW) - Beskap Bapak (CPW) - Kerudung Akad  Foto & Video Wedding - Box exclusive 1 album - 1 Album magazine 8r - Video liputan wedding - Pembesaran 16r - CD file foto & liputan wedding  BONUS Foto Prewedding - 2 Foto prewedding 16r + frame - 1 Foto prewedding 8r + frame - 3 Foto prewedding 4r + frame
+Package IDR 11.500.000  Make up Hair Do ,,Hijab (CPW)  Kebaya & Beskap akad (ready stock)  Fresh flower (Melati)  Make up ibu dan ibu besan (tanpa kebaya)
+14
+
+ Beskap Bp & Bp besan  Baju pagar Ayu & Bagus (4 potong + make up)  Bonus - Hand Bouquet  Foto & Video Wedding
+Box exclusive 1 album - 1 Album magazine 8r - Video liputan wedding - Pembesaran 16 r - CD file foto & liputan wedding BONUS Foto Prewedding - 2 foto prewedding 16r + frame - 1 foto prewedding 8r + frame - 3 foto prewedding 4r + frame
+PACKAGE IDR 15.500.000  Make up hair do ,,hijab (CPW)  Kebaya & Beskap akad (ready stock)  Freash flower (melati)  Make up ibu & ibu besan  Kebaya ibu & ibu besan  Beskap Bp & Bp besan  Baju pagar ayu & bagus (4 potong+make up)  Bonus
+15
+
+- Perawatan 1x - Facial, lulur massage - Body scrub/make up - Prewedding  Foto & VideoWedding - Box exclusive 2 album - 2 Album magazine 8r - Video liputan wedding - Pembesaran 16r - CD file foto & liputan wedding  Bonus Foto Prewedding - 2 foto prewedding 16r + frame - 1 foto prewedding 8r + frame - 3 foto prewedding 4r + frame
+PACKAGE IDR 36.500.000  Make up hair do hijab (CPW)  Kebaya & Beskap akad (ready stock)  Freash Flower (Melati)  Make up ibu & ibu besan  Kebaya ibu & ibu besan  Beskap Bp & Bp besan  Baju pagar ayu & bagus (4 potong +make up)
+16
+
+ upacara adat lengkap - Siraman - Mapag penganten (Rampak kendang) - Huap lingkung - Sawer
+ MC  Make Up + Baju Prawedding  BonusHand Bouqet/Baki Hantaran  Foto & VideoWedding
+Costum Box exclusive 3 album - 2 album magazine 8r - Video liputan wedding - Pembesaraan 16r - CD file foto & liputan wedding  Siram - Foto dan Video siraman  BonusFoto Prewedding - 1 Album foto prewedding - 2 foto prewedding 16r + frame - 1 foto prewedding 8r + frame - 3 foto prewedding 4r + frame
+17
+
+3. Saluran Distribusi Saluran Distribusi yang digunakan Level 0. Karena produsen
+menyaluran jasa langsung kepada konsumen (klien). Promosi yang Digunakan Melalui media social (facebook, twitter, instagram), pamphlet, neon box, baliho
+Gambar 2.1.3
+4. People Ramah dan disiplin.
+5. Phisycal Evidence Ruangan tempat terjadinya transaksi dengan klien terdapat banyak display baju pengantin.
+6. Process - Klien datang ke tempat Maria Pinot - Klien bertemu owner, - Klien melihat-lihat display wadrobe pengantin - Terjadi tawar menawar harga, - Terjadi transaksi antara kedua belah pihak-permintaan diproses
+18
+
+-DERIS1. Produk
+Baju : Mengusung tema kebaya modern. Memakai kain brokat bercorak modern dan berkualitas baik. Menggunakan kebaya dengan kualitas payet jepang no. 1. Rias : Make up dan riasan pengantin khas budaya sunda dan jawa.
+Gambar 2.1.4
+2. Harga Metode Penetapan Harga Penetapan harga sesuai harga yang berlaku (Going rate pricing) Contoh paket yang tersedia di DERIS Wedding : PAKET RIAS PENGANTIN
+19
+
+A. Paket Rias Pengantin Rp. 10.000.000,1. Rias & Busana Rias & Busana Pengantin 3 stel (Ready Stock) Rias & Busana Orang Tua Rias & Busana Pager Ayu & Bagus (5 Pasang) Dekorasi Pelaminan Minimalis / Semi Gebyog Dekorasi Kamar Pengantin & Ruangan Bunga Tangan 2. Upacara Adat Sawer, Nincak endog, meupeuskeun kendi Huap Lingkung, Pabedol Hayam Bakakak 3. MC Akad dan Resepsi
+B. Paket Rias Pengantin Rp. 11.000.000,1. Rias & Busana Rias & Busana Pengantin 3 stel (Ready Stock) Rias & Busana Orang Tua Rias & Busana Pager Ayu & Bagus (5 Pasang) Dekorasi Pelaminan Minimalis / Semi Gebyog Dekorasi Kamar Pengantin & Ruangan Bunga Tangan 2. Upacara Adat Sawer, Nincak endog, meupeuskeun kendi
+20
+
+Huap Lingkung, Pabedol Hayam Bakakak 3. MC Akad dan Resepsi 4. Digital Photografy & Videografy
+Photo Kel & Acara (1 Album Hard Cover) DVD / Video Shooting (Durasi 2 Jam)
+C. Paket Rias Pengantin Rp. 12.500.000,1. Rias & Busana Rias & Busana Pengantin 3 stel (Ready Stock) Rias & Busana Orang Tua Rias & Busana Pager Ayu & Bagus (5 Pasang) Dekorasi Pelaminan Minimalis / Semi Gebyog Dekorasi Kamar Pengantin & Ruangan Bunga Tangan 2. Upacara Adat Sawer, Nincak endog, meupeuskeun kendi Huap Lingkung, Pabedol Hayam Bakakak 3. MC Akad dan Resepsi 4. Siraman Saung Siraman, Melati Siraman, Bokor Siraman MC Siraman Kecapi Suling, Kawih (Live) 5. Digital Photografy & Videografy Photo Liputan Acara (1 Album Hard Cover)
+21
+
+Photo Kel & Pose (1 Album Hard Cover) DVD / Video Shooting (Durasi 2 Jam)
+D. Paket Rias Pengantin Rp. 20.000.000,1. Rias & Busana Rias & Busana Pengantin 3 stel (Ready Stock) Rias & Busana Orang Tua Rias & Busana Pager Ayu & Bagus (5 Pasang) Dekorasi Pelaminan Minimalis / Semi Gebyog Dekorasi Kamar Pengantin & Ruangan Bunga Tangan 2. Upacara Adat Sawer, Nincak endog, meupeuskeun kendi Huap Lingkung, Pabedol Hayam Bakakak 3. MC Akad dan Resepsi 4. Siraman Saung Siraman, Melati Siraman, Bokor Siraman MC Siraman Kecapi Suling, Kawih (Live) 5. Kesenian Upacara Adat Lengser, Tari Budaya / Marawis Organ Tunggal, Kendang, Penyanyi (Pop Indonesia, Sunda, Jawa dll) Sound System
+22
+
+6. Digital Photografy & Videografy Photo Liputan Acara (1 Album Hard Cover) Photo Kel & Pose (1 Album Hard Cover) Pembesaran 1 bh uk 16 RP - Frame DVD / Video Shooting (Durasi 2 Jam)
+7. Prewedding Make up & Busana Prewedding 1 Pasang Photo 1(satu) album kolase Hard Cover Pembesaran 2 bh uk 40 x 60 cm + Frame
+
+PAKET CATERING
+
+A. Paket Catering Rp. 29.500,-
+
+Menu Prasmanan
+
+1. Nasi Putih
+
+2. Kakap Asam Manis / Pepes Ikan Mas
+
+3. Ayam Kodok/ Rolade/ Sambel Goreng Ati
+
+4. Capcay/ Tahu/ Kimlo
+
+5. Soto/ Sop Mutiara
+
+6. Krupuk
+
+7. Air Cup
+
+Menu Stall :
+
+Desert : (1/3 dari Pesanan)
+
+1. Sate Lontong
+
+3. Buah Potong
+
+2. Baso Tahu
+
+4. Ice Cream
+
+23
+
+B. Paket Catering Rp. 34.000,-
+
+Menu Prasmanan
+
+1. Nasi Putih
+
+2. Beef Steak / Terayaki
+
+3. Kakap Asam Manis
+
+4. Tahu Brokoli / Kimlo
+
+5. Sop Mutiara/ Soto
+
+6. Krupuk
+
+7. Air Cup
+
+Menu Stall :
+
+Desert : (1/3 dari Pesanan)
+
+3. Sate Lontong
+
+3. Buah Potong
+
+4. Baso Tahu
+
+4. Ice Cream
+
+C. Paket Catering Rp. 39.500,-
+
+Menu Prasmanan
+
+1. Nasi Putih
+
+6. Sop Mutiara/ Soto
+
+2. Nasi Goreng
+
+7. Krupuk
+
+3. Beef Steak / Terayaki 8. Air Cup
+
+4. Kakap Asam Manis
+
+5. Tahu Brokoli / Kimlo
+
+Menu Stall :
+
+Desert : (1/3 dari Pesanan)
+
+1. Sate Lontong
+
+5. Buah Potong
+
+2. Baso Tahu
+
+6. Ice Cream
+
+24
+
+3. Kebab 4. Zupa Zupa Soup
+
+7. Puding *Es, Initial Catering
+
+D. Paket Catering Rp. 39.500,-
+
+Menu Prasmanan
+
+1. Nasi Putih
+
+6. Ca Ayam Paprika
+
+2. Nasi Goreng
+
+7. Soup Mutiara/ Soto
+
+3. Beef Steak / Terayaki 8. Krupuk
+
+4. Kakap Asam Manis 9. Air Cup
+
+5. Tahu Brokoli / Kimlo
+
+Menu Stall :
+
+Desert : (1/3 dari Pesanan)
+
+1. Sate Lontong
+
+5. Mie Kocok
+
+2. Baso Tahu
+
+6. Buah Potong
+
+3. Kebab
+
+7. Ice Cream
+
+4. Zupa Zupa Soup
+
+8. Puding
+
+*Es, Dekorasi Catering
+
+E. Paket Catering Rp. 49.500,-
+
+Menu Prasmanan
+
+1. Nasi Putih
+
+6. Ca Ayam Paprika
+
+2. Nasi Goreng
+
+7. Soup Mutiara/ Soto
+
+3. Beef Steak / Terayaki 8. Krupuk
+
+25
+
+4. Kakap Asam Manis 9. Air Cup
+
+5. Tahu Brokoli / Kimlo
+
+Menu Stall :
+
+Desert : (1/3 dari Pesanan)
+
+1. Sate Lontong
+
+7. Empal Gentong
+
+2. Baso Tahu
+
+8. Buah Potong
+
+3. Kebab
+
+9. Ice Cream
+
+4. Zupa Zupa Soup
+
+10. Puding
+
+5. Mie Kocok
+
+11. Fruit Fun
+
+6. Roast Beef
+
+*Es, Initial Dekorasi Catering
+
+3. Saluran Distribusi
+
+Saluran Distribusi yang digunakan Level 0. Karena produsen
+
+menyaluran jasa langsung kepada konsumen (klien).
+
+Promosi yang Digunakan
+
+Melalui media social (facebook, twitter, instagram), pamfet, neon
+
+box, baliho.
+
+4. People
+
+Ramah dan disiplin.
+
+5. Phisycal Evidence
+
+Ruangan tempat terjadinya transaksi dengan klien terdapat banyak
+
+display baju dan aksesoris pengantin dan dekorasi pelaminan.
+
+6. Process
+
+- Klien datang ke tempat usaha DERIS Wedding
+
+- Klien bertemu owner,
+
+26
+
+- Klien melihat-lihat display wadrobe pengantin, - Terjadi tawar menawar harga, - Terjadi transaksi antara kedua belah pihak, - Permintaan di proses
+E. Strategi Pemasaran Nuvan Wedding Package 1. Produk a. WADROBE Modern, colorful, up to date, mengikuti selera klien, menggunakan kebaya dengan kualitas payet jepang. Jika mengambil paket minimal Rp. 60.000.000,- klien akan mendapatkan fasilitas baju baru (bisa mengajukan desain baju sendiri). Dan apabila > Rp. 60.000.000,- klien bisa memilih baju ready stock yang ada pada display. Baju yang ditawarkan mempunyai ciri khas dengan banyak menggunakan slayer. b. PELAMINAN  Berbagai Macam Desain 1. Yang terbuat dari Form 2. Minimalis Berupa box-box pelaminan 3. Genyok Jawa 4. Pelaminan dengan ukuran Jepara  Konsep pelaminan tergantung permintaan klien
+27
+
+ Menggunakan bunga campuran (asli dan palsu), 98% bunga asli
+ Jenis kursi pelaminan minimalis dan ukiran Jepara.
+
+c. CATERING
+
+ Kualitas : Sekelas makanan hotel, bersih dan halal.
+
+Melibatkan chef dari salah satu hotel berbintang di
+
+Bandung dengan crew catering sebanyak 30 orang yang
+
+terdiri dari :
+
+- Dekor
+
+: 5 orang - Penjaga Stand: 12 orang
+
+- Chef Utama : 1 orang - OB
+
+: 5 orang
+
+- Asisten Chef : 5 orang - Supir
+
+: 2 orang
+
+ Kebersihan : Mengutamakan kebersihan dan kedisiplinan.
+
+ Menu Makanan dan Minuman : Sunda, Nasional, Western.
+
+ Menu Andalan :
+
+Buffet : Beef Teriyaki, Ayam Kodok dan Tofu
+
+Stand : Mie Kocok, Baso Tahu
+
+d. MAKE UP Standar make up Pengantin condong kepada konsep make up artist.
+
+28
+
+2. Harga Metode Penetapan Harga : Penetapan harga sesuai harga yang berlaku (Going rate pricing) Nuvan Wedding mendasarkan harganya terutama melihat dari harga pesaing, akan tetapi perusahaan Nuvan Wedding Package ini mengenakan harga yang relatif terjangkau oleh semua kalangan dengan menyajikan paket komplit dan pelayanan yang memuaskan klien. Contoh paket yang di tawarkan oleh Nuvan Wedding Package : PAKET RIAS PENGANTIN A. Paket Rias Pengantin Rp. 50.000.000, Rias & Busana - Rias & Busana Pengantin 3 stel (Ready Stock) - Rias & Busana Orang Tua - Rias & Busana Pager Ayu & Bagus (4 Pasang) - Dekorasi Pelaminan - Dekorasi Kamar Pengantin  Upacara Adat Sawer, Nincak Endog, Meupeuskeun Kendi, Huap Lingkung, Pabedol Hayam Bakakak.  MC Akad dan Resepsi  Digital Photography + DVD  Elektone/Pop Sunda
+29
+
+Catering untuk 800 Porsi
+
+MENU PRASMANAN MENU STAND: (1/3 dari pesanan)
+
+1. Nasi Putih
+
+1. Aneka Puding
+
+2. Beef Steak/Beef Teriyaki
+
+2. Baso Tahu
+
+3. Soto/Soup
+
+3. Ice Cream/Cendol
+
+4. Kakap Asam Manis
+
+4. Buah Potong
+
+5. Tahu Brokoli/Cah Jamur
+
+5. Sate Lontong/Mie Kocok
+
+6. Krupuk + Air Mineral
+
+*Dekorasi Catering
+
+B. Paket Rias Pengantin Rp. 60.000.000, Rias & Busana - Rias & Busana Pengantin 3 stel (Ready Stock) - Rias & Busana Orang Tua - Rias & Busana Pager Ayu & Bagus (5 Pasang) - Dekorasi Pelaminan Minimalis / Semi Gebyog - Dekorasi Kamar Pengantin & Ruangan - Bunga Tangan
+ Upacara Adat Sawer, Nincak endog, Meupeuskeun Kendi, Huap Lingkung, Pabedol Hayam Bakakak
+ MC Akad dan Resepsi  Siraman
+
+30
+
+Saung Siraman, Melati Siraman, Bokor Siraman, MC
+
+Siraman Kecapi Suling, Kawih (Live)
+
+ Digital Photography & Videography
+
+- Photo Liputan Acara (1 Album Hard Cover)
+
+- Photo Kel & Pose (1 Album Hard Cover)
+
+- DVD / Video Shooting (Durasi 2 Jam)
+
+ Kesenian : - Upacara Adat Lengser
+
+- Orgen Tunggal
+
+Catering untuk 1000 Porsi
+
+MENU PRASMANAN MENU STAND: (1/3 dari pesanan)
+
+1. Nasi Putih
+
+1. Aneka Puding
+
+2. Beef Steak/Beef Teriyaki
+
+2. Baso Tahu
+
+3. Soto/Soup
+
+3. Ice Cream/Cendol
+
+4. Kakap Asam Manis/Ayam Kodok
+
+4. Buah Potong
+
+5. Tahu Brokoli/Cah Jamur/Kimlo
+
+5. Chicken
+
+Cordonblue
+
+6. Krupuk
+
+6. Mie Kocok
+
+7. Air Mineral
+
+7. Zupa-Zupa Soup
+
+*Dekorasi Catering
+
+*Ice Inisial
+
+C. Paket Rias Pengantin Rp. 67.500.000, Rias & Busana - Rias & Busana Pengantin 3 stel (Ready Stock)
+
+31
+
+- Rias & Busana Orang Tua - Rias & Busana Pager Ayu & Bagus (6 Pasang) - Rias & Busana Adik+Kakak (4 orang) - Dekorasi Pelaminan Minimalis / Semi Gebyog - Dekorasi Kamar Pengantin & Ruangan - Bunga Tangan  Upacara Adat Sawer, Nincak endog, meupeuskeun kendi, Huap Lingkung, Pabedol Hayam Bakakak  MC Akad dan Resepsi  Siraman Saung Siraman, Melati Siraman, Bokor Siraman, MC Siraman Kecapi Suling, Kawih (Live)  Kesenian - Upacara Adat Lengser, Tari Budaya / Marawis - Organ Tunggal, Kendang, Penyanyi
+(Pop Indonesia, Sunda, Jawa dll) - Sound System  Digital Photography & Videography - Photo Liputan Acara (1 Album Hard Cover) - Photo Kel & Pose (1 Album Hard Cover) - Pembesaran 1 bh uk 16 RP - Frame - DVD / Video Shooting (Durasi 2 Jam)
+32
+
+ Prewedding
+
+- Make up & Busana Prewedding 1 Pasang (Indoor)
+
+- Photo 1(satu) album kolase Hard Cover
+
+- Pembesaran 2 bh uk 40 x 60 cm + Frame
+
+Catering 1000 Porsi
+
+MENU PRASMANAN MENU STAND: (1/3 dari pesanan)
+
+1. Nasi Putih
+
+1. Aneka Puding
+
+2. Nasi Goreng
+
+2. Buah Potong
+
+3. Kakap Asam Manis/Ayam Kodok
+
+3. Sate Lontong /
+
+Chicken Cordonblue
+
+4. Beef Steak/Beef Teriyaki
+
+4. Mie Kocok /
+
+Sosis Kentang
+
+5. Cap Cay/Tahu Brokoli/Kimlo
+
+5. Zupa-Zupa Soup /
+
+Kebab
+
+6. Salad Buah
+
+6. Ice Cream/Cendol
+
+7. Kerupuk
+
+7. Baso Tahu
+
+8. Air Mineral
+
+8. Fruit Punch
+
+*Sarapan Coffee Break / Lontong Kari -- 100 Porsi
+
+*Janur + Dekorasi Catering
+
+*Ice Inisial/Nama
+
+D. Paket Rias Pengantin Rp. 72.000.000, Rias & Busana - Rias & Busana Pengantin 3 stel (Ready Stock)
+
+33
+
+- Rias & Busana Orang Tua - Rias & Busana Pager Ayu & Bagus (6 Pasang) - Rias & Busana keluarga (4 Pasang) - Dekorasi Pelaminan Minimalis / Semi Gebyog - Dekorasi Kamar Pengantin & Ruangan - Bunga Tangan  Upacara Adat Sawer, Nincak endog, meupeuskeun kendi Huap Lingkung, Pabedol Hayam Bakakak  MC Akad dan Resepsi  Siraman Saung Siraman, Melati Siraman, Bokor Siraman, MC Siraman Kecapi Suling, Kawih (Live)  Kesenian - Upacara Adat Lengser, Tari Budaya / Marawis - Organ Tunggal, Kendang, Penyanyi - (Pop Indonesia, Sunda, Jawa dll) - Sound System  Digital Photografy & Videografy - Photo Liputan Acara (1 Album Hard Cover) - Photo Kel & Pose (1 Album Hard Cover) - Pembesaran 2 bh uk 40 X 60 - Frame - DVD / Video Shooting (Durasi 2 Jam)
+34
+
+ Prewedding
+
+- Make up & Busana Prewedding 1 Pasang
+
+Indoor / Outdoor
+
+- Photo 1(satu) album kolase Hard Cover
+
+- Pembesaran 2 bh uk 40 x 60 cm + Frame
+
+Catering 1000 Porsi
+
+MENU PRASMANAN MENU STAND: (1/3 dari pesanan)
+
+1. Nasi Putih
+
+1. Aneka Puding
+
+2. Nasi Goreng
+
+2. Buah Potong
+
+3. Kakap Asam Manis/Ayam Kodok
+
+3. Sate Lontong
+
+4. Beef Steak/Beef Teriyaki
+
+4. Mie Kocok
+
+5. Ca. Ayam Paprika
+
+5. Zupa-Zupa Soup
+
+6. Kimlo/Tahu Brokoli
+
+6. Ice Cream / Cendol
+
+7. Soup/Soto
+
+7. Baso Tahu /
+
+TomYam
+
+8. Kerupuk
+
+8. Kebab
+
+9. Air Mineral
+
+9. Fruit Punch
+
+10. Chicken
+
+Condonblue
+
+*Janur + Dekorasi Catering
+
+*Ice Inisial/Nama
+
+*Sarapan Pagi -- 150 Porsi
+
+*Lontong Kari, Coffee Break
+
+35
+
+Ketentuan Pesanan :  Pesanan Disertai Uang Muka Min 10%  Pembayaran harus sudah Lunas 2 Minggu sebelum acara  Pesanana di bawah 1000 Porsi dikenakan Biaya untuk
+Dekorasi  Jika ada pembatalan dari pihak pemesan maka Uang Muka
+tidak dapat dikembalikan 3. Saluran Distribusi
+Saluran Distribusi yang digunakan Level 0. Karena langsung kepada konsumen. 4. Promosi Yang Digunakan
+Karena peluang usaha sebagai wedding package organizer sangatlah besar, namun persaingan sesama wedding organizer pun semakin banyak pula. Menjadi wedding package pilihan haruslah wedding package yang kreatif yang mempunyai ciri khas yang unik dalam hal promosi dan pelayanan jasa.  Words of Mouth. dimana budaya Indonesia cenderung
+mempercayai orang yang sudah mereka kenal, mengalami dan menggunakan suatu produk secara langsung. Anggaran : Gratis  Sosial Media diantaranya : Instagram, Twitter, Facebook dan Blogger.
+36
+
+Anggaran: Gratis (hanya bermodalkan pulsa internet Rp 100.000/ Bulan).  Brosur selalu tersedia dan disebar dalam setiap pameran pernikahan maupun dalam acara yang di kelola oleh Nuvan Wedding. Anggaran : 1000 brosur x Rp. 3000 = Rp. 3.000.000, Baligho : Untuk dipasang di tempat usaha Anggaran : 1 baligho seharga Rp. 300.000, Berpromosi dengan menempelkan iklan pada mobil yang digunakan untuk operasional bisnis yang berisi nama bisnis, keterangan produk yang ditawarkan dan alamat kantor serta nomor telepon yang dapat dihubungi. 5. People
+Baik menajemen maupun karyawan yang mengelola dan menjalankan bisnis ini haruslah orang yang memiliki Responsiveness (daya tanggap) yang baik. Dimana Responsivesess (daya tanggap) dari orang-orang yang terlibat dalam bisnis Nuvan Wedding mampu untuk membantu para klien dalam merespon permintaan mereka, serta menginformasikan kapan jasa akan diberikan dan memberikan jasa tersebut secara tepat. Para karyawan selalu bersikap sopan, disiplin, dan menguasai pengetahuan serta keterampilan yang dibutuhkan untuk menangani setiap pertanyaan atau masalah pelanggan.
+37
+
+6. Phisycal Evedence Tempat usaha berupa rumah berlantai 2 yang dipakai dalam
+operasional adalah lantai 1 dipakai untuk Opersional berupa ruangan tempat penerimaan klien dan terjadinya transaksi dengan klien, display produk dan penyimpanan perlengkapan bisnis.
+Display produk berupa pemasangan mannequin pada area depan ruangan, penempatan meja rias, lemari-lemari penyimpanan wardrobe dan aksesoris wedding, fitting room, sofa penerimaan klien, galeri foto pengantin dan gudang penyimpanan seluruh peralatan kebutuhan wedding dan catering.
+38
+
+7. Proses
+
+Gambar 2.1.5 Alur Kerja Nuvan Wedding
+
+Bagian Pemasaran Melakukan promosi
+Tidak ada permintaan dari klien (Hanya melihat-lihat dan bertanya saja
+
+Calon klien tertarik dan datang ke tempat usaha
+Bertemu dengan owner
+Melihat-lihat produk dengan media : display, brosur, &albumfoto
+
+Jika terjadi permintaan - Masuk ke keuangan dan Adm (terjadi tawar
+menawar harga)
+
+Permintaan di proses
+
+Owner tetap menjalankan hubungan
+baik dengan klien
+
+Bagian SDM dan Operasional menghubungi pihak-pihak yang terkait selama proses pra acara + hari H
+
+Klien menyelesaikan Adm dengan owner dan bagian
+keuangan & Adm
+
+39
+
+2.2 Aspek Teknis dan Produksi A. Produk 1. Ciri ciri produk (jasa) - Kebaya : kebaya yang disediakan bervariasi, tetapi lebih menuju ke trend yang simple modern tradisional, up to date dan dapat dipesan sesuai permintaan. - Pelaminan : pelaminan yang ditawarkan adalah standar bunga yang banyak serta 100% bunga asli dan bervariasi, bahan yang dipakai berkualitas, tata letak dekorasi rapih dan pas, menonjolkan sisi ukiran kayu asli Indonesia, lighting yang menarik dengan design tampilan lampu disesuaikan dengan permintaan. Dekorasi yang beraneka ragam seperti dekorasi pelaminan, dekorasi siraman dan dekorasi gedung disajikan baik dalam design yang modern maupun tradisional nusantara. - Catering : makanan yang disediakan bersih dan segar, pas atau lebih tidak dikurang-kurang kan, apabila terjadi kelebihan akan dibagikan kepada konsumen maupun pegawai. Peralatan makan, peralatan makan dari bahan perak atau stainless steel yang biasa digunakan untuk alat penyantap hidangan (sendok, garpu), lodor, tempat kopi dan kue ataupun penyajian makanan stand catering lainnya. Juga peralatan operasional berupa barang pecah belah yang dibuat keramik seperti piring hidangan pokok maupun hidangan catering lainnya. Serta peralatan operasional yang terbuat
+40
+
+dari bahan gelas kebanyakan peralatan yang digunakan dalam penyajian minuman seperti gelas bertangkai maupun tidak bertangkai, sehingga makanan dan minuman yang akan dihidangkan akan terasa indah dan mewah. - Tata rias : simple, modern dan rapih serta di utamakan rias pengantin yang bisa menonjolkan kelebihan dari kedua mempelai dan meminimalisir kekurangan kedua mempelai karena penata rias yang telah berpengalaman. - Cepat tanggap (responsiveness), disiplin, ramah, rapih dan wangi.
+2. Kegunaan utama produk (jasa) - Kebaya : digunakan dalam pernikahan sebagai baju adat dan baju untuk keluarga pengantin. Dipilih dengan menggunakan bahan yang berkualitas baik. a. Bahan : brokat, organdi, satin, belini, tapeta, taisil. b. Warna : gold, merah marun, putih, kuning, abu abu, dan peach. c. Ukuran : all size, S, M, L, XL, XXL d. Design : tradisional, modern, tradisional modern. e. Pelengkap : sinjang batik garutan, batik solo, kain prada dan kain sidomukti. f. Tambahan : manik manik jepang, hiasan batu manik manik, bahan kain tile, renda, sendal pengantin, sendal pager bagus, benang, jarum jahit dan payet.
+41
+
+- Pelaminan : digunakan dalam acara pernikahan sebagai dekorasi dalam pesta dan dipilih dengan bahan yang berkualitas baik. a. Bahan : kayu jati, albasia, triplek, dan form (tebal 3cm). b. Design : minimalis, gebyok jawa, ukiran jepara, elegan klasik, dengan cat plitur, cat kayu, dan cat semprot. c. Pelengkap : guci, tralis besi, lampu hias, bahan kaos sejenis satin, money box. d. Tambahan : payung pengantin, bokor siraman, gentong siraman, bokor sawer.
+- Catering : a. Bahan pokok : roll top, meja, taplak, screening meja, kayu alba untuk papan nama stand, alat makan (piring-sendok-garpu), spatula, centong nasi dan sayur, piring-mangkok-sedok-garpu kecil, pisau, wajan besar-sedang-kecil, panci besar-sedangkecil, mangkok stainless, toples besar, ember besar, baskom besar, box piring, galon dan tabung gas. Tambahan : plastik penutup meja
+- Tata rias : alat make up pengantin
+42
+
+B. Proses Produksi dan Operasi
+
+Owner dan bagian keuangan membuat anggaran untuk produksi
+
+adanya produksi barang untuk usaha
+
+bagian pemasaran melakukan
+
+promosi
+
+ada konsumen yang tertarik
+
+konsumenmenghubungi
+
+contact person Nuvan Wedding, bertanya melalui telp atau datang
+
+langsung ke tempat usaha
+
+bagian SDM dan Umum melayani
+
+konsumen
+
+apabila berniat untuk membeli, konsumen langsung
+
+diserahkan ke Owner Owner memberikan arahan dan mempersilakan
+
+melihat-lihat melalui katalog, album foto dan contoh display yang sudah
+
+ada
+
+apabila deal, maka konsumen selanjutnya berhubungan dengan
+
+bagian keuangan
+
+adanya negosiasi harga dan cara pembayaran yang
+
+disetujui
+
+bagian Keuangan dan Owner membuat anggaran untuk
+
+produksicatering dan kebaya atau rias bagian Keuangan memberikan
+
+dana kepada bagian SDM dan Umum
+
+Owner dan bagian SDM dan
+
+Umum membelanjakan bahan baku serta mempersiapkan perlengkapan
+
+yang dibutuhkan
+
+perekrutan pegawai untuk catering, pemesanan
+
+SDM untuk catering, tata rias dan dekorasi
+
+persiapan hari H
+
+Staff Nuvan Wedding berkomunikasi dengan konsumen pemasangan
+
+properti pelaminan, persiapan catering, tata rias, wadrobe wedding, dll
+
+hari H diupayakan untuk bekerja maksimal, tepat waktu setelah acara
+
+selesai diupayakan kebersihan selalu terjaga, dan barang-barang setelah
+
+pernikahan tidak ada yang terlewatkan (selalu melakukan pengecekan)
+
+setelah acara selesai komunikasi harus tetap terjaga dengan konsumen.
+
+43
+
+C. Kapasitas Produksi dan Operasional
+
+Kapasitas produksi Nuvan Wedding dapat diperkirakan per 1 tahun
+
+adalah sebanyak 48 kali produksi. Adapun rencana produksi Nuvan
+
+Wedding dalam 5 tahun yang akan datang adalah sebagai berikut :
+
+Periode 1 2 3 4 5
+
+Tabel 2.2.1 Rencana Produksi
+Untuk 5 Tahun
+Rencana Produksi (kali) 2 4 6 8 12
+
+D. Tanah dan Bangunan Tanah dan bangunan ini sudah dimiliki dengan memanfaatkan
+ruangan bagian depan lantai 1 rumah pemilik yang beralamat di Jl. Cipedes Tengah No. 5A RT 02 Rw 05 Kel. Sukagalih Kec. Sukajadi Kota Bandung 40163, dengan LT 112m² dan LB 72m².
+Diperkirakan asset yang telah dimiliki berupa tanah seluas 52 m² Dengan harga Rp 1.000.000.000,- dan bangunan seluas 35m² dengan harga Rp 20.000.000,E. Utulitas Sarana
+Tabel 2.2.2 Utilitas Sarana
+
+Biaya Utilitas
+Biaya Instalasi Listrik Biaya Instalasi Telepon
+
+Total Biaya Sewa
+Rp 250.000/bulan Rp 200.000/bulan
+
+44
+
+F. Mesin dan Peralatan
+Tabel 2.2.3 Mesin dan Peralatan
+
+Nama Mesin / Peralatan
+
+Merk
+
+Kompor gas Oven Besar Mesin Pendingin Lemari Pendingin Alat Kukus Pembakaran Sate Blender Mixer Dispenser Mesin Cuci CCTV
+
+Quantum Bima Polytron LG Maspion
+Philips Philips Maspion LG Kana - D55A
+
+Jumlah
+10 2 3 1 5 2 2 1 1 1 2
+
+Harga (Rp)
+300.000 2.000.000 5.000.000 3.000.000
+400.000 50.000 500.000 300.000 200.000 3.000.000 500.000
+
+Total (Rp)
+3.000.000 4.000.000 15.000.000 3.000.000 2.000.000
+100.000 1.000.000
+300.000 200.000 3.000.000 1.000.000
+
+G. Kendaraan
+
+Tabel 2.2.4 Kendaraan
+
+Jenis Kendaraan Merek Jumlah Harga (Rp)
+
+Total (Rp)
+
+L 300
+
+3 Berlian 1 90.000.000
+
+90.000.000
+
+Sewa Truk/periode
+
+1 1.500.000/acara 1.500.000/acara
+
+H. Bahan Baku dan Bahan Pembantu
+
+Berikut ini merupakan rencana berbagai peralatan yang diperlukan
+
+sesuai rencana produksi dalam tahun 1 tahun pertama :
+
+Tabel 2.2.5 Rencana Bahan Baku Produksi
+
+Nama Peralatan Baju Pengantin (L + P) Baju Orang Tua Pengantin (L + P) Baju Pager Ayu + Pager Bagus Roll Top
+
+Jumlah 12 8 48 6
+
+Satuan Pcs Pcs Pcs Pcs
+
+45
+
+Meja Catering Taplak dan Screening meja catering Papan nama makanan dan minuman Peralatan makan (piring,sendok,garpu) Piring, Mangkok, Sendok, Garpu Kecil Mangkok Stainless Centong nasi dan sayur Spatula Pisau Wajan Besar, Sedang, Kecil Panci Besar, Sedang, Kecil Toples besar Ember Besar Box Piring Baskom Besar Galon Tabung Gas Pelaminan Pengantin Karpet Jalan
+
+20 50 10 @ 500 @ 300 12 10 10 10 10 10 4 10 20 4 6 10 @ 2 3
+
+Pcs Lembar
+Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pcs Pasang Pcs
+
+1. Pembelianbahan baku, peralatan, dan kendaraan dibeli secara tunai
+
+dan kredit dengan modal yang berasal dari modal sendiri dan modal
+
+pinjaman kepada bank dengan proporsi dana 70 : 30.
+
+2. Bahan baku selalu tersedia dan mudah di dapatkan dari supplier.
+
+46
+
+I. Tenaga Kerja Langsung
+Tabel 2.2.6 Tenaga Kerja Langsung
+
+No.
+
+Jenis Kegiatan
+
+1. Asisten Rias
+
+2. Pramusaji
+
+3. Sopir
+
+4. OB
+
+Tarif Upah/ acara
+Rp 300.000 Rp 150.000 Rp 200.000 Rp 20.000
+
+Jumlah Tenaga Kerja
+4 orang 20 orang 2 orang 2 orang
+
+Jumlah hari kerja/ bulan
+4x acara 4x acara 4x acara 30 Hari Kerja
+
+Total
+Rp 4.800.000 Rp 12.000.000 Rp 1.600.000 Rp 1.200.000
+
+J. Biaya Umum Lain
+
+Tabel 2.2.7 Biaya Umum
+
+Jenis Biaya Umum
+1. Pemeliharaan operasional catering 2. Pemeliharaan kendaraan 3. Listrik, air, telepon, CCTV,AC, 4. Pemeliharaan bangunan 5. Pemeliharaan inventaris perlengkapan
+pernikahan (kebaya dan pelaminan) 6. Inventaris kantor TOTAL
+
+Total Biaya Per Tahun
+Rp 1.500.000,Rp 2.400.000,Rp 5.640.000,Rp 2.300.000,-
+Rp 7.200.000,-
+Rp 855.000,Rp 19.895.000,-
+
+K. Penentuan Lokasi dan Layout Lokasi Usaha Nuvan Wedding Package berada di Jl. Cipedes
+Tengah No. 5A RT 02 RW 05 Kel. Sukagalih Kec. Sukajadi Kota Bandung 40163.
+
+47
+
+Gambar 2.2.1 Peta Lokasi Nuvan Wedding
+Adapun Perencanaan Layout Nuvan Wedding Package adalah sebagai berikut : Gambar 2.2.2
+Perencanaan Layout Nuvan Wedding
+tampak depan 48
+
+tampak atas (depan)
+tampak atas (belakang) 49
+
+tampak atas (samping) 50
+
+ruang penerimaan klien
+ruang rias 51
+
+penyimpanan wardrobe wedding
+fitting room 52
+
+gallery foto
+gudang dan penyimpanan peralatan catering dan dekorasi 53
+
+Lantai 1a :
+
+Merupakan bagian operasional bisnis yang
+
+kegiatannya meliputi penerimaan tamu/konsumen, bernegosiasi,
+
+bertransaksi dengan konsumen, serta merupakan tempat display
+
+wardrobe wedding, penyimpanan wardrobe dan segala aksesorisnya,
+
+fitting room serta pemilihan seluruh wardrobe yang akan digunakan.
+
+Lantai 1b : Sebelah kanan bangunan merupakan garasi tempat
+
+penyimpanan properti dan peralatan wedding dan catering serta
+
+tempat memasak untuk kegiatan catering. Dan terdapat garasi untuk
+
+mobil operasional bisnis.
+
+L. Limbah 1. Kualitas limbah yang dihasilkan rendah - Limbah terdiri dari air pencucian wardrobe wedding, alat-alat catering, pencucian bahan makanan catering (air pencucian daging, sayur, dll). - Cara pembuangan limbah tersebut langsung ke got dan sampah yang dihasilkan langsung dibuang ke tempat penampungan sampah. 2. Tidak ada biaya pengendalian limbah.
+
+54
+
+1.3 Analisis Aspek Manajemen
+
+1. Nama Perusahaan
+
+: NUVAN WEDDING PACKAGE
+
+2. Nama Pemilik
+
+: Ibu Imas Liahayati
+
+3. Alamat Perusahaan : Jl Cipedes Tengah No. 5A RT/RW : 02/05,
+
+Kel. Sukagalih Kec. Sukajadi, Kota
+
+Bandung 40163
+
+4. Bentuk Perusahaan
+
+: CV (Persekutuan Komanditer)
+
+5. Struktur Organisasi :
+
+Pimpinan - SDM dan Umum Ibu Imas Liahayati
+
+Bag. Pemasaran Bagus Au
+
+Bag. Operasional Bp. Dadi Purwadi
+
+Bag. Adm dan Keuangan Nuning Imbar .P
+
+Gambar 2.2.3 Struktur Organisasi Nuvan Wedding
+
+Bisnis ini adalah bisnis keluarga dimana para staf didalamnya adalah anggota
+
+keluarga.
+
+Bagian Pemasaran
+
+: Keponakan dari Pimpinan
+
+Bagian Operasional
+
+: Suami dari Pimpinan
+
+Bagian Adm dan Keuangan : Anak dari Pimpinan
+
+55
+
+Tabel 2.2.8 Jabatan, Uraian Tugas dan Penggajian
+
+Jabatan Pimpinan ­ SDM dan Umum
+Bag. Pemasaran Bag. Operasional Bag. Adm dan Keuangan
+OB TOTAL
+
+Uraian
+Pemilik, pemantau, pemberi komando, pemberi ide, pemberi keputusan dan pengaturan bagian SDM tambahan. Memasarkan produk jasa dan produk-produk lainnya dari usaha yang dijalankan. Menjalankan ide pimpinan, pengaturan dan penyediaan barang yang dibutuhkan. Mengurus kegiatan yang menyangkut operasional dan mencari SDM yang akan terlibat dalam acara Membersihkan tempat usaha dan membantu menyuci wardrobe serta properti wedding.
+
+Gaji/bulan (Rp)
+5.000.000
+2.000.000 2.000.000 3.000.000
+800.000
+
+Gaji/tahun (Rp)
+60.000.000
+24.000.000 24.000.000 36.000.000
+9.600.000 111.600.000
+
+Tabel 2.2.9 Kegiatan Pra Operasi dan Jadwal Pelaksanaan
+
+Jadwal Pelaksanaan
+
+No. Jenis Kegiatan Operasi Sep
+
+Okt
+
+Nov
+
+Des Biaya Pra Operasi
+
+3 1 234123 4 1
+
+1 Survey Pasar
+
+Rp 50.000,00
+
+2
+
+Menyusun Rencana Usaha
+
+3 Mengurus perijinan 4 Survey Tempat Usaha
+
+Rp 1.125.000,00 Rp 100.000,00
+
+Survey Mesin/Peralatan 5
+Menentukan Jabatan 6 dan Struktur Organisasi
+7 Operasional
+
+Rp 75.000,00
+Rp 10.000.000,00
+
+56
+
+Analisis Aspek Hukum, Sosial, Budaya dan Ekonomi A. Badan Hukum CV (Commanditaire Vennootschap) / Persekutuan Komanditer B. Perijinan Perijinan untuk pembuatan CV dengan menggunakan jasa notaris yaitu perijinan untuk segala aspek. Biaya yang harus dikeluarkan adalah sebesar Rp 1.150.000,C. Hak Paten, Hak Cipta dan Trasemarks : Tidak Memakai D. Ekonomi Sosial dan Budaya Bisnis ini mempunya pengaruh terhadap kehidupan sosial, ekonomi dan budaya karena bergerak di bidang jasa. Manfaat yang didapatkan dalam bisnis ini adalah - Manfaat Sosial : Interaksi langsung dengan konsumen karena bisnis ini bergerak dalam bidang jasa. - Manfaat Ekonomi : Merekrut pegawai ditempat sekitar usaha. - Manfaat Budaya : Melestarikan budaya daerah Sunda dan Jawa.
+1.4 Analisis Aspek Keuangan Salah satu penentuan layak atau tidaknya suatu bisnis adalah dengan
+penilaian aspek keuangannya begitu pula dengan bisnis Nuvan Wedding ini. Seluruh perencanaan yang dilakukan sebelumnya terhadap bisnis ini akan
+57
+
+dijadikan acuan untuk membuat proyeksi laporan keuangan Nuvan Wedding selama 5 tahun kedepan. Laporan keuangan tersebut terdiri dari laporan laba rugi, neraca perusahaan danlaporan arus kas perusahaan.
+Dari hasil perhitungan proyeksi yang telah di lakukan, diperoleh datadata sebagai indikator kelayakan bisnis Nuvan Wedding. Data-data tersebut adalah sebagai berikut : 1. Analisis Payback Period
+Dari hasil perhitungan yang dilakukan, payback period dari bisnis Nuvan Wedding adalah 1,43. Hasil ini menjelaskan bahwa mengembalian modal Nuvan Wedding dapat diperoleh dalam jangka waktu 1 tahun 43 minggu. 2. Analisis Internal Rate of Return Internal Rate of Return (IRR) yang diperoleh dari bisnis Nuvan Wedding ini sebesar 43,99%. Dan nilai WACOC diperoleh sebesar 29,06%. Hasil tersebut menunjukkan bahwa bisnis ini layak untuk dilaksanakan karena memiliki nilai IRR atau imbal hasil yang lebih besar dari nilai WAOCC atau nilai yang diharapkan. 3. Analisis Net Present Value Berdasarkan perhitungan yang telah dilakukan diperoleh Net Present Value yang bernilai positif yaitu sebesar 850.227.768. Ini menunjukkan bahwa bisnis Nuvan Wedding ini layak untuk dilaksanakan karena NPV bernilai positif.
+58
+
+Tabel 2.4.1 Hasil Analisis Kelayakan Bisnis
+
+Metode Kelayakan BEP (Unit) BEP (Rp) Payback Period NPV IRR
+
+Hasil 11 kali dalam 1 bulan Rp. 44.701.987,1,43 tahun 850.227.768 43.99%
+
+Adapun Proyeksi Data Keuangan Nuvan Wedding adalah sebagai berikut :
+
+1. Daftar Perlengkapan/Peralatan yang sudah dimiliki dan dibutuhkan
+
+Tabel 2.4.2 Nilai Perlengkapan yang Dimiliki
+
+No
+
+Perlengkapan/Peralatan yang sudah dimiliki
+
+1 Tanah
+
+2 Bangunan
+
+Total
+
+Nilai Perkiraan
+Rp 1.000.000.000,Rp 200.000.000,Rp 1.200.000.000,-
+
+Tabel 2.4.3 Nilai Perlengkapan yg Dibutuhkan
+
+No
+
+Perlengkapan/Peralatan yang dibutuhkan
+
+1 Renovasi
+
+2 Pelaminan
+
+3 Properti
+
+4 Alat makan
+
+5 Alat masak
+
+6 Tabung gas
+
+7 Galon
+
+8 Dispenser
+
+9 Roll top
+
+10 Mesin Pendingin
+
+11 Rak piring
+
+12 Mesin cuci
+
+13 CCTV
+
+14 Laptop
+
+15 Printer
+
+Nilai Perkiraan
+70.000.000 70.000.000 60.000.000 20.000.000 20.000.000 1.900.000
+300.000 200.000 10.000.000 15.000.000 1.500.000 3.000.000 1.000.000 4.000.000 600.000
+
+59
+
+16 Alat rias 17 Wardrobe 18 Mobil L 300 19 1 set kursi tamu 20 Lemari wardrobe 21 Etalase wardrobe 22 Meja rias 23 Manekin
+Total
+
+20.000.000 100.000.000 90.000.000
+4.000.000 4.000.000 5.000.000 2.000.000 1.200.000 503.700.000
+
+2. Biaya yang diperlukan ketika memulai bisnis adalah sebagai berikut : - biaya pra operasi : Rp.11.350.000 - biaya pembelian perlengkapan yang dibutuhkan : Rp. 503.700.000 TOTAL : Rp. 515.050.0000
+3. Daftar biaya biaya yang diperlukan :
+Tabel 2.4.4 Biaya yang Diperlukan
+A. BiayaPokokProduksi 1. Bahan Baku &Pembantu 2. Upah Tenaga Kerja 3. Biaya Umum Pabrik
+B. Biaya Usaha 1. Gaji Pimpinan 2. Gaji Bagian Pemasaran 3. Gaji Bag. Operasional 4. Gaji Bag. Adm dan Keuangan 5. Biaya Promosi 6. Suplais Kantor (ATK) 7. Gaji OB
+
+4. Perhitungan biaya produksi suatu produk dalam bisnis ini : a. Menghitung biaya bahan baku produksi dan bahan baku pembantu.
+
+60
+
+b. Menghitung biaya tenaga kerjalan gsung yang terlibat dalam
+
+bisnisini contohnya : dalam dekorasi pelaminana datenaga kerja
+
+dekor, penatarias ada tukang rias dan asisten rias, dan catering ada
+
+tenaga kerja koki, asisten koki, OB, Pramusaji dll.
+
+c. Hitung point a dan b, dan itu adalah biaya produksi dalam bisnis
+
+ini.
+
+5. Biaya yang akan muncul dalam 1 tahun
+
+Asumsi : bahwa yang diperhitungkan harga terendah dengan biaya
+
+minimal dari paket yang ditawarkan. (Rp.50.000.000,-)
+
+Tabel 2.4.5 Nuvan Wedding Biaya Operasi dan Kebutuhan Modal Kerja
+(Dalam Rp)
+
+Keterangan
+RencanaProduksi (dalam unit) A. BiayaPokokProduksi
+1. Bahan Baku &Pembantu 2. UpahTenagaKerja 3. BiayaUmumPabrik Total Biaya Pokok Produksi B. Biaya Usaha 4. GajiPimpinan 5. GajiBagianPemasaran 6. Gaji Bag. Operasional 7. Gaji Bag. Adm dan Keuangan 8. BiayaPromosi 9. SuplaisKantor (ATK) 10. Gaji OB 11. Internet Total Biaya Usaha Total Biaya Operasi Per Tahun (A+B) Kebutuhan Modal Kerja ( 30% x 1.837.200.000)
+
+Kebutuhan Biaya Per-period (Rp) -dalam bulan-
+4
+118.400.000 21.200.000
+0 139.600.000
+5.000.000 2.000.000 2.000.000 3.000.000
+500.000 100.000 800.000 100.000 13.500.000 153.100.000
+
+Total (Rp) -dalam tahun-
+48
+1.420.800.000 254.400.000 0
+1.675.200.000
+60.000.000 24.000.000 24.000.000 36.000.000 6.000.000 1.200.000 9.600.000 1.200.000 162.000.000 1.837.200.000
+551.160.000
+
+61
+
+Tabel 2.4.6 Nuvan Wedding Pembiayaan Bisnis Periode Pra Oprasi (Dalam Rp)
+
+Keterangan
+Investasi Harta Tetap Tanah Bangunan MesindanPeralatan Investasi Kantor Kendaraan Total HartaTetap Investasi Harta Tak Berwujud Biaya Pra Operasi Total Biaya Investasi (A+B) Modal Kerja Total BiayaProyek (C+D)
+
+Total
+
+Sumber Pembiayaan
+
+Modal Sendiri
+
+Kredit
+
+1.000.000.000 270.000.000 322.900.000 20.800.000 90.000.000
+1.703.700.000
+
+1.000.000.000 270.000.000 226.030.000 14.560.000 0
+1.510.590.000
+
+96.870.000 6.240.000 90.000.000 193.110.000
+
+11.350.000 1.715.050.000 1.837.200.000 3.552.250.000
+
+11.350.000 1.521.940.000 1.286.040.000 2.807.980.000
+
+193.110.000 551.160.000 744.270.000
+
+Karena bisnis ini menggunakan dana pinjaman, maka : a. Kewajiban pengeluaran perbulan atau per periode yang harus dilunasi
+adalah : Besarnya kewajiban per bulan : Rp.744.270.000 /36 = Rp.20.674.167,b. Besar bunga yang dibayar adalah : Asumsi bahwa bunga kredit 11% per tahun menggunakan metode flat. Dengan perhitungan sebagai berikut :
+( 744.270.000 x 0.11 ) / 12 = Rp .6.822.475,c. Perode Jangka waktu pinjaman adalah selama 3 tahun.
+
+62
+
+Tabel 2.4.7 - Schedule Cicilan Kredit Nuvan Wedding
+
+No Cicilan
+
+Bunga
+
+Pokok pinjaman Saldo pinjaman
+
+1
+
+2
+
+3= (5x0.11)
+
+4=2-3
+
+5=5(n-1)-4
+
+0
+
+744.270.000
+
+1 27.496.642
+
+6.822.475
+
+20.674.167
+
+723.595.833
+
+2 27.496.642
+
+6.822.475
+
+20.674.167
+
+702.921.667
+
+3 27.496.642
+
+6.822.475
+
+20.674.167
+
+682.247.500
+
+4 27.496.642
+
+6.822.475
+
+20.674.167
+
+661.573.333
+
+5 27.496.642
+
+6.822.475
+
+20.674.167
+
+640.899.167
+
+6 27.496.642
+
+6.822.475
+
+20.674.167
+
+620.225.000
+
+7 27.496.642
+
+6.822.475
+
+20.674.167
+
+599.550.833
+
+8 27.496.642
+
+6.822.475
+
+20.674.167
+
+578.876.667
+
+9 27.496.642
+
+6.822.475
+
+20.674.167
+
+558.202.500
+
+10 27.496.642
+
+6.822.475
+
+20.674.167
+
+537.528.333
+
+11 27.496.642
+
+6.822.475
+
+20.674.167
+
+516.854.167
+
+12 27.496.642
+
+6.822.475
+
+20.674.167
+
+496.180.000
+
+13 27.496.642
+
+6.822.475
+
+20.674.167
+
+475.505.833
+
+14 27.496.642
+
+6.822.475
+
+20.674.167
+
+454.831.667
+
+15 27.496.642
+
+6.822.475
+
+20.674.167
+
+434.157.500
+
+16 27.496.642
+
+6.822.475
+
+20.674.167
+
+413.483.333
+
+17 27.496.642
+
+6.822.475
+
+20.674.167
+
+392.809.167
+
+18 27.496.642
+
+6.822.475
+
+20.674.167
+
+372.135.000
+
+19 27.496.642
+
+6.822.475
+
+20.674.167
+
+351.460.833
+
+20 27.496.642
+
+6.822.475
+
+20.674.167
+
+330.786.667
+
+21 27.496.642
+
+6.822.475
+
+20.674.167
+
+310.112.500
+
+22 27.496.642
+
+6.822.475
+
+20.674.167
+
+289.438.333
+
+23 27.496.642
+
+6.822.475
+
+20.674.167
+
+268.764.167
+
+24 27.496.642
+
+6.822.475
+
+20.674.167
+
+248.090.000
+
+25 27.496.642
+
+6.822.475
+
+20.674.167
+
+227.415.833
+
+26 27.496.642
+
+6.822.475
+
+20.674.167
+
+206.741.667
+
+27 27.496.642
+
+6.822.475
+
+20.674.167
+
+186.067.500
+
+28 27.496.642
+
+6.822.475
+
+20.674.167
+
+165.393.333
+
+29 27.496.642
+
+6.822.475
+
+20.674.167
+
+144.719.167
+
+30 27.496.642
+
+6.822.475
+
+20.674.167
+
+124.045.000
+
+31 27.496.642
+
+6.822.475
+
+20.674.167
+
+103.370.833
+
+32 27.496.642
+
+6.822.475
+
+20.674.167
+
+82.696.667
+
+33 27.496.642
+
+6.822.475
+
+20.674.167
+
+62.022.500
+
+34 27.496.642
+
+6.822.475
+
+20.674.167
+
+41.348.333
+
+35 27.496.642
+
+6.822.475
+
+20.674.167
+
+20.674.167
+
+36 27.496.642
+
+6.822.475
+
+20.674.167
+
+-
+
+63
+
+8. BEP Bisnis ini adalah :
+
+BEP (Unit) BEP (RP)
+
+11 kali/tahun 44.701.987
+
+Tabel 2.4.8 Nuvan Wedding AnggaranPenjualan
+
+No. Keterangan
+
+I Penjualan
+
+Penjualan jasa
+
+wedding package
+
+Total Penjualan
+
+II
+
+Harga Pokok Penjualan
+
+HPP Produk
+
+Total HPP
+
+III Laba Kotor
+
+1 Periode (dlm tahun)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+48
+
+50
+
+52
+
+54
+
+56
+
+2.400.000.000 2.500.000.000 2.600.000.000 2.700.000.000 2.800.000.000
+
+2.400.000.000 2.500.000.000 2.600.000.000 2.700.000.000 2.800.000.000
+
+1.675.200.000 1.745.000.000 1.814.800.000 1.884.600.000 1.954.400.000 1.675.200.000 1.745.000.000 1.814.800.000 1.884.600.000 1.954.400.000 724.800.000 755.000.000 785.200.000 815.400.000 845.600.000
+
+9. Anggaran Persediaan Bisnis ini tidak memerlukan anggaran persediaan, karena bisnis ini bergerak dalam bidang jasa langsung.
+
+10. Proyeksi Laba - Rugi (Dalam Rp) Asumsi bahwa: Proyeksi penjualan naik sebesar 10% setiap tahunnya.
+
+64
+
+Tabel 2.4.9 Nuvan Wedding Proyeksi Laba Rugi (dalam Rp)
+
+Keterangan
+Rencana Produksi (dalam unit) A. Hasi lPenjualan B. Biaya Pokok Produksi 1. Biaya Bahan Baku &Bahan Pembantu 2. Upah Tenaga Produksi 3. BiayaUmum Pabrik C. Laba Kotor (A-B) D. Biaya Usaha 4. Gaji Pimpinan 5. GajiBagianPemasaran 6. Gaji Bag. Operasional 7. Gaji Bag. Adm. dan Keuangan 8. BiayaPromosi 9. Suplais Kantor (ATK) 10. Gaji OB 11. Internet
+Total Biaya Sebelum Penyusutan & Amortisasi
+1. Penyusutan 2. Amortisasi E. Total Biaya Usaha F. Laba Usaha (C-E) G. BiayaBunga H. LabaSebelumPajak (E-G) I. Pajak J. LabaBersih
+
+Periode Operasi
+
+Tahun 1
+
+Tahun 2
+
+Tahun 3
+
+Tahun 4
+
+Tahun 5
+
+48
+
+50
+
+52
+
+54
+
+56
+
+2.400.000.000 2.500.000.000 2.600.000.000 2.700.000.000 2.800.000.000
+
+1.675.200.000 1.745.000.000 1.814.800.000 1.884.600.000 1.954.400.000
+
+1.420.800.000 1.480.000.000 1.539.200.000 1.598.400.000 1.657.600.000
+
+254.400.000 0
+724.800.000 162.000.000 60.000.000 24.000.000 24.000.000
+
+265.000.000 0
+755.000.000 162.000.000 60.000.000 24.000.000 24.000.000
+
+275.600.000 0
+785.200.000 162.000.000 60.000.000 24.000.000 24.000.000
+
+286.200.000 0
+815.400.000 162.000.000 60.000.000 24.000.000 24.000.000
+
+296.800.000 0
+845.600.000 162.000.000 60.000.000 24.000.000 24.000.000
+
+36.000.000
+6.000.000 1.200.000 9.600.000 1.200.000
+
+36.000.000
+6.000.000 1.200.000 9.600.000 1.200.000
+
+36.000.000
+6.000.000 1.200.000 9.600.000 1.200.000
+
+36.000.000
+6.000.000 1.200.000 9.600.000 1.200.000
+
+36.000.000
+6.000.000 1.200.000 9.600.000 1.200.000
+
+162.000.000 162.000.000 162.000.000 162.000.000 162.000.000
+
+126.626.667 230.000
+288.856.667 435.943.333
+81.869.700 354.073.633 88.518.408 265.555.225
+
+126.626.667 230.000
+288.856.667 466.143.333
+81.869.700 384.273.633 96.068.408 288.204.725
+
+126.626.667 230.000
+288.856.667 496.343.333
+81.869.700 414.473.633 103.618.408 310.855.225
+
+126.626.667 230.000
+288.856.667 526.543.333
+0 526.543.333 131.635.833 394.907.500
+
+126.626.667 230.000
+288.856.667 556.743.333
+0 556.743.333 139.185.833 417.557.500
+
+65
+
+Tabel 2.4.10 Nuvan Wedding Penyusutan dan Amortisasi (dalam Rp)
+
+Perhitungan Penyusutan
+
+Nilai
+
+Umur Ekonomis
+
+1. Bangunan 2. Mesin / Peralatan 3. Investasi Kantor 4. Kendaraan
+
+270.000.000 322.900.000 20.800.000 90.000.000
+
+10 tahun 3 tahun 5 tahun 20 tahun
+
+Perhitungan Amortisasi
+
+Nilai
+
+Umur Ekonomis
+
+Biaya Pra Oprasi
+
+1.150.000
+
+5 tahun
+
+Penyusutan / tahun
+27.000.000 90.966.667 4.160.000 4.500.000
+Penyusutan / tahun 230.000
+
+Tabel 2.4.11 Nuvan Wedding Proyeksi Neraca (dalam Rp)
+
+Keterangan
+Harta A. Harta Lancar 1. Kas 2. Kas Bank 3. Pembelian Surat Berharga Total Harta Lancar B. Harta Tetap 1. Tanah 2. Bangunan 3. Mesin & Peralatan 4. Investasi Kantor
+
+Periode Pra Operasi
+
+Tahun 1
+
+68.885.000 619.965.000
+688.850.000
+
+72.317.189 650.854.703
+723.171.892
+
+1.000.000.000 200.000.000
+1.551.485.000 20.800.000
+
+1.000.000.000 270.000.000
+1.661.485.000 20.800.000
+
+Tahun 2
+
+Perode Operasi Tahun 3
+
+Tahun 4
+
+78.014.378 687.810.941
+780.143.784
+
+71.954.735 687.810.941 100.000.000 859.765.676
+
+84.588.953 664.040.890 200.000.000 948.629.843
+
+1.000.000.000 270.000.000
+1.771.485.000 20.800.000
+
+1.000.000.000 270.000.000
+1.881.485.000 20.800.000
+
+1.000.000.000 270.000.000
+2.314.385.000 20.800.000
+
+5. Kendaraan
+
+90.000.000 90.000.000
+
+90.000.000
+
+90.000.000
+
+90.000.000
+
+Total Harta Tetap Akumulasi Amortisasi Nilai Buku Harta Berwujud C. Harta Tak Berwujud Akumuliasi Amortisasi Nilai Buku Harta Tak Berwujud Total Harta (A+B+C) Utang dan Modal
+
+2.862.285.000 -
+1.150.000 -
+
+3.042.285.000 (126.626.667) 2.915.658.333
+1.150.000 (230.000)
+
+-
+
+920.000
+
+3.552.285.000 3.639.750.225
+
+3.152.285.000 (253.253.334) 2.899.031.666
+1.150.000 (460.000)
+690.000
+3.679.865.450
+
+3.262.285.000 (397.880.001) 2.882.404.999
+1.150.000 (690.000)
+460.000
+3.742.630.675
+
+3.695.185.000 (633.133.335) 3.062.051.665
+1.150.000 (920.000)
+230.000
+4.010.911.508
+
+Tahun 5
+114.913.203 968.130.807 300.000.000 1.383.044.010
+1.000.000.000 270.000.000
+2.424.385.000 20.800.000 90.000.000
+3.805.185.000 (886.386.669) 2.918.798.331
+1.150.000 (1.150.000)
+4.301.842.341
+
+66
+
+A. Utang Lancar 1. Utang Dagang 2. Kredit Modal Kerja Total Utang Lancar B. Utang Jangka Panjang
+Kredit Investasi
+Total Utang Jangka Panjang C. Modal Modal Sendiri Laba Ditahan Periode Lalu Laba Ditahan Periode Berjalan Total Modal Total Hutang dan Modal (A+B+C)
+
+551.160.000 551.160.000
+-
+193.110.000
+-
+
+367.440.000 367.440.000
+128.740.000
+128.740.000
+
+2.808.015.000 2.878.015.000
+
+-
+
+-
+
+- 265.555.225
+
+2.808.015.000 3.143.570.225
+
+3.552.285.000 3.639.750.225
+
+183.720.000 183.720.000
+64.370.000 64.370.000
+2.878.015.500 265.555.225 288.204.725
+3.431.775.450 3.679.865.450
+
+183.720.000
+
+-
+
+-
+
+183.720.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+64.370.000
+
+-
+
+-
+
+64.370.000
+
+-
+
+-
+
+2.895.480.725 3.305.148.783 288.204.725 310.855.225 310.855.225 394.907.500
+3.494.540.675 4.010.911.508 3.742.630.675 4.010.911.508
+
+3.489.377.341 394.907.500 417.557.500
+4.301.842.341 4.301.842.341
+
+Tabel 2.4.12 Nuvan Wedding Proyeksi Arus Kas (Dalam Rp)
+
+Keterangan A. Arus Kas Masuk (Penerimaan Kas) 1. Hasil Penjualan 2. Pelunasan Piutang
+3. Modal Sendiri
+4. Kredit Investasi 5. Kredit Modal Kerja 6. Saldo Kas Awal Total Arus Kas B. Arus Kas Keluar 1. Biaya Pra Produksi 2. Investasi
+3. Biaya Pokok Produksi 4. Biaya Usaha Sebelum Penyusutan & Amortisasi 6. Biaya Bunga 7. Pajak
+
+Periode Pra Operasi
+
+Tahun 1
+
+Tahun 2
+
+Perode Operasi Tahun 3
+
+Tahun 4
+
+Tahun 5
+
+- 2.400.000.000 2.500.000.000 2.600.000.000 2.700.000.000 2.800.000.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.670.980.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+193.110.000 551.160.000
+2.415.250.000
+
+688.850.000 3.088.850.000
+
+723.171.892 3.223.171.892
+
+780.143.784 3.380.143.784
+
+859.765.676 3.559.765.676
+
+948.629.843 3.748.629.843
+
+11.350.000 1.715.050.000
+
+110.000.000
+
+110.000.000
+
+110.000.000
+
+432.900.000
+
+110.000.000
+
+- 1.675.200.000 1.745.000.000 1.814.800.000 1.884.600.000 1.954.400.000
+
+- 162.000.000 162.000.000 162.000.000 162.000.000 162.000.000
+
+- 81.869.700 81.869.700 81.869.700
+
+-
+
+-
+
+- 88.518.408 96.068.408 103.618.408 131.635.833 139.185.833
+
+67
+
+Total Arus Kas Keluar C. Kas Netto (A-B)
+Surplus (Defisit)
+D. Kewajiban Bank 1. Angsuran Kredit Investasi 2. Angsuran Kredit Modal Kerja Total Kewajiban Bank Saldo Akhir
+
+1.726.400.000 2.117.588.108 2.194.938.108 2.272.288.108 2.611.135.833 2.365.585.833 688.850.000 971.261.892 1.028.233.784 1.107.855.676 948.629.843 1.383.044.010
+
+688.850.000
+
+64.370.000 183.720.000 248.090.000 723.171.892
+
+64.370.000 183.720.000 248.090.000 780.143.784
+
+64.370.000 183.720.000 248.090.000 859.765.676
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+948.629.843 1.383.044.010
+
+68
+
+BAB III SIMPULAN DAN REKOMENDASI
+Berdasarkan hasil pengujian kelayakan bisnis yang telah dilakukan terhadap Nuvan Wedding melalui berbagai aspek, maka dapat disimpulkan bahwa Nuvan Wedding Package merupakan salah satu bentuk usaha mandiri yang bergerak dalam bidang penyedia jasa paket pernikahan yakni jasa tata rias, penyewaan wardrobe dan aksesoris wedding, penyewaan dekorasi pelaminan dan dekorasi catering serta pelayanan jasa catering. Yang membidik calon konsumennya kalangan menengah-keatas dengan cakupan wilayah pemasaran kota Bandung, kota Cimahi, kab.Bandung dan kab. Bandung Barat. Dengan target penjualan jasa minimal 48 kali event pernikahan dalam 1 tahun tetapi kami memproyeksikan adanya peningkatan penjualan sebesar 10% setiap tahunnya.
+Walaupun banyak pesaing dalam bisnis ini, tetapi dari hasil kuesioner yang telah kami berikan kepada responden, dapat disimpulkan bahwa 98% masyarakat yang berminat untuk memanfaatkan bisnis ini dalam acara pernikahannya kelak. Maka dari itu pemrakarsa yakin bahwa bisnis ini dapat dijalankan dan dapat bersaing di pasaran, serta menghasilkan keuntungan yang cukup menjanjikan. Ini terlihat dari perhitungan proyeksi laporan keuangan bahwa dalam 1 tahun dengan harga penjualan Rp 50.000.000,- bisnis ini dapat memberikan keuntungan bersih sebesar Rp 265.555.225,-.
+69
+
+BAB IV LAMPIRAN
+ Logo Perusahaan Nuvan Wedding
+ Banner Nuvan Wedding
+70
+
+ Lokasi Nuvan Wedding Rumah pribadi milik Ny. Imas Liahayati yang terletak di jalan Cipedes Tengah No 5A RT 02 RW 05 Kel. Sukagalih Kec. Sukajadi Kota Bandung 40163.
+Rancangan Layout Nuvan Wedding (tampak depan)
+71
+
+ Produk yang Ditawarkan Nuvan Wedding Dekorasi Pelaminan
+72
+
+Dekorasi Catering 73
+
+Tata Rias 74

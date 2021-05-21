@@ -1,0 +1,171 @@
+ENCYCLOPEDIA OF HEBREW LANGUAGE
+AND LINGUISTICS
+Volume 3 P­Z
+General Editor
+Geoffrey Khan
+Associate Editors
+Shmuel Bolokzy Steven E. Fassberg Gary A. Rendsburg Aaron D. Rubin Ora R. Schwarzwald
+Tamar Zewi
+LEIDEN · BOSTON 2013
+© 2013 Koninklijke Brill NV ISBN 978-90-04-17642-3
+
+Table of Contents
+Volume One Introduction ........................................................................................................................ vii List of Contributors ............................................................................................................ ix Transcription Tables ........................................................................................................... xiii Articles A-F ......................................................................................................................... 1 Volume Two Transcription Tables ........................................................................................................... vii Articles G-O ........................................................................................................................ 1 Volume Three Transcription Tables ........................................................................................................... vii Articles P-Z ......................................................................................................................... 1 Volume Four Transcription Tables ........................................................................................................... vii Index ................................................................................................................................... 1
+© 2013 Koninklijke Brill NV ISBN 978-90-04-17642-3
+
+930
+
+verbal system: medieval hebrew poetry
+
+Verbal System: Medieval Hebrew Poetry
+The Medieval Hebrew flourished as a written language during the Golden Age of Jewish culture in Spain between the 8th and the 12th century. Though abundantly documented, it is, however, hardly ever a subject of linguistic analysis, since the marked differences between the language systems of the leading authors do not allow for an overall analysis (see SáenzBadillos 1996:202­226), so that the language of each of its representatives should be investigated separately, as an autonomous system.
+The following entry aims to briefly define the verbal structure (see Comrie 1976; 1986) in the poetry of Yehuda Halevi, who--being an exceedingly productive writer and one of the leading figures of Jewish culture in Spain in the first half of the 12th century--placed himself among the few to set standards of the literary Hebrew of the time, whose main aspiration was to emulate the language of the Bible.
+Even though corresponding to the Psalmic structural tradition, the language of his lyrics proves itself to be a grammatically independent unit based on some innovative rules. While the main principle governing the distribution of the five flexible forms: qaal, wëqaal, yiqol, wayyiqol, and qoel seems to be based mainly on the semantic value of the verbs used, some general remarks on how each of the inflected verbal forms functions within the frames of Halevi's poetry are presented below.
+1. Y i q ¢ o l
+The yiqol is the form used most frequently by Halevi (so too in the Bible). In the majority of its appearances it functions within the frames of subjectively orientated predications.
+Thus it appears in all of the possible biblical modal usages--as expressing the deontic (commissive, directive, volitive) epistemic or irrealis modality:
+                               
+±òn<åy nÆ:gdëú<å úål-ta±w<åì wë-±im lò± ±alÆnn<å al «ë<åì rëßònú<å ±Æs±l<å rÆ:ga wë-±Æ:gw<å
+
+`O Lord, toward You is all of my desire, Even though I cannot bring it to my lips. If only I could ask for just a moment of your favor, and then perish . . .' (Brody, vol. III, 266).
+It appears also very commonly in rhetorical questions, after the interrogative pronouns  ma `what?',  ±èú `how?',   ±å< nå< `to where, whither?',  mì `who?'), which are also strongly volitive, directive, or epistemic in their character:
+            
+mì ya«Æ lì ún<åayim wë-±arTMìq nëò
+`Who would make me wings, so that I could fly afar?' (Brody, vol. II, 155).
+The yiqol is also widely used with verba sentiendi, dicendi, or declarandi (which in the Psalter is characteristic for the qaal form):
+            
+u-ma yaTMsò kål-TMòsè ±«Ær bå< -å< å< r yësòå< m
+`What should a reasonable being think, Whose origin is but dust?'
+In these usages the distribution of the yiqol seems to disregard the two basic grammatical categories--tense and aspect. Instead it is employed in the types of utterances which could be defined as strongly illocutionary (see Wunderlich 1976), concentrating not on the content, but on the desired effect exerted by the speech act.
+In the remaining cases (apart from but a few archaizing usages, where it is used as a preterite) yiqol refers to the future, sometimes the present, presented as a consequence of some previous situation. In such usages the form appears with an action verb and, surprisingly enough, in principle expresses the perfective aspect:
+                           
+å< ìm bå< hÆm må< så< lù u-miqrò lëúå< lò yÆTMdå< lù a sÆr t<åsì sëùènù u-naTMèm TM<åròènù
+`They are ruled by slaves, But they will never stop calling You, Until the day, when You shall return us from our captivity And console our waste lands' (Brody: vol. III, 111).
+2. Q a ¢ a l
+The qaal is the second most frequent form. It generally has a perfect function expressing
+
+© 2013 Koninklijke Brill NV ISBN 978-90-04-17642-3
+
+verbal system: medieval hebrew poetry
+
+931
+
+a durable, resultative state. As opposed to the yiqol, it describes all passive, process-, and state-orientated situations, stretching freely in time (also into the future) with a distinct imperfective aspect, or even more commonly, with perfective aspect, i.e., where a clear starting point initiates a durative process:
+
+                                
+                         
+hÆ(manù mismartènù lismòr mispëè ßiqÆú<å wë-±im suddë<å ±adartènù wë-ni:grasnù mè-TMèqÆú<å wë-h<åy<å siTM<å gëirtènù u-m<åslù <ånù rëTMèqÆú<å hÆTM(zaqnù a-artènù nèzÆr
+`We stand on our watch To guard your just judgments. Even when glory has been plundered And we have been chased away from your bosom, Even if our maid will become our mistress And those, who are so far from You, will dominate us We will still hold on to our crown' (Brody, vol. III, 111).
+In some cases the subject is barely an agent, but rather a patient or an experiencer:
+                
+sëlùTMìm s<åmù s<åmù wë-z<åù wë-libb<åm q<årù ÆrÆm bi=g<åm
+`The pilgrims have heard the news They listened and trembled While their hearts were torn apart Sooner than their robes'
+Exceptionally there can appear a distinct agent, yet always in situations where the undergoer of the action is the subject of the whole discourse, the main protagonist in the poem:
+
+galgal n<åTM<åm bèn qar u-èn TM<åm hù hißmìTM<åm wë-hù hòlì<åm
+
+         
+        
+
+`The spheres, they lead them Through cold and hot They feed them And bread them'
+When necessary--though seldom, since we are dealing with a non-narrative discourse--the qaal functions as a past perfective form describing events performed by an active agent (however, in these cases it usually depicts background or a starting point for some other central events and thus often preserves the perfect aspect):
+                             
+yëìì h-s<åúaTMt<å TMnòú<å bë-èn s<åay wë-l<åmm<å mëúartanì ßëmìù lë-mai<åm
+`My love, have you forgotten, How You used to rest between my breasts? And why have You sold me To those, who enslave me?' (Brody, vol. III, 4)
+As common and natural as the form is in Halevi's lyrical style, the qaal's functions are markedly narrowed when compared to those in biblical discourse. What is more, unlike in the Bible, it is rarely used to express the perfect. Its usual state-orientated character seems to hearken back to the most archaic usages (corresponding to the historically nominal qaila/ qaala form, which functioned as a noun or expressed a state). The visible reversal of proportion between the classically prevalent past usage of qaal and the archaic one is all the more apparent in the light of the scarce appearance of the clearly perfective usages of the form in Halevi's work.
+3. Q o ¢ e l
+The active participle is the third most used form in terms of frequency. There are about twice as many usages of the qaal. Be that as it may, once introduced, the qoel form is the dominant in discourse. It expresses a strongly imperfective aspect, usually durative or habitual, often gnomic, without any possible time reference. In most cases the qoel is used when some absolute forces (such as God or love) are being described:
+            
+±att<å yòsè kërùìm ±attå sòúèn sëTM<åqìm
+`You sit upon the cherubim, And you dwell in the heavens' (Brody, vol. III, 150).
+
+© 2013 Koninklijke Brill NV ISBN 978-90-04-17642-3
+
+932
+
+verbal system: medieval hebrew poetry
+
+Note that, though the state is being described,
+the roles of agent and patient are coreferen-
+tial--the undergoer (unlike in the case of the qaal) is not an experiencer of the process, but both the goal and the source simultaneously.
+The qoel is used also to portray a state and/ or condition of reality or people influenced by
+those dominant forces:
+
+     
+këòú<å m<ålè òl<åm `The world is filled with your grace' (Brody, vol. III, 150)
+It often accents the intensity of the action:
+
+,                 
+wa-±nì mëyuss<år bë-±aúzëriyyù mus<år gòlÆ wë-nÆ±(s<år
+`And I am chastened with cruel punishment Exiled and imprisoned'
+These timeless, progressive usages correspond logically to the nominal character of the participle as such. However, qoel also appears commonly with action verbs, obviously with an agentive subject:
+
+±ès wë-s<åmayim wë-<å<år u-mayim (. . .) yòlìm wë-sòúlìm wë-nònìm wë-±òúlìm
+`Fire and air, earth and water (. . .) They breed and consume They feed and devour'
+
+          
+(. . .)
+            
+
+The qoel form is hence usually used to describe the unlimitedness or omnipotence, and the
+durative or habitual imperfective aspect is the
+syntactic domain of its grammatical meaning.
+Those features correspond vividly to the usage characteristic of the Psalter, where the qoel appears as the main verb expressing the timeless
+imperfective nature of the action described.
+
+4. W a y y i q ¢ o l
+
+The wayyiqol is a form appearing much less frequently than the three described above. Still
+
+it manifests its presence quite regularly as supplementary to the qaal, when it appears as the perfective past form. Halevi pairs each wayyiqol with the proceeding qaal, allowing the former to continue the grammatical meaning of the latter. On the semantic level the verbs in the wayyiqol form either paraphrase and complement the actions described by those with the qaal or present the following, consequential events:
+                              
+dël<åqùh<å ±òyìm wa-yòrrù <ålÆh<å ±è<å håbëù a-bòß ra:glÆh<å wat-tiska lë-maßè<å
+`Enemies have pursued her, they have awakened hatred against her Her feet have been sunk into the mire, and she has laid down with sorrow'
+The functions of the wayyiqol as compared to those in the Bible are greatly narrowed. Halevi's usages correspond closely to the biblical ones. However, in his work the form appears much less commonly and is less productive, since he rarely uses the wayyiqol form in its most characteristic classical function of introducing new threads and expressing sequential events.
+
+5. W e q a ¢ a l
+
+The weqaal is used by Halevi with about the same frequency as the wayyiqol. This fact is in itself significant, in that the weqaal form has a different distribution from what is found
+in biblical poetry, where it makes hardly any
+appearances. The form is used by Halevi in
+one function, very narrow and characteristic. It
+appears in the continuation of clauses with the qaal (in its state and process-orientated usages) and tends to continue the imperfective meaning
+by paraphrasing or complementing the previ-
+ously described situations:
+
+mè gibòr:åm wë-hùsar pë±èr<åm wë-hùslaú nizr<åm wë-ni««<å± rëì<åm
+`Their hero is dead, The glory is gone And their crown removed, The mourning robes are worn'
+
+                    
+
+© 2013 Koninklijke Brill NV ISBN 978-90-04-17642-3
+
+verboid
+
+933
+
+Occasionally the weqaal is introduced after a qoel form or a verbless clause, where it also continues their universal, durative character:
+                      
+lë:gònèn lèhÆm bë-raTMmÆú<å sadday has-sallì g<ånòn wë-hißßìl p<åsòaTM wë-himlì
+`So that you shield them with your mercy, the Almighty One, Defending and rescuing, passing over and delivering'
+The usage of weqaal after the qaal form is completely innovative when compared to the biblical distribution of the two forms. However, it is still bound with the historically motivated strongly imperfective aspect.
+In sum, Halevi's distribution of the five Hebrew verbal forms exhibits some differences from Biblical Hebrew and can be described as a skillfully designed template, on one hand based to a significant extent on the semantic information encoded in the verbs, on the other logically corresponding to select classical functions of the forms. Thus, because of its consequence and its non-accidental character it can be recognized as a coherent grammatical system.
+Primary Sources Brody, Heinrich (ed.). 1894­1930. Diwan des Abu-
+l-Hasan Jehuda ha-Levi. 4 vols. Berlin: Mekize Nirdamim.
+References Andersen, David T. 2000. "The evolution of the
+Hebrew verbal system". Zeitschrift fuer Althebraistik 13:1­66. Brody, Heinrich. 1894­1929. Diwan des Abu-lHasan Jehuda ha-Levi. 4 vols. Berlin: Zvi Hirsch Itzovski. Comrie, Bernard. 1976. Aspect: An introduction to the study of verbal aspect and related problems. Cambridge / New York / Melbourne: Cambridge University Press. ----. 1985. Tense. Cambridge / New York / Melbourne / Madrid / Cape Town: Cambridge University Press. Cook, John A. 2001. "The Hebrew verb: A grammaticalization approach". Zeitschrift fuer Althebraistik 14:117­143. Halevi, Jehuda. 1927. Zweiundneunzig Hymnen und Gedichte. Trans. by Franz Rosenzweig. Berlin: Schneider. ----. 1928. Selected poems. Ed. by Heinrich Brody, trans. by Nina Salaman. Philadelphia: The Jewish Publication Society of America. ----. 2002. Poems from the Diwan. Trans. by Gabriel Levin. London: Anvil Press Poetry.
+
+Longacre, Robert E. 1996. The grammar of discourse. New York / London: Plenum.
+----. 2006. "Discourse structure, verb forms and archaism in Psalm 18". Journal of Translation 2:17­29.
+Sáenz-Badillos, Angel. 1996. A history of the Hebrew language. Trans. by John Elwolde. Cambridge: Cambridge University Press.
+Waltke, Bruce K. and Michael Patrick O'Connor. 1990. An introduction to Biblical Hebrew syntax. Winona Lake, Indiana: Eisenbrauns.
+Wunderlich, Dieter. 1976. Studien zum Sprechakttheorie. Frankfurt: Suhrkamp.
+Barbara Gryczan (University of Warsaw)
+Verboid
+`Verboid' (meaning `verb-like') was introduced into linguistic usage by Jespersen (1937: Ch. 39) as a cover term for verb-like entities such as `participle' and `agent noun'. The term was adopted by Rosén (1965:83­84; 1966:214­215; 1977:107­113) to designate a group of expressions in Israeli Hebrew whose syntactic behavior is verb-like. These include the existential expression  yes `there is/are' used with the preposition le- `to' to express possession (along with  ±en `there is/are not' and the relevant past and future forms of  haya `there was/ were'), as exemplified in (1).
+(1)     yosef yes lo kesef Yosef there.is to-him money `Yosef has money'.
+Other verboids include nouns such as  sem `name',  maqor `source',  perus `meaning', and  meir `price' (in their dependent forms: sm-, meqor-, perus-, and meir-) with 3rd-person possessive suffixes, e.g.,  sma (name-her `her name'), as shown in (2).
+(2)     ha-avera seli sma tamar the-girl.friend of.mine name.her Tamar `My girl friend, her name is Tamar' / `My girl friend is called Tamar'.
+Although technically such sentences look like Left Dislocation (LD) constructions, in Rosén's view they are not, since they are standard
+
+© 2013 Koninklijke Brill NV ISBN 978-90-04-17642-3

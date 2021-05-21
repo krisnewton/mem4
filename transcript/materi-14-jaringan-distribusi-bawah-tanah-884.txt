@@ -1,0 +1,495 @@
+273
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+BAB 14 JARINGAN DISTRIBUSI BAWAH TANAH
+
+A. Pendahuluan
+Jaringan distribusi bawah tanah dewasa ini telah banyak digunakan, terutama untuk perkotaan atau wilayah tertentu yang menonjolkan unsur estetika. Hal ini disebabkan, distribusi bawah tanah tersembunyi dibandingkan dengan saluran udara dan lebih handal.
+Salah satu dari penggunaan jaringan distribusi bawah tanah adalah untuk jaringan distribusi perumahan (underground residential distribution = URD). Beberapa fasilitas juga menggunakan konstruksi jaringan bawah tanah seperti industri dan pusat-pusat layanan komersial. Penggunaan lain dari saluran bawah tanah seperti jaringan yang melewati sungai, jalan tol atau pada persilangan saluran transmisi.
+Konstruksi jaringan bawah tanah mahal dan biayanya lebih bervariasi, faktor-faktor utama yang mempengaruhi biaya jaringan bawah tanah adalah : 1. Pengembangan.
+Jalan-jalan, jalan raya dan trotoar dan saluran air, hal ini akan memperlambat pengerjaan konstruksi dan akan meningkatkan biaya 2. Kondisi tanah
+Bebatuan dan material lain yang bersifat keras akan meningkatkan waktu dan biaya pengerjaan untuk pemasangan kabel 3. Perkotaan, pinggiran kota dan pedesaan
+Konstruksi perkotaan jauh lebih sulit tidak hanya disebabkan bangunan-bangun beton tetapi juga lalu lintas. Area pedesaan secara umum lebih murah perpanjang saluran, tetapi salurannya lebih panjang. 4. Pipa Kabel
+Saluran yang dilapisi beton jauh lebih mahal dibandingkan dengan yang ditanam langsung. 5. Bahan dan ukuran kabel
+Biaya kabel relatif lebih rendah dibandingkan biaya lain pada jaringan bawah tanah. 6. Peralatan instalasi
+Mesin-mesin besar dan mesin lainnya yang sesuai dengan permukaan dan jenis tanah akan memudahkan instalasi.
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+274
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+B. Perbandingan Antara Saluran Udara dan Saluran Bawah Tanah.
+Berdasarkan pemasangannya, saluran distribusi dibagi menjadi dua kategori, yaitu : saluran udara (overhead line) merupakan sistem penyaluran tenaga listrik melalui kawat penghantar yang ditompang pada tiang listrik. Sedangkan saluran bawah tanah (underground cable) merupakan sistem penyaluran tenaga listrik melalui kabel-kabel yang ditanamkan di dalam tanah.
+1. Saluran Bawah Tanah (Underground Lines) Saluran distribusi yang menyalurkan energi listrik melalui kabel
+yang ditanam didalam tanah. Kategori saluran distribusi seperti ini adalah yang favorite untuk pemasangan di dalam kota, karena berada didalam tanah, maka tidak mengganggu keindahan kota dan juga tidak mudah terjadi gangguan akibat kondisi cuaca atau kondisi alam. Namun juga memilik kekurangan, yaitu mahalnya biaya investasi dan sulitnya menentukan titik gangguan dan perbaikannya. Kedua cara penyaluran memiliki keuntungan dan kerugian masingmasing.
+Keuntungan yang dapat diperoleh dari suatu jaringan bawah tanah adalah bebasnya kabel dari gangguan pohon, sambaran petir maupun dari gangguan manusia. Kabel-kabel bawah tanah yang digunakan pun banyak sekali jenisnya selain disebabkan bahan-bahan isolasi plastik yang terus berkembang maka selalu saja ada tambahan jenis-jenis kabel baru.
+Keuntungan pemakaian kabel bawah tanah adalah : a. Tidak terpengaruh oleh cuaca buruk, bahaya petir, badai,
+tertimpa pohon, dsb. b. Tidak mengganggu pandangan, bila adanya bangunan yang
+tinggi, c. Dari segi keindahan, saluran bawah tanah lebih sempurna dan
+lebih indah dipandang, d. Mempunyai batas umur pakai dua kali lipat dari saluran udara, e. Ongkos pemeliharaan lebih murah, karena tidak perlu adanya
+pengecatan. f. Tegangan drop lebih rendah karena masalah induktansi bisa
+diabaikan. g. Tidak ada gangguan akibat sambaran petir, angin topan dan
+badai. h. Keandalan lebih baik. i. Tidak ada korona. j. Rugi-rugi daya lebih kecil.
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+275
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+k. Menciptakan keindahan tata kota.
+Adapun kerugian atau kelemahan dari penggunaan jaringan kabel bawah tanah ialah sebagai berikut : a. Harga kabel yang relatif mahal b. Gangguan yang terjadi bersifat permanen c. Tidak fleksibel terhadap perubahan jaringan d. Waktu dan biaya untuk menanggulangi bila terjadi gangguan
+lebih lama dan lebih mahal e. Biaya investasi pembangunan lebih mahal dibanding-kan dengan
+saluran udara, f. Saat terjadi gangguan hubung singkat, usaha pencarian titik
+gangguan tidak mudah (susah), g. Perlu pertimbangan-pertimbangan teknis yang lebih mendalam di
+dalam perencanaan, khususnya untuk kondisi tanah yang dilalui. h. Hanya tidak dapat menghindari bila terjadi bencana banjir,
+desakan akar pohon, dan ketidakstabilan tanah. i. Biaya pemakaian lebih besar atau lebih mahal. j. Sulit mencari titik kerusakan bila ada gangguan.
+2. Saluran Udara (Overhead Lines) Saluran distribusi yang menyalurkan energi listrik melalui
+kawat-kawat yang digantung pada isolator antar menara atau tiang distribusi. Keuntungan dari saluran distribusi adalah lebih murah, mudah dalam perawatan, mudah dalam mengetahui letak gangguan, mudah dalam perbaikan, dan lainnya. Namun juga memiliki kerugian, antara lain: karena berada di ruang terbuka, maka cuaca sangat berpengaruh terhadap keandalannya, dengan kata lain mudah terjadi gangguan, seperti gangguan hubung singkat, gangguan tegangan lebih karena tersambar petir, dan gangguan-gangguan lainnya. Dari segi estetika/keindahan juga kurang, sehingga saluran distribusi bukan pilihan yang ideal untuk suatu saluran distribusi didalam kota.
+Jaringan saluran udara baik untuk dipergunakan pada daerah dengan kepadatan beban yang rendah, karena disini harga pembelian hak jalan untuk hantaran udara relatif murah, disamping harga materialnya yang murah dibandingkan dengan jaringan kabel bawah tanah. Keuntungannya a. Lebih fleksibel dan leluasa dalam upaya untuk perluasan beban. b. Dapat digunakan untuk penyaluran tenaga listrik pada tegangan
+diatas 66 kV. c. Lebih mudah dalam pemasangannya.
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+276
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+d. Bila terjadi gangguan hubung singkat, mudah diatasi dan dideteksi.
+e. Mudah dilakukan perluasan pelayanan dengan penarikan cabang yang diperlukan.
+f. Mudah memeriksa jika terjadi gangguan pada jaringan. g. Mudah untuk melakukan pemeliharaan. h. Tiang-tiang jaringan distribusi primer dapat pula digunakan
+untuk jaringan distribusi sekunder dan keperluan pemasangan trafo atau gardu distribusi tiang, sehingga secara keseluruhan harga instalasi menjadi lebih murah.
+Kerugian dari jaringan hantaran udara adalah gangguan sambaran petir, gangguan dari manusia, serta menganggu pemandangan dikarenakan oleh banyaknya tiang-tiang dan kabelkabel hantaran udara yang digunakan sehubungan dengan banyaknya konsumen yang harus dilayani. Kerugiannya a. Mudah terpengaruh oleh cuaca buruk, bahaya petir, badai,
+tertimpa pohon, dsb. b. Untuk wilayah yang penuh dengan bangunan yang tinggi, sukar
+untuk menempatkan saluran, c. Masalah efek kulit, induktansi, dan kapasitansi yang terjadi, akan
+mengakibatkan tegangan drop lebih tinggi. d. Ongkos pemeliharaan lebih mahal, karena perlu jadwal
+pengecatan dan penggantian material listrik bila terjadi kerusakan.
+C. Kabel Saluran Bawah Tanah
+Sistem listrik dari saluran distribusi bawah tanah dengan kabel banyak ragamnya. Dahulu, sistemnya di Jepang adalah sistem tiga-fasa tiga kawat dengan netral yang tidak ditanahkan. Sekarang, sistem pembumiannya adalah dengan tahanan tinggi atau dengan reactor kompensasi, untuk mengkompensasikan arus pemuat pada kabel guna menjamin bekerjanya rele serta guna membatasi besarnya tegangan lebih. Di Eropa sistem pembumian dengan reactor banyak dipakai, sedang di Amerika sistem pembumian langsung atau sistem pembumian dengan tahanan yang kecil banyak digunakan. Juga di Jepang sekarang banyak terlihat sistem Amerika yang terakhir itu dipakai, terutama untuk saluran kabel diatas 66 kV.
+Dalam sistem kelistrikan saluran distribusi merupakan rantai penghubung antara pusat-pusat pembangkit tenaga menuju pusat beban malalui gardu induk transmisi dan distribusi. Berdasarkan cara
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+277
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+pemasangannya saluran sistem distribusi dapat dibagi dalam tiga kelompok, yaitu: saluran udara (overhead line), saluran kabel bawah laut (submarine cable) dan saluran kabel tanah. Pada sistem saluran kabel bawah tanah, penyaluran tenaga listrik melalui kabel-kabel seperti kabel bawah laut dengan berbagai macam isolasi pelindungnya. Saluran kabel bawah tanah ini dibuat untuk menghindari resiko bahaya yang terjadi pada pemukiman padat penduduk tanpa mengurangi keindahan lingkungan.
+Inti dari suatu kabel adalah penghantar fase, berikutnya pelindung penghantar, isolator kabel, selanjutnya pelindung isolator, netral dan terakhir lapisan pembungkus. Kebanyakan kabel distribusi adalah penghantar tunggal. Jenis kabel yang biasanya digunakan ada dua jenis, yaitu kabel netral konsentris (concentric neutral cabel) dan kabel daya (power cable). Kabel netral konsentris biasanya mempunyai penghantar aluminium, isolasi dan netral konsentris, gambar 178 berikut menunjukkan jenis kabel dengan netral konsentris.
+
+Gambar 178. Kabel Netral Konsentris
+1. Kabel Tanah Kabel tanah ialah satu atau beberapa bagian hantaran yang
+berisolasi, berpelindung mekanis dan berselubung luar yang dalam penggunaannya ditanam/dipasang di dalam tanah. (PLN Operasi & Pemeliharaan Jaringan Distribusi, 1995:01)
+Kabel Tanah adalah salah satu / beberapa kawat yang diisolasikan, sehingga tahan terhadap tegangan tertentu antara penghantar yang satu dengan penghantar yang lain ataupun penghantar dengan tanah serta dibungkus dengan pelindung, sehingga terhindar dari pengaruh-pengaruh kimia lain yang ada dalam tanah. Oleh karena kabel tanah tersebut beroperasi dalam tanah, maka komponen termasuk kabel harus mampu beroperasi secara terus menerus karena memiliki persyaratan isolasi yang khusus untuk me-
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+278
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+lindunginya dari segala bentuk kelembaban serta pengaruh pengaruh lain yang terdapat didalam tanah.
+Penggunaan Saluran Kabel Tegangan Menengah (SKTM) dinilai mampu menciptakan keindahan dan kenyamanan tata kota meskipun investasi yang diperlukan relatif tinggi, pemeliharaan cukup rumit, namun pemilihan penggunaan SKTM tetap akan diperlukan terutama dari segi estetika dan pembebasan tanah.
+Instalasi (pemasangan) kabel dalam tanah dapat dilakukan dengan penanaman langsung atau melalui saluran pelindung. Instalasi kabel tanah dengan penanaman langsung, yaitu kabel secara langsung, tanpa menggunakan saluran pelindung (duct atau pipa), ditanam di dalam tanah.
+Kondisi pemasangan kabel mempengaruhi kemampuan membawa arusnya. Kondisi pemasangan ini antara lain meliputi sususan peletakan kabel, pentanahan selubung logam (sheath) / pelindung (shield), jarak antar kabel, kedalamanan penanaman, dan kondisi tanah.
+2. Klasifikasi Kabel Tenaga Untuk penyaluran tenaga listrik dibawah tanah digunakan kabel
+tenaga (power cable). Jenis kabel tenaga banyak sekali, namun demikian dapat diklasifikasikan menurut beberapa kelompok berikut : a. Kelompok menurut kulit pelindungnya (armor) misalnya, kabel
+bersarung timah hitam (lead sheahted), kabel berkulit pita baja (steel-tape armored). b. Kelompok menurut konstruksinya misalnya: plastik dan karet (jenis BN,EV,CV) kabel padat (jenis belt,H,SL,SA), kabel jenis datar (flat-type), kabel minyak (oil-filled). c. Kelompok menurut penggunaan, misalnya, kabel saluran (duct draw-in), kabel taruh (direct-laying), kabel laut (submarine), kabel corong utama (main shaft),kabel udara (overhead).
+3. Konstruksi Kabel Bawah Tanah Sebagai penghantar, konstruksi kabel ada dua bagian yaitu : a. Bagian utama yaitu bagian yang harus ada pada setiap kabel antara lain : 1). Selubung (sheath) 2). Isolasi (Insulation) 3). Penghantar (conduktor) 4). Tabir (screen)
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+279
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+Gambar 179. Bahagian Utama dari Kabel
+b. Bagian pelengkap yaitu bagian yang hanya di pergunakan untuk memperkuat (memperbaki) sifat ­ sifat kabel tenaga atau untuk melindungi kabel tenaga antara lain yaitu : 1). Sarung kabel (serving) 2). Perisai (armour) 3). Bantalan (bedding) 4). Bahan pengisi (filler)
+Gambar 180. Bahagian pelengkap dari kabel
+a. Bagian Utama 1). Penghantar (konduktor) Berdasarkan dari inti kabel, maka sebagai penghantar yang banyak di pakai adalah a). Tembaga : yaitu kabel tembaga polos (plain wire) tanpa lapisan dan kawat tembaga berlapis timah atau (finned lopper wire) b). Aluminium : dalam penggunaan kabel, untuk penghantar aluminium terdiri : penghantar bulat tanpa rongga, penghantar bentuk sektoral penghantar bulat berongga.
+2). Isolasi (Insulation) Isolasi adalah sifat atau bahan yang dapat memisahkan
+secara elektris beberapa buah penghantar yang berdekatan, sehingga tidak terjadi kebocoran arus. Menurut jenis isolasi padat yang dipakai pada kabel, dapat di golongkan atas : - Isolasi karet
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+280
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+- Isolasi kertas - Thermoplastik - Thermo setting
+3). Tabir (screen) Tabir adalah suatu lapisan yang ada pada kabel yang di
+pasang sesudah bahan isolasi, dimana tabir ini biasa di jumpai pada kabel tegangan tinggi.
+4). Selubung (sheath) Selubung (sheath) di gunakan untuk melindungi inti
+kabel dari pengaruh luar, seperti : pelindung terhadap korosi, penahan gaya mekanis, mencegah keluarnya minyak dan mencegah masuknya uap air (cairan) kedalam kabel.
+Selubung (sheaht) ini dapat dibagi tiga golongan yaitu : - Selubung logam : timbal, aluminium - Selubung karet : karet silikon, polychoroprene. - Selubung plastik : PVC
+b. Bagian Pelengkap 1). Bantalan (Bedding) Bantalan (bedding) adalah lapisan yang terbuat dari serat ­ serat yang berguna untuk tempat duduk perisai (armour) dan mencegah proses elektrolisa sehingga tidak merusak bagian dalamnya. Bahan bantalan yang sering digunakan adalah : - Pita kapas (cotton tape) - Pita kertas (paper tape) - Goni (jute)
+2). Perisai (Armour) Perisai (armour) ini berfungsi untuk melindungi bahan
+isolasi dari kerusakan mekanis Secara umum perisai dapat di golongkan atas : - Perisai pita baja (stell tape armour) - Perisai kawat baja (steel wire armour)
+3). Bahan Pengisi (Filler) Bahan pengisi biasanya di pakai pada konstruksi kabel
+yang berinti tiga yaitu di gunakan untuk mengisi ruang (celah) yang kosong sewaktu pemasangan intinya, sehingga
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+281
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+dapat bentuk bulat. Bahan pengisi yang banyak di pakai adalah : - Untuk isolasi kertas di pakai jute (goni) - Untuk isolasi sintetis di pakai jute (goni) dan karet buttle
+4). Sarung kabel (serving) Sarung kabel adalah suatu lapisan bahan serat yang di
+resapi dengan campuran kedap air. Sarung kabel ini biasanya dipasang diatas armour, yang berfungsi adalah selain untuk bertahan bagi perisai, juga sebagai kompnen yang berhubungan langsung dengan tanah, sehingga sarung kabel adalah bagian pertama yang berhubungan dengan (serkena) pengaruh luar. Sarung kabel (serving ) yang sering digunakan adalah jute (goni).
+4. Jenis Kabel Bawah Tanah Menurut jumlah dan susunan hantarannya, kabel bawah tanah
+meliputi : - Kabel hantaran tunggal (single ­ core cable) - Kabel tiga hantaran (three ­ core cable) - Kabel sektoral (sector cable) - Kabel dengan netral konsentris
+Jenis kabel yang sering di gunakan pada sistem saluran distribusi yaitu pada tegangan kerja 6 kV sampai 30 kV dan saluran sub transmisi pada tegangan kerja 30 kV sampai 220 kV adalah : 1. Kabel ikat (balted cable) 2. Kabel H (Hoclstadter, sercened cable) 3. Kabel isolasi sintetis 4. Kabel isolasi minyak (oil filled cable) 5. Kabel SL (Separated Lead) dan SA (Separated Aluminium) 6. Kabel H.S.L
+a. Kabel Ikat (Belted Cable) Kabel ikat adalah kabel yang mempunyai lapisan kertas
+pengikat (paper belt). Konstruksi dari kabel ini dapat di lihat pada gambar 181.
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+282
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+Gambar 181. Konstruksi Kabel Ikat
+b. Kabel H (Hodstadter, Screen Cable) Di dalam jenis kabel H, kertas isolasi ikat (paper insulation
+belt) tidak ada, pada setiap isolasi inti dipasang suatu lapisan yang disebut screen (tabir) yang di buat dari bahan kertas logam (metalized paper) yang berlubang ­ lubang atas konduktor. Keuntungan penggunaan kabel H ini, adalah adanya peningkatan penyebaran panas yang terjadi pada penghantar, akibatnya akan menaikkan kemampuan membawa arus. Kabel jenis H, biasanya digunakan pada tegangan kerja dari 10 kv sampai 60 kv.
+Gambar 182. Konstruksi Kabel H
+c. Kabel Isolasi Sintentis Kabel isolasi sintetis (isolasi padat) adalah seperti kabel
+XLPE (Cross linked poly ethylene) dan kabel EPR (Ethylene proplene rubber). Didalam kabel isolasi sintentis (padat) ini, setiap lapisan diberi lapisan semi konduktor, kemudian di beri isolasi lalu dipasang semi konduktor dan setelah itu di pasang selubung pelindung (Sheath), yang kadang ­kadang Sheath ini terbuat dari tembaga (wire copper) Pada kabel inti tunggal,
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+283
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+sheath berfungsi sebagai kawat netral, hal ini dapat dilihat pada gambar 183.
+
+Gambar 183. Kabel Sintentis Inti Tunggal
+Sedangkan untuk kabel berinti tiga, dimana tiga buah intinya yang di beri pelindung (pita tembaga) di pasang bersama, lalu di beri bahan pengisi yang biasanya terdiri dari bahan sintetis, sering juga di pasang perisai (armour), jika diperlukan.
+
+\
+Gambar 184. Kabel Sintentis Inti Tiga
+d. Kabel Minyak Kabel isolasi minyak (oil filled cable) adalah suatu kabel
+yang isolasinya menggunakan minyak. Kabel isolasi minyak ini mempunyai beberapa macam bentuk antara lain adalah : 1). Kabel minyak berbentuk bulat : dimana letak saluran
+minyak terdapat pada pusat konduktor 2). Kabel minyak datar (flat oil filled cable) dimana tiga kabel
+dengan selubung timbul di letakkan dengan membuat susunan dan ruang di antara intinya dipergunakan sebagai saluran minyak 3). Kabel minyak dengan tahanan di dalam pipa : dimana tiga buah inti kabel yang telah di beri lapisan tabir (screen), di letakkan di dalam pipa berisi minyak. Cara bekerjanya minyak sebagai isolasi adalah jika pada penghantar / konduktor, temperaturnya naik maka minyak akan mencair, ini akan mengalir kedalam lubang minyak dan bila
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+284
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+temperaturnya turun minyak kembali akan membeku di dalam kabel dengan demikian tidak terjadi gelembung udara, sehingga dapat mencegah timbulnya kerusakan kabel.
+
+Gambar 185. Kabel Minyak Bentuk Bulat
+
+Gambar 186. Kabel Minyak Datar
+
+Gambar 187. Kabel Minyak Dengan Saluran Minyak
+Gambar 188. Kabel Minyak Dengan Tahanan
+e. Kabel SL dan Kabel S.A Kabel jenis S.L. dan S.A pada setiap intinya di isolasi
+dengan kertas, kemudian di pasang selubung timbal untuk kabel S.L. dan selubung aluminium untuk kabel S.A. Kabel jenis ini terdiri dari 3 buah inti kabel, yang mana ketiga inti ini terdiri dari
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+285
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+tiga buah inti kabel inti tunggal, lalu inti tersebut di pasang bersama ­ sama di lengkapi dengan bahan pengisi (piller), bantalan (bedding)
+
+Gambar 189. Jenis Kabel S.L. dan S.A
+f. Kabel H.S.L Kabel H.S.L. adalah merupakan gabungan antara kabel H
+dan S.L dimana setiap penghantar (konduktor di isolasi dengan kertas, lalu di lapisi dengan kertas logam atau semi konduktor kemudian di beri selubung timbal lalu ketiga intinya di pasang bersama ­ sama dan di lengkapi dengan perlengkapan kabel.
+Selain itu menurut jenis konduktor yang digunakan, dikenal ada kabel tembaga dan kabel aluminium. Kini orang mulai berangsur ­ angsur meninggalkan kabel tembaga dan beralih menggunakan kabel aluminium, meskipun saat dialiri tembaga secara elektris maupun pisik lebih baik.
+5. Jenis Isolasi Kabel Tanah Untuk melakukan pemilihan isolasi yang sesuai dengan
+kebutuhan, diperlukan evaluasi atas data-data sebagai berikut : (Ngapuli, 1988:03) a. Sifat fisis dan penuaan
+Merupakan sifat yang menunjukan ketahanan isolasi dalam kondisi kerja. Faktor ini erat hubungannya dengan umur kabel. b. Tahanan isolasi
+Merupakan ukuran terhadap kebocoran isolasi, sehingga turut menetukan besarnya kerugian dielektrik atau efisiensi dari pada suatu saluran transmisi/distribusi. Faktor yang biasanya dinyatakan dengan tahanan jenis isolasi. Bahan isolasi umumnya mempunyai koefesien suhu negatif, yaitu tahanan isolasi turun dengan naiknya suhu. Karena itu persyaratan tahanan jenis isolasi biasanya diberikan pada suhu kerja bahan tersebut.
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+286
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+c. Faktor daya Merupakan perbandingan antara daya aktif dan daya
+sebenarnya. Jadi merupakan ukuran secara langsung atas efisiensi saluran transmisi/ distribusi. d. Konstanta dielektrik
+Merupakan karakteristik bahan isolasi yang menetukan kerugian dielektrik sebagai fungsi frekuensi. e. Ketahanan terhadap air. f. Ketahanan terhadap korona dan ionisasi
+Menentukan ketahanan isolasi terhadap tegangan tinggi dalam frekuensi daya atau dalam bentuk impuls. g. Fleksibilitas mekanis. h. Kondisi sekitar tempat instalasi. i. Biaya (kabel, alat penyambung dan instalasi).
+Ada beberapa isolasi kabel yaitu : - Kertas (di impegnasi di dalam cairan minyak) - Karet - Kain (dengan vernis) - PVC (Poly Vinyl Chloride) - PE (Poly Ethylene) - XLPE (Cross Linked Poly Ethylene)
+Isolasi kabel tanah tegangan tinggi tidak saja berfungsi sebagai penyekat (isolator) atau pengaman, tetapi juga berfungsi sebagai pelengkap atau pendukung kerja transmisi tenaga listrik pada saluran kabel tanah itu sendiri. Isolasi kabel tanah umumnya terdiri dari jenis isolasi kertas, karena meresap minyak dan campuran biasanya digunakan pada kabel minyak isolasi sintesis dan isolasi mineral.
+Sifat-sifat dielektris yang penting untuk isolasi adalah: (a) Tahanan isolasi yang tinggi, (b) Kekuatan dielektris yang tinggi, (c) Sifat mekanis yang baik, (d) Tidak bereaksi terhadap asam dan lembab
+a. Isolasi kertas. Kabel tanah berisolasi kertas dapat digunakan untuk
+tegangan tinggi sampai 400 KV, baik untuk kabel minyak bertekanan rendah (low pressure oilfiled­ LPOF) yang terpadu dalam satu kabel (self contained) dan kabel berisolasi kertas yang dimasukan kedalam pipa, lalu diisi dengan minyak bertekanan tinggi (high pressure oil filed ­ LPOF).
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+287
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+Kertas sebagai isolasi dapat berupa kertas kering maupun kertas yang diresapi minyak. Pada saat dibuat dipabrik (oil impregnated paper), dimana kekuatan dielektrik kertas itu tergantung pada ketebalan, kepadatan ketahanan terhadap air (impermeabilitas), kekuatan tarik (tensile strength), kemuluran (elogation),permitivitas relative, faktor disipasi dan kekuatan tembus listriknya.
+Peresapan kertas dengan minyak pada kabel tegangan tinggi (diatas 30 KV), dimaksudkan untuk menghindari agar serat-serat kertas tidak pecah karena terbentuknya kantong-kantong udara (void) atau gas dalam kertas isolasi yang dapat berkembang dan mengkerut menjadi bagian-bagian yang tidak sama, dengan bertambahnya panas pada siklus beban. Tekanan pada kantong udara ini adalah tinggi, sehingga terjadi pelepasan muatan (discharge) yang menimbulkan panas dan dapat menghanguskan kertas. Dengan kata lain kertas sebagai isolasi mengalami "partial discharge" yang mengakibatkan kegagalan isolasi (break down insulation).
+b. Isolasi Campuran dan Diresapi Minyak. Pada hakekatnya kabel dengan jenis isolasi campuran dan
+diresapi minyak adalah kabel yang berisolasi kertas yang diresapi minyak pada saat dibuat (oil impregnated paper), dimana didalam kabel tersebut dialiri dengan minyak yang bertekanan minyak. Dalam hal ini yaitu berfungsi sebagai: isolasi listrik yang memperkuat dielektrik pada kertas isolasi dan media pendinggin kabel.
+Kabel (isolasi) kertas yang diresapi minyak (oil impregnated) biasanya digunakan untuk saluran transmisi bawah tanah, meskipun untuk tegangan dibawah 35 kV kabel plastik atau kabel butyl juga dipakai. Sebagai penghantar biasanya digunakan kawat tembaga berlilit (annealed stranded), meskipun kawat aluminium berlilit (karena ringan) juga dipakai untuk kabel udara. Sebagai pembungkus sering digunakan timah hitam, meskipun alumunium sekarang juga disukai, bukan saja untuk kabel udara, tetapi juga untuk kabel minyak. Sebagai kulit pelindung digunakan pita baja untuk kabel tiga-kawat yang ditaruh langsung dan kawat baja untuk kabel tiga-kawat yang ditaruh didasar laut . Kawat tembaga, kawat baja tahan karat dan kawat aluminium digunakan bila kabel satu-kawat dipasang dengan tarikan.
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+288
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+c. Isolasi PVC Merupakan jenis kabel yang berkawat satu atau lebih,
+berisolasi dan berselubung PVC, tegangan nominal 500 volt. Kabel NYM biasanya digunakan untuk instalasi biasa di dalam gedung, dalam ruang kering maupun lembab dan di atas atau di bawah semen.
+Di samping itu, karena kemampuan mengalirkan arus yang lebih besar, pada umumnya dapat digunakan kabel XLPE dengan ukuran penghantar satu tingkat di bawah kabel kertas.
+d. Isolasi XLPE (Cross Linked Poly Ethylene) Dari segi isolasi, sekarang orang mulai menggunakan XLPE
+yang memiliki ketahanan kerja lebih baik, meskipun harganya mahal dibandingkan dengan isolasi sintetis jenis lain. XLPE mempunyai karakteristik paling baik, tetapi pada umumnya isolasi sintetis mempunyai kelebihan di bandingkan dengan isolasi kertas yaitu : a. Lebih bersih b. Ringan, karena tak memerlukan selubung logam c. Perbaikan dan pemeliharaannya mudah d. Cara penyambungannya sederhana e. Suhu kerjanya lebih tinggi (khusus XLPE), karena itu
+kapasitas penyalurannya besar. Isolasi XLPE digunakan pada kabel yang bertegangan mencapai 110 kV atau biasa digunakan pada kabel tegangan menengah. Keuntungan dari isolasi XLPE adalah : a. Suhu kerja lebih tinggi sehingga dapat dialiri arus yang lebih tinggi. b. Bobot yang ringan. c. Bisa digunakan pada frekuensi tinggi. Adapun permasalahan yang terdapat pada isolasi PE (XLPE) adalah lebih sensitif terhadap pelepasan muatan (partial discharges), serta umur bahan yang tidak terlalu lama. Apabila sering terjadi pelepasan muatan maka disini akan terjadi suatu kegagalan pada isolasi tersebut, yaitu mengalirnya muatan pada isolasi. Hal ini tidak diinginkan, karena ini sangat berpengaruh terhadap umur bahan. Bentuk kegagalan yang dominan adalah kegagalan thermal, yang dipengaruhi oleh suhu dari kabel tersebut akibat dialiri oleh tegangan, khususnya tegangan bolakbalik.
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+289
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+Karakteristik masing-masing bahan isolasi diberikan pada tabel di bawah ini :
+Tabel 21. Karakteristik Bahan Isolasi
+
+Isolasi
+
+KI PVC PE XLPE EPR
+
+Temperatur kerja maks ( ° C )
+
+- normal
+
+65
+
+70 70
+
+90
+
+90
+
+- beban lebih
+
+75
+
+-
+
+-
+
+130
+
+-
+
+- akhir hubung singkat Ketahanan terhadap :
+
+150 160 150 250
+
+250
+
+- zat kimia
+
+-
+
+sb
+
+c
+
+sb
+
+sb
+
+- kelembaban
+
+brk
+
+sb sb
+
+sb
+
+sb
+
+- api
+
+brk
+
+b brk
+
+c
+
+c
+
+Kelenturan
+
+brk
+
+c
+
+c
+
+c
+
+sb
+
+Batas Tegangan (kV)
+
+63/750 10 400 225
+
+132
+
+Sumber : (Ngapuli, 1988:04) Keterangan : KI = kertas impregnasi
+B = baik Brk = buruk C = cukup Sb = sangat baik
+
+D. Konstruksi Saluran Bawah Tanah
+1. Pemasangan Kabel Bawah Tanah Beberapa faktor penting yang perlu diingat pada saat
+pemasangan kabel adalah : (PLN Operasi & Pemeliharaan Jaringan Distribusi, 1995:18) a. Sebelum meletakkan kabel, isolasinya harus diperiksa dengan
+megger sebagai pemeriksaan pencegahan kemungkinan adanya kerusakan. b. Penggulungan kabel harus diputar searah dengan tanda panah yang ada padanya. Jika tanda itu tidak ada, penggulungan harus diputar searah dengan akhiran kabel di dalam dan berlawanan arah dengan akhiran luar. c. Kabel harus diambil dari bagian puncak penggulungan dengan tanjakan penyangga, jika perlu penggulungan direm guna menghindari putaran terlalu cepat. d. Jika perlu dipindahkan, penggulungan kabel harus dipindahkan dengan roda-roda kabel.
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+290
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+e. Jari-jari pemasangan harus dibuat sebesar mungkin. Jari-jari pemasangan harus sesuai dengan yang dianjurkan dalam IS : 1225-1967.
+f. Pada cuaca dingin kabel harus dipanasi sebelum ditangani. Kabel tersebut harus dipasang ketika suhunya diatas 0 °C (32 °F) dan tidak boleh turun dari suhu tersebut selama 24 jam.
+g. Harus dibuat percobaan kelembaban pada bahan penyambungan sebelum penyambungan.
+h. Bila kabel disambungkan dengan kabel yang sudah terpasang, jajaran teras dari ujung yang lain harus berlawanan arah, jadi jika satu ujung searah jarum jam, ujung yang lain harus berlawanan dengan jarum jam. Hal ini perlu untuk menghindari teras ketika sedang menyambung.
+i. Suatu sambungan menjadi titik terlemah dari sistem distribusi tenaga listrik, semua usaha pencegahan harus dilakukan untuk melindungi kabel.
+
+Gambar 190.Teknik pemasangan kabel bawah tanah pada ruangan saluran kabel.
+
+Gambar 191. Konstruksi Penarikan Kabel Tanah
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+291
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+Kabel pada saluran distribusi bawah tanah tegangan menengah yang dipakai adalah kabel tanah dengan pelindung mekanis bagian luar (pita baja), dengan berpelindung medan magnet dan elektris. Kabel dapat berbentuk multicore belted cable atau single core full isolated cable.
+Kabel tanah diletakkan pada : a. Minimum 0.8 meter di bawah permukaan tanah pada jalan yang
+dilewati kendaraan. b. Minimum 0.6 meter di bawah permukaan tanah pada jalan yang
+tidak dilewati kendaraan. c. Lebar galian sekuran-kurangnya 4 meter.
+
+Gambar 192. Konstruksi Penanaman Kabel Tanah Dibawah Jalan Raya
+Cara pemasangan kabel tanah di atur dalam pasal 744. antara lain ditentukan sebagai berikut.
+Kabel tanah yang dipasang di dalam tanah harus dilindungi terhadap kemungkinan terjadinya gangguan mekanis dan kimiawi. Perlindungan terhadap gangguan mekanis pada umumnya dianggap mencukupi jika kabelnya di tanam : a. minimun 80 cm di bawah permukaan tanah pada jalan yang
+dilalui kendaraan: b. minimum 60 cm di bawah permukaan tanah yang tidak di lalui
+kendaraan (ayat 744 A2). Kabelnya harus diletakkan di dalam pasir atau tanah lembut yang bebas dari batu-batuan , dan di atas galian tanah yang stabil , kuat dan rata. Lapisan pasir atau tanah itu harus sekurang-kurangnya 5 cm di sekeliling kabel. Sebagai perlindungan tambahan di atas timbunan pasir atau tanah lembut dapat dapat dipasang beton, batu bata pelindungan (ayat A4).
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+292
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+Kabel tanah yang dipasang keluar dari tanah di luar bangunan harus di lindungi dengan pipa baja atau bahan lain yang cukup kuat sampai di luar jangkauan tangan, kecuali kalau sudah ada perlindungan lain yang sederajat (ayat 744 F1).
+Sambungan antar kabel tanah berperisai atau berselubung logam harus dibuat dengan salah satu cara berikut ini (ayat 741 B4) : a.. dibuat dalam kotak sambung kabel tanah: perisai atau selubung
+logamnya harus ikut dimasukkan ke dalam kotak sambung sampai suatu batas tertentu dan kotaknya harus diisi dengan kompon isolasi yang tahan lembab : b. dibuat di dalam suatu tabung timbel yang diselubungkan pada selubung luar kabel. c. Dibuat dengan cara lain yang dibenarkan. Kabel tanah harus di perlakukan dengan hati-hati dan sekali-kali tidak boleh dipuntir atau ditekuk. Karena itu mengeluarkan kabel yumal dari haspel harus dilakukan dengan cara memutar haspelnya (lihat gambar 17). Juga tarikan dan tekanan mekanis yang berlebihan harus dihindari . pembekokkan kearah berlawanan pun harus dibatasi sedapat mungkin ( lihat gambar 18 ). Kabel tanah harus diangkut dan disimpan dalam haspel yang diletakan berdiri.Haspelnya harus cukup besar. Untuk kabel tanah berpariasi harus digunakan haspel dengan diameter dalam yang sekurang-kurangnya sama dengan 25 kali diameter luar kabel. Kalau terpaksa harus digelar diatas tanah, kabelnya harus digelar dalam bentuk angka 8 yang ukurannya cukup besar, yaitu sekurang-kurangnya 8x3m ( gambar 19 ). Tanahnya harus rata dan bebas dari batu-batuan dan sebagainya. Ujung kabel tanah tidak boleh dibiarkan terbuka,tetapi harus selalu ditutup rapat dengan cara yang tepat untuk mencegah air masuk dan lembab ke dalam kabel. Kabel yang dipasang harus dilapisi pasir halus setebal minimum 5 cm dari permukaan kulit kabel dan kabel bagian atas diberi pelindung mekanis untuk maksud keamanan, terbuat dari beton, batu atau bata. Kabel bawah tanah tidak jarang melewati persilangan, persilangan kabel, persilangan kabel telekomunikasi dan kabel listrik (non PLN), persilangan dengan rel kereta api, persilangan dengan jalan raya, persilangan dengan saluran air. Berikut ini ketentuan pemasangan kabel tanah jika ada persilangan:
+2. Persilangan Kabel Bawah Tanah Kabel harus dilindungi pipa beton belah atau lempengan
+minimum tebal 6 cm. pipa beton belah dilebihkan 0.5 meter pada
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+293
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+sisi kiri kanan persilangan, tutup pelindung minimal 5 cm lebih lebar dari kabel yang dilindungi.
+
+Gambar 193.Pemasangan Kabel Tanah Pada Jembatan Beton
+b. Persilangan kabel telekomunikasi dan kabel listrik (non PLN) Kabel listrik harus dibawah kabel telekomunikasi, kabel harus dilindungi dengan pelindung (pipa beton belah, plat beton, pipa yang tahan api). Kedua sisi persilangan pelindung ditambah 0.5 meter.
+Gambar 194. Konstruksi Penanaman Kabel Tanah Dengan Kabel Telekomunikasi dan Kabel Listrik
+c. Persilangan dengan rel kereta api Rel kabel harus berjarak minimal 2 meter dari rel kereta api,
+jika terjadi persilangan, kabel harus dimasukkan dalam pipa gas dengan diameter minimal 4 inch (10 cm) dan dilebihkan 0.5 meter dari masing-masinggaris vertical kiri kanan rel kereta api dengan kedalaman 2 meter di bawah rel kereta api.
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+294
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+Gambar 195. Konstruksi Penanaman Kabel Bawah Tanah Dibawah Rel Kereta Api
+d. Persilangan dengan jalan raya Kabel harus dimasukkan dalam pipa beton atau PVC atau
+selubung baja, yang dilebihkan masing-masing 0.5 meter sisi kiri kanan bahu jalan. Di bawah penerangan kabel harus dilindungi dengan pelindung pipa beton separuh, PVC atau sejenisnya.
+
+Gambar 196. Konstruksi Penanaman Kabel Bawah Tanah Dibawah Jalan Raya Aspal.
+Gambar 197. Konstruksi Penanaman Kabel Tanah Melintasi Jalan Raya
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+295
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+e. Persilangan dengan saluran air Kabel harus ditanam minimal 1 meter di bawah saluran air.
+Jika di bawah laut harus ditanam sedapat mungkin 2 meter di bawah dasar laut. Sedangkan jarak minimal kabel tanah dengan bangunan air adalah 0.3 meter dan harus dimasukkan kedalam pipa beton/logam dengan diameter minimal 10 cm dan dilebihkan 0.5 meter pada sisi perlintasan. Untuk kedua tepi saluran air tempat kabel ditanam harus diberi tanda yang cukup untuk dilihat pengemudi kapal dan jika harus menyeberangi saluran air, jembatan kabel khusus harus tersedia.
+
+Gambar 198. Konstruksi Lintasan Kabel Tanah Diatas Sungai.
+
+Gambar 199. Konstruksi Kabel Tanah Menyebrangi Pipa Atau Kabel
+3. Penyambungan Kabel Bawah Tanah Jointing secara umum adalah pemasangan kotak sambungan.
+Umumnya kabel didesain bahwa satu perancangan sambungan terandalkan dan harus sesuai dengan penerapan di dalam pabrik dan di dalam medan. Kemampuan sambungan harus baik pada pemasangan awal suatu saluran, karena pada penyimpanan atau penanaman setiap kabel di dalam tanah dan ruang terkurung dapat dipastikan beroperasi di bawah bermacam-macam kondisi cuaca. (Gilbertson, 2001:127)
+Kondisi-kondisi untuk suatu penyambungan kabel di pabrik dapat dijadikan contoh. Penyambungan dapat dilaksanakan di bawah kondisi-kondisi ruang kamar yang bersih dengan kendali dari suhu
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+296
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+dan kelembaban. Waktu dan ruang serta keahlian pekerja harus siap tersedia dengan bermacam perkakas saat pemasangan sambungan. Hasil pemasangan sambungan kabel ini diharapkan memenuhi syarat dan perintah penyambungan di pabrik.
+
+Gambar 200. Konstruksi Penyambungan Secara Simplex Pulling Grip
+
+Gambar 201. Konstruksi Penyambungan Secara Duplex Pulling Grip
+Gambar 202. Konstruksi Penyambungan Kabel Bawah Tanah Dengan Pelindung Isolasi PE, XLP, dan EPR.
+4. Terminating Kabel Bawah Tanah Terminating secara umum adalah pemasangan kotak ujung.
+Suatu terminasi adalah suatu cara menyiapkan ujung suatu kabel untuk menyediakan elektrik cukup dan sifat mekanis.
+Suatu terminasi terdiri dari membentuk ujung kabel untuk menerima tegangan dari kabel dan digunakan untuk hubungan busbar , sebagai contoh, switchgear. Tegangan itu dimasukkan dengan pengetaman isolasi/penyekatan ke dalam suatu tegangan membebaskan tahanan. Ujung kabel yang dibentuk dipusatkan di dalam satu busing insulator yang diisi dengan membatasi cairancairan atau gas. Pelindung insulator, biasanya keramik.
+Terminasi-terminasi untuk XLPE sebagian besar dari tangan mem- bentuk tipe kerucut tegangan atau dengan perakitan kerucut
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+297
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+tegangan dari suku cadang karet yang premodial. Cairan silikon digunakan untuk kisi keramik.
+
+Gambar 203. Terminating Kabel Bawah Tanah Pada Tiang Opstijg Cable
+Gambar 197. Kabel Netral Konsentris Gambar 204 Terminating Kabel NA2XSEFGbY
+E. Pengaman Kabel Bawah Tanah
+Disebabkan bahwa jaringan distribusi bawah tanah kebanyakan merupakan feeder radial dengan sumber daya terletak pada satu ujung saja, sehingga untuk pengamanannya cukup digunakan relay arus lebih saja. Pada sistem yang mempunyai dua sumber daya yang terletak di kedua ujungnya pengamanan dengan menggunakan relay arus lebih tidak memenuhi syarat. Penggunaan relay impedansi pada kabel tanah juga
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+298
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+tidak akan memberikan hasil yang baik karena tahanan gangguan relatif lebih besar dibandingkan tahanan fase kabel, sehingga penggunaan relay impedansi sering mengalami kegagalan. Pada kabel tanah gangguan yang terjadi adalah gangguan permanen sehingga tidak boleh digunakan relay penutup balik (recloser), karena penggunaan penutup balik pada gangguan permanen memberikan dampak yang dapat merusak peralatan.
+Untuk pengamanan kabel tanah yang mempunyai sumber daya pada kedua ujungnya dipakai relay differensial yang membandingkan besar arus pada kedua ujungnya.
+F. Pelacakan Lokasi Gangguan
+Beberapa peralatan dan teknik yang digunakan untuk mengetahui lokasi gangguan jaringan bawah tanah, diantaranya : 1. Melacak dan mencari
+Pada bagian sistem radial yang mengalami kerusakan pengaman (fuse), lokasi yang mengalami gangguan dibatasi dengan membuka/melepas kabel, setelah kabel terlepas lalu dilakukan penggantian fuse. Penggunaan fuse dengan pembatas arus akan mengurangi gangguan arus tetapi akan meningkatkan biaya.
+2. Indikator Gangguan Indikator jaringan yang terganggu adalah sebuah peralatan kecil
+yang dipasang disekitar kabel sebagai pengukur arus dan penghantar sinyal dari arus gangguan. Pendeteksi gangguan jaringan bukanlah penunjuk gangguan yang akurat, setelah diidentifikasi lokasi gangguan, hendaknya masih dilakukan pendeteksi gangguan dengan metode lain untuk mendapatkan likasi yang terganggu secara tepat.
+
+Gambar 205. Indikator gangguan
+3. Alat Pelacak Ground Penerating Radar (GPR) Penggunaan GPR untuk mendeteksi lokasi gangguan pada
+jaringan bawah tanah disebut dengan otomata. Hasil yang didapat dari GPR adalah file gambar, dengan menerapkan konsep otomata akan
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+299
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+diketahui dan dilacak pola difraksi file gambar yang diperoleh dari GPR, sehingga dapat diketahui kedalaman dan jari-jari (diameter) dari kabel listrik.
+
+Gambar 206. Gambar keluaran Alat GPR
+
+Gambar 207. Hasil Akuisisi Data Alat GPR
+Gambar 208. Alat Pelacak Gangguan Kabel Tanah.
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK
+
+300
+
+JARINGAN DISTRIBUSI BAWAH TANAH
+
+DAMAN SUSWANTO : SISTEM DISTRIBUSI TENAGA LISTRIK

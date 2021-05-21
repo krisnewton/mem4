@@ -1,0 +1,1656 @@
+ANALISIS PENGARUH CITRA MEREK, PERSEPSI TERHADAP KUALITAS, NAMA
+MEREK, DAN BRAND AWARENESS TERHADAP KEPUTUSAN PEMBELIAN SABUN
+PENCUCI PAKAIAN BUBUK ATTACK
+(Studi Kasus pada Konsumen Produk Attack di Kecamatan Gayamsari, Kota Semarang)
+SKRIPSI
+Diajukan sebagai salah satu syarat Untuk menyelesaikan Program Sarjana (S1)
+pada Program Sarjana Fakultas Ekonomi Universitas Diponegoro
+Disusun oleh:
+LUSI INDAH MAYASARI NIM. C2A309005
+FAKULTAS EKONOMI UNIVERSITAS DIPONEGORO
+SEMARANG 2011
+1
+
+PERSETUJUAN SKRIPSI
+
+Nama Penyusun
+
+: Lusi Indah Mayasari
+
+Nomor Induk Mahasiswa : C2A309005
+
+Fakultas/Jurusan
+
+: Ekonomi/Manajemen
+
+Judul Skripsi
+
+: ANALISIS PENGARUH CITRA MEREK, PERSEPSI TERHADAP KUALITAS, NAMA MEREK, DAN BRAND AWARENESS TERHADAP KEPUTUSAN PEMBELIAN SABUN PENCUCI PAKAIAN BUBUK ATTACK (Studi Kasus pada Konsumen Produk Attack di Kecamatan Gayamsari, Kota Semarang)
+
+Dosen Pembimbing
+
+: Drs. Harry Soesanto, MMR.
+
+Semarang, 15 Desember 2011 Dosen Pembimbing,
+
+(Drs. Harry Soesanto, MMR.) NIP. 19560906 198703 1003
+2
+
+PENGESAHAN KELULUSAN UJIAN
+
+Nama Penyusun
+
+: Lusi Indah Mayasari
+
+Nomor Induk Mahasiswa : C2A309005
+
+Fakultas/Jurusan
+
+: Ekonomi/Manajemen
+
+Judul Skripsi
+
+: ANALISIS PENGARUH CITRA MEREK, PERSEPSI TERHADAP KUALITAS, NAMA MEREK, DAN BRAND AWARENESS TERHADAP KEPUTUSAN PEMBELIAN SABUN PENCUCI PAKAIAN BUBUK ATTACK (Studi Kasus pada Konsumen Produk Attack di Kecamatan Gayamsari, Kota Semarang)
+
+Telah dinyatakan lulus ujian pada tanggal 15 Desember 2011
+
+Tim Penguji:
+
+1. Drs. Harry Soesanto, MMR.
+
+(.................................)
+
+2. Sri Rahayu Tri Astuti, SE., MM.
+
+(.................................)
+
+3. Imroatul Khasanah, SE, MM.
+
+(.................................)
+
+3
+
+PERNYATAAN ORISINALITAS SKRIPSI
+Yang bertanda tangan di bawah ini saya, Lusi Indah Mayasari, menyatakan bahwa skripsi dengan judul: Analisis Pengaruh Citra Merek, Persepsi Terhadap Kualitas, Nama Merek, dan Brand Awareness Terhadap Keputusan Pembelian Sabun Pencuci Pakaian Bubuk Attack (Studi Kasus pada Konsumen Produk Attack di Kecamatan Gayamsari, Kota Semarang), adalah hasil tulisan saya sendiri. Dengan ini saya menyatakan dengan sesugguhnya bahwa dalam skripsi ini tidak terdapat keseluruhan atau sebagian tulisan orang lain yang saya ambil dengan cara menyalin atau meniru dalam bentuk rangkaian kalimat atau simbol yang menunjukkan gagasan atau pendapat atau pemikiran dari penulisan lain, yang saya akui seolah-olah sebagai tulisan saya sendiri, dan/atau tidak terdapat bagian atau keseluruhan tulisan yang saya salin itu, atau yang saya ambil dari tulisan orang lain tanpa memberikan pengakuan penulis aslinya.
+Apabila saya melakukan tindakan yang bertentangan dengan hal tersebut di atas, baik disengaja maupun tidak, dengan ini saya akan menyatakan menarik skripsi yang saya ajukan sebagai hasil tulisan saya sendiri ini. Bila kemudian terbukti bahwa saya melakukan tindakan menyalin atau meniru tulisan orang lain seolah-olah hasil pemikiran saya sendiri, berarti gelar dan ijazah yang telah diberikan oleh universitas batal saya terima.
+Semarang, 15 Desember 2011
+Yang membuat pernyataan,
+(Lusi Indah Mayasari) NIM. C2A309005
+4
+
+MOTTO DAN PERSEMBAHAN " Orang yang kalah bukanlah orang yang gagal dalam usahanya melainkan
+orang yang berhenti berusaha" "Karena sesungguhnya sesudah kesulitan itu ada kemudahan. Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain, dan hanya kepada Tuhan mu lah hendaknya kamu berharap"
+(QS. Al Insyirah : 5-8)
+"Dengan Menyebut Nama Allah Yang Maha Pengasih Lagi Maha Penyayang" Sebuah persembahan bhakti bagi kedua orang tuaku dan Keluargaku tercinta "Ayahanda dan Ibunda tercinta serta Kakak-kakak ku yang terkasih" Terima kasih untuk setiap tetes keringat dan lantunan doa yang tiada henti dengan tulus engkau curahkan selama ini
+5
+
+ABSTRAK
+Penelitian ini bertujuan untuk mengetahui pengaruh citra merek, persepsi terhadap kualitas, nama merek, dan brand awareness terhadap keputusan pembelian sabun pencuci pakaian.
+Penelitian ini dilakukan terhadap konsumen sabun pencuci pakaian Attack dan jumlah sampel yang ditetapkan sebanyak 100 responden dengan menggunakan metode Purposive Sampling. Pengumpulan data dilakukan dengan menyebar kuesioner. Metode analisis data dilakukan dengan regresi linier berganda menggunakan software SPSS. Data yang telah memenuhi uji validitas, uji reliabilitas, dan uji asumsi klasik diolah sehingga menghasilkan persamaan regresi sebagai berikut:
+Y = 0,280 X1 + 0,296 X2 + 0,194 X3 + 0,277 X4 Dimana variabel Keputusan Pembelian (Y), Citra Merek (X1), Persepsi Terhadap Kualitas (X2), Nama Merek (X3), dan Brand Awareness (X4). Pengujian hipotesis menggunakan uji t menunjukkan bahwa keempat variabel independen yang diteliti terbukti secara positif dan signifikan mempengaruhi variabel dependen keputusan pembelian. Kemudian melalui uji F dapat diketahui bahwa variabel citra merek, persepsi terhadap kualitas, nama merek, dan brand awareness layak untuk menguji variabel dependen keputusan pembelian. Angka Adjusted R Square sebesar 0,766 menunjukkan bahwa 76,6 persen variasi keputusan pembelian dapat dijelaskan oleh keempat variabel independen dalam persamaan regresi. Sedangkan sisanya sebesar 23,4 persen dipengaruhi oleh variabel lain yang tidak dijelaskan dalam persamaan regresi dalam penelitian ini. Kata Kunci : Keputusan Pembelian, Citra Merek, Persepsi Terhadap Kualitas, Nama Merek, Brand Awareness
+6
+
+ABSTRACT
+This study aims to determine the effect of brand image, perceived quality, brand names, and brand awareness of buying decisions laundry soap Attack.
+The research was conducted on consumers Indomie that has been moved to brand of Mie Sedap and noodles sample set of 100 respondents using Purposive Sampling methods. Data ware collected by distributing questionnaires. Data analysis method was performed by multiple linear regression using SPSS software. Data that has met the test of validity, test reliability, and test the assumptions of classical processed resulting regression equation as follows:
+Y = 0,280 X1 + 0,296 X2 + 0,194 X3 + 0,277 X4 Where Buying Decisions variable (Y), Brand Image (X1), Perceived Quality (X2), Brand Names (X3), and Brand Awareness (X4). The hypothesis testing using t test showed that the four independent variables studied proved to be positively and significantly affect the dependent variable buying decisions. Then through the F test showed that the variables of bradn image, perceived quality, brand names, and brand awareness is appropriate to test the dependent variable buying decisions. Figures Adjusted R Square of 0.766 indicates that 76.6 percent of the variation of buying decisions can be explained by the four independent variables in the regression equation. While the rest of 23.4 percent is influenced by other variables that are not explained in the regression equation in this study. Keywords: Buying Decisions, Brand Image, Perceived Quality, Brand Names, Brand Awareness.
+7
+
+KATA PENGANTAR
+Puji syukur kehadirat Allah SWT atas berkat dan limpahan rahmat-Nya sehingga Penulis dapat menyelesaikan skripsi dengan judul "Analisis Pengaruh Citra Merek, Persepsi Terhadap Kualitas, Nama Merek, dan Brand Awareness Terhadap Keputusan Pembelian Sabun Pencuci Pakaian Bubuk Attack (Studi Kasus pada Konsumen Produk Attack di Kecamatan Gayamsari, Kota Semarang)". Skripsi ini disusun guna memenuhi syarat dalam menyelesaikan pendidikan program strata satu (S1) pada Fakultas Ekonomi Universitas Diponegoro Semarang.
+Penulis menyadari bahwa terselesaikannya penyusunan skripsi ini tidak terlepas dari bantuan, bimbingan, petunjuk dan saran dari semua pihak. Oleh karena itu, dalam kesempatan ini penulis menyampaikan rasa hormat dan ucapan terima kasih yang sebesar-besarnya kepada: 1. Bapak Prof. Drs. Mohamad Nasir, M.Si., Ak., Ph.D. selaku Dekan Fakultas
+Ekonomi Universitas Diponegoro. 2. Ibu Drs. Harry Soesanto, MMR. selaku Dosen Pembimbing yang telah
+meluangkan waktu, tenaga, pikiran, dan senantiasa sabar memberikan pengarahan, bimbingan, dan motivasi dalam penyelesaian skripsi ini. 3. Bapak Drs. H. Mudiantoro, M.Sc. selaku Dosen Wali Manajemen Reguler II 2009 atas bimbingan yang telah diberikan. 4. Bapak dan Ibu Dosen pengajar Fakultas Ekonomi Universitas Diponegoro Semarang yang telah memberikan bekal ilmu pengetahuan. 5. Seluruh staf dan karyawan Fakultas Ekonomi Universitas Diponegoro Semarang yang telah membantu penulis selama masa perkuliahan. 6. Ayahanda dan Ibunda tercinta yang senantiasa memberikan motivasi, kasih sayang yang tidak ternilai dan selalu mendoakan serta memberikan yang terbaik. 7. Kakakku tercinta terima kasih atas motivasi, doa dan dukungan.
+8
+
+8. Sahabat-sahabatku tercinta: Tesna, Siti, Ita, Sarah, dan Rina terima kasih atas keceriaan, bantuan, dan motivasinya semoga persahabatan kita tetap terjaga.
+9. Teman-teman Manajemen Angkatan 2009 : Mira, Tara, Meyta, Lidya, Riska, Laras, Leni, Vivi, Randy, Feri, Adit, Rangga, Putra, Jimmy, Teguh dan Frans terima kasih atas hari-hari yang menyenangkan saat kita bersama.
+10. Responden yang telah membantu saya dalam penyelesaian penelitian ini. 11. Semua pihak yang tidak dapat penulis sebutkan satu persatu yang telah
+banyak membantu penulis untuk menyelesaikan penelitian ini. Semarang, 15 Desember 2011 Penulis, Lusi Indah Mayasari
+9
+
+DAFTAR ISI
+
+Halaman
+
+HALAMAN JUDUL
+
+i
+
+HALAMAN PERSETUJUAN
+
+ii
+
+HALAMAN PENGESAHAN KELULUSAN UJIAN
+
+iii
+
+HALAMAN ORISINALITAS SKRIPSI
+
+iv
+
+MOTTO DAN PERSEMBAHAN
+
+v
+
+ABSTRACT
+
+vi
+
+ABSTRAK
+
+vii
+
+KATA PENGANTAR
+
+viii
+
+DAFTAR TABEL
+
+xiv
+
+DAFTAR GAMBAR
+
+xv
+
+DAFTAR LAMPIRAN
+
+xvi
+
+BAB I.
+
+PENDAHULUAN
+
+1
+
+1. 1. Latar Belakang Masalah
+
+1
+
+1. 2. Rumusan Masalah
+
+10
+
+1. 3. Tujuan dan Kegunaan Penelitian
+
+11
+
+1. 4. Sistematika Penulisan
+
+12
+
+BAB II. TINJAUAN PUSTAKA
+
+14
+
+2. 1. Landasan Teori
+
+14
+
+2.1. 1. Perilaku Konsumen
+
+14
+
+2.1. 2. Keputusan Pembelian
+
+17
+
+2.1. 3. Citra Merek
+
+23
+
+2.1.3. 1. Hubungan Citra Merek dengan Keputusan
+
+Pembelian
+
+25
+
+2.1. 4. Persepsi Terhadap Kualitas
+
+27
+
+2.1.4. 1. Hubungan Persepsi terhadap Kualitas
+
+dengan Keputusan Pembelian
+
+32
+
+2.1. 5. Nama Merek
+
+34
+
+2.1.5. 1. Hubungan Nama Merek dengan Keputusan
+
+Pembelian
+
+38
+
+10
+
+2.1. 6. Brand Awareness
+
+40
+
+2.1.6. 1. Hubungan Brand Awareness dengan
+
+Keputusan Pembelian
+
+43
+
+2. 2. Penelitian Terdahulu
+
+45
+
+2. 3. Kerangka Pemikiran Teoritis
+
+48
+
+BAB III. METODE PENELITIAN
+
+49
+
+3. 1. Variabel Penelitian dan Definisi Operasional
+
+49
+
+3.1. 1. Variabel Penelitian
+
+49
+
+3.1. 2. Definisi Operasional
+
+49
+
+3. 2. Penentuan Populasi dan Sampel
+
+52
+
+3.2. 1. Populasi
+
+52
+
+3.2. 2. Sampel
+
+52
+
+3. 3. Jenis dan Sumber Data
+
+55
+
+3. 4. Metode Penyusunan Data
+
+55
+
+3. 5. Metode Analisis Data
+
+56
+
+3.5. 1. Analisis Kuantitatif
+
+56
+
+3.5. 1.1. Uji Validitas
+
+56
+
+3.5. 1.2. Uji Reliabilitas
+
+57
+
+3.5. 1.3. Uji Asumsi Klasik
+
+57
+
+3.5. 1.4. Analisis Regresi Berganda
+
+60
+
+3.5. 1.5. Uji Hipotesis
+
+60
+
+3.5. 2. Analisis Kualitatif
+
+63
+
+BAB IV. HASIL DAN PEMBAHASAN
+
+64
+
+4.1.Deskripsi Obyek Penelitian
+
+64
+
+4.1.1. Gambaran Umum Perusahaan
+
+64
+
+4.1.1.1. Sekilas Perusahaan
+
+64
+
+4.1.1.2. Bidang Usaha
+
+65
+
+4.1.2. Gambaran Umum Produk
+
+66
+
+4.2.Deskripsi Responden
+
+68
+
+4.2.1. Deskripsi Responden Berdasarkan Wilayah
+
+Tempat Tinggal
+
+69
+
+11
+
+4.2.2. Deskripsi Responden Berdasarkan Jenis
+
+Kelamin
+
+70
+
+4.2.3. Deskripsi Responden Berdasarkan Usia
+
+71
+
+4.2.4. Deskripsi Responden Berdasarkan Pekerjaan
+
+72
+
+4.2.5. Deskripsi Responden Berdasarkan
+
+Pengeluaran Per Bulan
+
+73
+
+4.3.Analisis Indeks Jawaban Responden Per
+
+Variabel
+
+74
+
+4.3.1. Analisis Indeks Jawaban Responden Tentang
+
+Citra Merek
+
+75
+
+4.3.2. Analisis Indeks Jawaban Responden Tentang
+
+Persepsi Terhadap Kualitas
+
+78
+
+4.3.3. Analisis Indeks Jawaban Responden Tentang
+
+Nama Merek
+
+81
+
+4.3.4. Analisis Indeks Jawaban Responden Tentang
+
+Brand Awareness
+
+83
+
+4.3.5. Analisis Indeks Jawaban Responden Tentang
+
+Keputusan Pembelian
+
+86
+
+4.4.Analisis Data
+
+88
+
+4.4.1. Uji Validitas dan Uji Reliabilitas
+
+88
+
+4.4.1.1. Uji Validitas
+
+88
+
+4.4.1.2. Uji Reliabilitas
+
+90
+
+4.4.2. Uji Asumsi Klasik
+
+91
+
+4.4.2.1. Uji Normalitas
+
+91
+
+4.4.2.2. Uji Multikolinearitas
+
+92
+
+4.4.2.3. Uji Heteroskedastisitas
+
+93
+
+4.4.3. Analisis Regresi Berganda
+
+94
+
+4.4.4. Uji Hipotesis
+
+96
+
+4.4.4.1. Uji T
+
+96
+
+4.4.4.2. Uji F
+
+98
+
+4.4.4.3. Koefisien Determinasi (R2)
+
+99
+
+12
+
+4.5.Pembahasan
+
+100
+
+BAB V. PENUTUP
+
+103
+
+5.1.Kesimpulan
+
+103
+
+5.2.Saran
+
+106
+
+5.2.1. Implikasi Kebijakan
+
+106
+
+5.2.2. Agenda Penelitian yang Akan Datang
+
+109
+
+DAFTAR PUSTAKA
+
+110
+
+LAMPIRAN-LAMPIRAN
+
+114
+
+13
+
+DAFTAR TABEL
+Tabel 1.1. Brand Value Produk Sabun Cuci 2009-2010 Tabel 1.2. Brand Share Produk Sabun Cuci 2009-2010 Tabel 1.3. TOM Brand Produk Sabun Cuci 2009-2010 Tabel 1.4. TOM Ad Produk Sabun Cuci 2009-2010 Tabel 2.1. Penelitian Terdahulu Tabel 3.1. Variabel Penelitian dan Definisi Operasional Tabel 3.2. Kepadatan Penduduk Kecamatan Gayamsari Kota
+Semarang Per Km2 Tabel 4.1. Responden Berdasarkan Wilayah Tempat Tinggal Tabel 4.2. Responden Berdasarkan Jenis Kelamin Tabel 4.3. Responden Berdasarkan Usia Tabel 4.4. Responden Berdasarkan Pekerjaan Tabel 4.5. Responden Berdasarkan Pengeluaran Per Bulan Tabel 4.6. Indeks Citra Merek (X1) Tabel 4.7. Deskripsi Indeks Citra Merek Tabel 4.8. Indeks Persepsi Terhadap Kualitas (X2) Tabel 4.9. Deskripsi Indeks Persepsi Terhadap Kualitas Tabel 4.10. Indeks Nama Merek (X3) Tabel 4.11. Deskripsi Indeks Nama Merek Tabel 4.12. Indeks Brand Awareness (X4) Tabel 4.13. Deskripsi Indeks Brand Awareness Tabel 4.14. Indeks Keputusan Pembelian (Y) Tabel 4.15. Deskripsi Indeks Keputusan Pembelian Tabel 4.16. Uji Validitas Tabel 4.17. Hasil Uji Reliabilitas Tabel 4.18. Hasil Pengujian Multikolinearitas Tabel 4.19. Hasil Analisis Regresi Berganda Tabel 4.20. Hasil Uji T Tabel 4.21. Hasil Uji F
+14
+
+Halaman 3 4 5 6 45 50
+53 69 70 71 72 73 75 76 78 79 81 82 83 84 86 86 89 90 92 94 96 98
+
+Tabel 4.22. Hasil Uji Determinasi
+
+99
+
+15
+
+DAFTAR GAMBAR
+Gambar 2.1. Model Perilaku Konsumen Gambar 2.2. Model Lima Tahap Proses Membeli Gambar 2.3. Level Kesadaran Merek Gambar 2.4. Kerangka Pemikiran Teoritis Gambar 4.1. Yoki-Monozukuri Gambar 4.2. Grafik Normal Probability Plot Gambar 4.3. Uji Heteroskedastisitas
+
+Halaman 15 20 40 48 66 91 93
+
+16
+
+DAFTAR LAMPIRAN
+Lampiran A. Kuesioner Penelitian Lampiran B. Tabulasi Hasil Penelitian Lampiran C. Frekuensi Tanggapan Responden Lampiran D. Hasil Uji Validitas Lampiran E. Hasil Uji Reliabilitas Lampiran F. Hasil Uji Asumsi Klasik Lampiran G. Hasil Uji Regresi, uji F, Uji T, Koefisien
+Determinasi
+
+Halaman 114 121 126 134 140 146
+151
+
+17
+
+BAB I PENDAHULUAN
+1.1 Latar Belakang Masalah Perkembangan dunia usaha yang begitu pesat menyebabkan persaingan
+antar perusahaan semakin ketat sehingga berbagai usaha dilakukan pihak perusahaan agar mampu tampil di tengah-tengah persaingan tersebut. Dalam pemasaran modern tidak lagi mengacu pada bagaimana produk itu hanya dapat laku terjual kepada konsumen tetapi juga mampu memberikan value added terhadap produk yang dikeluarkan. Telah banyak usaha dilakukan perusahaan dalam memberikan pilihan produknya kepada konsumen, terutama bagi yang mempunyai kesamaan dalam bentuk. Kertajaya (2006) menambahkan bahwa produk-produk seperti consumer goods menghadapi tekanan yang lebih besar dalam mendapatkan mind-share dari konsumen terutama karena mereka selalu dihadapkan pada konsumen yang terus menerus mendapatkan berbagai macam tawaran dari produk lama maupun produk baru.
+Menurut Engel dkk (1994), salah satu faktor yang dapat mengantisipasi hal diatas adalah dengan mempelajari sikap (attitude) dalam mempengaruhi perilaku pembelian konsumen. Terdapat suatu kecenderungan untuk menganggap sikap adalah faktor yang tepat untuk meramalkan perilaku konsumen di masa yang akan datang. Mempelajari sikap seseorang diharapkan dapat menentukan apa yang harus dilakukan oleh perusahaan. Dengan mempelajari sikap, diharapkan pula dapat menentukan bagaimana mempengaruhi sikap konsumen dalam mengambil keputusan.
+18
+
+Fenomena ini dapat dilihat keberadaan yang nyata pada produk sabun cuci (deterjen). Dahulu merek sabun cuci yang kita kenal hanya beberapa saja, namun seiring perkembangan waktu banyak muncul merek-merek baru yang tentunya semakin memanaskan persaingan diantara merek yang ada baik lama ataupun baru. Keanekaragaman produk sabun cuci yang ada sekarang ini mendorong adanya proses identifikasi para konsumen untuk menentukan salah satu merek yang menurut pandangan mereka memenuhi kriteria sebuah produk sabun cuci yang ideal. Melalui proses identifikasi tersebut, dapat dilihat bahwa kekuatan merek terletak pada kemampuannya untuk mempengaruhi perilaku pembelian (Arif Rahman, 2010).
+Attack merupakan salah satu merek produk sabun cuci yang telah dikenal di kalangan masyarakat sejak lama. Ditambahkan pula merek Attack telah tertanam kuat dibenak konsumen ketika dihadapkan pada keputusan dalam membeli merek sabun cuci. Lebih lanjut bahwa konsumen mungkin akan menggunakan aturan dalam keputusan pembeliannya hanya untuk yang terkenal saja, merek yang dibangun secara baik (Keller dalam Radder dan Huang, 2008).
+Dibawah ini data beberapa merek produk sabun cuci yang beredar di pasaran Indonesia dalam kurun waktu 2009-2010 :
+19
+
+Merek Rinso Daia Attack So Klin Surf
+
+Tabel 1.1
+
+Brand value produk sabun cuci
+
+2009-2010
+
+Brand value 2009 Brand value 2010
+
+59,9
+
+60,3
+
+47,7
+
+44,1
+
+40,9
+
+42,6
+
+39,9
+
+35,9
+
+35,0
+
+32,0
+
+Sumber : SWA 15/XXVI/15-28 JULI 2010
+
+^% 0,7 -7,5 4,2 -10,0 -8,6
+
+Tabel 1.1 diatas menunjukkan kinerja brand value produk sabun cuci yang dikenal konsumen di pasaran. Nilai (value) adalah semua yang didapatkan dari semua yang konsumen berikan (Arif Rahman, 2010). Survei brand value dapat menjadi tolak ukur keberhasilan merek meningkatkan kinerja berupa peningkatan pangsa pasar ataupun keuntungan perusahaan (Palupi,2008). Apalagi brand value mempertimbangkan aspek penguasaan pasar (market share), popularitas merek (brand awareness), popularitas iklan (ad awareness), kepuasan (satisfaction) dan indeks pertumbuhan (gain index).
+Dapat diketahui merek Attack selama kurun waktu dua tahun tersebut menempati posisi ketiga. Namun dapat dilihat dari point brand valuenya cenderung relatif naik dan selisih kenaikannya cukup signifikan. Karena brand value merupakan salah satu indikator dalam menilai kinerja merek yang ada
+20
+
+berupa peningkatan maupun penurunan pangsa pasar dan keuntungan
+
+perusahaan. Walaupun Attack berada di posisi ketiga, namun diharapkan
+
+perusahaan terus dapat meningkatkan brand value agar dapat menggeser
+
+posisi teratas untuk memenangkan persaingan yang tentunya akan
+
+berpengaruh terhadap keuntungan perusahaan.
+
+Tabel 1.2
+
+Brand share produk sabun cuci
+
+2009-2010
+
+Brand share
+
+Brand share
+
+Merek
+
+^ %
+
+2009
+
+2010
+
+Rinso
+
+42,4
+
+41,1
+
+-3,1
+
+Daia
+
+23,9
+
+24,3
+
+1,7
+
+Attack
+
+11,3
+
+18,9
+
+67,3
+
+So Klin
+
+14,2
+
+9,7
+
+-31,7
+
+Surf
+
+3,9
+
+2,1
+
+-46,2
+
+Sumber : SWA 15/XXVI/15-28 JULI 2010 SWA 16/XXV/27 JULI - 5 AGUSTUS 2009
+
+Dalam pemasaran, pangsa pasar atas produk atau merek yang dimiliki perusahaan dapat mengalami penurunan atau kenaikan. Penurunan pangsa pasar ini dapat disebabkan karena produk yang sudah tidak disukai oleh konsumen, tidak memenuhi selera konsumen dan semakin ketatnya persaingan. Disebutkan pula perusahaan yang secara mantap meningkatkan
+21
+
+posisinya dalam ingatan dan pilihan konsumen pasti akan memperoleh
+
+peningkatan dalam pangsa pasar dan kemampulabaan (Durianto dkk, 2004).
+
+Berdasarkan Tabel 1.2 dalam rentang waktu 2009-2010, meskipun
+
+merek Attack masih menduduki peringkat ketiga namun presentase brand
+
+share produk menunjukkan kenaikan yaitu pada tahun 2009 sebesar 11,3%
+
+naik menjadi 18,9% di tahun 2010 atau mengalami derajat kenaikan sebesar
+
+67,3%. Tren kenaikan ini patut menjadi suatu motivasi bagi perusahaan agar
+
+terus meningkatkan kualitas produk.
+
+Tabel 1.3
+
+TOM brand produk sabun cuci
+
+2009-2010
+
+Merek
+
+TOM Brand 2009 TOM Brand 2010
+
+^ %
+
+Rinso
+
+43,7
+
+44,5
+
+1,8
+
+Daia
+
+24,6
+
+23,0
+
+-6,5
+
+Attack
+
+12,0
+
+17,2
+
+43,3
+
+So Klin
+
+12,5
+
+8,9
+
+-28,8
+
+Surf
+
+3,1
+
+2,0
+
+-35,5
+
+Sumber : SWA 15/XXVI/15-28 JULI 2010 SWA 16/XXV/27 JULI - 5 AGUSTUS 2009
+
+Kinerja TOM brand menunjukkan seberapa besar merek tersebut diingat oleh konsumen saat memutuskan membeli merek produk sabun cuci. Dari data di atas meskipun masih menduduki peringkat ketiga atas merek yang
+22
+
+paling diingat oleh konsumen tetapi Attack menunjukkan kenaikan atas TOM
+
+brand sebesar 43,3% selama kurun waktu 2009-2010. Sementara merek yang
+
+lain lebih menunjukkan tren yang relatif turun. Hal ini dapat diartikan bahwa
+
+konsumen beberapa diantaranya telah mulai ,,melirik merek Attack sebagai
+
+pilihan pertama mereka.
+
+Tabel 1.4
+
+TOM Ad produk sabun cuci
+
+2009-2010
+
+Merek
+
+TOM Ad 2009 TOM Ad 2010
+
+^ %
+
+Rinso
+
+44,4
+
+49,8
+
+12,2
+
+Daia
+
+22,4
+
+19,7
+
+-12,1
+
+Attack
+
+14,4
+
+18,1
+
+25,7
+
+So Klin
+
+11,7
+
+7,4
+
+-36,8
+
+Surf
+
+3,4
+
+2,1
+
+-38,2
+
+Sumber : SWA 15/XXVI/15-28 JULI 2010 SWA 16/XXV/27 JULI - 5 AGUSTUS 2009
+
+TOM Ad menunjukkan merek yang paling diingat lewat iklannya. Attack masih tetap menduduki peringkat ketiga dalam rentang waktu 20092010. Namun seperti brand share dan TOM brand sebelumnya, TOM Ad Attack juga mengalami kenaikan yaitu sebesar 25,7%. Sementara merek lain seperti Daia, So Klin dan Surf menunjukkan presentase TOM Ad yang
+23
+
+cenderung turun. Dapat diartikan disini bahwa efektifitas dan daya tarik iklan Attack mulai mengalami kenaikan.
+Berdasarkan apa yang telah disebutkan diatas, hendaknya perlu diperhatikan bahwa citra merek dibangun dengan memasukkan ,,kepribadian atau ,,citra kedalam produk untuk kemudian ,,dimasukkan kedalam alam bawah sadar konsumen. Melalui merek yang dibangun secara baik dan melalui citra yang ditampilkan akan semakin memberi rasa kepercayaan yang tinggi bagi konsumen (Ujang Sumarwan dkk, 2009).
+Disamping itu, konsumen juga selalu mencari produk yang kira-kira dapat diandalkan, atau dalam hal ini berkaitan dengan kualitas. Persepsi kualitas terhadap merek menggambarkan respon keseluruhan pelanggan terhadap kualitas dan keunggulan yang ditawarkan merek. Respon ini adalah persepsi yang terbentuk dari pengalaman pelanggan selama berinteraksi dengan merek melalui komunikasi yang dibangun oleh pemasar. Tentu saja kondisi seperti ini harus terus dijaga melalui pengembangan kualitas secara berkesinambungan (Sadat, 2009). Persepsi konsumen mengenai kualitas merek mungkin dapat tinggi ketika mereka memiliki asosiasi yang kuat dengan merek dan sebaliknya.
+Masih kaitannya dengan merek, suatu nama merek dapat mengidentifikasikan bagian dari sebuah produk yang dapat diucapkan dan mampu membedakan produk tersebut dari pesaing yang lainnya. Sebuah nama merek (brand name) dapat memberi rasa nyaman bagi pembeli untuk yakin atas keputusannya dengan mengurangi persepsi risiko mereka yaitu salah
+24
+
+satunya melalui produk dengan nama yang sudah terkenal, karena banyak orang sudah aware akan merek tersebut. Duane E. Knapp dalam Arif Rahman (2010) menuliskan bahwa nama adalah ekspresi pertama dan barangkali yang paling besar dari sebuah merek. Nama yang efektif mendorong proses pembangunan nilai dan memperkuat nilai dari merek.
+Selain memperkuat nama merek di benak konsumen, perlu bagi perusahaan menanamkan kesadaran pada konsumen terhadap merek yang ada. Brand awareness yang dapat diartikan sebagai kemampuan pelanggan untuk mengenali atau mengingat kembali sebuah merek dan mengaitkannya dengan satu kategori produk tertentu. Dengan demikian, seorang pelanggan yang memiliki kesadaran terhadap sebuah merek akan secara otomatis mampu menguraikan elemen-elemen merek tanpa harus dibantu. Kesadaran merek tertinggi ditandai dengan ditempatkannya merek pada level tertinggi dalam pikiran pelanggan. Memiliki kesadaran merek yang tinggi tentu saja menjadi idaman semua merek sebab akan memperkuat eksistensi merek di mata pelanggan (Sadat, 2009).
+Dalam penelitian ini, akan dibahas mengenai hal-hal yang telah dijelaskan secara urut di atas ke dalam satu kasus yang terjadi pada suatu produk yang ada di pasaran. Sabun cuci khususnya sabun pencuci pakaian bubuk untuk beberapa orang mungkin menganggap bukanlah termasuk ke dalam kategori produk pilihan utamanya. Namun seiring perkembangan zaman yang menuntut orang harus tampil bersih, fresh dan sehat terhindar dari
+25
+
+bakteri menjadikan sabun pencuci pakaian menjadi salah satu produk personal perawatan pakaian yang sering dibutuhkan orang.
+Berdasarkan hal-hal tersebut diatas perlu sekiranya bagi Attack menyikapi hal ini. Mengingat kondisi persaingan yang semakin ketat dan tidak ada habisnya dalam upaya perusahaan memperluas pangsa pasarnya, mempengaruhi sikap konsumen melalui daya tarik yang ada dan akhirnya kesediaan konsumen membeli produk-produk mereka. Lebih lanjut, pada saat perusahaan mengalami penurunan atas pangsa pasar yang ada, disertai dengan penurunan laba yang diperoleh dan tentunya berimbas pada semakin berkurangnya konsumen yang memakai atau membeli produk mereka. Maka dapat disimpulkan bahwa perusahaan yang mampu mengatasi faktor-faktor yang mempengaruhinya dan akhirnya mampu menguasai pasar akan memperoleh keuntungan yang lebih.
+Maka dalam penelitian ini memfokuskan pada penduduk di Semarang yang memakai produk sabun pencuci pakaian Attack dalam kehidupan sehariharinya. Pertimbangan lain bahwa terdapat berbagai latar belakang kebiasaan, sifat, kultur, sosial, dan tingkat ekonomi yang ada di dalamnya sehingga secara tidak langsung mempengaruhi pola perilaku mereka dalam kehidupan sehari-hari termasuk juga dalam hal melakukan pembelian.
+26
+
+1.2 Rumusan Masalah Perusahaan berlomba-lomba melakukan berbagai cara untuk dapat
+menghasilkan produk yang mampu menarik calon pembeli untuk bersedia membeli produk mereka. Perusahaan juga berusaha mencapai pangsa pasar sebesar-besarnya untuk mendapatkan keuntungan yang sebesar-besarnya pula.
+Masalah yang menjadi dasar dalam penelitian ini adalah Attack masih berada pada posisi three top leader dalam kategori produk sabun pencuci pakaian walaupun mengalami kenaikan dalam kinerja nilai mereknya (brand value) secara berurutan dalam kurun waktu 2009-2010. Brand share sebagai salah satu unsur pembentuk juga terlihat naik, kenaikan atas brand share ini menunjukkan adanya kenaikan keputusan pembelian konsumen terhadap merek Attack. Aspek lain yang mempengaruhi, TOM brand dan TOM Ad Attack yang juga menunjukkan prosentase meningkat yang mengindikasikan telah meningkatnya daya tarik sebagai pilihan pertama.
+Maka masalah penelitian yang dikembangkan disini adalah ,,Bagaimanakah citra merek, persepsi kualitas, nama merek, dan brand awareness dapat meningkatkan keputusan pembelian oleh konsumen pada produk sabun pencuci pakaian bubuk Attack?. Dari masalah penelitian tersebut dapat dirumuskan pertanyaan-pertanyaan penelitian sebagai berikut : 1. Apakah terdapat pengaruh citra merek terhadap keputusan pembelian oleh
+konsumen? 2. Apakah terdapat pengaruh persepsi terhadap kualitas terhadap keputsuan
+pembelian oleh konsumen?
+27
+
+3. Apakah terdapat pengaruh nama merek terhadap keputusan pembelian oleh konsumen?
+4. Apakah terdapat pengaruh brand awareness terhadap keputusan pembelian oleh konsumen?
+1.3 Tujuan dan Kegunaan Penelitian 1.3.1 Tujuan Penelitian
+Berdasarkan pada latar belakang dan rumusan masalah, maka penelitian ini bertujuan untuk menganalisis : 1. Pengaruh citra merek terhadap keputusan pembelian konsumen pada
+produk sabun pencuci pakaian bubuk Attack. 2. Pengaruh persepsi terhadap kualitas terhadap keputusan pembelian
+konsumen pada produk sabun pencuci pakaian bubuk Attack. 3. Pengaruh nama merek terhadap keputusan pembelian konsumen pada
+produk sabun pencuci pakaian bubuk Attack. 4. Pengaruh brand awareness terhadap keputusan pembelian konsumen
+pada produk sabun pencuci pakaian bubuk Attack.
+28
+
+1.3.2 Kegunaan Penelitian Hasil penelitian ini diharapkan dapat memberi manfaat bagi pihak yang terkait, yaitu : 1. Bagi praktisi Penelitian ini diharapkan dapat digunakan sebagai acuan dalam usaha mempertinggi kinerja merek untuk meningkatkan pembelian produk sabun pencuci pakaian bubuk Attack. 2. Bagi penelitian selanjutnya Penelitian ini diharapkan dapat menjadi referensi atau bahan masukan bagi penelitian-penelitian selanjutnya yang berkenaan dengan masalah pengambilan keputusan konsumen dalam membeli produk consumer goods khususnya produk sabun pencuci pakaian bubuk Attack.
+1.4 Sistematika Penulisan Untuk memberikan gambaran yang jelas mengenai penelitian yang
+dilakukan maka disusunlah suatu sistematika penulisan yang berisi informasi mengenai materi dan hal-hal yang dibahas dalam tiap-tiap bab. Adapun sistematika penulisan tersebut adalah sebagai berikut : Bab I. Pendahuluan
+Pada bab ini, dikemukakan mengenai latar belakang, rumusan masalah, pertanyaan penelitian, tujuan dan kegunaan penelitian. Beberapa data disajikan pula di bab ini.
+29
+
+Bab II. Tinjauan Pustaka Bab ini berisi tentang konsep dan teori mengenai keputusan pembelian, citra merek, persepsi terhadap kualitas, nama merek, dan brand awareness (kesadaran terhadap merek). Selanjutnya dari konsep tersebut akan dirumuskan hipotesis dan akhirnya terbentuk suatu kerangka penelitian teoritis yang melandasi penelitian ini.
+Bab III. Metode Penelitian Bab ini menguraikan tentang definisi operasional variabel-variabel yang digunakan dalam penelitian, metode pengumpulan data serta teknik analisis data untuk mencapai tujuan penelitian.
+Bab IV. Hasil dan Pembahasan Bab ini berisi tentang hasil penelitian secara sistematis kemudian dianalisis dengan teknik analisis yang ditetapkan dan selanjutnya dilakukan pembahasan tentang hasil analisis tersebut.
+Bab V. Penutup Bab ini berisi tentang kesimpulan atas hasil penelitian dan saran yang diberikan berkaitan dengan hasil penelitian.
+30
+
+BAB II TINJAUAN PUSTAKA 2.1 Landasan Teori 2.1.1 Perilaku Konsumen Perilaku konsumen pada dasarnya merupakan tindakan-tindakan individu yang secara langsung terlibat dalam usaha memperoleh, mengkonsumsi, dan menghabiskan produk atau jasa termasuk didalamnya proses pengambilan keputusan yang mendahului dan mengikuti tindakantindakan tersebut (Engel dkk, 1994). Maka dalam kehidupan sehari-hari, keputusan pembelian yang dilakukan oleh konsumen didasarkan pada pertimbangan yang berbeda-beda satu dengan yang lainnya. Sementara itu perilaku konsumen dapat dipengaruhi melalui pemasaran yang terampil karena hal ini dapat membangkitkan motivasi maupun perilaku apabila hal tersebut didukung dengan produk ataupun jasa yang didesain semenarik mungkin dan sedemikian rupa guna memenuhi kebutuhan pelanggan (Engel dkk, 1994). Kemudian Swastha dkk (1987) menambahkan adanya faktor-faktor yang mempengaruhi perilaku konsumen itu sendiri, disini disebutkan terdapat dua bagian besar yaitu : 1) Faktor internal, meliputi motivasi, pengamatan, belajar, kepribadian dan konsep diri, sikap dan faktor eksternal ; 2) Faktor eksternal, meliputi kebudayaan, kelas sosial, kelompokkelompok sosial, kelompok referensi, keluarga.
+31
+
+Untuk mempelajari lebih lanjut perilaku konsumen, Assael dalam Sutisna (2003 : 6) menggambarkan model perilaku konsumen yang membahas faktor-faktor yang mempengaruhi sebagai penyempurnaan lebih lanjut dari pendapat lain sebelumnya, yaitu :
+Gambar 2.1 Model Perilaku Konsumen
+
+Konsumen individu
+
+Umpan balik bagi konsumen
+
+Pengaruh lingkungan
+
+Pembuatan keputusan konsumen
+
+Tanggapan konsumen
+
+Penerapan perilaku konsumen pada strategi pemasaran
+
+Umpan balik bagi pemasaran
+Sumber : Henry Assael (1992) yang dikutip Sutisna dalam Perilaku Konsumen dan Komunikasi Pemasaran (2003 : 6)
+
+Dari model diatas, dapat dijelaskan terdapat tiga faktor yang mempengaruhi pilihan konsumen, yaitu :
+
+32
+
+1) Konsumen secara individual Pilihan untuk membeli suatu produk atau jasa dengan merek tertentu dipengaruhi oleh hal-hal yang ada pada diri konsumen. Seperti persepsi karakteristik merek, sikap konsumen, kondisi geografis, gaya hidup, dan karakteristik kepribadian akan mempengaruhi pilihan individu terhadap berbagai alternatif merek yang tersedia.
+2) Lingkungan yang mempengaruhi konsumen Pilihan konsumen terhadap merek dipengaruhi oleh lingkungan yang mengitarinya. Ketika konsumen membeli sesuatu merek produk, mungkin disadari oleh banyak pertimbangan seperti meniru teman ataupun anggota keluarga lainnya yang telah membeli terlebih dahulu. Jadi interaksi sosial turut mempengaruhi pada pilihan merek produk yang dibeli.
+3) Strategi pemasaran Pemasar berusaha mempengaruhi konsumen dengan menggunakan stimulus-stimulus pemasaran agar konsumen bersedia memilih merek produk yang ditawarkan. Berdasarkan ketiga poin yang disebutkan diatas, perusahaan
+hendaknya dapat segera menganalisis tanggapan konsumen setelah mereka membuat suatu keputusan dari tiga faktor yang mempengaruhinya. Konsumen akan bereaksi melakukan pembelian berulang atau menghentikannya jika merasa tidak puas, dan peran strategi pemasaran
+33
+
+dalam hal ini sangat penting sebagai ujung tombak dalam mempengaruhi keputusan konsumen.
+2.1.2 Keputusan Pembelian Kotler (1996) menyebutkan bahwa keputusan untuk membeli yang
+diambil oleh pembeli sebenarnya merupakan kumpulan dari sejumlah keputusan. Setiap keputusan untuk membeli tersebut mempunyai suatu struktur sebanyak tujuh komponen, yaitu meliputi : 1) Keputusan tentang jenis produk
+Dalam hal ini konsumen dapat mengambil keputusan tentang produk apa yang akan dibelinya untuk memenuhi dan memuaskan kebutuhan. 2) Keputusan tentang bentuk produk Konsumen dapat mengambil keputusan untuk membeli suatu produk dengan bentuk tertentu sesuai dengan seleranya. 3) Keputusan tentang merek Konsumen harus mengambil keputusan tentang merek mana yang akan dibeli karena setiap merek mempunyai perbedaan-perbedaan tersendiri. 4) Keputusan tentang penjualnya Konsumen dapat mengambil keputusan dimana produk yang dibutuhkan tersebut akan dibeli. 5) Keputusan tentang jumlah produk Konsumen dapat mengambil keputusan tentang seberapa banyak produk yang akan dibeli.
+34
+
+6) Keputusan tentang waktu pembelian Konsumen dapat mengambil keputusan tentang kapan dia harus melakukan pembelian. Oleh karena itu, perusahaan atau pemasar pada khususnya terus mengetahui faktor-faktor yang mempengaruhi keputusan konsumen dalam menentukan waktu pembelian.
+7) Keputusan tentang cara pembayaran Konsumen harus mengambil keputusan tentang metode atau cara pembayaran produk yang dibeli, apakah secara tunai atau kredit. Keputusan tersebut akan mempengaruhi keputusan tentang penjualan dan jumlah pembeliannya. Untuk dapat mengetahui sejauh mana proses pembelian konsumen,
+kiranya perlu adanya upaya seperti : apakah konsumen membutuhkan informasi tentang produk yang akan dibeli, atau mungkin perlu didorong untuk melakukan pembelian. Melalui dukungan sistem informasi yang tersedia dapat pula mendorong seseorang untuk melakukan suatu keputusan termasuk didalamnya dalam hal pembelian. Hal ini dipertegas dengan pendapat Ajzen dan Fishbein dalam Engel dkk (1994) pada umumnya seseorang sangat rasional dalam memanfaatkan informasi yang tersedia serta mempertimbangkan implikasi dari tindakan tersebut sebelum memutuskan untuk terlibat atau tidak dalam perilaku tersebut, dengan kata lain, disini informasi berperan penting.
+Swastha dan Handoko (1987) menjelaskan motif pembelian oleh konsumen yang ada, sebagai berikut :
+35
+
+a) Kelompok pembeli yang mengetahui dan bersedia memberitahukan motif pembelian mereka terhadap produk tertentu.
+b) Kelompok pembeli yang mengetahui alasan mereka untuk membeli produk tertentu tetapi tidak bersedia memberitahukannya.
+c) Kelompok pembeli yang tidak mengetahui motif pembelian sesungguhnya terhadap produk tertentu. Biasanya motif pembelian mereka memang sangat sulit diketahui. Dimensi untuk mengukur keputusan pembelian yang diambil oleh
+konsumen antara lain (Sutisna, 2003) : 1) Benefit Association
+Kriteria benefit association menyatakan bahwa konsumen menemukan manfaat dari produk yang akan dibeli dan menghubungkannya dengan karakteristik merek. Kriteria manfaat yang bisa diambil adalah kemudahan mengingat nama produk ketika dihadapkan dalam keputusan membeli produk. 2) Prioritas dalam membeli Prioritas untuk membeli terhadap salah satu produk yang ditawarkan bisa dilakukan oleh konsumen apabila perusahaan menawarkan produk yang lebih baik dari produk pesaingnya. 3) Frekuensi pembelian Ketika konsumen membeli produk tertentu dan ia merasa puas dengan kinerja produk tersebut, maka ia akan sering membeli kembali produk tersebut kapanpun ia membutuhkannya.
+36
+
+Kotler (1996) mencatat terdapat beberapa tahapan dalam proses
+
+keputusan pembelian yang dilakukan pelanggan, yaitu :
+
+Gambar 2.2
+
+Model Lima Tahap Proses Membeli
+
+Pengenalan masalah
+
+Pencarian informasi
+
+Penilaian alternatif
+
+Keputusan membeli
+
+Perilaku pasca membeli
+
+Sumber : Kotler (1996) Manajemen Pemasaran : Analisis, Perencanaan,
+
+Implementasi dan Pengendalian
+
+a) Pengenalan Kebutuhan
+
+Proses pembelian dimulai ketika seseorang menyadari kebutuhannya.
+
+Orang tersebut memulai menyadari perbedaan keadaannya sekarang
+
+dengan keadaan yang diinginkan. Kebutuhan dapat ditimbulkan oleh
+
+rangsangan yang berasal dari dalam maupun luar individu.
+
+b) Pencarian Informasi
+
+Ketika seseorang telah sadar akan kebutuhannya, dia akan berusaha
+
+untuk mencari informasi tentang bagaimana memenuhi kebutuhannya.
+
+Dalam tahap ini konsumen dapat dibedakan menjadi dua level. Yang
+
+pertama, heightened attention, konsumen yang termasuk dalam level
+
+ini cenderung mau menerima informasi apa saja yang terkait dengan
+
+produk yang ingin dibeli. Yang kedua, active information search,
+
+konsumen akan secara aktif mencari semua informasi yang terkait
+
+dengan produk yang ingin dibeli.
+
+37
+
+c) Evaluasi Alternatif Dalam melakukan keputusan pembelian, setiap konsumen normalnya pasti akan berusaha mencari kepuasan. Sehingga dalam mengevaluasi alternatif yang didapat dari hasil pencarian informasi, konsumen akan lebih memperhatikan produk yang dapat memberikan keuntungan yang dicari atau diharapkan oleh konsumen.
+d) Keputusan Pembelian Dalam memutuskan untuk membeli atau tidak membeli, akan ada dua faktor yang mempengaruhi. Yang pertama, attitudes of other, yaitu perilaku seseorang terhadap suatu merek yang mempengaruhi pertimbangan konsumen dalam memilih suatu merek. Yang kedua, unanticipated situational factors, yaitu meliputi kelengkapan suatu produk di dalam pasar.
+e) Perilaku Pasca Pembelian Setelah melakukan pembelian suatu produk, konsumen akan dapat merasakan apakah produk yang dibeli itu memuaskan atau tidak. Maka dari situlah konsumen akan mempertimbangkan apakah akan cukup sampai disitu saja dia berhubungan dengan merek yang telah dibeli (bila tidak puas) atau apakah akan melakukan pembelian ulang ketika dia membutuhkan produk yang sama. Kotler (1996) menambahkan pada tahap penilaian alternatif,
+konsumen akan membentuk pilihan mereka diantara beberapa merek yang tergabung dalam perangkat pilihan konsumen, juga akan membentuk suatu
+38
+
+maksud beli. Rasa percaya diri konsumen juga turut serta mempengaruhi dalam mengambil keputusan atas pembelian. Menurut Aaker (1991) dalam Astuti dan Cahyadi (2007) menyatakan rasa percaya diri pelanggan atas keputusan pembelian dapat disebabkan karena kedekatan oleh pengiklanan, kredibilitas serta pengalaman pelanggan atas merek tersebut.
+Menurut Engel dkk (1994) dapat dibedakan beberapa peranan yang mungkin dimainkan seseorang dalam sebuah keputusan pembelian : 1) Pencetus (Initiator)
+Pencetus adalah orang yang pertama-tama menyarankan atau memikirkan gagasan membeli produk atau jasa tertentu. 2) Pemberi pengaruh (Influencer) Seseorang yang memberikan pengaruh adalah orang yang pandangannya atau nasihatnya diperhitungkan dalam membuat keputusan akhir. 3) Pembuat keputusan (Decider) Pembuat keputusan merupakan seseorang yang pada akhirnya menentukan sebagian besar atau keseluruhan keputusan membeli : apakah jadi membeli, apa yang dibeli, bagaimana membeli, atau dimana membeli. 4) Pembeli (Buyer) Merupakan seseorang yang melakukan pembelian yang sebenarnya.
+39
+
+5) Pemakai (User) Pemakai merupakan seseorang atau beberapa orang yang menikmati atau memakai produk atau jasa. Sebuah perusahaan perlu mengenali peranan-peranan tersebut
+karena hal tersebut mempengaruhi dalam kaitan merancang produk, menentukan pesan, dan mengalokasikan biaya anggaran promosi. Dengan mengetahui pelaku utama dan peranan yang mereka mainkan akan membantu para pemasar menyelaraskan program pemasaran yang tepat dengan para pembeli (Kotler, 1996).
+2.1.3 Citra Merek Kotler (2002) dalam Farrah (2005) mendefinisikan citra merek
+sebagai seperangkat keyakinan, ide, dan kesan yang dimiliki oleh seseorang terhadap suatu merek. Oleh karenanya sikap dan tindakan konsumen terhadap suatu merek sangat ditentukan oleh citra merek tersebut. Sementara Dobni dan Zinkhan (1990) dalam Hossain (2007) menyatakan bahwa citra merek adalah keseluruhan dari persepsi konsumen mengenai merek atau bagaimana mereka mengetahuinya. Hal tersebut dipertegas oleh Simamora dalam Farah (2005) bahwa citra adalah persepsi yang relatif konsisten dalam jangka panjang (enduring perception) maka tidak mudah untuk membentuk citra, sehingga bila telah terbentuk akan sulit mengubahnya. Lebih tegasnya citra merek merupakan syarat dari merek yang kuat (Kotler dalam Farah, 2005).
+40
+
+Beberapa faktor pembentuk citra merek (Sciffman dan Kantuk dalam Farrah, 2005), sebagai berikut : 1) Kualitas dan mutu, berkaitan dengan kualitas produk barang yang
+ditawarkan oleh produsen dengan merek tertentu. 2) Dapat dipercaya atau diandalkan, berkaitan dengan pendapat atau
+kesepakatan yang dibentuk oleh masyarakat tentang suatu produk yang dikonsumsi. 3) Kegunaan atau manfaat, yang terkait dengan fungsi dari suatu produk yang bisa dimanfaatkan oleh konsumen. 4) Pelayanan, yang terkait dengan tugas produsen dalam melayani konsumennya. 5) Resiko, terkait dengan besar kecilnya akibat untung dan rugi yang mungkin dialami oleh konsumen. 6) Harga, yang dalam hal ini berkaitan dengan tinggi rendahnya atau banyak sedikitnya jumlah uang yang dikeluarkan oleh konsumen untuk mempengaruhi suatu produk, juga dapat mempengaruhi citra jangka panjang. 7) Citra yang dimiliki oleh merek itu sendiri, yaitu berupa pandangan, kesepakatan, dan informasi yang berkaitan dengan suatu merek dari produk tertentu.
+Terdapat beberapa orang yang berfikir bahwa citra suatu merek adalah melalui logo yang ada saja, seperti Nike dengan logo khasnya, Mc Donald dengan ,,golden arches-nya atau logo terkenal lainnya. Namun
+41
+
+dalam arti sebenarnya citra merek merupakan setiap interaksi yang dilakukan pelanggan dengan perusahaan yang menimbulkan suatu kesan yang menunjukkan karakter perusahaan tersebut. Hal-hal itu dapat dicerminkan melalui bagaimana menjawab panggilan telepon pelanggan, kualitas dari pelayanan konsumen, atau bahkan bagaimana tampilan situs web perusahaan yang ada. Selanjutnya Kertajaya (2004) menyebutkan dalam sebuah merek perlu adanya suatu karisma yang ditampilkan dan hal tersebut dimasukkan dalam tiga kriteria dasar, yaitu : a) Merek ataupun perusahaan tersebut telah memiliki kinerja yang tanpa
+cela secara berkelanjutan. b) Merek dan perusahaan tersebut haruslah sangat dihormati, dipuja-puja,
+dan memiliki aura yang menyelimuti setiap sisi merek. c) Merek dan perusahaan tersebut memiliki daya magnet dan kekuatan
+yang besar dalam mengantisipasi, menjadi panutan dan merupakan ,,keyakinan bagi pelanggan.
+2.1.3.1 Hubungan Citra Merek dengan Keputusan Pembelian Perusahaan perlu menciptakan posisi merek yaitu melalui citra
+merek yang diciptakan secara relatif dengan pesaing. Melalui posisi yang dimiliki, merek akan memiliki citra yang jelas, berbeda, dan unggul di benak konsumen (Simamora, 2003). Salah satu cara yang dapat dibangun adalah melalui pembentukan citra yang positif. Dipertegas Sutisna (2003) yang menyatakan bahwa konsumen dengan citra yang positif terhadap
+42
+
+suatu merek tertentu, lebih memungkinkan untuk melakukan pembelian. Dalam penelitian Hossain (2007) juga menyimpulkan bahwa pembangunan citra merek menjadi landasan yang baik dalam membangun hubungan terhadap pemilihan oleh konsumen.
+Citra mewujudkan nilai yang besar dan nilai yang sebenarnya di medan pasar yang kompetitif yaitu kemampuan merek untuk merebut perhatian dan mempengaruhi pilihan (Temporal, 2002). Merek menyediakan daya tarik emosional ketika pemikiran rasional tidak mampu memilih, dan membantu menyingkirkan ketakutan para konsumen mengenai produk. Lebih lanjut menurut Wallendorf (1979) dalam Hossain (2007) menyebutkan citra merek adalah faktor yang memungkinkan menjaga konsumen dari perubahan perilaku mereka dalam intensitas dan kebiasaan membeli secara banyak dan berkesinambungan. Citra terhadap suatu merek produk juga dapat dibentuk melalui pikiran manusia misal dalam memilih merek. Simamora (2003 : 11) menegaskan dari fungsi pikiran ini dapat dimanfaatkan dengan menampilkan manfaat rasional merek.
+Lebih jauh lagi citra merek yang positif dapat membantu konsumen untuk menolak aktivitas yang dilakukan oleh pesaing dan sebaliknya menyukai aktifitas yang dilakukan oleh merek yang disukainya serta selalu mencari informasi yang berkaitan dengan merek tersebut (Schiffman dan Kantuk dalam Farah, 2005). Selain itu citra suatu merek erat kaitannya dengan asosiasi merek, kesan merek yang muncul dalam ingatan
+43
+
+konsumen yang meningkat seiring dengan semakin banyaknya pengalaman konsumen dalam mengkonsumsi merek tersebut. Ketika asosiasi-asosiasi itu saling berhubungan kuat maka citra merek yang terbentuk juga akan semakin kuat dan hal inilah yang mendasari konsumen melakukan pembelian (Durianto dkk dalam Farrah, 2005).
+Penciptaan kesan menjadi salah satu karakteristik dasar dalam orientasi pemasaran modern yaitu lewat pemberian perhatian lebih serta penciptaan merek yang kuat. Implikasi dari hal tersebut menjadikan merek suatu produk menciptakan image dari produk itu sendiri di benak pikiran konsumen dan menjadikan motivasi dasar bagi konsumen dalam memilih suatu produk (Aaker dalam Vranesevic, 2003).
+Atas dasar pemikiran tersebut, maka dapat dirumuskan hipotesis : H1 : Citra merek berpengaruh positif terhadap keputusan pembelian.
+2.1.4 Persepsi Terhadap Kualitas Persepsi kualitas terhadap merek menggambarkan respon
+keseluruhan pelanggan terhadap kualitas dan keunggulan yang ditawarkan merek. Respon ini adalah persepsi yang terbentuk dari pengalaman pelanggan selama berinteraksi dengan merek melalui komunikasi yang dibangun oleh pemasar. Tentu saja kondisi seperti ini harus terus dijaga melalui pengembangan kualitas secara berkesinambungan (Sadat, 2009).
+Persepsi terhadap kualitas dapat didefinisikan sebagai persepsi pelanggan terhadap keseluruhan kualitas atau keunggulan dari suatu
+44
+
+produk atau jasa layanan yang berkaitan dengan apa yang diharapkan oleh pelanggan (Zeithaml dalam Muafi dan Effendi, 2001). Sedangkan menurut Durianto dkk (2004) pembahasan perceived quality pelanggan terhadap produk akan melibatkan pembahasan mengenai kepentingan setiap pelanggan terhadap produk dan atau atribut yang dimiliki produk (kepentingan setiap pelanggan berbeda). Lebih lanjut, Cleland dan Bruno dalam Simamora (2002) mengemukakan tiga prinsip tentang persepsi terhadap kualitas yaitu : 1) Kualitas yang dipersepsikan oleh konsumen terhadap suatu produk
+mencakup tiga aspek utama yaitu produk, harga, dan non produk. 2) Kualitas ada kalau bisa dipersepsikan oleh konsumen. 3) Perceived quality diukur secara relatif terhadap pesaing.
+Persepsi terhadap kualitas yang positif dapat dibangun melalui upaya identifikasi dimensi kualitas yang dianggap penting oleh pelanggan, dan membangun persepsi terhadap kualitas pada dimensi penting merek tersebut (Aaker dalam Astuti dan Cahyadi, 2007). Dimensi kualitas produk dapat dilihat dari beberapa aspek yaitu : kinerja, pelayanan, ketahanan, kehandalan, karakteristik produk, dan kesesuaian dengan spesifikasi serta hasil (Garvin dalam Durianto dkk, 2004). Untuk kelas produk tertentu, dimensi penting dapat dilihat langsung oleh pelanggan melalui penilaian kualitas secara keseluruhan. Disamping itu juga persepsi kualitas mempunyai atribut penting yang dapat diaplikasikan dalam berbagai hal (Durianto dkk, 2004), seperti :
+45
+
+1) Kualitas aktual atau objektif Perluasan ke suatu bagian dari produk/jasa yang memberikan pelayanan lebih baik.
+2) Kualitas isi produk Karakteristik dan kuantitas unsur, bagian atau pelayanan yang disertakan.
+3) Kualitas proses manufaktur Kesesuaian dengan spesifikasi, hasil akhir yang tanpa cacat. Sedemikian pentingnya peran persepsi terhadap kualitas bagi suatu
+merek sehingga upaya membangun perceived quality yang kuat perlu memperoleh perhatian serius agar perusahaan dapat merebut dan menaklukkan pasar di setiap kategori. Membangun persepsi terhadap kualitas harus diikuti dengan peningkatan kualitas yang nyata dari produknya karena akan sia-sia meyakinkan pelanggan bahwa kualitas merek produknya adalah tinggi bilamana kenyataan menunjukkan kebalikannya. Berikut ini adalah berbagai hal yang perlu diperhatikan dalam membangun persepsi terhadap kualitas yaitu komitmen terhadap kualitas, budaya kualitas, informasi masukan dari pelanggan, sasaran/standar yang jelas, kembangkan karyawan yang berinisiatif (Aaker dalam Durianto dkk, 2004).
+Menurut Buzzel dan Gale (dikutip oleh Muafi dan Effendi, 2001) menyebutkan dalam jangka panjang faktor tunggal yang paling penting dalam mempengaruhi kinerja suatu bisnis adalah persepsi terhadap kualitas
+46
+
+dari produk/jasa relatif terhadap kinerja para pesaing. Dipertegas oleh Jacobson dan Aaker dalam Muafi dan Effendi (2001) bahwa persepsi terhadap kualitas dapat menciptakan profitabilitas antara lain dapat mempengaruhi pangsa pasar, mempengaruhi harga, mempunyai dampak langsung terhadap profitabilitas sebagai kelanjutan dan dampaknya terhadap pangsa pasar dan harga, serta tidak mempengaruhi biaya.
+Sebuah perusahaan hendaknya ikut memperhatikan bagaimana konsumen mempersepsikan atas produk-produk yang dikeluarkan, karena dengan diketahuinya persepsi pelanggan tersebut maka badan usaha dapat menentukan langkah-langkah yang dapat diambil guna memperkuat persepsi pelanggannya terhadap merek yang dimiliki badan usaha tersebut (Aaker dalam Lindawati, 2005). Lebih lanjut lagi menurut Aaker yang dikutip oleh Sadat (2009) menyebutkan ada beberapa keuntungan yang dapat diperoleh merek yang memiliki persepsi kualitas tinggi, yaitu : 1. Alasan untuk membeli
+Persepsi kualitas yang terbangun dengan baik di benak pelanggan akan membantu efektivitas program pemasaran. Harus dipahami bahwa informasi yang begitu banyak membuat pelanggan malas untuk merespon lebih jauh, sehingga persepsi kualitas tinggi akan berperan menuntun pelanggan dalam proses pembelian. 2. Differensiasi Sebuah merek yang dipersepsi memiliki kualitas tinggi tentu saja menjadi berbeda dengan yang lainnya. Walkman merek Sony atau
+47
+
+iPod dari Apple dipersepsi oleh sebagian besar pelanggan memiliki kualitas yang lebih baik dibandingkan merek-merek lain dari kategori produk yang sama. 3. Harga premium Dalam banyak kasus, persepsi kualitas yang tinggi memungkinkan perusahaan dapat menetapkan harga yang lebih tinggi pada produkproduknya. Walaupun fungsi dan spesifikasinya sama, mobil-mobil buatan Eropa dipersepsi memiliki kualitas lebih tinggi dibandingkan mobil buatan Jepang atau Korea, sehingga para produsennya dapat menetapkan harga premium. 4. Perlakuan tertentu Distributor dan para peritel akan memberikan perhatian tersendiri pada merek-merek berkualitas. Jika Anda berkunjung ke sebuah tempat pembelanjaan, merek-merek berkualitas biasanya akan dipajang pada etalase sendiri secara terpisah. 5. Perluasan merek Merek-merek dengan persepsi kualitas tinggi memiliki peluang yang besar untuk mengembangnkan produknya dalam berbagai kategori, dengan cara menggunakan nama merek sebagai ,,payung bagi produk lainnya. Sebagai contoh, Nestle mampu memperluas rentang produknya dari Nestle Milo, Nestle Nescafe, dan Nestle Maggi. Pelanggan pun dapat menerimanya dengan baik karena percaya pada kualitas Nestle selama ini.
+48
+
+2.1.4.1 Hubungan Persepsi terhadap Kualitas dengan Keputusan Pembelian Persepsi terhadap kualitas keseluruhan dari suatu produk atau jasa
+dapat menentukan nilai dari produk atau jasa tersebut dan berpengaruh secara langsung kepada keputusan pembelian konsumen dan loyalitas mereka terhadap merek (Durianto dkk, 2004). Perceived quality yang positif akan mendorong keputusan pembelian dan menciptakan loyalitas terhadap produk tersebut. Selanjutnya mengingat persepsi konsumen dapat diramalkan maka jika perceived quality-nya negatif, produk tidak akan disukai dan tidak akan bertahan lama di pasar. Sebaliknya, jika perceived quality pelanggan positif maka produk akan disukai.
+Banyak konteks menyebutkan persepsi kualitas sebuah merek menjadi alasan penting pembelian serta merek yang mana akan dipertimbangkan pelanggan, yang pada gilirannya akan mempengaruhi pelanggan dalam memutuskan merek yang akan dibeli (Durianto dkk,2004). Selain itu persepsi kualitas yang terkait erat dengan keputusan pembelian maka persepsi kualitas dapat mengefektifkan semua elemen program pemasaran khususnya program promosi (Durianto dkk, 2004).
+Persepsi merupakan realitas yang dinyatakan oleh konsumen dalam membuat keputusan, hal ini disebutkan Cleland dan Bruono dalam Simamora (2003) bahwa kualitas ada bila telah masuk ke dalam persepsi konsumen (quality on as is perceived by customers) yang berarti bila konsumen telah mempersepsikan kualitas sebuah produk sebagai bernilai rendah, maka kualitas produk itu rendah dan sebaliknya apapun
+49
+
+realitasnya. Maka disini persepsi menjadi lebih penting daripada realitas karena konsumen membuat keputusannya berdasarkan persepsi bukan realitas.
+Menurut Schiffman dan Kanuk dalam Lindawati (2005) konsumen percaya bahwa berdasarkan evaluasi mereka terhadap kualitas produk akan dapat membantu mereka untuk mempertimbangkan produk mana yang akan mereka beli. Menurut Lindawati (2005) sendiri menyatakan beberapa peneliti telah mencoba untuk mengintegrasikan konsep kualitas produk sebagai dasar pembelian produk oleh konsumen dan sebuah studi menunjukkan bahwa dengan adanya product quality akan menyebabkan tingkat pembelian yang semakin tinggi pula.
+Lebih lanjut di dalam penelitiannya, Vranesevic (2003) memasukkan salah satu variabelnya yaitu persepsi terhadap kualitas dalam proses pembelian di antara alternatif yang ada dimana konsumen akan pertama kali mempersepsikan merek sebagai tanda kualitasnya (penampilan fisik dan pengemasan, harga dan reputasi dalam jaringan penjualan). Hasil akhir penelitiannya menunjukkan hal yang sama bahwa persepsi atas kualitas menjadi faktor dominan dalam pemilihan merek, implikasinya ditunjukkan dalam fakta dimana terjadi probabilitas peningkatan melalui tingkat pembelian serta kekuatan di dalam persaingan.
+50
+
+Atas dasar pemikiran tersebut, maka dapat dirumuskan hipotesis : H2 : Persepsi terhadap kualitas berpengaruh positif terhadap keputusan pembelian.
+2.1.5 Nama Merek Nama merek adalah bagian dari merek dimana bagian dari merek
+yang dapat disebutkan atau dieja. Menurut Swastha (1979), nama merek (brand names) terdiri atas kata-kata, huruf dan atau angka-angka yang dapat diucapkan. Sementara itu Shakespeare dalam Sadat (2009) mengungkapkan ,,apalah arti sebuah nama, demikian kata yang sering dikutip dalam berbagai konteks. Namun dalam merek, nama jelas sangat penting karena menjadi bagian dari identitas yang akan dibangun. Nama mengukuhkan sebuah eksistensi antara yang baru lahir dengan yang telah ada. Melalui nama merek yang satu dapat dibedakan dengan merek yang lain atau dengan kata lain nama merek menjadi sesuatu yang penting dalam proses identifikasi (Sadat, 2009). Tjiptono (2005) yang dikutip dalam Sadat (2009) menambahkan dalam prosesnya, pemberian nama dapat diperoleh dari berbagai unsur, yaitu : 1) Berasal dari nama orang (person-based brand names)
+Biasanya diperoleh dari nama perintis, pemilik, CEO, legendaries, mitra bisnis, atau nama orang yang berasosiasi dengan produk. Contoh : Nyonya Meneer, Mc Donald.
+51
+
+2) Berasal dari nama tempat (geographic brand names) Dapat diambil dari nama tempat asal, tempat produk dan jasa tersebut berasal. Contoh : Jawa Post, Supermarket Yogya.
+3) Nama status (status names) Biasanya dipilih karena mewakili status yang baik. Contoh : Kaisar, Crown Plaza.
+4) Nama ilmiah hasil temuan (invented scientific names) Biasanya diciptakan dengan nama khusus atau disusun dari bahasa latin. Contoh : Typewriter, Gramophone.
+5) Nama artificial (artificial names) Dipilih dengan tidak mengacu pada makna tertentu. Contoh : Kodak, Exxon.
+6) Nama asosiasi yang baik (good association names) Nama yang dipilih karena memiliki sejumlah makna yang baik tentang sesuatu. Contoh : Al-Azhar.
+7) Nama deskriptif (descriptive names) Nama yang dipilih berdasarkan manfaat inti yang dapat diberikan pada produk yang diwakilinya. Contoh : Minyak Tjap Tawon, Jamu Tolak Angin.
+8) Nama yang mengandung unsur angka (alpha-numeric brand names) Angka dipilih karena dipercaya memiliki makna atau mewakili keyakinan tertentu. Contoh : Windows 2007, IM3.
+52
+
+Lebih lanjut menurut Sadat (2009) bagi sebuah produk, nama dapat berfungsi sebagai alat pembeda suatu produk dengan pesaingnya, alat promosi dan daya tarik produk, alat untuk membangun citra, pemberi keyakinan, jaminan kualitas, dan prestise kepada pelanggan, alat pengendali persaingan pasar.
+Hal lain yang perlu diketahui adalah suatu nama merek (brand names) ditujukan untuk menyampaikan sebuah image dan janji di dalamnya. Merek Attack misalnya, yang mencerminkan sebuah perlawanan terhadap kotoran dan kuman yang menempel di pakaian. Dipertegas Knapp dalam Simamora (2002) yang menyebutkan bahwa merek bukan sekedar nama besar kalau sudah terkenal, merek adalah cara hidup dimana didalamnya terdapat keinginan, janji dan komitmen yang harus dipenuhi oleh perusahaan. Oleh karena itu diperlukan adanya lima strategi untuk membentuk merek (nama) yang kuat yaitu : 1) Melakukan penilaian merek, hal ini kira-kira sama dengan evaluasi
+posisi merek yang ada. Merek perlu dipandang sebagai suatu subjek bukan hanya objek, oleh karena itu perlu diketahui faktor-faktor asosiasi yang melekat pada merek sebagai subjek. 2) Mengembangkan janji merek, yaitu harapan tentang bagaimana merek bekerja terhadap konsumen. Dengan sendirinya kalau sudah berjanji, merek akan segera menepatinya. 3) Menciptakan ,,blueprint merek yang hampir sama dengan identitas merek yang ada.
+53
+
+4) Membudayakan merek, artinya perlu adanya keterkaitan emosional agar konsumen loyal terhadap merek salah satunya melalui manfaat-manfaat yang memberikan sentuhan emosional.
+5) Meningkatkan keuntungan merek. Upaya menjadikan sebuah brand names itu bagus dimata
+konsumen dan benak konsumen, setidaknya ada beberapa hal yang perlu diperhatikan (Nicolino, 2004) yaitu mudah diingat, menimbulkan image positif, tidak menyerang etnis, ras, atau kelompok agama tertentu, mudah diucapkan, membentuk suatu kepribadian, berbeda, kedengarannya bagus ketika diucapkan, menggambarkan kelebihan yang dimilik produk, menggambarkan perasaan, menonjol, istimewa.
+Wening dan Suyono (2006) menambahkan sifat-sifat nama merek yang baik setidaknya memiliki lima kriteria sebagai berikut : 1) Memorability, yaitu seberapa mudah nama merek untuk diingat dan
+biasanya diukur dari seberapa konsumen dapat mengingat merek itu. 2) Uniquiness, yaitu bahwa merek itu harus berbeda dan tidak
+membingungkan dengan merek lain dalam kategorinya. 3) Pronounceability, seberapa mudah sebuah merek dilafalkan dan
+diucapkan pada waktu konsumen akan melakukan pembelian. 4) Consistency with overall corporate branding strategy, yaitu konsistensi
+dengan kategori produknya dilihat dari apakah perusahaan menerapkan nama yang sama pada semua produk atau menerapkan strategi yang berbeda yang membedakan untuk setiap nama produk.
+54
+
+2.1.5.1 Hubungan Nama Merek dengan Keputusan Pembelian Keller dalam Rahmawati (2002) menyatakan bahwa merek (nama)
+bagi konsumen dapat memberikan pesan gambaran kualitas dari produk serta janji dari produsen kepada konsumen, maka melalui gambaran tersebut dapat mendorong konsumen membuat suatu keputusan. Hal tersebut senada dengan pendapat Sadat (2009) yang manambahkan bahwa nama merek yang kuat akan memberikan manfaat-manfaat bagi pelanggan, yaitu sebagai sinyal kualitas, mempermudah proses / memandu pembelian, alat mengidentifikasi produk, mengurangi risiko, memberi nilai psikologis, dapat mewakili kepribadian.
+Kemudian Nicolino (2004) menyebutkan pula peran-peran nama merek yang ada sekarang meliputi : 1) Memotivasi orang untuk terlibat atau membeli
+Nama merek sering kali menjadi alat utama untuk menarik perhatian konsumen. Nama tersebut mampu mengisyaratkan ,,inilah yang Anda inginkan. 2) Menjadikan produk mudah didapat Nama merek itu sendiri harus menempel dalam ingatan orang. Banyak cara agar hal itu terjadi, seperti memiliki nama unik dan beda atau nama yang menimbulkan kesan yang meyakinkan. Kuncinya adalah mudah diingat, mimpi buruk seorang pemasar adalah ketika pelanggan yang berkata ,,saya melihat sesuatu yang saya inginkan dalam iklan tetapi saya tidak tahu mereknya apa.
+55
+
+3) Menciptakan titik fokus Nama merek harus memberikan daya tarik sentral yang merangkum semuanya. Nama merek harus relevan dengan produk dan fungsinya serta idealnya harus memberi sejenis inspirasi atau petunjuk pada seluruh komunitas merek.
+4) Menggambarkan hakikat atau fungsi produk Untuk yang satu ini tidak selalu berlaku, yang perlu dilakukan adalah mengingat namanya dan mempertimbangkan yang mana. Tetapi untuk beberapa merek, nama menggambarkan segalanya.
+5) Menciptakan perasaan atau identifikasi yang positif Seperti yang telah dijelaskan melalui poin-poin diatas dapat ditunjukkan bahwa nama merek seringkali menjadi alat dalam membuat keputusan pembelian bagi pelanggan. Pendapat lainnya oleh Sullivan (1998) menyatakan nama merek
+juga dapat mempengaruhi permintaan produk yaitu dengan menyediakan informasi yang berkaitan dengan kualitas dan penciptaan appealing image atau pencitraan yang dahsyat didalam benak seseorang. Pitta dan Katnasis yang dikutip Lindawati (2005) menyatakan ketika konsumen hanya memiliki waktu yang sedikit untuk melakukan konsumsi kedekatan dengan nama merek akan cukup untuk menentukan pembelian. Maka perusahaan berperan penting dalam mengeratkan nama atas merek produknya dengan para pelanggan, karena hal tersebut mendorong cepatnya seorang konsumen untuk menentukan pembelian.
+56
+
+Menurut Bouch et.al yang dikutip Sullivan (1998) menyebutkan didalam suatu penelitian eksperimental psikologi menunjukkan bahwa nama merek membantu konsumen dalam mengevaluasi produk serta mengurangi dorongan keraguan dalam memutuskan melakukan pembelian, dikarenakan nama merek mampu memberi rasa aman bagi seorang konsumen. Dalam kesimpulannya dikatakan bahwa nama merek yang telah dikenal masyarakat menjadi pertimbangan ketika memilih produk sabun cuci.
+Atas dasar pemikiran tersebut, maka dapat dirumuskan hipotesis : H3 : Nama merek berpengaruh positif terhadap keputusan pembelian. 2.1.6 Brand Awareness
+Kesadaran merek merupakan suatu gambaran kesanggupan dari calon pembeli untuk mengenali atau mengingat kembali bahwa suatu merek merupakan bagian dari kategori produk tertentu (Aaker dalam Durianto dkk, 2004).
+Secara singkat Aaker (1991) menggambarkan level kesadaran pelanggan terhadap merek dalam bentuk piramida sebagai berikut :
+Gambar 2.3 Level Kesadaran Merek
+Top of Mind Brand Recall Brand Recognition Unaware of Brand Sumber : David A. Aaker (1991), ,,Managing Brand Equity, hal 40
+57
+
+a. Tidak sadar merek (unaware of brand) adalah level yang paling rendah. Pada posisi ini, pelanggan sama sekali tidak mengenali merek yang disebutkan meskipun melalui alat bantu, seperti menunjukkan gambar atau menyebutkan nama merek tersebut.
+b. Mengenali merek (brand recognition) atau mengingat kembali dengan bantuan. Pada level ini, pelanggan akan mengingat merek setelah diberikan bantuan dengan memperlihatkan gambar atau ciri-ciri tertentu.
+c. Mengingat kembali merek (brand recall) adalah level pengingatan merek tanpa bantuan (unaided recall). Level ini mencerminkan merekmerek yang dapat diingat pelanggan dengan baik tanpa bantuan.
+d. Puncak pikiran (top of mind) merupakan level tertinggi dan posisi ideal bagi semua merek. Pada level ini, pelanggan sangat paham dan mengenali elemen-elemen yang dimiliki sebuah merek. Pelanggan akan menyebutkan merek untuk pertama kali, saat ditanya mengenai suatu kategori produk. Dengan perkataan lain, sebuah merek menjadi merek utama dari berbagai merek yang ada dalam benak pelanggan. Brand awareness dibangun dengan memberikan nama yang baik
+dan dalam nama itu terkandung makna dan nilai yang begitu tinggi, dimana awareness atas merek dibangun dengan sedemikian baiknya secara terus menerus (continue) sepanjang daur hidup produk itu berlangsung.
+Aaker (1996) dalam Rahmawati (2002) juga menambahkan bahwa kesadaran akan merek bukan hanya suatu daya ingat saja namun lebih
+58
+
+kepada proses pembelajaran bagi konsumen terhadap suatu merek. Pada akhirnya daya ingat tersebut dapat menjadi pertimbangan bagi konsumen dalam membeli sebuah merek.
+Pesan brand awareness dalam membantu suatu merek dapat dipahami bagaimana brand awareness tersebut menciptakan suatu nilai. Nilai-nilai tersebut adalah jangkar yang menjadi pengait bagi asosiasi lain, familiar (menjadi terkenal), komitmen, mempertimbangkan merek (Durianto dkk, 2004).
+Keller (2003) dalam Vranesevic (2008) mempertegaskan pula bahwa kesadaran akan merek diciptakan dan dipertinggi melalui keterkenalan akan suatu merek yang mendalam, dimana puncak hasilnya pada saat konsumen memiliki pengalaman secara mendalam atas merek tersebut. Konsumen yang telah cukup pengalamannya atas sebuah merek lewat dari apa yang dilihatnya, didengarnya atau bahkan diketahuinya maka merek secara langsung akan berada di dalam ingatan. Upaya untuk dapat meraih, memelihara dan meningkatkan kesadaran perlu adanya, yaitu : menjadi berbeda dan dikenang (be different, memorable), melibatkan sebuah slogan dan jingle (involve a slogan or jingle), menampakkan simbol (symbol expose), publisitas (publicity), sponsor kegiatan (event sponsorship), mempertimbangkan perluasan merek (consider brand extension), serta menggunakan tanda-tanda (using cues) dalam Muafi dan effendi (2001).
+59
+
+Lebih lanjut bahwa sebuah merek dengan kesadaran konsumen yang tinggi biasanya disebabkan oleh beberapa faktor (Durianto dkk, 2004), antara lain diiklankan secara luas, eksistensi yang sudah teruji oleh waktu, jangkauan distribusi yang luas, merek tersebut dikelola dengan baik.
+Oleh karena itu kesadaran merek akan menjadi faktor yang menentukan dalam keputusan pembelian.
+2.1.6.1 Hubungan Brand Awareness dengan Keputusan Pembelian Brand awareness juga memainkan suatu peranan penting didalam
+pengambilan keputusan konsumen melalui pengaruh didalam pertimbangan atas merek, penggunaan merek, dan persepsi atas kualitas (McDonald dan Sharp dalam Radder dan Huang, 2008). Aaker dalam Muafi dan Effendi (2001) menambahkan bahwa kesadaran akan suatu merek bisa menjadi faktor independen yang penting dalam mempengaruhi sikap konsumen. Dengan adanya kesadaran akan merek dapat menggambarkan merek tersebut di dalam pikiran konsumen yang nantinya dapat menjadi penentu dalam beberapa kategori dan mempunyai peranan dalam mempengaruhi keputusan salah satunya dalam hal pembelian.
+Suatu hubungan terjalin terus menerus diantara level dari brand awareness dan keputusan pembelian (Woodside dan Wilson dalam Radder dan Huang, 2008). Melalui tingginya intensitas pembelian dan lebih condong terhadap suatu merek, seorang konsumen lebih cepat mengingat
+60
+
+kembali atas merek didalam situasi secara spontan tanpa adanya bantuan. Dengan kata lain, top-of-mind brand memiliki kemungkinan paling tinggi untuk melakukan pembelian.
+Dapat diketahui pula konsumen tidak selalu menghabiskan waktunya atau melakukan usaha pengamatan didalam membuat keputusan pembelian. Mereka selalu mencoba untuk meminimalisasi pengambilan keputusan melalui pendekatan seperti ,,membeli merek yang telah diketahuinya atau ,,memilih merek yang dikenalnya dan membeli hanya yang terkenal saja, merek yang dibangun secara baik (Keller dalam Radder dan Huang, 2008). Lebih lanjut bahwa merek yang telah dikenal oleh konsumen akan mendorong timbulnya pembelian yang berulang-ulang (Cravens, 1996). Dipertegas kembali oleh Durianto dkk (2004) dengan membeli merek yang sudah dikenal, mereka merasa aman, terhindar dari berbagai resiko pemakaian dengan asumsi bahwa merek yang sudah dikenal lebih dapat diandalkan.
+Kesadaran merek mempengaruhi rasa percaya diri pelanggan atas keputusan pembelian dengan mengurangi tingkat resiko yang dirasakan atas suatu merek yang diputuskan untuk dibeli. Semakin kecil tingkat perceived risk suatu merek, semakin besar keyakinan pelanggan atas keputusan pembeliannya, dengan demikian pelanggan memiliki keyakinan yang besar atas keputusannya (Aaker dalam Astuti dan Cahyadi, 2007).
+Atas dasar pemikiran tersebut, maka dapat dirumuskan hipotesis :
+61
+
+H4 : Kesadaran (awareness) konsumen berpengaruh positif terhadap keputusan pembelian.
+
+2.2 Penelitian Terdahulu
+
+Beberapa penelitian terdahulu yang menjadi rujukan penelitian ini
+
+antara lain :
+
+Tabel 2.1
+
+Penelitian Terdahulu
+
+Nama
+
+Judul Penelitian
+
+Variabel
+
+Kesimpulan
+
+Peneliti
+
+Penelitian
+
+Arief Yulian Analisis pengaruh Variabel
+
+Variabel citra merek
+
+Subekti, 2010 citra merek dan independen : dan kesadaran merek
+
+kesadaran merek citra merek, memiliki pengaruh
+
+terhadap ekuitas kesadaran merek yang positif dan
+
+merek susu cair Variabel
+
+signifikan terhadap
+
+dalam
+
+kemasan dependen
+
+: ekuitas merek
+
+Indomilk
+
+ekuitas merek
+
+Fery Adhi Analisis pengaruh Variabel
+
+Variabel
+
+Brand
+
+Setyawan, brand awareness, independen : awareness
+
+2010
+
+brand associate, brand
+
+memberikan
+
+perceived quality awareness,
+
+pengaruh terbesar
+
+dan brand loyalty brand associate, terhadap minat beli
+
+terhadap minat beli perceived
+
+62
+
+telepon
+
+seluler quality dan
+
+Nokia
+
+brand loyalty
+
+Variabel
+
+dependen
+
+:
+
+minat beli
+
+Lilik Suprapti Analisis pengaruh Variabel
+
+Variabel Perceived
+
+(2010)
+
+brand awareness, independen : quality menunjukkan
+
+perceived value brand
+
+pengaruh yang paling
+
+organizational
+
+awareness,
+
+besar dan nyata
+
+association, dan perceived value terhadap keputusan
+
+perceived quality organizational pembelian
+
+oleh
+
+terhadap keputusan association, dan konsumen
+
+pembelian konsumen perceived
+
+pada sepeda motor quality
+
+Yamaha Mio CW Variabel
+
+dependen
+
+:
+
+keputusan
+
+pembelian
+
+Munfaridin Analisis pengaruh Variabel
+
+Variabel kesadaran
+
+(2010)
+
+kesadaran merek, independen : merek dan persepsi
+
+asosiasi merek, dan kesadaran
+
+terhadap kualitas
+
+persepsi kualitas merek, asosiasi mempunyai pengaruh
+
+terhadap
+
+minat merek,
+
+dan paling besar terhadap
+
+63
+
+mereferensikan
+
+persepsi kualitas minat mereferensi
+
+sepeda motor Suzuki Variabel
+
+pada produk sepeda
+
+dependen
+
+: motor
+
+Suzuki,
+
+minat
+
+sedangkan asosiasi
+
+mereferensi
+
+merek mempunyai
+
+pengaruh paling kecil
+
+terhadap
+
+pembentukan minat
+
+beli pada produk
+
+sepeda motor Suzuki
+
+Angga Bagus Analisis pengaruh Variabel
+
+Variabel
+
+brand
+
+A. (2009)
+
+brand awareness, independen : awareness memiliki
+
+perceived quality, brand
+
+koefisien regresi yang
+
+dan
+
+brand awareness,
+
+paling besar atau
+
+association terhadap perceived
+
+memiliki pengaruh
+
+keputusan konsumen quality, dan yang paling kuat
+
+dalam
+
+membeli brand
+
+terhadap keputusan
+
+produk GT Man
+
+association
+
+pembelian konsumen
+
+Variabel
+
+dependen
+
+:
+
+keputusan
+
+pembelian
+
+Sumber : dikembangkan untuk penelitian ini, 2011
+
+64
+
+2.3 Kerangka Pemikiran Teoritis
+
+Berdasarkan tinjauan landasan teori dan penelitian terdahulu, maka
+
+dapat disusun sebuah kerangka pemikiran teoritis seperti yang tersaji dalam
+
+gambar sebagai berikut :
+
+Gambar 2.4
+
+Citra merek (X1)
+
+Kerangka Pemikiran Teoritis
+
+Persepsi terhadap kualitas (X2)
+Nama merek (X3)
+Brand Awareness (X4)
+
+H1 H2
+H3 H4
+
+Keputusan Pembelian (Y)
+
+Sumber : dikembangkan untuk penelitian ini, 2011 Hipotesis yang dirumuskan dalam penelitian ini : H1. Citra merek berpengaruh positif terhadap keputusan pembelian. H2. Persepsi terhadap kualitas berpengaruh positif terhadap keputusan pembelian. H3. Nama merek berpengaruh positif terhadap keputusan pembelian. H4. Kesadaran (awareness) konsumen berpengaruh positif terhadap keputusan
+pembelian.
+
+65
+
+BAB III
+METODE PENELITIAN
+3.1. Variabel Penelitian dan Definisi Operasional 3.1.1. Variabel Penelitian
+Variabel penelitian adalah suatu atribut atau sifat dari orang, obyek atau kegiatan yang memiliki variasi tertentu yang ditetapkan oleh peneliti untuk dipelajari dan ditarik kesimpulannya (Sugiyono, 2001). Berkaitan dengan penelitian ini, variabel penelitian yang terdiri dari variabel dependen dan variabel independen diuraikan sebagai berikut : 1) Variabel Dependen, yaitu :
+Y = Keputusan Pembelian 2) Variabel Independen, yaitu :
+X1 = Citra Merek X2 = Persepsi terhadap Kualitas X3 = Nama Merek X4 = Brand Awareness
+3.1.2. Definisi Operasional Sementara definisi operasional variabel merupakan suatu definisi yang
+diberikan kepada suatu variabel dengan memberi arti atau menspesifikasikan kegiatan atau membenarkan suatu operasional yang diperlukan untuk mengukur variabel tersebut (Sugiyono, 2001).
+66
+
+Adapun variabel penelitian beserta definisi operasionalnya dijelaskan
+
+dalam Tabel 3.1 sebagai berikut :
+
+Tabel 3.1
+
+Variabel Penelitian dan Definisi Operasional
+
+Variabel
+
+Definisi
+
+Indikator
+
+Sumber
+
+Citra Merek
+Persepsi terhadap Kualitas
+Nama Merek
+
+Seperangkat keyakinan, 1. Mengenal merek
+
+Setyaji
+
+ide, dan kesan yang 2. Merek terpercaya
+
+(2008)
+
+dimiliki oleh seseorang 3. Merek dengan citra kuat
+
+terhadap suatu merek
+
+(positioning product)
+
+4. Merek yang peduli
+
+perilaku hidup bersih
+
+(concern)
+
+Persepsi pelanggan 1. Bahan baku berkualitas Setyaji
+
+terhadap keseluruhan 2. Jarang terjadi kerusakan / (2008)
+
+kualitas
+
+atau cacat produk
+
+keunggulan dari suatu 3. Pengemasan terjamin
+
+produk yang berkaitan 4. Mampu membersihkan
+
+dengan apa yang kuman dan kotoran
+
+diharapkan
+
+oleh (keandalan)
+
+pelanggan
+
+Bagian dari suatu 1. Singkat dan sederhana Simamora
+
+merek terdiri dari kata- (brevity)
+
+(2002) ;
+
+67
+
+kata, huruf atau angka 2. Familier
+
+Nicolino
+
+yang dapat diucapkan 3. Menciptakan perasaan atau (2004)
+
+yang
+
+bersifat identifikasi positif
+
+membedakan produk 4. Sebagai
+
+acuan
+
+tersebut dari pesaingnya mengevaluasi produk
+
+Brand
+
+Kekuatan sebuah merek 1. Kemampuan mengingat Astuti dan
+
+Awareness dalam pikiran (ingatan) slogan/jingle produk
+
+Cahyadi
+
+pelanggan
+
+2. Kemampuan mengenali (2007)
+
+ikon (duta) produk
+
+3. Kemampuan mengingat
+
+promo produk
+
+4. Kemampuan mengenali
+
+varian produk
+
+Keputusan Tindakan nyata dari 1. Prioritas pembelian
+
+Ulinnuha
+
+Pembelian konsumen
+
+untuk 2. Keyakinan dalam membeli (2008) ;
+
+membeli Attack atas 3. Kemudahan mendapatkan / Setyaji
+
+dasar kecocokan dan memperoleh
+
+(2008)
+
+kepuasan dari apa yang 4. Pertimbangan manfaat
+
+dicari dan dibutuhkan
+
+Sumber : dikembangkan untuk penelitian ini, 2011
+
+68
+
+Indikator-indikator diatas diukur dengan skala penilaian Likert yang memiliki lima tingkat preferensi jawaban yang masing-masing mempunyai skor 1-5 dengan rincian sebagai berikut :
+1 = sangat tidak setuju 2 = tidak setuju 3 = ragu-ragu 4 = setuju 5 = sangat setuju
+3.2. Penentuan Populasi dan Sampel 3.2.1. Populasi
+Menurut Dajan (1996) populasi merupakan keseluruhan unsur-unsur yang memiliki satu atau beberapa ciri atau karakteristik yang sama. Dalam penelitian ini, populasi penelitian mengacu pada penduduk di Semarang yang memakai produk sabun deterjen bubuk Attack. Karena populasi dalam penelitian ini yaitu seluruh orang yang menggunakan sabun deterjen bubuk Attack di Semarang jumlahnya sangat banyak (tersebar dan sulit diketahui secara pasti), maka dilakukan pengambilan sampel untuk penelitian ini.
+3.2.2. Sampel Sampel menurut Sugiyono (2001) merupakan bagian dari jumlah dan
+karakteristik yang dimiliki oleh populasi tersebut. Teknik pengambilan sampling yang digunakan adalah dengan non probability sampling yaitu teknik sampling
+69
+
+yang tidak memberikan kesempatan sama bagi setiap unsur atau anggota populasi
+
+untuk dijadikan sampel. Sedangkan penentuan pengambilan jumlah responden
+
+(sampel) dilakukan melalui teknik purposive sampling. Teknik purposive
+
+sampling yaitu pada teknik ini, pembagian penyebaran kuesioner berdasarkan
+
+tingkat kepadatan penduduk di wilayah Kecamatan Gayamsari yang dapat dilihat
+
+pada Tabel 3.2 berikut :
+
+Tabel 3.2
+
+Kepadatan Penduduk Kecamatan Gayamsari Kota Semarang Per Km2
+
+Kelurahan
+
+Kepadatan Penduduk Per Km2
+
+Pandean Lamper
+
+16,816
+
+Gayamsari
+
+15,407
+
+Siwalan
+
+4,882
+
+Sambirejo
+
+8,412
+
+Sawah Besar
+
+16,149
+
+Kaligawe
+
+13,419
+
+Tambak Rejo
+
+13,815
+
+Total
+
+11,960
+
+Sumber : Badan Pusat Statistik tahun 2009
+
+Dari Tabel diatas, akan diambil 3 Kelurahan dengan kepadatan penduduk paling besar sebagai sampel untuk penyebaran kuesioner antara lain Kelurahan Pandean Lamper, Kelurahan Sawah Besar dan Kelurahan Gayamsari. Dimana
+
+70
+
+fokus penyebaran kuesioner diperuntukkan bagi konsumen pemakai sabun pencuci pakaian bubuk Attack.
+Pada penelitian ini populasi yang diambil berukuran besar dan jumlahnya tidak diketahui secara pasti. Dalam penentuan sampel jika populasinya besar dan jumlahnya tidak diketahui maka menurut Widiyanto (2008) digunakan rumus :
+( )
+( ) n = 96,04 Keterangan : n : Jumlah Sampel Z : Nilai Z dengan tingkat keyakinan yang dibutuhkan penentuan sampel persen. Pada  = 5%, maka Z = 1,96. Moe : Margin of error atau kesalahan maksimum yang bisa ditoleransi, biasanya sebesar 10%. Untuk memudahkan penelitian maka jumlah sampel ditetapkan sebanyak 100 orang. Jumlah responden sebanyak 100 orang tersebut dianggap sudah representatif karena sudah lebih besar dari batas minimal sampel.
+71
+
+3.3. Jenis dan Sumber Data Jenis dan sumber data yang digunakan dalam variabel penelitian dijelaskan
+sebagai berikut : a. Data primer
+Data primer adalah data yang diperoleh secara langsung dari sumber asli (tanpa perantara). Data primer yang ada dalam penelitian ini merupakan hasil penyebaran kuesioner pada sampel yang telah ditentukan (penduduk di Semarang) berupa data mentah dengan skala Likert untuk mengetahui respon dari responden yang ada mengenai pengaruh citra merek, persepsi terhadap kualitas, nama merek, dan brand awareness terhadap keputusan pembelian. b. Data sekunder
+Data sekunder adalah data penelitian yang diperoleh secara tidak langsung melalui media perantara (diperoleh dan dicatat oleh pihak lain). Data sekunder yang digunakan dalam penelitian ini berasal dari Indonesian Best Brand Award dalam majalah SWA Sembada edisi No. 15/XXVI/15-28 JULI 2010 dan No. 16/XXV/27 JULI - 5 AGUSTUS 2009.
+3.4. Metode Penyusunan Data Metode pengumpulan data yang digunakan disini meliputi dua macam
+yaitu : 1. Survei kuesioner
+Kuesioner atau daftar pertanyaan merupakan teknik pengumpulan data yang dilakukan dengan cara menyusun pertanyaan-pertanyaan yang sifatnya
+72
+
+tertutup dan terbuka dengan jawaban yang telah disediakan, dan harus diisi oleh responden dengan cara memilih salah satu alternatif jawaban yang tersedia beserta alasannya. 2. Studi kepustakaan
+Merupakan pengumpulan data dengan tujuan untuk mengetahui berbagai pengetahuan atau teori-teori yang berhubungan dengan permasalahan penelitian, diantaranya berasal dari buku, majalah, jurnal, ataupun berbagai literatur yang relevan dengan penelitian.
+3.5. Metode Analisis Data 3.5.1. Analisis Kuantitatif
+Analisis kuantitatif merupakan metode analisis dengan angka-angka yang dapat dihitung maupun diukur. Analisis kuantitatif ini dimaksudkan untuk memperkirakan besarnya pengaruh secara kuantitatif dari perubahan satu atau beberapa kejadian lainnya dengan menggunakan alat analisis statistik. Pengolahan data dengan analisis kuantitatif melalui beberapa tahap.
+3.5.1.1.Uji Validitas Uji validitas digunakan untuk mengukur sah atau tidaknya satu kuesioner
+(Ghozali, 2001). Satu kuesioner dinyatakan valid jika pertanyaan pada pertanyaan kuesioner mampu mengungkapkan sesuatu yang akan diukur oleh kuesioner tersebut. Tingkat validitas dapat diukur dengan cara membandingkan nilai rhitung pada tabel correlations pada total nilai pearson Correlation pada total nilai
+73
+
+Pearson Correlation untuk tiap indikator variabel dengan nilai rtabel dengan ketentuan untuk degree of freedom (df) = n-k, dimana n adalah jumlah sampel yang digunakan dan k adalah jumlah variabel independennya (Ghozali, 2001). Dengan jumlah sampel (n) adalah tingkat signifikansi 0,05 maka rtabel pada penelitian ini adalah :
+r (0,05 ; 100-4 = 96)  0,1988 Bila : rhitung > rtabel, berarti pernyataan tersebut dinyatakan valid
+rhitung  rtabel, berarti pernyataan tersebut dinyatakan tidak valid
+3.5.1.2.Uji Reliabilitas Uji reliabilitas digunakan untuk mengukur kuesioner yang merupakan
+indikator dari variabel. Kuesioner dikatakan reliabel atau handal jika masingmasing pertanyaan dijawab responden secara konsisten atau stabil dari waktu ke waktu. Suatu kuesioner dikatakan handal jika nilai Cronbach Alpha lebih besar dari 0,600 (Ghozali, 2001).
+3.5.1.3.Uji Asumsi Klasik Untuk menguji apakah persamaan garis regresi yang diperoleh linier dan
+bisa dipergunakan untuk melakukan peramalan, maka harus dilakukan uji asumsi klasik yaitu : 1. Uji Normalitas
+Uji normalitas bertujuan untuk mengetahui apakah dalam model regresi, variabel terikat dan variabel bebas memiliki distribusi yang normal atau tidak,
+74
+
+karena model regresi yang baik memiliki distribusi data yang normal atau mendekati normal.
+Pembuktian apakah data tersebut memiliki distribusi normal atau tidak dapat dilihat pada bentuk distribusi datanya, yaitu pada histogram maupun normal probability plot. Pada histogram, data dikatakan memiliki distribusi yang normal jika data tersebut berbentuk seperti lonceng. Sedangkan pada normal probability plot, data dikatakan normal jika ada penyebaran titik-titik disekitar garis diagonal dan penyebarannya mengikuti arah garis diagonal. Ghozali (2001) menyebutkan jika data menyebar disekitar garis diagonal dan mengikuti arah garis diagonal maka model regresi memenuhi asumsi normalitas. 2. Uji Multikolinearitas
+Uji multikolinearitas bertujuan untuk menguji apakah dalam model regresi ditemukan adanya korelasi antar variabel bebas (independent variabel). Model regresi yang baik seharusnya tidak terjadi korelasi di antara variabel bebasnya (Ghozali, 2005). Multikolinearitas dapat dilihat dari nilai tolerance dan lawannya serta Variance Inflation Factor (VIF).
+Kedua ukuran ini menunjukkan setiap variabel independen manakah yang dijelaskan oleh variabel independen lainnya. Tolerance mengukur variabelitas variabel independen yang terpilih yang tidak dijelaskan oleh variabel independen lainnya. Jadi, nilai tolerance yang rendah sama dengan nilai VIF tinggi (karena VIF = 1/tolerance). Nilai cut off yang umum dipakai untuk menunjukkan adanya multikolinearitas adalah nilai tolerance lebih kecil daripada 0,10 atau sama dengan nilai VIF lebih besar daripada 10 (Ghozali, 2005).
+75
+
+3. Uji Heteroskedastisitas Tujuan pengujian ini adalah untuk mengetahui apakah dalam model
+regresi terjadi ketidaksamaan varian dari residual satu pengamatan ke pengamatan yang lain. Jika varian dari residual satu pengataman ke pengamatan yang lain tetap, maka disebut homokedastisitas, namun jika berbeda disebut heteroskedastisitas. Model regresi yang baik adalah homokedastisitas atau tidak terjadi heteroskedastisitas.
+Salah satu cara untuk mendeteksi ada atau tidaknya heteroskedastisitas adalah dengan melihat grafik plot antar prediksi variabel dependen (ZPRED) dengan residualnya (SRESID). Deteksi ada tidaknya heteroskedastisitas dapat dilakukan dengan melihat ada tidaknya pola titik pada grafik scatterplot antara SRESID dan ZPRED, dimana sumbu Y adalah Y yang telah diprediksi dan sumbu X adalah residual yang telah di standardized (Ghozali, 2001). Dasar analisisnya sebagai berikut : a) Jika ada pola tertentu, seperti titik-titik yang ada membentuk suatu pola yang
+teratur (bergelombang melebar kemudian menyempit) maka terjadi heteroskedastisitas. b) Jika tidak ada pola yang jelas seperti titik-titik menyebar diatas dan dibawah angka 0 pada sumbu Y, maka hal ini mengindikasikan tidak terjadi heteroskedastisitas.
+76
+
+3.5.1.4.Analisis Regresi Berganda
+
+Analisis regresi berganda digunakan untuk mengetahui seberapa besar
+
+pengaruh variabel bebas yaitu : citra merek (X1), persepsi terhadap kualitas (X2),
+
+nama merek (X3), dan brand awareness (X4) terhadap keputusan pembelian (Y)
+
+konsumen dalam membeli produk sabun pencuci pakaian bubuk Attack. Adapun
+
+bentuk persamaan regresi linear berganda yang digunakan dalam penelitian ini
+
+sebagai berikut :
+
+Y = b1X1+b2X2+b3X3+b4X4
+
+Keterangan :
+
+Y
+
+= Keputusan pembelian konsumen
+
+b1, b2, b3, b4 = Koefisiensi regresi
+
+X1
+
+= Citra merek
+
+X2
+
+= Persepsi terhadap kualitas
+
+X3
+
+= Nama Merek
+
+X4
+
+= Brand Awareness
+
+3.5.1.5.Uji Hipotesis 1. Uji T
+Uji T digunakan untuk menunjukkan apakah suatu variabel independen secara individual mempengaruhi variabel dependen (Ghozali, 2001). Hipotesis yang dipakai adalah : H0 : bi = 0 , artinya suatu variabel independen tidak berpengaruh terhadap variabel dependen.
+77
+
+Ha : bi > 0 , artinya suatu variabel independen berpengaruh positif terhadap variabel dependen.
+Kriteria pengujian dengan tingkat signifikansi () = 0,05 ditentukan sebagai berikut : Apabila thitung > ttable, maka H0 ditolak dan Ha diterima Apabila thitung < ttable, maka H0 diterima dan Ha ditolak
+2. Uji F Uji F bertujuan untuk menunjukkan apakah semua variabel independen
+yang dimasukkan dalam model secara simultan atau bersama-sama mempunyai pengaruh terhadap variabel dependen (Ghozali, 2001). a) Membuat hipotesis untuk kasus pengujian Ftest di atas, yaitu :
+H0 : b1 = b2 = b3 = b4 = 0 Artinya : tidak ada pengaruh yang signifikan dari variabel independen yaitu citra merek (X1), persepsi terhadap kualitas (X2), nama merek (X3), dan brand awareness (X4) secara simultan terhadap variabel dependen yaitu keputusan pembelian (Y). Ha : b1 ­ b4 > 0 Artinya : ada pengaruh yang signifikan dari variabel independen yaitu citra merek (X1), persepsi terhadap kualitas (X2), nama merek (X3), dan brand awareness (X4) secara simultan terhadap variabel dependen keputusan pembelian (Y).
+78
+
+b) Menentukan Ftable dan Fhitung dengan tingkat kepercayaan sebesar 95% atau taraf signifikansi sebesar 5%, maka : Jika Fhitung > Ftable, maka H0 ditolak, berarti masing-masing variabel bebas secara bersama-sama mempunyai pengaruh yang signifikan terhadap variabel terikat. Jika Fhitung < Ftable, maka H0 diterima, berarti masing-masing variabel bebas secara bersama-sama tidak mempunyai pengaruh yang signifikan terhadap variabel terikat.
+3. Koefisien Determinasi (R2) Koefisiensi determinasi bertujuan untuk mengukur seberapa jauh
+kemampuan model dalam menerangkan variasi variabel dependen. Nilai koefisien determinasi adalah 0 < R2 < 1. Koefisien determinasi yang mendekati satu berarti variabel-variabel independen memberikan hampir semua informasi yang dibutuhkan untuk memprediksi variabel dependen. Penggunaan R square adalah bisa terhadap jumlah variabel independen yang dimasukkan ke dalam model. Setiap tambahan variabel independen ke dalam model, maka R square pasti meningkat tidak peduli apakah variabel independen tersebut berpengaruh secara signifikan atau tidak. Tidak seperti R square, nilai adjusted R square dapat naik atau turun apabila terdapat tambahan variabel independen ke dalam model. Oleh karena itu, sebaiknya digunakan nilai adjusted R square untuk mengevaluasi model regresi terbaik (Ghozali, 2001).
+79
+
+3.5.2. Analisis Kualitatif Analisis kualitatif berguna menyimpulkan hasil yang diperoleh dari
+analisis kuantitatif. Analisis kualitatif adalah analisis data berdasarkan hasil yang dinyatakan dalam bentuk uraian. Data kualitatif merupakan data berupa informasi, uraian dalam bentuk bahasa prosa, kemudian dikaitkan dengan data-data lainnya untuk mendapatkan kejelasan terhadap suatu kebenaran sehingga memperoleh gambaran baru atau memperkuat suatu gambaran yang sudah ada sebelumnya.
+80

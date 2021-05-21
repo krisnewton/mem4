@@ -1,0 +1,1234 @@
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+1
+
+Randall Buth Biblical Language Center
+
+The Hebrew Verb is Simple and Powerful: A Cognitive, Prototypical, and Functional Approach
+to the Semantics and Word Order of 1Samuel 1-2
+
+While she was walking down the street her friend approached and said '  . On hearing " " she instantly knew that she was expected to know who was being talked about. And on hearing ' she instantly knew that the arrival would happen some time in the future. By default she did not think that her friend was saying that the coming "might happen" or only that the coming was "currently in process." No, the particular lady understood the verb as "will come." The verb ' was understood as indicative, as future, as perfective. (Yes, perfective, that is, complete, including the end point of arrival!) The context would refer the hearer to a default situation and a default interpretation based on typicality. Of course, that would have been three thousand years ago, without the benefit of learning biblical Hebrew through metalanguage or grammar books. (Incidentally, we truly appreciate grammar books, or we would not have written this short study.)
+
+Part of the purpose of this collection of articles is to answer a frequent question among those learning or studying the classical Hebrew verbal system.1 Is the Hebrew verb mainly a tense, a mood, or an aspect? And how does any answer relate to reading a text?
+
+1.0 Overview
+
+The Hebrew verb is categorically simple. With finite verbs Hebrew has five structural categories that relate to tense, mood, and aspect, the yiqtol, qatal, wayyiqtol, weqatal, and qotel. Those five categories interact systematically across first, second, and third persons (`I', `we', `you'[m.&f.], `he', `she', `they'[m.&f.]). 2 Hebrew also has a system with second person imperatives, short yiqtols and jussives, and cohortatives, that that are uniquely volitional and will be discussed later.
+
+Prototypically, the Hebrew yiqtol refers to the future as a whole event, perfectively [!], including the end-point of the action, although it may also refer to something that will be repeated or in progress in the future (1Ki 12:27    will go up [repeatedly]). In contexts that overlap with the present the yiqtol will prototypically have modal (less-than-real) force to mitigate a question (1Sam 1:8)3 or to express non-temporal, or omnitemporal habituality (1Sam 2:8   he raises up). Then in past contexts the yiqtol will prototypically refer to a past habitual (1Sam 1:7           and he used to do that year after year). It may relatively rarely refer to something that was in-progress in the past, open-ended without an
+
+1
+
+I would like to thank Aaron Hornkohl, Brian Schultz, and Sharon Alley for extensive interaction and helpful
+
+comments on this article. The faults and shortcomings are wholly mine.
+
+2
+
+The participle, of course, comes with adjectival morphology and only marks singular and plural, masculine and
+
+feminine. However, participles can be used with all the personal pronouns for 1st, 2nd, and 3rd person.
+
+3
+
+An item like the mitigated question in 1Sam 1:8 may use a participle if it only wants to mark present
+
+imperfectivity without mitigation.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+2
+
+endpoint (1Sam 1:10       and she was crying profusely). This last example is a prototypical imperfective aspect (past progressive) but that is rare for yiqtol.
+
+The Hebrew qatal prototypically refers to a past event that is perfective (including its endpoint) and indicative (stated as real). The past may include a present implication, a "present perfect," (1Sam 1:15            I have not drunk wine or beer). With stative and psychological verbs the qatal may be ambiguous between a past and a present (Gen 28:16       I did not know, 2Sam 1:10      because I knew, Gen 22:12       now I realize, know, 2Sam 15:26        I do not want you).4 It may be used as a relative anterior tense in a subordinate clause to a future (cf. Jer 8:3 and Jer 24:9). It may also be used as a performative (1Sam 2:16     I [hereby chose to] take), which may be thought of modally as a realis used for a virtual fact, as a modal realis even though the event may not yet be real. Rarely, it may be used modally as a "wished for" contrafactual (Nu 14:2    if only we had died), or an undesired hyperbole (Nu 17:27    we are dead--technically this is another stative verb. Like a performative,    is being used rhetorically, as a virtual fact.)
+
+The Hebrew participle, qotel, is the primary means for expressing a single event with imperfective aspect, without an endpoint. The participle was freely used in the past (or future) to mark an event as in-progress, as prototypical imperfectivity (1Sam 1:13      she was speaking, '     her lips were moving). In addition, the participle could also refer to a past habitual (with : Jud 1:7     ...  they would gather up, 1Sam 2:12         the boy was serving), and to an omnitemporal habitual (1Sam 2:6-8). However, in a conversational setting in the Bible the participle had entered the Hebrew verbal system and had become the actual present tense (Gen 48:1       your father is sick, Nu 11:27        Eldad and Medad are prophesying, 1Sam2:23-24   '  I am hearing). As an extension of the present tense it could refer to a near future (Ex 3:13  ...    I am coming ... and will say, Ex 12:33     we are all dead).
+
+Hebrew is also somewhat unique among the world's languages5 in having a pair of thematic tenses6, wayyiqtol and weqatal. The wayyiqtol corresponds broadly with the qatal as a past tense and the weqatal corresponds broadly with yiqtol as a
+
+4
+
+Synchronically,     I knew, I know (perfective) was able to contrast with   '  I know (present
+
+imperfective). The qatal is the more emphatic and definite of the two in the present. Contrast Greek that has a perfect as a
+
+present state  =I know, but it distinguishes a pluperfect for the past state  =I knew.
+
+5
+
+Languages with "sequential tenses" typically have one such tense, not two, because they do not carry their own
+
+tense-mood-aspect (TMA) but link to the broader context. Hebrew has two thematic tenses and each one carries its own
+
+TMA.
+
+6
+
+A thematic tense is a tense that provides a structural, communicative thread or linkage to a sentence or paragraph.
+
+They are prototypically related to foregrounding in discourse studies and they are prototypically sequential and perfective.
+
+However, while the Hebrew thematic tenses carry their own TMA, their function is to provide communicative structure and
+
+linkage within a communication. Not using a thematic tense can also serve a special communicative purpose by breaking
+
+the linkage of a sentence and paragraph. In Hebrew studies the thematic tenses have often been called sequential tenses
+
+because breaking a thematic linkage allows the author to provide simultaneous information or to backtrack and describe
+
+previous events (cf. Gen 39:1). However, a story may also break a thematic link and still move forward sequentially where a
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+3
+
+prototypical future, modal, and habitual. In other words, the thematic verbs are not two additional tenses, moods, or aspects, but their tense-mood-aspect (TMA) roughly corresponds with the TMA of qatal and yiqtol. This can be readily seen in long passages where the thematic verbs and the simple verbs interchange, like in the procedural and building descriptions of the tabernacle in Exodus 25-40. For example, Ex 40:2-3     ...  you will/should set up...and you will/should place.
+
+Compare this with the description Ex 40:18    ...   and he set up...and he placed. The primary purpose of these
+
+thematic tenses is to provide a framework and presentational structure to communications and sentences. The default structure of communication in a biblical narrative is none other than the wayyiqtol.7 In fact, if one considers the most pervasive structural distinctions of the Hebrew language, these thematic tenses may be said to provide the character of the language even more than the TMA of the yiqtol or the TMA of the qatal. Classical Hebrew may be a "packaging prominent" language when it comes to the verbal system.
+
+2.0 The Pie Concept
+
+A pie is a closed system. If a system is closed, then any piece of the system affects the other pieces of the system. The number of pieces of a pie will affect the size of the pieces. Also, if any piece is larger, the other pieces will be smaller. The verb system of a language cuts up a metaphorical "pie" consisting of all the possible situations of events. The meanings of the pieces of the "verb" pie affect each other. While this may seem like common sense, it is regularly violated by people talking about verbal systems of a language. Over thirty years ago Derek Bickerton published a seminal work on how language systems develop based on how creole languages develop and on how children learn verb systems. He clearly spelled out the applicability of the "pie concept" to a verbal system.8 The pie concept is especially relevant to Hebrew because Hebrew has only the two simple tenses yiqtol and qatal and only the two thematic tenses weqatal and wayyiqtol. Hebrew verb tenses are essentially binary, although the participle has penetrated into the simple tense system. In terms of tense, mood, and aspect, this means that a binary verb system in a language runs a good chance of developing polysemy, multiple meaning for the same form.
+
+new unit is signaled. Compare Jonah 1:4 where a new unit begins by not using a thematic tense structure when God sent a
+
+storm, even though it is temporally sequential, following the departure from Jaffa port. See Randall Buth, "The Hebrew
+
+Verb: A Short Syntax," in Randall Buth, Living Biblical Hebrew, Selected Readings with 500 Friends [Living Biblical
+
+Hebrew, vol. 3] (Jerusalem: Biblical Language Center, 2006: 137-164).
+
+7
+
+Israeli Hebrew pronounces this as vayyiqtol, `w' in wayyiqtol can be interpreted as [v], like German, should one
+
+desire.
+
+8
+
+"We must note a particular characteristic of TMA systems which, though seemingly obvious, has been ignored by
+
+virtually all work up to and including Comrie's (1976) influential study of aspect. . . . A TMA system may be compared to a
+
+cake, a cake that is always the same size, for TMA systems, whether simple or complex, all have to cover the same semantic
+
+area: every verb has to have some tense, mood, aspect, or combination of these applied to it, for there are (pace some
+
+creolists) no such things as `TMA-neutral' sentences. . . . If a cake is divided into five slices, while another identical to it is
+
+divided into eight slices, there is no way in which each of the slices in Cake A can contain exactly the same amount of
+
+material as each of the slices in Cake B. In other words, how much, and exactly what, is contained in each slice will be
+
+largely determined by the number of slices. This is exactly the state of affairs in TMA systems throughout language; what
+
+each marker of modality, tense, or aspect means will be largely determined by how many markers of these things there are
+
+in the system and by what each of the others mean. Facts such as these are, however, ignored by most scholars in the field,
+
+who strive to fit all phenomena into the same conceptual straitjacket." (Bickerton, Roots of Language, Ann Arbor: Karoma
+
+Publishers, 1981:90.) His comments remain true after thirty years and especially for Hebrew.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+4
+
+We can capture the structural simplicity of Hebrew in our descriptions if we approach Hebrew naturally, through cognitive linguistics.
+
+2.1 Verb Meaning Developed as Mapping
+
+How did little children learn the meaning of the Hebrew verbal system? Children apply analogy to situation after situation while using the language, they do not learn specific definitions.9 A child absorbs the categories of yiqtol, qatal, weqatal, and wayyiqtol and learns how this very limited number of categories connects to the seemingly limitless situations of the multidimensional world of human communication. This mapping must remain the basis for any description of the Hebrew verb. If a language system is under-differentiated in its tense-mood-aspect categories, then an analyst must be prepared for potential mapping to more than one parameter of TMA. Hebrew is basically binary yet the two categories need to account for at least six values of TMA, that is at least two values for each of the three parameters of TMA. More than one surprise may await anyone who would try to map the two Hebrew simple verb categories.
+
+2.2 Hebrew is a Language with a Continuous History of Usage
+
+The history of any language is a worthy subject of study, but it is different from deciphering an unknown language. Hebrew is not an unknown language. It is good to remember that Hebrew has been in continual use from the time of Moses and David, up through the Second Temple period with a high formal and low colloquial register. Later in the Talmudic period (3rd century CE and following) Hebrew was a second language based on the previous low register (while the old high register was continually read in synagogue), followed by a medieval dialect mixing the two old registers, and finally an expansion of the medieval dialect into a resurrected first language, modern Hebrew. Insights about Hebrew have been recorded over the last millennium. These reflect both an understanding of the language and a difficulty in describing it. During the Second Temple and following, Hebrew was in use with multilingual users of Greek, Aramaic, and other languages into which the Bible was translated.
+
+The history of the language is helpful when we look at how some bilingual translators dealt with the Hebrew verb in Greek. Greek is an aspectual language par excellence. A person cannot encode anything without making an aspectual choice. Imperatives, subjunctives, infinitives, optatives and participles all require an aspectual choice in Greek. Sometimes this showed up in translation, like Gen 37:28 were the indicative `passing by' of the caravan was specifically put in the Greek imperfect (past imperfective), apparently because the passing was envisioned as not yet having reached its endpoint, but in
+
+9
+
+The idea of using analogy to develop the meaning of a word, a category, or a system is part of what may be called
+
+prototypicality theory. Prototypicality and the mapping of form to meaning fit within what may be called cognitive
+
+linguistics. Cognitive linguistics is a loose framework that approaches language as something that is part of human thinking
+
+and human processing. [More technically: "Because cognitive linguistics sees language as embedded in the overall
+
+cognitive capacities of man, topics of special interest for cognitive linguistics include: the structural characteristics of
+
+natural language categorization (such as prototypicality, systematic polysemy, cognitive models, mental imagery and
+
+metaphor); the functional principles of linguistic organization (such as iconicity and naturalness); the conceptual interface
+
+between syntax and semantics (as explored by cognitive grammar and construction grammar); the experiential and
+
+pragmatic background of language-in-use; and the relationship between language and thought, including questions about
+
+relativism and conceptual universals." Dirk Geeraerts "Cognitive Linguistics," in Jef Verschueren, Jan-Ola Östman and Jan
+
+Blommaert, editors, Handbook of Pragmatics: Manual (John Benjamins, 1995: 111-112)]
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+5
+
+progress. However, the Greek translators were not always so sensitive to Greek and the translated context. At Judges 14:5 the Greek used an aorist indicative (past perfective) just like the similar case in Jud 14:1 to describe Samson's travel to Timna. However, while in the first case the story picks up from within the town, in 14:5 Samson met a lion while still on the way, before getting to the town. Similarly, compare Jacob's non-arrival in Padan Aram (Gen 28:5, 7, 10, all    and he
+
+went). This phenomenon is frequent in Hebrew narrative with verbs expressing movement. The Greek aorist indicatives confirm, by the way, that the Greek translators felt the wayyiqtol to be perfective and not imperfective. They did not read wayyiqtol as if it were some kind of historical present or past progressive. On the contrary, throughout the Greek translation the wayyiqtol is prototypically linked to the past perfective, the Greek aorist indicative, even when the perfective didn't fit the context very well. Aramaic and Syriac, too, linked the wayyiqtol with their qatal (Aram. qtal).
+
+2.3 Cognitive Linguistics and Prototypicality
+
+Cognitive linguistics provides a necessary flexibility to override mistakes that might be made on the basis of etymology and language history. For example, in the Semitic languages we have structural differences between languages as closely related as Arabic and Hebrew. Arabic has a composite past imperfective tense based on the `be' verb plus yaqtulu (parallel to yiqtol) while the corresponding composite tense in Hebrew has the `be' verb plus a participle. We will discuss this important difference later in the paper. Similarly, Arabic and Hebrew both share a recognition of the existence of a pasttense yiqtol in their history. In Arabic it only remains as a vestigial, marginal structure with a negative (lam yaktub `he did not write') while in Hebrew the corresponding yiqtol structure is the default structure in narrative (    `and he wrote'). Another example of structural flexibility and development occurs with the stative verbs in Hebrew. Already in the First Temple period, before the Babylonian captivity, the participle entered the stative system. In the First Temple period a mental state like "want, desire" was used in the qatal     I wanted, have wanted, want, for both past and actual present. Thus, for stative verbs the majority of examples divided the world into past-up-to-the-present versus future. Unpredictably, the participle as an actual present tense entered the First Temple period system and made     grammatical (1Ki 21:6      if you want; also Mal 3:1        , although post-exilic). However, with a particular verb     I was able, the time relationship was reversed. The yiqtol was used in the present   I am able, will be able, would be able, and the qatal was restricted to the past. This is probably a function of the semantic meaning of this particular verb, since `capability' relates to potentiality and `less-than-indicative'. Surprisingly, the participle structure with  does not occur in the Hebrew Bible in either pre-exilic or post-exilic texts, but it does show up in the pre-exilic Arad letters, so we know that it was already a part of the system (Arad 40:14      we are not able).10
+
+2.4 Functional Linguistics
+
+10
+
+It is interesting that the verb   refers to capability and potentiality, something semantically related to non-
+
+indicativeness. However, the pattern of   may be backwards from cross-linguistic extrapolations. D.N.S. Bhat (The
+
+Prominence of Tense, Aspect, and Mood, [Amsterdam: Benjamins, 1999] pp. 17, 183) claims that mood-prominent
+
+languages prefer a non-future(past+present)//future dichotomy rather than a past//non-past(+present+future) dichotomy of a
+
+tense-prominent language. So Hebrew  fits tense-prominent expectations, while Hebrew  fits modal expectations.
+
+Facts like these should keep us alert when discussing cross-linguistic patterns.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+6
+
+Functional linguistics describes formal linguistic theories that include pragmatic functions, like focus marking and topic marking, within the formulae for describing sentences. One Functional Grammar theory was developed in the Netherlands by Simon Dik and successors. Functional linguistics provides a useful template for describing Hebrew because of the pragmatic packaging structures that have been woven into Hebrew morphology and sentence structure. In particular, the "thematic verbal structures," wayyiqtol and weqatal, have a kind of complementary distribution with qatal and yiqtol that reflect pragmatic choices and require certain word orders. That also means that the verbal system is structurally linked to word order. Choosing a particular thematic verb forces a word order, and choosing not to use a thematic verb forces a word order. Both narrative structure and functions like contextualizing constituent ("topic") and focus (marked salient constituent) influence the Hebrew verbal system.
+3.0 Introducing the Parameters of Time, Mood, and Aspect
+From a cognitive perspective it is possible to embrace some facts about the Hebrew verb before we try to determine its best linguistic characterization. The important item is to portray the facts accurately so that we do not misrepresent the verb to ourselves.
+This paper opened with a hypothetical example of someone using a Hebrew yiqtol. The verb referred to a future event as an indicative, to state that a particular event would, in fact, happen. Even though humans do not know what will certainly happen in the future, language allows humans to refer to various nuances of certainty about the future. In English, a person can state that an event "will happen," that an event "should happen," that an event "might happen," and that an event "could happen." These different presentations of an event express different nuances of actuality in the future. The Hebrew yiqtol allows a user to refer to a future as a simple statement. Isaiah 40:6  '     The word of Yhwh will stand forever. The verb refers to the future as a statement and does not express a degree of doubt or unreality beyond the philosophical issue that the reference is future. 1Sam 9:16 is similar           at this time tomorrow I will send a man to you. It is noteworthy that the yiqtol does not normally imply that the event will be "incomplete" or "in the process of happening." Prototypically, the yiqtol is used in a future with a viewpoint that includes the endpoint of the action. In that sense, the yiqtol does not mark imperfectivity, because imperfectivity is the linguistic term for something that does not include the endpoints of the action within its view. This observation may contradict the way in which a majority of Hebrew students refer to the yiqtol as an "imperfect verb." But this observation is in line with the way in which Hebrew has been used and described over the past three thousand years. Paul Joüon and Takamitsu Muraoka correctly state: "The yiqtol is used mainly to express future time, whatever the aspect of the action may be."11 When Hanna referred to a future possibility in 1Sam 1:11 (     ...       ) she was not viewing the events as incomplete or inprogress, but as future. Likewise, the "sign that will come" (1Sam 2:34) refers to a sign that will arrive, that will happen, not to something that will be in-progress. This yiqtol refers to the future and does not distinguish aspect and does not
+
+11
+
+Paul Joüon and Takamitsu Muraoka, A Grammar of Biblical Hebrew (Rome: Pontificio Istituto Biblico, 1996)
+
+§113b.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+7
+
+distinguish modality. This lack of aspectual distinction in the future is a feature that is common for future systems. Ancient Greek was a strongly aspect-prominent language, yet it did not distinguish aspect in its future.
+
+3.1 Tense as time
+
+Languages have two types of time references. An absolute time usually refers to the time of the speaker or writer, or the assumed point of the speaker or writer. Events before the author's present moment are in the past, the events may overlap the present moment in various configurations, or they may occur after the present moment, in the future. Languages may also have structures that provide a time reference in relation to another situation than the present. For example, in Jer 8:3 above (    I have driven them out), the qatal is used to refer to an event that will be past relative to another future situation of the main sentence. One may call this a relative past tense.
+So there is good reason for calling Hebrew a "relative tense" system12, but doing so may introduce confusion and does not explain all of the temporal evidence and restrictions. For example, the qatal is not always anterior to its context. Consider 1Sam4:1:
+                                           
+and Israel went out toward the Philistines for war and they camped over Even-Ezer and the Philistines camped at Afeq. In the context, Israel descended from the hill country to the bottleneck of the international road between Eben Ezer and Afeq in order to challenge Philistine control. Naturally, the build-up of troops on the Philistine side would have occurred after the Israelite challenge. The natural way to read the text is a past comparison. On the one hand, Israel camped at point A, and on the other hand the Philistines camped at point B. The qatal with the Philistines is acting as an absolute past tense rather than a relative tense. This is frequent in the Hebrew Bible where new narrative sections or paragraphs are started. For example, Jonah 1:4     '      and the Lord threw down a big wind to the sea. The natural reading of the narrative is that this storm occurred after Jonah sailed off from Yafo in the previous verse. Both 1 Sam 4:1 and Jonah 1:4 use the qatal as an absolute tense for the past, not as a relative tense of anteriority.
+
+There are other indications that absolute time has also interacted with qatal and yiqtol. A curious test occurs with clauses in which  tomorrow occurs. The distribution of the Hebrew structures lines up exactly with expectations of use with an absolute tense. Out of 52 examples there are 25 yiqtol13, 5 weqatal14, 9 imperative15, 6 participle16, and 7 verbless17. These
+
+12
+
+Ohad Cohen (this volume) prefers this metalanguage.
+
+13
+
+Yiqtol+ : Exod 8:19, 9:5, 13:14 (also following  ), Deut 6:20, Josh 3:5, 4:6, 4:21, 22:18, 22:24, 22:27
+
+(with negative), 22:28 (also following  ), Jud 20:28, 1Sam 9:16, 11:9, 11:10, 20:12, 2Sam 11:12, 1Ki 19:2, 20:6, 2Ki
+
+6:28, 2Ki 7:18, Isa 22:13, Prov 3:28, Esth 5:8, 9:13.
+
+14
+
+Weqatal+ : Gen 30:33, Exod 8:25, 19:10, Jud 19:9, Isa 56:12.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+8
+
+are all structures that are compatible with a future reference. But there is not a single reference with either qatal or wayyiqtol. There is nothing like *    * ,  '  . *And tomorrow I came is as ungrammatical in Hebrew as in
+
+English. Philosophically, of course, one cannot absolutely prove an impossibility or non-grammaticality from a fixed corpus. But 52 occurrences are strongly suggestive and users of Hebrew through the ages have not been averse to saying that a prominent time element exists somewhere inside the Hebrew yiqtol and qatal, as well as weqatal and wayyiqtol.
+
+The composite structure be  + participle also testifies to a time element. The participle may be said to express primarily aspect and/or mood, as will be discussed below. However, the forms of the `be' verb signal the time from the authorial point of reference (i.e, absolutely). The addition of either   and    in past contexts or    and    in future contexts is surely adding a time element to the system. No one who was internalizing Hebrew could miss this.
+
+So where is the problem? The problem is not with the apparent interaction of time with the verb system, but in cases where absolute time would mis-predict the meaning of yiqtol.
+
+Within past contexts classical Hebrew used both yiqtol and weqatal to mark habituals and iteratives (repeated events). For example, Genesis 29:2-3 is a classic text for seeing both yiqtol and weqatal interlace over five clauses of a habitual description. Verse 29:2 started with a verbless clause and participle for a description of what Jacob actually saw at that point in the story and then one yiqtol and four weqatals described what used to happen habitually (daily?) at that place. The TMA of the yiqtol and weqatal in this passage were equal. Examples like these of yiqtol and weqatal referencing the past were a primary stimulus in the nineteenth century for changing the metalanguage for Hebrew verbs from time to aspect. But before dealing with aspect we need to cover the parameter of mood.
+
+3.2 Mood
+
+Mood is a difficult parameter to describe because there are many facets to it. The most basic dichotomy is probably best described as indicative versus non-indicative, or in some linguistic parlance realis versus irrealis. Realis would refer to a situation as a fact while irrealis would refer to a situation as less-than-a-fact. Languages have developed special structures for referring to different kinds of irrealis. Some of the irrealis situations can be treated as volitional, as various kinds of wishes, commands, and obligations. Hebrew has a category of imperatives to deal with some of this, but the -a suffix on first-person yiqtols, weqatal, special shorted yiqtol (   ,  ,  ) also interact with this modality. Less-than-indicative can also be used along a scale of facticity or certainty. Think of English "he might do it" "she should do it" "I will do it." Some structures may refer to a situation as only probable or possible and not as an absolute fact. Conditions, subjunctives,
+
+15
+
+Imperative+: Num 11:18 (followed by weqatal) 14:25, 16:7, 16:16, Josh 7:13, 2Ki 10:6, Prov 27:1 (with
+
+negative), 2Chr 20:16, 20:17.
+
+16
+
+Participle+: Exod 9:18 (with ,(10:4 (with ,(17:9, Josh 11:6, 1Sam 19:11 (passive), Esth 5:12
+
+(passive).
+
+17
+
+Verbless+: Exod 8:6 (though referring to a yiqtol clause by the previous speaker), 16:23, 32:5, 1Sam 20:5
+
+(followed by yiqtol), 20:18 (followed by weqatal), 28:19 (with yiqtol before and after), 2Ki 7:1 (quoted at 7:18 with 
+
+yiqtol),
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+9
+
+and optatives may interlace with such a modality in some languages. A modality of facticity may be called an epistemic modality (a modality that mitigates certainty of knowledge). Languages also have modalities that may be termed counterfactuals (like in English "if I were you [but I'm not]").
+
+Because irrealis technically refers to something that is less than a fact, there is a philosophical overlap with what is called future. Obviously, a future, by definition has not yet happened, so it is in some senses less-than-a-fact. On the other hand, languages that have a rich modal marking system are very happy referring to what "will happen" as a future indicative, and what "might happen" or "is wished to happen" as a future modal. This philosophical overlap can be seen in the morphology and history of many languages. For example, English has a future indicative "he will do it." However, if someone pulls the word "will" out of context they immediately see that the English structure was developed from a verb for wanting. Desiring and wanting are prototypical examples of volitional modality that are lexicalized in most languages. Modern Greek, too, has used a verb for "wanting" to build its modern future tense. In antiquity it had a morphological signal "s" that marked future and ancient Greek could not distinguish aspect between "I will do it" and "I will be doing it." Today Greeks say   I will buy (future perfective), and   I will be buying (future imperfective [open-ended/repetitive]) 18.
+
+One of the problems of mood in the Hebrew verb is that classical Hebrew apparently dropped some of the endings that used to distinguish true modals (short yiqtol) from indicatives. There was apparently a final vowel distinction similar to Arabic -u (indicative), possibly -a (subjunctive), and null-ending (volitional and archaic past negative). Dropping the vowels meant that the one or two modal forms and the indicative form collapsed into the same form for the vast majority of verbs. Only verbs that were based on II-y/w roots, and III-y roots, and hifils without a suffix (yafel, tafel) preserved the difference.
+
+In recent times there has been a more pronounced focus on mood and the Hebrew verb system.19 On the one hand, this is welcomed because it provides a corrective to mistakes of the "aspect" analysis that has predominated in Hebrew reference materials. On the other hand, one must ensure that new mistakes are not introduced by trying to fit everything into a modal analysis. One of the good points about Ohad Cohen's recent synthesis is that he explicitly lists "future" as part of the semantics of yiqtol. I concur. Additionally, Jan Joosten has made a good case that the yiqtol in past contexts is not marking aspect, see below. However, we need to ask if irrealis or non-indicative is what the yiqtol is uniquely marking? If we subsume everything under non-indicative, then the reality of events like 1Sam 1:7, 1:10, 1:13, and Gen 2:25 or 15:6 is miscommunicated. (The same objection applies to futures that are stipulated as facts.) Just because something was repeated in the past does not make it less-than-real.20 In addition, remembering the "pie" concept, the existence of cohortative,
+
+18
+
+The particle  was paralleled early on by   I want that, in late Byzantine times it developed out of an
+
+impersonal , into  + , and finally the fully modern . See Geoffrey Horrocks, Greek: A History of the Language
+
+and its Speakers (London: Longman, 1997:230-232 [§ 11.8.3]).
+
+19
+
+For example, Beat Zuber, Das Tempussytem des biblicschen Hebräisch (Berlin: deGruyter, 1986); Galia Hatav,
+
+The Semantics of Aspect and Modality: Evidence from English and Biblical Hebrew (Amsterdam: Benjamins, 1997);
+
+Andrew Warren, Modality, Reference and Speech Acts in the Psalms (PhD dissertation, Cambridge, 1998); Jan Joosten,
+
+"The Long form of the Prefixed Conjugation Referring to the Past in Biblical Hebrew Prose. Hebrew Studies 40 (1999:15-
+
+26); Hélène Dallaire, "The Syntax of Volitives in Northwest Semitic Prose," (Ph.D. dissertation, Hebrew Union College,
+
+Cincinnati, Ohio, 2002); Jan Joosten, The Verbal System of Biblical Hebrew, A New Synthesis Elaborated on the Basis of
+
+Classical Prose (Jerusalem: Simor, Ltd., 2012); Ohad Cohen, The Verbal Tense System in Late Biblical Hebrew Prose,
+
+Harvard Semitic Studies 63, (Winona Lake, Ind.: Eisenbrauns, 2013).
+
+20
+
+Repeated, habitual actions in the past are difficult to classify linguistically. They are not prototypical imperfectives
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+10
+
+jussive, and fronted yiqtol structures in Hebrew shows that a modal system was in existence outside of the qatal/yiqtol dichotomy. Although the fact that ordinary yiqtol and weqatal can have non-indicative, future-related nuances, the language still felt the need for explicitly volitional forms, i.e., the cohortative and the jussive, along with clause-initial yiqtol. Within Cognitive Linguistics we do not need to have the parameters airtight. Polysemy is possible and it is necessary for mapping the Hebrew yiqtol/qatal dichotomy to all the parameters of meaning.
+
+3.3 Aspect
+
+An aspectual approach to the Hebrew verb has been used in much of the pedagogical material of the last century, so that one frequently hears yiqtol referred to as the "imperfect" and qatal as the "perfect." However, a basic contradiction immediately becomes apparent when one opens the reference grammar of Joüon-Muraoka and finds the yiqtol called the "future." Who is/was right? What went on inside an ancient Hebrew user's head? Can we reconstruct that?
+
+The first thing that must be done is that aspect must be understood prototypically. What is the most basic dichotomy of aspectual systems?21 Aspect refers to how a situation or event is viewed. Is the situation viewed as a whole, an indivisible unit, a perfective? For a perfective example in English: she wrote a note. Or is the situation viewed from within, looking at its continuity without including the endpoints of the situation, an imperfective? For an imperfective example in English: she was writing a note. As soon as one talks about the future, one finds that many languages default to perfective understandings of events. For example, Greek is a language that is highly sensitive to aspect, yet in the future it only had one aspect and much of the future morphology became congruent with the aorist (perfective) morphology.22 When a person reads the Hebrew Bible they also tend to discover that the future events include the end-point of the process, if the word or phrase has an end point.23 That was made explicit by Paul Joüon and Takamitsu Muraoka (§113b): "The yiqtol is used
+mainly to express future time, whatever the aspect of the action may be; thus   means he will come, he will enter, whether the action be unique or repeated, instantaneous or durative [perfective or imperfective­RB]." Joüon and Muraoka are correct. In future contexts the yiqtol is not marking an aspect and is not signaling prototypical imperfectivity. As the example in the beginning of this paper illustrated, the default reference needs to be taken as perfective and future.
+
+So what can we say about the present and past in respect to the yiqtol and aspect? As soon as one reads large sections of the Hebrew Bible, they realize that the yiqtol is not an actual present tense, but is restricted in its usages wherever it appears to overlap with present time--with less-than-real modals and mitigating usages in present questions, overlapping
+
+like past progessives (see section 3.3), but they are not prototypical irrealis, either, since they refer to real events in the past.
+
+In 1Sam 1:3 the author referred to actual pilgrimages that Elkanah made. The author was not stating that there were
+
+potential pilgrimages to be made, or that there was an obligation for pilgrimage. He stated that Elqanah made repeated
+
+pilgrimages. The past habitual may be considered an extension of time-mood: it is an indicative extension of a future
+
+indicative and a habitual extension of an irrealis habitual, situated in the past by context.
+
+21
+
+This refers to grammatical aspect like perfective vs. imperfective, and not to lexical aspect like atelic "they
+
+worked" vs. telic "they arrived".
+
+22
+
+Herbert Smyth, (Greek Grammar, Cambridge, Mass., Harvard University Press, §532): "Many, if not all, future
+
+forms in  are in reality subjunctives of the first aorist." In modern Greek it is the aorist subjunctive that ends up in the
+
+composite perfective future, but they have added an imperfective subjunctive [the so-called "present"­RB] for an
+
+imperfective future, too.
+
+23
+
+That is, the future events are conceived as perfectives.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+11
+
+omnitemporals, and in poetry. On the other hand, it is the participle that is chosen when actual present situations are referred to in conversation and prose. One cannot say that yiqtol is a prototypical present tense. (Yiqtol is not like "I am writing" at the moment of composing this article.)24 In addition, it turns out that yiqtol is not a prototypical imperfective, at all.
+
+In past time contexts we find an unexpected restriction. Hebrew actually has difficulty expressing the imperfectivity of past progression in past narrative. This is rather surprising given the common pedagogical references to Hebrew as an "aspectual language." When Hebrew wants to signal an open-ended event in the past progressive, the available structures are the participle, the infinitive construct with , and the participle with   or    . The yiqtol is noticeably rare and marginalized. When we find a yiqtol in the past context, the default understanding is either habitual or repetitive. Jan Joosten (1999, 2012) is correct in pointing out the incongruity of an aspectual, imperfective analysis of yiqtol.
+
+It needs to be pointed out that past habituals and past iteratives do not make up the central concept of imperfectivity in cross-linguistic studies.25 In fact, habituals will often generate more marginal structures. In English, we have "he used to walk" and "he would walk". The latter, of course, is an explicit extension of a modal structure "would+verb" to include past habituals. However, some languages, like Greek, do, in fact, use an imperfect indicative to include and to refer to past habituals. This difference between Greek and English shows the marginal semantic link between past habituals and either modality or imperfectivity. In sum, the yiqtol seems to be mainly perfective when used in a future context, mainly modal in a present context, and mainly habitual in a past context. The yiqtol is not a prototypical imperfective. That is why I now talk about the Hebrew verb as having a tense-mood-aspect. I think that aspect is the least-operative and least dominant of the components of the verbal polysemy in yiqtol/qatal.
+
+We can learn an additional fact about the Hebrew verbal system by looking at the composite structure `be'+participle. The `be' verb is recognized as providing time for the structure and the participle is recognized as marking imperfective aspect. The   marks a past tense reference and    refers to a future tense. Again, this is already explicit in Joüon-Muraoka (§ 121f):
+Participle in the sphere of the past. ... In the past the frequentative aspect is fairly common [i.e. habitual and iterative­RB] ... But the durative aspect is usual [past progressive, prototypical imperfective­RB] ... The participle in the sphere of the past being atemporal, a form of the verb  with past meaning (§ 154m) is added in order
+
+24
+
+It is for that reason that I read the Lachish letter 4:12:           for the signal of Azeqa was not
+
+visible. I don't read it as an actual present yiqtol "[as I write] we do not see." A yiqtol would be a modal usage      we
+
+are not able to see (see Dt 1:9, 12), we would not see.
+
+25
+
+Bhat (1999:177) points out that habituals are cross-linguistically problematic: "The question as to whether habitual
+
+is to be regarded as tense, aspect or mood has given rise to a dispute. ... The cross-linguistic variation that forms the basis of
+
+this dispute also appears to be correlatable with the typological distinction between tense-prominent, aspect-prominent and
+
+mood-prominent languages. For example, Kannada [tense-prominent­RB] represents the habitual meaning indirectly with
+
+the help of its tense forms. It uses the non-past tense form for denoting the habitual meaning in general, and the more
+
+complex auxiliary for denoting further temporal distinctions in the habitual. ... whether the habitual is past, present or future
+
+is denoted by the three tense forms of the auxiliary verb iru `to be'." This link of a tense-prominent language with habituals
+
+may be relevant for Hebrew, since Hebrew uses yiqtol for present-future habituals, omnitemporal habituals, and past
+
+habituals. However, Hebrew uses the participle in composite forms when specifically marking the time with a "be" verb.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+12
+
+clearly to express time past: In absolute beginning: Job 1:14 '      the cows were (in the process) of ploughing.
+
+(§ 154m) "In the group formed by  and a participle, the participle expresses the durative aspect and  the temporal sphere."
+
+The Hebrew structure can be compared to Arabic for confirmation of this analysis. Arabic used kna yaktubu. But this would correspond to `be'+yiqtol (!) in both First-Temple and Second-Temple Hebrew. Hebrew and Arabic are cognate languages, but the difference in these structures shows that something was complicated in the prehistory of these languages. In Hebrew, the yiqtol was not, or was no longer, a primary marker for imperfectivity. John Cook completely missed the point on this when he cited Classical Arabic as evidence that Hebrew yiqtol was primarily an imperfective.26 The Arabic does not prove or even suggest that the Hebrew yiqtol was marking imperfectivity. Instead, the comparative Arabic structure shows that Hebrew qotel marked imperfectivity, not Hebrew yiqtol. To reconstruct the semantics of a form based on its prehistory (and unrecoverable, at that) against its synchronic usage is a classic example of the etymological fallacy. We wish that we could know what pre-Hebrew and pre-Arabic looked like at the end of the third millennium BCE, but we do not know. What we do know is that Hebrew chose qotel to mark aspectual imperfectivity, not yiqtol. In addition, Arabic seemed to need a time marker in order to use its "yiqtol" in a past context.27
+
+Before leaving Arabic it would be good to point out another idiosyncrasy. Both the Arabic past negative lam yaktub `he did not write', and the Hebrew wayyiqtol     and he wrote use verbs that are homonyms with the modal/jussive verb, the short yiqtol. How did a modal verb like   let it be become a homonym with    and it was? There are unexplained changes and developments in the proto-history of the Semitic languages. Language users were happily using classical Hebrew without knowing the answers to the questions. As linguists we will want further clarification of the proto-history. But within cognitive linguistics we can simply map the forms to the meanings and functions, and then follow the first universal rule of grammar: "we do it like that, because that's the way they do it."
+
+The structure of  plus participle would be internalized by any ancient Hebrew user and would add to the realization that the verb includes time in its TMA. The yiqtol has a three-valent, polysemic TMA (future, volitional, imperfective) and the qatal has a three-valent, polysemic TMA, past, indicative, perfective. However, the yiqtol and qatal are not equal in scope. The image of a mushroom might help. The qatal is like the stem and more restricted, strongly non-future, indicative, and perfective. The yiqtol is more like the cap of the mushroom and ranges more widely and loosely between future indicative, various modal functions, and rarely, and marginally, imperfectivity.
+
+26
+
+John A. Cook, Time and the Biblical Hebrew Verb, The Expression of Tense, Aspect, and Modality in Biblical
+
+Hebrew (Eisenbraun's, 2012:201).
+
+27
+
+While Arabic yiqtol marks imperfectivity in the compound Arabic structure kna yaktubu, I would argue that
+
+Arabic, too, has a polysemy that is directly rooted in under-differentiated verbal categories. But that would be another paper.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+13
+
+4.0 Typological Studies
+
+Features in languages have tendencies to occur in conjunction with certain other features. For example, languages where the object tends to follow the verb (a VO language, Verb-Object) tend to have prepositions ("in the house") rather than postpositions ("the house in") for noun-phrase relators. There are even traits that collect around languages that are timeprominent, mood-prominent, or aspect-prominent. On the other hand, there are frequently exceptions to general tendencies. Any particular language needs to be understood as itself and within itself first, in order to correctly compare it with other languages.
+
+4.1 Imprecision and Typology
+
+Hebrew must be defined on its own terms. Only then can Hebrew be compared cross-linguistically in order to see where it is the same and where it is different from general trends in languages.
+
+Much of the literature on verbal structures of lesser-studied languages is provisional and depends on the analyst's definitions. This applies as much to those writing on a particular language as to those who make groupings of various languages. A perusal of Bhat's seminal work on prominence of tense, aspect, and mood quickly reveals that the playing field is not level. The sections on mood and mood-prominent verb systems are compelled to deal with fuzzy definitions based on less reliable data than the other descriptions. Here is Bhat on habituals in mood-prominent languages (1999:178): "Mood-prominent languages appear to view habitual either as realis or irrealis, providing two different modal facets of habitual events." That does not provide a definitive, cross-linguistic definition for mood-prominent languages.
+
+4.2 Statives
+
+In recent years John Cook has championed a cross-linguistic, typological approach to the Hebrew verb as a means of defining the verbal system of Hebrew. He has claimed that the existence of a stative verb category in Hebrew is strong support for Hebrew being an aspect-prominent language. However, that overlooks some important facts. First, Bhat claimed only that "some" tense-prominent languages did not have a stative verb category.28 That does not mean that having stative verbs rules out tense-prominence or mood-prominence. Secondly, the Hebrew stative verbs are not a system-wide feature of Hebrew. There are no "stative" niphals or other binyanim. Thirdly, from the opposite perspective, a language may be aspect-prominent and not have a stative verb category at all. Greek is an excellent example. Greek is a strongly aspectprominent language, as anyone who tries to use it quickly discovers. No one can encode an imperative, infinitive, subjunctive, optative, or participle without being forced to make an aspectual decision in Greek. The aspectual system is part of the warp and woof of the Greek verbal system. Nevertheless, Greek does not have stative verbs like Hebrew! Verbs in Greek that describe prototypical states, like   I am lying, I was lying distinguish time and fit in with the rest of the verbal system. Fourth, modal-prominent languages also have statives. Fifth, one must point out that the classical Hebrew statives were already changing by the First-Temple period. The participle had already taken up semantic space
+
+28
+
+Bhat (1999:152) "Another interesting characteristic that is shown by some [emphasis mine­RB] of the tense-
+
+prominent languages is the absence of state verbs."
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+14
+
+among dynamic verbs, while stative verbs did not need a participle for present tense. Nevertheless, the participle invaded the statives, too. Participles like   ' hear, hearing (1Sam2:23       , Gen 18:10            ) and  
+
+lying (Gen28:13             ) had already developed beyond a simple stative qatel to produce a fuller paradigm.29 This is typological evidence that Hebrew may not fit Bhat's concept of aspect-prominence, in addition to the synchronic semantic evidence.
+
+4.3 The Perfect
+
+The "perfect" illustrates another difficulty of making reliable predictions for one particular language based on typology. Bhat (1999:170) claims that
+a. in tense-prominent languages a perfect tense will have present relevance b. in aspect-prominent languages a perfect (perfective) will have an imperfective relevance c. in mood-prominent languages a perfect (realis) tense will have irrealis relevance (something needs to be done). There is a problem with Hebrew. Hebrew does not have a perfect tense. It has only qatal. It is a language with only a binary opposition and does not distinguish a perfective and a perfect, whether as a composite structure or with its own morphology. Consequently, the prediction for the perfect is irrelevant to Hebrew.30 It might be better for surveys to be done of languages that only have a binary TMA system. Hebrew may still be its own special kind, though, because it has two thematic tenses.
+
+4.4 Typological Aspect, Mood, and Tense
+
+There are more typological surprises with the Hebrew verb if viewed as an aspect or a mood. Bhat (1999:182) claimed "Languages that give greater prominence to tense than to aspect develop past and present forms directly from their perfect and progressive constructions respectively."
+Already in First Temple Hebrew, the participle, which was the progressive aspect structure, not the yiqtol, developed into the actual present. This is just like a tense-prominent language. And the participle even penetrated the modal verbs ( ,    ) during the First Temple when those verbs started to use the participle/adjective as a verb alongside the qatal and yiqtol.31 Likewise, the qatal became a relative past tense and an even an absolute past tense as the data with   and with the   +participle construction show.
+
+29
+
+ hear is shown to be "stative" by its pausal forms      and by comparison with Arabic  samia.
+
+ lie down is shown to be stative by its yiqtol    and even infinitive    ! In addition, the participial category of the examples is certain and not related to the Masoretic vocalization because 1st and 2nd person statives have a suffix, e.g.,
+
+ and .
+
+30
+
+Even Greek is problematic because its perfect () and pluperfect () have become time
+
+sensitive, yet Greek also had modal adjectival forms (a kind of perfect-passive):  something needs to be done; cf.
+
+ easy to be done, but also a more simply stative  beloved.
+
+31
+
+One may strengthen this observation by adding that the stative systems of   and   were assimilating to the
+
+"dynamic verbs"   . For example, a stative qatal verb tense commonly used as a paradigm in BH pedagogical material,
+
+*  , is incorrect. The correct contextual form is   (Isa 24:20    ). See below, footnote , for further examples.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+15
+
+Bhat (1999:183) "In the case of mood-prominent languages, the general tendency is to develop elaborate systems of past and future tenses (involving distinction of temporal distance). This is also a `modal' tendency in the sense that these distinctions of temporal distance correspond to the various evidentiality (or judgment) distinctions in these tenses. One can be more certain about a past event that took place today than one that took place yesterday or last year."
+This last observation by Bhat would argue strongly against Hebrew being mood-prominent because Hebrew is basically an under-differentiated binary system of TMA and it does not distinguish elaborate systems of future/modality. While this does not stop someone from recognizing the strong interaction of modality and irrealis with the yiqtol in Hebrew, it adds strength to observations that Hebrew is not mood-prominent.
+
+Classical Hebrew must first be learned and mapped out as classical Hebrew. Only then may it be reliably compared crosslinguistically on its tense, mood, and aspect system. Anomalies happen frequently in cross-linguistic typology. Hebrew should first be compared with verbal systems that are under-differentiated as regards the three parameters of tense, mood, and aspect. The "pie concept" cannot be forgotten. For example, Greek is an aspect-prominent language, but it has developed a relatively complicated indicative tense system that included a future, a present, a perfect32, a past perfect (pluperfect), a past perfective ("aorist", simple past), and a past imperfective ("imperfect"). For that reason, Greek makes a poor comparison for Hebrew. I think that the most informative cross-linguistic comparison for Hebrew would be with languages that have a binary TMA and are under-differentiated for TMA. Current studies have not factored this into the comparisons, so that Bickerton's criticism remains valid: linguists discussing verbs tend to ignore the constraints of the pie concept.
+
+Finally, because languages have anomalies, we must be careful that we are not enticed into smashing a square peg into a round hole.
+
+5.0 The Hebrew Morpho-Syntactic Categories in the Verb
+
+The study recognizes that there are five primary categories that cover the indicative verb system in Hebrew. The five primary categories are yiqtol, qatal, weqatal, wayyiqtol, and qotel. To the five may be added a volitional system of imperatives, jussives (short yiqtol), cohortatives, and the non-finite verbs qtol (infinitive construct) and qatol (infinitive absolute).33 These were relatively uncontroversial among Hebrew users over the past thousand years. The importance of the
+
+32
+
+The Greek perfect indicative had present relevance, so much so, that some verbs like  I stand, am standing
+
+do not use the present tense.
+
+33
+
+There is an energic category where an n-sound, nun, was added to yiqtol and some imperatives. This is usual
+
+between non-volitional yiqtol and object suffixes but is extremely rare with wayyiqtol. However, inconsistencies suggest
+
+that an energic category may have no longer been perceived semantically. Joüon-Muraoka (§61f): "The , originally,
+
+probably indicated a certain energic meaning (as in Arabic). But it now carries no semantic value; its energic force is merely
+
+phonetic." I would call this phonetic force "rhetorical." Since the nun was primarily associated with the non-modal yiqtol, as
+
+opposed to the jussive forms of the wayyiqtol, it may be thought to be associated with heightening the intended specificity,
+
+and/or indicative, factual quality, of a statement. It is possible that this vestigial nun and the vestigial nun after some plural
+
+yiqtol suffixes, paragogic nun (   ), were linked synchronically since the paragogic nun appears to have been linked
+
+with the indicative. Together they became a kind of rhetorical nun, synchronically.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+16
+
+"pie" concept can be seen immediately. If someone removes a system-wide category, the Hebrew verbal system will be misunderstood. This directly applies to weqatal.34
+
+Another category can often be observed with we-yiqtol. This last category is formed by placing the yiqtol in the first position with the normally vocalized waw and. As such, the yiqtol may be considered specially marked by position despite ambiguity with the Verb-Subject-Object word order of Hebrew. A fronted yiqtol has a strong tendency to be used with modal nuances. It is not the thematic tense (wayyiqtol). The structure has not been included as one of the five indicative categories of the verb. As part of the verbal "pie," waw+yiqtol contrasts with weqatal. The weqatal is in complementary distribution with the simple yiqtol. Simple yiqtol is frequently used in modal environments and it is also a future indicative. The weqatal also functions as the future indicative counterpart to wayyiqtol so that weqatal is more indicative than the modally marked waw+yiqtol. This can be seen in a passage like 1Sam 17:46-47:
+            '  46    
+                         '    '               
+                             47
+      '                                   
+In this speech David uses a yiqtol as a future indicative for God's action,     he will hand you over. David also uses three weqatal as future indicatives for his own future actions and an additional weqatal as a future indicative for an action of God:     and I will hit you,       and I will remove,     and I will give,     and he will give. However, for the intended futures in this speech, the purpose clauses, we find a different structure: waw+yiqtol     , and (so that) they will/may know (twice). Inside one of the purpose clauses there is a subordinated, omnitemporal, habitual yiqtol    ' he saves. It nicely illustrates the difference between weqatal and waw+yiqtol. The thematic tense weqatal is prototypically part of the indicative system in the future while the waw+yiqtol is prototypically part of the volitional system and similar to clauses that use a conjunction+subjunctive or conjunction+optative in Greek.
+
+34
+
+Anyone who would reject the category of weqatal, who would suggest that the verb in 1Sam 1:3    is
+
+semantically "perfective," will necessarily misconstrue the synchronic Hebrew verbal system. The TMA of      is
+
+the same as in the case of fronting the subject and writing      . The TMA of    and    in that context would
+
+be equal. They are past and habitual. Neither yiqtol nor weqatal are "perfective" habituals. The fact that weqatal does not
+
+have a clear, proto-Semitic etymology is irrelevant. Hebrew must be understood as itself, without committing errors of
+
+etymological fallacies. Likewise, anyone who would reject the wayyiqtol category will necessarily misconstrue the Hebrew
+
+verbal system. Cook (2012) is unreliable and offbase because it rejects the weqatal structure.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+17
+
+These are the categories that a language user learns to map to the various situations. The following table presents their frequency in the Hebrew Bible.
+
+Category wayyiqtol, weqatal yiqtol qatal qotel we-yiqtol qtol qatol imperative
+
+Occurrences 15029 6548 14785 (16216, if including ve-yiqtol)35 14667 (21215, including weqatal) 8205 1431 6672 816 4321
+
+6.0 Verbal prominence--Packaging and Time
+
+So how can we best describe the system-wide prominence of the Hebrew verbal system? From my perspective, Hebrew is a packaging-prominent language. The wayyiqtol and we-qatal structures provide the warp and woof of the Hebrew verbal system throughout First Temple Hebrew and during Second Temple Hebrew in the high register.36
+
+If forced to name one parameter as prominent from among time, mood, and aspect, I would point to time, because of prototypical semantics for yiqtol and qatal as both functioning perfectively in the respective future and past, and the structural changes that are already documented for the First-Temple Period. The introduction of the participle into the verbal system as the marker of imperfective aspect (continuous/progressive and open-ended ) and as an actual present tense, the assimilation of the stative system in morphology (pael, paol) toward the dynamic verb (paal)37, the expansion of the stative system with the participle (adding qotel to statives), the assimilation and inconsistent usage of the old modal system,38 and the lack of complicated morphology for facticity,39 all point away from either aspectual or modal prominence,
+
+35
+
+There are volitional forms of yiqtol, often called "short yiqtol" according to the form of jussives like   and   ,
+
+which includes vowel shifts in hollow roots (e.g., yaqom) and yafel (hifil jussive). However, the Hebrew verbal system
+
+collapsed and assimilated the normal yiqtol and the short yiqtol for most verbs when a final vowel of proto-Hebrew yiqtol
+
+dropped off. The statistics here group the yiqtols together, however they are spelled, because the ambiguous forms are far
+
+more predominant than the short forms.
+
+36
+
+The low register of Second Temple Hebrew was occasionally visible inside and outside biblical writings. It was a
+
+spoken, colloquial register and developed into "Mishnaic Hebrew." Mishnaic Hebrew dropped the thematic tenses among
+
+many dialectical changes. Ironically, this low, spoken register is primarily known from the time that it became a new "high
+
+register," from the third century CE and Byzantine period.
+
+37
+
+While someone may rightly point out that the vocalization that establishes this shift was recorded long after the
+
+First Temple period, the morphology of words like    ,   , and    with a final "" for the dynamic participial
+
+form instead of a "" as a stative adjectival form (   ,   ,    ) confirms that the dynamic-verb participle
+
+encroached into stative verb morphology and that the later tradition of vocalization appears to be correct.
+
+38
+
+This refers to the demise of an apparent proto-Hebrew distinction between indicative plural and volitional plural
+
+*yiqtolun and *yiqtolu, singular *yiqtolu and *yiqtol, as well as the encroachment of yiqtol and imperatives over modal
+
+yiqtol in verbs that retained a distinction like yaqum/yaqom, yafil/yafel, yase/yaas, and the demise of the "energic"
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+18
+
+for what it's worth. I am not sure if it is worth very much, though, because a binary verbal system is prototypically polysemic and we do not yet have good cross-linguistic studies of binary tense-modal-aspectual systems. I think that asking a "prominence" question of a language with a pervasive binary TMA may be the wrong question. More crucial is the matter of a "pie" and mapping categories to the whole world of meaning.
+
+7.0 Names, either according to Forms or actual Semantics, but not Incorrect Semantics
+
+Pedagogy should get away from mistaken names of the verb, especially when the majority of students may relate to the Hebrew verb through metalinguistic labels rather than through real language use and real mapping of form to function and meaning. The yiqtol and qatal are names of forms, as are weqatal and wayyiqtol, so they are accurate although semantically empty. Another option for English is prefix-tense and suffix-tense, along with a thematic suffix-tense and thematic prefixtense. A name according to form prevents crazy double-talk inside a learner's head. The form wayyiqtol is itself. It is not a sequential/consecutive/converted "imperfect." A name according to wrong semantics, common though it is, is doubly problematic. First it requires a listener/learner/reader to continually rethink what the verb is. A "converted perfect" or "converted past" is also ambiguous, because these terms are often used to refer to forms rather than semantics. A "converted perfect" might be a we-qatal. If the term were truly semantic, then it would presumably be describing a     . But the semantics of weqatal are "future, volitional, imperfective" and have nothing to do with past or perfect. Instead of mixing form and meaning in a name, if a verb were semantically a perfect, and a semantic name were desired, then one could call    weqatal a "thematic future," and the     would be a "thematic past." In common Hebrew for wayyiqtol, one could say      -". Secondly, neither yiqtol nor qatal are truly aspects and should not be called "imperfects" or "perfects." They are not prototypically aspects and they do not default to an aspectual perspective, so the semantic names are inappropriate, and doubly so as names of forms. In English I sometimes use suffix-tense and prefix-tense for qatal and yiqtol. In English and Hebrew I sometimes use qatal and yiqtol as names according to form. In Hebrew I also use "   (wayyiqtol) and     " (we-qatal). I avoid mixing form and meaning in the term, thus avoiding     inverted future, even though that is in common use. For semantically based names I sometimes use the prototypical future/  and past/  .
+
+8.0 Notes on 1 Samuel 1-2
+
+1Sam. 1:1         '              -- The book and story open in the past with the classical story-starting verb . Cf. Jonah 1:1, inter alia. The wayyiqtol is the structure that puts the story in the past from the storyteller's perspective. It is also prototypically indicative and perfective. Lexically the `be' verb is prototypically a state, though in other contexts it can also be a perfective ingressive "became."
+...           '   -- A verbless clause set in the past context.
+
+system.
+
+39
+
+See Bhat (1999:183), quoted above.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+19
+
+2    ' -- A verbless clause set in the past context. The prepositional-phrase (syntactic predicate) ' is fronted as a contextualizing constituent, also called a "Topic," leaving the syntactic subject as the salient information. A presentational structure.
+            -- The singular past verb may be called subjectless. Here it introduces a plural subject/complement: "and it was (that) with Penina (were) children," or in more idiomatic English "and it happened that Penina had children."
+          -- The parallel to Hanna is done without a past time reference. The options not chosen were    
+
+      and          .
+
+3        '          -- This is a weqatal in a past context. The weqatal structure in a past context is prototypically past habitual and that fits this case exactly. The match between the verb form and the past habitual reference is based on weqatal itself and does not induce an imperfective or volitional meaning from somewhere else in the context. It is not based on a yiqtol that precedes it but the weqatal carries its TMA itself. To a child who has internalized this language, hearing this story while sitting around a campfire, the brain immediately fits the    weala in a past context to its prototypical primary reading, a past habitual understanding, the brain accepts the reading as appropriate, and proceeds on in its processing. In English this is "he used to go up." The verb    is not marking a perfective aspect in this context. If a subject had been included here, the structure would have been         , where the equivalent form would be yiqtol. (See verse 5 below.) In other words, the weqatal has the same aspect and mood as a yiqtol, which is certainly not perfective in past habituals.40 Likewise, the structure is not marking non-indicative. This is intended as real, as indicative. A past habitual is not a prototypical indicative, but it is still indicative and presenting real events. Some languages can use a volitional structure to refer to a past habitual, but that does not make this sentence non-real or nonindicative.41 Other languages, like Greek, use an imperfective indicative, , to refer to a past habitual. However, even here, the reference is not to prototypical imperfectivity, not to an incomplete, specific event ("now while he was going up . . .), but to a past habitual.
+       '       -- The infinitive is commonly used as a purpose clause in classical Hebrew when the subject is the same as the main verb. Contrary to aspectually prominent Greek, Hebrew does not distinguish perfective and imperfective aspect in the infinitive forms. The LXX correctly translated with imperfective infinitives    because of the repetition that is implied in the Hebrew context.
+4'      -- An idiom that brings the story to a specific time and event in the past.
+
+          -- A simple past tense on a particular occasion and treated as a thematic event.
+
+40
+
+This once again illustrates how badly things can be misconstrued when a "pie" is re-cut. Anyone who would
+
+suggest that this qatal in  is semantically a perfective needs to reconsider what perfective means and probably needs to
+
+relearn and internalize Hebrew. English speakers are not misled if someone calls the English future a "modal." Nor does a
+
+metalanguage tag for "he runs" as the present tense cause confusion for speakers even though it is a semantically a habitual.
+
+Metalanguage tags belong to a layer of the language outside of itself and can be misapplied and/or later refined when they
+
+are left outside the language. But the labels may become problematic if they replace language use for determining meaning.
+
+41
+
+English has such a conditional, past-modal structure for a past habitual: "and he would go up . . ." English
+
+"would" is that past tense of "will."
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+20
+
+'     '         '           -- This weqatal begins a habitual description as background for the story.
+
+To restate the obvious, the aspectual part of  is not perfective, but imperfective, although habitual and not past progressive. 5               -- "Hanna" is fronted for comparison with Penina, so the yiqtol is used for the habitual instead of weqatal.        -- A past, stative verb. The form is pausal. Its contextual form has become   . Although  was a
+
+stative, it developed a participle in classical Hebrew   , so 1Sam 1:5 is not ambiguous between the qatal (stative qatel) and participle (stative qatel).          -- A simple past qatal that may be called "pluperfect" in context. The clause is parenthetical to the story and signalled by not using a "thematic tense." Also, logically, the clause does not give a direct reason for the gifts like the previous clause. 6                     -- The weqatal continues the description of the habitual occurrences.
+
+             -- Another reason-clause with pluperfect semantics.
+
+7           -- The summary clauses uses yiqtol for marking habitual after ken.
+
+         -- The infinitive clause is a setting for the main verb.
+
+       -- The yiqtol for a summary habitual.
+
+     -- This is a wayyiqtol and probably shifts the description back to the particular visit and sacrifice that were
+
+mentioned in verse 4. "And she wept [that year]." The thematic habitual would have been    . Since weqatal was not chosen, the wayyiqtol is best interpreted as a particular event for the particular visit.42        -- This might be a relatively rare imperfective, past-progressive use of yiqtol, like in verse 10 below. Such a
+
+reading assumes that     returned the story to the particular visit of verse 4 and to what follows with further wayyiqtols. However, one may also suggested that     is a modal in a past context "she (was) not able to eat"43 or volitional "she (was) not (wanting) to eat, would not eat." Someone might argue against a modal/volitional reading by pointing out that the specific modal lexemes were not chosen, like         she was not able to eat, or    
+
+   and she refused to eat, or         and she did not want to eat. However, it is equally significant that the
+
+imperfective structure was not chosen,        , and a volitional reading makes good sense "she was not wanting to eat."
+
+42
+
+See Num 10:35-36 below, for an example of wayyiqtol being used for marking past as a setting in a past habitual
+
+context. Such a habitual usage of both qatal (see Num 11:8) and wayyiqtol was part of biblical Hebrew, but was naturally
+
+restricted to contexts where the forms were linked to the main habituals. Numbers 10 does not provide a good explanation
+
+for the Samuel context. In 1Sam 1:7-10 the word     does not function as a setting for a habitual "Elqanah said ... and
+
+she got up ... and she prayed."
+
+43
+
+Cf. Deut 1:9, 12 for modal capability,      I cannot carry and     how can I carry?
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+21
+
+8            -- The wayyiqtol is not a habitual and continues the specific events of that particular visit mentioned in '    . "And Elkanah said to her" is a simple past and is the thematic reply to     . It is part of a chain of events that is described in the following verses as well.
+       -- "Hanna, why would you be crying?" The yiqtol is used in polite questions to mitigate them, making them more polite and less direct. It is prototypically a volitional use of the yiqtol. The option not chosen was        , using a participle for a direct question in the present.
+         -- Another polite question. "Why would you not eat?" The questioning yiqtol may reinforce a volitional reading of        in the previous verse.
+          -- Another polite question.
+
+9     -- The wayyiqtol continues the thematic events of that particular visit.
+
+                 -- The word    is a verbal noun (a long infinitive, like in Gen 1.29-30), like   . The "-ah" is not a feminine suffix and the verb does not refer to Hanna, but to the eating and drinking of the rest of the family. (The lack of mappiq in the heh of  is correct in the MT.)
+                      -- The clause with a participle describes an imperfective event in the past. "[Now at that particular time] Eli was sitting on the chair ..." The participle is prototypically the past progressive without an endpoint rather than a habitual. It is a background description and is not part of the thematic event structure.
+10        -- The verbless clause functions as an open-ended setting in the past.          -- The wayyiqtol describes the whole past event "she prayed." The thematic past tense makes this the
+next thematic action after    verse 9.        -- A yiqtol is used for an imperfective past progressive, not a habitual. This usage of yiqtol is rare in
+classical Hebrew. "She was crying profusely." The choice of yiqtol over the participle may have been influenced by choosing the infinitive absolute which normally precedes a finite verb. 11      -- The wayyiqtol describes the whole event "she vowed a vow."    -- This wayyiqtol is a hendiadys with "vowed" and introduces direct speech.              '     -- The yiqtol is used with a conditional.       -- The weqatal continues as a thematic event within the context of the conditional. It has the same time, mood and aspect as the yiqtol.           -- The doublet pauses the sequence and uses a litotes, "do not forget" within the conditional context.                  -- The weqatal advances the thematic sequence of the condition.            -- The weqatal is a thematic sequence that provides the vow as an apodosis to the condition. (There is no formal distinction between continuation of the protasis and beginning of the apodosis.) The apodosis is future
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+22
+
+and the aspectual understanding is perfective, that is, the "giving" will be completed at a particular time in the future. The weqatal is thus functioning like a yiqtol when something is placed before the verb. '           ' -- The thematic sequence pauses by not using a weqatal. Instead a "contextualizing
+
+constituent" (razor) and a yiqtol describe the situation of the dedicated child. The verbs  and  are equally future and perfective, at least as much as one can talk about a negation being "complete." 12   -- The weqatal describes the setting of the prayer imperfectively, without including the endpoint of the
+
+continuation of Hanna's prayers. The past progressive [non-habitual] use of weqatal is relatively rare. It may emphasize the duration of the praying. The non-habitual use of the weqatal can be seen in 1Sam 17:48 where the beginning of the battle is introduced with a subjectless  "and (here) is what was happening . . ."
+
+                   -- The qatal can be used in ki-clauses that describe habitual actions when subordinated
+
+to habitual actions. Here, however, the clause describes an imperfectively incomplete action of praying. In this particular case the semantics of , made much, prolonged, also help to make a qatal form acceptable for introducing a past
+
+progressive situation.            -- The participle is the prototypical imperfective in Hebrew as a past progressive and is used here
+
+for the simultaneous and open-ended action of Eli. 13            -- The imperfective past progressive is continued with a second participle.
+
+'        -- The lack of waw provides for an explanatory, parenthetical comment. The participle is imperfective, describing the situation without the endpoint in view.
+        ' -- The yiqtol continues the parenthetical comment of a past progressive. The yiqtol is rare in biblical Hebrew for a prototypical imperfective, past progressive sense instead of a habitual. In terms of mood, of course, this is described as real, not hypothetical or potential, so the semantics should not be called irrealis. However, there is one more level of complexity because that reality of progressive hearing is then negated.
+               -- This wayyiqtol is one of the thematic events of the story and includes its endpoint. The
+
+participle "was speaking" was the past-progressive, imperfective background against which the Eli's observation took place. 14         -- The thematic wayyiqtol for the next event in the story.
+
+          -- The yiqtol for a future habit, although also potentially a mitigating question. The final nun may be a remnant from the old indicative system. However, its inconsistent use in biblical Hebrew turns it into a form that adds rhetorical weight to the verb rather than semantics.
+            -- Imperative for a direct command.
+
+15        -- The next event in the story is described with wayyiqtol and a common hendiadys.
+
+         -- The verbless clause refers to Hanna's speech in her present time. The predicate is fronted as
+
+focus.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+23
+
+             -- From Hanna's perspective the qatal is a perfect, a past event (past negation) with present relevance to her situation, the fronting is for contextualizing (topicalizing) what had already been mentioned.
+               -- The thematic wayyiqtol refers to Hanna's past. Again, there is present relevance, but nothing in the verb specifically marks the present relevance.
+16                -- The yiqtol is a mitigated, negative imperative. The negative  is correctly used for a specific circumstance, for this context.44
+                      -- qatal for past, fronting for focus.
+
+17           -- The next event in the story is described with wayyiqtol in a common hendiadys       .
+
+            -- The subject is fronted. The verb may or may not be intended as a volitional. The way to mark the verb as a volitional "may He give" would have been to place it first. So this may be intended as an indicative "The Lord will give." However, classical Hebrew also knows examples where volitionals appear second (Gen 37:27   
+
+'  , 2Sam 14:17         ). So the phrase is technically ambiguous in classical Hebrew. As a
+blessing a volitional understanding would be appropriate. 18    -- The wayyiqtol is the next thematic event in the story.                -- The verb is fronted as a volitional "may she find."            -- The wayyiqtol is the next thematic event in the story.    -- The wayyiqtol is the next thematic event in the story and confirms the correct reading of     in verse 9 as
+referring to the others but not Hanna. '          -- The noun breaks the flow of thematic verbs and pauses the story as the end of a scene. 19         ... -- The thematic verbs continue the story by returning the family to their home.                -'              -- The wayyiqtol advances to the next event in the story.            -- The wayyiqtol advances to the next event in the story. 20   '       -- The wayyiqtol  without a subject advances to a new time frame.       -- The wayyiqtol advances to the next event in the story.      -- The wayyiqtol advances to the next event in the story.   '       -- The wayyiqtol advances to the next event in the story.
+
+44
+
+The negative  is used inconsistently in BH. Sometimes it is used with the morphologically indicative yiqtol (for
+
+example, Gen 19:17    , Jos 1:7 ,   2Sam 13:12     , Job 3:9     , though normally it is used
+
+with the morphologically volitional yiqtol (for example, Gen 37:27   , Lev 10:9    , Job 3:6     ). This is
+
+part of the evidence for the breakdown/simplification of the volitional system that was going on in the biblical language.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+24
+
+          -- The "Lord" is fronted in a ki-clause for Focus. The qatal verb preserved its stative morphology.
+
+21'               -- The wayyiqtol advances to the next event in the story.
+
+22        -- The fronted subject "Hanna" provides a comparison along with a lack of a thematic tense as fitting for something that is simultaneous and not a temporal development of the story.
+        -- The qatal marks a past that is also pluperfect.
+
+        -- The yiqtol is a future that is contextually a condition to the following thematic verb.
+
+     -- The weqatal is the thematic event and future apodosis.
+
+         -- The weqatal is the future thematic event
+
+  '      -- The weqatal is the future thematic event
+
+23           -- This wayyiqtol is a thematic development from Hanna's statement but is a back-reference from the perspective of verse 21.
+'          -- The form is a volitional "May Yhwh fulfill/establish his word."
+
+        -- The wayyiqtol advances to the next event in the story after Elkanah's statement.
+
+      -- The wayyiqtol advances to the next event in the story.
+
+'       -- The infinitive phrase is a subordination.
+
+24      -- The wayyiqtol advances to the next event in the story.
+
+      -- The  clause with a finite verb is a rhetorically heavy way of saying '       .
+
+'          -- The wayyiqtol advances to the next event in the story.
+
+       -- The verbless clause breaks the flow of thematic verbs. It is a little surprising because it is a tautology, "the boy was a boy [=servant?]," unless a textual corruption, as widely assumed. It appears to break up the unit and becomes a "packaging boundary."
+25         -- The wayyiqtol advances to the next event in the story. The plural appears to include Elkanah, since the next sentence has the boy as an object.
+            -- The wayyiqtol advances to the next event in the story.
+
+26  -- The wayyiqtol advances to the next event in the story.
+
+               -- The participle refers to the past encounter with Eli, not the present. A time marker only comes in the next verse.
+27            -- The time is now explicit with qatal.
+
+           -- The wayyiqtol advances to the next event in her speech.
+
+28                      -- The qatal      is probably a performative. Hanna "hereby" loans her son to the Lord, permanently.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+25
+
+           -- The wayyiqtol advances to the next event in the story.
+
+-1Sam. 2:1         
+
+-- The wayyiqtol advances to the next event in the story, which is a long prayer by
+
+Hanna. The hendiadys    introduces the quoted content of the prayer.
+
+     ...    ...    ...        -- Four past references use qatal.
+
+2  '   -- Three existential negatives follow.
+
+3             --
+
+         -- A negative is implied from the previous verse.
+
+  '     -- A verbless clause describes the Lord
+
+'       [' ][ ]   -- A qatal describes a proverbial action based on the past.
+
+4          -- A verbless clause makes a poetic description as a habitual/volitional/hypothetical.
+
+           -- A qatal in the parallel clause describes a proverbial action based on the past. This kind of alternation in parallelism with loose temporal reference is common in poetry.
+5           -- A qatal describes a proverbial action based on the past. In this poetry they function like perfects, "past with present relevance."
+        -- A qatal antithetically describes a proverbial action based on the past.
+
+           -- A qatal describes a proverbial action based on the past.
+
+            -- A qatal in the parallel clause describes a proverbial action based on the past.
+
+6          -- Two participles describe habitual actions for the Lord.
+
+    '    ' -- The participle continues to describe a habitual action for the Lord, but the wayyiqtol breaks this habitual description and implies a past event "and He brought up [from sheol].45 The change of tense is arresting in this poem and causes the listener/reader to look for a possible application. A literal bringing back of a person from the place of the dead is not a likely meaning, but rescue from death or disaster is sometimes spoken of metaphorically in the Bible as a rising from sheol or the deep waters of the earth. Psalm 30:4:     '            you raised my soul from
+
+sheol, 71:20          '     from the deep waters of the earth you will come back and will raise me up. What could Hanna have referred to? Probably the removal of the curse of barrenness. To be barren was sometimes considered to be dead. Gen 30:1                 give me children and if not I am dead. In any case, what is clear is that the poem breaks the list of habitual actions with a specific action that implies an inclusion of a historical fulfillment for Hanna.46
+
+45
+
+Contra Walter Gross, Verbform und Funktion, wayyiqtol für die Gegenwart? (St. Ottilien: Eos Verlag, 1976, 111)
+
+"1 Sam 2,6a. 7.8 bezeichnen generelle Sachverhalte der Gegenwart. Dasselbe muß man für v. 6b annehmen."
+
+46
+
+I was pleased to hear John Cook offer an interpretation along these lines at the SBL panel discussion, San Diego,
+
+2014.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+26
+
+7  ' ...            '   -- More habitual descriptions with participles
+
+8'                 -- The yiqtol shifts from a participle for a modal/future for a habitual.     '      -- Another yiqtol modal/future for a habitual.           -- The wayyiqtol refers to the foundation of the earth in the past.
+
+9    [   ] '     -- The yiqtols build a future metaphor of protection            --
+
+            --
+
+10   ] '      ] -- The yiqtol is probably a wish, a volitional, following a vocative        [  ] ' -- The yiqtol is a morphologically volitional/jussive. "May He thunder."          -- The parallel yiqtol is morphologically indicative and refers to something either habitual or
+future. '        -- The yiqtol is placed in first position (it is not wayyiqtol) so it has special marking as a volitional. "And
+may he give strength to his king."  '          -- The yiqtol is placed in first position (it is not wayyiqtol) so it has special marking as a volitional.
+"And may he raise the horn of his anointed." 11'                 -- The wayyiqtol advances to the next event in the story.                        -- The scene closes out with an imperfective, marking an open-ended
+event "the boy was serving . . ." 12              -- A verbless clause for background description.          -- A qatal as background description.
+
+13             -- A verbless clause for more background description.                -- A fronted noun phrase as an extra-clausal contextualizing constituent "every man
+sacrificing a sacrifice--and the priest's boy would come..." The weqatal is a past habitual, as is prototypical for Hebrew narrative.       -- "after the meat boiled." The infinitive provides a setting for the action.
+
+14   '      '   ' '      -- The weqatal is a thematic verb that continues the description of past, habitual actions.
+'                  -- With a fronted object "everything that..." the yiqtol is used for the habitual. This verse is a classic example showing that weqatal and yiqtol have the same TMA (tense-mood-aspect).
+                    -- The yiqtol is used for a summary habitual.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+27
+
+15            -- The yiqtol is used with  to refer to a time before whatever the yiqtol describes. The nun at the end of     may be a fossilized indicative although it functions as a rhetorical lengthening in the synchronic language.
+         -- The weqatal is a thematic verb for this past habitual sequence and is prototypical for Hebrew narrative.
+         -- The weqatal is a thematic verb for this past habitual sequence    '        -- The lengthened imperative form of `give' has not been clearly understood.47 Steven Fassberg
+has shown a strong tendency for these to imply motion directed to the speaker or to carry a benefactive "dative" sense.48 That is fitting here.                 -- The yiqtol refers to a volitional "he [does not want] to take"
+
+16        -- If this text is correct, the wayyiqtol would be the first of a sequence of two re-occurring statements "and he said ... and he would say." This is like the qatal in the beginning of an iterative sequence in Num 11:8
+
+            as well as the wayyiqtol in the iterative sequence of Num 10:35   ...   .49 This is good
+
+biblical Hebrew. However, a text of Samuel at Qumran (4Q51) reads []   where the prototypical weqatal for a past habitual is used. That is most likely a secondary rewriting of the text, perhaps at a time when the syntax of a wayyiqtol as a setting within a habitual was no longer used. So it is more probable that    was original and served as a setting to the following    .50
+
+47
+
+Joüon and Muraoka 48d "emphatic in origin, but in practice does not often seem to add any particular nuance,
+
+...honorific ...addressed to God ...since the nuance added by - is virtually non-discernible, the emotive particle  is
+
+added, if greater emphasis is required."
+
+48
+
+Steven E. Fassberg "The Lengthened Imperative    in Biblical Hebrew," Hebrew Studies 40 (1999): 7-13. I
+
+want to thank Aaron Hornkohl for this reference.
+
+49
+
+Numbers 10:35-36:
+
+and it
+
+          
+
+happened in the travelling of the ark
+
+and Moses said      
+
+((!), (as an example of what he would say
+
+Arise, O Lord, "                        
+
+"... and may your enemies be scattered
+
+and in the ark's    
+
+resting
+
+he would say   
+
+Return, O "          '       
+
+".Lord, to the myriads of clans of Israel
+
+50
+
+The LXX appears to reverse this:  was saying (sensitive to Greek) ...   and he said (less felicitous
+
+in Greek).
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+28
+
+   '       -- The yiqtol is probably a volitional "let them burn the fat". If so, the final nun is purely rhetorical and not from a former indicative.
+   -- The imperative follows the concession "let them burn." The short form  is fitting because the motion is away.
+         -- The yiqtol is a volitional that probably mitigates the statement "as your soul may desire."
+
+    -- The prototypical weqatal for a past habitual.
+
+ ] '] -- "Do not!" is the qre and canonical reading. "To him" is the ktiv.
+
+       -- The yiqtol may be an obligatory volitional "you should give it" or a future indicative that makes an
+
+absolute command here "you will give it now." The more indicative   instead of voltional  makes the context more absolute. Using the future for a present demand is arresting in Hebrew as in English.     --
+
+          -- The qatal is a performative "I hereby take it by force."
+
+17           '            -- The wayyiqtol advances to the next event in the story. This is an
+
+event of the story and not the subjectless    that introduces a setting.
+
+                   -- The qatal refers to the whole, past activity of the sons of Eli.
+
+18              -- This participle clause is an imperfective that describe a background situation in the story. It is possible that the participle was chosen for the unbroken continuity of the event, as a lengthened past progressive, as opposed to the iterativity of a yiqtol.
+  '      -- A verbless clause or appositional phrase to "Samuel" that provides explanatory background for the actions to come.
+19'  '          -- The yiqtol refers to a recurring gift of Samuel's mother. (Cf. Gen 37:3    '    
+
+   where the weqatal is similarly iterative and probably describes a special "suit, uniform" that was provided to Joseph over and over again.) Once again we see the yiqtol and weqatal referring to the same TMA while occurring in different syntactical slots.          '       -- The thematic weqatal is habitual and describes a visit and gift on a probable annual basis
+
+( ). Again, the TMA of the weqatal and yiqtol are the same.
+
+    '   -- The infinitive clause with  provides an imperfective setting to the main verb       .
+
+20                   -- The weqatal is habitual and part of the thematic sequence in the background.
+               -- The yiqtol is volitional by form and meaning.
+
+              -- The qatal for past.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+29
+
+'        -- The weqatal is habitual and part of the thematic sequence in the background. 4Q51 has  
+
+. 4Q51 would return the story to a specific event. It is probably a secondary editing because the following verse ends up smoother in 4Q51 than the MT. 21          -- The ki-clause with a past qatal breaks away from the habitual description above and is related to the next development of the story. The ki is unexpected and in the MT it appears to subordinate a clause "when God visited Hanna" to the following events. Gen 29:33 shows that  may introduce a claim    "indeed He heard,"
+
+but ki is still rough for a narrative. 4Q51 smoothes this out by removing the ki and using wayyiqtol  and the Lord took care of Hanna.     -- The wayyiqtol is the next thematic event in the story.
+
+'               -- The wayyiqtol is the next thematic event in the story.
+
+               -- The wayyiqtol is the next thematic event in the story.
+
+ 22         -- The stative   is ambiguous between a qatal, became old, and a participle, (was) old. However, either form breaks the sequence of thematic wayyiqtol verbs.
+                  -- The switch to weqatal is describing a habitual, recurring event. Likewise, the yiqtol refers to the recurring actions.
+  '      '                 -- The yiqtol refers to a recurring action in the past.
+
+23      -- The wayyiqtol appears to advance to the next event of the story where a particular, lengthy lesson is given by Eli. See the response in the next verse where it is implied that a similar warning and rebuke occurred on more than one occasion.
+              -- The yiqtol may be a modal that mitigates a present question, although it could also be referring to habitual actions, past and or present. If the author was concerned about ambiguity he could have written, for example,               but such precision was unnecessary as everyone was already aware of the referential actions.
+                          -- The participle for the present tense.
+
+24      ''       -- Verbless ki-clause (with fronted predicate for focus) after negative command.          -- Participle as a present in a subordinate clause.
+
+         -- participle as a habitual, or inclusive present.
+
+25        -- Yiqtol for a condition that is omnitemporal and potential.
+
+  '     -- Weqatal for the omnitemporal and potential apodosis.
+
+           -- Yiqtol for a condition that is omnitemporal and potential.
+
+'       -- Yiqtol for a questioned omnitemporal and potential apodosis. We see the yiqtol used in the same semantic framework as the previous weqatal and they are not differentiated in aspect or mood.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+30
+
+   '        -- This returns to the story with a negative yiqtol as a past habitual. Simple unwillingness could
+
+have been stated as    . The yiqtol implies more than one warning from their father.
+
+            -- The form    is ambiguous between a qatal and participle. If it is a participle/stativeadjective then it is fronted as a Focus construction "the Lord (was) wanting." The simplest reading is as a qatal "wanted" that gives a background reason related to the wicked behavior.
+26'                -- The participles provide a background, imperfective description in the past. It provides a boundary to the scene. The idiom means to get bigger and better.
+27            -- The wayyiqtol advances to the next event of the story.
+
+      -- The wayyiqtol advances to the next event of the story.
+
+     -- The qatal is a kind of performative that establishes God's word as a given.
+
+            -- The qatal refers to the past.
+
+               '   -- The infinitive with  is a simultaneous, incomplete setting.
+
+28              '     -- The infinitive absolute is a rare construction as a synonym for a finite
+
+verb. It refers to God's choosing Aaron and his descendants. The other option was     .
+
+                     -- The wayyiqtol uses a long form in the first person. This is an optional form in Biblical Hebrew that became quite common in LBH and Qumran. The normal wayyiqtol uses a short form in the second and third persons that is a homonym with short jussive yiqtol forms. The first person long suffix (+) would be a homonym with the cohortative and would be similarly "volitional" outside the wayyiqtol. But in the wayyiqtol it is still a past indicative.
+29                -- The yiqtol is used volitionally as a mitigated question in the present that includes habituality.
+'        -- The qatal for past.
+
+           -- The wayyiqtol is the thematic continuation of the sentence in the past.
+
+30             -- This breaks the thematic sequence and begins a new topic in the prophecy.
+
+    '  -- The qatal is a performative in the prophet's mouth. "I have hereby spoken."
+
+ '                -- The yiqtol refers to the future. The aspect is not in focus and it includes eternity as an endpoint, so it may be called either imperfective or perfective in this case.
+        --
+
+     -- The suffix (+) is is a fixed form for a negated oath that implies that God will remain true. The suffix may be related to the long imperative suffix, this word became fixed and could be used both with `to me' and `to you' (Gen 18:25).
+           -- The yiqtol is a future.
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+31
+
+      -- The yiqtol is a future.
+
+31       -- The participle refers to a "near future."
+
+           -- The weqatal is the thematic continuation and refers to the future.
+
+32'        -- The weqatal is the thematic continuation and refers to the future.
+
+            -- The yiqtol is a future in a clause the begins with .
+
+                  -- The yiqtol is a negated future and may be parallel to      .
+
+33              -- The yiqtol is a future and continuing the description of "there will not be" from the previous verse.
+   '   -- infinitive clause for purpose.
+
+         -- infinitive clause for purpose.
+
+               -- The yiqtol is a parallel future with a contextualizing constituent.
+
+34'      -- A verbless clause for the future sign.
+
+                     -- The yiqtol is future.
+
+         '  -- The yiqtol is future. Obviously, this future is perfective!!
+
+35            -- The thematic tense weqatal is future and continues the prophecy.
+
+                  -- The yiqtol is future. Here the context may be considered open-ended although it is technically not marked by the verb.
+     '     -- The thematic tense weqatal is future and continues the prophecy.
+
+                   -- The thematic tense weqatal is future and continues the prophecy.
+
+36   -- The thematic tense weqatal is future, probably iterative/recurring, and continues the prophecy.
+
+         '   ' '      '     '  -- The yiqtol is future and repetitive with a fronted contextualizing constituent.
+  -- The thematic tense weqatal is future and continues the prophecy.
+
+'              -- Imperative in quoted material.
+
+        -- Infinitive for a purpose clause.
+
+9.0 Concluding Remarks
+Time and mood dominate the classical Hebrew finite verbs. The least significant semantic category for the Hebrew verb is aspect. However, the selected texts provided two or three examples of past progressive aspect (possibly 1:7 yiqtol, 1:10 yiqtol, 1:12 weqatal), a relatively rare mapping in classical Hebrew. The prototypical imperfective aspect, a progressive
+
+2017-05-30
+
+Buth Hebrew Verb 1Sam 1-2 29May2017Let.doc
+
+32
+
+event without the endpoint, is signalled by the participle (1:9, 12, 13, inter alia), not the yiqtol. Single events in the future are prototypically perfective whether signalled by yiqtol or weqatal, contrary to much pedagogical metalanguage.
+
+The Hebrew yiqtol is semantically trivalent or multivalent: future indicative (time), present-future volitional and irrealis (mood), occasionally past habitual indicative (as an extension of time-mood), and rarely past progressive (imperfective). The weqatal shares most of the trivalent or multivalent tense-mood-aspect of the yiqtol (future indicative, present-future volitional and irrealis, occasionally past habitual indicative, and rarely past progressive), although as a thematic tense it is more often indicative and not as volitional as the we-yiqtol idiom.
+
+The qatal is also trivalent: temporally it is an absolute and relative past time, prototypically indicative and perfective. Modally it is indicative and realis, though it is also used for some virtual expressions like performatives and occasional contrafactuals. Aspectually, it is prototypically perfective, though it may be used in habitual settings. The wayyiqtol shares most of the trivalent TMA of the qatal, although as a thematic tense it has more absolute time reference and avoids performatives.
+
+The account of 1Samuel 1-2 was situated in the past by the verbs. Likewise, references to the future were signalled by the verbs. However, the Hebrew verbal system is systematically concerned with "packaging," beyond the simple marking of tense, mood, and aspect. The wayyiqtol and weqatal categories have developed a sophisticated style that produces thematic threads of clauses and sentences that form the skeleton of a story and of communication.

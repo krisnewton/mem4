@@ -1,0 +1,2944 @@
+BAB 1 AKUNTANSI untuk
+PERUSAHAAN MANUFAKTUR
+Karakteristik Perusahaan Manufaktur Masalah Khusus Perusahaan Manufaktur
+Akuntansi Perusahaan Manufaktur Membuat Laporan Beban pokok produksi Menghitung Beban pokok produksi dan Beban pokok penjualan
+1
+
+AKUNTANSI UNTUK PERUSAHAAN MANUFAKTUR
+Tujuan Pengajaran
+Buku ini akan membahas karakteristik, akuntansi khusus dan pelaporan operasi perusahaan manufaktur . Tujuan pengajaran dari buku ini adalah agar para siswa dapat: 1. Memahami karakteristik perusahaan manufaktur 2. Memahami masalah khusus akuntansi perusahaan manufaktur 3. Mencatat transaksi-transaksi produksi 4. Membuat laporan beban pokok produksi.
+Karakteristik Perusahaan Manufaktur
+Perusahaan manufaktur (manufacturing firm) adalah perusahaan yang kegiatannya mengolah bahan baku menjadi barang jadi kemudian menjual barang jadi tersebut. Kegiatan khusus dalam perusahaan manufaktur adalah pengolahan bahan baku menjadi barang jadi. Kegiatan ini sering disebut proses produksi. Kegiatan produksi, apabila digambarkan akan nampak seperti di bawah ini:
+2
+
+Pembelian
+
+Bahan baku Pemakaian
+
+Pemakaian Pemakaian
+
+Buruh langsung
+Biaya pabrikasi
+
+Pembebanan Pembebanan
+
+Proses Produksi
+
+Penyelesaian
+
+Barang Jadi
+
+Bidang akuntansi yang menangani masalah produksi disebut akuntansi biaya (cost accounting). Tujuannya, menetapkan beban pokok produksi barang jadi. Bab ini akan membahas sesuai ruang lingkup yang telah disebutkan, yakni penetapan beban pokok produksi. Titik berat pembahasan masih diletakkan pada pengenalan terhadap proses akuntansi dan laporan khusus untuk perusahaan manufaktur.
+
+Persediaan Barang Dalam Proses Awal
+
+Jumlah Lancar Biaya
+Pabrikasi
+
+Jumlah Biaya Barang
+Dalam Proses
+
+Jumlah Biaya Barang
+Dalam Proses
+
+Barang Dalam Akhir Proses
+
+Harga Pokok Pabrikasi
+
+Weygandt et al (1996: 847)
+Gambar di atas menunjukkan karakteristik khusus perusahaan manufaktur yang membedakannya dengan jenis perusahaan lain seperti perusahaan dagang atau perusahaan jasa. Perbedaan tersebut terletak pada persediaan-persediaannya, biaya pabrikasi (manufacturing costs), biaya produksi dan beban pokok produksinya. Kita juga bisa memahami perbedaan dalam komponen perhitungan beban pokok
+3
+
+penjualan pada sebuah perusahaan manufaktur dengan perusahaan dagang melalui penggambaran di bawah ini.
+
+Persediaan Barang Dalam Proses Awal
+
+Perusahaan Dagang
+Harga Pokok Pembelian
+
+Persediaan Barang Dagang
+Akhir
+
+Persediaan Barang Dalam Proses Awal
+
+Perusahaan
+Harga Pokok Pabrikasi
+
+Persediaan Barang Dagang
+Akhir
+
+Harga Pokok Penjualan
+
+Weygandt et al (1996: 847)
+Komponen penambah dalam beban pokok penjualan untuk perusahaan dagang diperoleh dari pembelian barang dagangan yang ditambahkan ke persediaan barang dagangan yang telah dimiliki. Pada perusahaan manufaktur, komponen penambah persediaan awal barang jadi diperoleh dari harga pokok pabrikasi/beban pokok produksi yang dibebankan selama proses mengubah bahan baku menjadi barang jadi berlangsung. Setelah barang yang tersedia untuk dijual (baik pada perusahan dagang maupun pada perusahaan manufaktur) dikurangi dengan persediaan akhir, maka didapatlah beban pokok penjualan.
+Masalah Khusus Perusahaan Manufaktur
+Dibandingkan dengan perusahaan dagang, masalah khusus dalam akuntansi perusahaan manufaktur adalah persediaan, biaya pabrikasi (manufacturing costs), biaya produksi dan beban pokok produksi.
+Persediaan (Inventory)
+Berdasarkan perusahaan dagang, dalam perusahaan manufaktur biasanya terdiri dari tiga macam, yakni: 1. Persediaan bahan baku (raw materials inventory) 2. Persediaan barang dalam proses (work in process inventory) 3. Persediaan barang jadi (finished goods inventory)
+
+4
+
+Persediaan bahan baku melaporkan harga pokok bahan baku yang ada pada tanggal neraca. Bahan baku adalah barang-barang yang digunakan dalam proses produksi. Persediaan dalam proses terdiri dari biaya bahan baku dan biaya-biaya manufaktur lain yang telah terjadi untuk memproduksi barang yang belum selesai. Untuk menyelesaikannya masih diperlukan tambahan biaya. Persediaan barang jadi terdiri dari total biaya pabrik untuk barang-barang yang telah selesai diproduksi, tetapi belum dijual. Sebuah perusahaan manufaktur dengan demikian harus menyediakan tiga perkiraan untuk persediaan.
+Biaya Manufaktur (Manufacturing Cost)
+Biaya-biaya yang terjadi dalam perusahaan manufaktur selama suatu periode disebut biaya manufaktur (manufacturing cost), atau lebih dikenal dengan biaya pabrik. Biaya ini digunakan untuk menyelesaikan barang yang masih sebagian selesai di awal periode, barang-barang yang dimasukkan dalam proses produksi periode itu dan barang-barang yang baru dapat diselesaikan sebagian di akhir periode. Pada dasarnya biaya pabrik dapat dikelompokkan menjadi:
+a. Biaya bahan baku (raw materials cost) yaitu biaya untuk bahan-bahan yang dapat dengan mudah dan langsung diidentifikasikan dengan barang jadi. Contoh bahan baku adalah kayu bagi perusahaan mebel atau tembakau bagi perusahaan rokok.
+b. Biaya tenaga kerja lansung (direct labor cost) adalah biaya untuk tenga kerja yang menangani secara langsung proses produksi atau yang dapat diidentifikasikan langsung dengan barang jadi. Contoh buruh langsung adalah tukang kayu dalam perusahaan mebel atau pelinting rokok dalam perusahaan rokok (Sigaret Kretek Tangan = SKT).
+c. Biaya overhead pabrik (overhead cost) adalah biaya-biaya pabrik selain bahan baku dan tenga kerja langsung. Biaya ini tidak dapat diidentifikasikan secara langsung dengan barang yang dihasilkan. Contoh biaya overhead pabrik adalah: (1) bahan pembantu (kadang-kadang disebut: bahan tidak langsung (indirect materials) misalnya perlengkapan pabrik (mur, baut dan pelitur dalam perusahaan mebel); (2) tenga kerja tidak langsung (indirect labor) yaitu tenaga kerja yang pekerjaannya tidak dapat diidentifikasikan secara langsung dengan barang yang dihasilkan, misalnya gaji mandor; (3) pemeliharaan dan perbaikan (maintenance and repair); (4) listrik, air telepon dan lain-lain.
+Ketiga jenis biaya manufaktur ini dapat dihubungkan dan dilihat keterkaitannya dengan memperhatikan bagan yang diilustrasikan di bawah ini.
+5
+
+Biaya Utama
+Biaya Konversi
+
+Biaya Pabrikasi
+Bahan baku Langsung
+Tenaga Kerja Langsung
+Overhead Pabrikasi
+
+Biaya Produksi
+
+Biaya Nonpabrikasi
+Beban Penjualan
+Beban Admisnistratif
+
+Biaya Periode
+
+Biaya Produksi (Production Cost) dan Biaya Periode (Period Cost)
+Biaya produksi (production cost) adalah biaya yang dibebankan dalam proses produksi selama suatu periode. Biaya ini terdiri dari persediaan barang dalam proses awal ditambah biaya pabrikasi (manufacturing cost), kemudian dikurangi dengan persediaan barang dalam proses akhir. Biaya pabrikasi adalah semua biaya yang berhubungan dengan proses produksi. Tiga komponen biaya yang terdapat dalam biaya produksi adalah biaya bahan baku, biaya tenaga kerja langsung, dan biaya overhead. Biaya overhead adalah semua biaya pabrikasi (semua biaya yang terkait dengan proses produksi) yang bersifat tidak langsung, termasuk biaya-biaya yang dibebankan pada persediaan dalam proses pada akhir periode. Biaya overhead ini seringkali tidak dapat diatribusikan/dilekatkan pada masing-masing unit produk yang dikerjakan secara spesifik. Karena biaya ini biasanya dinikmati bersama selama
+6
+
+proses produksi berlangsung. Dalam situasi tertentu dapat pula disebut sebagai biaya bersama (common cost).
+Biaya bahan baku langsung dan tenaga kerja langsung sering pula disebut sebagai biaya utama (prime cost), yaitu biaya yang merupakan komponen utama dari produk yang dibuat dan dapat dengan mudah diatribusikan pada masing-masing unit produk yang dikerjakan atau dibuat. Biaya tenaga kerja langsung dan biaya overhead sering pula disebut sebagai biaya konversi (conversion cost), yaitu biaya yang dikeluarkan atau terjadi sehingga bahan baku dapat diubah menjadi produk jadi.
+Kelompok biaya lain selain biaya produksi adalah biaya periode (period cost), yaitu biaya nonpabrikasi yang dikeluarkan atau terjadi selama periode berjalan dalam rangka operasional perusahaan. Biaya ini dapat dibagi menjadi dua kelompok, yakni beban penjualan atau pemasaran dan beban-beban administratif. Klasifikasi biaya yang berbeda-beda ini dilakukan agar dapat mengukur kinerja atau prestasi masing-masing bagian secara lebih fair. Kata lainnya adalah, alokasi yang tepat akan dapat meningkatkan pertanggungjawaban masing-masing bagian. Sehingga sebuah beban, bisa jadi teralokasikan ke dalam pos-pos yang berbeda walaupun jenisnya sama. Beban depresiasi komputer, misalnya, bisa jadi merupakan kelompok biaya overhead, jika komputer tersebut berada di atau dipergunakan untuk kegiatan oleh departemen produksi. Mungkin juga merupakan beban pemasaran/ penjualan jika komputer tersebut dimanfaatkan oleh bagian tersebut. Atau boleh jadi pula beban depresiasi komputer tersebut merupakan kelompok beban adminstratif jika komputernya digunakan oleh bagian kantor atau administrasi. Oleh karena itulah kita harus dapat mengklasifikasikan setiap beban ke dalam kelompok biaya yang tepat karena berdasarkan laporan tersebut kinerja suatu bagian/seseorang akan diukur.
+Beban pokok produksi (Cost of Goods Manufactured)
+Biaya barang yang telah diselesaikan selama suatu periode disebut beban pokok produksi barang selesai (cost of goods manufactured) atau disingkat dengan beban pokok produksi. Harga pokok ini terdiri dari biaya pabrik ditambah persediaan dalam proses awal periode dikurangi persediaan dalam proses akhir periode. Beban pokok produksi selama suatu periode dilaporkan dalam laporan harga produksi (cost of goods manufactured statement). Laporan ini merupakan bagian dari beban pokok penjualan (cost of goods sold).
+Akuntansi Perusahaan Manufaktur
+Seperti telah dijelaskan, siklus akuntansi meliputi tahap pencatatan dan tahap pengikhtisaran yang terdiri dari:
+7
+
+Tahap pencatatan
+1. Pembuatan atau penerimaan bukti transaksi 2. Pencatatan dalam jurnal 3. Pemindahanbukuan ( posting ) ke buku besar
+Tahap pengikhtisaran
+4. Pembuatan neraca saldo 5. Pembuatan neraca lajur dan jurnal penyelesaian 6. Penyusunan laporan keuangan 7. Pembuatan jurnal penutup 8. Pembuatan neraca saldo penutup 9. Pembuatan jurnal balik
+Bab ini tidak akan membahas tahap demi tahap siklus tersebut. Pembahasan perusahaan manufaktur di sini lebih pada menguraikan tahap-tahap tersebut secara garis besar saja. Penekanan diberikan pada proses akuntansi untuk masing-masing akun/rekening/perkiraan perusahaan manufaktur (ketiga istilah ini dipakai seluruhnya, secara bergantian, sepanjang pembahasan dalam buku ini untuk menunjukkan bahwa ketiganya merupakan istilah yang lazim dipakai sehari-hari dalam praktik pada DU/DI). Namun demikian, tetap diharapkan bahwa pemaparan berikut ini telah mencakup semua pemahaman minimal yang diperlukan untuk dapat menjalankan proses akuntansi pada sebuah perusahaan manufaktur.
+Bahan Baku (Raw Materials)
+Pembelian bahan baku, seperti halnya perusahaan dagang, dicatat dalam buku pembelian (untuk pembelian kredit) dan buku pengeluaran kas (untuk pembelian tunai). Pembayaran hutang yang bersangkutan dicatat dalam buku pengeluaran kas. Di buku besar, pembelian bahan baku dicatat dalam rekening pembelian dan rekeningrekening lain yang berhubungan, misalnya potongan pembelian serta pembelian retur dan pengurangan harga. Pengeluaran bahan baku dari gudang untuk produksi tidak dicatat. Pemakaian bahan baku selama suatu periode dihitung sebagai berikut:
+
+Data diperoleh
+Persediaan bahan baku Pembelian
+
+dari perkiraan
+Persediaan pada awal periode Ditambah Pembelian selama perode sama dengan
+
+Perhitungan Contoh Rp1.000.000,00
+Rp24.000.000,00 +
+
+8
+
+.....
+Persediaan bahan baku
+
+Bahan baku tersedia untuk produksi Dikurangi Persediaan pada akhir periode sama dengan Pemakaian bahan baku selama periode
+
+Rp25.000.000,00 (Rp5.000.000,00) Rp20.000.000,00
+
+Jadi, seperti dalam perusahaan dagang, perkiraan persediaan bahan baku hanya digunakan untuk menampung ayat jurnal penyesuaian pada akhir periode. Jurnal penyesuaian dibuat untuk nilai persediaan yang ada di awal dan akhir periode. Sementara itu, nilai persediaan ditentukan dengan mengadakan penghitungan fisik. Jurnal penyesuaian untuk persediaan (awal dan akhir) dilakukan terhadap rekening Ikhtisar Beban pokok produksi.
+
+Tenaga Kerja Langsung (Direct Labor)
+
+Pembayaran gaji kepada tenaga kerja langsung dicatat dalam buku pengeluaran kas. Dalam buku perlu disediakan perkiraan tersendiri untuk biaya buruh langsung. Pada akhir periode dibuatkan jurnal penyesuaian untuk upah yang masih belum saatnya dibayar. Pembebanan biaya buruh langsung dilakukan dengan mambuat jurnal penutup ke rekening Ikhtisar Beban pokok produksi.
+
+Biaya Overhead Pabrik (Overhead)
+Biaya ini terdiri dari berbagai jenis, misalnya: bahan pembantu, tenga keja tidak langsung, gaji, listrik, telepon, perlengkapan pabrik, pemeliharaan dan perbaikan, asuransi, penyusutan bangunan pabrik, penyusutan mesin-mesin pabrik, penyusutan kendaraan pabrik, penyusutan peralatan pabrik dan lain-lain. Untuk tiap-tiap jenis biaya dapat dibuatkan rekening tersendiri di buku besar. Atau, kalau ingin lebih sederhana, dalam buku besar hanya disediakan satu rekening saja yaitu biaya overhead pabrik sebagai rekening induk (sesungguhnya). Rincian biaya overhead pabrik ke dalam tiap-tiap jenis biaya dicatat dalam buku tambahan. Pembelian biaya overhead pabrik, misalnya pembelian bahan pembantu, dicatat dalam buku pembelian. Pembayarannya, dicatat dalam buku pengeluaran kas. Pembebanan biaya overhead pabrik ke dalam produksi dilakukan dengan membuat jurnal penutup atas rekening yang bersangkutan. Rekening lawanya adalah Ikhtisar Beban pokok produksi.
+
+9
+
+Persediaan dalam Proses ( Work in Process Inventory )
+Proses produksi adalah kegiatan yang berlangsung terus menerus. Sementara itu, akuntansi harus melaporkan informasi keuangan secara berkala. Akibatnya, pada saat laporan keuangan harus dibuat, terdapat kemungkinan adanya sebagian barang yang belum selesai diproses. Walaupun demikian, biaya yang telah terjadi untuk barang itu, tetap harus dilaporkan. Inilah yang dicantumkan sebagai persediaan dalam proses. Untuk memperoleh beban pokok produksi barang yang telah selesai, biaya pabrik ditambah dengan nilai persediaan dalam proses di awal periode dan dikurangi dengan nilai persediaan dalam proses di akhir periode.
+Pesediaan dalam proses, baik di awal maupun akhir periode diperoleh dengan jalan melakukan penghitungan phisik. Untuk sementara, jangan diperhatikan dahulu bagaimana menghitung nilai persediaan dalam proses. Yang perlu diketahui adalah bahwa nila ini terdiri dari biaya bahan baku, buruh langsung dan biaya pabrikase yang telah terjadi sampai dengan saat dilaporkan. Untuk mencatat nilai persediaan dalam proses, dibuatkan rekening yang diberi nama: "Persediaan dalam Proses". Pada akhir periode dibuat jurnal penyesuaian untuk menghilangkan persediaan dalam proses awal dan membebankannya ke proses produksi. Sementara itu, jurnal penyesuaian lain untuk menimbulkan persediaan dalam proses yang ada pada akhir periode. Rekening lawan yang digunakan dalam jurnal penyesuaian tersebut adalah Ikhtisar Beban pokok produksi.
+Di bawah ini (pada halaman berikut) diberikan ilustrasi tentang alur pembebanan biaya ke dalam proses produksi hingga pengakuan beban pokok penjualan. Alur ini digambarkan dalam bentuk hubungan di antara buku besar perkiraan-perkiraan yang terkait dengan proses produksi dalam sebuah perusahaan manufaktur. Kita dapat melihat di situ, apa saja perkiraan yang terkait dan harus dibuatkan jurnalnya selama proses produksi berlangsung, dan kapan masing-masing perkiraan tersebut harus didebitkan atau dikreditkan. Tentu saja, ilustrasi tersebut menggambarkan pencatatan yang harus dibuat ketika perusahaan menerapkan metode perpetual untuk persediaannya.
+10
+
+Persd. Bahan Baku dan Pembantu
+1. Pembelian Bahan yang terpakai
+
+4
+
+Persediaan Barang dalam
+
+7
+
+Persediaan Barang Jadi
+
+Proses
+
+7. Harga
+
+8. Beban
+
+1. Pembelian 4. Bahan
+
+Pokok Brg
+
+pokok
+
+Baku
+
+yg selesai
+
+penjualan
+
+terpakai
+
+dikerjakan
+
+5. TKL yg
+
+digunakan
+
+6. Taksiran
+
+Overhead
+
+dbebankan
+
+Tenaga Kerja Pabrik
+
+2. TK Pabrik 5. TK
+
+yg terjadi/ dibebank-
+
+Pabrik yg digunakan
+
+5
+
+an
+
+Overhead Pabrik
+
+Overhead yg 6. Taksiran
+
+sesung-
+
+Overhead
+
+guh-nya
+
+yang dibe-
+
+terjadi:
+
+bankan
+
+3. Depresiasi
+
+Asuransi Reparasi
+
+6
+
+4. Bhn Pem-
+
+ban-tu yg
+
+diguna-kan
+
+5. TK tdk
+
+lgsng yg
+
+digunakan
+
+Beban pokok penjualan
+8. Harga Pokok Penjualan
+
+Kunci dalam penjualan
+
+Yang Diakumulasikan/
+Ditambahkan
+1. Pembelian bahan baku
+2. Tenaga kerja pabrik yg terjadi
+3. Overhead Pabrik yang terjadi
+
+Yang Dibebankan dalam Proses Produksi
+1. Bahan baku yg digunakan
+2. TK pabrik yg digunakan
+3. Taksiran overhead yg dibebankan
+4. Barang jadi yg selesai dan diakui
+5. Beban pokok penjualan yg diakui
+
+11
+
+Membuat Laporan Beban pokok produksi (Cost of Goods Manufactured Statement)
+LAPORAN BEBAN POKOK PRODUKSI (COST OF GOODS MANUFACTURED STATEMENT).
+Kegiatan produksi selama periode dilaporkan dalam laporan beban pokok produksi. Laporan ini merupakan perhitungan harga pokok barang yang telah selesai diproduksi selama suatu periode.
+Jurnal dan Buku Besar
+Untuk menggambarkan pencatatan dan pelaporan beban pokok produksi dalam sebuah perusahaan pabrik, anggaplah bahwa transaksi-transaksi berikut ini terjadi di PT Surya Dunia Abadi, sebuah perusahaan manufaktur.
+Pembelian Bahan Baku
+Selama tahun 200A, PT Surya Dunia Abadi membeli secara kredit bahan baku seharga Rp 1.440.000,00. Potongan pembelian, retur pembelian dan pengurangan harga serta transaksi-transaksi lain yang berhubungan dengan pembelian bahan baku diabaikan dalam contoh ini. Ayat jurnal yang perlu dibuat untuk pembelian tadi, jika dicatat dalam jurnal umum adalah sebagai berikut:
+
+Tanggal
+200A Des 31
+
+Nomor Bukti
+
+Keterangan
+
+-
+
+Pembln bhn baku
+
+Hutang dagang
+
+Ref
+
+Debit
+
+Kredit
+
+500 1.440.000,00 211
+
+1.440.000,00
+
+Ayat jurnal di atas merupakan gabungan transaksi selama setahun. Dalam kenyataannya, pencatatan dilakukan untuk tiap transaksi dalam buku pembelian. Pembayaran hutang dagang tidak diperhatikan lagi dalam ilustrasi ini. Akibat ayat jurnal di atas rekening Pembelian Bahan Baku pada tanggal 31 Desember 200A akan bersaldo debit sebesar Rp 1.440.000,00.
+
+Pemakaian Tenaga Kerja Langsung
+
+Selama tahun 200A, pembayaran gaji kepada tenaga kerja langsung berjumlah Rp 150.000,00. Gaji yang masih harus dibayar pada akhir tahun berjumlah Rp 23.000,00. Ayat jurnal yang harus dibuat adalah sebagai berikut:
+
+12
+
+Tanggal
+200A Des 31
+
+Nomor Bukti
+
+Keterangan
+
+-
+
+Biy. tenaga krja lgsg
+
+Bank
+
+Hutang biaya
+
+Ref
+
+Debit
+
+Kredit
+
+501
+
+173.000,00
+
+111
+
+150.000,00
+
+213
+
+23.000,00
+
+Sekali lagi, ayat jurnal di atas adalah gabungan dari seluruh transaksi selama satu tahun. Kenyataannya, pencatatan dilakukan untuk tiap pembayaran dalam buku pengeluaran kas. Sementara itu, gaji yang masih harus dibayar dicatat sebagai ayat jurnal penyesuaian.
+
+Pemakaian Biaya Overhead Pabrik
+
+Dalam tahun 200A biaya overhead pabrik yang dibebankan dalam produksi berjumlah Rp 450.000. Jumlah ini sudah termasuk ayat jurnal penyesuaian yang diperlukan. Ayat jurnal yang perlu dibuat pada waktu pembelian biaya-biaya tersebut adalah sebagai berikut:
+
+Tanggal 200A Des 31
+
+No. Bukti
+
+Keterangan
+
+-
+
+Biaya bahan pembantu
+
+Biy. tenaga kerja tdk lgsng
+
+Biaya gaji pabrik
+
+Biy. listrik, air & telp. pabrik
+
+Biaya perlengkapan pabrik
+
+Biaya pemeliharaan dan perbaikan
+
+pabrik
+
+Biaya asuransi pabrik
+
+Biy. overhead pbrk lain-lain
+
+Hutang dagang
+
+Ref
+502 503 504 505 506 507
+508 599 211
+
+Debit
+150.000 140.000
+40.000 37.000 15.000 50.000
+13.000 5.000
+
+Kredit 450.000
+
+Pembayaran hutang dagang dalam buku pengeluaran kas tidak diperlihatkan dalam contoh ini. Juga pembebanan biaya yang berasal dari pembayaran di muka. Untuk biaya penyusutan, ayat jurnal yang dibuat adalah sebagai berikut:
+
+13
+
+Tanggal
+200A Des 31
+
+Nomor Bukti
+-
+
+Keterangan
+(A) Biaya penyusutan pabrik
+Akum. penystn mesin
+
+Ref
+
+Debit
+
+Kredit
+
+509
+
+75.000
+
+134
+
+75.000
+
+(B) Biaya penyusutan pabrik Biy. penystn. penjualan Biy. Pnystn adm&umum
+Akum. Penystn. kend. Akum. Penystn. perltn.
+
+509
+
+9.500
+
+615
+
+9.500
+
+625
+
+9.500
+
+135
+
+16.000
+
+138
+
+5.000
+
+Dalam contoh perusahaan dagang, penyusutan dicatat melalui jurnal penyesuaian. Ayat jurnal penyusutan tersebut di atas terdiri dari dua bagian. Penyusutan mesin dibebankan seluruhnya dalam biaya pabrik (manufacturing cost). Sementara itu, penyusutan bangunan, kendaraan dan peralatan (total Rp 28.500) dialokasikan ke biaya pabrik (manufacturing cost), penjualan seta administrasi dan umum. Pengalokasian dilakukan berdasarkan penggunaan masing-masing aktiva tetap.
+Dalam neraca lajur perusahaan manufaktur terdapat rekening yang belum pernah dibahas sebelumnya, yaitu aktiva tak terwujud. Aktiva tak berwujud adalah aktiva tetap yang secara fisik tidak nyata. Contoh aktiva tak berwujud adalah hak paten dan goodwill. Aktiva tak berwujud, seperti halnya aktiva tetap, harus disusutkan. Penyusutan untuk aktiva tak berwujud disebut amortisasi (amortization). Amortisasi aktiva tak berwujud juga dapat dialokasikan ke biaya pabrik (manufacturing cost), biaya penjualan serta biaya administrasi dan umum. Ayat jurnal yang dibuat untuk mencatat dan mengalokasikan biaya amortisasi adalah sebagai berikut:
+
+Tanggal 200A Des 31
+
+No. Bukti
+
+Keterangan
+
+-
+
+Biaya amortisasi pabrik
+
+Biaya amortisasi bag. penjualan
+
+Biy. Amorts. bag. adm. & umum
+
+Aktiva tak berwujud
+
+Ref
+
+Debit
+
+Kredit
+
+510
+
+12.500
+
+616
+
+6.250
+
+626
+
+6.250
+
+140
+
+25.000
+
+Pada halaman-halaman berikut ini ditampilkan neraca lajur milik PT Surya Dunia Abadi seperti nampak dalam Tabel 1-1. Perhatikan rekening-rekening yang dipakai dan bandingkan dengan perusahaan dagang yang pernah dipelajari sebelumnya. Secara garis besar, bagan rekening yang digunakan oleh PT Surya Dunia Abadi adalah sebagai terlihat dalam Tabel 1-2.
+
+14
+
+Tabel 1-1wv PT. SURYA DUNIA ABADI
+Kertas Kerja Tahun berakhir 31 Desember 200A
+
+No Nama Perkiraan Perk
+
+110 111 112 113 114 115 116
+117 118 120 130 131 132
+133 134
+135 136
+137 138
+140 210 211 212
+
+Dana kas kecil Bank Surat-2 berharga Wesel tagih Piutang dagang Persd. bahan baku Persd. Dlm. proses Persd. barang jadi Biy.dibyr. di muka Investasi jk. Pnjng. Tanah Bangunan Akum. penyusutan bangunan Mesin-mesin Akum. penyusutan mesin-mesin Kendaran Akum. penyusutan kendaraan Peralatan Akum. penyusutan peralatan Aktiva tak berwjd. Wesel bayar Hutang dagang Kredit modal kerja Dipindahkan (subtotal)
+
+Neraca Saldo
+Debit Kredit 1.000
+67.600 25.000 20.000 187.900 197.000 15.000
+
+Jurnal Penyesuaian
+
+Neraca Saldo
+
+Laporan Beban Perhitungan Neraca
+
+Disesuaikan
+
+pokok produksi
+
+Laba Rugi
+
+Debit
+
+Kredit
+
+Debit
+
+Kredit
+
+Debit
+
+Kredit Debit Kredit Debit
+
+Kredit
+
+-
+
+-
+
+-
+
+1.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1.000
+
+-
+
+-
+
+-
+
+-
+
+67.600
+
+-
+
+-
+
+-
+
+-
+
+- 67.600
+
+-
+
+-
+
+-
+
+-
+
+25.000
+
+-
+
+-
+
+-
+
+-
+
+- 25.000
+
+-
+
+-
+
+-
+
+-
+
+20.000
+
+-
+
+-
+
+-
+
+-
+
+- 20.000
+
+-
+
+-
+
+-
+
+-
+
+187.900
+
+-
+
+-
+
+-
+
+-
+
+- 187.900
+
+-
+
+-
+
+(B) 243.000 (A) 197.000 243.000
+
+-
+
+-
+
+-
+
+-
+
+- 243.000
+
+-
+
+(D) 20.000 (C) 15.000 20.000
+
+-
+
+-
+
+-
+
+-
+
+- 20.000
+
+285.000 12.000 50.000 75.000
+150.000 -
+
+15.000
+
+(F) 257.000 (E) 285.000
+
+-
+
+-
+
+12.000
+
+-
+
+-
+
+50.000
+
+-
+
+-
+
+75.000
+
+-
+
+-
+
+150.000
+
+-
+
+-
+
+-
+
+257000 -
+15.000
+
+-
+
+-
+
+-
+
+-
+
+- 257.000
+
+-
+
+-
+
+-
+
+- 12.000
+
+-
+
+-
+
+-
+
+-
+
+- 50.000
+
+-
+
+-
+
+-
+
+-
+
+- 75.000
+
+-
+
+-
+
+-
+
+-
+
+- 150.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- 15.000
+
+750.000
+
+-
+
+-
+
+- 150.000
+
+-
+
+-
+
+750.000
+
+-
+
+-
+
+- 150.000
+
+-
+
+-
+
+-
+
+- 750.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- 150.000
+
+80.000
+
+-
+
+-
+
+- 32.000
+
+-
+
+-
+
+80.000
+
+-
+
+-
+
+- 32.000
+
+-
+
+-
+
+-
+
+- 80.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- 32.000
+
+25.000
+
+-
+
+-
+
+- 10.000
+
+-
+
+-
+
+25.000
+
+-
+
+-
+
+- 10.000
+
+-
+
+-
+
+-
+
+- 25.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- 10.000
+
+50.000 -
+1.990.500
+
+95.000 145.000 195.500 642.500
+
+520.000
+
+497.000
+
+50.000 -
+2.013.500
+
+95.000 145.000 195.500 642.500
+
+-
+
+-
+
+-
+
+- 50.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+- 95.000
+
+-
+
+-
+
+-
+
+-
+
+- 145.000
+
+-
+
+-
+
+-
+
+-
+
+- 195.500
+
+-
+
+-
+
+-
+
+- 2.013.500 642.500
+
+15
+
+16
+
+No Nama Perkiraan
+
+Neraca Saldo
+
+Jurnal
+
+Neraca Saldo
+
+Laporan Beban
+
+Perhitungan
+
+Neraca
+
+Perk
+
+Penyesuaian
+
+Disesuaikan
+
+pokok produksi
+
+Laba Rugi
+
+Debit
+
+Kredit
+
+Debit Kredit Debit
+
+Kredit Debit
+
+Kredit Debit Kredit Debit
+
+Kredit
+
+Pindahan
+
+1.990.500 642.500 520.000 497.000 2.013.500 642.500
+
+-
+
+-
+
+-
+
+- 2.013.500 642.500
+
+(subtotal)
+
+213 Hutang biaya
+
+- 45.000
+
+-
+
+-
+
+- 45.000
+
+-
+
+-
+
+-
+
+-
+
+- 45.000
+
+220 Kredit investasi
+
+- 600.000
+
+-
+
+-
+
+- 600.000
+
+-
+
+-
+
+-
+
+-
+
+- 600.000
+
+310 Saham biasa
+
+- 400.000
+
+-
+
+-
+
+- 400.000
+
+-
+
+-
+
+-
+
+-
+
+- 400.000
+
+410 Penjualan
+
+- 3.022.000
+
+-
+
+-
+
+- 3.022.000
+
+-
+
+-
+
+-
+
+-
+
+- 3.022.000
+
+500 Pembln bahan
+
+1.440.000
+
+-
+
+-
+
+- 1.440.000
+
+- 1.440.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+baku
+
+501 Biy. T.K. langsung 173.000
+
+-
+
+-
+
+- 173.000
+
+- 173.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+502 Biy bhn pembantu 150.000
+
+-
+
+-
+
+- 150.000
+
+- 150.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+503 Biy T.K tdk lngsng 140.000
+
+-
+
+-
+
+- 140.000
+
+- 140.000
+
+-
+
+-
+
+-
+
+-
+
+504 Biaya gaji-pabrik
+
+40.000
+
+-
+
+-
+
+- 40.000
+
+- 40.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+505 Biaya listrik, air,
+
+37.000
+
+-
+
+-
+
+- 37.000
+
+- 37.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+telepon pabrik
+
+506 Biy perlngkp pabrik 15.000
+
+-
+
+-
+
+- 15.000
+
+- 15.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+507 Biy pemelih&
+
+50.000
+
+-
+
+-
+
+- 50.000
+
+- 50.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+perbaikan Pabrik
+
+508 Biy asuransi pabrik 13.000
+
+-
+
+-
+
+- 13.000
+
+- 13.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+509 Biy penystn pabrik 84.500
+
+-
+
+-
+
+- 84.500
+
+- 84.500
+
+-
+
+-
+
+-
+
+-
+
+-
+
+510 Biy amorts pabrik
+
+12.500
+
+-
+
+-
+
+- 12.500
+
+- 12.500
+
+-
+
+-
+
+-
+
+-
+
+-
+
+599 Biy overhead
+
+5.000
+
+-
+
+-
+
+-
+
+2.000
+
+-
+
+5.000
+
+-
+
+-
+
+-
+
+-
+
+-
+
+pabrik lain-lain
+
+610 Gaji bag.
+
+75.000
+
+-
+
+-
+
+- 75.000
+
+-
+
+-
+
+- 75.000
+
+-
+
+-
+
+-
+
+penjualan
+
+611 Biy listrik, air dan
+
+20.000
+
+-
+
+-
+
+- 20.000
+
+-
+
+-
+
+- 20.000
+
+-
+
+-
+
+-
+
+telepon bag. Penjl.
+
+612 Biy perlengkapan
+
+25.000
+
+-
+
+-
+
+- 25.000
+
+-
+
+-
+
+- 25.000
+
+-
+
+-
+
+-
+
+bag. Penjualan
+
+613 Biy pemelih. & per- 15.000
+
+-
+
+-
+
+- 15.000
+
+-
+
+-
+
+- 15.000
+
+-
+
+-
+
+-
+
+baikan bag. Penjl.
+
+614 Biaya asuransi
+
+6.000
+
+-
+
+-
+
+-
+
+6.000
+
+-
+
+-
+
+- 6.000
+
+-
+
+-
+
+-
+
+bag. penjualan
+
+615 Biaya penyusutan
+
+9.500
+
+-
+
+-
+
+-
+
+9.500
+
+-
+
+-
+
+- 9.500
+
+-
+
+-
+
+-
+
+bag. Penjualan
+
+616 Biaya amortisasi
+
+6.250
+
+-
+
+-
+
+-
+
+6.250
+
+-
+
+-
+
+- 6.250
+
+-
+
+-
+
+-
+
+bag. penjualan
+
+Dipindahkan
+
+4.307.250 4.833.000 520.000 497.000 4.330.250 4.833.000 2.160.000
+
+- 156.750 3.022.000 2.013.500 1.811.000
+
+(subtotal)
+
+No Nama Perkiraan
+
+Neraca Saldo
+
+Jurnal Penyesuaian
+
+Neraca Saldo
+
+Laporan Beban pokok Perhitungan Laba
+
+Neraca
+
+Perk
+
+Disesuaikan
+
+produksi
+
+Rugi
+
+Debit
+
+Kredit
+
+Debit
+
+Kredit
+
+Debit
+
+Kredit
+
+Debit
+
+Kredit
+
+Debit
+
+Kredit
+
+Debit
+
+Kredit
+
+Pindahan (subtotal) 4.307.250 4.833.000 520.000 497.000 4.330.250 4.833.000 2.160.000
+
+- 156.750 3.022.000 2.013.500 1.811.000
+
+617 Biy iklan & promosi 200.000
+
+-
+
+-
+
+- 200.000
+
+-
+
+-
+
+- 200.000
+
+-
+
+-
+
+-
+
+618 Biy pengiriman
+
+60.000
+
+-
+
+-
+
+- 60.000
+
+-
+
+-
+
+- 60.000
+
+-
+
+-
+
+-
+
+619 Biy penjln lain-lain
+
+4.250
+
+-
+
+-
+
+-
+
+4.250
+
+-
+
+-
+
+-
+
+4.250
+
+-
+
+-
+
+-
+
+620 Gaji bag.adm.&
+
+90.000
+
+-
+
+-
+
+- 90.000
+
+-
+
+-
+
+- 90.000
+
+-
+
+-
+
+-
+
+um.
+
+621 Biy listrik, air & telp 15.000
+
+-
+
+-
+
+- 15.000
+
+-
+
+-
+
+- 15.000
+
+-
+
+-
+
+-
+
+bag. adm. & umum
+
+622 Biy prlngkpn bag.
+
+8.000
+
+-
+
+-
+
+-
+
+8.000
+
+-
+
+-
+
+-
+
+8.000
+
+-
+
+-
+
+-
+
+Adm.& umum
+
+623 Biy pemelih.& prba- 10.000
+
+-
+
+-
+
+- 10.000
+
+-
+
+-
+
+- 10.000
+
+-
+
+-
+
+-
+
+ikn bag.adm.&um.
+
+624 Biy asuransi bag.
+
+3.000
+
+-
+
+-
+
+-
+
+3.000
+
+-
+
+-
+
+-
+
+3.000
+
+-
+
+-
+
+-
+
+adm & umum
+
+625 Biy penystn bag.
+
+9.500
+
+-
+
+-
+
+-
+
+6.500
+
+-
+
+-
+
+-
+
+9.500
+
+-
+
+-
+
+-
+
+adm & umum
+
+626 Biy. amort bag.
+
+6.250
+
+-
+
+-
+
+-
+
+6.250
+
+-
+
+-
+
+-
+
+6.250
+
+-
+
+-
+
+-
+
+adm & umum
+
+628 Biy. adm & umum
+
+6.560
+
+-
+
+-
+
+-
+
+6.560
+
+-
+
+-
+
+-
+
+6.560
+
+-
+
+-
+
+-
+
+lain-lain
+
+631 Biaya bunga
+
+113.190
+
+-
+
+-
+
+- 113.190
+
+-
+
+-
+
+- 113.190
+
+-
+
+-
+
+-
+
+4.833.000 4.833.000
+
+421 Ikhtisar beban pokok produksi
+
+-
+
+-
+
+(A) 197.000
+
+(B) 243.000 197.000 243.000 197.000 243.000
+
+-
+
+-
+
+(C) 15.000
+
+(D) 20.000 15.000 20.000 15.000 20.000
+
+422 Ikhtisar Laba Rugi
+
+-
+
+-
+
+(E) 285.000
+
+(F) 257.000 285.000 257.000
+
+-
+
+- 285.00 257.000
+
+1.017.000 1.017.000 5.353.000 5.353.000 2.372.000 263.000
+
+-
+
+-
+
+-
+
+-
+
+Harga pokok prod.
+
+- 2.109.000 2.109.000
+
+-
+
+-
+
+-
+
+Laba bersih
+
+2.372.000 2.372.000 3.076.500 3.279.000 2.013.500 1.811.000
+
+- 202.500
+
+-
+
+- 202.500
+
+3.279.000 3.279.000 2.013.500 2.013.500
+
+17
+
+Tabel 1-2 Bagan Rekening
+PT. SURYA DUNIA ABADI
+
+1xx
+
+Aktiva
+
+2xx
+
+Kewajiban
+
+11x
+
+Aktiva lancar
+
+21x
+
+Kewajiban Lancar
+
+12x
+
+Investasi jangka panjang
+
+22x
+
+Kewajiban jangka panjang
+
+13x
+
+Aktiva tetap
+
+14x
+
+Aktiva tak berwujud
+
+3xx
+
+Modal
+
+5xx
+
+Biaya Pabrik
+
+4xx
+
+6xx
+
+Biaya usaha
+
+41x
+
+61x
+
+Biaya penjualan
+
+42x
+
+62x
+
+Biaya administrasi dan umum
+
+43x
+
+63x
+
+Biaya lain-lain
+
+Pendapatan dan Beban pokok penjualan Penjualan
+Beban pokok penjualan Pendapatan lain-lain
+
+Rekening persediaan terdiri dari tiga macam, yakni persediaan bahan baku, persediaan dalam proses dan persediaan barang jadi. Sementara itu, dalam kelompok aktiva tetap terdapat rekening mesin-mesin dengan akumulasi penyusutannya. Rekening mesin-mesin digunakan untuk mencatat harga perolehan mesin-mesin pabrik yang digunakan dalam proses produksi. Kelompok rekening aktiva tak berwujud digunakan untuk mencatat nilai buku aktiva tak berwujud yang dimiliki perusahaan.
+Dalam perusahaan pabrik terdapat kelompok biaya tambahan, yakni biaya pabrik. Seperti telah dijelaskan, kelompok ini untuk menampung biaya-biaya yang terjadi di pabrik. Biaya-biaya tersebut merupakan bagian dari beban pokok produksi. Biaya usaha dibagi dalam kelompok-kelompok: (a) biaya penjualan: (b) biaya administrasi dan umum dan; (c) biaya lain-lain. Pengelompokan biaya berdasarkan atas bagian atau fungsi di mana biaya tersebut harus dibebankan. Biaya-biaya penjualan adalah biaya-biaya yang dibebankan/terjadi pada bagian atau fungsi penjualan dan pemasaran. Biaya administrasi dan umum adalah biaya-biaya untuk kegiatan umum perusahaan. Jika ternyata ada sejumlah biaya yang bermanfaat untuk lebih dari satu bagian/fungsi, maka biaya yang bersangkutan perlu dialokasikan.
+Dibandingkan dengan neraca lajur perusahaan dagang, ada satu kolom tambahan dalam neraca lajur perusahaan pabrik. Kolom itu ialah Laporan Beban pokok produksi. Angka-angka dalam neraca saldo disesuaikan, yang diperlukan untuk menghitung harga pokok barang yang selesai diproduksi, dipindahkan ke kolom ini. Angka-angka dalam kolom itu merupakan dasar untuk menyusun laporan beban pokok produksi.
+
+18
+
+Jurnal Penyesuaian
+Ayat jurnal penyesuaian dalam neraca lajur Tabel 1-1 sudah sangat disederhanakan. Beberapa ayat jurnal penyesuaian yang dibuat dalam perusahaan dagang tidak muncul lagi. Ini memang dirupiahgaja, agar dapat dengan mudah dibedakan dengan yang telah dibahas sebelumnya. Pada dasarnya, perbedaan dengan perusahaan dagang adalah ayat jurnal penyesuaian untuk persediaan bahan baku dan persediaan dalam proses. Rekening-rekening ini tidak ada pada perusahaan dagang.
+Ayat jurnal penyesuaian yang perlu dibuat untuk persediaan bahan baku adalah sebagai berikut:
+
+Tanggal
+200A Des 31
+
+Nomor Bukti
+-
+
+Keterangan
+(A) Ikhtisar beban pokok produksi
+Persediaan bahan baku
+
+Ref
+
+Debit
+
+Kredit
+
+421
+
+197.000
+
+115
+
+197.000
+
+(B) Persediaan bahan baku
+Ikhtisar beban pokok produksi
+
+115
+
+243.000
+
+421
+
+243.000
+
+Ayat jurnal penyesuaian (A) berhubungan dengan persediaan awal bahan baku. Jumlah yang tercantum di neraca saldo merupakan saldo awal rekening tersebut. Jadi, jurnal penyesuaian perlu dibuat untuk membebankan saldo awal untuk mengganti saldo rekening bahan baku dengan jumlah yang ada pada akhir periode. Dengan ayat jurnal penyesuaian tersebut, dapat dihitung jumlah pemakaian bahan baku. Perhatikan adanya rekening ikhtisar beban pokok produksi. Rekening ini, seperti halnya ikhtisar Laba Rugi, digunakan untuk menutup rekening-rekening biaya pabrik, pembelian bahan baku serta persediaan bahan baku dan persediaan dalam proses. Dari rekening ini dapat dihitung beban pokok produksi.
+Hal yang sama dilakukan terhadap persediaan dalam proses. Ayat jurnal penyesuaian yang perlu dibuat adalah sebagai berikut:
+
+19
+
+Tanggal
+200A Des 31
+
+Nomor Bukti
+-
+
+Keterangan
+(C) Ikhtisar beban pokok produksi
+Persediaan dalam proses
+
+(D) Persediaan dalam proses
+Ikhtisar beban pokok produksi
+
+Ref
+
+Debit
+
+Kredit
+
+421
+
+15.000
+
+116
+
+15.000
+
+116
+
+20.000
+
+421
+
+20.000
+
+Ayat jurnal penyesuaian yang dibuat untuk persediaan barang jadi tidak berbeda dengan yang telah dibahas dalam perusahaan dagang. Yaitu, yang berhubungan dengan jurnal penyesuaian untuk persediaan barang dagang. Ayat jurnal penyesuaian ini membebankan saldo awal persediaan barang jadi ke beban pokok penjualan, sekaligus mengganti saldonya dengan nilai persediaan akhir. Perhatikan ayat jurnal penyesuaian berikut:
+
+Tanggal
+200A Des 31
+
+N o m o r Keterangan
+
+Bukti
+
+(E)
+
+-
+
+Ikhtisar Laba Rugi
+
+Persediaan barang jadi
+
+Ref Debit
+
+Kredit
+
+422 285.000
+
+117
+
+285.000
+
+(F) Persediaan barang jadi
+Ikhtisar Laba Rugi
+
+117 257.000
+
+422
+
+257.000
+
+Laporan Keuangan
+Dalam neraca lajur perusahaan pabrik terdapat satu kolom tambahan. Yaitu, laporan beban pokok produksi. Angka-angka dalam kolom ini merupakan dasar untuk menyusun laporan beban pokok produksi. Total debit dan kredit kolom ini adalah Rp 2.372.000 dan Rp263.000. Selisih kedua angka tersebut (Rp 2.109.000) merupakan beban pokok produksi. Jumlah ini dipindahkan ke kolom perhitungan Laba Rugi untuk menghitung beban pokok penjualan. Prosedur penyelesaian neraca lajur selanjutnya tidak berbeda dengan perusahaan dagang.
+
+20
+
+Laporan Beban pokok produksi
+Ini adalah laporan tentang kegiatan peruahaan manufaktur. Khususnya tentang beban pokok produksi barang. Laporan beban pokok produksi PT. SURYA DUNIA ABADI dalam dilihat dalam Tabel 1-3. Perhatikan hubungan antara laporan beban pokok produksi dengan perhitungan Laba Rugi. Terlihat bahwa beban pokok produksi merupakan bagian dari beban pokok penjualan.
+Perhitungan Laba Rugi
+Penyusunan perhitungan Laba Rugi dari neraca lajur tidak berbeda dengan perusahaan dagang. Perbedaannya terletak pada beban pokok penjualan. Dalam perusahaan dagang, beban pokok penjualan dihitung sebagai persediaan awal ditambah pembelian barang dagang dikurangi persediaan akhir. Untuk perusahaan pabrik, pos pembelian barang dagang diganti dengan beban pokok produksi. Memang, dalam perusahaan pabrik barang yang dijual tidak berasal dari pembelian, tapi dari proses produksi sendiri.
+Untuk jelasnya secara garis besar di bawah ini dapat dilihat perbedaan antara perusahaan dagang dan perusahaan manufaktur.
+
+Perusahaan Dagang
+
+Perusahaan Manufaktur
+
+1. Barang yang akan dijual berasal dari 2. Laporan Keuangan untuk Laba-Rugi dalam pembelian Barang yang akan dijual perhitungan Harga Pokok Penjualan adalah berasal dari memproses barang melalui sebagai berikut: proses produksi tertentu (mengolah bahan baku menjadi barang jadi )
+
+Persediaan awal Barang
+
+dagangan xx Pembelian xx
+
++ B.T.U. Dijual
+
+xx
+
+Persediaan akhir
+
+Barang dagangan (xx)
+
+B. Pokok Penjln
+
+xx
+
+Persediaan awal
+
+barang jadi
+
+xx
+
+Beban pokok produksi xx +
+
+B.T.U. Dijual
+
+xx
+
+Persediaan akhir
+
+Barang jadi
+
+(xx)
+
+B. Pokok Penjln
+
+xx
+
+21
+
+Tabel 1-3 PT. SURYA DUNIA ABADI Laporan Beban pokok produksi Tahun berakhir 31 Desember 200A
+
+Pemakaian bahan baku Persediaan bahan baku, 1 Januari 200A Pembelian bahan baku
+
+Persediaan bahan baku tersedia untuk produksi Persediaan bahan baku, 31 Desember 200A
+
+Total Pemakaian Bahan Baku Biaya tenga kerja langsung
+
+Biaya overhead pabrik: Biaya bahan pembantu Biaya tenga keja tidak langsung Biaya gaji-pabrik Biaya listrik, air, telepon ­ pabrik Biaya perlengkapan ­ pabrik Biaya pemeliharaan & perbaikan ­ pabrik Biaya asuransi ­ pabrik Biaya penyusutan ­ pabrik Biaya amortisasi ­ pabrik Biaya overhead pabrik lain-lain
+
+Rp 150.000 140.000 40.000 37.000 15.000 50.000 13.000 84.500 12.500 5.000
+
+Total Biaya Pabrik Persediaan dalam proses, 1 Januari 200A
+
+Total Biaya Produksi Persediaan dalam proses, 31 Desember 200A
+
+Beban pokok produksi
+
+Rp 197.000 1.440.000
+Rp 1.637.000 ( 243.000)
+Rp 1.394.000 173.000
+
+547.000
+
+Rp 2.114.000 15.000
+
+Rp 2.129.000
+
+(
+
+20.000)
+
+Rp 2.109.000
+
+Perhatikan Laporan Laba Rugi PT. SURYA DUNIA ABADI yang terlihat dalam Tabel 1.4 pada halaman berikut.
+
+22
+
+Tabel 1-4 PT. SURYA DUNIA ABADI Perhitungan Laba Rugi Tahun berakhir 31 Desember 200A
+
+Penjualan (netto)
+
+Rp
+
+3.022.000
+
+Beban pokok penjualan:
+
+Persediaan barang jadi, 1 Januari 200A
+
+Rp
+
+285.000
+
+Beban pokok produksi
+
+2.109.000
+
+Persediaan barang jadi tersedia dijual
+
+Rp
+
+2.394.000
+
+Persediaan barang jadi, 31 Desember 200A
+
+(
+
+257.000)
+
+Beban pokok penjualan
+
+(
+
+Laba bruto
+
+Rp
+
+Biaya usaha:
+
+Biaya penjualan:
+
+Biaya gaji ­ bagian penjualan
+
+Rp
+
+75.000
+
+Biaya listrik, air telepon ­ bagian penjualan
+
+20.000
+
+Biaya perlengkapan ­ bagian penjualan
+
+25.000
+
+Biaya pemeliharaan & perbaikan ­ bagian penjualan
+
+15.000
+
+Biaya asuransi ­ bagian penjualan
+
+6.000
+
+Biaya penyusutan ­ bagian penjualan
+
+9.500
+
+Biaya amortisasi ­ bagian penjualan
+
+6.250
+
+Biaya iklan dan promosi
+
+200.000
+
+Biaya pengiriman
+
+60.000
+
+Biaya penjualan lain-lain
+
+4.250
+
+2.137.000) 885.000
+421.000
+
+Biaya administrasi dan umum:
+
+Biaya gaji ­ bag. adm. & umum
+
+Rp
+
+Biaya listrik, air, telepon ­ bag. adm. & umum
+
+Biaya perlengkapan ­ bag. adm. & umum
+
+Biaya pemelih. & perbaikan­bag. adm. & umum
+
+Biaya asuransi ­ bag. adm. & umum
+
+Biaya penyusutan ­ bag. adm. & umum
+
+Biaya amortisasi ­ bag. adm. & umum
+
+Biaya adm. & umum lain-lain
+
+90.000 15.000
+8.000 10.000
+3.000 9.500 6.250 6.560
+
+148.310
+
+Laba usaha Biaya lain-lain (bunga) Laba bersih
+
+Rp 315.690
+
+(
+
+113.190)
+
+Rp 202.500
+
+Neraca
+
+Penyusunan neraca yang benar tidak berbeda dengan yang telah dibahas sebelumnya. Karena itu Neraca PT. SURYA DUNIA ABADI, tidak disajikan di sini, demikian juga dengan laporan perubahan saldo labanya.
+
+23
+
+Jurnal Penutup
+Jurnal penutup yang harus dibuat untuk perusahaan manufaktur tidak berbeda dengan perusahaan dagang yang telah dibahas sebelumnya. Tetapi, termasuk dalam jurnal penutup perusahaan manufaktur adalah penutupan atas rekening-rekening yang berhubungan dengan kegiatan produksi. Perhatikan ayat jurnal penutup di bawah ini:
+
+Tanggal 200A Des 31
+507 50.000
+
+Nomor Bukti
+
+Keterangan
+
+-
+
+Ikhtisar beban pokok produksi
+
+Pembelian bahan baku
+
+Biaya tenaga kerja langsung
+
+Biaya bahan pembantu
+
+Biaya tenaga kerja tidak langsung
+
+Biaya gaji-pabrik
+
+Biaya listrik, air, telepon pabrik
+
+Biaya perlengkapan pabrik
+
+Biaya pemeliharaan & perbaikan
+
+pabrik
+
+Biaya asuransi-pabrik Biaya penyusutan-pabrik Biaya amortisasi-pabrik Biaya overhead pabrik lain-lain
+
+Ref
+
+Debit
+
+Kredit
+
+421 2.160.000
+
+500
+
+1.440.000
+
+501
+
+173.000
+
+502
+
+150.000
+
+503
+
+140.000
+
+504
+
+40.000
+
+505
+
+37.000
+
+506
+
+15.000
+
+508
+
+13.000
+
+509
+
+84.500
+
+510
+
+12.500
+
+599
+
+5.000
+
+Setelah ayat jurnal penutup tersebut, rekening-rekening biaya pabrik akan bersaldo nol. Sementara itu, Rekening Ikhtisar Beban pokok produksi, setelah jurnal penutup di atas, nampak seperti di bawah ini:
+
+Nama Rekening: Ikhtisar Beban pokok produksi
+
+Tgl.
+
+Keterangan
+
+200A Des 31
+
+Penyesn persd. bhn baku aw. Penyesn persd. Bh.baku akh. Penyesn. persd. BDP awal Penyesn. Persd. BDP akhir Penutupan biaya pabrik
+
+Ref
+JU 11 JU 11 JU 11 JU 11 JU 11
+
+Nomor Perk: 421
+
+D
+197.000 15.000
+2.160.000
+
+K
+
+Saldo
+
+D
+
+K
+
+243.000
+
+197.000
+
+20.000
+
+2.109.000
+
+46.000 31.000 51.000
+
+24
+
+Saldo debit Rekening Ikhtisar Harga Produksi sebesar Rp2.109.000 merupakan harga pokok barang selesai diproduksi. Jumlah ini kemudian ditutup ke Rekening Ikhtisar Laba Rugi. Ayat jurnal penutup yang dibuat adalah:
+
+Tanggal
+199A Des 31
+
+Nomor Bukti
+
+Keterangan
+
+-
+
+Ikhtisar Laba Rugi
+
+Ikhtisar beban pokok produksi
+
+Ref
+
+Debit
+
+Kredit
+
+422 2.109.000
+
+421
+
+2.109.000
+
+Setelah ayat jurnal penutup ini rekening Ikhtisar Beban pokok produksi akan bersaldo nol. Jurnal penutup rekening- rekening penjualan, biaya penjualan serta biaya administrasi & umum ke Perkiraan Ikhtisar Laba Rugi tidak dibahas dalam bab ini. Demikian juga jurnal penutup saldo perkiraan Ikhtisar Laba Rugi ke Rekening Saldo laba. Semua jurnal penutup di atas tidak berbeda dengan yang telah dibahas dalam perusahaan dagang.
+
+Neraca Saldo Penutup dan Jurnal Balik
+
+Pembuatan neraca saldo penutup dan jurnal balik tidak dibahas dalam bab ini, oleh karena tidak berbeda dengan perusahaan dagang yang telah dibahas sebelumnya.
+ISTILAH BARU (Glosari)
+
+Akuntansi biaya (cost accounting): bidang akuntansi yang berhubungan dengan penetapan beban pokok produksi dalam sebuah perusahaan pabrik/manufaktur (sekarang ini ruang lingkup akuntansi biaya diakui tidak hanya terbatas pada penetapan beban pokok produksi saja, tetapi juga mencakup perencanaan dan pengendalian).
+
+Bahan baku (raw materials): bahan-bahan yang dipakai dalam proses produksi yang dapat dengan mudah dan langsung diidentifikasikan dengan barang jadi yang dihasilkan.
+
+Bahan pembantu (indirect materials): bahan-bahan yang dipakai dalam proses produksi, tetapi tidak dapat diidentifikasikan secara langsung dengan barang jadi yang dihasilkan.
+
+Bahan jadi (finished goods): barang yang telah selesai diproduksi tetapi belum dijual. Biaya yang tercakup di dalamnya meliputi seluruh biaya pabrik.
+
+25
+
+Biaya pabrik (manufacturing cost): biaya bahan baku, buruh langsung dan biaya pabrikase yang dibebankan dalam suatu periode. Biaya overhead prabik (factory overhead cost): biaya-biaya pabrik selain bahan baku dan barang langsung yang tidak dapat diidentifikasikan secara langsung dengan barang jadi yang dihasilkan. Biaya produksi (production cost): Biaya yang dibebankan dalam proses produksi selama suatu periode. Biaya ini terdiri dari persediaan dalam proses awal ditambah biaya pabrik. Tenaga kerja langsung (direct labor): buruh yang mengenai secara langsung proses produksi atau yang dapat diidentifikasikan langsung dengan barang jadi yang dihasilkan. Tenaga kerja tidak langsung (indirect labor): barang yang biayanya tidak dapat diidentifikasikan secara langsung dengan barang yang dihasilkan. Beban pokok produksi (cost of goods manufactured): biaya pabrik ditambah dengan persediaan dalam proses awal dikurangi dengan persediaan dalam proses awal dikurangi dengan persediaan dalam proses akhir. Biaya ini merupakan biaya produksi dari barang yang telah diselesaikan selama suatu periode. Persediaan dalam proses (work in process): Biaya bahan baku dan biaya-biaya pabrik lain yang telah terjadi untuk memproduksi barang yang belum selesai.
+26
+
+Laporan beban pokok produksi (cost of goods manufactured statements): Laporan harga pokok produksi selama suatu periode.
+MENGHITUNG BEBAN POKOK PRODUKSI DAN BEBAN POKOK PENJUALAN
+Tiga Jenis Persediaaan pada Perusahaan Manufaktur/Pabrik
+Saudara telah mempelajari bahwa biaya pabrik suatu perusahaan dapat diklasifikasi menjadi tiga kategori umum: (1) bahan baku (bahan dan penolong yang langsung dipergunakan dalam memproduksi/ pembuatan produk); (2) tenaga kerja langsung (tenaga kerja yang berkaitan langsung dengan pembuatan produk, sebagai lawan pengawas dan tenaga kerja tidak langsung), dan (3) overhead pabrik (semua biaya pabrik lainnya kecuali biaya bahan baku langsung dan tenaga kerja langsung). Ketiga unsur biaya pabrik ini dikumpulkan dalam perkiraan persediaan pada laporan keuangan perusahaan. Neraca perusahaan manufaktur / pabrik biasanya melaporkan ketiga persediaan tersebut:
+1. Persediaan bahan baku. Ini menunjukkan harga perolehan bahan baku dan penolong yang masih terdapat dalam persediaan pada tanggal neraca. Bahan baku ini belum dipergunakan untuk membuat produk yang dihasilkan perusahaan.
+2. Barang dalam proses/pengerjaan. Ini menunjukkan biaya yang terjadi dalam pembuatan barang yang masih belum selesai pada tanggal neraca. Misalnya, sebuah perusahaan mungkin memiliki 1.000 unit produk yang masih dalam proses pembuatan pada tanggal neraca. Produk ini akan diselesaikan dalam periode berikutnya. Persediaan barang dalam proses biasanya mencakup ketiga unsur biaya ­ bahan baku, tenaga kerja langsung, dan overhead pabrik.
+3. Persediaan barang jadi. Ini merupakan total biaya yang terjadi untuk menghasilkan unit produk yang telah selesai tapi belum terjual pada tanggal neraca. Persediaan barang jadi biasanya mencakup ketiga unsur biaya ­ bahan baku, tenaga kerja langsung, dan overhead pabrik.
+Dengan demikian, sebuah pabrik harus mempunyai pesediaan untuk tiga jenis yang berlainan dan bukannya perkiraan persediaan seperti pada perusahaan dagang.
+27
+
+Tiga Sistem Akuntansi Perusahaan Manufaktur/ Pabrik
+Tiga sistem yang populer untuk membukukan dan melaporkan persediaan dan proses pembuatan adalah:
+1. Sistem periodik. 2. Sistem job order cost (biaya pesanan), yang menggunakan metode perpetual. 3. Sistem process cost (biaya proses), yang juga menggunakan metode perpetual.
+Pada bagian ini selanjutnya akan menguraikan sistem job order dan sistem biaya proses. Unit ini menguraikan metode periodik untuk melaporkan operasi pabrik.
+Dalam sistem periodik, harga perolehan pesediaan ditentukan oleh suatu daftar terinci barang persediaan yang masih ada pada saat penutupan periode akuntansi. Kalau suatu persediaan hanya dapat ditentukan dengan melakukan perhitungan secara fisik dalam suatu jangka waktu tertentu, sistem tersebut dikenal sebagai sistem periodik. Dalam metode periodik untuk melaporkan pesediaan, pada akhir setiap peiode operasi perhitungan persediaan secara fisik harus dilakukan atas bahan baku, barang dalam proses pengerjaan, dan barang jadi. Kemudian, juga pada akhir masa pembukuan, perhitungan juga dilakukan untuk harga barang yang dibuat, dan kemudian untuk harga pokok barang yang dijual. Biaya yang belakangan, seperti saudara ketahui, adalah data yang diperlukan untuk pembuatan ikhtisar Laba Rugi. Marilah pertama kali kita membahas laporan pabrikasi sebuah perusahaan, yang sebenarnya merupakan suatu laporan terinci mengenai rincian biaya barang yang dihasilkan.
+Perhitungan Beban pokok produksi
+Di bawah ini menunjukkan tiga laporan Bintang Dunia Manufacturing Corporation (disajikan dalam angka ribuan rupiah) yang sangat bermanfaat bagi manajemennya. Marilah kita mulai pelajaran kita mengenai Sistem Periodik dengan memperhatikan rincian Laporan Pabrikasi perusahaan tersebut untuk tahun yang berakhir 31 Desember 200A. Laporan khusus ini dipergunakan terutama oleh manajemen. Laporan ini melaporkan biaya yang terjadi di pabrik untuk menghasilkan produk perusahaan dalam suatu jangka waktu tertentu.
+Item pertama yang terdapat pada laporan tersebut adalah persediaan awal barang dalam proses. Rp 18,000 merupakan total biaya yang tertanam dalam barang dalam proses pada tanggal 1 Januari 200A. Ini berarti bahwa total biaya Rp 18,000 tersebut adalah untuk bahan baku, tenaga kerja langsung, dan untuk overhead pabrik yang sudah dikeluarkan selama tahun yang lalu untuk menyelesaikan barang pada tanggal
+28
+
+1 Januari 200A. Barang ini harus diselesaikan dalam tahun 200A dan biaya lain harus ditambahkan untuk menyelesaikannya. Juga, barang tambahan baru mungkin dimasukkan dalam proses dan diselesaikan selama tahun 200A.
+Pembukuan dibuat untuk mengumpulkan biaya dari ketiga unsur biaya pabrik. Perhatikan bahwa pada tanggal 1 Januari 200A terdapat persediaan bahan baku senilai Rp 20,000. Pembelian bahan baku tambahan selama 200A berjumlah Rp 171,000. Menurut sistem periodik, sebuah perkiraan terpisah, Pembelian Bahan Baku, biasanya dipergunakan untuk membukukan pembelian ini. Bahan baku dengan total biaya sebesar Rp 191,000 tersedia untuk dipakai selama tahun 200A. Dengan melakukan penghitungan secara fisik atas bahan baku pada tanggal 31 Desember 200A, manajemen menentukan bahwa Rp119,000 dari persediaan bahan baku ini masih ada dalam pesediaan dan belum dipergunakan pada akhir tahun. Dengan demikian biaya bahan baku yang sebenarnya dipakai dalam produksi berjumlah Rp72,000.
+Suatu perkiraan tertentu diadakan untuk mencatat biaya tenaga kerja. Selama tahun tersebut Rp 50,000 biaya tenaga kerja langsung dikeluarkan. Begitu juga, sebuah perkiraan buku besar untuk biaya overhead pabrik mengumpulkan berbagai kategori biaya overhead. Perkiraan ini dapat juga dibuatkan skedul perkiraan pembantu tersendiri untuk overhead pabrik, yang dibuat untuk memberikan rincian biaya overhead agar dapat mengendalikan berbagai jenis biaya overhead. Selama tahun 200A biaya overhead pabrik yang terjadi berjumlah Rp30,000.
+29
+
+LAPORAN DAN SKEDUL SEBUAH PABRIK (Metode Periodik Dalam Pembukuan Persedian)
+
+Bintang Dunia Manufacturing Corporation LAPORAN BEBAN POKOK PRODUKSI
+Untuk Tahun yang Berakhir 31 Desember 200A (dalam 000)
+
+Barang dalam proses, 1 Januari 200A
+
+Biaya Pembuatan selama tahun 200A
+
+Bahan baku yang dipergunakan
+
+Bahan baku 1 Januari 200A
+
+Rp 20,000
+
+Pembelian bahan baku
+
+171,000
+
+Bahan baku yang tersedia untuk dipakai
+
+Rp 191,000
+
+Dikurangi persediaan bahan baku 31 Desember 200A 119,000
+
+Bahan baku yang dipakai dalam proses produksi
+
+Biaya tenaga kerja langsung
+
+Biaya overhead pabrik;
+
+Tenaga kerja tidak langsung
+
+Rp 16,000
+
+Listrik
+
+1,000
+
+Utilitas lain-lain
+
+400
+
+Penghapusan atas mesin dan pabrik
+
+10,000
+
+Bahan pembantu yang dipergunakan
+
+600
+
+Assuransi pabrik
+
+1,000
+
+Overhead pabrik lainnya
+
+1,000
+
+Total biaya produksi
+
+Total persediaan awal barang dalam proses
+
+ditambah biaya pembuatan yang terjadi dalam setahun
+
+Dikurangi barang dalam proses 31 Desember 200A
+
+Rp 18,000
+Rp 72,000 50,000
+Rp 30,000 Rp 170,000
+25,000
+
+Beban pokok produksi yang tahun 200A
+
+Rp 145,000
+
+Bintang Dunia Manufacturing Corporation LAPORAN BEBAN POKOK PENJUALAN
+Untuk Tahun yang Berakhir 31 Desember 200A (dalam 000)
+
+Persediaan barang jadi 1 Januari 200A Harga pokok barang yang dibuat dalam tahun 200A
+Total harga pokok barang yang siap untuk dijual Dikurangi persediaan barang jadi 31 Desember 200A
+
+Rp 21,000 145,000
+Rp 166,000 53,000
+
+Beban pokok penjualan/barang yang dijual
+
+Rp 113,000
+
+30
+
+Bintang Dunia Manufacturing Corporation LAPORAN LABA RUGI
+Untuk Tahun yang Berakhir 31 Desember 200A (dalam 000)
+
+Pendapatan Penjualan netto Pendapatan lain-lain Total pendapatan
+Biaya Beban pokok penjualan Biaya penjualan Biaya umum dan administrasi Total biaya
+Laba bersih Laba bersih per lembar saham
+
+Rp 200,000 20,000
+Rp 220,000
+Rp 113,000 40,000 10,000
+Rp 163,000 Rp 57,000 Rp 2,85
+
+Ketiga unsur biaya yang terjadi dalam tahun 200A berjumlah Rp152,000. Ingatlah bahwa Rp 152,000 ini dipergunakan untuk melakukan dua hal: (1) sebagian biaya ini dipergunakan untuk menyelesaikan persediaan awal barang dalam proses produksi, dan (2) sisa lainnya dipergunakan untuk memulai dan menyelesaikan barang baru dan untuk memulai barang lainnya.
+
+Untuk menyelesaikan laporan pabrikasi perusahaan harus melakukan perhitungan fisik atas persediaan yang masih dalam proses pada 31 Desember 200A. Persediaan ini menunjukkan bahwa sebagian barang masih berada dalam proses, dengan total biaya sebesar Rp 25,000. Persediaan akhri barang dalam proses ini dikurangkan dari penjumlahan persediaan awal barang dalam proses dan penambahan biaya pabrikasi selama setahun untuk memperoleh harga pokok barang yang dibuat selama 200A. Perhatikan bahwa kalau barang dalam proses selesai dikerjakan, barang itu akan menjadi barang jadi.
+
+Perhitungan Beban pokok penjualan
+
+Selanjutnya perhatikanlah skedul beban pokok penjualan. Perhitungan ini dimulai dengan persediaan awal barang jadi pada tanggal 1 Januari 200A Rp 21,000. Perusahaan mengetahui dari laporan pabrikasi bahwa barang jadi seharga Rp 145,000 telah dibuat selama 200A. Kalau kedua ini ditambahkan maka harga pokok barang yang tersedia untuk dijual akan berjumlah Rp 166,000. Perhitungan barang jadi secara fisik pada tanggal 31 Desember menunjukkan persediaan barang jadi berjumlah Rp53,000. Dengan mengurangkan jumlah ini dari harga barng yang tesedia untuk dijual maka akan diperoleh harga pokok barang yang dijual sebesar Rp 113,000. Angka ini dimasukkan pada ikhtisar Laba Rugi sebagai biaya tahun 200A.
+
+31
+
+Perusahaan manufaktur yang menggunakan metode periodik untuk membukukan operasi pabriknya mempunyai sejumlah prosedur akhir periode yang sama dengan yang saudara pelajari untuk perusahaan dagang.
+RINGKASAN:
+Komponen Beban pokok produksi adalah: 1. Bahan Langsung ( direct material ) 2. Tenaga Kerja Langsung ( direct labor ) 3. Biaya produksi Tak Langsung /Biaya overhead pabrik (Overhead)
+PROSEDUR AKUNTANSI BIAYA (COST ACCOUNTING PROCEDURE)
+Aliran biaya dalam proses produksi (Flow of Manufacturing Cost)
+1. Pencatatan biaya pembelian bahan baku sebagai bahan untuk diproses lebih lanjut, dan disimpan di gudang sebagai persediaan bahan baku
+2. Pemrosesan/pengolahan bahan baku langsung dikombinasikan dengan upah langsung dan overhead pabrik sampai tahap di mana bahan baku tersebut menjadi barang dalam proses (Work in Process)
+3. Mengubah barang dalam proses menjadi barang jadi (Finished Goods) kemudian memindahkan Finished Goods ke gedung sebagai persediaan barang jadi yang akan dijual.
+4. Pemindahan Beban pokok penjualan (Cost of Goods Sold) dari Barang jadi.
+Aliran biaya dalam proses produksi dapat ditunjukkan dalam bentuk akun T sebagaimana nampak pada ilustrasi berikut:
+
+Bahan baku
+BB langsung BB tidak langsung
+Tenaga kerja TK langsung TK tidak langsung
+Overhead
+
+Barang dalam proses Barang jadi HPP/CGS
+
+32
+
+ISTILAH BARU (Glosari)
+Cost of goods sold computation ­ perhitungan beban pokok penjualan. Dalam sebuah perusahaan manufaktur, beban pokok penjualan dihitung sebagai berikut: persediaan awal barang jadi ditambah barang yang dibuat dalam setahun (menurut laporan pabrikasi) dikurangi dengan persediaan akhir barang jadi; juga dinamakan skedul beban pokok penjualan.
+Finished goods inventory ­ persediaan barang jadi. Sebuah asset lancar yang terdiri atas biaya yang terjadi dalam pembuatan produk perusahaan (mencakup bahan baku, biaya tenaga kerja langsung, dan biaya overhead pabrik); persediaan barang jadi terdiri dari produk yang telah siap, tapi belum lagi dijual pada tanggal neraca.
+Manufacturing statement ­ laporan pabrikasi. Sebuah laporan untuk manajemen yang menunjukkan harga pokok barang yang dibuat selama periode tersebut; persediaa awal barang dalam proses ditambah biaya pembuatan (bahan baku, tenaga kerja langsung, dan overhead) dikurangi dengan persediaan akhir persediaan dalam proses sama dengan harga pokok barang yang dihasilkan dalam periode tersebut.
+Raw material inventory ­ persediaan bahan baku. Suatu asset lancar yang terdiri dari bahan baku dan penolong yang dipergunakan dalam pembuatan produk perusahaan.
+Schedule of factory overhead. Suatu laporan yang berisi semua perkiraan overhead pabrik yang terdapat pada buku pembantu overhead pabrik dengan saldonya; total saldo dari perkiraan ini harus cocok dengan saldo perkiraan overhead pabrik.
+Work in process inventory ­ persediaan barang dalam proses. Asset lancar yang terdiri dari biaya bahan baku, tenaga kerja langsung, dan biaya overhead pabrik yang terjadi dalam pembuatan produk yang masih belum selesai pada tanggal neraca; juga dinamakan persediaan barang dalam proses.
+33
+
+Pertanyaan
+
+Tugas
+
+1. Sebutkan jenis biaya pabrik yang tercakup dalam beban pokok produksi. Jelaskan masing-masing jenis biaya ini!
+2. Sebutkan apakah biaya-biaya di bawah ini termasuk sebagai biaya bahan baku, buruh langsung atau biaya overhead pabrik. a. Kulit dalam pabrik sepatu b. Tukang jahit dalam perusahaan konveksi c. Cengkih dalam perusahaan rokok d. Buruh pengepakan dalam perusahaan rokok e. Buruh melinting dalam perusahaan rokok
+3. Sebutkan tiga jenis persediaan yang ada dalam perusahaan pabrik! Jelaskan perbedaan antara ketiga jenis persediaan ini!
+4. Jelaskan proses produksi yang terdapat dalam perusahaan pabrik dan hubungkan dengan kegiatan akuntansinya!
+5. Bagaimana beban pokok produksi dalam sebuah pabrik dihitung? Hubungan antara data yang diperlukan dengan catatan akuntansi yang ada.
+6. Jelaskan perbedaan antara bagan perkiraan untuk perusahaan dagang dengan perusahaan pabrik!
+7. Jelaskan perbedaan antara jurnal penyesuaian yang dibuat untuk perusahaan pabrik dan perusahaan dagang!
+8. Jelaskan perbedaan antara perhitungan Laba Rugi perusahaan pabrik dengan perusahaan dagang!
+9. Informasi apa yang terdapat pada laporan pabrikasi? 10. Bagaimana cara menghitung harga pokok barang yang dijual pada sebuah
+perusahaan manufaktur?
+Latihan
+
+1. Neraca percobaan Merida Plans Inc (data tertentu) pada 31 Desember 2007 adalah sebagai berikut:
+
+Persediaan bahan baku Pesediaan barang dalam proses Persediaan barang jadi Pembelian bahan baku Biaya tenaga kerja langsung Tenaga kerja tidak langsung Tenaga listrik
+
+Rp 20.000.000,00 30.000.000,00 15.000.000,00
+200.000.000,00 98.000.000,00 63.000.000,00 3.000.000,00
+
+34
+
+Utilitas lainnya Penyusutan ­ Pabrik dan mesin-mesin Asuransi pabrik Biaya penjualan Biaya umum
+
+1.000.000,00 9.000.000,00 2.000.000,00 15.000.000,00 12.000.000,00
+
+Pesediaan akhir, menurut perhitungan secara fisik pada tanggal 31 Desember 2007 adalah:
+
+Bahan baku Barang dalam pengerjaan Barang jadi
+
+Rp 32.000.000,00 36.000.000,00 21.000.000,00
+
+Diminta:
+
+Buatlah laporan pabrikasi untuk perusahaan tersebut untuk tahun bersangkutan. Juga hitunglah jumlah beban pokok penjualan untuk 2007.
+
+2. Data tertentu untuk operasi setahun dari Bell Company terlihat seperti di bawah
+
+ini (dalam ribuan).
+
+Awal
+
+Akhir
+
+Bahan baku
+
+Rp 10,000
+
+Rp 15,000
+
+Barang dalam proses
+
+31,000
+
+25,000
+
+Pesediaan barang jadi
+
+50,000
+
+51,000
+
+Harga pokok barang yang dibuat Total biaya overhead pabrik Total biaya tenaga kerja langsung
+
+Rp 200,000 20,000 50,000
+
+Diminta:
+
+Hitunglah total bahan baku yang dipergunakan dalam produksi .
+
+3. Selesaikan kalimat di bawah ini
+
+a. Persediaan awal bahan baku ditambah dengan pembelian bahan baku dikurangi dengan persediaan bahan baku sama dengan ........................................................................................................................ ........................................................................................................................ ........................................................................................................................ ........................................................................................................................
+
+35
+
+b. Harga pokok barang yang dibuat dikurangi dengan biaya bahan baku yang dipergunakan dalam produksi dikurangi lagi dengan tenaga kerja langsung dikurangi pesediaan awal barang dalam proses ditambah persediaan akhir barang dalam proses sama dengan ........................................................................................................................ ........................................................................................................................ ........................................................................................................................ ........................................................................................................................
+
+c. Harga pokok barang yang dijual ditambah dengan pesediaan akhir barang jadi dikurangi harga pokok barang yang dibuat sama dengan ........................................................................................................................ ........................................................................................................................ ........................................................................................................................ ........................................................................................................................
+
+d. Harga pokok barang yang dijual ditambah persediaan akhir barang jadi dikurangi pesediaan awal barang jadi sama dengan ........................................................................................................................ ........................................................................................................................ ........................................................................................................................ ........................................................................................................................
+
+4. Laporan keuangan dan skedul pendukungnya untuk Bagong Inc. melaporkan jumlah berikut ini untuk tahun 2007:
+
+Harga pokok barang yang dihasilkan Rp 213.000.000,00
+
+Harga pokok barang yang dijual
+
+Rp 250.000.000,00
+
+Diketemukan bahwa ketiga pesediaan ternyata salah karena penghitungan
+
+persediaan secara fisik yang dilakukan pada tanggal 31 Desember 2007 ternyata
+
+tidak efisien.
+
+Persediaan akhir bahan baku terlalu kecil
+
+Rp 3.000.000,00
+
+Persediaan barang dalam proses terlalu besar Rp 1.000.000,00
+
+Persediaan barang jadi terlalu kecil
+
+Rp 5.000.000,00
+
+Diminta:
+
+Hitunglah angka yang tepat yang harus dilaporkan untuk harga pokok barang yang dihasilkan dan harga pokok barang yang dijual.
+
+36
+
+Soal (Kelompok A)
+
+1. Hubungan antara berbagai item pada laporan pabrikasi dan ikhtisar Laba Rugi. Data berikut adalah mengenai operasi manufaktur sebuah perusahaan untuk tahun 2007:
+
+Persediaan awal bahan baku Persediaan akhir bahan baku Persediaan awal barang dalam proses Persediaan akhri barang dalam proses Persediaan awal barang jadi Persediaan akhir barang jadi Biaya overhead pabrik Biaya tenaga kerja langsung Pembelian bahan baku Penjualan netto Pendapatan lain Total biaya (kecuali beban pokok penjualan) Kerugian luar biasa
+
+Rp 50.000.000,00 40.000.000,00 30.000.000,00 20.000.000,00
+100.000.000,00 80.000.000,00
+120.000.000,00 60.000.000,00
+100.000.000,00 500.000.000,00
+10.000.000,00 100.000.000,00
+5.000.000,00
+
+Jumlah rata-rata saham biasa yang beredar selama periode yang bersangkutan 10.000 lembar saham
+
+Diminta:
+
+Hitunglah yang berikut ini, perlihatkan semua perhitungannya.
+
+a. Bahan baku yang dipergunakan dalam produksi. b. Total biaya pabrikasi. c. Harga pokok barang yang dibuat. d. Beban pokok penjualan. e. Laba bersih sebelum laba/rugi biasa. f. Laba bersih per lembar saham. g. Laba kotor.
+
+2. Pembuatan laporan pabrikasi dan ikhtisar Laba Rugi. Data di bawah ini adalah mengenai sebuah perusahaan manufaktur untuk 2007:
+
+Jumlah rata-rata saham biasa yang beredar selama periode tersebut
+
+20,000 lembar
+
+37
+
+Penjualan barang jadi Penjualan retur dan potongan Potongan penjualan Persediaan awal bahan baku Persediaan akhri bahan baku Persediaan awal barang dalamproses Persediaan akhir barang dalam proses Persediaan awal barang jadi Persediaan akhir barang jadi Biaya overhead pabrik Biaya tenaga kerja langsung Pembelian bahan baku Pendapatan jasa Biaya penjualan Biaya umum, administrasi, dan lainnya
+
+Rp 498.000.000,00 10.000.000,00 3.000.000,00 47.000.000,00 41.000.000,00 28.000.000,00 21.000.000,00 80 000.000,00 81.000.000,00
+100.000.000,00 55.000.000,00 118.000.000,00 21.000.000,00
+146.000.000,00 49.000.000,00
+
+Diminta:
+
+a. Buatlah sebuah laporan pabrikasi untuk perusahaan tersebut (Aji Jaya Mulya Company).
+b. Buatlah skedul beban pokok penjualan. c. Buatlah sebuah ikhtisar Laba Rugi.
+
+3. Laporan dan skedul pabrikasi; laporan keuangan. Buku besar Amin Corporation untuk tahun yang berakhir 31 Desember 2007 menunjukkan perkiraan dan saldo berikut ini:
+
+KasRp Surat berharga Piutang Cadangan piutang ragu-ragu Persediaan bahan baku Persediaan barang dalam proses Persediaan barang jadi Assuransi dibayar di muka Investasi jangka panjang Pabrik dan mesin-mesin Cadangan panghapusan Utang Utang biaya
+
+9.000.000,00 34.000.000,00 15.000.000,00
+1.000.000,00 20.000.000,00 15.000.000,00 18.000.000,00
+2.000.000,00 100.000.000,00 300.000.000,00 100.000.000,00
+31.000.000,00 8.000.000,00
+
+38
+
+Utang pajak pendapatan federal Obligasi bayar Wesel bayar jangka panjang Saham biasa Laba yang ditahan Dividen Penjualan Penjualan retur dan potongan Potongan penjualan Pendapatan sewa Pembelian bahan baku Biaya tenaga kerja langsung Biaya overhead pabrik Biaya penjualan Biaya umum, administrasi, dan lainnya
+
+2.000.000,00 130.000.000,00
+90.000.000,00 60.000.000,00 25.000.000,00
+5.000.000,00 390.000.000,00
+11.000.000,00 4.000.000,00 40.000.000,00 150.000.000,00 45.000.000,00 31.000.000,00 30.000.000,00 88.000.000,00
+
+Informasi tambahan:
+
+Buku pembantu overhead pabrik menunjukkan saldo berikut ini: Tenaga kerja tidak langsung Rp 10.000.000,00; bahan pembantu pabrikasi Rp 300.000,00; Listrik Rp 1.000.000,00; Penghapusan Rp11.000.000,00; Asuransi Rp 1.000.000,00; Biaya pabrikasi lainnya Rp 7.700.000,00; Penghitungan fisik atas persediaan menunjukkan bahwa pada tanggal 31 Desember 2007 terdapat saldo: Persediaan bahan baku Rp 12.000.000,00; Persediaan barang jadi Rp60.000.000,00; Persediaan barang dalam proses Rp50.000.000,00. Selama tahun tersebut, ada 20,000 saham biasa yang beredar.
+
+Diminta:
+
+a. Buatlah laporan pabrikasi dalam bentuk yang baik. b. Buatlah skedul overhead pabrik. Bandingkan apakah total skedul tersebut
+cocok dengan perkiraan biaya overhead pabrik yang terdapat pada buku besar. c. Buatlah skedul beban pokok penjualan. d. Buatlah ikhtisar laba. e. Buatlah neraca dalam bentuk yang baik. Jangan lupa untuk memasukkan persediaan akhir pada neraca. Saldo laba yang ditahan harus dihitung dengan menambahkan saldo awal dengan laba bersih dan dikurangi dengan dividen yang dibayarkan.
+
+39
+
+4. Pembuatan laporan pabrikasi dan ikhtisar Laba Rugi. Pembukuan Ajisoko Manufacturing Corporation menunjukkan data berikut untuk tahun yang berakhir 31 Desember 2007:
+
+Biaya umum, administrasi, dan lainnya
+
+Rp25.000.000,00
+
+Jumlah rata-rata saham biasa yang beredar dalam tahun tersebut 20,000 lembar.
+
+Penjualan barang jadi Penjualan retur dan potongan Potongan penjualan Biaya penjualan Persediaan awal bahan baku Persediaan akhir bahan baku Persediaan awal barang dalam proses Persediaan akhir barang dalam proses Persediaan awal barang jadi Persediaan akhir barang jadi Pendapatan bunga Pendapatan dividen Biaya overhead pabrik Biaya tenaga kerja langsung Pembelian bahan baku
+
+Rp 450.000.000,00 10.000.000,00 1.000.000,00
+100.000.000,00 25.000.000,00 20.000.000,00 14.000.000,00 10.000.000,00 46.000.000,00 29.000.000,00 10.000.000,00 5.000.000,00 60.000.000,00 40.000.000,00 89.000.000,00
+
+Diminta:
+
+a. Buatlah laporan beban pokok produksi. b. Buatlah laporan beban pokok penjualan. c. Buatlah ikhtisar Laba Rugi.
+
+5. Hubungan antara berbagai item pabrikasi. Misalkan data berikut ini mengenai sebuah perusahaan manufaktur untuk 2007.
+
+Jumlah rata-rata saham biasa yang beredar selama tahun 2007 lembar
+
+10,000
+
+Penjualan barang jadi Penjualan retur dan potongan Potongan penjualan Persediaan awal bahan baku
+
+Rp 175.000.000,00 2.000.000,00 1.500.000,00
+12.000.000,00
+
+40
+
+Persediaan akhir bahan baku Persediaan awal barang dalam proses Persediaan akhir barang dalamproses Persediaan awal barang jadi Persediaan akhir barang jadi Biaya overhead pabrik Biaya tenaga kerja langsung Pembelian bahan baku Pendapatan jasa Biaya penjualan Biaya umum, administrasi dan lainnya
+
+15.000.000,00 7.000.000,00 9.000.000,00
+24.000.000,00 25.000.000,00 45.000.000,00 30.000.000,00 50.000.000,00 23.000.000,00 10.000.000,00 11.000.000,00
+
+Diminta:
+
+a. Dari informasi di atas, hitunglah yang berikut ini. Tunjukkan se-mua perhitungan yang saudara lakukan.
+
+(1) Bahan baku yang dipergunakan dalam produksi. (2) Total biaya produksi. (3) Harga pokok barang barang jadi. (4) Beban pokok penjualan. (5) Laba bersih (6) Laba bersih per lembar saham. (7) Laba kotor.
+
+b. Buatlah laporan pabrikasi untuk perusahaan tersebut (Duren Manufacturing Company).
+
+c. Buatlah skedul beban pokok penjualan.
+
+6. Soal pabrikasi lengkap; laporan dan skedul. Roger Asnawi Inc telah mengoperasikan sebuah pabrik untuk beberapa tahun. Perkiraan buku besar pada tanggal 31 Desember 2007 mempunyai saldo seperti terlihat berikut ini.
+
+Kas Biaya umum dan administrasi Surat berharga Biaya penjualan Piutang Biaya overhead pabrik Cadangan piutang ragu-ragu
+
+Rp 15.000.000,00 150.000.000,00 60.000.000,00 61.000.000,00 30.000.000,00 65.000.000,00 2.000.000,00
+
+41
+
+Biaya tenaga kerja langsung Persediaan bahan baku Pembelian bahan baku Persediaan barang dalam proses Pendapatan sewa Persediaan barang jadi Potongan penjualan Assuransi dibayar di muka Penjualan retur dan potongan Investasi jangka panjang Penjualan Pabrik dan mesin-mesin Dividen Cadangan penghapusan,pabrik & mesin-mesin Laba yang ditahan Saham biasa Utang Utang biaya Wesel bayar jangka panjang Utang pajak pendapatan federal Obligasi bayar
+
+59.000.000,00 40.000.000,00 200.000.000,00 30.000.000,00 30.000.000,00 35.000.000,00
+7.000.000,00 3.000.000,00 20.000.000,00 200.000.000,00 800.000.000,00 700.000.000,00 12.000.000,00 200.000.000,00 116.000.000,00 130.000.000,00 40.000.000,00 14.000.000,00 150.000.000,00 5.000.000,00 200.000.000,00
+
+Buku pembantu overhead pabrik menunjukkan saldo ini: Tenaga kerja tidak langsung Rp 20.000.000,00; bahan pembantu pabrikasi yang dipakai Rp 600.000,00; tenaga listrik Rp2.000.000,00; penghapusan Rp20.000.000,00; asuransi atas pabrik Rp3.000.000,00 overhead pabrik lainnya Rp 19.400.000,00.
+
+Persediaan akhir adalah: Bahan baku Rp 25.000.000,00; barang dalam proses Rp100,000.000,00; barang jadi Rp 140.000.000.,00. Selama tahun tersebut ada 45.000 lembar saham biasa yang beredar.
+
+Diminta:
+
+a. Buatlah laporan beban pokok produksi dalam bentuk yang baik. b. Buatlah skedul overhead pabrik. Bandingkanlah apakah total skedul yang
+saudara buat cocok dengan saldo perkiraan biaya overhead pabrik yang terdapat pada buku besar. c. Buatlah skedul beban pokok penjualan. d. Buatlah ikhtisar Laba Rugi.
+
+42
+
+e. Buatlah neraca dalam bentuk yang baik. Jangan lupa memasukkan persediaan akhir pada neraca. Saldo akhir laba yang ditahan dihitung dari saldo awal ditambah dengan laba bersih dikurangi dengan dividen.
+43
+
+44

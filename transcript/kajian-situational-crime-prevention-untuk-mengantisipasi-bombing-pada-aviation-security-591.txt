@@ -1,0 +1,1319 @@
+UNIVERSITAS INDONESIA
+KAJIAN SITUATIONAL CRIME PREVENTION UNTUK MENGANTISIPASI BOMBING PADA AVIATION SECURITY
+TUGAS KARYA AKHIR
+KEVIN HENDRIX 1306461232
+FAKULTAS ILMU SOSIAL DAN ILMU POLITIK DEPARTEMEN KRIMINOLOGI DEPOK JULI 2017
+
+UNIVERSITAS INDONESIA
+KAJIAN SITUATIONAL CRIME PREVENTION UNTUK MENGANTISIPASI BOMBING PADA AVIATION SECURITY
+TUGAS KARYA AKHIR Diajukan sebagai salah satu syarat untuk memperoleh gelar sarjana
+KEVIN HENDRIX 1306461232
+FAKULTAS ILMU SOSIAL DAN ILMU POLITIK DEPARTEMEN KRIMINOLOGI
+KONSENTRASI PEMINATAN PENEGAKAN HUKUM DEPOK JULI 2017
+
+ABSTRAK
+
+Nama
+
+: Kevin Hendrix
+
+Program Studi : Krimonologi
+
+Judul
+
+: Kajian Situational Crime Prevention Untuk Mengantisipasi
+
+Bombing Pada Aviation Security
+
+Tindakan Melawan Hukum merupakan suatu permasalahan yang mengganggu dalam dunia penerbangan, salah satu bentuknya adalah Ancaman Bom. Hal tersebut pada dasarnya memperbesar kemungkinan terjadinya Pengeboman, yang berpotensi merusak infrastruktur dan memakan korban jiwa. Selain itu, Pengeboman juga bisa terjadi tanpa adanya Ancaman Bom terlebih dahulu. Mengacu pada buku Aviation Security International, dalam tiga tahun terakhir, Ancaman Bom terjadi secara rutin dengan jumlah rata-rata 6 kali perbulannya, dan hampir 1 kemungkinan dari kasus tersebut adalah Pengeboman. Melalui tulisan ini, penulis mengkaji fenomena tersebut dengan teknik Pencegahan Kejahatan Situasional guna melakukan pencegahan terhadap Pengeboman. Selain itu, melakukan pengkategorisasian handler, manager, dan guardian yang berdasar pada Teori Aktivitas Rutin, dan juga melakukan pengkategorisasian terhadap controllers untuk melindungi masing-masing aspek, yang berdasar pada Segitiga Kejahatan. Melalui kedua pendekatan tersebut, penulis melihat bagaimana adaptasi Pencegahan Kejahatan Situasional dan Teori Aktivitas Rutin dapat berperan untuk mencegah kemungkinan terburuk, yakni Pengeboman. Hasil tulisan ini dapat digunakan sebagai aspek pencegahan dengan strategi pencegahan kejahatan oleh Aviation Security untuk melindungi Bandara dan Pesawat Udara.
+
+Kata kunci: pencegahan kejahatan; pengeboman; ancaman bom; tindakan melawan hukum; keamanan penerbangan; pencegahan kejahatan situasional; teori aktivitas rutin; segitiga kejahatan
+
+vii
+
+ABSTRACT
+
+Name
+
+: Kevin Hendrix
+
+Study Program: Criminology
+
+Title
+
+: Situational Crime Prevention Review To Anticipate Bombing On
+
+Aviation Security
+
+Acts of Unlawful Interference is a troubling issue in the aviation world, one of which is Bomb Threats. It essentially increases the likelihood of Bombing, which potentially damages infrastructure and consumes lives. In addition, Bombing can also occur without the presence of Bomb Threats first. Referring to the book of Aviation Security International, in the last three years, Bomb Threats occurs regularly with an average of 6 times per month, and almost 1 possibility of those cases are Bombing. Through this paper, the authors examine the phenomenon with Situational Crime Prevention techniques to prevent Bombing. In addition, categorize handlers, managers, and guardians based on Routine Activity Theory, and also categorize the controllers to protect each aspect, based on The Crime Triangle. Through both approaches, the authors looked at how the adaptation of Situational Crime Prevention and Routine Activity Theory can play a role in preventing the worst possible, the actual Bombing. The result of this paper can be used as a prevention aspect with crime prevention strategy by Aviation Security to protect Airport and Aircraft.
+
+Keywords: crime prevention; bombing; bomb threats; acts of unlawful interference; aviation security; situational crime prevention; routine activity theory; the crime triangle
+
+viii
+
+DAFTAR ISI
+HALAMAN JUDUL................................................................................... i HALAMAN PERNYATAAN ORISINALITAS........................................ ii HALAMAN PERNYATAAN BEBAS PLAGIARISME .......................... iii HALAMAN PENGESAHAN..................................................................... iv KATA PENGANTAR ................................................................................ v HALAMAN PERNYATAAN PERSETUJUAN PUBLIKASI.................. vi ABSTRAK .................................................................................................. vii DAFTAR ISI ............................................................................................... ix DAFTAR TABEL ....................................................................................... x DAFTAR GAMBAR .................................................................................. xi 1. PENDAHULUAN.................................................................................. 1
+2. KERANGKA BERPIKIR .................................................................... 5
+3. KERANGKA KONSEP DAN TEORI ................................................ 6 3.1 Aviation Security ............................................................................... 6 3.2 Acts of Unlawful Interference............................................................ 8 3.3 Bomb Threats & Bombing ................................................................. 9 3.4 Crime Prevention............................................................................... 11 3.5 Situational Crime Prevention (SCP) ................................................. 11 3.6 Routine Activity Theory (RAT) .......................................................... 13
+4. URAIAN DATA DAN ANALISIS ....................................................... 15 4.1 Deskripsi Data ................................................................................... 15 4.2 Kumpulan Data.................................................................................. 17 4.3 Analisis Data ..................................................................................... 23 4.4 Bentuk Situational Crime Prevention Untuk Aviation Security........ 25 4.5 Bentuk Routine Activity Theory Untuk Aviation Security ................. 30
+5. KESIMPULAN...................................................................................... 34
+DAFTAR PUSTAKA ................................................................................ 36
+ix
+
+DAFTAR TABEL Tabel 1. Acts of Unlawful Interference ....................................................... 8 Tabel 2. Non-specific Cases ........................................................................ 17 Tabel 3. Specific Cases ............................................................................... 18 Tabel 4. Occured Cases (Bombing) ............................................................ 21 Tabel 5. Situational Crime Prevention Applied to Bombing....................... 30
+x
+
+DAFTAR GAMBAR Gambar 1. The Crime Triangle of Routine Activity Theory ........................ 14 Gambar 2. The Crime Triangle of RAT Applied to Bombing ...................... 14
+xi
+
+1
+1. PENDAHULUAN
+Pesawat Udara merupakan sarana transportasi yang banyak memberikan manfaat bagi setiap orang, baik manfaat sosial dan juga ekonomi. Namun, dibalik manfaat tersebut ada pula bentuk-bentuk kejahatan yang terjadi. Salah satu bentuk kejahatan yang terjadi dalam dunia penerbangan adalah Bombing, yakni suatu bentuk kecelakaan yang memanfaatkan bahan peledak sebagai senjatanya. Tidak terbatas terjadi di negara tertentu, melainkan di berbagai negara, salah satunya Indonesia, setidaknya pernah mengalami Bomb Threats, yakni suatu bentuk ancaman yang terjadi dalam bentuk lisan maupun tulisan bahwa terdapat bahan peledak di suatu lokasi. Dengan adanya ancaman tersebut, tentu saja tidak menutup kemungkinan bahwa Bombing bisa saja terjadi. Di dunia penerbangan, Bomb Threats tergolong sebagai salah satu isu utama dari Acts of Unlawful Interference, yakni suatu tindakan atau pelanggaran melawan hukum yang mengganggu berbagai aspek dalam dunia penerbangan, seperti aspek kenyamanan maupun keamanan.
+Mengacu pada detikNews (Juni, 2016), salah satu contoh kasus terjadi pada pesawat Garuda Indonesia pada tahun 2016, tepatnya di penerbangan dari Banda Aceh menuju Jakarta pada hari Sabtu tanggal 18 Juni 2016 pukul 07.00 WIB. Pihak penerbangan menunda keberangkatan karena mendapat informasi mengenai adanya bom di pesawat. Laporan tersebut diterima dari seorang sumber yang berada di Sultan Iskandar Muda Airport, Blangbintang. Akibatnya, hingga pukul 09.00 WIB pesawat masih terparkir di landasan sementara semua penumpangnya diturunkan. Informasi dari seorang petugas Bandara menyebutkan bahwa penyebab tertundanya penerbangan adalah dikarenakan seorang penumpang yang duduk di seat 41A menyebutkan ada bom di dalam pesawat. Guna mencegah terjadinya hal yang tidak diinginkan tentunya kondisi di dalam pesawat harus disterilkan dengan menurunkan semua penumpang, sekaligus meminta keterangan dari penumpang yang bersangkutan. Nano Setiawan selaku General Manager Garuda Indonesia Banda Aceh, mengkonfirmasi bahwa hal tersebut adalah benar, Ia mengatakan bahwa adanya isu bom mengharuskan pihak
+Universitas Indonesia
+
+2
+penerbangan melakukan pemeriksaan serta investigasi lebih lanjut mengenai kebenaran informasi tersebut. Meskipun pada akhirnya tidak ditemukan bukti mengenai kebenaran adanya bom, namun kasus seperti demikian harus dikhawatirkan, mengingat besarnya kerugian yang akan ditimbulkan ketika terjadi kemungkinan terburuk, yakni Bombing, seperti halnya kasus besar yang terjadi pada Maret 2016 di Brussels Airport dan Juni 2016 di Istanbul Atatürk International Airport. Dalam tiga tahun terakhir, Bomb Threats terjadi secara rutin dengan jumlah rata-rata 6 kali perbulannya, dan hampir 1 kemungkinan dari kasus tersebut adalah Bombing. Berdasarkan data-data kasus pada penelitian ini, penulis melihat beberapa bentuk Modus Operandi dalam terjadinya Bombing. Sutherland (1947) mengatakan bahwa Modus Operandi merupakan suatu prinsip dari pelaku dalam melakukan tindak kejahatan, hal tersebut kemudian memungkinkan pelaku untuk menggunakan teknik yang sama secara berulang ketika melakukan tindak kejahatan. (Sudiadi, 2016: 19). Pada kasus Bombing, dapat dilihat dengan menggunakan car bomb dan improvised explosive device yang mengincar screening checkpoint, pintu masuk, hingga Pesawat Udara
+Penelitian ini bertanya mengenai bagaimana Situational Crime Prevention dapat diterapkan oleh Aviation Security untuk mengantisipasi Bombing. Peningkatan kewaspadaan terhadap kasus-kasus seperti demikian harus dikedepankan karena dalam melakukan suatu pencegahan diharuskan untuk berpikir visioner mengenai bagaimana hal terburuk yang dapat terjadi, sehingga dalam konteks ini, kasus tersebut bisa saja tidak berakhir semata-mata sebagai suatu ancaman seperti yang kebanyakan terjadi, melainkan terjadinya Bombing yang tentu saja merupakan sesuatu yang tidak diinginkan. Pencegahan yang dikaji oleh penulis berfokus terhadap pencegahan Bombing, sehingga mengesampingkan fokus bahwa kasus ini hanyalah sekedar Bomb Threats.
+Haelterman (2012: 18) melakukan pembahasan mengenai suatu teknik untuk melakukan intervensi pencegahan kejahatan. Dalam beberapa poin yang dipaparkannya, terdapat suatu bentuk intervensi yang menurutnya berguna untuk meningkatkan risiko bagi pelaku kejahatan ketika ingin melakukan aksinya. Karena jika dikaitkan dengan minat pelaku yang pada awalnya berpotensi akan melakukan suatu tindak kejahatan, tentu saja dengan berbagai intervensi yang
+Universitas Indonesia
+
+3
+diberikan akan berpotensi mempersulit mereka, bahkan berpotensi agar mereka tidak jadi melakukannya. Namun tidak terbatas pada itu saja, Haelterman mengutip Clarke yang berpendapat bahwa salah satu teknik yang dapat digunakan, yakni Situational Crime Prevention, tidak semata-mata mengacu pada proses yang hanya berusaha untuk mengubah keinginan pelaku kejahatan dalam melakukan aksinya, melainkan lebih spesifik mengarah ke pengubahan kondisi suatu lingkungan yang mempertimbangkan faktor-faktor situasional dimana pada akhirnya hal tersebut akan berpengaruh terhadap terminimalisirnya suatu kejahatan di suatu lokasi, dengan mempersulit pelaku untuk melakukannya.
+Dalam praktiknya, Situational Crime Prevention dilakukan guna memahami masalah utama dalam terjadinya kejahatan, setelah itu barulah melakukan implementasi serta evaluasi dari bentuk pencegahan yang didapatkan. Pendekatan ini berfokus pada intervensi kondisi suatu lingkungan guna mengurangi berbagai kemungkinan kejahatan dari pelaku. Teknik yang dilakukan bertujuan untuk membuat aksi yang akan dilakukan oleh pelaku kejahatan dapat dicegah, seperti dengan pembentukan suatu kondisi fisik lingkungan yang tidak memadai untuk dilakukannya kejahatan, atau setidaknya mendeteksi bagaimana kemungkinan akan dilakukannya kejahatan. Pendekatan ini tidak hanya menyarankan cara-cara inovatif dalam mengkonseptualisasikan dan mengimplementasikan teknik-teknik pencegahan kejahatan, melainkan juga memberikan penjelasan yang lebih sistematis mengenai penggunaan metode untuk merancang, melaksanakan, mengevaluasi, dan menyebarluaskan hasil dari suatu pendekatan untuk melakukan pencegahan kejahatan. (Tillyer & Kennedy, 2008: 25)
+Block (2016) dalam disertasinya menjelaskan serta mengidentifikasi bahwa aset dan fasilitas keamanan dari Bandara sering menjadi sasaran bagi pelaku kejahatan. Sehingga dalam tulisannya tersebut, Ia menggunakan pendekatan Situational Crime Prevention untuk mendeteksi kelemahan dari suatu fasilitas, agar kemudian dapat menerapkan intervensi yang berguna untuk mengubah situasinya. Clarke dan Newman dalam Kleemans et al. (2010: 17) secara spesifik mengatakan bahwa Situational Crime Prevention dapat digunakan sebagai bentuk pencegahan untuk mengatasi kejahatan-kejahatan seperti
+Universitas Indonesia
+
+4
+terorisme. Sejalan dengan yang dikutip oleh Linden (2007: 139) dalam tulisannya, bahwa Clarke mengatakan Situational Crime Prevention merupakan strategi yang mencoba meminimalisir segala bentuk kesempatan untuk terjadinya suatu kejahatan.
+Di sini penulis juga akan mencoba untuk mengkaji mengenai bagaimana Situational Crime Prevention dapat diterapkan sebagai bentuk pencegahan terhadap terjadinya suatu kejahatan, khususnya yang terjadi di dunia penerbangan. Selain itu juga melihat bagaimana Routine Activity Theory berpengaruh dalam melihat aspek-aspek yang ada yang memungkinkan untuk membuat terjadinya kejagatan, sehingga dapat memberikan intervensi terhadap kasus-kasus tersebut. Pada dasarnya Bombing tidak dapat semata-mata dianggap sebagai suatu ancaman, melainkan sebagai suatu isu yang berpotensi membuat kerusakan. Karenanya, intervensi terhadap berbagai faktor keamanan harus ditingkatkan dan dipertahankan. Berdasarkan kedua penelitian yang dipaparkan sebelumnya, penulis menyetujui bahwa teknik Situational Crime Prevention dapat digunakan untuk berbagai macam intervensi, salah satunya adalah intervensi terhadap suatu lokasi, sehingga hal tersebut kemudian akan berpotensi untuk mencegah terjadinya Bombing. Penulis melihat bahwa jika kasus ini pada akhirnya akan semakin sering terjadi, badan Aviation Security harus memiliki strategi pencegahan yang kuat dengan tetap mewaspadai berbagai kemungkinan terburuk dalam setiap kasusnya, yang tentunya akan berpotensi merusak infrastruktur dan memunculkan korban jiwa, baik di Bandara maupun di Pesawat Udara.
+Melalui penerapan teknik Situational Crime Prevention, fokus terhadap pemberlakuan intervensi suatu lokasi dapat diasumsikan akan mengurangi kemungkinan terburuk dari Bomb Threats, yakni Bombing. Dengan tidak sekedar berfokus terhadap bagaimana upaya untuk merubah keinginan pelaku dalam melakukan ancaman, melainkan berfokus terhadap bagaimana upaya yang harus dilakukan agar kemungkinan terburuk tidak terjadi, yakni Bombing. Penulis berpendapat bahwa intervensi terhadap suatu lokasi dapat mewujudkan hal tersebut. Meskipun pada kenyataannya kasus Bomb Threats tidak selalu berujung pada Bombing, namun hal tersebut tetap harus mendorong siapapun agar tetap waspada, karena kemungkinan terburuk dari kasus Bomb Threats tentu saja tidak
+Universitas Indonesia
+
+5
+
+diinginkan. Idealnya, industri penerbangan diharapkan terlepas dari permasalahan Bomb Threats ataupun Bombing. Strategi pencegahan dari pihak Aviation Security kian diuji dengan banyaknya kasus yang terjadi, karena diharapkan dengan adanya strategi pencegahan yang tepat dapat menghindari terjadinya hal-hal yang tidak diinginkan, serta menjauhkan perasaan takut dalam benak setiap orang. Kinerja Aviation Security yang berada di Bandara dan Maskapai Penerbangan menjadi hal penting guna mewujudkan sistem keamanan yang jauh lebih baik, dan mencegah terjadinya berbagai ancaman yang ada. Peran Aviation Security dalam menciptakan keamanan merupakan suatu hal yang pantas untuk dikaji secara terus-menerus, dengan harapan terbentuknya strategi pencegahan yang tepat terhadap berbagai bentuk ancaman yang ada dalam dunia penerbangan.
+2. KERANGKA BERPIKIR
+Mengingat bahwa Bombing merupakan kasus yang harus diwaspadai dengan adanya intervensi yang tepat, berikut kerangka berpikir atau asumsi metodologis yang penulis gunakan untuk menjawab pertanyaan penelitian mengenai bagaimana Situational Crime Prevention dapat diterapkan oleh badan Aviation Security untuk mengantisipasi Bombing:
+
+SCP & RAT
+
+Crime Prevention
+
+Interventions Location
+
+Bombing
+
+Aviation Security
+
+Prevented
+
+Universitas Indonesia
+
+6
+Mengacu pada kerangka pikir di atas, dapat dijelaskan bahwa di dalam penelitian ini Bombing merupakan suatu fokus utama yang ingin dicegah, karenanya dibutuhkan strategi pencegahan yang tepat yang dapat diterapkan oleh Aviation Security agar Bombing tidak terjadi. Bombing pada dasarnya dapat diatasi dengan melakukan berbagai intervensi dengan mencerminkan bahwa hal tersebut tidak boleh dianggap semata-mata sebagai suatu ancaman, melainkan harus dianggap sebagai suatu hal yang memiliki potensi jauh lebih berbahaya. Intervensi dapat dilakukan melalui penerapan teknik Situational Crime Prevention dan juga mengacu pada Routine Activity Theory. Idealnya, hal tersebut dapat diterapkan sebagai Crime Prevention oleh Aviation Security dengan melakukan intervensi pencegahan yang kuat terhadap kondisi dari suatu lokasi. Hal tersebut berguna untuk mencegah berbagai risiko terburuk dari kasus ini, yakni rusaknya infrastruktur dan munculnya korban jiwa, akibat Bombing. Dengan peran Aviation Security dan penerapan teknik Situational Crime Prevention yang melahirkan intervensi yang dapat dilakukan terhadap suatu lokasi, serta mengacu kepada aspek dari Routine Activity Theory, diharapkan dapat menjadi solusi guna mengatasi berbagai risiko terburuk, yakni dengan tercegahnya Bombing.
+3. KERANGKA TEORI/KONSEP
+3.1 Aviation Security
+Aviation Security pada dasarnya merupakan bentuk dari adanya respon terhadap berbagai peristiwa-peristiwa buruk di dunia penerbangan yang terjadi di masa lalu, seperti Bombing terhadap penerbangan Pan Am 103 pada Desember 1988, juga serangan teroris pada 11 September 2001 yang terjadi di Amerika Serikat, dimana kala itu Amerika Serikat belum memiliki kebijakan nasional serta strategi yang komprehensif terhadap keamanan penerbangan. Namun pada akhirnya berbagai peristiwa tersebut menjadi sesuatu yang dievaluasi oleh Aviation Security terhadap berbagai risiko keamanan yang dapat terjadi pada penerbangan. Peristiwa seperti 9/11, pada dasarnya menggambarkan kegagalan masa lalu dari Aviation Security (Elias, 2009). Sejak saat itu, kebijakan Aviation Security menjadi fokus dari perhatian nasional di Amerika Serikat. (Martonosi, 20015)
+Universitas Indonesia
+
+7
+Berdasarkan Peraturan Menteri nomor 31 tahun 2013, pengertian dari Aviation Security atau Keamanan Penerbangan adalah "suatu keadaan yang memberikan perlindungan kepada penerbangan dari tindakan melawan hukum melalui keterpaduan pemanfaatan sumber daya manusia, fasilitas, dan prosedur." Artinya, penciptaan Aviation Security itu sendiri merupakan bentuk dari antisipasi terhadap berbagai tindakan melawan hukum yang terjadi dalam dunia penerbangan.
+Ketiga elemen yang disebutkan di atas, yakni sumber daya manusia, fasilitas, dan prosedur, pada dasarnya akan memiliki suatu keterkaitan yang erat dalam menciptakan keamanan dalam dunia penerbangan. Seperti yang ditekankan oleh salah satu Corporate Security di suatu Maskapai Penerbangan, bahwa jika ketiga pilar tersebut tidak terpenuhi dengan baik, maka akan berpengaruh terhadap bagaimana keamanan yang diciptakan. Idealnya, Aviation Security harus selalu berusaha untuk membuat ketiga pilar tersebut saling bekerjasama dengan baik sesuai fungsinya, guna menciptakan dan mempertahankan keamanan penerbangan, baik dari Aviation Security yang secara spesifik melindungi Bandara, maupun yang melindungi Pesawat Udara.
+Hingga saat ini, Aviation Security pada dasarnya merupakan salah satu komponen terpenting dan utama dari suatu pertahanan keamanan udara yang berguna untuk melawan serta mencegah berbagai macam bentuk ancaman yang terjadi di dunia penerbangan (Jenkins, 2012). Karenanya Aviation Security diharapkan terus meningkatkan berbagai cara guna mencapai suatu keberhasilan untuk mencegah berbagai bentuk Acts of Unlawful Interference agar peristiwa di masa lalu tidak terjadi di masa sekarang dan masa mendatang.
+Pada tulisan ini penulis berfokus pada Aviation Security sebagai suatu badan yang bertanggungjawab atas keamanan Bandara dan Pesawat Udara, tidak terbatas pada petugas keamanannya saja. Aviation Security yang dimaksud yakni suatu badan yang bertugas untuk memberikan perlindungan terhadap keamanan Bandara dan Pesawat Udara, baik dari pihak yang memberlakukan segala jenis prosedur dan menyediakan fasilitas, sedangkan petugas atau sumber daya yang bertugas dapat dicontohkan seperti Aviation Security Officer.
+Universitas Indonesia
+
+8
+
+3.2 Acts of Unlawful Interference
+
+Acts of Unlawful Interference atau tindakan yang melawan hukum dalam dunia penerbangan terdiri dari beberapa bagian, salah satunya adalah terkait dengan kasus Bomb Threats. Risiko yang harus dipertimbangkan adalah ketika ternyata kasus Bomb Threats tidak semata-mata menjadi sebuah ancaman, melainkan berakhir ke Bombing. Kewaspadaan tentunya tetap harus ditingkatkan meskipun informasi yang tersebar belum tentu kebenarannya.
+Dalam kasus ini, disampaikan bahwa adanya pemberian informasi palsu maupun menyesatkan yang sifatnya membahayakan keselamatan Pesawat Udara ketika dalam penerbangan ataupun ketika berada di darat, serta membahayakan masyarakat umum yang berada di lingkungan Bandara atau wilayah penerbangan sipil, merupakan suatu tindakan yang melawan hukum, dan patut dijerat dengan hukuman yang sesuai (PM 127, 2015). Berikut merupakan kategori dari Acts of Unlawful Interference yang dirangkum dalam Peraturan Menteri Nomor 127 Tahun 2015:
+Tabel 1. Acts of Unlawful Interference
+
+No.
+
+Kategori
+
+1. Menguasai Pesawat Udara secara melawan hukum. 2. Melakukan pengrusakan/penghancuran Pesawat Udara di darat (in service). 3. Menyandera orang di dalam Pesawat Udara atau di Bandara. 4. Masuk ke dalam Pesawat Udara, Bandara atau tempat-tempat aeronautika secara
+paksa. 5. Membawa senjata, peralatan berbahaya atau bahan-bahan yang dapat digunakan
+untuk tindakan melawan hukum secara tidak sah. 6. Menggunakan Pesawat Udara di darat (in service) untuk tindakan yang
+menyebabkan mati, cederanya seseorang, rusaknya harta benda atau lingkungan sekitar. 7. Memberikan informasi palsu yang membahayakan keselamatan Pesawat Udara dalam penerbangan maupun di darat, penumpang, awak Pesawat Udara, personel darat atau masyarakat umum Bandara atau tempat-tempat fasilitas penerbangan lainnya.
+
+Sumber: Peraturan Menteri Nomor 127, 2015
+
+Dalam konteks tulisan ini, secara spesifik bentuk dari pemberian informasi palsu yang dimaksud adalah ketika seseorang menyebarkan suatu ancaman baik secara disengaja maupun tidak disengaja, dimana hal tersebut pada dasarnya akan
+
+Universitas Indonesia
+
+9
+sangat mengganggu keamanan penerbangan dengan pemberian informasi palsu mengenai adanya suatu ancaman yang senjatanya menggunakan bahan peledak. Namun tidak terbatas pada itu saja, pada akhirnya ancaman tersebut tidak lagi berakhir hanya sekedar ancaman, ketika terjadi Bombing yang merugikan karena merusak infrastruktur Bandara maupun Pesawat Udara, serta berpotensi memakan korban jiwa.
+3.3 Bomb Threats & Bombing
+Mengacu pada Peraturan Menteri Perhubungan Republik Indonesia nomor 127 tahun 2015, Bomb Threats adalah suatu ancaman yang bersifat lisan maupun tulisan, yang diberikan oleh seseorang yang tidak diketahui maupun sebaliknya, yang menyarankan mapun menyatakan, entah benar atau tidak, bahwa keselamatan dari Pesawat Udara yang berada dalam penerbangan maupun masih berada di darat, atau juga Bandara serta fasilitas penerbangan, atau ada seseorang yang berada dalam bahaya karena adanya suatu bahan peledak.
+Hal tersebut sejalan dengan pengertian yang berlaku internasional mengenai Bomb Threats dalam buku Civil Aviation Regulation ­ Part VII: Aviation Security Regulations: Third Edition (2015), yakni sebagai berikut:
+"A communicated threat, anonymous or otherwise, which suggests, or infers, whether true or false, that the safety of an aircraft in flight or on the ground, or any airport or civil aviation facility or any person may be in danger from an explosive or other item or device." (Terjemahan: Ancaman Bom) "Suatu ancaman yang dikomunikasikan, baik oleh anonim atau sebaliknya, yang menunjukkan, atau menyimpulkan, meskipun benar ataupun salah, bahwa keselamatan Pesawat Udara yang sedang berada dalam penerbangan atau yang masih berada di darat, atau fasilitas Bandara maupun penerbangan sipil, atau seseorang yang mungkin sedang berada dalam bahaya karena adanya bahan peledak ataupun perangkat sejenis lainnya."
+Universitas Indonesia
+
+10
+Berdasarkan definisi di atas, Bomb Threats sendiri terbagi menjadi 2 kategori dalam konteks yang menyerang keamanan penerbangan, yakni In-flight dan On the Ground (PM 127, 2015). In-flight yakni ketika sebuah ancaman terjadi ketika pesawat sudah lepas landas, baik ancaman yang bersifat lisan melalui telepon atau gurauan seseorang, maupun yang berbentuk tulisan seperti yang tertulis pada dinding pesawat maupun kertas. Sedangkan On the Ground yakni ketika ancaman terjadi sebelum pesawat lepas landas, dan tidak terbatas menyerang Pesawat Udara melainkan infrastruktur lainnya seperti Bandara.
+Ketika Bomb Threats berakhir buruk dan tidak teratasi, hal yang bisa saja terjadi adalah Bombing. Ketika On the Ground misalnya, terdapat beberapa bentuk skenario terkait penggunaan bahan peledak yang dianggap dapat menyerang Bandara serta mengancam Pesawat Udara ketika belum lepas landas (Stewart & Mueller, 2013). Skenario tersebut yakni sebagai berikut:
+1. Large Truck Bomb ­ Bom berada dalam sebuah truk besar, yang diledakkan di depan keramaian, biasanya di depan terminal. 2. Curbside Car Bomb ­ Bom berada di dalam sebuah mobil, biasanya dalam kondisi terparkir di depan terminal, dan diledakkan di depan keramaian. 3. Luggage or Vest Bomb ­ Bom yang dimasukkan ke dalam sebuah bagasi atau rompi, biasanya diledakkan di tepi jalan atau di dalam terminal dalam kondisi ramai. Ketiga skenario di atas dianggap sebagai bentuk ancaman yang memiliki kerentanan tinggi, artinya hal tersebut berpotensi menjadi Bombing yang dapat merusak berbagai infrastruktur dan juga memakan banyak korban jiwa karena diledakkan di keramaian. Karenanya, dibutuhkan pencegahan yang tepat untuk kasus-kasus yang berpotensi menjadi seperti demikian. International Air Transport Association (IATA) mengatakan bahwa gurauan saja harus tetap dianggap sebagai suatu kasus yang serius, apalagi jika dibandingkan dengan kasus-kasus yang lebih serius. Pada dasarnya kasus-kasus yang lebih serius tentu saja harus ditanggapi dengan lebih serius pula, agar pada akhirnya kemungkinan terburuk bisa dicegah.
+Universitas Indonesia
+
+11
+3.4 Crime Prevention
+Crime Prevention adalah kondisi dimana dibentuknya suatu strategi serta langkah-langkah yang berdasar pada usaha mengurangi risiko kejahatan yang akan terjadi, guna menghindari adanya potensi berbahaya bagi individu dan masyarakat, serta menghindari fear of crimes, dengan melakukan berbagai intervensi atau pencegahan terhadap sesuatu yang menjadi penyebabnya. Crime Prevention merupakan komponen penting yang berguna menciptakan keselamatan serta keamanan. Konsep ini didasarkan pada adanya suatu gagasan bahwa kejahatan dan korban kejahatan dapat terjadi karena adanya sebab dan akibat yang saling berhubungan. Mengetahui faktor-faktor yang berhubungan dengan berbagai penyebab tersebut dapat menghasilkan rangkaian strategi serta mencegah atau mengurangi kemungkinan terjadinya kejahatan. (United Nations Office on Drugs and Crime, 2010: 9-10)
+Tilley (2009) mengatakan bahwa kejahatan pada dasarnya sangat bermotif, serta memiliki latar belakang mengenai mengapa itu bisa terjadi. Artinya, ini tidak terjadi tanpa alasan. Upaya preventif dapat dilakukan dengan melihat bagaimana suatu kasus kejahatan pernah terjadi. Dengan demikian, barulah bisa menjelaskan mengenai pola yang ditemukan yang pada dasarnya saling memiliki keterkaitan dengan ruang, waktu, korban, dan pelaku. Selain itu, Jendly et al. (2008: 155) mengatakan banyak pendekatan yang dapat digunakan untuk mengembangkan berbagai macam strategi untuk dapat mencegah potensi kejahatan. Perkembangan pendekatan seperti pencegahan situasional merupakan salah satunya. Selain itu, aspek yang juga harus dikedepankan dalam melakukan pencegahan adalah kemampuan aparat keamanan dalam menegakkan pencegahan kejahatan. Sehingga elemen yang diperlukan guna melakukan intervensi pencegahan kejahatan tidak hanya terbatas pada kondisi lingkungannya, melainkan juga harus terdapat andil yang baik dari aparat keamanan.
+3.5 Situational Crime Prevention
+Seseorang yang putus asa mungkin akan berpotensi merenungkan apakah Ia akan melakukan kejahatan, namun hanya orang yang tidak rasional yang akan
+Universitas Indonesia
+
+12
+menyerang sesuatu yang memiliki pertahanan yang kuat dan target yang tidak dapat ditembus. Crime Prevention pada dasarnya dapat dicapai dengan mengurangi berbagai bentuk kemungkinan serta kesempatan seseorang untuk melakukan kejahatan, dimana secara garis besar praktiknya disebut dengan Situational Crime Prevention (Siegel, 2012: 115). Dalam usaha mengurangi terjadinya kejahatan, perancang pencegahan kejahatan pertama-tama harus menyadari, mengenai berbagai bentuk karakteristik serta situasi yang berisiko terhadap terjadinya kejahatan; mengenai hal-hal yang mendorong serta menarik seseorang untuk melakukan kejahatan; mengenai apa yang membuat seseorang memanfaatkan peluang dalam suatu situasi untuk melakukan kejahatan; dan berbagai hal lainnya yang dapat menjadi pemicu seseorang untuk melakukan tindak kejahatan. Pada dasarnya segala bentuk tindak kejahatan akan terhindar jika:
+1. Target yang potensial memiliki penjagaan yang ketat dan aman. 2. Sarana untuk melakukan tindak kejahatan dikendalikan dengan baik. 3. Calon pelaku kejahatan diawasi dan dipantau dengan baik. (Siegel, 2012: 116) Konsep ini pertama kali dikembangkan pada 1980-an oleh Ronald V. Clarke. Situational Crime Prevention dapat digunakan untuk mengidentifikasi berbagai macam rutinitas, pola, dan faktor-faktor yang berpengaruh terhadap aktivitas seseorang dalam melakukan kejahatan. Dengan mengidentifikasi hal tersebut, pembangunan intervensi pencegahannya dapat diciptakan. Clarke dan Cornish (2003) memberikan evolusi terbaru dari model Situational Crime Prevention, yakni dengan menggambarkan 5 teknik strategis yang dapat dilakukan, meliputi: 1. Increase the effort needed to commit crime.
+2. Increase the risks of committing crime. 3. Reduce the rewards for committing crime.
+4. Reduce provocation/induce guilt or shame for committing crime.
+Universitas Indonesia
+
+13
+5. Remove excuses for committing crime. (Brantingham & Brantingham, 2005: 275-276)
+Hayward (2007) berpendapat bahwa tindak kejahatan pada dasarnya merupakan bentuk dari adanya keyakinan bahwa manusia memiliki sifat yang didasarkan pada bagaimana bentuk keinginannya. Hal tersebut disebabkan karena alam memberikan pilihan pada manusia untuk senang atau sebaliknya, sehingga dengan motivasi tertentu seseorang akan melakukan kejahatan jika telah mempertimbangkan efek yang ditimbulkan darinya. Keuntungan bisa menjadi pemicu utamanya, disaat seseorang berani melakukan kejahatan melawan segala risiko karena Ia juga telah mempertimbangkan keuntungannya. Dengan demikian harus dilakukan berbagai intervensi, salah satunya adalah terhadap kondisi dari suatu lingkungan, guna menghindari dan meminimalisir potensi terjadinya suatu kejahatan.
+3.6 Routine Activity Theory
+Routine Activity Theory dikembangkan pada tahun 1979 oleh Lawrence E. Cohen dan Marcus Felson. Teori ini berpandangan bahwa pelaku kejahatan tidak semata-mata melakukan kejahatan tanpa alasan, karena Ia telah menimbang manfaat yang akan didapatkannya dalam melakukan kejahatan. Dalam sebuah analisis mengenai kejahatan dan Routine Activity Theory, Cohen dan Felson telah menimbang bagaimana tingkat kejahatan dalam kaitannya dengan perubahan aktivitas rutin sehari-hari. Teori ini menjelaskan mengenai apa penyebab kejahatan dapat terjadi di tempat-tempat tertentu dan di bawah kondisi-kondisi tertentu. Hal tersebut dilakukan dengan berfokus serta memahami mengenai bagaimana motivated offenders, suitable targets, dan the absence of capable guardians. (Glick, 2005: 78)
+Secara keseluruhan, dapat dikatakan bahwa teori ini berasumsi mengenai bagaimana suatu kegiatan sehari-hari berkontribusi dalam ruang dan waktu, memiliki hubungan erat dengan motivasi rasional pelaku dalam kaitannya dengan terbentuknya kesempatan untuk terjadinya suatu tindak kejahatan. Dalam menjelaskan mengenai bagaimana terjadinya suatu kejahatan, komponen-
+Universitas Indonesia
+
+14
+komponen yang dijelaskan sebelumnya yakni: motivated offenders, suitable targets, dan the absence of capable guardians; disebut juga sebagai The Crime Triangle (Lersch. 2007: 83-87), yang dapat dijelaskan melalui gambar berikut:
+Gambar 1. The Crime Triangle of Routine Activity Theory
+Sumber: Grant, 2015: 11
+Gambar di atas merupakan The Crime Triangle milik Cohen dan Felson yang telah diubah, versi asli terdapat pada segitiga yang berada di bagian dalam, yakni yang berisikan komponen offender, target/victim, dan place. Sedangkan segitiga bagian luar merupakan versi terbaru untuk menjelaskan controllers dari masing-masing komponen bagian dalam. Controllers di sini berarti pengawas yang sekiranya memiliki tanggung-jawab terhadap masing-masing komponen. Berikut merupakan penjelas dari masing-masing controllers:
+1. Handler ­ Memiliki tanggung jawab untuk mengawasi offender. 2. Guardian ­ Memiliki tanggung jawab untuk mengawasi target/victim. 3. Manager ­ Memiliki tanggung jawab untuk mengawasi place. (Grant, 2015: 11)
+Universitas Indonesia
+
+15
+Pada dasarnya, tujuan utama dari mengurangi berbagai kesempatan dan potensi untuk terjadinya kejahatan merupakan suatu tujuan strategis dari pencegahan kejahatan (Vellani, 2007). Maka, The Crime Triangle dapat membantu untuk menjelaskan mengenai aspek apa yang dibutuhkan untuk mencegah suatu kejahatan.
+4. URAIAN DATA DAN ANALISIS
+4.1 Deskripsi Data
+Dalam tulisan ini, penulis menggunakan data sekunder guna memenuhi syarat untuk dapat menjawab pertanyaan penelitian. Data yang mendominasi yakni data sekunder mengenai Acts of Unlawful Interference dalam dunia penerbangan, tepatnya dari yang terjadi sejak akhir tahun 2013 hingga awal tahun 2017. Secara keseluruhan, data tersebut didapatkan dari buku Aviation Security International, yakni sebuah buku yang merangkum berbagai macam kejadian yang pernah terjadi di dunia penerbangan, beberapa kategori di antaranya adalah Threats dan Attacks, dan dipersempit ke data terkait dengan Bomb Threats dan Bombing, baik yang terjadi ketika In-flight maupun On the Ground. Data yang didapatkan terkait Threats tidak secara spesifik membahas mengenai kasus yang pada akhirnya terjadi Bombing, melainkan juga kasus yang sebetulnya hanyalah hoax atau yang hanya berakhir sebagai ancaman. Sedangkan data yang didapatkan terkait Attacks secara spesifik membahas mengenai kasus Bombing, kasus yang pada akhirnya sudah bersifat merugikan karena gagal untuk dicegah.
+Penulis juga membuat pengelompokan data yang dibagi menjadi 3 bagian, yakni Non-specific; Specific; dan Occured. Non-specific yakni ketika suatu ancaman yang terjadi tidak memiliki keterangan yang jelas dan spesifik mengenai ancamannya, seperti halnya pada kasus yang hanya terdapat suatu tulisan yang mengklaim bahwa terdapat bom di suatu tempat. Specific yakni ketika suatu ancaman yang terjadi memiliki keterangan yang jelas dan spesifik mengenai ancamannya, seperti halnya pada kasus yang berisikan informasi jelas mengenai apa yang diancam dan alat apa yang digunakan. Sedangkan Occured yakni ketika suatu ancaman yang terjadi pada akhirnya tidak hanya berakhir sebagai sekedar
+Universitas Indonesia
+
+16
+ancaman, melainkan terjadinya Bombing yang merusak infrastruktur dan memakan korban jiwa, maupun yang tidak menyebabkan kerusakan infrastruktur atau tidak memakan korban jiwa. Dalam kasus Occured, tidak semua Bombing terjadi melalui jalur Bomb Threats terlebih dahulu, karena banyak yang terjadi diluar dugaan. Pengelompokan tersebut dilakukan guna mempermudah penulis dalam menganalisis perkiraan motif dari berbagai macam kasus.
+Penulis ingin mengkaji model pengamanan yang dapat diterapkan oleh Aviation Security terkait kasus-kasus Bomb Threats yang berpotensi ke Bombing maupun mengantisipasi secara spesifik kasus-kasus Bombing yang terjadi tanpa adanya Bomb Threats terlebih dahulu. Penulis tidak hanya berfokus terhadap bagaimana bentuk dari ancaman yang ada, melainkan juga berfokus terhadap hubungan antara ruang, waktu, korban, dan pelaku yang pada akhirnya merupakan elemen yang berpengaruh dan menentukan terjadi atau tidak terjadinya kejahatan. Penulis memahami jalur ancaman yang terjadi dengan melakukan pengelompokan Non-specific; Specific; dan Occured, sehingga penulis akan lebih mudah dalam melihat jalur ancamannya.
+Kemudian, melalui data tersebut penulis mencoba untuk secara spesifik berfokus terhadap intervensi seperti apa yang sekiranya bisa dilakukan sebelum kasus-kasus seperti Bomb Threats terjadi, agar ketika kasus tersebut terjadi pada akhirnya tidak menjadi Bombing yang merusak infrastruktur dan memakan korban jiwa. Selain itu intervensi yang akan dikaji juga mengacu ke kasus-kasus Bombing yang sudah terjadi di dunia penerbangan agar dapat dicegah dan tidak terulang kembali. Penulis juga mengacu kepada data dari suatu berita, dimana di dalamnya terdapat kasus-kasus Occured. Selain itu juga menggunakan jurnal ilmiah terkait Bomb Threats dan Bombing di dunia penerbangan sebagai materi-materi pendukung.
+Universitas Indonesia
+
+17
+
+4.2 Kumpulan Data
+
+Tabel 2. Non-specific Cases
+
+Non-specific
+
+No
+
+Tanggal
+
+Isu
+
+Sebuah catatan ditemukan di dalam toilet Bandara, yang
+
+1
+
+18 Januari 2014: Manaus, Brazil
+
+mengindikasikan bahwa ada bom di pesawat TAM Airlines. Ancaman tersebut diduga dibuat oleh mantan pekerja di TAM
+
+Airlines.
+
+2
+
+25 Juni 2014: Seattle, Sebuah plastik bertuliskan "bom" ditemukan di bagasi
+
+Wshington
+
+penumpang.
+
+3
+
+22 November 2014: Penerbangan kembali ke Bandara setelah penumpang
+
+Malé, Maldives
+
+menemukan pesan bertuliskan ancaman bom.
+
+4
+
+10 Desember 2014: Pria Israel ditangkap di pos pemeriksaan setelah ditemukan Rochester, New York membawa catatan bahwa Ia membawa bom nuklir.
+
+Sebuah pesawat Aer Lingus dari Brussels diberikan prioritas
+
+5
+
+12 September 2015: Dublin, Eire
+
+untuk mendarat setelah awak pesawat menemukan catatan di sebuah papan yang berada di dalam toilet bertuliskan adanya bom. Namun, tidak ada tanda-tanda yang mencurigakan dan
+
+insiden tersebut pada akhirnya dianggap hoax.
+
+Sebuah penerbangan Jet Airways dari Mumbai ke Kuwait
+
+terpaksa kembali setelah take off karena ada seorang
+
+penumpang menemukan catatan terselip di buku panduan
+
+6
+
+28 November 2015: keselamatan, yang berbunyi: "Ada bom di bawah kursi Anda,
+
+Mumbai, India
+
+ini akan menjadi penerbangan terakhir Anda." 159
+
+penumpang dan 7 awak kapal turun sementara pesawat
+
+digeledah. Tidak ada yang ditemukan dan penerbangan
+
+berangkat setelah 6 jam kemudian.
+
+Sebuah penerbangan United Airlines dari Anchorage ke
+
+Denver dialihkan ke Vancouver karena adanya sebuah pesan
+
+7
+
+9 Januari 2016:
+
+yang mengancam ditemukan oleh awak kabin di dalam
+
+Vancouver, Canada pesawat. Pesan tersebut diduga berasal dari salah satu
+
+penumpang, setelah ditemukan akhirnya tersangka dibawa ke
+
+tahanan.
+
+Sebuah penerbangan Turkish Airlines dari Texas ke Istanbul
+
+8
+
+24 Januari 2016: Shannon, Eire
+
+dialihkan ke Shannon ketika terdapat handuk kertas yang bertuliskan kata "bom", handuk tersebut ditemukan oleh awak
+
+kabin di salah satu toilet di dalam pesawat.
+
+9
+
+27 Januari 2016: Bangalore, India
+
+Penerbangan AirAsia dari Bangalore ke Goa tertunda selama 4 jam karena adanya ancaman bom di dalam surat yang ditemukan di pesawat.
+
+Sebuha kertas bertuliskan "ada bom di dalam" ditemukan di
+
+sebuah pesawat ketika dalam proses bongkar muat. Kasus
+
+10
+
+29 Februari 2016: Lukla, Nepal
+
+yang terjadi di pesawat Lukla Airport yang baru saja tiba dari Kathmandu tersebut tidak dianggap sepele, sehingga pencarian dilakukan untuk mendeteksi benda-benda
+
+mencurigakan, namun ternyata tidak ditemukan apapun dalam
+
+kasus tersebut.
+
+Sumber: The Global Journal of Airport & Airline Security, 2013 - 2017
+
+Universitas Indonesia
+
+18
+
+Tabel 3. Specific Cases
+
+Specific
+
+No
+
+Tanggal
+
+Isu
+
+Penerbangan Air France dengan tujuan Paris dibatalkan
+
+1
+
+15 Desember 2013: setelah otoritas menerima informasi bahwa teroris berencana Caracas, Venezuella untuk meledakkan bom di pesawat.
+
+2
+
+26 Desember 2013: Penerbangan menuju Okinawa harus ditunda karena pihak
+
+Taipei, Taiwan
+
+ground staff menerima panggilan telepon ancaman bom.
+
+3
+
+28 Januari 2014: Sejumlah 2 penerbangan yang seharsusnya terbang ke Medina Jeddah, Saudi Arabia harus ditunda karena Bandara mendapatkan ancaman bom.
+
+1 April 014:
+
+Gladstone Airport dievakuasi setelah adanya pria berusia 41
+
+4
+
+Gladstone, New
+
+tahun mengisyaratkan bahwa ia memiliki bom di barang
+
+Zealand
+
+bawaannya ketika melewati pemeriksaan.
+
+Aldon Smith ditangkap ketika Ia mengatakan kepada petugas
+
+5
+
+13 April 2014: Los pemeriksaan Bandara bahwa Ia memiliki bom di dalam Angeles, California tasnya.
+
+6
+
+24 April 2014: Taipei, Lee Chiehfu, berusia 27 tahun, ditahan oleh Bandara, sehari
+
+Taiwan
+
+setelah Ia mengancam akan memasang bom di Bandara.
+
+Norwegian Air dialihkan ke Gothenburg setelah adanya
+
+7
+
+25 April 2014:
+
+penumpang mengklaim bahwa Ia memiliki bom di dalam
+
+Gothenburgm, Sweden kargo.
+
+8
+
+4 Mei 2014:
+
+Terminal 2 Arlanda Airport dievakuasi setelah seorang
+
+Stockholm, Sweden penumpang mengatakan bahwa Ia membawa bom.
+
+9
+
+11 Mei 2014:
+
+Bandara dievakuasi karena orang tidak dikenal mengatakan
+
+Yekaterinburg, Rusia ada bom di sana.
+
+Bandara dievakuasi selama 90 menit karena menerima
+
+ancaman bom. Polisi akhirnya menahan pemiliki perusahaan
+
+10
+
+20 Mei 2014: Larnaca, bus dan taksi yang berumur 56 tahun karena dicurigai
+
+Cyprus
+
+bertanggungjawab atas kejadian tersebut. Terdapat benda yang
+
+dicurigai di dalam toilet bandara.
+
+11
+
+20 Mei 2014: Paphos, Kejadian yang sama terjadi di Bandara ini, dicurigai
+
+Cyprus
+
+pelakunya sama dengan yang terjadi di Larnaca.
+
+12
+
+22 Mei 2014: Xinjiang, China
+
+Sejumlah 2 penerbangan Juneyao Airlines dari Shanghai menuju Urumqi menjadi subjek ancaman bom.
+
+13
+
+26 Mei 2014: Magadan, Russia
+
+Magadan Airport dievakuasi setelah mendapatkan ancaman bom melalui email.
+
+14
+
+30 Mei 2014: St. Petersburg, Russia
+
+Bandara dievakuasi karena menerima ancaman bom dari penelepon tidak dikenal.
+
+15
+
+27 Juni 2014: Cochin, Bandara menerima 4 panggilan ancaman bom, penelepon
+
+India
+
+mengatakan telah menempatkan bom di Bandara.
+
+16
+
+4 Juli 2014: Charlotte, Margaret White ditahan di Charlotte-Douglas International
+
+North Carolina
+
+Airport setelah Ia mengklaim membawa bom di dalam tasnya.
+
+17
+
+19 Juli 2014: Gold Coast, Australia
+
+Seorang pria ditangkap setelah membuat ancaman bom di Bandara Brisbane dan Sydney.
+
+18
+
+24 Juli 2014: Los Terminal Bandara dievakuasi setelah mendapatkan panggilan Angeles, California telepon dan menemukan paket yang mencurigakan.
+
+Universitas Indonesia
+
+19
+
+Specific
+
+No
+
+Tanggal
+
+Isu
+
+4 September 2014:
+
+19
+
+Moscow, Russian Bandara dievakuasi setelah menerima ancaman bom.
+
+Federation
+
+Seorang pria ditahan setelah Ia memberikan catatan kepada
+
+20
+
+5 Agustus 2014: Manchester, UK
+
+kru pada penerbangan Qatar Airways, yang mengindikasikan ada bom di pesawat.
+
+21
+
+5 Agustus 2014: Hai Seorang pria ditahan setelah mengatakan kepada petugas
+
+Phong, Vietnam
+
+keamanan Bandara bahwa ada bom di dompetnya.
+
+13 Agustus 2014: Bandara dievakuasi setelah menerima pesan yang
+
+22 Krasnoyars, Russian mengindikasikan bahwa ada bom yang ditempakan di
+
+Federaion
+
+bangunan Bandara.
+
+23
+
+26 Agustus 2014: Phuket, Thailand
+
+Bandara menerima panggilan telepon yang mengatakan ada bom di pesawat AirAsia.
+
+28 Agustus 2014: St. Bandara dievakuasi setelah mendapatkan panggilan telepon 24 Petersburg, Russian ancaman bom dari orang tidak dikenal.
+Federation
+
+25
+
+11 Oktober 2014: Panggilan telepon ancaman bom diterima oleh polisi Bandara. Anchorage, Alaska
+
+Sebuah email diterima oleh petugas dengan isi yang
+
+26
+
+23 Oktober 2014: Kolkata, India
+
+menyatakan akan ada bom bunuh diri yang menargetkan penerbangan Air India.
+
+27
+
+9 Desember 2014: Bandara dievakuasi setelah mendapat ancaman bom bahwa Stockholm, Sweden ada alat peledak di dalam bagasi.
+
+Seorang pria ditangkap setelah memberitahu pada salah satu
+
+28
+
+15 Desember 2014: Transportation Security Administration (TSA) bahwa Ia Zurich, Switzerland membawa bom.
+
+Sebuah panggilan telepon diterima oleh pihak berwenang di
+
+29
+
+24 Agustus 2015: Merida, Mexico
+
+Merida dan berisikan ancaman bahwa bahan peledak telah ditanam di pesawat Interjet menuju Merida dari Mexico City. Sebuah penelitian dilakukan tetapi tidak ada perangkat yang
+
+terdeteksi, dan pesawat itu akhirnya tertunda beberapa menit.
+
+30
+
+7 September 2015: Bangalore, India
+
+Gokul Macheri, 34 tahun, ditangkap dan dituduh membuat 2 panggilan telepon ancaman bom untuk Bandara Kempegowda dan Delhi.
+
+Seorang pria asal Indonesia berusia 61 tahun ditangkap setelah
+
+31
+
+9 September 2015: Bayan Lepas, Malaysia
+
+mengancam untuk mengebom sebuah pesawat di Penang International Airport. Ia melakukan ancaman tersebut setelah diberitahu bahwa Ia membawa kelebihan bagasi. Pihak kepolisian juga mencurigai dia telah menggunakan paspor
+
+palsu.
+
+Sebuah penerbangan United Airlines terpaksa kembali ke
+
+32
+
+11 September 2015: Bandara setelah adanya ancaman bom untuk pesawat tersebut. Frankfurt, Jerman Setelah pencarian dari pesawat, tidak ada yang ditemukan dan
+
+tidak ada yang ditahan.
+
+Keamanan ditingkatkan di Mumbai setelah adanya informasi
+
+33
+
+28 September 2015: Mumbai, India
+
+seseorang mengetahui ada sekelompok teroris di sana. Penelepon mengatakan bahwa mereka telah membawa 5 buah kendaraan akan diledakkan pada pukul 09:00-10:00 di dekat
+
+terminal domestik, terminal internasional dan Taj Hotel.
+
+Universitas Indonesia
+
+20
+
+Specific
+
+No
+
+Tanggal
+
+Isu
+
+Dikarenakan penundaan penerbangan pesawat ke Roma,
+
+34
+
+1 Oktober 2015: Turin, Italia
+
+seorang pria Italia yang berusia 33 tahun melakukan ancaman bom. Ia mengancam dengan mengatakan bahwa Ia telah menelepon polisi dengan melaporkan bahwa ada bom terletak
+
+di pesawat Alitalia di Turin.
+
+Vasilica Stanescu, 28 tahun, membuat telepon kepada layanan
+
+35
+
+7 Oktober 2015: Luton, Inggris
+
+darurat saat berada di tempat parkir Luton Airport, Ia mengklaim memiliki bom di dalam dirinya. Kemudian Ia dijatuhi hukuman 13 bulan penjara dan juga dituduh
+
+menyerang seorang polisi serta membuat kerusakan.
+
+Sebuah pesawat Air France dari Washington melakukan
+
+36
+
+17 November 2015: pendaratan darurat di Halifax setelah mendapat panggilan Halifax, Nova Scotia telepon anonim dengan informasi adanya bom yang berada di
+
+pesawat.
+
+Mahesh Mina, 20 tahun, diduga membuat panggilan telepon
+
+dengan mengancam kepada call center Air India. Mina
+
+mengaku Ia adalah anggota dari ISIS dan mengatakan bahwa
+
+37
+
+20 November 2015: serangan terhadap salah satu pesawat akan diluncurkan. Mina Madhya Pradesh, India ditangkap dan mengatakan kepada polisi Ia berada di bawah
+
+pengaruh obat-obatan dan telah terinspirasi membuat
+
+panggilan telepon tersebut setelah menonton sebuah skenario
+
+serupa di TV.
+
+38
+
+22 November 2015: Halifax, Nova Scotia
+
+Sebuah penerbangan Turkish Airlines dari New York ke Istanbul dialihkan ke Halifax setelah adaya panggilan telepon yang mengklaim bahwa ada bom di pesawat.
+
+Pihak berwenang menerima sebuah ancaman bom di
+
+39
+
+22 November 2015: Singapore
+
+Singapore Airlines SQ001 yang akan terbang dari San Francisco ke Singapura. Penerbangan mendarat dengan selamat namun sempat tertunda karena dilakukan
+
+penggeledahan.
+
+Sebuah ancaman bom melalui telepon terjadi pada
+
+40
+
+7 Desember 2015: penerbangan Condor Airline dari Berlin ke Hurghada, pesawat Budapest, Hungaria diminta untuk melakukan pendaratan darurat di Budapest
+
+dengan didampingi oleh pesawat tempur Hungaria.
+
+Sebuah perangkat yang mencurigakan ditemukan di sebuah
+
+41
+
+20 Desember 2015: Mombasa, Kenya
+
+papan toilet pada penerbangan Air France dari Mauritius ke Paris. Pilot disiagakan dan pesawat mendarat di Moi International Airport. Perangkat ini kemudian ditemukan,
+
+namun hal tersebut ternyata terbuat dari karton dan kertas.
+
+Julio Chavez, 29 tahun, membuat beberapa panggilan telepon
+
+42
+
+25 Desember 2015: Colorado Springs,
+Colorado
+
+ke polisi dan mengaku telah membajak sebuah pesawat tujuan ke Florida. Chavez mengaku telah membunuh pilot dan memiliki bom di pesawat. Polisi akhirnya menelusuri panggilan ke sebuah rumah di Colorado Springs di mana
+
+Chavez ditangkap.
+
+43
+
+30 Desember 2015: Modlin Airport di Warsaw dievakuasi setelah para pejabat Warsaw, Polandia menerima ancaman bom melalui panggilan telepon.
+
+44
+
+1 Januari 2016: Amsterdam, Belanda
+
+Seorang pria Inggris 29 tahun mengumumkan kepada penumpang di Schiphol Airport bahwa Ia memiliki bom. Hal tersebut menyebabkan terminal Bandara dievakuasi.
+
+Universitas Indonesia
+
+21
+
+Specific
+
+No
+
+Tanggal
+
+Isu
+
+Sanjib Mishra, 40 tahun, diduga telah membuat beberapa
+
+45
+
+23 Januari 2016: Nagpur, India
+
+ancaman bom tipuan yang mengakibatkan penerbangan Go Air dari Bhubaneswar ke Mumbai melakukan pendaratan
+
+darurat di Nagpur.
+
+Seorang pria melaporkan kepada petugas keamanan Mumbai
+
+Aiport bahwa ada seorang wanita bernama Hira Shetty
+
+46
+
+27 Januari 2016: Mumbai, India
+
+membawa bom dan bermaksud untuk meledakkan terminal. Wanita itu diidentifikasi sebagai karyawan Bandara. Dia ternyata tidak memiliki bukti yang dituduhkan lalu
+
+menjelaskan bahwa orang yang menuduhnya adalah suaminya
+
+yang memiliki penyakit kejiwaan.
+
+Ancaman bom diterima oleh pihak berwenang di Delhi
+
+sehingga menyebabkan 2 penerbangan kembali ke lokasi
+
+47
+
+27 Januari 2016: Delhi, India
+
+semula. Penerbangan India Air dan Jet Airways dibatalkan sesaat sebelum take off. Menurut para pejabat, penelepon mengidentifikasi dirinya bernama Hafiz Azad dari Istanbul
+
+dan mengklaim bahwa Ia memiliki 2 bom tersembunyi di tas
+
+laptop yang telah ditempatkan pada 2 penerbangan.
+
+48
+
+28 Januari 2016: Kairo, Mesir
+
+Sebuah pesawat Egyptair dari Kairo ke Istanbul ditunda setelah ancaman bom diterima oleh kedutaan Eropa di Kairo, kasus tersebut kemudian diteruskan kepada pihak berwenang.
+
+Penerbangan Saudi Airlines yang berangkat dari Madrid
+
+49
+
+4 Februari 2016: Madrid, Spain
+
+menuju RIyadh pada pukul 10.54 dievakuasi dikarenakan adanya sebuah catatan yang bertuliskan "11.30 bom"
+
+ditemukan di bagasi.
+
+50
+
+14 Februari 2016: Albuquerque, New
+Mexico
+
+Sebuah improvised explosive device (IED) ditemukan di sebuah tempat penyewaan mobil di Alburquerque Airport. Bom tersebut tidak meledak, namun menyebabkan penundaan pesawat yang memakan waktu cukup lama.
+
+Sumber: The Global Journal of Airport & Airline Security, 2013 - 2017
+
+Tabel 4. Occured Cases (Bombing)
+
+Occured
+
+No
+
+Tanggal
+
+Isu
+
+1
+
+11 Desember 2013: Bom bunuh diri terjadi di dekat Bandara dengan Kabul, Afghanistan menggunakan car bomb.
+
+Sebuah vehicle-borne improvised explosive device (VBIED)
+
+2
+
+1 Januari 2014:
+
+meledak 500 meter dari Aden Adde International Airport dan
+
+Mogadishu, Somalia menewaskan 6 orang.
+
+Sebuah improvised explosive device (IED) meledak di Jomo
+
+Kenyatta International Airport. Bom tersebut meledakkan
+
+3
+
+16 Januari 2014: Nairobi, Kenya
+
+tempat sampah serta merusak atap restoran Java House yang berada di dekat pintu masuk terminal. Suspect yang dicurigai
+
+adalah salah satu anggota dari al-Shahab.
+
+6 orang terbunuh setelah meledaknya car bomb di dekat pintu
+
+4
+
+13 Februari 2014: masuk Bandara. al-Shahab mengklaim bahwa mereka Mogadishu, Somalia bertanggungjawab.
+
+Universitas Indonesia
+
+22
+
+Occured
+
+No
+
+Tanggal
+
+Isu
+
+Kelompok militan menyerang Sayoun Airport dan melakukan
+
+5
+
+26 Juni 2014: Sayoun, pengeboman terhadap Air Traffic Control (ATC) tower. 11
+
+Yemen
+
+orang ditemukan tewas.
+
+6
+
+15 Juli 2014: Xining, Sebuah ledakan terjadi di tempat parkir Bandara, seorang
+
+Qinghai, China
+
+pembersih Bandara terluka.
+
+7
+
+2 Oktober 2014: Benghazi, Libya
+
+Terdapat 12 tentara Libya tewas, dan 60 orang lainnya lukaluka akibat 2 bom bunuh diri di pos pemeriksaan.
+
+8
+
+5 November 2014: Sebuah ledakan terjadi di pintu masuk utama Bandara. Saba'sa, Yemen
+
+9
+
+16 November 2014: Sebuah car bomb meledak di pos pemeriksaan Bandara, 5
+
+Baghdad, Iraq
+
+orang mengalami luka-luka.
+
+Bom bunuh diri dilakukan dengan cara mengendarai mobil ke
+
+10
+
+3 Desember 2014: Deir Ez-Zor, Syria
+
+Bandara, lalu bom diledakkan di dekat pintu masuk. Hal tersebut menyebabkan tewasnya 30 orang pasukan
+
+pemerintahan.
+
+Car bomb meledak dan menyebabkan 4 orang tewas di
+
+11
+
+4 Desember 2014: Mogadishu International Airport. Peristiwa tersebut Mogadishu, Somalia menargetkan konvoi PBB yang baru saja meninggalkan
+
+Bandara.
+
+Sejumlah 4 orang dinyatakan tewas akibat aksi bom bunuh
+
+12
+
+4 Januari 2015:
+
+diri yang mengincar konvoi petugas intelijen di wilayah
+
+Mogadishu Somalia Mogadishu International Airport.
+
+Sejumlah 3 orang dinyatakan tewas serta 18 luka-luka
+
+13
+
+17 Mei 2015: Kabul, dikarenakan serangan bom bunuh diri di dekat pintu masuk
+
+Afghanistan
+
+Kabul International Airport.
+
+Sebuah bom meledak di wilayah Buddha Airport. Ditemukan
+
+14
+
+8 Oktober 2015: Bhairahawa, Nepal
+
+improvised explosive device (IED) di sebuah jembatan, IED tersebut dibungkus di dalam ban mobil.
+
+Penerbangan Kogalymavia/Metrojet nomor 9268 dari Sharm
+
+15
+
+31 Oktober 2015: Sinai, Egypt
+
+el-Sheikh yang membawa 217 penumpang dan 7 awak kabin hancur dengan tidak satupun jiwa yang selamat. Hal tersebut
+
+dikarenakan oleh bahan peledak.
+
+16
+
+23 Desember 2015: Petugas kebersihan Bandara yang berusia 30 tahun tewas Istanbul, Turkey akibat serangan bom di Istanbul Sabiha Gokcen Airport.
+
+Pelaku bom bunuh diri menargetkan pasukan American dan
+
+European, bom tersebut meledak dari car bomb di wilayah
+
+17
+
+28 Desember 2015: Kabul Airport. Terdapat 1 orang yang dinyatakan tewas serta Kabul, Afghanistan 33 orang mengalami luka-luka, 18 diantaranya adalah anak
+
+sekolah.
+
+Sebuah improvised explosive device (IED) meledak 20 menit
+
+setelah Daallo Airlines lepas landas dari Mogadishu menuju
+
+Djibouti. Ledakan tersebut mengakibatkan dinding pesawat
+
+18
+
+2 Februari 2016: sebelah kanan berlubang, namun akhirnya pesawat berhasil Mogadishu, Somalia melakukan pendaratan darurat. Tidak ada korban jiwa, kecuali
+
+pelaku bom yang melakukan bom bunuh diri, Ia terlempar
+
+keluar pesawat melalui dinding pesawat yang berlubang.
+
+Universitas Indonesia
+
+23
+
+Occured
+
+No
+
+Tanggal
+
+Isu
+
+Bom laptop meledak di Ugaas Khaliif Airport, hal tersebut
+
+19
+
+7 Maret 2016:
+
+menyebabkan 6 orang luka-luka. Lalu ketika security
+
+Beledweyne, Somalia screening ditemukan 2 buah alat peledak lainnya.
+
+20
+
+7 Maret 2016: Bogotá, Bom meledak di wilayah Guaymaral Airport, hal tersebut
+
+Colombia
+
+menyebabkan 5 pasukan pengaman terluka.
+
+ISIS mengklaim bertanggungjawab atas serangan yang
+
+dilakukan di Brussels Zavantem Airport. Peristiwa ini
+
+21
+
+22 Maret 2016: Brussels, Belgium
+
+menyebabkan tewasnya 32 orang, ditambah dengan teroris yang melakukan bom bunuh diri. Alat peledak diledakan di
+
+check-in counters, yang lainnya di sekitar daerah Starbucks.
+
+Sebuah car bomb meledak di security checkpoint wilayah
+
+22
+
+17 April 2016: Aden, Aden Airport, hal tersebub menyebabkan tewasnya 4 orang
+
+Yemen
+
+tentara Yemeni dan 2 lainnya luka-luka.
+
+Zhou Xingbo yang berumur 29 tahun dilaporkan sebagai
+
+23
+
+12 Juni 2016: Shanghai, China
+
+pelaku dalam peledakan yang terjadi di Pudong International Airport. Ia menggunakan 2 alat peledak sehingga hal tersebut
+
+menyebabkan 4 orang mengalami luka-luka
+
+Serangan di Atatürk Airport ini dilakukan oleh 3 orang militan
+
+yang menggunakan senjata api dan juga rompi untuk
+
+24
+
+28 Juni 2016: Istanbul, melakukan bom bunuh diri. Kasus ini menyebabkan tewasnya
+
+Turkey
+
+kurang lebih 45 orang dan lebih dari 230 mengalami luka-
+
+luka. Serangan tersebut menargetkan kawasan parkir dan
+
+security checkpoint Bandara.
+
+Maskas militer yang terletak di wilayah Aden International
+
+25
+
+4 Juli 2016: Baghdad, Airport menjadi target serangan militan, yakni 2 diantaranya
+
+Iraq
+
+adalah bom bunuh diri. Hal tersebut menyebabkan tewasnya 6
+
+pasukan Yemeni.
+
+26
+
+26 Juli 2016:
+
+Sebanyak 13 orang termasuk petugas keamanan terbunuh
+
+Mogadishu, Somalia dalam serangan car bomb di Mogadishu Airport.
+
+27
+
+12 November 2016: Terdapat 4 orang Amerika terbunuh ketika dilakukannya bom Bagram, Afghanistan bunuh diri di security checkpoint di Bagram Airfield.
+
+28
+
+29 November 2016: Terjadi serangan bom bunuh diri menggunakan car bomb di
+
+Gao, Mali
+
+security checkpoint Gao Airport.
+
+Sejumlah 3 orang petugas keamanan terbunuh dalam serangan
+
+29
+
+2 Januari 2017:
+
+menggunakan improvised explosive device (IED) di security
+
+Mogadishu, Somalia checkpoint Mogadishu International Airport.
+
+30
+
+24 Maret 2017: Dhaka, Sebuah bom bunuh diri terjadi di wilayah pintu masuk Dhaka
+
+Bangladesh
+
+International Airport.
+
+Sumber: The Global Journal of Airport & Airline Security, 2013 - 2017
+
+4.3 Analisis Data
+Giovanni Bisignani, selaku mantan Direktur Jenderal dan CEO dari IATA mengatakan, bahwa permintaan penumpang penerbangan secara terus-menerus selalu melebihi harapan. IATA mengidentifikasi bahwa peningkatan permintaan
+
+Universitas Indonesia
+
+24
+penumpang internasional terus meningkat, terutama pada awal tahun 2007, sehingga lalu lintas penumpang dan jumlah pesawat yang beredar menjadi lebih banyak. Namun, pertumbuhan ini juga terjadi bersamaan disaat bayang-bayang ancaman teroris kian meningkat. Hal tersebut telah menyebabkan berbagai macam perubahan dalam dunia penerbangan, seperti dalam segi pemeriksaan keamanan terhadap penumpang. (European Commission Directorate-General Energy & Transport, 2007: 2)
+Permasalahan seperti Bomb Threats dan Bombing merupakan salah satu permasalahan yang serius di dunia penerbangan, hal tersebut dapat dilihat dari penggambaran ketiga pengelompokan data yang telah dijabarkan sebelumnya. Pencegahan yang tepat tentunya sangat dibutuhkan untuk mengurangi kemungkinan timbulnya berbagai macam kerugian, maka sangat penting jika keamanan penerbangan secara rasional dapat dipertahankan dan juga ditingkatkan, agar peristiwa seperti Bombing dapat dicegah dan teratasi dengan meminimalisir kemungkinan rusaknya infrastruktur dan timbulnya korban jiwa.
+Mengacu pada buku Aviation Security International (2013-2017) yang telah merangkum berbagai macam kasus tersebut, dapat dikatakan bahwa dalam tiga tahun terakhir, Bomb Threats terjadi secara rutin dengan jumlah rata-rata 6 kali perbulannya, dan hampir 1 kemungkinan dari kasus tersebut adalah Bombing. Penanganan yang tepat guna mencegah kasus tersebut menjadi pertanyaan bagi penulis, karena pada dasarnya intervensi terhadap pelaku Bombing tidaklah mudah, apalagi ketika mempertimbangkan bagaimana seseorang yang berani melakukan bom bunuh diri.
+Intervensi terhadap pelaku saja mungkin hanya efektif terhadap Bomb Threats, namun mungkin terbatas ketika mempertimbangkan dan melihat bagaimana kasus-kasus yang memang berakhir menjadi Bombing karena pelaku bom bunuh diri. Intervensi yang bisa dilakukan adalah intervensi terhadap kondisi suatu lokasi, serta memberikan pengawasan terhadap masing-masing aspek yang ada pada The Crime Triangle, yakni offender, target/victim, dan place. Intervensi yang digunakan pada dasarnya diharapkan berguna bagi Aviation Security, khususnya Indonesia, karena kasus tersebut rentan terjadi.
+Universitas Indonesia
+
+25
+Beberapa kumpulan data yang telah dijabarkan hanya gambaran kecil yang mencerminkan seriusnya permasalahan Bombing di dunia penerbangan. Kasus yang cukup parah baru saja terjadi di Brussels Airport pada 22 Maret 2016 lalu, disusul dengan kasus yang terjadi di Istanbul Atatürk International Airport pada pada 28 Juni 2016. Kesamaan dari kedua kasus tersebut dapat dilihat dari banyaknya jumlah korban jiwa dan luka-luka. Kasus di Brussels menewaskan 32 orang beserta 340 orang mengalami luka-luka (BBC, April, 2016), sementara di Atatürk menewaskan 41 orang beserta 239 mengalami luka-luka (Telegraph, Juni, 2016). Hal tersebut pada dasarnya menggambarkan bahwa kasus seperti ini rentan terjadi, khususnya di dunia penerbangan, dan juga menggambarkan bahwa penanganan atas kasus tersebut juga masih harus ditingkatkan. Mengacu pada kasus Brussels hingga Atatürk, pada dasarnya dapat diklasifikasikan kasus tersebut sebagai kasus yang terjadi On the Ground, yakni yang menimpa Bandara atau ketika Pesawat Udara masih berada di darat. Kelemahan yang terlihat adalah mengenai bagaimana kelompok teroris bisa lolos masuk hingga ke dalam Bandara, atau setidaknya telah melewati pintu masuk utama kendaraan.
+4.4 Bentuk Situational Crime Prevention Untuk Aviation Security
+Situational Crime Prevention pada dasarnya dapat berperan penting ketika diterapkan untuk mengatasi kasus seperti demikian, baik untuk memberikan intervensi terhadap kasus-kasus Non-specific, hingga Specific dan Occured. Pendekatan ini pada dasarnya bertujuan untuk mengurangi kesempatan untuk terjadinya kejahatan dengan berfokus pada bentuk kejahatan yang spesifik; yang di dalamnya melibatkan manajemen desain serta manipulasi fisik dari suatu lokasi secara sistematis dan permanen; dengan tujuan untuk membuat kejahatan menjadi lebih sulit untuk dilakukan; atau setidaknya meminimalisir keuntungan yang akan didapat oleh pelaku (Clarke, 1997). Clarke dan Cornish membedakan kategori pendekatan ini menjadi 5 strategi, dengan masing-masing strategi terdiri dari 5 bentuk pencegahan. Penulis hanya menggunakan 2 dari 5 bentuk pencegahan tersebut. Berikut merupakan beberapa bentuk pencegahan yang penulis pilih dalam Tilley (2009: 116), yang secara spesifik dapat digunakan untuk mengintervensi Bombing:
+Universitas Indonesia
+
+26
+1. Increase the effort needed to commit crime ­ Teknik ini berguna untuk memberikan intervensi terhadap pelaku agar Ia membutuhkan usaha yang lebih besar ketika ingin melakukan aksinya. Dalam kasus ini semua bentuk teknik dapat digunakan, yakni target harden; control access; screen exits; deflect offenders; dan control tools/weapons. Clarke dan Newman (2006) mengatakan bahwa teknik ini sangat berpotensi untuk diaplikasikan terhadap pencegahan Bombing, karena pada dasarnya ketika pelaku semakin sulit untuk meraih targetnya, mendapatkan senjatanya, menggunakan peralatannya, memanfaatkan kondisi fasilitas yang ada, serta menyokong organisasinya, maka akan semakin sulit pula pelaku untuk berhasil melakukan tindakannya, karena pada dasarnya hal tersebut akan berpengaruh kepada semakin sulitnya upaya yang harus dilakukan untuk mencapai keberhasilan. Dalam kasus Bombing, bentuk dari target harden dapat diaplikasikan kepada pemberlakuan screening check pada pintu masuk utama kendaraan. Selain itu, menggunakan alat yang dapat mendeteksi adanya bom seperti Explosive Trace Detection (ETD). Ketika terdeteksi, pintu masuk tidak dapat terbuka karena pemicu alarm yang berbunyi. Hal tersebut pada dasarnya berpotensi untuk menghindari berbagai bentuk kemungkinan tembusnya pelaku ke dalam lokasi Bandara, sehingga menghindari berbagai kemungkinan dari skenario Bombing yang telah dipaparkan sebelumnya, yakni: 1. Large Truck Bomb. 2. Curbside Car Bomb. 3. Luggage or Vest Bomb. Kesamaan yang terdapat dari skenario tersebut adalah dengan penggunakan alat untuk menyamarkan bom, baik menggunakan mobil maupun rompi, yang berpotensi agar tidak diketahui keberadaannya. Selain itu, bom diledakkan di kondisi keramaian, dan dapat diasumsikan menargetkan korban jiwa, sehingga pada dasarnya yang harus diprioritaskan adalah untuk melindungi suitable targets dari motivated offenders, dengan menempatkan capable guardians di berbagai titik Bandara. Tentunya sebelum mengetahu secara spesifik
+Universitas Indonesia
+
+27
+aspek apa yang perlu dilindungi, harus dilakukan pengidentifikasian terhadap target-target yang sekiranya dianggap rentan. Teknik tersebut tentunya juga berpotensi untuk menghindari kemungkinan terjadinya Bombing ketika In-flight, karena sebelumnya sudah mendapatkan intervensi yang kuat ketika On the Ground.
+Lalu bentuk dari control access dapat diaplikasikan kepada pemberlakuan pemeriksaan yang kuat dan ketat terhadap bagasi dari setiap kendaraan yang hendak memasuki Bandara, atau pemeriksaan ketat ketika ingin memasuki Terminal. Pemberlakuan access card juga dapat dilakukan, khususnya bagi setiap elemen yang berfungsi untuk mewujudkan keamanan itu sendiri. Hal tersebut akan berpengaruh terhadap tercegahnya segala bentuk ancaman baik In-flight maupun On the Ground.
+Selain itu bentuk dari screen exits yakni dengan pemberlakuan screening ticket baik di pintu masuk dan pintu keluar, tujuannya agar mengintervensi diketahuinya identitas dari semua orang yang masuk dan keluar. Selanjutnya deflect offenders dapat diaplikasikan kepada pemberlakuan penutupan jalan atau akses tertentu ketika ada kendaraan yang masuk dari akses yang tidak seharusnya, sehingga kendaraan tersebut tidak dapat mencapai lokasi-lokasi tertentu, hal tersebut juga berguna untuk mencegah terjadinya Bombing ketika In-flight, tidak hanya On the Ground. Lalu yang terakhir control tools/weapons, hal tersebut dapat diaplikasikan dengan penggunaan produk elektronik yang dapat digunakan untuk mencegah penggunaan detonator. Sebagai tambahan, dapat dilakukan pemasangan iklan atau spanduk menarik di berbagai titik yang membantu siapapun untuk menyadari bagaimana ciri-ciri bahan peledak.
+Mengacu pada Modus Operandi dimana pelaku menggunakan car bomb dan improvised explosive device yang mengincar screening checkpoint, pintu masuk, hingga Pesawat Udara, dapat dikatakan bahwa seharusnya hal tersebut dapat dicegah sebelum pelaku berhasil memasuki wilayah tertentu di Bandara. Seperti yang telah dipaparkan sebelumnya bahwa target harden seperti screening check dengan picu alarm pada Explosive Trace Detection (ETD) dan deflect
+Universitas Indonesia
+
+28
+offenders dengan menutup jalan tertentu dapat menghindari car bomb dan membuat target dapat terlindungi.
+2. Increase the risks of committing crime ­ Teknik ini berguna untuk memberikan intervensi terhadap pelaku agar Ia berpotensi mendapatkan risiko yang lebih besar ketika ingin melakukan aksinya. Dalam kasus ini semua bentuk teknik dapat digunakan, yakni extend guardianship; assist natural surveillance; reduce anonymity; utilize place managers; dan strengthen formal surveillance. Bentuk dari extend guardianship di sini dapat digambarkan dengan memperkuat penjagaan ketat di titik-titik tertentu, contohnya adalah pada pintu masuk utama kendaraan dan pintu masuk Terminal. Penjagaan juga tidak terbatas di jam-jam tertentu melainkan bergantian selama 24 jam. Sehingga ketika pada dasarnya secara fisik sudah lebih aman dengan menggunakan screening check, akan lebih aman ketika ditambah dengan penjagaan rutin dengan melakukan pengawasan, agar berpotensi untuk mengetahui segala bentuk kemungkinan munculnya pelaku. Penjagaan juga harus dilakukan di titik-titik yang terlepas dari keramaian, tentunya hal ini bisa mencegah hal mencurigakan tembus ke In-flight. Kemudian assist natural surveillance dapat digambarkan dengan pemasangan lampu di titik-titik tertenu, agar tidak ada lokasi yang dapat berpotensi digunakan untuk melakukan hal-hal yang tidak dapat terdeteksi. Selanjutnya reduce anonymity, dalam konteks ini berguna untuk mencegah pelaku dapat tembus ke In-flight, seperti melakukan pengecekan seksama antara ID card dan tiket setiap penumpang. Hal tersebut karena pada dasarnya penulis pernah berada di kondisi adanya seseorang yang lolos meskipun identitas di ID card dan tiketnya berbeda, hal tersebut seharusnya lebih diwaspadai. Memastikan bahwa setiap pegawai memakai ID card juga dapat dilakukan, selain itu juga memastikan bahwa pengunjung yang berkepentingan menggunakan ID card yang dikhususkan untuk pengunjung (Brisbane Airport Corporation, 2010). Lalu utilize place managers, meskipun pada dasarnya intervensi ini mungkin tidak berlaku sepenuhnya untuk menghindari pelaku bom bunuh diri, namun setidaknya dapat berpotensi membuat handler mengetahui ketika ada
+Universitas Indonesia
+
+29
+gerak-gerik mencurigakan, yakni dengan pemasangan Closed-Cirquit Television (CCTV) yang memadai. Hal tersebut dikarenakan dengan menggunakan mekanisme ini akan dapat mempermudah dalam melakukan pendeteksian terhadap terjadinya kejahatan, setidaknya membuat kemungkinan bahwa pelaku yang ingin beraksi di suatu area yang dipenuhi dengan CCTV akan merasa lebih kesulitan dibandingkan dengan area yang tidak memiliki CCTV (Welsh & Farrington, 2007), atau setidaknya aksi tersebut sudah lebih dulu diketahui oleh petugas dan siap untuk melakukan pencegahan secara spesifik. Kemudian strengthen formal surveillance berguna untuk mempersiapkan kemungkinan terburuk ketika terdapat indikasi-indikasi yang mengarah ke Bombing, yakni dengan menerapkan penjagaan yang ketat dan alarm tanda bahaya.
+Ketika aspek ini hilang, bisa saja kasus yang menimpa Brussels dan Atatürk terjadi, karena pada dasarnya dapat dilihat bahwa Modus Operandi dari kasus tersebut adalah melakukan penyerangan terhadap Bandara dengan melakukan bom bunuh diri di screening checkpoint dan pintu masuk. Sehingga seharusnya hal tersebut bisa dicegah dengan teknik-teknik seperti extend guardianship dan strengthen formal surveillance.
+Pada dasarnya teknik-teknik yang sudah dipaparkan sebelumnya secara spesifik digunakan guna mengintervensi kasus Bombing, dan ketika intervensi secara spesifik diberlakukan dengan berfokus terhadap intervensi Bombing, maka dapat diasumsikan kemungkinan terburuk dari Bomb Threats dapat teratasi, baik yang kasusnya tergolong Specific sekalipun. Selain itu, teknik ini juga dapat mencegah kasus Bombing yang datang dengan tiba-tiba tanpa peringatan seperti adanya Bomb Threats terlebih dahulu. Alasan mengapa kasus seperti ini tidak dapat dianggap remeh adalah karena tidak dapat selalu dipastikan bahwa pada akhirnya ancaman hanya akan berakhir sebagai ancaman, sehingga segala bentuk kasus harus dipertimbangkan dan diintervensi.
+Secara garis besar, dunia penerbangan sudah menerapkan intervensi yang kurang lebih sejalan dengan intervensi Situational Crime Prevention, khususnya Indonesia, seperti halnya CCTV dan screening check. Namun dalam konteks screening check point, di Indonesia khususnya, belum semua Bandara yang
+Universitas Indonesia
+
+30
+
+menggunakan hingga lebih dari dua tingkat screening check point, hal tersebut yang kemudian membuat peristiwa seperti ini semakin rentan terjadi. Selain itu, banyak dari kita yang mungkin juga merasakan, bahwa pengamanan di suatu tempat akan lebih ketat hanya ketika peristiwa-peristiwa Bombing sudah terjadi, namun setelah itu pengamanan kembali melemah. Maka, andil Aviation Security sangat diperlukan untuk mengintervensi berbagai aspek yang terkait untuk mewujudkan keamanan penerbangan.
+
+Tabel 5. Situational Crime Prevention Applied to Bombing
+
+Increase the Effort
+1. Target harden · Screening check · Warning alarm
+2. Control access · Baggage screening - Access card 3. Screen exits · Screening ticket
+4. Deflect offenders · Street closures · Closing access 5 Control tools/weapons · Prevent detonators
+
+Increase the Risks
+
+Reduce the Rewards
+
+6. Extend
+
+11. Conceal
+
+guardianship
+
+targets
+
+· Tighten security · n/a
+
+7. Assist natural surveillance · Lighting
+
+12. Remove targets · n/a
+
+8. Reduce Anonimity · Matching ID card 9. Utilize place managers · Using CCTV
+
+13. Identify property · n/a
+14. Disrupt markets · n/a
+
+10. Strengthen formal surveillance · Security guards · Warning alarm
+
+15. Deny benefits · n/a
+
+Reduce Provocations
+16. Reduce frustations and stress · n/a 17. Avoid disputes · n/a
+18. Reduce emotional arousal · n/a 19. Neutralize peer pressure · n/a
+20. Discourage imitations · n/a
+
+Remove Excuses
+21. Set rules · n/a
+22. Post instructions · n/a
+23. Alert conscience · n/a
+24. Assist compliance · n/a
+25. Control drugs and alcohol · n/a
+
+4.5 Bentuk Routine Activity Theory Untuk Aviation Security
+
+Ketika mengacu pada Routine Activity Theory, kasus kejahatan seperti Bombing tentu saja dapat terjadi ketika adanya aspek motivated offenders, suitable targets, dan the absence of capable guardians. Dalam kasus-kasus yang tergolong Non-specific, dapat diasumsikan motivated offenders tidak selalu memiliki tujuan berdasar, ketika yang terjadi adalah kasus-kasus yang bersifat hoax. Karena terkadang pelaku termotivasi karena mengalami stress. Hal tersebut setidaknya dapat diintervensi dengan teknik remove excuses dari Situational Crime
+
+Universitas Indonesia
+
+31
+Prevention, meskipun strategi tersebut tentunya tidak dapat mengatasi Bombing secara keseluruhan. Namun, dengan menerapkan teknik pada tabel di atas, tentunya berguna untuk mengatasi Bombing, sehingga akan semakin memperkecil kemungkinan Bomb Threats menjadi Bombing. Selain itu, dalam kasus yang tergolong Specific, berdasarkan data yang telah dijabarkan dapat diasumsikan motivated offenders muncul karena memiliki kepentingan tertentu, meskipun dari awal memang tidak berniat untuk melakukan pengeboman, kepentingan seperti ingin melumpuhkan sistem keamanan dengan membuat kekacauan. Hal tersebut dapat digambarkan dari banyaknya kasus ancaman yang sudah mengalami penanganan lanjutan, namun ternyata suspect bom sama sekali tidak ditemukan. Sedangkan pada kasus yang tergolong Occured, dapat diasumsikan motivated offender memang bertujuan untuk merusak infrastruktur dan ingin membuat munculnya korban jiwa, sehingga banyak kasus-kasus Bombing yang dilakukan di keramaian.
+Lalu ketika mengacu kepada apa suitable targets, dalam kasus Nonspecific yang pada akhirnya hoax dapat diasumsikan hal tersebut dilakukan tidak berdasar kepada target apa yang diincar, karena pada akhirnya hal tersebut hanyalah sebuah gurauan. Pada kasus Specific yang pada akhirnya juga tidak ditemukan suspect bom, suitable targets dapat diasumsikan Pesawat Udara ketika ancaman tersebut terjadi ketika In-flight, dan Bandara ketika ancaman tersebut terjadi ketika On the Ground, seperti yang terjadi pada kasus-kasus yang telah dijabarkan sebelumnya. Beda halnya dengan Occured, yang pada dasarnya hal tersebut yang harus dijadikan fokus utama untuk dapat dicegah. Aviation Security harus memiliki pencegahan yang tepat guna meminimalisir berbagai kemungkinan terjadinya pengeboman, baik In-flight maupun On the Ground. Istilah "soft target" sangat bisa untuk menggambarkan mengenai mengapa pada akhirnya Bandara menjadi ancaman Bombing. Setidaknya ketika lebih sulit untuk menembus Bombing saat In-flight, maka On the Ground menjadi suatu opsi yang dipilih. Bandara pada dasarnya menjadi "soft target" karena Bandara merupakan tempat yang besar dengan kemungkinan minimnya keamanan yang dapat melindungi segala sudut, ditambah dengan banyaknya volume kumpulan individu yang berkumpul di tempat yang sama (NBC News, Juni, 2016). Sehingga dapat
+Universitas Indonesia
+
+32
+dikatakan suitable targets dalam konteks kasus yang Occured yakni infrastuktur dan korban jiwa.
+Selanjutnya, dalam kasus Non-specific dan Specific yang akhirnya hanya hoax ataupun hingga mengalami penanganan lanjutan namun tidak ditemukan suspect bom, the absence of capable guardians mungkin tidak bisa disalahkan, karena pada dasarnya hal tersebut masih bisa terjadi ketika pengawasan ditingkatkan. Hal tersebut karena konteks dari kasus yang tergolong demikian memang hanyalah sekedar ancaman. Lain halnya dengan kasus yang Occured, the absence of capable guardians justru akan melancarkan aksi yang tidak hanya berakhir menjadi sebuah ancaman, melainkan Bombing. Oleh karena itu bentuk intervensi seperti Situational Crime Prevention dapat diterapkan guna mencegah berbagai bentuk kemungkinan terburuk.
+Kembali pada The Crime Triangle, pada dasarnya offender, target/victim, dan place harus diawasi oleh agen yang spesifik, hal tersebut harus dipecah masing-masing berdasar kepada apa yang ingin dilindungi atau diintervensi. Pendekatan ini juga berfokus agar meminimalisir kemungkinan lolosnya pelaku dan adanya bahaya yang akan menimpa korban, sehingga pengurangan kemungkinan akan hal tersebut adalah tujuan utamanya, dan bisa diwujudkan dengan melakukan pengawasan. Dengan demikian, dibutuhkan masing-masing controllers untuk setiap aspek yang ingin diintervensi, yakni sebagai berikut:
+1. Handler ­ Memiliki tanggung jawab untuk mengawasi siapapun yang berpotensi menjadi offender, artinya handler merupakan seseorang yang terdekat ke posisi offender, dan merupakan orang yang terlatih untuk mengendalikan aksi apapun yang berpotensi dilakukan oleh offender. Dalam konteks ini yakni Airport Police & Airport Security. 2. Guardian ­ Memiliki tanggung jawab untuk mengawasi siapapun yang berpotensi menjadi target/victim, artinya guardian merupakan seseorang yang terdekat ke posisi target/victim, dan merupakan orang yang terlatih untuk mengawasi target/victim yang menjadi incaran offender. Dalam konteks ini yakni Aviation Security Officer & Cabin Crew.
+Universitas Indonesia
+
+33
+3. Manager ­ Memiliki tanggung jawab untuk mengawasi serta memantau kondisi dari suatu place, artinya manager merupakan seseorang yang terdekat ke posisi place, dan merupakan orang yang memiliki akuntabilitas untuk menjamin keamanan suatu area yang spesifik. Dalam konteks ini yakni Aviation Security Manager.
+Gambar 2. The Crime Triangle of RAT Applied to Bombing
+Penanganan terhadap kejahatan Bombing seperti ini harus bisa teratasi, intensitas kasus tersebut menggambarkan bahwa kejahatan yang terjadi di Bandara merupakan salah satu bentuk sanggahan terhadap adanya anggapan bahwa kejahatan terjadi karena tingginya kemiskinan dan pengangguran. Bentuk kejahatan seperti Bomb Threats dan Bombing di Bandara lebih dari sekedar kejahatan konvensional pada umumnya, seperti di pasar dan tempat sejenis. Bomb Threats hingga Bombing sejalan dengan pemikiran bahwa peningkatan kejahatan tidak terbatas pada hal-hal seperti kemiskinan dan pengangguran, karena peningkatan kejahatan bahkan terjadi pada titik dimana sudah tingginya tingkat pendidikan, pendapatan, dan lapangan kerja di tempat tinggal kita, tepatnya di
+Universitas Indonesia
+
+34
+area perkotaan (Lersch, 2007: 83). Karena dengan meningkatnya semua hal tersebut, maka meningkat pula kemungkinan untuk meningkatnya kejahatan.
+Setidaknya dengan intervensi yang kuat yang telah meminimalisir berbagai bentuk kemungkinan bom akan tembus ke Bandara maupun Pesawat Udara akan meminimalisir pula berbagai bentuk kemungkinan bahwa Bomb Threats akan berakhir menjadi Bombing. Karena pada dasarnya Bomb Threats mungkin tidak dapat dicegah dengan intervensi lokasi, namun intervensi tersebut merupakan salah satu aspek yang berpotensi menjadi penentu apakah pada akhirnya Bombing bisa terjadi di suatu tempat yang ditargetkan atau tidak. Dengan demikian, penggunaan teknik Situational Crime Prevention serta mengacu pada intervensi The Crime Triangle dari Routine Activity Theory dapat menjadi solusinya.
+5. KESIMPULAN
+Dalam dunia penerbangan, permasalahan Bombing seharusnya menjadi suatu fokus utama yang harus diatasi oleh Aviation Security. Hal tersebut karena adanya bukti bahwa kasus ini sering terjadi. Seperti halnya Bomb Threats yang tidak dapat diatasi dengan baik, tentunya akan sangat berpotensi menjadi Bombing. Tidak hanya itu, bahkan Bombing juga bisa terjadi tanpa melalui proses Bomb Threats terlebih dahulu, sehingga tidak ada yang mengetahui akan terjadinya Bombing. Dengan demikian, dibutuhkan intervensi yang kuat dan tepat guna meminimalisir berbagai kemungkinan terburuk tersebut.
+Pendekatan seperti Situational Crime Prevention dapat diterapkan secara spesifik guna mengintervensi kondisi dari suatu lokasi, dengan tujuan untuk meminimalisir kemungkinan kejahatan dapat dilakukan di suatu tempat, teknik strategis yang dapat digunakan untuk mengatasi Bombing adalah sebagai berikut:
+1. Increase the effort needed to commit crime.
+2. Increase the risks of committing crime. Hal tersebut tentu saja memerlukan Routine Activity Theory yang pada dasarnya dapat membantu dalam memahami berbagai aspek yang memungkinkan
+Universitas Indonesia
+
+35
+untuk menyebabkan terjadinya Bombing. Setelah itu, intervensi terhadap berbagai aspek tersebut juga bisa diterapkan dengan mengacu kepada The Crime Triangle yang membantu dalam menetapkan agen tertentu untuk mengawasi masingmasing aspek offender, target/victim, dan place, yakni:
+1. Handler yang bertanggung jawab atas offender. 2. Guardian yang bertanggung jawab atas target/victim. 3. Manager yang bertanggung jawab atas place.
+Setidaknya dengan mengaplikasikan kedua pendekatan ini adalah bentuk dari usaha untuk mencegah Bombing terhadap dunia penerbangan, dengan terus mewaspadai setiap kasus Bomb Threats yang ada, karena pada dasarnya kasus tersebut merupakan bentuk dari suatu ancaman yang harus diwaspadai, dengan potensinya yang dapat menjadi Bombing. Selain itu juga mempertimbangkan bahwa kasus Bombing juga bisa saja terjadi tanpa melalui proses Bomb Threats terlebih dahulu. Dengan menerapkan teknik Situational Crime Prevention, serta membuat pengkategorisasian controllers yang berdasar pada The Crime Triangle dari Routine Activity Theory, setidaknya mencerminkan bahwa setiap bentuk kasus yang telah terjadi memerlukan intervensi yang lebih baik agar kasus-kasus seperti Bombing bisa berpotensi dicegah di kemudian hari, sehingga ketika adanya kemungkinan kasus tersebut akan terjadi di suatu lokasi, intervensi yang tepat tentunya berpotensi berhasil mencegahnya, agar tidak berakhir dengan rusaknya infrastruktur dan timbulnya korban jiwa, seperti yang telah terjadi di masa lampau. Dengan penerapan yang baik dari kedua pendekatan ini, serta menjamin bahwa Aviation Security di setiap Bandara maupun Maskapai Penerbangan dapat melakukannya dengan baik sesuai prosedurnya, dengan tidak mengesampingkan berbagai bentuk kemungkinan, dapat dikatakan bahwa pendekatan ini akan berhasil dalam mencegah kemungkinan terburuk yang tidak diinginkan, yakni Bombing.
+Universitas Indonesia
+
+36
+DAFTAR PUSTAKA
+Buku
+Aviation Security International. February 2014. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. April 2014. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. June 2014. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. August 2014. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. October 2014. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. December 2014. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. February 2015. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. April 2015. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. June 2015. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. August 2015. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. October 2015. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. December 2015. The Global Journal of Airport & Airline Security. UK: ASI.
+Universitas Indonesia
+
+37
+Aviation Security International. February 2016. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. April 2016. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. June 2016. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. August 2016. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. October 2016. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. December 2016. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. February 2017. The Global Journal of Airport & Airline Security. UK: ASI.
+Aviation Security International. April 2017. The Global Journal of Airport & Airline Security. UK: ASI.
+Brisbane Airport Corporation. 2010. Security and Emergency Awareness Guide. Brisbane: Brisbane Airport.
+Clarke, Ronald V. 1997. Situational Crime Prevention: Successful Case Studies (second edition). New York: Harrow and Heston Publishers.
+Clarke, Ronald V., & Graeme R. Newman. 2006. Outsmarting the Terrorists. London: Praeger Security International.
+European Commission Directorate-General Energy & Transport. 2007. Facilitation of Aviation Security: Feasubility Study of "Registered Passenger" Concept. EU: European Commission Directorate-General Eenergy & Transport.
+Glick, Leonard. 2005. Criminology. Boston: Allyn & Bacon.
+Universitas Indonesia
+
+38
+Grant, Heath. 2015. Social Crime Prevention in the Developing World: Exploring the Role of Police in Crime Prevention. Switzerland: Springer International Publishing Switzerland.
+International Air Transport Association. 2012. Guidance on Unruly Paseenger Prevention and Management. Journal: Montreal, IATA.
+Jendly, Manon., Valérie Sagant, Margaret Shaw. 2008. International Report Crime Prevention and Community Safety: Trends and Perspective. Montreal: International Centre for the Prevention of Crime (ICPC).
+Lersch, Kim Michelle. 2007. Space, Time, and Crime: Second Edition. Durham: Carolina Academic Press.
+Martonosi, Susan Elizabeth. 2005. An Operation Research Approach to Aviation Security. US: Massachusetts Institute of Technology.
+Siegel, Larry J., 2012. Criminology: Eleventh Edition. US: Wadsworth, Cengage Learning.
+Sudiadi, Dadang. 2016. Pencegahan Kejahatan di Perumahan. Jakarta: Yayasan Pustaka Obor Indonesia.
+Tilley, Nick. 2009. Crime Prevention. Portland: Willan Publishing. Vellani, Karim H. 2007. Strategic Security Management: A Risk Assessment
+Guide for Decision Makers. UK: Elsevier Inc. United Nations Office on Drugs and Crime. 2010. Handbook on the crime
+prevention guidelines: Making them work. New York: United Nations.
+Artikel Jurnal
+Block, Molly Mae. 2016. Applying Situational Crime Prevention to Terrorism Against Airports and Aircrafts. Journal: Kentucky, University of Louisville.
+Brantingham, Patricia L., & Paul J. Brantingham. 2005. Situational Crime Prevention as a Key Component in Embedded Crime Preventions. Journal:
+Universitas Indonesia
+
+39
+Canada, Ministry of Public Safety and Solicitor General of Britis Columbia. Elias, Bart. 2009. National Aviation Security Policy, Strategy, and Mode-Specific Plans: Background and Considerations for Congress. Journal: DC, Congressional Research Service. Haelterman, Harald. 2012. Situational Crime Prevention in the International Supply Chain: The Cost of Alternative Measures. Journal: Ghent, Ghent University. Hayward, Keith. 2007. Situational Crime Prevention and its Discontents: Rational Choice Theory versus the 'Culture of Now'. UK: Social Policy and Administration. Jenkins, Brian Michael. 2012. Aviation Security: After Four Decades, It's Time for a Fundamental Review. Journal: US, The RAND Homeland Security and Defense Center. Kleemans, Edward R., Melvin R.j. Soudijn & Anton W. Weenink. 2010. Situational Crime Prevention and Cross-Border Crime. Journal: UK, Willan Publishing. Linden, Rick. 2007. Situational Crime Prevention: Its Role in Comprehensive Prevention Initiatives. Journal: Canada, University of Manitoba. Stewart, Mark G., & John Mueller. 2013. Cost-benefit analysis of airport security: Are airports too safe?. Journal: DC, Journal of Air Transport Management. Tillyer, Marie Skubak & David M. Kennedy. 2008. Locating Focused Deterrence Approaches within a Situational Crime Prevention Framework. Journal: US, Crime Prevention and Community Safety. United Arab Emiates, General Civil Aviation Authority. 2015. Civil Aviation Regulation ­ Part VII: Aviation Security Regulations: Third Edition. Journal: Abu Dhabi, UAE ­ GCAA.
+Universitas Indonesia
+
+40
+
+Welsh, Brandon C., & David P. Farrington. 2007. Closed-Circuit Television Surveillance and Crime Prevention. Sweden: The Swedish National Council for Crime Prevention.
+
+Undang-Undang
+
+Menteri Perhubungan Republik Indonesia. 2013. Peraturan Menteri Perhubungan Republik Indonesia Nomor: PM 31 Tahun 2013. Indonesia: Menteri Perhubungan Republik Indonesia.
+Menteri Perhubungan Republik Indonesia. 2015. Peraturan Menteri Perhubungan Republik Indonesia Nomor: PM 127 Tahun 2015. Indonesia: Menteri Perhubungan Republik Indonesia.
+
+Online
+
+Brussels explosions: What we know about airport and metro attacks. Diakses pada http://www.bbc.com/news/world-europe-35869985
+
+Istanbul Ataturk airport attack: 41 dead and 239 injured in 'hideous' suicide
+
+bombings
+
+in
+
+Turkey.
+
+Diakses
+
+pada
+
+http://www.telegraph.co.uk/news/2016/06/29/istanbul-ataturk-airport-
+
+attack-36-dead-and-150-injured-in-hideo
+
+Istanbul Bombings: Airport Attack Is Another Strike on a `Soft Target'. Diakses
+
+pada
+
+http://www.nbcnews.com/storyline/istanbul-ataturk-airport-
+
+attack/istanbul-bombings-airport-attack-another-strike-soft-target-
+
+n600661
+
+Penumpang Ngaku Bawa Bom, Garuda Sempat Tunda Penerbangan Banda AcehJakarta. Diakses pada https://news.detik.com/berita/3236420/penumpangngaku-bawa-bom-garuda-tunda-penerbangan-banda-aceh-jakarta
+
+Why soft target terrorist attacks will remain a threat. Diakses pada http://globalriskinsights.com/2016/07/soft-target-terrorist-attacks/
+
+Universitas Indonesia

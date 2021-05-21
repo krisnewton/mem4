@@ -1,0 +1,1214 @@
+Microsoft Excel 2007
+MODUL KKPI
+Microsoft Excel 2007
+Untuk Kelas : X Semester 2
+Design by :
+ARIS BUDIANTO, SE
+
+SMK TAMTAMA 1 SIDAREJA
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 1 dari 66
+
+Microsoft Excel 2007 BAB 1 MICROSOFT EXCEL 2007
+
+1.1 PENGENALAN MICROSOFT EXCEL 2007
+1.1.1 Tampilan Layar Excel
+Microsoft Excel 2007 adalah sebuah program aplikasi lembar kerja (spreadsheet). Excel 2007 merupakan bagian dari Microsoft Office 2007, yaitu suatu paket yang terdiri atas beberapa program, antara lain Excel, Word, Access, PowerPoint, Outlook, Groove, InfoPath, OneNote, Publisher. Excel merupakan produk unggulan dari Microsoft Corporation yang banyak berperan dalam pengelolaan informasi khususnya data berbentuk angka untuk perhitungan, proyeksi, analisis, dan persentasi data.
+Untuk membuka Excel, klik tombol Start di lajur taskbar di bagian bawah layar Windows, lalu klik All Programs. Biasanya Excel tersimpan dalam folder Microsoft Office. Klik folder tersebut dan pilih Microsoft Excel 2007. Setelah kita membuka Excel, tampilan layar monitor akan ditampilkan pada Gambar 1.
+
+Tombol Office Quick access toolbar
+
+Formula Tab Bar
+
+Title Bar
+
+Tombol dialog
+
+Group
+
+Maximize Close Minimize
+
+Name Box
+
+Scrollbar vertikal
+
+Scrollbar horizontal
+
+Navigasi sheet
+
+Tabulasi sheet
+
+Pointer
+
+Lembar kerja spreadsheet
+
+Tombol pengatur tampilan lembar kerja Zoom Level
+
+Gambar 1 Lembar kerja Microsoft Excel 2007.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 2 dari 66
+
+Microsoft Excel 2007
+
+Ketika Tombol Office di-klik, tampilan yang dihasilkan seperti Gambar 2.
+
+Menu-menu File
+
+11 file terakhir yang pernah dibuka
+
+Excel Options
+Gambar 2 Tampilan tombol office ketika di-klik.
+Tombol office merupakan pengganti menu File yang sering dijumpai dalam Microsoft Excel versi sebelumnya. Tombol ini berisi perintah-perintah standar untuk mengoperasikan file dokumen, seperti membuka dokumen, menutup dokumen, dan mencetak dokumen.
+Tab merupakan bagian yang berbentuk tabulasi dan berisi serangkaian group yang memuat beberapa tombol perintah yang relevan.
+Title Bar (lajur judul) tercantum nama program, yaitu nama dokumen atau file yang sedang diproses dan nama aplikasi yaitu Microsoft Excel. Pada awalnya, Excel memberi nama Book1 pada file tersebut, namun kita dapat mengubahnya ke nama lain
+Grup merupakan bagian yang terletak di bawah tab dan berisi sederetan tomboltombol perintah untuk menjalankan suatu proses tertentu dengan cara mengklik tombol-tombol perintah tersebut.
+Quick Access Toolbar merupakan toolbar yang memiliki keistimewaan khusus dan terletak di bagian sudut kanan atas lembar kerja. Isi tombol-tombol perintah dalam toolbar ini dapat dimodifikasi, sehingga kita dapat menambahkan beberapa tombol perintah yang sering digunakan dalam toolbar ini.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 3 dari 66
+
+Microsoft Excel 2007
+
+Tombol Dialog merupakan tombol dengan simbol anak panah yang di bagian kanan nama. Tombol ini berfungsi untuk membuka kotak dialog dengan perintah-perintah yang lebih kompleks dan masing-masing disesuaikan dengan nama toolbarnya.
+Close merupakan tombol yang befungsi untuk menutup dokumen atau keluar dari Microsoft Excel.
+Maximize dan Minimize berfungsi untuk memaksimalkan dan meminimalkan ukuran jendela lembar kerja Microsoft Excel.
+Name Box berfungsi untuk memasukkan alamat sel atau nama dari range yang menunjukkan pada suatu tempat tertentu di lembar kerja. Pemberian nama pada suatu sel atau range tertentu di lembar kerja akan memudahkan dalam operasi matematika atau pembacaan suatu tabel.
+Formula Bar digunakan untuk menampilkan informasi isi sel yang aktif di lembar kerja, untuk memasukkan dan mengubah formula/rumus.
+Scrollbar Vertikal digunakan untuk menggulung layar secara vertical dan Scrollbar Horizontal digunakan untuk menggulung layar secara horizontal.
+Tabulasi sheet merupakan lembar kerja utama dari Microsoft Excel yang digunakan untuk menampung seluruh data dan formula yang akan digunakan sebagai sumber data pembentuk tabel atau laporan.
+Navigasi sheet merupakan sederetan tombol perintah yang berfungsi untuk pindah antar sheet aktif.
+Tombol pengatur tampilan lembar kerja merupakan bagian yang berisi sederetan tombol perintah untuk mengatur tampilan dokumen dalam lembar kerja.
+Zoom level merupakan bagian yang berisi sederetan tombol perintah untuk mengatur ukuran tampilan dokumen dalam lembar kerja.
+1.1.2 Lembar Kerja Dan Buku Kerja
+Lembar kerja atau worksheet merupakan bagian utama pada layar Excel. Lembar kerja dibagi atas kolom (colums) dan baris (rows). Office Excel 2007 kini didukung kemampuan dengan jumlah kolom dan baris yang semakin banyak, yaitu 1.048.576 baris dan 16.384 kolom setiap worksheet. Dengan demikian, kolom terakhir pada worksheet Excel adalah XFD bukan lagi kolom IV.
+Dibanding versi sebelumnya hanya 65.536 baris dan 256 kolom. Ini berarti penambahan jumlah baris 15,25 kali dan jumlah kolom 62,5 kali. Dari jumlah sel, maka kemampuan baru Excel 2007 meningkat 1024 kali. Perpotongan antara kolom dan baris disebut sel dan kumpulan sel disebut range.
+File yang dihasilkan dengan suatu program aplikasi disebut dokumen. Excel akan menghasilkan dokumen yang disebut buku kerja atau workbook. Suatu buku kerja merupakan kumpulan lembar kerja. Selain lembar kerja, suatu buku kerja dapat mengandung lembar grafik.
+1.2 MEMULAI MENGOPERASIKAN MICROSOFT EXCEL 2007
+1.2.1 Memanipulasi Lembar Kerja
+Lembar kerja Microsoft Excel dapat dimanipulasi sesuai dengan keinginan, misalnya:
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 4 dari 66
+
+Microsoft Excel 2007
+
+1. Mengubah nama lembar kerja a. Klik kanan pada tulisan Sheet1. b. Pilih Rename. c. Ketik nama yang diinginkan, kemudian tekan Enter.
+2. Menyisipkan lembar kerja a. Klik kanan suatu sheet. b. Pilih Insert. c. Pilih Worksheet dan tekan OK.
+3. Menghapus lembar kerja a. Klik kanan suatu sheet. b. Tekan Delete.
+4. Memindahkan lembar kerja a. Klik suatu sheet. b. Drag ke kiri atau ke kanan.
+5. Duplikat lembar kerja a. Klik kanan suatu sheet. b. Pilih Move or Copy. c. Pilih sheet yang akan di-copy d. Aktifkan list box yang bertuliskan create a copy.
+
+1.2.2 Input Data
+Ada dua macam data yang dapat dimasukkan ke setiap sel, yaitu:
+a. Nilai tetap, seperti teks, angka, tanggal, dan waktu. Cara memasukkan datanya adalah langsung diketik di sel yang diinginkan.
+b. Formula (rumus) yang digunakan untuk melakukan perhitungan atau operasi lainnya. Cara memasukkan datanya adalah harus diawali dengan sama dengan "=", "+" atau "-".
+Data teks dapat mengandung karakter abjad (A, a, B, b, C, c, D, d,...), angka (1, 2, 3, 4, ...), simbol (!, @, #, $, %, ?,...) dan spasi. Data angka dapat berlaku sebagai teks jika diawali dengan apostrop (`). Contohnya nomor telepon 0251435647. Jika data angka berlaku sebagai teks maka tidak dapat dilakukan operasi hitung. Perbedaan antara data teks dan data angka adalah tulisan data teks adalah rata kiri, sedangkan tulisan data angka adalah rata kanan.
+Data angka yang dapat dimasukkan adalah:
+a. Bilangan bulat, misalnya 123.
+b. Bilangan pecahan desimal, misalnya 23.76. Secara default, simbol desimal harus titik, bukan koma. Simbol desimal dengan titik ini merupakan format bahasa jika kita menggunakan Bahasa Inggris, tetapi kalo format bahasa di komputer kita Bahasa Indonesia, maka simbol desimal adalah koma. Perubahan format bahasa bisa dilakukan melalui Start Control Panel Regional and Language Options. Pilih format di bagian combo box.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 5 dari 66
+
+Microsoft Excel 2007
+
+c. Bilangan pecahan bulat, misalnya 1 1/5. Cara pengetikannya adalah ketik bilangan bulatnya, lalu tekan spasi, kemudian ketik bilangan pecahannya. Jika angka itu hanya mengandung pecahan dan tidak ada bilangan bulatnya, misal 5/6, ketiklah 0, lalu spasi, dan kemudian ketik 5/6 (jadi 0 5/6). Jika langsung diketikkan 5/6, maka Excel menafsirkan sebagai tanggal 6 Mei.
+d. Bilangan dengan notasi ilmiah, misalnya 3.56E+2 (E+2 berarti 102)
+
+e. Bilangan negatif diawali dengan lambang minus, misalnya -768 atau ditulis di antara kurung (768).
+
+Kita dapat menampilkan data angka dengan berbagai format, misalnya dengan mencantumkan lambang mata uang Rp, dalam bentuk persen.
+
+Data angka yang dimasukkan pada lembar kerja dapat dioperasikan dengan rumus/formula/fungsi. Adapun cara penulisan operator aritmetika dalam Excel sebagai berikut:
+
+· +
+
+: penjumlahan
+
+· -
+
+: pengurangan
+
+· * (asterik) : perkalian
+
+· / (slash) : pembagian
+
+· ^
+
+: pemangkatan
+
+Hirarki operator aritmetika dalam proses perhitungan dimulai dari ^, *, +, -. Akan tetapi jika perhitungan di dalam tanda kurung (...), maka Excel akan mendahulukannya.
+
+Data tipe tanggal dan waktu dapat diketikkan dengan tampilan format yang beragam. Ketika memasukkan suatu tanggal dengan format misalkan 9-5-06, maka Excel akan mengubah menjadi 9/5/2006 atau 5-Sep-06 atau format lain sesuai dengan format yang dipilih.
+
+Pemasukkan data di suatu sel dapat diakhiri dengan menekan Enter atau tombol panah atau tombol PageUp dan PageDown.
+
+1.2.3 Bekerja Dengan Excel
+Ketiklah lembar kerja seperti Gambar 3. Untuk menampung teks yang kita tuliskan, kolom-kolom tersebut dapat diperlebar dengan cara menggeser batas kanan kolom dengan mouse atau mengklik 2x batas kanan kolom yang akan diperlebar.
+Geser batas kolom B di sini untuk mengubah lebar kolom
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+Data teks, Data angka, rata kiri rata kanan
+Gambar 3 Input data di Excel.
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 6 dari 66
+
+Microsoft Excel 2007
+Jika kita ingin membuat rangkaian data yang berbentuk numerik, seperti nomor urut atau membuat deret nama hari dan bulan, membuata deret data tanggal dan waktu, maka minimal input data yang dimasukkan adalah 1 (satu) data. Alternatif langkah untuk membuat deret bulan adalah: 1. Blok sel A2 dan A3 pada Gambar 3.
++ 2. Arahkan pointer ke batas bawah kanan sel A3 sampai pointer berubah menjadi tanda
+3. Drag ke bawah sampai bulan December. 4. Hasil deret bulan ditampilkan pada Gambar 4.
+
+Gambar 4 Deret bulan.
+Latihan: Buat deret angka dan deret hari seperti Gambar 5. Untuk pemformatan teks (dalam hal ini Bold) dapat dilakukan melalui Tab Home. Pada Tab Home ini disediakan toolbar untuk mengubah jenis font, ukuran font, format teks (Bold, Italic, Underline), perataan alenia (rata kanan, kiri, tengah, justify), memberi warna teks, warna background sel, bullets and numbering, border, heading, find, replace, select.
+
+Gambar 5 Deret angka dan deret hari.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 7 dari 66
+
+Microsoft Excel 2007
+Selain deret standar yang disediakan Excel, kita juga dapat membentuk daftar deret sesuai keinginan kita. Langkah untuk membentuk deret data sendiri (custom list) adalah: a. Klik Tombol Office b. Klik tombol Excel Options untuk membuka kotak dialog Excel Options seperti Gambar
+6.
+
+Gambar 6 Kotak dialog Excel Options.
+c. Pilih panel popular dan klik tombol Edit Custom Lists untuk kotak dialog Custom Lists seperti dihasilkan pada Gambar 7.
+
+Gambar 7 Kotak dialog Custom Lists.
+Microsoft Excel menyediakan empat bentuk custom list standar, yaitu nama hari dan nama bulan dalam Bahasa Inggris baik dengan bentuk penulisan lengkap maupun dengan penulisan tiga karakter awal.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 8 dari 66
+
+Microsoft Excel 2007
+d. Dalam daftar Custom Lists, klik pilihan NEW LIST. e. Dalam daftar List Entries, ketik Senin, Selasa, Rabu, Kamis, Jumat, Sabtu, Minggu.
+Setiap penulisan data deret dipisahkan dengan menekan tombol Enter. f. Klik tombol Add sehingga daftar deret baru tersebut akan ditambahkan pada daftar
+Custom Lists. g. Klik OK untuk mengakhiri proses. Selanjutnya kita sudah dapat menggunakan daftar deret tersebut. Bentuk deret yang dihasilkan disesuaikan dengan sumber datanya. Jika data awal diketik dengan huruf capital, maka semua deret yang dihasilkan akan berbentuk huruf capital (lihat Gambar 8).
+Gambar 8 Contoh hasil penulisan deret.
+Hasil pekerjaan kita dapat disimpan dengan cara: a. Pilih Tombol Office Save atau tekan tombol CTRL+S. b. Tampil kotak dialog Save As seperti Gambar 9. c. Di kotak Save in, kita dapat memilih folder untuk menyimpan file. d. Ketik nama file, misal: Latihan 1 Excel di kotak File Name. e. Klik tombol OK dan file akan disimpan dengan nama "Latihan 1 Excel.xlsx" bukan
+Latihan 1 Excel.xls.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+Gambar 9 Kotak dialog Save as.
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 9 dari 66
+
+Microsoft Excel 2007
+1.2.4 Kelebihan Format Baru pada Office 2007
+Sistem Microsoft Office 2007 yang baru memperkenalkan format file berdasar XML (eXtensible Markup Language). Format ini disebut Microsoft Office Open XML. Formatformat ini digunakan pada Word 2007, Excel 2007, dan PowerPoint 2007. Kelebihan dan keuntungan jika menyimpan file ke dalam format XML antara lain:
+File yang padat. Secara otomatis file format baru ini akan dikompres menjadi lebih kecil 75% secara otomatis (dalam beberapa kasus). Dengan demikian akan menghemat tempat, lebih-lebih di era mobile komputer seperti saat ini. Ketika file dibuka, secara otomatis file akan terurai kembali tanpa harus membutuhkan program utility untuk mengompres file. Meningkatkan kemampuan untuk file recovery (memperbaiki file secara otomatis apabila terjadi kerusakan). Lebih mudah mendeteksi dokumen yang berisi makro. File yang tersimpan menggunakan default nama ekstension "x" (seperti .docs, .xlsx, .pptx) tidak dapat diisi dengan makro VBA (Visual Basic for Application) maupun kendali dari ActiveX controls. Oleh karenanya akan terhindar dari kemungkinan terjangkit virus file. Hanya file-file yang nama belakangnya mengandung "m" (seperti .docm dan .xlsm) dapat mengandung makro VBA dan kendari dari ActiveX yang tersimpan pada bagian tersendiri dari file tersebut. Dengan pemisahan nama file tersebut itulah yang akan memudahkan pengecekan kemungkinan suatu file mengandung virus makro atau tidak. Meningkatkan privacy dan memudahkan kontrol dalam informasi yang bersifat personal sehingga dokumen-dokumen akan dapat diedarkan tanpa kehilangan privacy kita. Dalam hal ini misalnya pada dokumen-dokumen yang bersifat informasi penting dan sensitif seperti identifikasi personal, nama penulis, komentar, track changes, dan file paths dapat diidentifikasi atau justru dihapus menggunakan Document Inspector. Format baru ini memiliki tingkat kemampuan untuk berintegrasi dan interoperability menggunakan sesama format Office XML. Hal ini berarti di dalam kerangka kerja Office 2007 (Word, Excel, PowerPoint, Access) dapat disimpan dalam format XML
+1.2.5 Kompatibilitas Excel
+File Excel memiliki tingkat kompatibilitas sebagai berikut:
+File yang dihasilkan antara Excel 97 sampai 2003 saling kompatibel, artinya file yang dbuat antara versi tersebut dapat dibuka oleh Excel dari versi 97 sampai versi 2003 tanpa konversi apapun.
+File Excel 97-2003 tidak dapat dibuka menggunakan versi 95 ke bawah kecuali jika menyimpan dengan pilihan Save as.
+File versi 2007 tidak dapat dibuka menggunakan Excel 2003 ke bawah.
+File Excel versi 2003 ke bawah saat dibuka dan disimpan pada Excel 2007 akan disimpan/diperlakukan sebagai Compatibility Mode dan keterangan itu terlihat pada Title Bar Jendela Excel (lihat Gambar 10).
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 10 dari 66
+
+Microsoft Excel 2007
+Gambar 10 File versi lama akan dibuka dan disimpan sebagai compatibility mode pada Excel 2007.
+Catatan Penting: Jika kita menggunakan Excel 2007 dan menginginkan dibuka di versi sebelumnya, maka ubah format di bagian Save as Type, pilih Excel 97-2003 Workbook (*.xls) seperti Gambar 11.
+
+Gambar 11 Tampilan Save as type untuk Excel 97-2003 Workbook (*.xls)
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 11 dari 66
+
+Microsoft Excel 2007
+1.2.6 Mengakhiri Microsoft Excel Menutup data/file dapat dilakukan dengan memilih Tombol Office Close atau
+menekan tombol Close window pada bagian kanan atas lembar kerja baris kedua. Sedangkan untuk mengakhiri atau menutup program Excel, dilakukan dengan cara memilih Tombol Close pada bagian kanan atas lembar kerja baris pertama atau menekan tombol ALT + F4 di keyboard.
+1.3 OPERASI HITUNG DAN RUMUS Penggunaan Fungsi SUM, AVERAGE, MAX, MIN, Dan COUNT
+Ketiklah lembar kerja seperti Gambar 12. Kemudian sisipkan nama Indra sebelum nama Wulan dengan barang yang dibeli "buku tulis", nilai jumlah pembelian 20, dan harga unit buku tulis 2300, sehingga hasilnya seperti Gambar 13. Setelah itu isikan kolom total harga, diskon, harga bersih, total, rata-rata, nilai maksimum, nilai minimum, dan banyaknya transaksi.
+
+Gambar 12 Data penjualan alat tulis koperasi SMA Angkasa.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 12 dari 66
+
+Microsoft Excel 2007
+
+Gambar 13 Data penjualan alat tulis koperasi SMA Angkasa setelah penyisipan baris.
+Formula/rumus pada Excel 2007 terdapat pada Tab Formulas Insert Function. Format tulisan "Penjualan Alat Tulis Koperasi SMA Angkasa" dapat dibuat seperti Gambar 10 dengan cara Blok A1:G1, kemudian pilih toolbar "Merge and Center"
+Perhitungan Total Harga di sel E4 dapat dilakukan dengan cara sebagai berikut: a. Ketik di sel E4 : = C4*D54 (artinya sel C4 x D4). b. Lalu tekan Enter. c. Lihat hasilnya di sel E4, tertulis nilai 55200. Perhitungan di sel E4 sampai E14 sama dengan perhitungan di sel E5, maka kita cukup mengopi rumus di E5 sebagai berikut: a. Klik di sel E4 lalu tekan CTRL+C. b. Dengan menekan tombol SHIFT, klik di sel E14. c. Lepas tombol SHIFT. d. Tekan Enter. Langkah ini bisa diganti dengan men-drag sel yang sudah diberi formula ke bagian bawah. Terlihat di sel E5 sampai E14 muncul nilai-nilai sesuai dengan perhitungan yang diinginkan. Perhitungan Diskon pada kolom F, didapat dari 10% x Total Harga. Formula yang diketik di sel F4 adalah: =10%*E4, kemudian di-copy ke sel bagian bawah. Kolom Harga Bersih didapat dari pengurangan kolom Total Harga dengan kolom Diskon. Rumus yang dituliskan pada sel G4 adalah: = E4-F4.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 13 dari 66
+
+Microsoft Excel 2007
+
+Sel E16 untuk Total menggunakan rumus: =SUM(E4:E14)
+
+Perhatikan
+
+menggunakan : (titik dua), yang artinya menjumlahkan sel a sampai sel b. Hal ini
+
+berbeda jika kita menggunakan ; atau , yang artinya menjumlahkan sel a dan sel b.
+
+Cara ini mendapatkan total ini bisa juga dilakukan dengan cara memilih Tab
+
+Formulas, kemudian pilih AutoSum
+
+, setelah itu tekan Enter.
+
+Sel E17 untuk Rata-rata menggunakan rumus: =AVERAGE(E4:E14).
+
+Sel E18 untuk Nilai Maksimum menggunakan rumus: =MAX(E4:E14).
+
+Sel E19 untuk Nilai Minimum menggunakan rumus: =MIN(E4:E14).
+
+Sel E20 untuk Banyaknya Transaksi menggunakan rumus: =COUNT(E4:E14).
+
+Hal yang penting dalam Excel adalah setiap ada perubahan data di lembar kerja, maka rumus-rumus yang telah ditulis akan melakukan perhitungan kembali. Misalnya nilai di sel C4 diganti menjadi 10, maka nilai di sel E4 dan E16 akan berubah.
+
+1.4 MEMFORMAT LEMBAR KERJA
+1.4.1 Mengatur Tampilan Lembar Kerja
+Kita dapat menentukan bagian-bagian layar Excel yang akan ditampilkan atau disembunyikan dengan memilih Tombol Office Excel Options. Kotak dialog Excel Options ditampilkan seperti Gambar 14. Jika ingin meniadakan Gridlines, caranya: Pilih Advanced, arahkan scrollbar ke bawah sampai ditemukan check box Show Gridlines. Untuk menampilkan atau menyembunyikan suatu bagian, beri tanda (aktifkan) atau hilangkan tanda (nonaktifkan) di kotak cek yang sesuai, kemudian klik tombol OK atau bisa melalui Tab Page Layout Gridlines.
+
+Gambar 14 Kotak dialog Excel Options bagian Advanced.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 14 dari 66
+
+Microsoft Excel 2007 1.4.2 Format Teks
+Kita dapat menentukan jenis, ukuran, style, warna, dan efek tulisan dengan langkahlangkah sebagai berikut: a. Pilih range yang akan ditentukan font-nya. Kita juga dapat memilih karakter tertentu
+saja dalam suatu sel. b. Pilih Tab Home Format Format cells (lihat Gambar 15) atau klik kanan pada
+area worksheet kemudian pilih Format cells.
+Gambar 15 Pilihan Format Cells. c. Kotak dialog Format Cells ditampilkan seperti Gambar 16.
+
+Gambar 16 Kotak dialog Format Cells.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 15 dari 66
+
+Microsoft Excel 2007
+Pada kotak dialog Format Cells ini, kita dapat memilih jenis tulisan di bagian Font, menentukan ukuran tulisan di bagian Size, dan dapat memberikan efek tulisan di bagian Effects. Format teks dapat dilakukan melalui Formatting Toolbar seperti pada Gambar 17 atau menggunakan shortcut. Misal untuk memberikan font style tebal, kita dapat menggunakan shortcut CTRL+B.
+Gambar 17 Formatting toolbar. 1.4.3 Format Angka
+Kita dapat memilih suatu format untuk menampilkan angka, tanggal, dan waktu dengan cara: a. Pilih range yang format tampilannya akan ditentukan. b. Pilih Tab Home Format Format cells atau klik kanan pada area worksheet
+kemudian pilih Format cells. c. Pilih tab Number di kotak dialog tersebut (Gambar 18).
+
+Gambar 18 Kotak dialog Format cells tab number.
+
+Jika sel aktif berupa angka, maka kotak Sample diperagakan tampilannya berdasarkan format yang ditentukan. Format angka yang dapat dipilih adalah:
+General
+Pada format General yang merupakan format default ini, Excel menampilkan angka setepat mungkin. Jika terlalu besar atau kecil, Excel akan menampilkannya dalam format
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 16 dari 66
+
+Microsoft Excel 2007
+Scientific, contohnya: 2303198312101970 akan ditampilkan sebagai 2.3032E+15, yang berarti 2.3032 x 1015. Jika kolom kurang lebar untuk menampilkan angka dengan suatu format, Excel akan menampilkannya sebagai ########. Lebarkanlah kolom tersebut supaya angka tampil secara keseluruhan.
+Number
+Hal-hal yang dapat diatur pada format number adalah:
+a. Pada kotak Decimal Places, dapat ditentukan jumlah angka desimal. Misal: kita berikan nilai 2 pada Decimal Places, maka jika kita ketikkan 34.51742, akan tampil nilai 34.52.
+b. Jika pada bagian Use 1000 Separator (,) diberi tanda (diaktifkan), maka jika kita ketik angka 140550 akan tampil 140,550. Pada keadaan aslinya, Excel menggunakan koma sebagai pemisah ribuan dan titik sebagai titik desimal. Hal ini kebalikan dari cara penulisan di negara kita. Untuk mengubah format angka ke tata cara yang berlaku di suatu negara, dapat dilakukan sebagai berikut:
+· Klik tombol Start Control Panel.
+· Klik Regional and Languange Options.
+· Klik daftar drop down dan pilih "Indonesian". Di bagian Samples ditampilkan contoh-contoh penampilan data keuangan, tanggal, dan waktu.
+· Klik OK.
+c. Kotak daftar Negative Numbers dapat ditentukan jika bilangan negatif ditampilkan. Misal, jika bilangan negatif ditampilkan dengan tanda minus atau di dalam kurung atau dengan warna merah.
+Currency
+Format ini digunakan untuk menyatakan nilai mata uang. Melalui kotak Decimal Places, dapat ditentukan jumlah angka desimal dan melalui kotak Symbol dapat ditentukan lambang mata uang. Lambang default mata uang yang digunakan Excel adalah $.
+Accounting
+Format ini seperti format Currency, hanya lambang mata uang diluruskan ke tepi kiri kolom (tidak menempel pada angka).
+Date
+Melalui format ini, kita dapat memilih berbagai bentuk tampilan tanggal. Untuk mengubah format tanggal, tentukan format tanggalnya di bagian Type.
+Time
+Format ini menentukan tampilan waktu. Untuk mengubah format waktu, tentukan tipe waktunya di bagian Type.
+Percentage
+Format ini untuk menyatakan bilangan dalam persen. Pada format ini angka dikalikan 100 dan diberi lambang %. Misal diketik 0.45, maka akan tampil 45%. Jumlah angka desimal dapat diatur melalui kotak Decimal Places.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 17 dari 66
+
+Microsoft Excel 2007
+Fraction Bilangan yang tidak bulat ditampilkan sebagai pecahan. Misal 0.5 ditampilkan sebagai 1/2. Nilai 0.345 ditampilkan sebagai 1/3. Scientific Format ini digunakan untuk menampilkan bilangan yang sangat besar atau sangat kecil dalam eksponen. Contohnya: 2303198312101970 akan ditampilkan sebagai 2.3032E+15, yang berarti 2.3032 x 1015. Nilai 0.00005678 akan ditampilkan sebagai 5.68E-05. Text Angka dan rumus akan diperlakukan seperti teks dan ditampilkan sebagaimana yang kita ketikkan. Special Format ini merupakan format khusus seperti Zip Code (kode pos di Amerika Serikat) dan Phone Number. Jika kita memlih Phone Number, maka tujuh digit terakhir dianggap nomor telepon dan digit di depannya sebagai kode area. Misal: 214567896 ditampilkan sebagai nomor telepon (21) 456-7896 Custom Kita dapat memilih format yang telah tersedia di kotak daftar Type atau membuat format sendiri dengan menuliskan bentuk format di kotak teks Type. Format ini menentukan cara bilangan positif, negatif, nol atau data teks ditampilkan. Sintaks format adalah: Format bilangan positif; format bilangan negatif; format nol; format data teks. Contoh:
+[Blue]#,##0.00;[Red](#,##0.00);[Magenta]"Nihil" Bilangan positif akan ditampilkan dengan warna biru, bilangan negatif dengan format kurung dan warna merah, dan nol ditampilkan dengan warna magenta. Format angka dapat dilakukan melalui Formatting Toolbar seperti berikut:
+· Tombol Currency Style untuk memberikan format currency. · Tombol Percent Style untuk memberikan format percentage. · Tombol Comma Style untuk memberikan pemisah ribuan. · Tombol Increase Decimal untuk menambah angka desimal, misal 1245.0 menjadi
+1245.00. · Tombol Decrease Decimal untuk menurunkan angka desimal, misal 1245.000 menjadi
+1245.00.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 18 dari 66
+
+Microsoft Excel 2007
+Latihan: Tambahkan format Currency untuk data penjualan alat tulis koperasi SMA Angkasa sehingga hasilnya seperti Gambar 19.
+
+Gambar 19 Format currency untuk data penjualan alat tulis.
+
+1.4.4 Format Kolom Dan Baris Kita dapat mengubah lebar kolom dengan cara:
+a. Pilih satu atau beberapa kolom yang akan diatur lebarnya. b. Pilih Tab Home Format Column Width. c. Isikan nilai di kotak teks Column Width. Range nilai yang dapat dimasukkan antara
+nilai 0-255. Jika dimasukkan nilai 0, maka kolom akan disembunyikan. Default lebar kolom adalah 6.43. d. Klik OK.
+Pengaturan tinggi baris dapat dilakukan dengan cara: a. Pilih satu atau beberapa baris yang akan diatur tingginya. b. Pilih Tab Home Format Row Height. c. Isikan nilai di kotak teks Row height. d. Klik OK.
+1.4.5 Format Teks Dan Angka Dalam Sel 1.4.5.1 Pelipatan Teks dalam Sel
+Pengisian suatu sel dengan teks yang panjang yang sel di sebelah kanannya kosong, mengakibatkan teks itu memanjang, memasuki wilayah sel sebelah kanannya. Jika kita menginginkan teks itu tetap berada dalam ukuran sel yang kita tentukan (tidak memanjang) maka langkah-langkahnya sebagai berikut:
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 19 dari 66
+
+Microsoft Excel 2007
+a. Pilih sel atau range yang akan diproses. b. Pilih Tab Home Format Format Cells atau klik kanan pada area worksheet
+kemudian pilih Format cells. c. Pilih tab Alignment. d. Beri tanda (aktifkan) kotak cek Wrap text. e. Klik OK Latihan: Buatlah format Wrap text sehingga sel Jumlah Pembelian dan sel Muhammad Syarif Hidayatullah terlihat seperti Gambar 20.
+
+Gambar 20 Format wrap text.
+
+1.4.5.2 Indentasi Teks dalam Sel Teks dalam sel dapat diindentasi, caranya:
+a. Pilih sel yang berisi teks. b. Pilih Tab Home Format Format Cells atau klik kanan pada area worksheet
+kemudian pilih Format cells. c. Pilih tab Alignment. d. Beri tanda (aktifkan) kotak cek Wrap text. e. Isikan tingkat indentasi di kotak Indent. f. Contoh tampilan indentasi ditampilkan pada Gambar 21.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 20 dari 66
+
+Microsoft Excel 2007
+Cara di atas dapat dilakukan melalui tombol formatting toolbar berikut ini: Icon ini untuk menambah indentasi teks. Icon ini untuk mengurangi indentasi teks.
+
+Gambar 21 Contoh tampilan indentansi.
+1.4.5.3 Pengecilan Ukuran Teks Jika pelipatan teks dinonaktifkan, teks akan berada di satu baris hingga melebihi
+lebar kolom. Kita dapat mengecilkan ukuran font hingga teks muat ke dalam sel dengan cara: a. Pilih sel atau range yang akan diproses. b. Pilih Tab Home Format Format Cells atau klik kanan pada area worksheet
+kemudian pilih Format cells. c. Pilih tab Alignment. d. Beri tanda di kotak Shrink to fit. Perintah ini berarti teks tidak akan dilipat jika
+melebihi lebar kolom, tetapi ukuran hurufnya akan dikecilkan. 1.4.5.4 Orientasi Teks
+Kita dapat mengatur orientasi teks dengan cara: a. Pilih sel atau range yang akan diatur orientasi teksnya. b. Pilih Tab Home Format Format Cells atau klik kanan pada area worksheet
+kemudian pilih Format cells. c. Pilih tab Alignment. d. Isikan nilai di kotak teks Degrees (lihat Gambar 22).
+
+Gambar 22 Contoh tampilan orientasi teks.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 21 dari 66
+
+Microsoft Excel 2007 Latihan: Buat orientasi teks sehingga hasilnya seperti Gambar 23.
+Gambar 23 Tampilan orientasi teks untuk judul kolom. Tambahkan border, warna border, background judul sehingga hasilnya seperti Gambar 24. Cara untuk menambahkan border adalah: a. Pilih Tab Home Border (lihat Gambar 25).
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+Gambar 24 Pilihan border.
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 22 dari 66
+
+b. Pilih All Borders. c. Pilih line Color untuk memberi warna border.
+
+Microsoft Excel 2007
+
+Gambar 25 Contoh tampilan data menggunakan border dan wana border.
+1.4.5.5 Penggabungan Sel Penggabungan beberapa sel seperti gambar di bawah dapat dilakukan dengan cara:
+a. Pilih range yang akan digabung. b. Pilih Tab Home Format Format Cells atau klik kanan pada area worksheet
+kemudian pilih Format cells. c. Pilih tab Alignment. d. Beri tanda kotak cek Merge Cells. e. Klik OK. Cara di atas dapat dilakukan dengan memilih range yang akan digabung dan menekan tombol Merge and Center.
+1.5 RUMUS DENGAN ALAMAT ABSOLUT, ALAMAT RELATIF, ALAMAT CAMPURAN RELATIF DAN ABSOLUT
+1.5.1 Rumus Dengan Alamat Relatif Alamat relatif berarti alamat sel yang jika disalin menyesuaikan dengan tempat atau lokasi yang baru. Perhitungan yang dijelaskan pada bagian sebelumnya merupakan contoh penggunaan rumus dengan alamat relatif. Ciri alamat relatif adalah ketika rumus di-copy ke bawah atau kanan, rumus yang di-copy-kan mengikuti alamat sel.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 23 dari 66
+
+Microsoft Excel 2007
+1.5.2 Rumus Dengan Alamat Absolut Alamat absolut berarti sel yang kolom dan barisnya terkunci. Alamat ini ditandai dengan $ pada posisi kolom dan barisnya. Ketiklah lembar kerja seperti Gambar 26. Ketentuan untuk mengisi sel yang kosong adalah: a. Durasi kerja/hari didapat dari selisih antara jam keluar dan jam masuk, kemudian
+dikalikan 24. b. Nilai upah kerja didapat dari hasil kali antara jam kerja dan upah kerja/jam. c. PPH sebesar 10% dari gaji yang diberikan. d. Total upah netto adalah hasil pengurangan antara total upah bruto dan PPH.
+
+Gambar 26 Contoh data menggunakan alamat absolut.
+Penyelesaian untuk mengisi sel yang kosong: a. Durasi kerja/hari di sel E6: =(D6-C6)*24 b. Upah kerja di sel F6: =E6*$B$15 c. PPH 10% di sel G6: =10%*F6 d. Total upah netto di sel H6: =F6-G6
+1.5.3 Rumus Dengan Alamat Campuran Relatif dan Absolut Kita juga bisa menggunakan alamat campuran relatif dan absolut. Penggunaan
+alamat ini ditampilkan pada Gambar 27. Perusahaan ABC membagi biaya perusahaan dalam tiga bagian yaitu gaji, bahan, dan alat. Gaji diharapkan setiap tahunnya meningkat 8%, bahan meningkat 11%, dan alat meningkat 5%. Berdasarkan data tahun 2005, perusahaan bermaksud memproyeksikan sampai tahun 2009. Ilustrasi masing-masing biaya dijelaskan sebagai berikut: a. Gaji pada tahun 2006: 100000 + 8% * 100000 = 108000 b. Gaji pada tahun 2007: 108000 + 8% * 108000 = 116640
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 24 dari 66
+
+Microsoft Excel 2007 Pada sel D4, ketik: = C4 + C4 * $B4. $B4 berarti kolom B tetap harus tetap dikopi, tetapi baris harus merupakan alamat relatif (karena gaji, bahan, dan alat berada pada baris yang berbeda). Selanjutnya kopilah rumus ke bawah dan ke samping.
+Gambar 27 Contoh data menggunakan alamat campuran relatif dan absolut. Latihan
+Anda diminta untuk menyelesaikan perhitungan penjumlahan dengan alamat sel B3:P12 (Gambar 28). Angka 1 pada sel A3 ditambah dengan angka 1 di sel B2, angka 1 di sel A3 ditambah dengan angka 2 di sel C2, dan seterusnya. Rumus atau formula hanya diketik satu kali di sel B3, selanjutnya di-copy ke bawah, sehingga hasilnya seperti Gambar 29.
+Gambar 28 Tampilan penjumlahan matriks.
+
+Gambar 29 Output penjumlahan matriks menggunakan alamat campuran relatif dan absolut.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 25 dari 66
+
+Microsoft Excel 2007
+1.6 FUNGSI-FUNGSI STATISTIKA Excel menyediakan fungsi-fungsi yang sifatnya khusus dan teknis. Penggunaan fungsi di Excel dapat dilihat pada Tab Formulas Insert Function. Anda bisa memilih kategori di combo box Select a Category dan memilih fungsinya di bagian Select a function. Pada subbab ini akan dibahas fungsi statistika, diantaranya:
+1.6.1 Average Fungsi ini untuk menghitung rata-rata suatu data. Contoh perhitungannya bisa dilihat pada data penjualan alat tulis koperasi SMA Angkasa. Bentuk umum: =AVERAGE (number1, number2, ...).
+1.6.2 Count Fungsi untuk menghitung jumlah data dalam suatu kelompok data. Bentuk umum: =COUNT(value1, value2, ...).
+1.6.3 Counta Fungsi ini untuk menghitung nilai yang ada dalam suatu kelompok data. Bentuk umum: = COUNTA(value1, value2, ...).
+1.6.4 Countblank Fungsi ini untuk menghitung nilai yang kosong pada suatu range data. Bentuk umum: = COUNTBLANK(range).
+1.6.5 Countif Fungsi ini untuk menghitung jumlah data yang sesuai dengan kriteria tertentu pada suatu kelompok data. Bentuk umum: = COUNTIF(range, kriteria).
+Contoh Kasus Gambar 30 merupakan data karyawan yang mengikuti tes untuk masuk ke perusahaan Muda Jaya. Lakukan perhitungan untuk menghitung jumlah pelamar, pelamar yang melampirkan dan tidak melampirkan daftar nilai, berpendidikan D3 dan S1, serta yang dapat mengikuti tes tahap II dan jumlah pelamar yang ditolak.
+
+Gambar 30 Contoh data menggunakan fungsi statistika.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 26 dari 66
+
+Microsoft Excel 2007
+
+· Perhitungan untuk menghitung jumlah pelamar (sel C16): = COUNTA(B4:B13).
+· Untuk menghitung jumlah pelamar yang melampirkan daftar nilai (sel C17): =COUNT(E4:E13)
+· Untuk menghitung jumlah pelamar yang tidak melampirkan daftar nilai (sel C18): =COUNTBLANK(E4:E13)
+· Untuk menghitung jumlah pelamar yang berpendidikan D3 (sel C19): =COUNTIF(D4:D13,"D3")
+· Lakukan perhitungan selanjutnya.
+
+1.6.6 Frequency
+Fungsi ini untuk menampilkan distribusi frekunesi sekumpulan data. Bentuk umum: = FREQUENCY(data_array, bins_array).
+
+Contoh Kasus
+
+Gambar 31 merupakan daftar nilai ujian mahasiswa. Anda diminta untuk menghitung frekuensi nilai ujian mahasiswa berdasarkan ketentuan:
+
+Nilai ujian 0-39 40-59 60-74 75-89 >89
+
+Huruf mutu E D C B A
+
+Gambar 31 Data nilai ujian mahasiswa.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 27 dari 66
+
+Microsoft Excel 2007
+Penyelesaian: a. Sorot dan blok I4:I9 b. Ketik = FREQUENCY (B5:B24,H4:H8) c. Tekan tombol SHIFT + CTRL + ENTER di keyboard bersama-sama. d. Hasilnya ditampilkan pada Gambar 32.
+
+Gambar 32 Output perhitungan fungsi frequency.
+1.6.7 Large Fungsi ini untuk menghitung nilai terbesar yang ke-n dari sekelompok data. Bentuk umum: = LARGE (array,k). Contoh Kasus Pada Gambar 31 anda diminta untuk menampilkan data terbesar urutan ke-n (pada kasus ini urutan ke-1 dan urutan ke-8).
+Penyelesaian: 1. Ketik di sel G12: =LARGE(B5:B24,1) 2. Ketik di sel G13: =LARGE(B5:B24,8)
+1.6.8 Small Fungsi ini untuk menghitung nilai terkecil ke-n dari sekelompok data. Bentuk umum: = SMALL (array,k).
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 28 dari 66
+
+Microsoft Excel 2007
+1.6.9 Rank Fungsi ini untuk menentukan rangking dari sekelompok data. Bentuk umum: =RANK (number,ref,order). Order diberi nilai 0 jika merangking data dari nilai terbesar dan diberi nilai 1 jika merangking data dari nilai terkecil. Latihan soal Tentukan rangking masing-masing siswa pada kasus seperti Gambar 31 dengan fungsi RANK (rangking data dari nilai terbesar dan nilai terkecil). Hasilnya ditampilkan pada Gambar 33.
+
+Gambar 33 Output perhitungan fungsi rank.
+1.7 FUNGSI-FUNGSI LOGIKA
+Fungsi logika yang disediakan Excel diantaranya:
+1.7.1 If Fungsi ini menentukan suatu tes logika untuk dikerjakan dan mempunyai bentuk: =IF(tes logika, nilai jika benar, nilai jika salah). Contoh Kasus Tabel di bawah merupakan lampu lalu lintas. Anda diminta untuk menampilkan kondisi lampu sesuai dengan ketentuan: jika merah maka berhenti dan jika hijau maka berjalan.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 29 dari 66
+
+Microsoft Excel 2007
+
+Gambar 34 Contoh data fungsi logika.
+Penyelesaian: 1. Ketik di sel B5: =IF(A5="merah","berhenti","berjalan") atau 2. Ketik di sel B5: =IF(A5=$A$19,$B$19,$B$20) 3. Tekan Enter Latihan soal 1. Isikan kondisi lampu dengan tiga kondisi sel (E5). 2. Gambar 35 merupakan daftar golongan karyawan di suatu instansi. Anda diminta untuk
+mengisi kolom jabatan dan gaji karyawan sesuai dengan golongan.
+
+Gambar 35 Data karyawan menggunakan fungsi IF.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 30 dari 66
+
+Microsoft Excel 2007
+Gambar 31 merupakan daftar nilai siswa. Isikan nilai pada kolom huruf mutu dengan ketentuan:
+Jika rata-rata < 40, maka huruf mutu E Jika rata-rata < 60, maka huruf mutu D. Jika rata-rata >= 60 maka huruf mutu C. Jika rata-rata >= 75 maka huruf mutu B. Jika rata-rata >= 90 maka huruf mutu A.
+1.7.2 AND, OR, Dan NOT Fungsi ini merupakan fungsi tambahan untuk mengembangkan tes kondisi.
+Bentuk fungsi AND: =AND (logika1, logika2, ...)
+Fungsi AND memberikan nilai TRUE jika semua ekspresi yang digabung bernilai TRUE.
+Bentuk fungsi OR: =OR (logika1, logika2, ...)
+Fungsi OR memberikan nilai TRUE jika salah satu ekspresi yang digabung bernilai TRUE.
+Bentuk fungsi NOT: =NOT (logika)
+Fungsi NOT memberikan nilai TRUE jika nilai yang diberikan logika adalah FALSE, dan sebaliknya. Jadi, fungsi NOT membalik hasil logika di argumennya.
+Latihan Soal
+Gambar 36 merupakan daftar nilai UAN SD Terus Jaya. Anda diminta untuk mengisi kolom AND, OR, Kelulusan dengan ketentuan:
+Kolom AND: jika nilai matematika > 5, nilai PPKN > 5 dan nilai Bhs Indonesia > 5, maka siswa dinyatakan lulus. Sedangkan jika tidak memenuhi kriteria, maka tidak lulus.
+Kolom OR: jika nilai matematika > 5, nilai PPKN > 5 atau nilai Bhs Indonesia > 5, maka siswa dinyatakan lulus. Sedangkan jika tidak memenuhi kriteria, maka tidak lulus.
+Kolom Kelulusan: jika nilai matematika > 5, nilai PPKN > 5, nilai Bhs Indonesia > 5, dan rata-rata ketiga mata pelajaran tersebut > 6, maka siswa dinyatakan lulus. Sedangkan jika tidak memenuhi kriteria, maka tidak lulus.
+
+Gambar 36 Contoh data yang menggunakan fungsi AND, OR.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 31 dari 66
+
+Microsoft Excel 2007
+1.8 FUNGSI-FUNGSI REFERENSI Fungsi referensi/pembacaan tabel yang disediakan Excel diantaranya:
+1.8.1 Fungsi VLOOKUP Dan HLOOKUP Fungsi VLOOKUP dan HLOOKUP digunakan untuk membaca suatu tabel. Fungsi VLOOKUP digunakan untuk membaca tabel secara vertikal, sedangkan HLOOKUP untuk membaca secara horizontal. Bentuk fungsi VLOOKUP: = VLOOKUP(nilai kunci, tabel pembacaan, nomor indeks kolom). Nilai kunci berarti nilai yang harus dicari pada kolom pertama tabel, nomor indeks kolom adalah nomor kolom pada baris tempat nilai kunci ditemukan. Bentuk fungsi HLOOKUP: = HLOOKUP(nilai kunci, tabel pembacaan, nomor indeks baris). Nilai kunci berarti nilai yang harus dicari pada baris pertama tabel, nomor indeks baris adalah nomor baris pada kolom tempat nilai kunci ditemukan. Gunakan fungsi VLOOKUP pada kasus Gambar 35 untuk pengisian kolom jabatan dan gaji. Penyelesaian: 1. Ketik di sel C4: =VLOOKUP(B4,$A$17:$C$19,2) 2. Tekan Enter Anda bisa memberi nama tabel pembacaan dengan cara:
+Blok A17-C19 Tuliskan nama tabel di bagian Name box (misal:jabatan) Untuk penulisan formulanya: = VLOOKUP(B4,jabatan,2) Gunakan fungsi VLOOKUP untuk mengisi kolom gaji.
+Latihan Soal Isikan gaji pokok pada Gambar 37dengan fungsi VLOOKUP. Kolom tunjangan anak
+didapat dari hasil pembacaan tabel secara HLOOKUP untuk tunjangan anak * jumlah anak.
+
+Gambar 37 Contoh daftar gaji karyawan menggunakan fungsi referensi.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 32 dari 66
+
+Microsoft Excel 2007 Catatan Penting: Langkah mengubah tabel referensi A15:C18 secara vertical menjadi horizontal adalah: a. Blok A15:C18 b. Klik kanan range pilih copy c. Letakkan di sel A20 d. Klik kanan pilih paste special e. Aktifkan tanda transpose seperti Gambar 38.
+Gambar 38 Kotak dialog paste special. 1.8.2 Fungsi CHOOSE
+Fungsi ini digunakan untuk memilih suatu nilai dalam list atau daftar. Bentuk umum: =CHOOSE (indeks,nilai1,nilai 2,...nilai n). Untuk menghitung gaji pada tabel seperti yang tertera pada Gambar 39, kita dapat menggunakan fungsi CHOOSE: =CHOOSE(B4,500000,800000,900000).
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 33 dari 66
+
+Microsoft Excel 2007
+
+Gambar 39 Daftar karyawan menggunakan fungsi choose.
+
+1.9 FUNGSI-FUNGSI TEKS
+Excel juga menyediakan sejumlah fungsi untuk melakukan operasi para argumen teks. Fungsi teks yang disediakan Excel diantaranya:
+
+1.9.1 Fungsi LEFT Dan RIGHT Fungsi LEFT digunakan untuk menampilkan sederetan teks dari suatu argumen sebanyak n karakter dari posisi deretan paling kiri. Bentuk umum fungsi LEFT: =LEFT(teks, jumlah karakter).
+Fungsi RIGHT digunakan untuk menampilkan sederetan teks dari suatu argumen sebanyak n karakter dari posisi deretan paling kanan. Bentuk umum fungsi RIGHT: =RIGHT (teks, jumlah karakter).
+Contoh: = LEFT("Institut Pertanian Bogor",3) akan menghasilkan Ins
+=RIGHT("Institut Pertanian Bogor",5) akan menghasilkan Bogor
+
+1.9.2 Fungsi MID
+Fungsi MID digunakan untuk menghasilkan sederetan teks dari suatu argumen sebanyak n karakter mulai dari posisi tertentu. Bentuk umum fungsi MID ialah: =MID(teks, jumlah karakter). Contoh: =MID("Institut Pertanian Bogor",13,4) akan menghasilkan tani
+
+Latihan Soal
+Isikan kolom nama pesawat, tujuan, jam keberangkatan pada Gambar 40 menggunakan fungsi teks dengan ketentuan:
+Jika GI, maka nama pesawat: Garuda Indonesia Jika MP, maka nama pesawat: Merpati Nusantara Jika BR, maka maka nama pesawat: Bouraq Jika JKT, maka tujuan Jakarta
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 34 dari 66
+
+Jika SBY, maka tujuan Surabaya Jika MDN, maka tujuan Medan Jika 01, maka jam keberangkatan 5 am Jika 02, maka jam keberangkatan 11 am Jika 03, maka jam keberangkatan 3 am
+
+Microsoft Excel 2007
+
+Gambar 40 Jadual penerbangan menggunakan fungsi teks.
+Latihan soal: Kerjakan Gambar 41 berikut menggunakan kombinasi fungsi referensi dan fungsi teks atau kombinasi fungsi logika dan fungsi teks.
+
+Gambar 41 Jadual penerbangan menggunakan kombinasi fungsi referensi/fungsi logika dengan fungsi teks.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 35 dari 66
+
+Microsoft Excel 2007
+1.9.3 Fungsi LEN Fungsi LEN digunakan untuk menghitung banyaknya karakter dalam teks. Bentuk fungsi LEN: =LEN(teks). Contoh: =LEN("Institut") akan menghasilkan 8.
+1.9.4 Fungsi UPPER Fungsi UPPER digunakan untuk mengubah karakter dalam teks menjadi huruf kapital. Bentuk fungsi UPPER: =UPPER(teks). Contoh: =UPPER ("Institut") akan menghasilkan INSTITUT.
+1.9.5 Fungsi LOWER Fungsi LOWER digunakan untuk mengubah karakter dalam teks ke huruf kecil. Bentuk fungsi UPPER: =UPPER(teks). Contoh: =UPPER ("Toko Komputer") akan menghasilkan toko komputer.
+1.10 FUNGSI-FUNGSI FINANSIAL
+1.10.1 Fungsi FV Fungsi FV atau singkatan Future Value digunakan untuk mencari nilai uang pada masa yang akan datang. Bentuk umum fungsi FV: =FV(rate,nper,pmt,pv,type) yang berarti: =FV(tingkat bunga, periode, anuitas, nilai sekarang, tipe pembayaran). Contoh kasus tanpa menggunakan fungsi FV Pada tanggal 1 Januari 2004, Hanif menyimpan uang Rp. 1.200.000,- di bank dengan bunga 12 % per tahun. Bunga ditambahkan setiap tiga bulan. Berapa uang yang diterima Hanif setelah dua tahun?
+Penyelesaian sebelum menggunakan fungsi financial ditampilkan pada Gambar 42: Bunga per tahun = 12 %, maka bunga per periode (tiga bulan) = 3 %. Penyimpanan uang selama dua tahun berarti seluruhnya ada delapan periode penambahan bunga (24 bulan: 3 bulan).
+
+Gambar 42 Pehitungan saldo akhir sebelum menggunakan fungsi finansial. Masukkan rumus sebagai berikut:
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 36 dari 66
+
+Microsoft Excel 2007
+
+o Sel C5: =B5 + $B$2 o Sel D5: =B5 + C5 o Sel B6: = D5 o Kopi ke bawah
+Saldo akhir yang diterima Hanif pada akhir periode Rp. 1.520.124,-. Ini merupakan nilai kemudian (FV) dari investasi yang Hanif yang nilai sekarangnya (present value atau PV), yaitu nilai pada saat Hanif membayar invenstasi itu, sebesar Rp. 1.200.000,-.
+Penyelesaian menggunakan fungsi FV
+Kasus sama dengan yang sebelumnya.
+Kita tidak perlu menggunakan tabel seperti di atas, kita dapat menggunakan fungsi FV, yaitu: =FV(tingkat bunga, periode, anuitas, nilai sekarang, tipe pembayaran), dengan: o Tingkat bunga (i) = 3 % atau 0.03 o Periode =8 o Anuitas. Karena pembayaran sebesar Rp.1.200.000,- hanya terjadi sekali saja
+selama periode menabung, maka tidak ada anuitas. Karena itu dianggap 0. o Nilai sekarang. Karena pada awalnya Hanif menabung Rp. 1.200.000,- maka
+ditulis -1200000. Nilai ­ (negatif) terjadi karena Hanif mengeluarkan uang. o Tipe pembayaran. Excel menentukan dua jenis pembayaran:
+1, jika pembayaran dilakukan di awal periode 0, jika pembayaran dilakukan di akhir periode Perlu diperhatikan, penulisan tipe pembayaran tidak diharuskan, dengan catatan jika tidak diisi, maka tipe pembayaran dianggap dilakukan pada akhir periode atau 0. Dalam kasus ini, karena pembayaran dimulai pada awal Januari, maka tipe yang tepat adalah 1. o Secara lengkap fungsi FV untuk kasus ini adalah: =FV(0.03,8,0,-1200000,1)
+
+Perhatikan: Dalam menulis bunga dan periode harus konsisten. Jika kita menggunakan tahun sebagai periode, bunga juga harus bunga per tahun.
+
+Latihan Soal
+1. Jika Andi pada tanggal 1 Januari 2001 menabung uangnya sebesar Rp. 5.000.000,- di bank dengan bunga 35 % per tahun, berapa jumlah tabungannya pada 1 Januari 2004?
+2. Pada 1 Januari 2002, Sharly mempunyai tabungan sebesar Rp. 1.250.000,- di bank. Karena ingin membeli sepeda motor, Sharly menyisihkan gajinya sebesar Rp.500.000,untuk ditambahkan pada tabungannya. Dengan tingkat bunga 30 % setahun, berapakah nilai tabungan Sharly pada awal tahun 2003?
+
+1.10.2 Fungsi PV Fungsi PV atau singkatan Present Value digunakan untuk mencari nilai uang pada saat ini dengan memperhitungkan berbagai kemungkinannya pada masa mendatang. Bentuk umum fungsi PV: =PV(rate,nper,pmt,fv,type) yang berarti: =FV(tingkat bunga, periode, anuitas, nilai mendatang, tipe pembayaran).
+Contoh Kasus:
+Pak Samsul berharap mendapatkan uang sejumlah Rp. 10.000.000,- pada tanggal 1 Januari tahun 2011 untuk menyekolahkan anaknya. Jika bunga tabungan di bank saat ini adalah 30 % per tahun, berapa jumlah uang yang harus ditabung Pak Samsul saat Januari 2006?
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 37 dari 66
+
+Microsoft Excel 2007
+Penyelesaian: Tingkat bunga (i) = 30% Periode. Karena dimulai dari tahun 2006 sampai 2011, maka ada 2011-2006 = 5 tahun/ 5 periode. Anuitas = 0, karena penerimaan sebesar Rp. 10.000.000,- hanya terjadi sekali saja, yaitu di akhir periode menabung. Nilai mendatang. Karena pada akhir periode tabungan Pak Samsul akan menerima Rp.10.000.000,-, maka ditulis +10000000 atau cukup 10000000. Perhatikan nilai + (positif) terjadi karena Pak Samsul menerima uang. Tipe pembayaran = 1, karena pembayaran dimulai pada awal Januari. Secara lengkap fungsi PV untuk kasus di atas adalah: =PV(0.3,5,0,10000000,1).
+Latihan Soal Pak Anwar bermaksud membiayai sekolah anaknya yang diperkirakan selama 4 tahun dengan menyimpan sejumlah uang di bank. Tiap akhir bulan Pak Anwar mengambil Rp. 300.000,- untuk dikirim kepada anaknya. Jika suku bunga tabungan sekarang 40 % per tahun, berapakah uang yang harus disediakan Pak Anwar saat ini (2006) untuk memenuhi rencana di atas?
+1.10.3 Fungsi NPV Fungsi NPV atau Net Persent Value (nilai tunai bersih) mirip seperti fungsi PV, perbedaannya NPV digunakan untuk menghitung nilai tunai dari sejumlah arus kas yang tidak tetap besarnya. Bentuk umum fungsi NPV: =NPV(tingkat bunga,nilai1,nilai2,...).
+Contoh kasus Bu Endang akan melakukan investasi sebesar Rp. 10.000.000,- pada suatu proyek yang berlangsung selama tiga tahun. Suku bunga yang berlaku 10 %. Dari proyek tersebut, Bu Endang mengharapkan penerimaan berikut: Tahun pertama:Rp. 3.000.000,Tahun Kedua: Rp. 4.200.000,Tahun Ketiga; Rp. 6.800.000,Tentukan apakah proyek itu cukup menarik dan berapa nilai NPV-nya? Penyelesaian:
+Buat lembar kerja seperti Gambar 43:
+
+Gambar 43 Penyelesaian menggunakan fungsi NPV.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 38 dari 66
+
+Microsoft Excel 2007
+Angka 10000000 dimasukkan sebagai bilangan negatif, karena itu adalah nilai yang dibayarkan. Ketik di sel B7: =NPV(B1,B3:B6) Tekan Enter Suatu proyek menguntungkan jika NPV-nya positif.
+1.10.4 Fungsi IRR Fungsi IRR atau Internal Rate of Return digunakan untuk menghitung tingkat bunga yang menyamakan nilai sekarang investasi dengan nilai sekarang penerimaan kas bersih (inflow) di masa mendatang. Bentuk umum fungsi IRR: =IRR(range, perkiraan). Dengan range menyatakan arus kas. Perkiraan/guess diisi dengan sembarang nilai antara 0 dan 1.
+Fungsi IRR melakukan perhitungan melalui proses iterasi (mencoba dan mendekati secara berulang). Jika setelah 20 kali interasi Excel belum memperoleh hasil dengan ketelitian 0.0000001, fungsi itu memberikan pesan kesalahan #NUM.
+Pada contoh kasus Gambar 9.2, masukkan di sel B1: =IRR(B3:B6,0.1). Kita akan mendapatkan angka 16 % dan nilai NPV (sel B7) adalah 0. Jadi, dengan bunga 16 %, nilai tunai bersih yang diperoleh 0, tidak untung dan tidak rugi.
+1.10.5 Fungsi PMT Fungsi PMT atau PAYMENT digunakan untuk mencari jumlah atau nilai anuitas dalam suatu periode pembayaran atau penerimaan uang. Bentuk umum fungsi PMT: =PMT(rate,nper,pv,fv,type) yang berarti: =FV(tingkat bunga, periode, nilai sekarang, nilai mendatang, tipe pembayaran).
+Latihan soal
+Ibu Dewi ingin menyisihkan bonus tahunannya selama empat tahun untuk membeli sebuah sepeda motor. Jika bonus tahunan tersebut mulai ditabung 1 Maret 2006 pada sebuah bank yang memberi bungan sebesar 30 % per tahun, dan harga sepeda motor pada empat tahun kemudian adalah Rp. 8.000.000,-, berapa bonus yang harus disisihkan Ibu Dewi selama empat tahun tersebut?
+1.10.6 Fungsi RATE Fungsi RATE berarti tingkat bunga yang digunakan untuk mencari tingkat suku bunga dalam suatu periode pembayaran atau penerimaan uang. Bentuk umum fungsi RATE: =RATE(nper,pmt,pv,fv,type,guess) yang berarti =RATE(periode, anuitas, nilai sekarang, nilai mendatang, tipe pembayaran, perkiraan tingkat bunga). Perkiraan tingkat bunga boleh diisi sembarang angka, misal 0.25/25 % dan lainnya. Kolom inipun tidak wajib diisi, dengan catatan Excel akan memberi nilai 0.1 atau 10 % jika kolom ini dibiarkan kosong.
+Latihan soal
+Vera ingin menabung setiap minggu sebesar Rp. 10.000,- selama setahun dan berharap terkumpul uang sejumlah Rp. 1.000.000,- pada akhir masa tabungan. Berapakah tingkat bunga yang harus diberikan kepada Vera untuk memenuhi keinginannya tersebut? (untuk keseragaman, perkiraan tingkat bunga bisa diisi dengan 0.3).
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 39 dari 66
+
+Microsoft Excel 2007
+
+1.10.7 Fungsi NPER Fungsi NPER atau Number of Period adalah jumlah periode dalam suatu pembayaran atau penerimaan uang. Bentuk umum fungsi NPER: =NPER(rate,pmt,pv,fv,type) yang berarti =NPER(tingkat bunga, anuitas, nilai sekarang, nilai mendatang, tipe pembayaran).
+Latihan soal
+Fian ingin melipatgandakan uangnya dari Rp. 1.000.000,- menjadi Rp. 2.000.000,-. Untuk itu ia menabungkan uang Rp. 1.000.000,- tersebut pada sebuah bank yang memberi suku bunga 30 % per tahun. Berapa lama uang Fian tersebut akan menjadi berlipat dua?
+1.10.8 Fungsi IPMT Dan PPMT Kedua fungsi tersebut digunakan untuk mengetahui pembayaran bunga (IPMT atau Interest Payment) dan pembayaran pokok/angsuran (PPMT atau Principal Payment) dari suatu periode investasi/hutang tertentu. Bentuk umum fungsi IPMT: =IPMT(rate,per,nper,pv,fv,type) yang berarti =IPMT(tingkat bunga, periode bunga, periode, nilai sekarang, nilai mendatang, tipe pembayaran). Sedangkan bentuk umum fungsi PPMT: =PPMT(rate,per,nper,pv,fv,type) (rumus PPMT hampir sama dengan IPMT).
+Latihan soal
+Rina meminjam uang pada bank sebanyak Rp. 10.000.000,- dengan bunga pinjaman sebesar 35 % per tahun. Pinjaman tersebut akan dilunasi Rina dalam jangka waktu 15 tahun. Rina ingin mengetahui: a. Berapa bunga dan pokok pinjaman yang harus dibayar pada bulan pertama? b. Berapa bunga dan pokok pinjaman yang harus dibayar pada bulan ke-160?
+1.10.9 Fungsi CUMIPMT Dan CUMPRINC Kedua fungsi tersebut digunakan untuk mengetahui besar pembayaran bunga kumulatif (CUMIPMT atau Cumulative Interest Payment) dan besar pembayaran angsuran kumulatif (CUMPRINC atau Cumulative Princial) di antara awal dan akhir periode. Fungsi ini mirip dengan fungsi IPMT dan PPMT, hanya kedua fungsi ini nmenghitung jumlah kumulatifnya.
+Latihan soal
+Rina meminjam uang pada bank sebanyak Rp. 10.000.000,- dengan bunga pinjaman sebesar 35 % per tahun. Pinjaman tersebut akan dilunasi Rina dalam jangka waktu 15 tahun. Rina ingin mengetahui: Berapa kumulatif pembayaran bunga dan kumulatif pembayaran pokok pinjaman yang harus dibayar antara bulan ketiga hingga bulan keenam?
+Catatan: 15 tahun = 180 bulan.
+1.10.10 Fungsi Finansial Depresiasi Depresiasi atau penyusutan merupakan proses pengalokasian harga perolehan aktiva tetap menjadi biaya selama masa manfaat dengan cara yang rasional dan sistematis. Aktiva tetap seperti mesin dan perkakas (kecuali tanah) akan menurun nilainya dengan berjalannya waktu. Untuk menetapkan nilai penyusutan (depreciation), kita harus menentukan:
+Harga perolehan (cost) aktiva tersebut.
+Masa manfaat (life).
+Nilai sisa (salvage), yaitu nilai aktiva pada akhir tempo.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 40 dari 66
+
+Microsoft Excel 2007
+Excel menyediakan fungsi untuk menghitung nilai penyusutan. Terdapat tiga cara yang dapat digunakan, yaitu:
+Metode garis lurus (straight-line-method). Metode saldo menurun ganda (double-declining balance method). Metode jumlah angka tahunan (sum-of-the-year's digit method).
+1.10.10.1 Fungsi SLN Fungsi ini menghitung nilai penyusutan berdasarkan metode garis lurus. Dengan cara
+ini penyusutan dibagi merata sepanjang umur alat itu dipakai. Bentuk umum fungsi SLN: =SLN(cost,salvage,life). Contoh Kasus
+Sebuah perusahaan mempunyai aktiva dengan harga perolehan (harga beli + biayabiaya) senilai Rp. 90.000.000, taksiran nilai sisa Rp. 30.000.000, dan masa manfaat ditetapkan selama lima tahun. Hitung besar depresiasi per tahun dan susun tabel depresiasi seperti Gambar 44 berikut:
+
+Gambar 44 penyusutan aktiva tetap metode garis lurus menggunakan fungsi SLN.
+Penyelesaian: Isikan nilai di sel B9 dengan menggunakan fungsi SLN Sel E14 = B$5-D14 Sel B15 = B$9 Sel C15 =B15 Sel D15 = SUM(C$14:C15) Kopikan rumus/formula ke bawah Hasil akhir (sel E19) = 30000000
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 41 dari 66
+
+Microsoft Excel 2007
+1.10.10.2 Fungsi DDB Fungsi ini menghitung nilai penyusutan pada suatu waktu tertentu. Metode yang digunakan adalah saldo menurun ganda. Dengan cara ini, penyusutan tidak merata setiap tahun. Penyusutan lebih besar di awal pemakaian dibandingkan pada akhirnya. Bentuk umum fungsi DDB: =(cost,salvage,life,period) yang berarti =DDB(harga perolehan, nilai sisa, masa manfaat, periode).
+Contoh Kasus
+Sebuah perusahaan mempunyai aktiva dengan harga perolehan (harga beli + biaya-biaya) senilai Rp. 15.000.000, taksiran nilai sisa Rp. 1.500.000, dan masa manfaat ditetapkan selama enam tahun. Hitung besar penyusutan pada tahun keempat dan buatlah tabel depresiasi seperti Gambar 45 berikut:
+
+Gambar 45 Penyusutan aktiva tetap menggunakan fungsi DDB.
+Penyelesaian (Rumus yang harus dimasukkan): Isikan nilai di sel C5 dengan menggunakan fungsi DDB Sel B13 = B5 Sel C13 =DDB($B$5,$B$6,$B$7,A13) Sel D13 =B13-C13 Sel B14 =D13 Bandingkan hasil di sel C5 dengan sel C16.
+1.10.10.3 Fungsi SYD Fungsi SYD menentukan nilai penyusutan berdasarkan metode jumlah angka tahunan. Seperti pada metode saldo menurun ganda, penyusutan akan besar pada awalnya dan menurun kemudia. Bentuk umum fungsi SYD sama dengan bentuk umum fungsi DDB, yaitu: =SYD(cost,salvage,life,period).
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 42 dari 66
+
+Microsoft Excel 2007
+1.11 GRAFIK Grafik merupakan sebuah gambar yang menjelaskan data angka dalam lembar kerja, dengan visualisasi grafis memudahkan pembacaan data tanpa harus mengungkapkan dengan kata-kata, dan setiap perubahan angka pada sumber grafik secara otomatis akan mengubah tampilan grafik. Ada dua cara membuat grafik, yaitu: a. Menempatkan grafik pada lembar kerja bersama dengan datanya. b. Menempatkan grafik terpisah dari lembar kerja tetapi dalam buku kerja yang sama.
+Excel menyediakan pemandu pembuatan grafik yang disebut Chart Wizard hingga pembuatan grafik dapat berikut. Gambar 46 berisi data penjualan pesawat TV toko Jakarta Electric yang mempunyai tiga tempat penjualan, yaitu Jakarta, Yogyakarta, dan Surabaya.
+Gambar 46 Data penjualan pesawat TV.
+Berdasarkan data tersebut akan dibuat grafik dengan chart wizard, langkah untuk membuatnya: 1. Sorot range data yang akan dibuat grafik, termasuk baris judul dan kolom (dalam
+contoh range A5:D10). 2. Pilih Tab Insert, kemudian klik tombol pojok kanan group Charts untuk membuat
+grafik (lihat Gambar 47).
+
+Gambar 47 Pemilihan tab home charts.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 43 dari 66
+
+Microsoft Excel 2007 3. Kotak dialog seperti Gambar 48 akan ditampilkan.
+Gambar 48 Kotak dialog insert chart. 4. Pilih tipe grafik yang diinginkan. Dalam hal ini pilih Column 3-D Clustered
+Column. 5. Grafik akan ditampilkan seperti Gambar 49. Pada Gambar 48 ini juga dapat dilihat, ada
+penambahan Tab Design yang berisi toolbar yaitu Type, Data, Chart Layouts, Chart Styles, Location.
+
+Gambar 49 Tampilan awal grafik data penjualan pesawat TV.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 44 dari 66
+
+Microsoft Excel 2007
+6. Jika ingin mengubah jenis grafik, pilih Change Chart Type. 7. Jika ingin mengubah source data, pilih Switch Row/Column. 8. Untuk memberikan Chart Option seperti judul grafik, judul sumbu x, y, pilih Chart
+Layouts. Dalam hal ini pilih layout 9. Tampilan seperti Gambar 50.
+
+Gambar 50 Tampilan grafik dengan chart layouts.
+9. Ubah judul grafik menjadi Grafik Penjualan Pesawat TV Jakarta Elektrik dengan cara klik pada bagian Chart Title, sumbu x dan sumbu y berturut-turut Merk dan Jumlah.
+10. Untuk mengubah style, pilih Chart Styles. 11. Jika ingin mengubah lokasi grafik, pilih Location. 12. Layout seperti tampilan gridlines, axes, data label, data table terdapat pada Tab
+Layout seperti Gambar 51.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 45 dari 66
+
+Microsoft Excel 2007
+
+Gambar 51 Tampilan tab layout.
+Latihan soal Sebuah perusahaan memiliki data mengenai jumlah biaya promosi yang dikeluarkan selama periode Januari sampai Juli 2006 seperti Gambar 52, sel A4:B10. Buatlah grafik sehingga hasilnya seperti Gambar 52 (sebelah data biaya promosi).
+
+Gambar 52 Data dan grafik biaya promosi.
+
+1.12 PIVOT TABLE DAN PIVOT CHART
+1.12.1 Pivottable PivotTable merupakan tabel yang merangkum informasi dari field tertentu dalam sebuah basis data. Penggunaan fasilitas PivotTable memungkinkan pembuatan tabel pelengkap yang informatif dan lebih hidup sehingga memudahkan dalam menganalisis data. Gambar berikut menampilkan data penjualan oleh beberapa wiraniaga. Ada empat field (kolom) pada tabel tersebut, yaitu tanggal penjualan, wiraniaga yang menjual, nama produk yang dijual, dan banyaknya produk yang dijual.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 46 dari 66
+
+Microsoft Excel 2007
+Agak sulit bagi kita mengambil kesimpulan dari tabel tersebut, karena data yang satu bercampur dengan data yang lain, misalnya data seorang wiraniaga bercampur dengan wiraniaga yang lain, data suatu produk juga bercampur dengan produk lain. PivotTable dapat digunakan untuk melihat tabel dari berbagai sudut pandang hingga memudahkan kita menarik kesimpulan. Ketiklah data seperti Gambar 53.
+
+Gambar 53 Data penjualan toko elektronik tahun 2006.
+Langkah-langkah membuat PivotTable sebagai berikut: 1. Pilih range yang akan diberikan perintah PivotTable, pada, range A3:D29. 2. Pilih Tab Insert PivotTable. Kotak dialog akan ditampilkan seperti Gambar 54.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 47 dari 66
+
+Microsoft Excel 2007
+Gambar 54 Kotak dialog create pivot table. 3. Pilihan new worksheet jika hasil pivot table diletakkan di sheet yang baru. Pilihan
+existing worksheet jika hasil pivot table diletakkan di sheet yang sama dengan data. Dalam hal ini pilih existing worksheet, kemudian lokasi sel F3. 4. Klik ok. Pivot table akan ditampilkan seperti Gambar 55.
+
+Gambar 55 Tampilan pivot table.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 48 dari 66
+
+Microsoft Excel 2007
+5. Di bagian kanan kotak dialog ditampilkan tombol-tombol dengan nama field yang ada pada tabel yang telah dibuat. Di sini kita menentukan field yang akan ditampilkan di bagian PAGE, COLUMN, ROW, dan DATA. Kita ingin agar setiap halaman menampilkan data seorang wiraniaga. Drag tombol wiraniaga ke kotak PAGE. Data setiap produk akan ditampilkan dalam suatu kolom. Drag tombol produk ke kotak COLUMN. Setiap baris akan menampilkan data penjualan pada suatu tanggal. Drag tombol tanggal ke kotak ROW. Data yang ingin ditampilkan adalah jumlah penjualan. Drag tombol jumlah ke kotak DATA.
+6. Klik tombol OK. 7. Klik tombol Finish, hasilnya seperti Gambar 56.
+
+Gambar 56 Hasil pivot table.
+8. Di bagian wiraniaga, pilih nama wiraniaga yang ingin diketahui jumlah produk yang berhasil dijual.
+Coba ulangi langkah untuk membuat PivotTable, tetapi pada langkah ke-3, pilih New worksheet. Jika ingin mengubah tampilan PivotTable, cukup di-drag bagian yang ingin dipindahkan. Pindahkan produk sehingga hasilnya seperti Gambar 57.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 49 dari 66
+
+Microsoft Excel 2007
+Gambar 57 Tampilan pivot table dengan perubahan desain. 1.12.2 Pivotchart Langkah-langkah membuat PivotChart sama seperti langkah-langkah membuat PivotTable, hanya saja setelah memilih Tab Insert, pilih PivotChart. Lakukan langkah untuk membuat PivotChart sehingga hasilnya seperti Gambar 58.
+
+Gambar 58 Tampilan pivot chart.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 50 dari 66
+
+Microsoft Excel 2007
+1.13 SUBTOTAL
+Fasilitas subtotal digunakan untuk menghitung subtotal dan total data untuk setiap data berdasarkan kriteria tertentu. Sebagai contoh, pada lembar kerja berikut akan dihitung subtotal menurut produknya. Kita juga dapat menghitung subtotal menurut penyalurnya. Field Jumlah merupakan hasil kali antara field banyak dan harga.
+
+Gambar 59 Data pembelian toko bangunan ABV.
+1.13.1 Subtotal Sederhana Langkah untuk membuat subtotal sebagai berikut: 1. Data yang akan dihitung subtotalnya harus diurutkan terlebih dahulu, pada kasus ini
+adalah produk (sudah terurut). 2. Klik di sel tertentu di range tabel yang akan dihitung subtotalnya, misal sel B4. 3. Pilih Tab Data Subtotal (Gambar 60). 4. Kotak dialog akan ditampilkan pada Gambar 61.
+
+Gambar 60 Pilihan tab data subtotal.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 51 dari 66
+
+Microsoft Excel 2007
+
+Gambar 61 Kotak dialog subtotal.
+5. Tentukan kolom atau field yang akan dihitung subtotalnya melalui kotak drop down At each Change in. Pada kasus ini pilih produk.
+6. Tentukan perhitungan yang akan dilakukan dengan memilih fungsi di kotak drop down Use Function. Pada kasus ini pilih sum.
+7. Tentukan data yang akan dihitung subtotalnya. Pada kasus ini kita akan membuat subtotal banyak dan jumlah. Beri tanda di list box banyak dan jumlah di kotak daftar Add subtotal to.
+8. Jika tabel telah mengandung subtotal, untuk menggantikan subtotal yang telah ada dengan yang baru, beri tanda di list box Replace current subtotals. Jika list box ini dinonaktifkan (tidak diberi tanda), subtotal yang baru akan ditambahkan dan subtotal yang lama tetap ada. Pada kasus ini list box dinonaktifkan.
+9. Jika kita menghendaki agar setiap kelompok yang dihitung subtotalnya dicetak di halaman terpisah, beri tanda di list box Page break between groups. Karena kita tidak akan mencetak tabel ini, list box ini tidak diberi tanda.
+10. Secara defult Excel akan memberikan subtotal pada akhir setiap kelompok. Jika kita menghendaki subtotal diberikan pada awal setiap kelompok, hilangkah tanda pada list box Summary below data. Pada kasus ini, list box diberi tanda.
+11. Hasil subtotal dapat dilihat pada Gambar 62.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 52 dari 66
+
+Microsoft Excel 2007
+
+Gambar 62 Tampilan subtotal sederhana.
+
+Excel juga menyediakan struktur outline pada tabel. Perhatikan tombol-tombol outline di
+
+kiri lembar kerja. Kita dapat mengubah tingkat kerincian tabel dengan mengklik tombol-
+
+tombol tersebut. Jika diklik ketiga tombol ­ (minus), maka hanya subtotal dan grand total
+
+yang ditampilkan (lihat Gambar 63).
+
+.
+
+Gambar 63 Outline subtotal.
+1.13.2 Subtotal Majemuk Kita dapat melakukan lebih dari satu perhitungan untuk suatu subtotal. Misalnya untuk setiap produk dihitung jumlah pembelian dan rata-ratanya. Lakukan langkah-langkah subtotal untuk mendapatkan nilai jumlah pembelian dan rata-ratanya, sehingga hasilnya seperti Gambar 64.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 53 dari 66
+
+Microsoft Excel 2007
+
+Gambar 64 Tampilan subtotal majemuk.
+1.13.3 Subtotal Bertingkat Kita dapat membuat subtotal tambahan di dalam setiap kelompok. Misalnya pada setiap produk ingin diketahui subtotal untuk masing-masing penyalur seperti Gambar 65.
+
+Gambar 65 Tampilan subtotal bertingkat.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 54 dari 66
+
+Microsoft Excel 2007
+
+Langkah-langkah untuk membuat subtotal bertingkat sebagai berikut:
+
+1. Data yang akan dihitung subtotalnya harus diurutkan terlebih dahulu dengan cara pilih Tab Data Sort A-Z (Ascending). Pilih produk pada kunci pertama dan penyalur pada kunci kedua.
+
+2. Klik di sel tertentu di range tabel yang akan dihitung subtotalnya, misal sel B4.
+
+3. Pilih Tab Data Subtotal.
+
+4. Pilih produk pada kotak At each Change in dan sum di kotak Use Function.
+
+5. Tandai list box Summary below data dan nonaktifkan list box yang lain.
+
+6. Pilih lagi Tab Data Subtota.
+
+7. Pilih penyalur pada kotak At each Change in dan sum di kotak Use Function.
+
+8. List box Replace current subtotals harus dinonaktifkan.
+
+9. Klik OK.
+
+Untuk menghilangkan subtotal, pilih Tab Data Remove All.
+
+Subtotal. Kemudian klik tombol
+
+1.14 VALIDASI DATA Fasilitas validasi/pengecekan data berfungsi untuk mengontrol dan membatasi data
+sebuah range. Misalnya data harus selalu lebih kecil dari 100. Jika kita memasukkan data yang lebih besar dari 100, maka Excel akan menolak dan memberikan pesan/peringatan.
+Langkah-langkah untuk membatasi data sebagai berikut (kasus seperti Gambar 66 yang menyatakan nilai ulangan siswa dengan minimum nilai 0 dan maximum nilai 100):
+
+Gambar 66 validasi data.
+1. Pilih range yang akan dibatasi datanya, misalnya C6:C16. 2. Pilih Tab Data Data Validation. 3. Pilih tab Settings. Kotak dialog seperti Gambar 67 akan tampilkan.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 55 dari 66
+
+Microsoft Excel 2007
+
+Gambar 67 Kotak dialog data validation.
+
+4. Pilih nilai pada kotak drop down Allow. Pada kasus ini pilih Whole number.
+
+Whole number Decimal Data Time Text
+
+: bilangan bulat : bilangan pecahan desimal : tanggal : waktu : panjang teks
+
+5. Pilih nilai pada kotak drop down Data. Pada kasus ini pilih between.
+
+Between
+
+: di antara dua nilai
+
+Not between
+
+: tidakk di antara dua nilai
+
+Equal to
+
+: sama dengan
+
+Not equal to
+
+: tidak sama dengan
+
+Greater than
+
+: lebih besar dari
+
+Less than
+
+: lebih kecil dari
+
+Greater than or equal to: lebih besar atau sama dengan
+
+Less than or equal to : lebih kecil atau sama dengan
+
+6. Tentukan nilai sesuai dengan pilihan pada kotak drop down Data Pada kasus ini, isi nilai minimum dengan 0 dan nilai maximum dengan 100.
+
+7. Klik OK.
+
+Untuk melakukan pengujian, coba ketikkan nilai 101 pada sel C6. Karena nilai yang dimasukkan tidak memenuhi kriteria, maka Excel akan menolak dan menampilkan kotak seperti Gambar 68
+
+Gambar 68 kotak pesan error jika tidak memenuhi kriteria validasi data.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 56 dari 66
+
+Microsoft Excel 2007
+Untuk membatalkan syarat yang pernah diberikan, pilih Tab Data Validation. Pilih Any value pada kotak drop down Allow. Latihan Soal 1. Buat validasi untuk kolom fisika dengan kriteria nilai harus lebih besar sama dengan 40
+dan kolom kimia dengan syarat nilai harus lebih kecil dari 90. 2. Buat validasi data untuk contoh berikut yang nilai kolom agamanya hanya berisi nilai
+di range D3:D7 (catatan: pilih list pada kotak drop down Allow dan tentukan sourcenya) (Gambar 69).
+Gambar 69 Validasi data agama. Kita dapat membuat pesan pemasukan data melalui tab Input Message melalui kotak dialog Data Validation seperti Gambar 70. Sebelumnya pilih range yang akan diberi pesan tersebut. Pada kasus daftar nilai pada contoh pertama, pilih range C6:C16.
+
+Gambar 70 Kotak dialog data validation tab input message.
+Jika sel yang kita kenai pesan itu dipilih, maka di samping sel akan ditampilkan kotak penunjuk dengan isi pesan sesuai yang ditulis (Gambar 71).
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 57 dari 66
+
+Microsoft Excel 2007
+
+Gambar 71 Tampilan validasi data daftar nilai siswa SMU Abadi Jaya.
+Kita juga bisa membuat kotak pesan peringatan sesuai dengan keinginan kita melalui tab Error Alert seperti Gambar 72.
+
+Gambar 72 Kotak dialog data validation tab error alert.
+
+Pilihan pada kotak Style:
+
+Stop
+
+: data yang tidak memenuhi kriteria akan ditolak.
+
+Warning : Menampilkan pesan peringatan dengan pertanyaan "Continue?" jika data tidak memenuhi kriteria. Jika kita memilih Yes, data akan tetap dimasukkan meskipun tidak memenuhi kriteria.
+
+Informasi : Sama seperti Warning. Jika diklik OK, maka data akan tetap dimasukkan.
+
+1.15 BASIS DATA
+Salah satu pekerjaan yang banyak dilakukan dengan Excel adalah mengelola sekumpulan data yang disebut dengan istilah database/basis data. Basis data adalah sekumpulan data yang disusun sedemikian rupa hingga kita mudah memperoleh informasi secara tepat tentang data itu. Basis data pada lembar kerja Excel merupakan range berisi data yang disusun berdasarkan kolom dan baris. Data yang berada dalam satu kolom harus
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 58 dari 66
+
+Microsoft Excel 2007
+sejenis, misalnya data mahasiswa yang terdiri atas kolom: NIM, Nama, Jurusan, Kota Asal. Kolom yang berisi data sejenis tersebut disebut dengan istilah field. Gambar 73 merupakan basis data mahasiswa.
+
+Gambar 73 Basis data mahasiswa Universitas Setia Jaya Fakultas MIPA.
+1.15.1 Fasilitas Data Sort Excel mempunyai fasilitas untuk mengurutkan data secara cepat dan tepat. Langkahlangkah untuk mengurutkan data sebagai berikut: 1. Pilih kolom yang akan diurutkan datanya, misal kolom Bea Siswa. 2. Pilih Tab Data A-Z Sort (mengurutkan data secara menaik). Sedangkah jika
+memilih Z-A Sort artinya mengurutkan data secara menurun. 3. Hasil pengurutan berdasarkan bea siswa ditampilkan seperti Gambar 74
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 59 dari 66
+
+Microsoft Excel 2007
+
+Gambar 74 Hasil pengurutan berdasarkan kolom bea siswa.
+1.15.2 Fasilitas Filter Excel menyediakan fasilitas untuk menyaring data dengan kriteria tertentu. Ada beberapa cara metode yang bisa digunakan untuk menyaring data, diantaranya:
+1.15.2.1 AutoFilter Penggunaan fasilitas AutoFilter memungkinkan kita menampilkan hanya record tertentu yang berisi data yang diinginkan. Langkah untuk menyaring data dengan fasilitas AutoFilter adalah:
+1. Pilih sel di lembar kerja yang akan diberikan perintah AutoFilter. 2. Pilih Tab Data Filter, secara otomatis akan muncul tombol drop down pada
+masing-masing judul kolom.
+3. Pilih Ilmu Komputer kotak tombol drop down Jurusan. Lihat hasilnya.
+Pilihan drop down pada judul kolom, diantaranya:
+All. Pilihan ini digunakan untuk menampilkan seluruh basis data secara lengkap dan utuh.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 60 dari 66
+
+Microsoft Excel 2007
+Top 10 AutoFilter. Pilihan ini digunakan untuk menyaring basis data dengan kriteria penyaringan tertinggi (top) atau terendah (bottom) sebanyak n item atau persen dari seluruh basis data yang dikehendaki.
+Custom AutoFilter. Pilihan ini digunakan untuk menyaring basis data sesuai dengan kriteria yang ditentukan.
+Latihan soal Saringlah data dengan kriteria bea siswa < 300000 dan bea siswa antara 300000-400000.
+1.15.2.2 Advanced Filter Advanced Filter memungkinkan kita melakukan penyaringan data dengan kriteria yang lebih rumit. Dengan Advanced Filter, hasil penyaringan akan ditempatkan pada range tersendiri atau ditempatkan pada range asal. Untuk menggunakan Advanced Filter, terlebih dahulu harus membuat suatu range untuk menentukan kriteria (range kriteria). Sebagai contoh kita akan menyaring data dengan kriteria jurusan = matematika dan kota asal = Jakarta. Langkah-langkahnya sebagai berikut:
+1. Tuliskan range kriteria seperti Gambar 75 berikut (lihat range G3:K4).
+
+Gambar 75 Tampilan advanced filter.
+2. Tempatkan penjunjuk sel pada basis data mahasiswa. 3. Pilih Tab Data Advanced Filter. Kotak dialog Advanced Filter akan ditampilkan
+pada Gambar 76.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 61 dari 66
+
+Microsoft Excel 2007
+Gambar 76 Kotak dialog advanced filter. 4. Pilih tempat hasil data tersaring akan diletakkan. Ada dua tombol pilihan, yaitu:
+Filter the list, in-place. Pilihan ini digunakan jika data tersaring ditampilkan di basis data itu sendiri. Copy to another location. Pilihan ini digunakan jika data tersaring dikopi ke tempat lain. Pada kasus ini pilih Copy to another location dan tulis G6 di kotak teks Copy to. 5. Pilih range di kotak List range dan pilih range kriteria di kotak Criteria range seperti. 6. Klik OK. Hasilnya seperti Gambar 77.
+
+Gambar 77 Tampilan advanced filter dengan kriteria jurusan matematika dan kota asal Jakarta.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 62 dari 66
+
+Microsoft Excel 2007
+Latihan: Buat advanced filter dengan kriteria daftar mahasiswa yang jurusannya matematika dan bea siswanya lebih dari 300000.
+Jika kita ingin memperoleh daftar mahasiwa dengan kriteria kota asal = Jakarta dan Bea siswa > 250000, tetapi hanya NIM, Nama, dan Jurusannya saja yang ditampilkan, maka caranya sebagai berikut: 1. Kita harus menyiapkan extract range (lihat Gambar 78, range G21:I21). 2. Tempatkan penjunjuk sel pada basis data mahasiswa.
+
+Gambar 78 Tampilan extra range.
+3. Pilih Tab Data Advanced Filter. Kotak dialog Advanced Filter akan ditampilkan pada Gambar 79.
+
+Gambar 79 kotak dialog advanced filter dengan tampilan judul yang berbeda dengan data aslinya.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 63 dari 66
+
+Microsoft Excel 2007 4. Tentukan range di List range, Criteria Range, dan Copy to. 5. Klik OK. Hasilnya seperti Gambar 80 berikut.
+Gambar 80 Tampilan advanced filter dengan kriteria kota asal = Jakarta dan Bea siswa > 250000.
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 64 dari 66
+
+Microsoft Excel 2007
+
+Contents
+1. BAB 1 MICROSOFT EXCEL 2007 .......................................................................1 1.1 PENGENALAN MICROSOFT EXCEL 2007...................................................2 1.1.1 Tampilan Layar Excel ................................................................................2 1.1.2 Lembar Kerja Dan Buku Kerja...................................................................4 1.2 MEMULAI MENGOPERASIKAN MICROSOFT EXCEL 2007......................4 1.2.1 Memanipulasi Lembar Kerja ......................................................................4 1.2.2 Input Data ..................................................................................................5 1.2.3 Bekerja Dengan Excel................................................................................6 1.2.4 Kelebihan Format Baru pada Office 2007.................................................10 1.2.5 Kompatibilitas Excel ................................................................................ 10 1.2.6 Mengakhiri Microsoft Excel.....................................................................12 1.3 OPERASI HITUNG DAN RUMUS ................................................................ 12 1.4 MEMFORMAT LEMBAR KERJA ................................................................ 14 1.4.1 Mengatur Tampilan Lembar Kerja ........................................................... 14 1.4.2 Format Teks ............................................................................................. 15 1.4.3 Format Angka .......................................................................................... 16 1.4.4 Format Kolom Dan Baris ......................................................................... 19 1.4.5 Format Teks Dan Angka Dalam Sel ......................................................... 19 1.5 RUMUS DENGAN ALAMAT ABSOLUT, ALAMAT RELATIF, ALAMAT CAMPURAN RELATIF DAN ABSOLUT ............................................................... 23 1.5.1 Rumus Dengan Alamat Relatif ................................................................. 23 1.5.2 Rumus Dengan Alamat Absolut ............................................................... 24 1.5.3 Rumus Dengan Alamat Campuran Relatif dan Absolut ............................ 24 1.6 FUNGSI-FUNGSI STATISTIKA ................................................................... 26 1.6.1 Average ................................................................................................... 26 1.6.2 Count ....................................................................................................... 26 1.6.3 Counta ..................................................................................................... 26 1.6.4 Countblank...............................................................................................26 1.6.5 Countif.....................................................................................................26 1.6.6 Frequency ................................................................................................ 27 1.6.7 Large........................................................................................................28 1.6.8 Small........................................................................................................28 1.6.9 Rank ........................................................................................................ 29 1.7 FUNGSI-FUNGSI LOGIKA...........................................................................29 1.7.1 If .............................................................................................................. 29 1.7.2 AND, OR, Dan NOT................................................................................31 1.8 FUNGSI-FUNGSI REFERENSI ..................................................................... 32 1.8.1 Fungsi VLOOKUP Dan HLOOKUP ........................................................ 32 1.8.2 Fungsi CHOOSE......................................................................................33 1.9 FUNGSI-FUNGSI TEKS ................................................................................ 34 1.9.1 Fungsi LEFT Dan RIGHT........................................................................34 1.9.2 Fungsi MID..............................................................................................34 1.9.3 Fungsi LEN..............................................................................................36
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 65 dari 66
+
+Microsoft Excel 2007
+1.9.4 Fungsi UPPER ......................................................................................... 36 1.9.5 Fungsi LOWER ....................................................................................... 36 1.10 FUNGSI-FUNGSI FINANSIAL..................................................................36 1.10.1 Fungsi FV ............................................................................................... 36 1.10.2 Fungsi PV ............................................................................................... 37 1.10.3 Fungsi NPV ............................................................................................ 38 1.10.4 Fungsi IRR..............................................................................................39 1.10.5 Fungsi PMT ............................................................................................ 39 1.10.6 Fungsi RATE .......................................................................................... 39 1.10.7 Fungsi NPER .......................................................................................... 40 1.10.8 Fungsi IPMT Dan PPMT.........................................................................40 1.10.9 Fungsi CUMIPMT Dan CUMPRINC......................................................40 1.10.10 Fungsi Finansial Depresiasi ................................................................. 40 1.11 GRAFIK......................................................................................................43 1.12 PIVOT TABLE DAN PIVOT CHART........................................................46 1.12.1 Pivottable ................................................................................................. 46 1.12.2 Pivotchart.................................................................................................50 1.13 SUBTOTAL ................................................................................................ 51 1.13.1 Subtotal Sederhana...................................................................................51 1.13.2 Subtotal Majemuk .................................................................................... 53 1.13.3 Subtotal Bertingkat .................................................................................. 54 1.14 VALIDASI DATA ...................................................................................... 55 1.15 BASIS DATA.............................................................................................. 58 1.15.1 Fasilitas Data Sort .................................................................................... 59 1.15.2 Fasilitas Filter .......................................................................................... 60
+
+Modul Praktikum KKPI Microsoft Excel 2007
+
+SMK Tamtama 1 Sidareja oleh : ARIS BUDIANTO, S.E
+
+Halaman 66 dari 66

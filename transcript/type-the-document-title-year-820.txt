@@ -1,0 +1,1713 @@
+2010
+
+[Type the document title] [Year]
+
+MODUL PRAKTIKUM
+Aplikasi Perkantoran
+OVY ROCHMAWANTI,S.Kom.
+
+PROGRAM KEAHLIAN TEKNOLOGI INFORMASI PROGRAM PENDIDIKAN VOKASI UNIVERSITAS BRAWIJAYA 2010
+
+Kata Pengantar
+
+2010
+
+Kata Pengantar
+
+Puji syukur kami panjatkan kehadirat Tuhan Yang Maha Esa atas karunia dan hidayahnya, sehingga Modul Praktikum Aplikasi Perkantoran Vokasi Universitas Brawijaya Malang dapat diwujudkan.
+Modul Praktikum ini dirancang untuk membuat mahasiswa mengerti penggunaan berbagai aplikasi atau software yang sering digunakan di dunia kerja. Modul praktikum ini diharapkan mampu dijadikan pendamping dalam mendalami berbagai aplikasi yang sering digunakan di dunia IT pada khususnya.
+Akhirnya dengan ini kami mengharapkan Buku Pedoman ini dapat dijadikan petunjuk dan dipergunakan dengan sebaik-baiknya. Penulis akan dengan senang hati menerima apabila terdapat kritik dan saran yang bersifat membangun pada modul praktikum Aplikasi Perkantoran ini.
+
+2
+
+Daftar Isi
+
+2010
+
+Daftar Isi
+Kata Pengantar ..................................................................................................................................... 2 Daftar Isi ................................................................................................................................................ 3 Praktikum ke 1 ...................................................................................................................................... 6
+1.1. Judul Praktikum..................................................................................................................... 6 1.2. Peralatan / Bahan ................................................................................................................. 6 1.3. Tujuan Praktikum.................................................................................................................. 6 1.4. Referensi ................................................................................................................................ 6 1.5. Hasil / kompetensi yang diharapkan : ............................................................................... 6 1.6. Dasar Teori ............................................................................................................................ 6 1.6.1. Memindahkan Penunjuk Sel (Cell Pointer).................................................................... 6 1.6.2. Menggunakan Fasilitas AutoComplete ........................................................................... 7 1.6.3. Range ................................................................................................................................. 7 1.6.4. Simbol-simbol pada Microsoft Excel............................................................................... 7 1.7. Prosedur Pelaksanaan .......................................................................................................... 8 1.7.1. Penggunaan Fungsi Teks................................................................................................. 8 1.7.2. Penggunaan Autofill ......................................................................................................... 9 1.7.3. Penggunaan AutoSum....................................................................................................10 1.7.4. Penggunaan Fungsi IF ................................................................................................... 10 1.7.5. Penggunaan Fungsi COUNTIF ...................................................................................... 11 1.7.6. Penggunaan Fungsi SUMIF ........................................................................................... 12 1.7.7. Penggunaan Fungsi COUNTA........................................................................................12 1.7.8. Penggunaan Fungsi Lookup dan Referensi.................................................................12 1.7.9. Penggunaan Grafik dan Diagram ................................................................................. 14 1.8. Latihan Soal ......................................................................................................................... 15 Praktikum ke 2 .................................................................................................................................... 19 2.1. Judul Praktikum................................................................................................................... 19 2.2. Peralatan / Bahan ............................................................................................................... 19 2.3. Tujuan Praktikum................................................................................................................ 19 2.4. Referensi .............................................................................................................................. 19 2.5. Hasil / kompetensi yang diharapkan : ............................................................................. 19 2.6. Dasar Teori .......................................................................................................................... 19 2.6.1. Format Penyimpanan ..................................................................................................... 19 2.6.2. Slide Layout ..................................................................................................................... 20 2.6.3. Slide Desain ..................................................................................................................... 20 2.7. Prosedur / Pelaksanaan : .................................................................................................. 21 2.7.1. Bekerja dengan Tabel .................................................................................................... 21 2.7.2. Bekerja dengan Gambar ................................................................................................ 22 2.7.2.1. ClipArt ........................................................................................................................... 23 2.7.2.2. Photo Album ................................................................................................................ 23 2.7.2.3. SmartArt ....................................................................................................................... 24 2.7.2.4. Chart ............................................................................................................................. 25 2.7.2.5. Shapes .......................................................................................................................... 25 2.7.3. Bekerja dengan Teks......................................................................................................26 2.7.4. Bekerja Musik dan Video .............................................................................................. 26 2.7.5. Bekerja dengan Animasi ................................................................................................ 27 2.8. Latihan Soal ......................................................................................................................... 27 Praktikum ke 3 .................................................................................................................................... 29 3.1. Judul Praktikum................................................................................................................... 29
+
+Daftar Isi
+
+2010
+
+3.2. Peralatan / Bahan ............................................................................................................... 29 3.3. Tujuan Praktikum................................................................................................................ 29 3.4. Referensi .............................................................................................................................. 29 3.5. Hasil / kompetensi yang diharapkan : ............................................................................. 29 3.6. Dasar Teori .......................................................................................................................... 29 3.6.1. Komponen Database ...................................................................................................... 30 3.6.2. Tipe Data.......................................................................................................................... 30 3.7. Prosedur Pelaksanaan : ..................................................................................................... 31 3.7.1. Bekerja dengan Tabel .................................................................................................... 31 3.7.1.1. Primary Key ................................................................................................................. 33 3.7.1.2. Foreign Key..................................................................................................................33 3.7.1.3. Relationship ................................................................................................................. 33 3.7.2. Bekerja dengan Query ................................................................................................... 34 3.8. Latihan Soal : ...................................................................................................................... 35 Praktikum ke 4 .................................................................................................................................... 38 4.1 Judul Praktikum................................................................................................................... 38 4.2 Peralatan / Bahan ............................................................................................................... 38 4.3 Tujuan Praktikum................................................................................................................ 38 4.4 Referensi .............................................................................................................................. 38 4.5 Hasil / kompetensi yang diharapkan : ............................................................................. 38 4.6 Dasar Teori .......................................................................................................................... 38 4.7 Prosedur Pelaksanaan : ..................................................................................................... 38 4.7.1. Membuat Form Baru....................................................................................................... 38 4.7.2. Membuat Split Form ....................................................................................................... 40 4.7.3. Membuat Report Baru .................................................................................................... 41 4.7.4. Mencetak Report.............................................................................................................43 4.7.5. Blank Report .................................................................................................................... 43 4.7.6. Membuat Report untuk Tabel Berelasi ........................................................................ 43 4.8 Latihan Soal : ...................................................................................................................... 44 Praktikum ke 5 .................................................................................................................................... 47 5.1 Judul Praktikum................................................................................................................... 47 5.2 Peralatan / Bahan ............................................................................................................... 47 5.3 Tujuan Praktikum................................................................................................................ 47 5.4 Referensi .............................................................................................................................. 47 5.5 Hasil / kompetensi yang diharapkan : ............................................................................. 47 5.6 Dasar Teori .......................................................................................................................... 47 5.6.1. Shape................................................................................................................................47 5.6.2. Control Handles pada Shape.........................................................................................48 5.6.3. Kategori Gambar ............................................................................................................. 48 5.7 Prosedur Pelaksanaan ........................................................................................................ 51 5.7.1. Membuat Dokumen Baru...............................................................................................51 5.7.2. Membuat Basic Diagram ................................................................................................ 51 5.7.3. Membuat Flow Chart ...................................................................................................... 53 5.7.4. Memberi Nomor pada Shape ........................................................................................ 55 5.7.5. Membuat Halaman Baru ................................................................................................ 56 5.7.6. Menambahkan Desain Background .............................................................................. 56 5.7.7. Membuat Peta Sederhana ............................................................................................. 56 5.7.8. Mengatur Layout Hasil Desain ...................................................................................... 57 5.8 Latihan Soal ......................................................................................................................... 58
+4
+
+Daftar Isi
+
+2010
+
+Praktikum ke 6 .................................................................................................................................... 60 6.1. Judul Praktikum................................................................................................................... 60 6.2. Peralatan / Bahan ............................................................................................................... 60 6.3. Tujuan Praktikum................................................................................................................ 60 6.4. Referensi .............................................................................................................................. 60 6.5. Hasil/kompetensi yang diharapkan:.................................................................................60 6.6. Dasar Teori .......................................................................................................................... 60 6.7. Prosedur Pelaksanaan ........................................................................................................ 60 6.7.1. Memulai Microsoft Publisher ......................................................................................... 60 6.7.2. Membuat Dokumen Baru...............................................................................................61 6.7.3. Menambahkan TextBox ................................................................................................. 62 6.7.4. Memasukkan Tabel.........................................................................................................64 6.7.5. Memasukkan WordArt....................................................................................................64 6.7.6. Memasukkan Gambar.....................................................................................................65 6.7.7. Membuat Kartu Undangan ............................................................................................ 66 6.7.8. Membuat Kartu Pos ........................................................................................................ 68 6.8. Latihan Soal ......................................................................................................................... 71
+DAFTAR PUSTAKA .............................................................................................................................. 73
+
+5
+
+Praktikum 1 2010
+
+Praktikum ke 1
+1.1. Judul Praktikum Praktikum Aplikasi Pengolah Angka
+1.2. Peralatan / Bahan 1. Microsoft Office Excel 2007 2. Microsoft Office Excel 2003 3. Open Office Calc.org
+1.3. Tujuan Praktikum Memberikan pemahaman kepada mahasiswa tentang bagaimana penggunaan
+Microsoft Excel sebagai aplikasi pengolah angka.
+1.4. Referensi 1. Kurniawan,Yahya.2007.Belajar Sendiri : Microsoft Office Excel 2007. Jakarta:PT Elex
+Media Komputindo 2. G,Ratna.2007. Belajar Cepat Microsoft Excel 2007.Yogyakarta:C.V. Andi Offset 3. Hadi Purnomo,Catur.2010. Panduan Belajar Otodidak MS. Excel 2007.Jakarta:MediaKita
+
+1.5. Hasil / kompetensi yang diharapkan : 1. Mahasiswa mampu mempraktekkan penggunaan fungsi Teks 2. Mahasiswa mampu mempraktekkan penggunaan IF, COUNTIF, SUMIF, COUNTA 3. Mahasiswa mampu mempraktekkan penggunaan LOOKUP dan Referensi 4. Mahasiswa mampu mempraktekkan penggunaan fungsi AutoFill dan AutoSum 5. Mahasiswa mampu mempraktekkan penggunaan Diagram / Grafik (Chart)
+
+1.6. Dasar Teori Microsoft Excel atau Microsoft Office Excel merupakan salah satu paket program
+pengolah angka (spreadsheed) yang paling populer dan sangat mudah digunakan untuk menyelesaikan pekerjaan yang berhubungan dengan angka-angka. Aplikasi ini dibuat oleh Microsoft Corporation untuk sistem operasi Microsoft Windows dan Mac OS Fungsi utama dari Microsoft Excel adalah mengolah data. Pengolahan data yang dimaksud disini adalah meliputi perhitungan dasar, penggunaan fungsi-fungsi, dan pembuatan grafik.
+Excel digunakan umumnya untuk membantu untuk menyelesaikan permasalahan yang berhubungan dengan perhitungan data, mulai yang paling sedernaha sampai yang lebih kompleks. Contoh permasalahan yang dapat diselesaikan oleh Mocrosoft Excel adalah daftar nilai siswa. Permasalahan ini sebenarnya dapat juga diselesaikan menggunakan Microsoft Word karena hanya sedikit memerlukan proses perhitungan, tetapi lebih mudah diselesaikan dengan Microsoft Excel.
+
+1.6.1. Memindahkan Penunjuk Sel (Cell Pointer)
+
+Tombol keyboard dapat digunakan sebagai pengganti mouse. Tombol-tombol ini dapat
+
+mempercepat kinerja user dalam menggunakan Microsoft Excel.
+
+4.1 Tombol Keboard untuk mengaktifkan Menu Tab
+
+Tombol
+
+Keterangan
+
+Alt + H Untuk mengaktifkan Menu Home
+
+Alt + N Untuk mengaktifkan Menu Insert
+
+Alt + P Untuk mengaktifkan Menu Page Layout
+
+Alt + M Untuk mengaktifkan Menu Formulas
+
+Alt + A Untuk mengaktifkan Menu Data
+
+Alt + R Untuk mengaktifkan Menu Review
+
+6
+
+Praktikum 1 2010
+
+Alt + W Untuk mengaktifkan Menu View
+
+4.2 Tombol keyboard dalam memindahkan posisi Sel Pointer
+
+Tombol
+
+Keterangan
+
+Enter
+
+Pindah satu sel ke bawah
+
+Home
+
+Pindah ke kolom A pada posisi baris yang aktif
+
+Ctrl + Home Pindah ke sel A1 pada lembar kerja yang aktif
+
+Ctrl + End Pindah ke posisi sel terakhir yang sedang digunakan
+
+PgUp
+
+Pindah satu layer ke atas
+
+PgDn
+
+Pindah satu layer ke bawah
+
+Alt +PgUp Pindah satu layer ke kiri
+
+Alt +PgDn Pindah satu layer ke kanan
+
+Ctrl + PgUp Pindah dari satu tab lembar kerja ke tab lembar kerja
+
+berikutnya
+
+Ctrl + PgDn Pindah dari satu tab lembar kerja ke tab lembar kerja
+
+sebelumnya
+
+1.6.2. Menggunakan Fasilitas AutoComplete Microsoft Excel 2007 menyediakan salah satu fitur yang diberi nama AutoComplete.
+Dengan fasilitas ini ketika Anda mengetikkan beberapa karakter awal dari data, Excel 2007 secara otomatis akan melengkapi karakter yang Anda ketikkan dengan karakter selanjutnya guna melengkapi data. Misalkan pada kolom A Anda sudah mengetikkan nama bagian, seperti Pendidikan, Pengalaman, Pengamanan. Kemudian di baris yang berbeda tetapi pada kolom yang sama, apabila Anda ingin menuliskan kata Pendidikan, Anda hanya tinggal menuliskan Pend, karakter berikutnya akan otomatis dilengkapi oleh Excel 2007.
+
+AutoComplete
+1.6.3. Range Range adalah sekumpulan sel yang bersebelahan. Range dinamakan menurut alamat
+sel di ujung kiri atas sampai ujung kanan bawah. Misalnya sekumpulan sel yang tergabung dari A1 sampai C10 , dinyatakan dengan ( A1:C10)
+
+Berbagai proses dapat dilakukan pada suatu range. Pada umumnya untuk memproses suatu range Anda perlu terlebih dahulu menyatakan atau menyorot range tersebut.
+
+1.6.4. Simbol-simbol pada Microsoft Excel Terdapat beberapa simbol yang sering digunakan ada Microsoft Excel dalam menuliskan suatu fungsi. Simbol-simbol tersebut diantaranya :
+
+Simbol + *
+
+Nama Simbol Tambah Kurang Kali
+
+Penggunaan Untuk melakukan operasi penjumlahan Untuk melakukan operasi pengurangan Untuk melakukan operasi perkalian
+
+7
+
+Praktikum 1 2010
+
+/
+
+Bagi
+
+Untuk melakukan operasi pembagian
+
+^
+
+Pangkat
+
+Untuk melakukan operasi perpangkatan
+
+=
+
+Sama dengan
+
+Untuk mengawali penulisan suatu fungsi
+
+;
+
+Titik koma
+
+Sebagai pembatas antarrumus
+
+1.7. Prosedur Pelaksanaan
+
+1.7.1. Penggunaan Fungsi Teks Fungsi ini dikhususkan untuk memanipulasi jenis data string. Ada beberapa model dari
+jenis fungsi teks ini, antara lain: a. Fungsi Left
+Fungsi ini digunakan untuk mengambil sejumlah karakter dari sebelah kiri. Adapun cara penulisan fungsi ini adalah:
+
+=LEFT(teks,p)
+
+Keterangan :
+
+teks
+
+: Berupa kumpulan karakter
+
+p
+
+: Banyaknya jumlah karakter yang diambil dari Teks dari sebelah kiri.
+
+Contoh :
+
+Misalkan teks nya berupa kata Suramadu dan diminta mengambil 3 huruf dari kiri
+
+b. Fungsi Right Fungsi right digunakan mengambil sejumlah karakter tertentu dari sebelah kanan. Adapun cara penulisan fungsi ini adalah:
+
+=RIGHT(teks,p)
+
+Keterangan :
+
+teks
+
+: Berupa kumpulan karakter
+
+p
+
+: Banyaknya jumlah karakter yang diambil dari Teks dari sebelah kiri.
+
+Contoh :
+
+Misalkan teks nya berupa kata Suramadu dan diminta mengambil 3 huruf dari kanan
+
+c. Fungsi Mid Fungsi mid digunakan mengambil sejumlah karakter tertentu dari sebelah kanan. Adapun cara penulisan fungsi ini adalah:
+
+=MID(teks,p,q)
+
+teks
+
+: Berupa kumpulan karakter
+
+p
+
+: urutan awal pengambilan karakter
+
+q
+
+: banyaknya jumlah karakter yang diambil dari teks di mulai karakter ke-p
+
+Contoh :
+
+Misalkan teks nya berupa kata Suramadu dan diminta mengambil 3 huruf dari kanan
+
+sejumlah 2 huruf
+
+8
+
+Praktikum 1 2010
+
+1.7.2.
+
+Penggunaan Autofill
+
+Digunakan seperti penomoran baris atau kolom. Fasilitas AutoFill dari Excel
+
+memungkinkan untuk memasukkan seri data yang telah didefenisikan sebelumnya dengan
+
+cepat, seperti tanggal, teks atau angka. Untuk memasukkan data berupa angka atau teks
+
+dengan fasilitas AutoFill, dapat dilakukan dengan mengikuti langkah-langkah berikut ini :
+
+1. Pilih sel tempat posisi awal dari rangkaian data yang ingin dibuat. Misalnya pilih sel
+
+A2.
+
+2. Ketik data awal yang diinginkan. Misalnya teks "Jan" (January)
+
+3. Pada sel berikutnya (sel dibawah/A3) ketik data berikutnya yang di inginkan.
+
+Misalnya di A3 ketik "Feb" (February)
+
+Tuliskan dua bulan awal
+4. Sorot/bloklah A2:A3. 5. Dalam keadaan masih tersorot, arahkan penunjuk/pointer mouse ke pojok kanan
+bawah sel A3 hingga tanda plus putih berubah menjadi plus hitam 6. Tekanlah tombol kiri mouse dan geser/drag posisi pointer mouse ke sel yang
+diinginkan misalnya A13. Dengan ini rangkaian data bulan dapat ditampilkan.
+
+Hasil Akhir menggunakan autofill
+Apabila seri autofill yang diinginkan belum disediakan oleh Microsoft Excel maka dapat ditambahkan sendiri dengan cara :
+1. Tekan Office Button kemudian pilih Power Point Optiont 2. Klik pada tab Popular lalu klik tombol Edit Custom List 3. Isi list yang baru, Misalkan Senin, Selasa, Rabu dll 4. Kemudian Klik tombol Add dan jika sudah selesai klik tombol OK
+Seri Autofill baru berupa nama hari dalam satu minggu
+9
+
+Praktikum 1 2010
+
+1.7.3.
+
+Penggunaan AutoSum
+
+Fitur AutoSum (penghitungan otomatis) digunakan untuk melakukan penghitungan
+
+dengan cepat dan mudah dari data-data yang cukup banyak dalam suatu range tertentu.
+
+Caranya dengan menggunakan tombol toolbar AutoSum ().
+
+Letak tombol Autosum
+
+1.7.4.
+
+Penggunaan Fungsi IF
+
+Fungsi IF dapat digunakan sebagai formula logika untuk menghitung atau
+
+menentukan nilai sebuah pernyataan dimana fungsi IF akan memberikan nilai tertentu jika
+
+logika benar atau salah. Rumus fungsi if yang sering digunakan di Microsoft Excel dapat
+
+dilihat pada tabel di bawah ini.
+
+Fungsi
+
+Kegunaan
+
+Penulisan
+
+IF (satu Untuk menghasilkan nilai dari satu =IF(logical_test,value_if_true,value_if
+
+logika)
+
+logika yang diuji kebenaranya.
+
+_false)
+
+IF (lebih Untuk menghasilkan nilai dari lebih =IF(logical_test1,value_if_true,IF(logi
+
+dari satu dari satu logika yang diuji cal_test1,value_if_truevalue_if_false))
+
+logika)
+
+kebenaranya
+
+IF OR
+
+Fungsi ini menghasilkan nilai benar, bila berargumen benar. Hasil dari fungsi ini juga dapat menghasilkan nilai salah, jika seluruh argumen salah.
+
+=IF(OR(logical_test1,logical_test2,val ue_if_true,value_if_false)
+
+IF AND
+
+Fungsi ini menghasilkan nilai benar, bila berargumen benar. Hasil dari fungsi ini juga dapat menghasilkan nilai salah, jika salah satu argumen salah.
+
+=IF(AND(logical_test1,logical_test2,va lue_if_true,value_if_false)
+
+Contoh penggunaan if satu logika : Diketahui tabel dengan tiga kolom yaitu nama, nilai dan kelulusan. Kolom kelulusan disi kata "tidak lulus" apabila nilainya kurang dari 65 selain itu diisi kata "lulus".
+
+Pada cell C2 : - Dari menu pilih Formulas lalu klik insert function hingga muncul kotak dialog Insert Function - Pilih fungsi IF lalu klik OK - Isilah Windows Fungsi IF sesuai dengan gambar di bawah ini lalu klik OK
+10
+
+Praktikum 1 2010
+
+- Setelah itu salin formula ke sel-sel yang ada di bawahnya
+
+Gambar 10.3 Contoh Penggunaan if satu logika -3
+Cara lain adalah menuliskan rumus if secara langsung di Formula bar.
+
+Rumus If di Formula Bar
+
+Gambar 10.4 Contoh Penggunaan if satu logika -4
+
+1.7.5.
+
+Penggunaan Fungsi COUNTIF
+
+Fungsi countif digunakan untuk menghitung atau mencacah sebuah sel/range
+
+berdasarkan kiteria tertentu. Rumus penggunaan CountIf di Microsoft Excel adalah :
+
+=Countif(range,criteria)
+
+Contoh cara penggunaan CountIf : Hitung berapa mahasiswa yang mendapat nilai B berdasarkan tabel di bawah ini
+
+Gambar 11.1 Contoh Penggunaan CountIf -1
+Langkah pengerjaannya adalah menuliskan fungsi CountIf di sel D9.
+
+11
+
+Hasil penggunaan CountIf
+
+Praktikum 1 2010
+Atau apabila ingin menghitung jumlah mahasiswa yang mendapat nilai C, hanya tinggal mengubah criterianya saja, sedangkan range nya tetap.
+
+Hasil penggunaan CountIf
+
+1.7.6.
+
+Penggunaan Fungsi SUMIF
+
+Menjumlahkan data yang bersifat numerik dalam suatu range data dengan kriteria tertentu.
+
+Rumus penggunaan SumIf di Microsoft Excel :
+
+=SUMIF(range,criteria,sum_range)
+
+Contoh penggunaan SUMIF : Hitung jumlah laba penjualan yang berasal dari kantor cabang madiun.
+
+Penggunaan SumIf
+
+Hasil penggunaan SumIf
+
+1.7.7.
+
+Penggunaan Fungsi COUNTA
+
+Menghitung jumlah sel yang tidak kosong dari suatu range. Rumus COUNTA
+
+=COUNTA(angka 1, angka 2,...) =COUNTA(alamat range)
+
+Contoh penggunaan COUNTA : Hitung jumlah cell yang tidak kosong pada kolom A (Cell A2 sampai A6)
+
+Hasil penggunaan CountA
+
+1.7.8.
+
+Penggunaan Fungsi Lookup dan Referensi
+
+Fungsi Lookup & Reference digunakan untuk mengambil atau membaca informasi dari
+
+tabel lain untuk dijadikan referensi ke dalam tabel yang sedang dianalisis. Cara penggunaan
+
+fungsi Lookup dan Reference dijelaskan sebagai berikut :
+
+12
+
+Praktikum 1 2010
+
+1.5.8.1. Index Menampilkan data (isi dari suatu set) pada tabel array berdasarkan nomor baris dan
+nomor kolom. Rumus dari fungsi Index adalah :
+
+=INDEX(array,row_num,column_num)
+
+Keterangan :
+
+Array
+
+: Tabel yang dibaca
+
+Row_num
+
+: Baris ke-
+
+Column_num
+
+: Kolom ke-
+
+Contoh penggunaan fungsi index adalah :
+
+Diketahui ada dua kolom berisi kelompok buah dimana masing-masing kelompok terdiri atas tiga jenis buah yang berbeda. Persoalannya adalah bagaimana cara mengambil nama buah yang berada di baris ke 3 kolom ke 2.
+
+=INDEX(A2:B4;3;2)
+
+1.5.8.2. Vlookup Berfungsi untuk mencari nilai dalam suatu kolom tabel atau untuk membaca tabel
+secara vertikal dengan menggunakan nilai kunci pembanding serta offset kolom yang akan dibaca. Rumus Vlookup adalah
+=VLOOKUP(Lookup_value,Table_Array, Col_index_num)
+Keterangan : Lookup_value : nilai yang digunakan sebagai dasar awal melakukan referensi pada table yang sedang dianalisis Table_Array : tabel yang dibaca / dijadikan acuan Col_index : posisi nomor kolom yang dipakai pada saat membaca tabel Contoh penggunaan Vlookup adalah : Menambahkan keterangan di tabel daftar nilai berdasarkan tabel Nilai yang digunakan sebagai acuan.
+
+13
+
+Praktikum 1 2010
+
+Tabel Acuan
+Hasil VLOOKUP
+
+1.5.8.3. Hlookup Berfungsi untuk mencari nilai dalam tabel atau digunakan untuk membaca tabel
+secara horisontal dengan menggunakan nilai kunci pembanding serta offset baris yang akan dibaca.
+
+=HLOOKUP(lookup value,table_array,col_index_num)
+
+Keterangan :
+
+Lookup_value : nilai yang digunakan sebagai dasar awal melakukan referensi pada table
+
+yang sedang dianalisis
+
+Table_Array : tabel yang dibaca / dijadikan acuan
+
+Col_index : posisi nomor baris yang dipakai pada saat membaca tabel
+
+Contoh penggunaan Hlookup adalah :
+
+Menambahkan keterangan di tabel daftar nilai berdasarkan tabel Nilai yang digunakan
+
+sebagai acuan.
+
+Penulisan Fungsi
+
+HLOOKUP
+
+Tabel Acuan
+
+Hasil Penggunaan HLOOKUP
+
+1.7.9.
+
+Penggunaan Grafik dan Diagram
+
+Grafik dan digram dapat dibuat di Microsoft Excel dengan sangat mudah yang dapat
+
+digunakan untuk berbagai keperluan. Terdapat beberapa tipe dari grafik atau diagram yang
+
+telah disediakan oleh Microsoft Excel, diantaranya :
+
+ tipe kolom (Column Chart)
+
+ tipe garis (Line Chart)
+
+ tipe kue (Pie Chart)
+
+ tipe batang (Bar Chart)
+
+ dll
+
+14
+
+Praktikum 1 2010
+Langkah-langkah membuat grafik pada Microsoft Excel adalah a. Pertama siapkan data berbentuk tabel yang akan dijadikan grafik
+b. Blok lah seluruh data dalam tabel tersebut c. Pilih fitur Chart di Tab Insert. Pilih jenis grafik yang diinginkan
+d. Grafik telah selesai dibuat
+Microsoft Excel telah menyediakan berbagai fitur tambahan untuk mengedit tampilan grafik sehingga lebih menarik.
+1.8. Latihan Soal Latihan Soal 1 : Diketahui terdapat tiga buah tabel, yaitu tabel 1, tabel 2 dan tabel 3. Pada tabel 3 terdapat dua buah kolom kosong. Kolom Kode Asal diisi dengan mengambil huruf pertama dari kolom kode tabel ke 3 sedangkan kolom Kota Asal diisi dengan membaca tabel 1 Kota Asal. Kolom Kode Tujuan diisi dengan mengambil huruf kedua dari kolom kode tabel 3 sedangkan kolom Kota Tujuan diisi dengan membaca tabel 2 Kota Tujuan.
+15
+
+Praktikum 1 2010
+Pertanyaan : 1. Tuliskan fungsi untuk mengisi kolom Kode Asal 2. Tuliskan fungsi untuk mengisi kolom Kode Tujuan 3. Tuliskan fungsi untuk mengisi kolom Kota Asal 4. Tuliskan fungsi untuk mengisi kolom Kota Tujuan
+Latihan Soal 2 : Diketahui terdapat sebuah tabel dimana pengisiannya berdasarkan dua tabel di bawahnya. Lama Inap diisi Tanggal Keluar-Tanggal Masuk. Pengisian biaya inap dan layanan tergantung pada kolom kelasnya. Biaya persalinan diisi berdasakan apakah ditangani oleh dokter atau bidan. Total bayar dihitung menggunakan fungsi Sum.
+Pertanyaan : 1. Tuliskan fungsi untuk mengisi kolom Lama Inap 2. Tuliskan fungsi untuk mengisi kolom-kolom Biaya menggunakan fungsi if-else
+16
+
+3. Tuliskan fungsi untuk mengisi kolom Total Bayar
+
+Praktikum 1 2010
+
+4. Tuliskan rumus untuk mencari Total Bayar yang terbesar
+
+5. Tuliskan rumus untuk mencari Total Bayar yang terkecil
+
+6. Tuliskan untuk mencari Total Bayar semua pasien
+
+17
+
+Praktikum Ke : 1
+Judul/Tema Praktikum : Praktikum Aplikasi Pengolah Angka
+
+Praktikum 1 2010
+
+Dasar/Teori/Konsep/Kerangka Pikir: Terdapat pada sub bab 1.6
+
+Tujuan Praktek: Memberikan pemahaman kepada mahasiswa tentang bagaimana penggunaan
+Microsoft Excel sebagai aplikasi pengolah angka.
+
+Peralatan/Bahan: 1. Microsoft Office Excel 2007 2. Microsoft Office Excel 2003 3. Open Office Calc.org 4. Modul Praktikum
+
+Prosedur Pelaksanaan: Terdapat pada sub bab 1.7
+Hasil/kompetensi yang diharapkan: 1. Mahasiswa mampu mempraktekkan penggunaan fungsi Teks 2. Mahasiswa mampu mempraktekkan penggunaan IF, COUNTIF, SUMIF, COUNTA 3. Mahasiswa mampu mempraktekkan penggunaan LOOKUP dan Referensi 4. Mahasiswa mampu mempraktekkan penggunaan fungsi AutoFill dan AutoSum 5. Mahasiswa mampu mempraktekkan penggunaan Diagram / Grafik (Chart)
+Tanggal :
+
+Tempat Lokasi: Lab 1,2 Vokasi
+Lamanya Pelaksanaan (Jam): 2 jam
+
+18
+
+Praktikum 2 2010
+Praktikum ke 2
+2.1. Judul Praktikum Praktikum Aplikasi untuk Presentasi
+2.2. Peralatan / Bahan Microsoft Office Power Point 2007
+2.3. Tujuan Praktikum Mahasiswa memahami teori dan mampu mengaplikasikan secara langsung
+penggunaan Microsoft Power Point sebagai salah satu media yang sering dipakai sebagai sarana penunjang dalam presentasi.
+2.4. Referensi 1. Kurniawan,Yahya.2007.Belajar Sendiri : Microsoft Office PowerPoint 2007. Jakarta:PT
+Elex Media Komputindo 2. Permana, Budi.2007. 36 Jam Belajar Komputer : Ms. Office Powerpoint 2007. Jakarta:
+PT Elex Media Komputindo 3. Hadi Purnomo,Catur.2010. Panduan Belajar Otodidak MS. Power Point 2007. Jakarta:
+MediaKita
+2.5. Hasil / kompetensi yang diharapkan : 1. Mahasiswa mampu mempraktekkan penggunaan Tabel 2. Mahasiswa mampu mempraktekkan penggunaan SmartArt, Chart, dan Shapes 3. Mahasiswa mampu mempraktekkan penggunaan Animasi, Musik dan Video 4. Mahasiswa mampu mempraktekkan penggunaan Diagram / Grafik (Chart)
+2.6. Dasar Teori Microsoft PowerPoint atau Microsoft Office PowerPoint adalah sebuah program
+komputer untuk presentasi yang dikembangkan oleh Microsoft di dalam paket aplikasi kantoran mereka, Microsoft Office, selain Microsoft Word, Excel, Access dan beberapa program lainnya. PowerPoint berjalan di atas komputer PC berbasis sistem operasi Microsoft Windows dan juga Apple Macintosh yang menggunakan sistem operasi Apple Mac OS.
+Aplikasi ini memungkinkan kita untuk merancang dan membuat presentasi secara mudah, cepat dan memiliki tampilan yang menarik.
+2.6.1. Format Penyimpanan
+PowerPoint dapat menyimpan presentasi dalam beberapa format, yaitu :  *.PPT (PowerPoint Presentation), yang merupakan data biner dan tersedia dalam semua versi PowerPoint.  *.PPS (PowerPoint Show), yang merupakan data biner dan tersedia dalam semua versi PowerPoint.  *.POT (PowerPoint Template), yang merupakan data biner dan tersedia dalam semua versi PowerPoint.  *.PPTX (PowerPoint Presentation), yang yang merupakan data dalam bentuk XML.
+19
+
+Praktikum 2 2010
+2.6.2. Slide Layout Microsoft PowerPoint menyediakan berbagai layout yang dapat digunakan sesuai kebutuhan. Jenis-jenis layout yang disediakan diantaranya :
+1. Title Only, layout ini hanya memuat judul saja. 2. Title Slide, layout ini memuat judul dan sub judul. Layout ini biasa digunakan untuk
+menuliskan judul presentasi. 3. Section Header, layout ini umumnya digunakan untuk menuliskan judul tiap Bab
+atau sub Bab. 4. Title and Content, layout ini memuat judul dan pembahasannya. Layout inilah yang
+sering dipakai untuk menuliskan materi-materi yang akan dipresentasikan.
+5. Two Content, layout ini dapat memuat judul dan pembahasan yang disajikan pada layout ini berbentuk dua (2) kolom.
+6. Blank, layout ini tanpa judul dan pembahasan sama sekali. Pengguna dapat mengisi memodifikasi slide ini sesuai dengan kebutuhan.
+7. Comparison, dapat digunakan untuk membandingkan dua buah pembahasan yang berbeda.
+8. Content With Caption, layout ini jarang digunakan pada saat membuat slide presentasi.
+9. Picture with Caption hanya memuat gambar dan keterangan gambar saja 2.6.3. Slide Desain Microsoft PowerPoint 2007 juga menyediakan berbagai contoh desain slide yang menarik. Contoh-contoh ini jumlahnya lebih banyak daripada yang dimiliki oleh Microsoft Power point
+20
+
+Praktikum 2 2010
+2003. Desain slide dapat diatur sesuai dengan keinginan user. Apabila ingin memilih berbagai desain slide, langkah-langkahnya :
+1. Pilih Tab Design 2. Pilih Ribbon Themes
+Perhatikan bahwa disana tersedia berbagai macam desain slide menarik yang sengaja disiapkan oleh Power Point untuk mempermudah penggunanya. Apabila terkoneksi dengan internet, maka Power Point menyediakan akses untuk pengguna dalam mendapatkan beberapa beberapa contoh desain lain secara online dan gratis. Apabila ingin merubah warna desain slide bisa dilakukan dengan mudah dengan menggunakan fitur Colors.
+
+Tersedia berbagai font apabila ingin berbeda dari font yang terdapat pada tema, masih di Ribbon Themes, hanya pilih fitur Fonts. Latar Belakang Slide juga dapat diatur sesuai dengan keinginan melalui fitur Background Styles yang ada di Tab Desain di Ribbon Background. Background slide dapat berupa gambar atau teksture. Bisa juga berupa satu warna dasar atau kombinasi dua warna sekaligus, semua terserah penggunanya.
+
+2.7. Prosedur / Pelaksanaan :
+
+2.7.1.
+
+Bekerja dengan Tabel
+
+Tabel dapat disisipkan ke dalam slide presentasi. Tabel berupa kumpulan baris dan kolom.
+
+Cara memasukkan tabelke dalam slide adalah :
+
+1. Pilih Tab Insert
+
+2. Pilih Ribbon Table
+
+21
+
+Praktikum 2 2010
+
+3. Akan ada 3 pilihan menu dropdown :  Insert Table dipakai dengan cara memasukkan jumlah kolom dan baris yang diinginkan  Draw Table dipakai untuk menggambar sendiri tabel yang diinginkan  Excel Spreadsheet menampilkan halaman kerja excel di slide presentasi dengan kemudahan menggunakan seperti aplikasi MS Excel
+Microsoft Power Point menyediakan berbagai desain tabel yang dapat digunakan untuk mempercantik tampilan tabel. Pengguna dapat memanfaatkan fitur Table Tools khususnya pada tab design. Pada Tab Layout (masih dalam fitur Table Tools) terdapat berbagai fitur yang memungkinkan untuk :
+1. Menampilkan Gridlines (Table) 2. Menyisipkan Baris dan Kolom (Rows & Column) 3. Menghapus Tabel, Baris maupun Kolom (Rows & Column) 4. Menggabungkan atau Split Cells (Merge)
+
+5. Peningkatan dan penurunan ukuran sel (Cell Size) 6. Posisi teks dalam sel (Alignment) 7. Mengatur ukuran tabel (Table Size)
+
+2.7.2.
+
+Bekerja dengan Gambar
+
+Presentasi yang menarik tidak hanya menggunakan teks saja untuk mengisi slide. Agar
+
+presentasi tidak terkesan membosankan maka perlu ditambahkan gambar-gambar yang
+
+menarik sesuai dengan tema materi presentasi. Gambar dapat berasal dari file gambar
+
+dengan berbagai format seperti .jpg, .gif, .bmp dan lain-lain. Apabila tampilan gambar
+
+kurang menarik maka dapat diedit dengan menggunakan fitur Picture Tools.
+
+Beberapa fitur edit gambar yang disediakan oleh Microsoft Power Point :
+22
+
+Praktikum 2 2010
+1. Bentuk gambar dapat diubah sesuai dengan keinginan user dengan menggunakan fitur Picture Styles. Posisi gambar dapat diubah dengan menggunakan fitur pada grup Arrange.
+2. Gambar dapat diputar dengan menggunakan fitur Rotate. 3. Apabila ingin memotong gambar dapat menggunakan Fitur Crop. 4. Edit gambar juga dapat dilakukan dengan mengatur kontras dan pencahayaan dari
+gambar dengan menggunakan fitur-fitur lain yang telah tersedia di Microsoft Power Point Fitur-Fitur edit gambar yang dimiliki oleh Microsoft Power Point hampir sama dengan yang dimiliki oleh Microsoft Word. 2.7.2.1. ClipArt Selain berasal dari file, gambar yang dapat dimasukkan dalam slide adalah berupa gambar Clip Art yang telah disediakan oleh Microsoft Power Point.Untuk mempercantik gambar Clip Art dapat digunakan fitur -fitur edit gambar yang tersedia pada Power Point seperti yang telah dijelaskan sebelumnya. Untuk memasukkan Clip Art ke dalam slide dapat melalui tab Insert.
+Apabila gambar-gambar Clip Art yang tersedia dirasakan kurang maka Pengguna dapat mencari secara online dimana fiturnya telah disediakan oleh Microsoft Power Point. 2.7.2.2. Photo Album Selain berasal dari file, Microsoft Power Point menyediakan fitur untuk membuat presentasi berupa album foto Album Foto dapat berupa gambar yang berasal dari file maupun text yang berada dalam textbox.
+23
+
+Praktikum 2 2010
+
+Membuat Warna Hitam-Putih
+
+Pengaturan tampilan Photo Album
+
+Album foto dapat dibuat hitam putih dengan mencentang tanda pada Picture Options. Kita dapat melakukan rotasi dan mengatur kontras gambar pada album foto.
+2.7.2.3. SmartArt Untuk presentasi yang menjelaskan tentang proses, hirarki, siklus, hubungan antara komponen dengan komponen lainnya, matrik, dan diagram berbentuk piramida, Office Power Point 2007 menyediakan fasilitas SmartArt. SmartArt adalah hasil peleburan menu Diagram and Organization Chart. Smart dibagi dalam beberapa kategori, yaitu :
+- List - Process - Cycle - Hierarchy - Relationship - Matrix - Pyramid Untuk memasukkan SmartArt ke dalam presentasi, langkah-langkahnya adalah : 1. Klik tombol SmartArt pada grup Ilustrations di tab Insert 2. Pilih dan klik model SmartArt yang sesuai pada kotak dialog yang muncul. Klik tombol OK.
+
+3. Kalau ingin melakukan edit pada SmartArt bisa menggunakan fitur SmartArt Tools. Anda bisa melakukan edit pada Layout atau SmartArt Styles.
+24
+
+Praktikum 2 2010
+2.7.2.4. Chart Fitur Chart yang tersedia di Microsoft Power Point sama dengan yang terdapat di Microsoft Excel. Fitur Chart digunakan apabila ingin menambahkan grafik pada file presentasi. Data untuk membuat grafik dimasukkan pada lembar kerja yang telah disediakan. Fitur Chart dapat ditemukan pada Tab Insert.
+Jenis-jenis Grafik atau Diagram
+Apabila ingin memberi judul grafik dan juduk sumbu grafik dapat dilakukan dengan meggunakan Fitur Layout pada Chart Tools.
+2.7.2.5. Shapes Fitur Shapes digunakan apabila ingin menambahkan berbagai bentuk seperti garis, segiempat, lingkaran, panah dan sebagainya. Shape adalah berbagai macam bentuk kurva yang dapat disisipkan ke dalam slide.
+Kurva yang disisipkan tersebut memiliki sifat gambar vektor. Untuk menambahkan Shape ke dalam dokumen, klik salah satu item bentuk shape, kemudian klik dan tarik mouse di dalam slide secara diagonal. Daftar berbagai macam bentuk shape yang dapat disisipkan ke dalam dokumen dapat dilihat pada grup Shapes Ribbon Insert.
+Ketika Shape ditambahkan ke dalam Slide, sebuah kategori ribbon baru akan ditampilkan. Kategori Ribbon baru tersebut adalah ribbon format. Tab ribbon baru tersebut ditandai dengan teks Drawing Tools. Shape yang telah terlanjur disisipkan ke dalam slide dapat
+25
+
+Praktikum 2 2010
+diganti bentuknya dengan mengklik tombol Edit Shape yang terdapat pada grup Insert Shape ribbon Format. 2.7.3. Bekerja dengan Teks Apabila ingin menambahkan tulisan ke dalam slide bisa menggunakan fitur TextBox. Apabila ingin memasukkan tulisan dengan tampulan menarik namun mudah digunakan maka bisa memanfaatkan fitur WordArt.
+Tulisan WordArt pun bisa diedit dan dihias sesuai keinginan user dengan menggunakan fitur Drawing Tools. Fitur Slide Number digunakan untuk memberikan nomor urut pada slide. Untuk dapat memasukkan waktu dan tanggal pada saat presentasi perlu digunakan Fitur Date & Time. Untuk presentasi khusus yang membutuhkan simbol-simbol tertentu maka dapat menggunakan fitur Symbol. Presentasi yang berhubungan dengan matematika misalkan menuliskan matriks dapat menggunakan Equation pada Fitur Object.
+2.7.4. Bekerja Musik dan Video Agar presentasi lebih menarik maka sering ditambahkan suara musik di awal atau di tengah presentasi. Microsoft power Point 2007 mampu mengimpor file suara ke dalam slide presentasi. Caranya adalah dengan Klik menu Insert dan tekan ikon Sound pada kelompok Media Clips.
+Suara dapat berasal dari file, Clip Organizer ataupun memainkan dari CD Audio. Ketika menambahkan file sound, akan muncul suatu kotak dialog yang memiliki beberapa pilihan :
+1. Automatically, pilihan ini akan menjalankan Sound secara otomatis begitu slide presentasi muncul di layar monitor
+2. When Clicked, pilihan akan menjalankan sound saat Anda mengklik ikon suara
+Untuk mengatur suara yang akan digunakan dalam presentasi dapat menggunakan fitur Sound Tools. Agar presentasi lebih tidak terasa membosankan, maka dapat ditambahkan video yang sesuai dengan tema presentasi. Caranya dengan menggunakan fitur Movie pada Tab Insert. Tidak semua tipe video bisa dimainkan dalam Microsoft Power Point. Contoh tipe
+26
+
+Praktikum 2 2010
+
+video yang bisa dimainkan adalah .avi, .mpeg atau .wmv. Fitur Movie tidak hanya untuk memutar video tapi juga memutar animasi seperti yang bertipe .gif.
+
+2.7.5. Bekerja dengan Animasi
+
+Adanya animasi pada slide dapat membuat presentasi menjadi lebih menarik. Animasi pada
+
+Microsoft Power Point disediakan pada tab Animations. Tidak hanya gambar akan tetapi
+
+tulisan pun bisa diberikan animasi. Fitur animasi dibagi dua :
+
+1. Custom Animation
+
+: Animasi untuk komponen-komponen di dalam slide
+
+2. Transition to This Slide
+
+: Animasi untuk tampilan slide itu sendiri.
+
+2.8. Latihan Soal
+Buatlah sebuah presentasi dengan tema tentang biodata diri sendiri berisi 6 buah slide saja. 1. Slide pertama berupa judul dan sub judul 2. Slide kedua berisi sebuah tabel dan grafik 3. Slide ketiga berisi gambar SmartArt, foto, dan Shape 4. Slide keempat berisi sebuah musik 5. Slide kelima berisi sebuah video Kelima slide harus diberikan animasi sehingga tampil semenarik mungkin. Waktu Pengerjaan : 30 menit. Dikumpulkan dengan format .ppt.
+
+27
+
+Praktikum Ke : 2
+Judul/Tema Praktikum : Praktikum Aplikasi untuk Presentasi
+
+Praktikum 2 2010
+
+Dasar/Teori/Konsep/Kerangka Pikir: Terdapat pada sub bab 2.6
+
+Tujuan Praktek: Mahasiswa memahami teori dan mampu mengaplikasikan secara langsung
+penggunaan Microsoft Power Point sebagai salah satu media yang sering dipakai sebagai sarana penunjang dalam presentasi.
+
+Peralatan/Bahan: 1. Microsoft Office Power Point 2007 2. Modul Praktikum
+
+Prosedur Pelaksanaan: Terdapat pada sub bab 2.7
+Hasil/kompetensi yang diharapkan: 1. Mahasiswa mampu mempraktekkan penggunaan Tabel 2. Mahasiswa mampu mempraktekkan penggunaan SmartArt, Chart, dan Shapes 3. Mahasiswa mampu mempraktekkan penggunaan Animasi, Musik dan Video 4. Mahasiswa mampu mempraktekkan penggunaan Diagram / Grafik (Chart)
+Tanggal :
+
+Tempat Lokasi: Lab 1,2 Vokasi
+Lamanya Pelaksanaan (Jam): 2 jam
+
+28
+
+Praktikum 3 2010
+Praktikum ke 3
+3.1. Judul Praktikum Praktikum Aplikasi Pengolah Data
+3.2. Peralatan / Bahan Microsoft Office Access 2007
+3.3. Tujuan Praktikum Mahasiswa memahami teori dan mampu mengaplikasikan secara langsung
+penggunaan database Microsoft Office Access.
+3.4. Referensi 1. Winpac Solution.2007. Mudah Menguasai Microsoft Access. Jakarta:PT Elex Media
+Komputindo 2. Kurniawan,Yahya.2007. Tip & Trik Ms. Office Access 2007. Jakarta:PT Elex Media
+Komputindo 3. Website : www.wikipedia.com tanggal akses 13 Oktober 2010 4. Fitur Help / Bantuan yang terdapat pada Microsoft Office Access
+3.5. Hasil / kompetensi yang diharapkan : 1. Mahasiswa mampu mempraktekkan penggunaan Tabel 2. Mahasiswa mampu mempraktekkan penggunaan Query 3. Mahasiswa mampu mempraktekkan penggunaan Relasi antar Tabel
+3.6. Dasar Teori Microsoft Excel Microsoft Access atau (Microsoft Office Access) adalah sebuah program
+aplikasi basis data komputer relasional yang ditujukan untuk kalangan rumahan dan perusahaan kecil hingga menengah. Microsoft Access digunakan kebanyakan oleh bisnisbisnis kecil dan menengah, di dalam sebuah organisasi yang kecil bahkan mungkin juga digunakan oleh perusahaan yang cukup besar, dan juga para programmer untuk membuat sebuah sistem buatan sendiri untuk menangani pembuatan dan manipulasi data.
+Database atau basis data adalah kumpulan data yang saling berhubungan dan diorganisasi sedemikian rupa sehingga dapat dimanfaatkan kembali dengan cepat dan mudah. Tujuan dari penggunaan database adalah :
+a. Kecepatan b. Kemudahan c. Efisiensi d. Keakuratan e. Kelengkapan f. Keamanan Hampir di semua aspek, pemanfaatan perangkat komputer dalam sebuah organisasi/perusahaan senantiasa berhubungan dengan database. Database banyak digunakan sebagai komponen sbuah sistem informasi yang dewasa ini sudah menjadi suatu keharusan, demi untuk meningkatkan efisiensi, daya saing, kekuratan, kecepatan operasional organisasi perusahaan. Bidang-bidang umum yang telah memanfaatkan basis data antara lain :
+29
+
+Praktikum 3 2010
+a. Kepegawaian, untuk berbagai perusahaan yang memiliki banyak pegawai. b. Pergudangan (inventory), untuk perusahaan manufaktur (pabrikan), grosir (reseller),
+apotek dll. c. Akuntansi untuk berbagai perusahaan. d. Reservasi, untuk hotel, pesawat, kereta apai dll e. Layanan pelanggan (customer care), untuk perusahaan yang berhubungan dengan
+banyak pelanggan (bank, konsultan dll) Beberapa perusahaan yang telah memanfaatkan database / basis data dalam mendukung kegiatannya : a. Perbankan : digunakan untuk mengolah data nasabah dan data transaksi berupa
+pinjaman atau tabungan, membuat laporan keuangan dan mengolah informasi yang akan diberikan kepada nasabah. b. Asuransi : digunakan dalam melakukan pengelolaan data nasabah atau data pembayaran premi, pemrosesan pengajuan klaim asuransi. c. Rumah Sakit : digunakan dalam melakukan pengelolaan terhadap data pasien, dokter, penyakit, obat , dll. d. Pabrik barang : digunakan dalam melakukan pengelolaan data keluar-masuk gudang, barang (inventory). e. Industri manufaktur : digunakan dalam membantu pengelolaan data barang, mengelola data karyawan. f. Pendidikan/sekolah : digunakan dalam membantu pengelolaan data siswa, penjadwalan. g. Telekomunikasi : digunakan dalam melakukan pengelolaan data administrasi kabel/data pelanggan, menangani gangguan dll.
+3.6.1. Komponen Database Komponen Database yang terdapat pada Microsoft Access :
+- Tables : merupakan kumpulan data sebagai komponen utama dalam database. - Queries : berfungsi menyaring data dari berbagai kriteria dan urutan yang
+dikehendaki. - Forms : berfungsi memasukkan data, menampilkan data serta mengedit data dari
+suatu tabel dengan tampilan fomulir yang telah dirancang. - Reports : berfungsi mencetak data dalam bentuk laporan. - Pages: berfungsi menciptakan halaman web berupa data access pages. - Macros : berfungsi mengotomastiskan perintah-perintah yang dikehendaki dalam
+mengolah data. - Modules : berfungsi untuk merancang bermacam-macam modul aplikasi dalam
+mengolah database tingkat lanjut sesuai yang dikehendaki.
+3.6.2. Tipe Data Beberapa tipe data yang bisa digunakan di Microsoft Access :
+1. Text Pada tipe data ini jenis data yang disimpan adalah karakter berupa angka, teks ataupun kombinasi dari keduanya. Panjang maksimal type field adalah 255 karakter yang merupakan type default.
+2. Memo Pada tipe data ini, jenis data yang disimpan adalah karakter. Panjang maksimal type field adalah 65.535 karakter.
+3. Number Merupakan tipe data yang digunakan untuk menampung tipe data angka yang akan digunakan untuk perhitungan.
+30
+
+Praktikum 3 2010
+
+4. Date/time Jenis data yang disimpan adalah data tanggal, waktu maupun keduanya.
+5. Currency Merupakan tipe data yang digunakan untuk menyimpan angka dalam format mata uang. Besarnya memori penyimpanan adalah 4 byte.
+6. Auto Number Tipe data ini digunakan untuk memberikan penomoran secara otomatis (penambahan angka otomatis)
+7. Yes/No Tipe data ini berisikan data Yes atau No, Benar atau Salah, Ya atau Tidak.
+8. OLE Object Tipe data ini dapat memuat gambar, grafis, video dan suara dengan ukuran maksimal 1 GB (batas atas Harddisk)
+9. Hyperlink Tipe data yang berisikan alamat hyperlink URL dengan panjang maksimal 64.000 karakter.
+10. Lookup Wizard Tipe data yang digunakan untuk menampilkan data dari tabel lain. Besar memori penyimpanan umumnya 4 byte.
+
+3.7. Prosedur Pelaksanaan :
+
+3.7.1.
+
+Bekerja dengan Tabel
+
+Tabel adalah tempat untuk menyimpan data. Sebuah tabel berisi data-data tentang sebuah
+
+subyek tertentu misalkan tabel karyawan, produk, distributor, dll. Sebuah tabel terdiri dari :
+
+1. Record atau Row (baris)
+
+2. Field atau Column (kolom)
+
+Membuat tabel baru dapat dilakukan dengan 3 cara :  Table  membuat tabel kosong baru yang siap diisi sesuai dengan keinginan user.
+Default tabel hanya terdiri dari satu kolom yaitu kolom ID.  Table Templates  membuat tabel baru menggunakan template yang telah disediakan
+oleh Microsoft Access. Beberapa template yang telah disediakan untuk membuat tabel baru, yaitu : Contacts, Tasks, Issues, Events dan Assets.
+
+31
+
+Praktikum 3 2010
+ Table Design  membuat tabel kosong yang baru dengan mendesain terlebih dahulu bentuk tabel yang akan dibuat. Apabila ingin membuat tabel baru dengan mendesain terlebih dahulu kerangka tabelnya maka pada saat membuat tabel pilih Table Design pada Tab Create. Ketika mendesain tabel, tentukan terlebih dahulu judul dan tipe data dari kolom-kolom yang akan dibuat pada tabel tersebut.
+Judul Kolom
+Tipe Data
+Setelah mendesain tabel, simpanlah tabel tersebut. Langkah berikutnya adalah mengisi tabel. Namun sebelum itu, terlebih dahulu ubah tampilan tabel menjadi Datasheet View.
+
+Khusus untuk pengisian tanggal lahir, tidak perlu dilakukan secara manual karena telah disediakan form khusus berbentuk kalender untuk memudahkan pengguna dalam memasukkan tanggal lahir. Form kalender ini tersedia untuk mengisi kolom yang bertipe date/time. Apabila ingin menyisipkan sebuah kolom baru ke dalam tabel, maka dapat dilakukan dengan dua cara :
+ New Field (menambahkan kolom dari Field Template yang telah tersedia)  Add Existing Field (menambahkan kolom yang berasal dari kolom dari tabel lain yang
+telah tersedia sebelumnya)
+
+Edit Kolom
+
+Menyisipkan Baris Baru
+
+Menyisipkan Kolom Baru
+
+Microsoft Access menyediakan fitur untuk melakukan edit kolom : - Insert (menyisipkan kolom baru ke dalam tabel) - Delete (menghapus kolom) - Rename (mengubah nama kolom)
+Apabila ingin menyisipkan sebuah baris baru ke dalam tabel dapat menggunakan fitur New Record. Sedangkan Apabila ingin menghapus baris tertentu dapat menggunakan fitur Delete Record.
+
+32
+
+Praktikum 3 2010
+3.7.1.1. Primary Key Primary key (Field kunci / utama) dari suatu tabel yang menunjukkan bahwa field yang menjadi kunci tersebut tidak bisa diisi dengan data yang sama. Primary Key menjadikan tiap record memiliki identitas sendiri-sendiri yang membedakan satu sama lainnya ( unik ). Primary Key berguna pada saat menampilkan record hasil pencarian ( searching ), pengurutan dan proses penampilan data dan lainnya berlangsung lebih cepat. Langkahlangkah dalam memberikan primary key pada sebuah tabel adalah : 1. Ubah tampilan tabel menjadi tampilan di Design View 2. Sorot pada kolom yang ingin dijadikan primary key
+3. Klik kanan pada kolom tersebut, lalu pilih Primary Key
+4. Kolom tersebut akan secara otomatis menjadi primary key
+3.7.1.2. Foreign Key Foreign Key adalah sebuah kolom dalam sebuah tabel yang menjadi penghubung dengan primary key pada tabel lain. 3.7.1.3. Relationship Database Relationship adalah relasi atau hubungan antara beberapa tabel dalam database. Tabel harus memiliki primay key agar dapat direlasikan dengan tabel lain. Untuk mencegah duplikasi informasi dalam database dengan pengulangan fields dalam satu tabel, hubungan dapat dibentuk untuk link field tabel secara bersama. Untuk membuat hubungan database, ikuti langkah-langkah berikut :
+1. Pilih Tab Database Tools 2. Klik tombol Relationships atau yang iconnya
+3. Dari jendela Show Table (klik tombol Show Table pada toolbar untuk membuat tampilan ), Klik dua kali pada nama tabel yang akan dimasukkan ke dalam hubungan. Setelah selesai memasukkan tabel, klik Close.
+33
+
+Praktikum 3 2010
+4. Untuk link field dalam dua tabel yang berbeda, klik dan drag field dari satu tabel ke field yang sesuai dalam tabel yang lain dan lepaskan tombol mouse.
+
+5. Apabila kedua tabel telah terhubung oleh satu garis maka kedua tabel tersebut telah terdapat suatu hubungan.
+
+3.7.2.
+
+Bekerja dengan Query
+
+Query berfungsi untuk memanipulasi data seperti menyaring dan menampilkan data dari
+
+berbagai kriteria dan urutan yang dikehendaki oleh user. Misalnya : menampilkan siswa
+
+yang berjenis kelamin laki-laki, menampilkan barang yang harganya di atas Rp 20.000, dan
+
+menampilkan buku yang jumlah halamannya kurang dari 80. Query juga dapat digunakan
+
+untuk menampilkan data dari dua buah tabel atau lebih dengan syarat antar tabel-tabel
+
+tersebut terdapat kolom (field) yang saling berhubungan. Query biasanya digunakan sebagai
+
+sumber data untuk Report dan Form.
+
+3.5.2.1. Membuat Query
+
+Query dapat dibuat dengan dua cara :
+
+ Membuat query menggunakan Wizard
+
+Langkah-langkahnya :
+
+1. klik tombol Query Wizard pada Tab Create
+
+2. Pilih Simple Query Wizard 3. Pilih kolom-kolom yang diinginkan untuk dimasukkan ke dalam query yang baru,
+kemudian klik Next
+
+4. Berikan nama untuk query yang baru dibuat kemudian klik finish.  Membuat query dengan menggunakan Design View
+Langkah-langkahnya adalah : 1. klik tombol Query Design pada Tab Create
+2. Pilih tabel-tabel yang kolom-kolomnya akan digunakan untuk membuat Query baru pada Form Show Table kemudian klik Finish
+34
+
+Praktikum 3 2010
+3. Masukkan field dari tabel ke query yang baru dengan mengklik dua kali pada field dalam kotak tabel atau pilih field dari Field dan Table.
+
+4. Untuk melihat hasil query yang baru, klik tombol Run
+
+3.5.2.2. Bentuk Query Query pada Microsoft Access memiliki tiga bentuk, yaitu :  Design View
+Interface yang disediakan oleh Access untuk melakukan query secara cepat dan mudah  SQL View
+Perintah SQl yang diberikan untuk sebuah query  Datasheet View
+hasil tampilan data dari perintah query sesuai definisi dari Design View atau SQL View
+
+3.8. Latihan Soal : 1. Buatlah tabel Anggota dengan struktur field pada tabel sbb :
+
+No
+
+Field Name
+
+1
+
+IDAnggota
+
+2
+
+NamaAnggota
+
+3
+
+AlamatAnggota
+
+4
+
+NoTelepon
+
+5
+
+Email
+
+Tipe Data
+Text Text Text Text Text
+
+2. Buatlah tabel Petugas dengan struktur field pada tabel sbb :
+
+No
+
+Field Name
+
+1
+
+IDPetugas
+
+2
+
+Namapetugas
+
+3
+
+Alamat
+
+4
+
+NoTelepon
+
+5
+
+Email
+
+Tipe Data Text Text Text Text Text
+
+3. Buatlah tabel Transaksi dengan struktur field pada tabel sbb :
+35
+
+No
+
+Field Name
+
+1
+
+IDTransaksi
+
+2
+
+TglTransaksi
+
+3
+
+IDAnggota
+
+4
+
+IDPetugas
+
+5
+
+ItemTransaksi
+
+Tipe Data Text Text Text Text Text
+
+Praktikum 3 2010
+
+3. Isilah tabel tesebut dengan data-data sebagai berikut :
+
+Tabel Anggota :
+
+IDAnggota 10001 10002 10003 10004 10005
+
+NamaAnggota Adi Budi Citra Dita Eka
+
+Tabel Petugas : ID Petugas 20001 20002 20003 20004
+
+NamaPetugas Fani Gena Hanny Ika
+
+AlamatAnggota Jl. Melati 6 Jl. Mawar 6 Jl. Matahari 6 Jl. Relasi 6 Jl. Melati 16
+
+NoTelepon 08123456 08134567 08145678 08156789 08167891
+
+AlamatPetugas Jl Resak 23 Jl Restanda 12 Jl Restanda 11 Jl Restanda 8
+
+No Telpon 123456 234567 345678 456789
+
+Email adi@pt.ac.id budi@pt.ac.id citra@pt.ac.id dita@pt.ac.id eka@pt.ac.id
+Email fani@pt.ac.id gena@pt.ac.id hanny@pt.ac.id ika@pt.ac.id
+
+Tabel Transaksi :
+
+IDTransaksi 30001 30002 30003 30004 30005
+
+TglTransaksi 6/03/2010 7/03/2010 8/03/2010 9/03/2010 10/03/2010
+
+IDAnggota 10001 10003 10004 10002 10001
+
+IDPetugas 20002 20001 20002 20001 20003
+
+ItemTransaksi Item1 Item2 Item3 Item4 Item5
+
+4. Buatlah tabel relationship antara tabel Anggota,tabel Petugas dan tabel transaksi
+5. Buatlah sebuah query yang berisi IDTransaksi, TglTransaksi, NamaAnggota, NamaPetugas, ItemTransaksi. Berikan nama pada Query tersebut sebagai Query transaksi.
+
+36
+
+Praktikum Ke : 3 Judul/Tema Praktikum : Praktikum Aplikasi Pengolah Data I
+Dasar/Teori/Konsep/Kerangka Pikir: Terdapat pada sub bab 3.6
+Tujuan Praktek: Terdapat pada sub bab 3.3
+Peralatan/Bahan: 1. Microsoft Office Access 2007 2. Modul Praktikum
+Prosedur Pelaksanaan: Terdapat pada sub bab 3.7 Hasil/kompetensi yang diharapkan: Terdapat pada sub bab 3.5
+Tanggal :
+Tempat Lokasi: Lab 1,2 Vokasi Lamanya Pelaksanaan (Jam): 2 jam
+
+Praktikum 3 2010
+
+37
+
+Praktikum 4 2010
+Praktikum ke 4
+4.1 Judul Praktikum Praktikum Aplikasi Pengolah Data II
+4.2 Peralatan / Bahan Microsoft Office Access 2007
+4.3 Tujuan Praktikum Mahasiswa memahami teori dan mampu mengaplikasikan secara langsung
+penggunaan Microsoft Access.
+4.4 Referensi 1. Winpac Solution.2007. Mudah Menguasai Microsoft Access. Jakarta:PT Elex Media
+Komputindo 2. Kurniawan,Yahya.2007. Tip & Trik Ms. Office Access 2007. Jakarta:PT Elex Media
+Komputindo 3. Website : www.wikipedia.com tanggal akses 13 Oktober 2010 4. Fitur Help / Bantuan yang terdapat pada Microsoft Office Access
+4.5 Hasil / kompetensi yang diharapkan : 1. Mahasiswa mampu mempraktekkan penggunaan Form 2. Mahasiswa mampu mempraktekkan penggunaan Report
+4.6 Dasar Teori Form pada Microsoft Access digunakan untuk memudahkan pengguna dalam mengolah data-data yang terdapat dalam database seperti penyisipan (insert), pengubahan atau pembaharuan (update) dan penghapusan (delete) data serta menampilkan data dari sebuah tabel atau query. Sebagai contoh adalah form yang digunakan di aplikasi supermarket, perpustakaan, dan gudang. Report dalam Microsoft Access digunakan untuk membuat laporan. Isi report berasal dari pengolahan data pada tabel maupun query yang telah dibuat sebelumnya. Reports akan mengorganisir dan menggolongkan informasi dalam tabel atau query dan menyediakan jalan untuk mencetak data dalam database.
+4.7 Prosedur Pelaksanaan :
+4.7.1. Membuat Form Baru Form pada Microsoft Access dapat dibuat dengan dua cara : 4.7.1.1. Membuat form menggunakan Design View Form dapat dibuat sesuai dengan keinginan pengguna dengan memasang beberapa komponen yang diinginkan secara manual sesuai dengan kebutuhan pengguna. Langkahlangkah dalam membuat form menggunakan Design View adalah :
+a. Pilih tab Create, kemudian klik Form Design
+b. Disini akan tersedia form kosong. Tinggal Drag and Drop kolom-kolom yang berada sebelah kanan (dari Field List). Access membuat kotak teks untuk nilai dan label untuk nama field ketika tindakan ini selesai.
+38
+
+Praktikum 4 2010
+Drag and Drop
+c. Apabila ingin menghias form tinggal melakukan drag and drop dengan menggunakan fitur Form Design Tools di bagian atas Microsoft Access.
+4.7.1.2. Membuat form menggunakan wizard Form dapat dibuat dengan cepat apabila menggunakan wizard. Cara ini banyak digunakan oleh pemula yang masih belajar menggunakan microsoft Access. Langkah-langkah dalam menggunakan Wizard adalah :
+a. Pilih tab Create kemudian klik More Forms pada ribbon form.
+b. Pilih Form Wizard, Tunggulah hingga muncul kotak dialog Form Wizard c. Pilih Tabel atau Query yang akan dibuat formnya. (Boleh lebih dari satu tabel) d. Pada kotak daftar pilihan Available Fields, Pilih dan klik nama field yang ingin
+disertakan pada form, kemudian klik tombol >. Dengan langkah ini, nama field yang Anda pilih akan dipindahkan ke kotak daftar pilihan Selected Fields. e. Pilih layout form yang sesuai kebutuhan. Microsoft Access menyediakan 4 buah layout : Columnar, Tabular, Datasheet atau Justified
+f. Pilih style form yang sesuai keinginan. Microsoft Access menyediakan berbagai style form. Style ini akan mempengaruhi background slide. Style yang disediakan Microsoft Access 2007 lebih banyak daripada yang dimiliki Microsoft Access 2003. Setelah memilih klik tombol Next.
+g. Berikan judul pada form yang baru dibuat, Kemudia klik Finish.
+39
+
+Praktikum 4 2010
+
+4.7.1.3. Form Control
+
+Microsoft Access memiliki beberapa tipe form kontrol :
+
+No
+
+Icon
+
+Nama
+
+Fungsi
+
+1
+
+Logo
+
+digunakan untuk memasukkan gambar ke dalam
+
+form misalnya logo perusahaan
+
+2
+
+Title
+
+digunakan untuk memberi judul pada form
+
+3
+
+Page Number digunakan untuk memberi kan nomor halaman
+
+pada form
+
+4
+
+Date and Time digunakan untuk menyisipkan tanggal dan waktu
+
+sekarang
+
+5
+
+Text Box
+
+digunakan untuk menerima inputan dari pengguna
+
+6
+
+Label
+
+digunakan untuk memberi nama pada field
+
+7
+
+Button
+
+digunakan untuk menambahkan tombol pada form
+
+8
+
+Combo Box
+
+Menyediakan list atau pilihan-pilihan
+
+9
+
+List Box
+
+Menyediakan list pilihan untuk mempermudah
+
+pengguna memasukkan data
+
+10
+
+Insert Chart
+
+Memasukkan diagram / grafik ke dalam form
+
+11
+
+Image
+
+Memasukkan gambar ke dalam form
+
+Contoh hasil penggunaan Form Control :
+
+4.7.2. Membuat Split Form Dengan Access 2007 Anda juga dapat dengan mudah membuat SplitForm. Fitur SplitForm yang terdapat di Microsoft Access digunakan untuk membuat membuat dua tampilan
+40
+
+Praktikum 4 2010
+sekaligus dimana sisi atas menampilkan informasi record yang sedang ditunjuk pada datasheet. Sedangkan sisi bawah menampilkan datasheetnya. Langkah-langkahnya : 1. Pada Navigation Pane, pilih dan klik nama Tabel atau Query yang akan dibuat form-nya. 2. Pada Tab Create, dalam group Forms,pilih SplitForm
+Berupa Form
+
+Berupa Datasheet
+3. Setelah langkah ini Anda lakukan, secara otomatis akan terbentuk sebuah SplitForm
+4.7.3. Membuat Report Baru Report pada Microsoft Access dapat dibuat dengan menggunakan dua cara : 4.5.3.1. Menggunakan Report Wizard
+Fitur Report Wizard disediakan oleh Access untuk memudahkan pengguna dalam membuat laporan. Langkah-langkah membuat report dengan menggunakan Wizard :
+a. Pilih Tab Create kemudian pilih Report Wizard
+
+b. Pilih tabel atau query yang akan ditampilkan di dalam report
+
+Memilih Tabel /
+
+Query untuk Report
+
+Memilih Kolom
+
+yang dibutuhkan
+
+c. Pilih kolom-kolom yang akan ditampilkan di dalam report dengan memindahkan nama kolom ke kotak sebelah kanan. Kemudian klik tombol Next
+d. Pilih kolom yang ingin digolongkan dengan mengklik tombol panah kanan > untuk memasukkan kolom ke diagram. Gunakan tombol Priority untuk mengubah perintah dari penggolongan field jika lebih dari satu field dipilih. Klik Next > untuk melanjutkan.
+e. Jika arsip harus disortir, mengidentifkasi sortiran harus disini. Pilih field pertama arsip harus disortir dan klik tombol sortir A-Z untuk memilih dari menaik atau menurun. Klik Next > untuk melanjutkan
+
+41
+
+Praktikum 4 2010
+f. Pilih layout dan orientasi halaman untuk report dan klik Next. Ada tiga macam layout yang disediakan yaitu Columnar, Tabular dan Justified. Bentuk report nantinya juga bisa diatur, apakah berbentuk Portrait ataupun Landscape.
+Memilih Layout Report
+g. Pilih Style untuk report, kemudian klik tombol Next h. Beri nama judul Report kemudian klik Finish.
+4.5.3.2. Menggunakan Report Design Fitur ini banyak digunakan untuk mendesain sendiri tampilan dari sebuah report. Langkah-langkah pembuatan report dengan menggunakan Report Design adalah : a. Pilih Tab Create kemudian pilih Report Wizard
+b. Anda akan diberi grid kosong dengan kotak field dan element form toolbar untuk Design View untuk forms. Drag kolom yang dibutuhkan untuk report dari FieldList yang berada di sebelah kanan
+c. Tambahkan berbagai obyek untuk memperindah tampilan dari report. d. Tombol - tombol yang digunalan untuk mendesain report mirip dengan tombol-
+tombol yang digunakan pada saat mendesain Form
+42
+
+Praktikum 4 2010
+e. Contoh hasil desain report yang sederhana
+f. Pilih report View untuk menampilkan hasil report yang telah di desain sebelumnya
+4.7.4. Mencetak Report Report pada Microsoft Access bisa dicetak melalui tampilan Print Preview.
+Tombol Print
+Sebelum dicetak, Report dapat dimodifikasi garis tepi halamannya, ukurannya, orientasinya, dan setting kolomnya melalui Page Setup. Apabila report telah siap dicetak, tekan tombol Print untuk mencetak Report. 4.7.5. Blank Report Digunakan untuk membuat report baru yang masih kosong.
+Report Kosong
+4.7.6. Membuat Report untuk Tabel Berelasi Jika sumber data report yang akan dibuat berasal dari beberapa tabel yang saling berelasi, setidaknya ada dua kemungkinan cara pembuatannya. Yang pertama adalah dengan membuat query terlebih dahulu terhadap tabel-tabel yang berelasi tersebut dan kemudian
+43
+
+Praktikum 4 2010
+query tersebut dijadikan sebagai sumber data. Cara yang kedua adalah dengan mengikuti langkah-langkah berikut : 1. Buatlah sebuah report kosong baru dengan mengklik tombol Blank Report yang terdapat
+pada grup Reports ribbon Create
+2. Tampilkan jendela Field List dengan mengklik tombol Add Existing Fields yang terdapat pada grup Controls ribbon Format
+3. Klik dan tarik field-field tabel induk dari daftar Field List ke area Report
+4. Klik dan tarik field-field yang berelasi dengan tabel induk ke dalam area Report Report tersebut hanya akan menampilkan record-record yang berelasi saja sepanjang properti relasi tersebut harus diatur sedemikian rupa agar hanya merelasikan record yang cocok diantara tabel yang direlasikan.
+4.8 Latihan Soal : 1. Buatlah Form Anggota dengan menggunakan data-data pada tabel Anggota 2. Buatlah Form Petugas dengan menggunakan data-data pada tabel Petugas 3. Buatlah Form menggunakan data-data dari Query Transaksi yang berisi IDTransaksi,
+TglTransaksi, NamaAnggota, NamaPetugas, ItemTransaksi.
+44
+
+Praktikum 4 2010
+4. Form no 1 dan 2 sudah dilengkapi tombol untuk navigasi Record, menambah Record baru, menghapus record.
+5. Buatlah Report berisi data-data dari tabel Anggota 6. Buatlah Report berisi data-data dari tabel Petugas 7. Tuliskan langkah-langkah pengerjaan no 1 sampai no 6.
+45
+
+Praktikum Ke : 4 Judul/Tema Praktikum : Praktikum Aplikasi Pengolah Data II
+Dasar/Teori/Konsep/Kerangka Pikir: Terdapat pada sub bab 4.6
+Tujuan Praktek: Terdapat pada sub bab 4.3
+Peralatan/Bahan: 1. Microsoft Office Access 2007 2. Modul Praktikum
+Prosedur Pelaksanaan: Terdapat pada sub bab 4.7 Hasil/kompetensi yang diharapkan: Terdapat pada sub bab 4.5
+Tanggal :
+Tempat Lokasi: Lab 1,2 Vokasi Lamanya Pelaksanaan (Jam): 2 jam
+
+Praktikum 4 2010
+
+46
+
+Praktikum 5 2010
+Praktikum ke 5
+5.1 Judul Praktikum Praktikum Aplikasi Pengolah Gambar Diagram
+5.2 Peralatan / Bahan Microsoft Office Visio 2003
+5.3 Tujuan Praktikum Mahasiswa memahami teori dan mampu mengaplikasikan secara langsung
+penggunaan Microsoft Access.
+5.4 Referensi 1. Siswoutomo, Wiwit.2006. Kerja Praktek Membangun Software. Jakarta:PT Elex Media
+Komputindo 2. Tulip Information Solution.2007. Microsoft Visio 2003. Jakarta:PT Elex Media
+Komputindo 3. Website : www.wikipedia.com tanggal akses 13 Oktober 2010
+4. Fitur Help / Bantuan yang terdapat pada Microsoft Office Visio
+5.5 Hasil / kompetensi yang diharapkan : 1. Mahasiswa mampu mempraktekkan pembuatan flowchart 2. Mahasiswa mampu mempraktekkan pembuatan basic Diagram
+5.6 Dasar Teori Microsoft Visio (atau sering disebut Visio) adalah sebuah program aplikasi komputer
+yang sering digunakan untuk membuat diagram, diagram alir (flowchart), brainstorm, dan skema jaringan yang dirilis oleh Microsoft Corporation. Aplikasi ini menggunakan grafik vektor untuk membuat diagram-diagramnya.
+Visio aslinya bukanlah buatan Microsoft Corporation, melainkan buatan Visio Corporation, yang diakusisisi oleh Microsoft pada tahun 2000. Versi yang telah menggunakan nama Microsoft Visio adalah Visio 2002, Visio 2003, dan Visio 2007 yang merupakan versi terbaru. Visio 2007 Standard dan Professional menawarkan antarmuka pengguna yang sama, tapi seri Professional menawarkan lebih banyak pilihan template untuk pembuatan diagram yang lebih lanjut dan juga penataan letak (layout). Selain itu, edisi Professional juga memudahkan pengguna untuk menyambungkan diagram-diagram buatan mereka terhadap beberapa sumber data dan juga menampilkan informasi secara visual dengan menggunakan grafik.
+Aplikasi ini sudah banyak digunakan oleh banyak kalangan mulai dari pemula sampai profesional untuk mendesain suatu gambar. Selain mudah digunakan, Microsoft Visio juga memiliki tampilan yang menarik sehingga cocok bagi pemula yang akan belajar menggambar / mendesain.
+5.6.1. Shape Dalam Microsoft Visio, shape merepresentasikan baik dunia riil maupun konsep-konsep. Visio shape dapat merepresentasikan :
+1. Objek dalam dunia secara fisik, seperti komputer, printer dan sebagainya 2. Objek dalam hirarki organisasi seperti posisi dalam organisasi. 3. Objek dalam proses atau urutan seperti Flowchart
+47
+
+Praktikum 5 2010
+4. Objek dalam software atau database model, seperti entitas dan relationship dalam diagram model database.
+5.6.2. Control Handles pada Shape Beberapa shape mempunyai control handles yang dapat Anda gunakan untuk memodifikasi shape. Masing-masing fungsi tersebut akan ditampilkan keterangan setiap kali Anda melintaskan pointer ke atasnya.
+Control Points Control Point muncul pada garis, lengkungan, dan kurva bebas saat Anda memilih shape tersebut menggunakan Pencil Tool.
+Eccentricity Handles Dapat digunakan untuk mengatur sudut dan magnitude dari lengkung elips
+Gray Boxes Mengindikasikan shape diproteksi atau dikunci untuk perubahan yang spesifik
+Rotation Handles Muncul pada puncak dari shape ketika Anda memilihnya.
+5.6.3. Kategori Gambar Microsoft Office Visio menyediakan berbagai macam kategori gambar. Masing-masing kategori terdiri atas beberapa template dimana masing-masing template memiliki keterangan. Kategori-kategori gambar yang telah tersedia adalah : 1. Block Diagram
+48
+
+2. Brainstorming 3. Building Plan
+
+Praktikum 5 2010
+
+4. Bussiness Process
+5. Charts and Graphs 6. Database 7. Electrical Engineering
+49
+
+8. FlowChart 9. Map 10. Mechanical Engineering 11. Network 12. Organization chart 13. Project Schedule 14. Software
+15. Web Diagram
+50
+
+Praktikum 5 2010
+
+Praktikum 5 2010
+
+5.7 Prosedur Pelaksanaan
+
+5.7.1.
+
+Membuat Dokumen Baru
+
+Langkah-langkah untuk membuat dokumen baru pada microsoft Visio 2003 adalah :
+
+1. Apabila ingin memulai Visio dan membuat dokumen baru dapat dilakukan dengan 3 cara.
+
+2. Blank drawing dipilih apabila ingin memulai Visio dengan dokumen baru tanpa memilih tipe gambarnya.
+3. Apabila ingin memilih tipe gambarnya terlebih dahulu, maka dapat memilih Choose Drawing Type. Dimana selanjutnya akan muncul berbagai kategori gambar yang telah disediakan oleh Visio.
+4. Apabila ingin mengambil dari gambar yang sudah ada sebelumnya, maka pilihlah From existing drawing
+5. Tampilan dari dokumen baru Microsoft Office Visio
+
+Bentuk-bentuk (Shape)
+
+Edit Teks
+
+Lembar Kerja
+
+5.7.2.
+
+Membuat Basic Diagram
+
+Menggunakan bentuk-bentuk dua dimensi yang sederhana seperti segitiga, segiempat,
+
+persegi dan anak panah dalam membuat gambar-gambar untuk perencanaan (planning),
+
+komunikasi (Communication) dan Brainstorming. Langkah-langkah pembuatan basic diagram
+
+adalah :
+
+1. Pilih menu File kemudian pilih New
+
+51
+
+Praktikum 5 2010
+2. Pilih Block Diagram kemudian pilih Basic Diagram 3. Pilih bentuk-bentuk yang diinginkan yang berada di sebelah kiri lembar kerja. Tarik
+dan Letakkan bentuk yang dipilih di lembar kerja.
+4. Apabila ingin mengganti warna pada salah satu bentuk misalnya bentuk segilima maka klik satu kali pada bintang segilima kemudian klik kanan lalu pilih Format dan terakhir pilih Fill
+Memilih Warna
+Setting Transparan
+5. Setelah muncul Fill Dialog Box maka lihat pada bagian Color yang sedang menampilkan warna background sekarang. Kalau ingin menggantinya tinggal memilih warna dari list yang tersedia. Atau Klik More Colors untuk memilih salah satu warna tertentu di dalam Dialog Box Warna.
+6. Tidak hanya warna saja yang bisa diganti. Dapat juga mengganti pola atau Pattern dari suatu bentuk. Pilihlah sebuah pola baru dimana dapat berupa blank atau transparan (pattern 0), solid (patern 1), sebuah pola bipmap (pattern 2 sampai 24) atau pola gradien (patern 25 sampai 40).
+7. Dapat juga mengatur transparansi warna mulai dari 0 persen sampai 100 persen. Jika melakukan pengaturan transparansi 0 persen pada suatu bentuk maka bentu tersebut akan menjadi bentuk yang transparan.
+8. Mengganti warna garis yang menyusun suatu bentuk bisa dilakukan dengan mudah. Hal ini dapat dilakukan dengan melakukan klik kanan pada bentuk yang akan diubah warna garisnya kemudian pilih Format dan pilih Line.
+52
+
+Fitur Edit Garis
+
+Praktikum 5 2010
+
+9. Akan muncul Line Dialog Box dimana terdapat berbagai fitur edit garis. Fitur-fitur tersebut diantaranya : - Pattern : untuk mengganti pola garis dari suatu bentuk. Pola ini dapat berupa garis putus-putus, titik putus-putus maupun gabungan antara garis dan titik yang putus-putus - Weight : untuk mengatur ketebalan garis. Tersedia berbagai macam ketebalan garis - Color : untuk mengatur warna garis yang terdapat pada suatu bentuk. Pilih More Colors apabila ingin membuka Colors Dialog Box untuk mendefinisikan warna baru.
+10. Hasil akhir dari proses edit warna bentuk dan garis adalah :
+
+5.7.3.
+
+Membuat Flow Chart
+
+Fungsi dari kategori FlowChart adalah untuk membuat diagram yang sifatnya
+
+terstruktur dan berhierarki. Diagram yang berhierarki menunjukkan adanya jenjang atau
+
+aliran yang berurutan mulai dari tingkat teratas sampai tingkat paling bawah atau adanya
+
+keterkaitan antara bidang satu dengan bidang yang lain. Template kategori ini umumnya
+
+digunakan untuk menggambarkan arus atau mekanisme tugas dari suatu industri atau
+
+pelayanan publik, perencanaan, dan lain sebagainya. Di dalam pemrograman komputer
+
+sangat penting untuk bisa menguasai Flow Chart. Microsoft Visio menyediakan fitur untuk
+
+membuat diagram flowchart dengan mudah dan cepat. Langkah-langkah untuk membuat
+
+FlowChart sederhana adalah :
+
+1. Pilih kategori FlowChart lalu pilih Basic FlowChart
+
+53
+
+Praktikum 5 2010
+
+2. Template Basic FlowChart ini biasa digunakan untuk membuat top-down diagram,
+
+information tracking diagrams, process planning diagrams, and structure prediction
+
+diagrams.
+
+3. Terdapat beberapa bentuk-bentuk khusus dari Flowchart. Penggunaan bentuk-
+
+bentuk ini akan dijelaskan berikut ini :
+
+Bentuk
+
+Nama Bentuk
+
+Fungsi
+
+Proses
+
+Simbol yang memproses / pernyataan
+
+data program
+
+Decision
+
+Simbol yang biasa digunakan apabila terdapat fungsi percabangan
+
+Data Teminator Document
+Dynamic Connector
+
+Simbol untuk menuliskan data / input maupun hasil / output.
+Simbol menandakan awal dan akhir program
+Simbol tempat untuk menuliskan hasil proses eksekusi untuk dokumentasi. Simbol untuk menghubungkan bentukbentuk pada flowchart
+
+4. Untuk memulai FlowChart, lakukan Drag and Drop pada bentuk-bentuk (Shape) yang dibutuhkan dalam membuat flowchart.
+
+Drag And Drop
+5. Untuk menghubungkan bentuk-bentuk (shapes) satu sama lain perlu menggunakan sebuah konektor yang bernama Dynamic Connector. Konektor ini tinggal di drag and drop dari kumpulan bentuk-bentuk di sebelah kiri. Hubungkan kedua ujung konektor dengan ujung-ujung Shape. Pastikan letak arah panah tidak terbalik. Aturlah sesuai dengan kebutuhan.
+6. Bentuk-bentuk (Shapes) ini dapat diubah warnanya seperti yang telah dilakukan sebelumnya. Atau dapat menggunakan fitur Fill Color yang terdapat pada bagian atas Toolbar Visio. Disini fitur edit garis juga tersedia dengan cepat dan mudah digunakan.
+54
+
+Praktikum 5 2010
+
+7. Apabila ingin menyisipkan teks ke dalam Shape / bentuk dapat dilakukan dengan cara klik dua kali pada Shape yang diinginkan kemudian menuliskan teks ke dalamnya.
+8. Kalau ingin merubah warna tulisan yang berada di dalam shape caranya sangat mudah. Klik satu kali pada bentuk / shape tertentu. Kemudian pakailah Text Color yang berada di bagian atas Toolbar. Warna teks akan langsung berubah sesuai keinginan user.
+
+5.7.4.
+
+Memberi Nomor pada Shape
+
+Untuk menandai urutan dari FlowChart, di dalam shape / bentuk dapat disisipkan
+
+nomor urut shape. Langkah-langkah pemberian nomor urut adalah :
+
+ Di dalam FlowChart, pilih Shape / bentuk yang ingin diberikan nomor
+
+ Pada menu Tools, pilih Add-Ons, pilih Visio Extras, dan kemudian klik
+
+Number Shapes.
+
+ Pada tab General, di bawah Operation, click Auto Number. Di bawah Apply To, klik Selected Shapes, dan kemudian klik OK.
+ Centang kotak yang bertuliskan Continue Numbering Shape apabila ingin shape yang akan ditambahkan berikutnya langsung memiliki nomor urut.
+55
+
+Praktikum 5 2010
+
+5.7.5.
+
+Membuat Halaman Baru
+
+Untuk membuat halaman baru dalam Visio caranya sangat mudah, yaitu :
+
+1. Klik kanan pada halaman Page-1 yang berada pada bagian bawah lembar kerja
+
+2. Pilih Insert Page untuk membuat haman baru di sebelah kanan halaman yang lama
+3. Apabila ingin mengubah nama / judul halaman maka dapat melakukan kik 2 kali pada nama halaman yang lama atau menggunakan Rename Page
+
+5.7.6.
+
+Menambahkan Desain Background
+
+Sebuah background dapat ditambahkan pada lembar kerja. Caranya adalah :
+
+1. Bukalah Backgrounds stencil jika masih belun terbuka. (pada menu File , pilih
+
+Shapes, pilih Visio Extras, dan kemudian pilih Backgrounds.)
+
+2. Tarik sebuah background shape ke dalam lembar kerja.
+
+3. Untuk membuang desain latar belakang, pada halaman latar belakang, pilih background design shape, dan kemudian tekan DELETE.
+5.7.7. Membuat Peta Sederhana Microsoft Office Visio memungkinkan pengguna untuk membuat peta jalan
+sederhana. Langkah-langkah membuat peta sederhana adalah :
+56
+
+Praktikum 5 2010
+1. Pilih kategori Map khususnya Directional Map 2. Bentuk-bentuk (Shapes) yang terdapat pada kategori ini mirip dengan yang tersedia di
+peta yang sebenarnya seperti simbol-simbol gedung, bermacam-macam jenis jalan raya, tanda-tanda lalu lintas dsb.
+3. Pilih Shape yang diinginkan kemudian tarik dan letakkan di lembar kerja 4. Contoh Hasil Desain Peta sederhana
+5.7.8. Mengatur Layout Hasil Desain Microsoft Office Visio menyediakan fitur untuk menngatur layout hasil desain sebelum
+hasil tersebut dicetak. Pilih menu File-Page Setup
+Dalam tab control print setup terdapat ukuran dari halaman yang akan digunakan, untuk merubah ukuran kertas yang akan digunakan pilihlah tombol panah kebawah pada combo box paper size yang tersedia. Pilihan paper orientation digunakan untuk menentukan pilihan bentuk cetakan yang akan digunakan yaitu berbentuk portrait atau landscape. Jika ingin membuat jenis kertas dengan ukuran yang berbeda dari bentuk kertas yang ada, sorotlah tab control paper size dan pilihlah custom size pada menu paper size.
+57
+
+Praktikum 5 2010
+Tab control drawing scale digunakan untuk menentukan skala gambar yang akan kita buat dengan pilihan default no scale (jika skala yang digunakan 1 : 1). Untuk pilihan yang lain kita dapat menseting pada pilihan pre-defined scale dengan pilihan yang dapat dipakai yaitu : skala metrics, skala arsitektur, skala civil enginnering, maupun skala mekanik dengan perbandingan skala 1 : 1000 sampai dengan 50 : 1.
+Tab control page properties digunakan untuk mendefinisikan tipe dari halaman visio yang kita buat, apakah berfungsi sebagai foreground page atau sebagai background page. Pada versi terbaru dari visio ini dikenalkan tab control shadows yang berfungsi memberi efek bayangan pada halaman visio. 5.8 Latihan Soal 1. Buatlah sebuah FlowChart yang berisi cara menghitung luas dan keliling sebuah persegi
+panjang. 2. Buatlah sebuah FlowChart yang berisi cara menghitung luas dan keliling sebuah
+lingkaran 3. Buatlah sebuah Struktur Organisasi sebuah perusahaan.
+58
+
+Praktikum Ke : 5 Judul/Tema Praktikum : Praktikum Aplikasi Pengolah Gambar Diagram
+Dasar/Teori/Konsep/Kerangka Pikir: Terdapat pada sub bab 5.6
+Tujuan Praktek: Terdapat pada sub bab 5.3
+Peralatan/Bahan: 1. Microsoft Office Visio 2003 2. Modul Praktikum
+Prosedur Pelaksanaan: Terdapat pada sub bab 5.7 Hasil/kompetensi yang diharapkan: Terdapat pada sub bab 5.5
+Tanggal :
+Tempat Lokasi: Lab 1,2 Vokasi Lamanya Pelaksanaan (Jam): 2 jam
+
+Praktikum 5 2010
+
+59
+
+Praktikum 6 2010
+
+Praktikum ke 6
+
+6.1. Judul Praktikum Pengenalan Microsoft Office Publisher
+
+6.2. Peralatan / Bahan Microsoft Office Publisher 2007
+
+6.3. Tujuan Praktikum Mahasiswa memahami teori dan mampu mengaplikasikan secara langsung
+penggunaan Microsoft Publisher 2007.
+
+6.4. Referensi 1. Priyatno,Duwi.2010. Cara Instan
+Publisher.Yogyakarta.Multicom.
+
+Desain
+
+Promo
+
+Dengan
+
+Microsoft
+
+2. Website : www.wikipedia.com tanggal akses 13 Oktober 2010
+
+3. Fitur Help / Bantuan yang terdapat pada Microsoft Publisher
+
+4. McCarter,Jim ,Jacqui Salerno Mabin.2008. Microsoft Office Publisher 2007 For Dummies.Indianan.Wiley Publishing Inc.
+
+6.5. Hasil/kompetensi yang diharapkan: 1. Mahasiswa mampu mempraktekkan cara menggunakan aplikasi Microsoft Office
+Publisher 2. Mahasiswa mampu mempraktekkan cara menggunakan toolbar-toolbar yang terdapat
+pada Mictosoft Publisher 3. Mahasiswa mampu membuat sebuah undangan sederhana dengan menggunakan
+Template yang telah tersedia 4. Mahasiswa mampu membuat sebuah kartu pos dengan menggunakan Template yang
+telah tersedia
+
+6.6. Dasar Teori Microsoft Publisher adalah sebuah program aplikasi untuk sistem operasi Windows yang digunakan untuk Desktop publishing. Program ini merupakan buatan Microsoft Corporation, dan mulai pada versi Microsoft Office System 2003, telah diintegerasikan ke dalam paket tersebut. Kini, namanya menjadi Microsoft Office Publisher. Versi terbarunya adalah Microsoft Office Publisher 2007 yang terintegrasi dengan Microsoft Office Publisher 2007. Microsoft Publisher merupakan software yamg membantu pengguna dalam merancang berbagai bentuk publikasi dan kemudian mencetaknya. Microsoft publisher juga telah menyediakan berbagai fasilitas yang mendukung pengguna dalam merancag publikasi dengan disediakannya fasilitas wizard dan disediakannya banyak contoh publikasi yang bisa langsung digunakan. Serta fasilitas mail merge yang memudahkan kita dalam membagi publikasi ke orang-orang dan tempat yang berbeda.
+
+6.7. Prosedur Pelaksanaan
+
+6.7.1.
+
+Memulai Microsoft Publisher
+
+Untuk memulai aplikasi Microsoft publisher, langkah-langkahnya adalah :
+
+1. Pilih tombol Start Windows
+
+2. Pilih Microsoft Office ­ pilih Microsoft Office Publisher
+
+60
+
+Praktikum 6 2010
+
+3. Tunggu sebentar hingga aplikasi Microsoft publisher terbuka
+
+6.7.2.
+
+Membuat Dokumen Baru
+
+Langkah-langkah dalam membuat dokumen baru pada Microsoft Office Publisher
+
+adalah :
+
+1. Pilih Blank Page Sizes pada Publication Types
+
+2. Setelah itu akan muncul berbagai ukuran kertas yang telah disediakan oleh Microsoft Publisher. Pilih A4 (Portrait) sebagai permulaan. Di sebelah kanan akan muncul tambahan informasi tentang jenis kertas yang akan dipilih.
+61
+
+Praktikum 6 2010
+
+3. Kemudian Klik tombol Create yang berada di bagian bawah sebelah kanan tampilan dari Microsoft Publisher.
+4. Tungu sebentar hingga muncul tampilan sMeepnueBratri di bawah ini :
+Toolbar
+
+Edit Picture
+
+Ruler
+
+Info Paper
+
+Lembar Kerja
+
+6.7.3.
+
+Menambahkan TextBox
+
+Untuk bisa menambahkan textbox ke dalam Lembar Kerja dapat dilakukan dengan dua cara.
+
+Cara pertama adalah dengan memilih menu Insert pada bagian atas toolbar kemudian pilih
+
+TextBox.
+
+62
+
+Praktikum 6 2010
+
+Cara kedua adalah dengan memilih shortcut yang berada di sebelah kanan Microsoft
+
+publisher yang berlogo
+
+. Kemudian di Lembar Kerja akan muncul kotak textbox yang
+
+siap diisi sesuai dengan kebutuhan. Apabila ukuran karakter terlalu kecil, Microsoft Publisher
+
+akan mengeluarkan peringatan dimana pengguna diminta menekan tombol F9 untuk
+
+memperbesar tampilan.
+
+Untuk mengubah jenis dan ukuran karakter tulisan bisa memanfaatkan toolbar yang berada di bagian atas lembar kerja.
+Edit Tulisan dalam TextBox
+Warna latar belakang dari sebuah TextBox dapat diganti sesuai keinginan. Caranya adalah Klik kanan pada textbox kemudian pilih Format TextBox. Ganti warna pada fitur Fill. Klik OK maka warna latar belakang textbox akan berubah.
+
+63
+
+Praktikum 6 2010
+
+6.7.4.
+
+Memasukkan Tabel
+
+Apabila ingin menyisipkan sebuah tabel ke dalam lembar kerja, maka dapat dilakukan
+
+dengan dua cara. Cara pertama adalah dengan memilih menu Table lalu pilih Insert Table.
+
+Cara kedua adalah memilih toolbar yang bergambar Kemudian akan muncul jendela menu Create Table.
+Jumlah baris dan kolom
+Format dari Tabel
+
+di sebelah kiri lembar kerja.
+Preview Tabel
+
+Tentukan jumlah baris dan jumlah kolom dari tabel yang ingin dibuat. Isilah di tempat yang telah disediakan. Pilih format tabel sesuai dengan keinginan sambil melihat preview tampilan tabel di sebelah kanan. Setelah itu klik OK. Kerangka Tabel telah terbuat, hanya tinggal mengisi tabelnya saja. Contoh hasil pembuatan tabel.
+
+6.7.5.
+
+Memasukkan WordArt
+
+Apabila ingin menyisipkan sebuah teks WordArt ke dalam lembar kerja, maka dapat
+
+dilakukan dengan dua cara. Cara pertama adalah dengan memilih menu Insert lalu pilih
+
+Picture kemudian pilih WordArt. Cara kedua adalah memilih toolbar yang bergambar di
+
+sebelah kiri lembar kerja. Kemudian akan muncul jendela menu WordArt.
+
+Tampilan Jendela WordArt Gallery mirip dengan yang berada di Microsoft Office Word dengan cara pemakaian yang sama pula.
+64
+
+Praktikum 6 2010
+
+Pilih Salah Satu Style dari WordArt
+
+Pilih salah satu Style dari WordArt kemudian klik tombol OK. Setelah itu tuliskan isi dari WordArt yang ingin dibuat. Jangan lupa memilih Font dan Size nya di bagian atas Jendela Edit WordArt Text. Setelah selesai klik OK. Hasilnya sebagai berikut :
+
+6.7.6.
+
+Memasukkan Gambar
+
+Apabila ingin menyisipkan gambar ke dalam lembar kerja, maka dapat dilakukan
+
+dengan beberapa cara. Cara pertama adalah dengan memilih menu Insert lalu pilih Picture.
+
+Disana akan terdapat beberapa pilihan sumber gambar berasal. Gambar bisa diambil dari
+
+ClipArt, file, Scanner atau kamera dan Content Library. Cara kedua adalah dengan menekan
+
+tombol dengan icon pada toolbar di samping lembar kerja.
+
+Pilih Sumber Gambar
+
+Misalkan ambil gambar dari Clip Art maka tinggal menekan tombol ClipArt sehingga muncul berbagai pilihan gambar ClipArt di samping kiri lembar kerja. Pilih salah satu gambar lalu klik dua kali. Maka gambar akan langsung berpindah ke lembar kerja. Microsoft Publisher secara otomatis akan menampilkan menu Edit picture yang dapat digunakan untuk melakukan perbaikan atau manipulasi pada gambar.
+Fitur Edit Gambar
+65
+
+Praktikum 6 2010
+
+Fitur edit gambar yang terdapat di Microsoft Publisher mirip dengan yang dipunyai oleh Microsoft Office Word 2003. Pengguna bisa mengatur kontras gambar, pencahayaan, memotong gambar, melakukan kompresi atau mengatur ketebalan garis tepi dari gambar.
+
+6.7.7.
+
+Membuat Kartu Undangan
+
+Microsoft Office Publisher dapat digunakan untuk membuat sebuah kartu undangan dengan
+
+cepat dan mudah. Langkah-langkahnya adalah sebagai berikut :
+
+1. Bukalah aplikasi Microsoft Publisher hingga muncul pilihan berbagai Publication Types.
+
+2. Pilih Invitation Cards. Akan tampil berbagai Template yang telah disediakan Publisher berupa kartu undangan dengan berbagai tema. Ada Party, Holiday party, Theme Party, Birthday party dan lain-lain.
+
+3. Misalkan pilih Birthday Party 9. Kemudian klik tombol Create yang berada di bagian pojok kanan bawah. Tunggu beberapa saat hingga muncul tampilan seperti di bawah ini
+66
+
+Praktikum 6 2010
+
+4. Microsoft Publisher akan membuat desain sebuah kartu dengan 4 buah halaman. Perpindahan dari halaman satu ke halaman lain bisa dilakukan dengan memanfaatkan tombol navigasi halaman di bagian bawah Lembar kerja.
+5. Di halaman kedua, pengguna dapat mengganti judul undangan misalkan Undangan Ulang Tahun. Gantilah kata-kata yang ada di template sesuai dengan keinginan. Jangan lupa cantumkan waktu, tanggal serta alamat diadakannya pesta. Berikut contoh halaman kedua yang telah selesai diperbaiki.
+
+Sebelum Diedit
+
+Setelah Diedit
+
+6. Ucapan yang berada di halaman ketiga bisa diganti dengan memilih berbagai kalimat ucapan yang disediakan oleh publisher. Lalu Klik OK.
+67
+
+Praktikum 6 2010
+
+7. Hasil akhir dari membuat undangan adalah :
+
+6.7.8.
+
+Membuat Kartu Pos
+
+Microsoft Office Publisher dapat digunakan untuk membuat sebuah kartu pos dengan cepat
+
+dan mudah. Microsoft Publisher memberikan fasilitas untuk memilih layout post card serta
+
+menambahkan informasi ataupun data sesuai dengan data yang Anda ingin tambahkan.
+
+Disamping itu untuk memudahkan Anda dalam menentukan data penerima post card
+
+tersebut Anda dapat menggunakan mail merge sebagai media untuk menambahkan data
+
+secara otomatis dari database Anda. Langkah-langkahnya adalah sebagai berikut :
+
+1. Bukalah aplikasi Microsoft Publisher hingga muncul pilihan berbagai Publication Types.
+
+68
+
+Praktikum 6 2010
+2. Pilih Post Cards. Akan tampil berbagai Template yang telah disediakan Publisher berupa Post Cards dengan berbagai tema.
+3. Misalkan pilih Mobile. Kemudian klik tombol Create yang berada di bagian pojok kanan bawah. Tunggu beberapa saat hingga muncul tampilan seperti di bawah ini
+69
+
+Praktikum 6 2010
+4. Microsoft Publisher akan membuat desain sebuah kartu pos dengan 2 buah halaman. Perpindahan dari halaman satu ke halaman lain bisa dilakukan dengan memanfaatkan tombol navigasi halaman di bagian bawah Lembar kerja. 5. Di halaman pertama, pengguna dapat mengganti judul kartu pos dan kemudian mengganti bagian-bagian lain yang tidak sesuai dengan keinginan.
+6. Di halaman pengiriman kartu pos, Anda akan diminta untuk menuliskan alamat penerima kartu pos. Penulisan alamat penerima dapat dilakukan dengan menggunakan Fitur Mail Merge apabila jumlah penerima kartu pos banyak.
+7. Hasil akhir dari Kartu Pos Bagian depan dan belakang adalah :
+70
+
+Praktikum 6 2010
+6.8. Latihan Soal
+1. Buatlah sebuah undangan pesta menggunakan Micrososft Office Publisher dengan tema bebas dalam waktu 30 menit. Undangan dibuat sebagus mungkin dengan berusaha mengembangkan kreatifitas Anda. Tuliskah langkah-langkah pembuatan undangannya.
+2. Buatlah sebuah kartu pos menggunakan Micrososft Office Publisher dengan tema bebas dalam waktu 30 menit. Kartu Pos dapat dibuat sebagus mungkin dengan berusaha mengembangkan kreatifitas Anda. Tuliskah langkah-langkah pembuatan kartu posnya.
+71
+
+Praktikum Ke : 6 Judul/Tema Praktikum : Pengenalan Microsoft Office Publisher
+Dasar/Teori/Konsep/Kerangka Pikir: Terdapat pada sub bab 6.6
+Tujuan Praktek: Terdapat pada sub bab 6.3
+Peralatan/Bahan: 1. Microsoft Office Publisher 2007 2. Modul Praktikum
+Prosedur Pelaksanaan: Terdapat pada sub bab 6.7 Hasil/kompetensi yang diharapkan: Terdapat pada sub bab 6.5
+Tanggal :
+Tempat Lokasi: Lab 1,2 Vokasi Lamanya Pelaksanaan (Jam): 2 jam
+
+Praktikum 6 2010
+
+72
+
+Daftar Pustaka
+
+2010
+
+DAFTAR PUSTAKA
+1. Madiananto, Urip.2010.Pengenalan Microsoft Excel 2007.Available[online]:< http://www.tik.tp.ugm.ac.id/site/index.php?option=com_content&view=category&lay out=blog&id=34&Itemid=69 >[6 Oktober 2010]
+2. M, Rustam.2010.Panduan Praktis Pelatihan komputer. Available[online]:< http://oke.or.id/tutorial/>[7 Oktober 2010]
+3. Kurniawa,Yahya.2007.Belajar Sendiri Microsoft Office Power Point 2007.Jakarta.PT Elex Media Komputindo
+4. Kurniawan,Yahya.2007.Belajar Sendiri : Microsoft Office Excel 2007. Jakarta:PT Elex Media Komputindo
+5. G,Ratna.2007. Belajar Cepat Microsoft Excel 2007.Yogyakarta:C.V. Andi Offset 6. Hadi Purnomo,Catur.2010. Panduan Belajar Otodidak MS. Excel
+2007.Jakarta:MediaKita 7. Winpac Solution.2007. Mudah Menguasai Microsoft Access. Jakarta:PT Elex Media
+Komputindo 8. Kurniawan,Yahya.2007. Tip & Trik Ms. Office Access 2007. Jakarta:PT Elex Media
+Komputindo 9. Website : www.wikipedia.com tanggal akses 13 Oktober 2010 10. McCarter,Jim ,Jacqui Salerno Mabin.2008. Microsoft Office Publisher 2007 For
+Dummies.Indianan.Wiley Publishing Inc. 11. Priyatno,Duwi.2010. Cara Instan Desain Promo Dengan Microsoft
+Publisher.Yogyakarta.Multicom.
+
+73

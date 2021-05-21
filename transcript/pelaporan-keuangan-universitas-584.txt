@@ -1,0 +1,2158 @@
+2015
+PELAPORAN KEUANGAN UNIVERSITAS
+DANAR SUTOPO SIDIG IKA NURAZISAH
+ZIA'ULHAQ AS SHIDQI
+
+KATA PENGANTAR
+Puji dan syukur kami panjatkan kepada Tuhan Yang Maha Esa atas rahmat-Nya yang telah dilimpahkan kepada kami sehingga kami dapat menyelesaikan makalah yang berjudul "Sistem Akuntansi Universitas" yang merupakan salah satu tugas mata kuliah Akuntansi Pemerintah.
+Dalam makalah ini kami membahas mengenai Sistem Akuntansi Universitas dimulai dari penjurnalan hingga pelaporan.
+Dalam menyelesaikan makalah ini, kami banyak mendapat sumber dari buku­buku dan internet. Kami menyadari karya tulis ilmiah ini masih jauh dari kata sempurna, namun demikian diharapkan makalah ini dapat bermanfaat bagi kami dan orang­orang yang membacanya. Kritik dan saran dari pembaca sangat diharapkan untuk dapat memperbaiki makalah ini.
+Makassar, 2015 Tim Penulis,
+i
+
+DAFTAR ISI
+KATA PENGANTAR ................................................................................................................i DAFTAR ISI..............................................................................................................................ii DAFTAR GAMBAR ............................................................................................................... iii BAB I PENDAHULUAN..........................................................................................................1
+1.1 Latar Belakang Masalah...................................................................................................1 1.2 Rumusan Masalah ............................................................................................................1 BAB II PEMBAHASAN ...........................................................................................................2 2.1 Pola Pengelolaan Keuangan Universitas..........................................................................2
+2.1.1 Badan Hukum (PTN BH) ..........................................................................................3 2.2.2 Badan Layanan Umum ..............................................................................................5 2.2 Penyusunan Laporan Keuangan Universitas PTN BH.....................................................8 2.2.1 Format Laporan Keuangan ........................................................................................9 2.2.2 Jurnal-Jurnal Standar ...............................................................................................18 2.3 Penyusunan Laporan Keuangan Universitas BLU.........................................................19 2.3.1 Format Laporan Keuangan ......................................................................................20 2.3.2 Jurnal-Jurnal Standar ...............................................................................................32 BAB III SIMPULAN...............................................................................................................33 3.1 Simpulan.........................................................................................................................34 DAFTAR PUSTAKA ..............................................................................................................35 LAMPIRAN ............................................................................................................................. 36
+ii
+
+DAFTAR GAMBAR
+Gambar 2.1 Format Laporan Posisi Keuangan Universitas PTN BH......................................10 Gambar 2.2 Format Laporan Aktivitas Universitas PTN BH..................................................13 Gambar 2.3 Format Laporan Arus Kas Universitas PTN BH .................................................15 Gambar 2.4 Format Neraca Universitas BLU..........................................................................22 Gambar 2.5 Format Laporan Realisasi Anggaran....................................................................24 Gambar 2.6 Format Laporan Operasional Universitas BLU ...................................................27 Gambar 2.7 Format Laporan Arus Kas Universitas BLU........................................................29
+iii
+
+1.1 Latar Belakang Masalah
+
+BAB I PENDAHULUAN
+
+Akuntansi merupakan aktivitas jasa untuk meyediakan informasi yang diperlukan dalam pengambilan keputusan. Akuntansi keuangan dapat didefinisikan sebagai suatu prinsip, metode, dan teknik pencatatan dan pengorganisasian data keuangan atas operasi atau kegiatan suatu entitas untuk menghasilkan dan memberikan informasi yang digunakan sebagai dasar pengambilan keputusan yang rasional. Ruang lingkup akuntansi keuangan pemerintah meliputi semua kegiatan yang mencakup pengumpulan data, penganalisaan, pengklasifikasian, pencatatan, dan pelaporan atas transaksi keuangan pemerintah sebagai suatu entitas serta penafsiran terhadap hasil-hasilnya. Untuk itulah perlu dibentuknya sistem akuntansi yang baik yang sesuai dengan kebutuhan masing-masing entitas. Sama halnya dengan universitas pemerintah yang sudah seyogyanya melaksanakan pengelolaan keuangannya sesuai dengan aturan yang ditetapkan. Saat ini ada dua kategori universitas pemerintah terkait pengelolaan keuangannya yaitu Universitas sebagai Badan Layanan Umum (BLU) dan Universitas sebagai Badan Hukum Milik Negara (BHMN). Ini menandakan bahwa semua Universitas di Indonesia dituntut untuk melaksanakan pelaporan keuangan sesuai dengan ketentuan yang berlaku.
+Universitas di Indonesia saat ini semakin kompleks dalam melakukan pelayanan dan juga sumber pendanaannya. Suatu universitas selain bergerak di bidang pendidikan bisa melaksanakan pelayanan lainnya seperti rumah sakit dan asrama. Sumber pendanaan pun bisa berasal dari APBN, dana masyarakat dan pendapatan lainnya. Untuk itulah diperlukan suatu sistem akuntansi universitas sebagai pedoman dalam mengelola keuangan sehingga bisa mengahasilkan laporan yang akuntabel dan memadai.
+
+1.2 Rumusan Masalah Rumusan masalah dalam makalah ini adalah :
+1. Bagaimana sistem akuntansi universitas yang diterapkan universitas di Indonesia? 2. Bagaimana universitas menyusun laporan keuangannya dimulai dari pencatatan dan
+penjurnalan hingga pelaporannya?
+
+1
+
+BAB II PEMBAHASAN
+2.1 Pola Pengelolaan Keuangan Universitas
+Salah satu agenda reformasi keuangan negara adalah adanya pergeseran dari pengganggaran tradisional menjadi penganggaran berbasis kinerja. Penganggaran berbasis kinerja memiliki karakteristik bahwa arah penggunaan dana pemerintah tidak lagi berorientasi pada input tetapi pada output (Dwiyanto, 2005). Perubahan ini penting dalam rangka proses pembelajaran untuk menggunakan sumber daya pemerintah yang makin terbatas, tetapi tetap dapat memenuhi kebutuhan dana yang makin tinggi. Penganggaran yang berorientasi pada output merupakan praktik yang telah dianut luas oleh pemerintahan modern di berbagai negara. Selain itu, reformasi keuangan Negara juga dimaksudkan untuk menjamin terciptanya transparansi dan akuntabilitas publik.
+Program inovasi pengelolaan perguruan tinggi ini bertujuan agar perguruan tinggi bisa mengembangkan perannya baik dalam menghasilkan lulusan yang bermutu, unggul, dan produktif, menghasilkan ilmu pengetahuan dan teknologi yang bermanfaat bagi masyarakat, pembangunan daerah dan nasional, serta menjadi pemersatu bangsa dan mengawal perjalanan demokratisasi bangsa. Perguruan tinggi harus mandiri (otonom), sehat, dan bermutu. Pembentukan badan hukum milik negara yang telah dimulai sejak tahun 2000 memerlukan kerangka hukum agar otonomi bisa efektif dalam meningkatkan tata kelola perguruan tinggi disertai dengan akuntabilitas yang terukur.
+Sesuai dengan amanat UU No. 20 Tahun 2003 Tentang Sisdiknas, program peningkatan tata kelola, akuntabilitas, dan citra publik pendidikan tinggi dilaksanakan melalui penyusunan perangkat hukum operasional dalam rangka mencapai status badan hukum perguruan tinggi sebagai bentuk otonomi yang paling optimal, akuntabel, dan dengan penekanan bahwa institusi pendidikan bersifat nirlaba. Sebagai bagian dari transisi menuju perguruan tinggi yang berbadan hukum dan mandiri, pemerintah mendorong PTN untuk membentuk Badan Layanan Umum (BLU) agar lebih efektif dan efisien dalam mengelola keuangannya.
+Terbitnya Peraturan Pemerintah (PP) No. 23 Tahun 2005 tentang Pengelolaan Keuangan Badan Layanan Umum (BLU) merupakan amanat Pasal 69 ayat (7) UU No. 1 Tahun 2004 tentang Perbendaharaan Negara. PP tersebut bertujuan untuk meningkatkan pelayanan publik
+2
+
+oleh Pemerintah, karena sebelumnya tidak ada pengaturan yang spesifik mengenai unit pemerintahan yang melakukan pelayanan kepada masyarakat yang pada saat itu bentuk dan modelnya beraneka macam. Jenis BLU di sini antara lain rumah sakit, lembaga pendidikan, pelayanan lisensi, penyiaran, dan lain-lain. Prinsip-prinsip pokok yang tertuang dalam kedua undang-undang tersebut menjadi dasar penetapan instansi pemerintah untuk menerapkan pengelolaan keuangan BLU. BLU ini diharapkan dapat menjadi langkah awal dalam pembaharuan manajemen keuangan sektor publik, demi meningkatkan pelayanan pemerintah kepada masyarakat.
+Perguruan Tinggi Negeri di Indonesia seharusnya telah menerapkan manajemen keuangan berbasis kinerja agar terjadi keseragaman dalam mengikuti aturan menteri keuangan sehingga menjamin transparansi dan akuntabilitas publik. Meskipun demikian, berdasarkan pengamatan dan informasi yang diketahui, sistem keuangan yang sekarang diterapkan masih belum berbasis kinerja. Sejumlah fenomena yang tampak antara lain pembagian kompensasi, insentif atau kesejahteraan lainnya hanya didasarkan pada prinsip pemerataan sehingga seringkali menjadi pemicu munculnya kecemburuan sosial yang berdampak terhadap menurunnya kinerja pegawai. Fenemona lainnya yang pengelolaannya cenderung tidak transparan adalah penyusunan anggaran yang tidak melibatkan dan koordinasi dengan pimpinan terkait, serta penunjukkan langsung kegiatan ditentukan tanpa mengikuti peraturan yang berlaku. Kondisi ini disinyalir kurang mendukung proses transparansi dan akuntabilitas seperti yang dipersyaratkan dalam sistem BLU.
+2.1.1. Badan Hukum (PTN BH) Perguruan Tinggi Negeri Badan Hukum (PTN BH) adalah Perguruan Tinggi Negeri yang didirikan oleh Pemerintah yang berstatus sebagai subyek hukum yang otonom (PMK No. 225 Tahun 2014). Kesiapan untuk melaksanakan pengelolaan perguruan tinggi secara otonom tersebut ditunjukkan melalui evaluasi diri yang menyeluruh baik dalam aspek program akademik, sumberdaya manusia (SDM), sarana-prasarana, maupun keuangan. Namun, pemberian otonomi tidak berarti pemerintah melepaskan diri dari tanggung jawab di bidang pendidikan.
+Pemerintah membuka kemungkinan secara selektif kepada Perguruan Tinggi Negeri yang dinilai sudah memiliki kemampuan pengelolaan yang mencukupi untuk dapat memiliki kemandirian, otonomi dan tanggung jawab yang lebih besar untuk diubah status hukumnya menjadi Badan Hukum Milik Negara (BHMN) yang dapat berperan sebagai kekuatan moral
+3
+
+dalam proses pembangunan masyarakat madani yang lebih demokratis dan mampu bersaing secara global. Perguruan Tinggi Negeri berstatus Badan Hukum tetap menjadi aset negara yang berharga untuk memperbaiki citra bangsa.
+Perguruan Tinggi Negeri yang berstatus sebagai Badan Hukum merupakan bentuk perguruan tinggi yang memiliki lima prinsip utama dalam penyelenggaraannya, yaitu kualitas, otonomi, akuntabilitas, akreditasi, dan evaluasi. Kelima prinsip tersebut akhirnya menjadi paradigma baru bagi pendidikan tinggi di Indonesia. Dalam rangka melaksanakan prinsip akuntabilitas, PTN BH harus memberikan laporan tahunan berupa (PMK No. 225 Tahun 2014):
+a. Laporan keuangan yang meliputi neraca, laporan arus kas, dan laporan perubahan aktiva bersih
+b. Laporan akademik berupa penelitian dan pengabdian kepada masyarakat yang meliputi keadaan, kinerja, serta hasil-hasil yang telah dicapai universitas
+c. Laporan ketenagakerjaan universitas yang meliputi keadaan, kinerja, dan kemajuan yang telah dicapai.
+Laporan tahunan tersebut disampaikan kepada Majelis Wali Amanat sebagai lembaga tertinggi dalam Perguruan tinggi berstatus sebagai Badan Hukum. Pengelolaan keuangan bagi PTN Badan Hukum Tahun Anggaran 2014 dalam Peraturan Menteri Keuangan Nomor 225/PMK.05/2014 Tahun 2014 berlaku untuk:
+a. Institut Teknologi Bandung b. Institut Pertanian Bogor c. Universitas Gadjah Mada d. Universitas Indonesia e. Universitas Pendidikan Indonesia f. Universitas Sumatera Utara g. Universitas Airlangga.
+Dan tambahan universitas berdasarkan PP Nomor 80, 81, 82,dan 83 Tahun 2014 tanggal 17 Oktober 2014 yaitu:
+a. Universitas Padjajaran (Unpad) b. Universitas Diponegoro (Undip) c. Universitas Hasanudin (Unhas) d. Institut Teknologi Surabaya (ITS).
+4
+
+Agar penerimaan dan penggunaan dana Universitas dapat disajikan dengan akuntabel dan transparan maka Universitas setiap akhir semester dan akhir tahun buku menyusun 3 (tiga) laporan keuangan:
+1. Laporan Keuangan yang menyampaikan pertanggungjawaban penggunaan Dana APBN yang menggunakan Standar Akuntansi Pemerintah
+2. Laporan Keuangan yang menyampaikan pertanggungjawaban penggunaan Dana Masyarakat yang menggunakan Standar Akuntansi Keuangan
+3. Laporan Keuangan Universitas secara keseluruhan yaitu Laporan Keuangan yang berisikan pertanggungjawaban penggunaan Dana APBN dan Dana Masyarakat.
+Penyusunan Laporan Keuangan Universitas menggunakan basis akrual. Artinya standar akuntansi tersebut mengakui pendapatan, beban, aset, utang, dan ekuitas dalam pelaporan finansial berbasis akrual, serta mengakui pendapatan, belanja, dan pembiayaan dalam pelaporan pelaksanaan anggaran berdasarkan basis yang ditetapkan dalam APBN/APBD yang dimodifikasi sesuai dengan Standar Akuntansi Keuangan Indonesia. Semua ketentuan dalam Standar Akuntansi Keuangan berlaku untuk pelaporan keuangan universitas kecuali sesuai dengan spesifik dinyatakan lain.
+Prosedur pengelolaan keuangan Perguruan Tinggi Badan Hukum menetapkan bahwa semua penerimaan yang bersumber dari Anggaran Pendapatan dan Belanja Negara (APBN) disimpan atau disetorkan ke kas Negara (KPPN). Penerimaan yang bersumber dari APBD Pemerintah Provinsi dan APBD Pemerintah Kabupaten/Kota, Dana Masyarakat (bersumber dari SPP mahasiswa dan lainlain), serta usaha/penjualan jasa universitas dan lain-lain disetorkan ke Rekening Universitas, untuk dimanfaatkan menurut keperluannya dengan mengacu kepada anggaran yang telah disahkan. Pimpinan Universitas menetapkan alokasi dan batas alokasi anggaran seperti misalnya bagian pembiayaan honorarium, kegiatan administrasi pemeliharaan, pengembangan staf, dan lain-lain.
+2.1.2. Badan Layanan Umum BLU adalah instansi di lingkungan Pemerintah yang dibentuk untuk memberikan pelayanan kepada masyarakat berupa penyediaan barang dan jasa yang dijual tanpa mengutamakan mencari keuntungan dan dalam melakukan kegiatannya didasarkan pada prinsip efisiensi dan produktivitas. Badan Layanan Umum menerapkan sistem informasi manajemen keuangan sesuai dengan kebutuhan dan praktek bisnis yang sehat. Setiap transaksi keuangan badan layanan umum harus diakuntansikan dan dokumen pendukungnya dikelola secara tertib.
+5
+
+Demikian pula akuntansi dan laporan keuangan badan layanan umum diselenggarakan sesuai dengan standar akuntansi keuangan yang diterbitkan oleh asosiasi profesi akuntansi Indonesia. Dalam hal tidak terdapat standar akuntansi, badan layanan umum dapat menerapkan standar akuntansi industri yang spesifik setelah mendapat persetujuan menteri keuangan. Berarti, penggunaan standar akuntansi industri spesifik tidak boleh digunakan secara langsung oleh Badan Layanan Umum, karena dapat dibatalkan atau batal demi hukum diakibatkan tidak ada persetujuan menteri keuangan. DIPA Badan Layanan Umum sekurangkurangnya memuat:
+a. seluruh pendapatan dan belanja BLU; b. proyeksi arus kas; c. jumlah dan kualitas barang dan/atau jasa yang dihasilkan; d. rencana penarikan dana yang bersumber dari APBN; e. besaran persentase ambang batas sebagaimana ditetapkan dalam RBA definitif.
+Dalam hal DIPA BLU belum disahkan oleh Menteri Keuangan, BLU dapat melakukan pengeluaran paling tinggi sebesar angka dokumen pelaksanaan anggaran tahun lalu. DIPA BLU yang telah disahkan oleh Menteri Keuangan menjadi lampiran dari contractual performance agreement yang ditandatangani oleh menteri/pimpinan lembaga dengan pimpinan BLU yang bersangkutan dan sekaligus menjadi dasar penarikan dana. Pengelolaan Penerimaan Negara Bukan Pajak (PNBP) pada Badan Layanan Umum mengikuti pedoman sebagai berikut:
+a. Pada BLU Penuh Satuan kerja berstatus BLU Penuh diberikan fleksibilitas pengelolaan keuangan, antara lain dapat langsung menggunakan seluruh PNBP dari pendapatan operasional dan nonopersaional, di luar dana yang yang bersumber dari APBN, sesuai RBA tanpa terlebih dahulu disetorkan ke Rekening Kas Negara. Apabila PNBP melebihi target yang ditetapkan dalam RBA tetapi masih dalam ambang batas fleksibilitas, kelebihan tersebut dapat digunakan langsung mendahului pengesahan revisi DIPA. Terhadap kelebihan PNBP yang melampaui ambang batas fleksibilitas, dapat digunakan dalam tahun berjalan setelah mendapat persetujuan Menteri Keuangan c.q. Dirjen Perbendaharaan atau menjadi saldo awal tahun berikutnya.
+6
+
+b. Pada BLU Bertahap Satuan kerja berstatus BLU Bertahap dapat menggunakan PNBP sebesar persentase yang telah ditetapkan. Sedangkan PNBP yang dapat digunakan langsung adalah sebesar persentase yang ditetapkan dalam Keputusan Menteri Keuangan tentang penetapan satker yang menerapkan PK-BLU yang bersangkutan. Satuan kerja berstatus BLU Bertahap menyetor penerimaan PNBP yang tidak digunakan langsung ke Rekening Kas Negara secepatnya. PNBP yang telah disetor dapat dipergunakan kembali sebesar selisih antara PNBP yang dapat digunakan dengan PNBP yang telah digunakan langsung.
+Sistem akuntansi adalah serangkaian prosedur baik manual maupun terkomputerisasi mulai dari proses pengumpulan data, pencatatan, pengikhtisaran sampai pelaporan posisi keuangan dan operasi keuangan. BLU setidak-tidaknya mengembangkan tiga sistem akuntansi yang merupakan sub sistem dari sistem akuntansi BLU, yaitu sistem akuntansi keuangan, sistem akuntansi aset tetap, dan sistem akuntansi biaya.
+Sistem Akuntansi Keuangan menghasilkan laporan keuangan pokok berupa Laporan Realisasi Anggaran/Laporan Operasional, Neraca, Laporan Arus Kas, dan Catatan atas Laporan Keuangan sesuai dengan Standar Akuntansi Keuangan (SAK) yang ditetapkan oleh asosiasi profesi akuntansi Indonesia /standar akuntansi industri spesifik dan Standar Akuntansi Pemerintahan (SAP).
+Laporan keuangan sesuai dengan SAK digunakan untuk kepentingan pelaporan kepada pengguna umum laporan keuangan BLU dalam hal ini adalah stakeholders, yaitu pihak-pihak yang berhubungan dan memiliki kepentingan dengan BLU. Sedangkan laporan keuangan yang sesuai dengan SAP digunakan untuk kepentingan konsolidasi laporan keuangan BLU dengan laporan keuangan kementerian negara/lembaga.
+Sistem Akuntansi Aset Tetap menghasilkan laporan tentang aset tetap untuk keperluan manajemen aset. Sistem ini menyajikan informasi tentang jenis, kuantitas, nilai, mutasi, dan kondisi aset tetap milik BLU ataupun bukan milik BLU tetapi berada dalam pengelolaan BLU. Pengembangan Sistem Akuntansi Aset Tetap diserahkan sepenuhnya kepada BLU yang bersangkutan. Namun demikian, BLU dapat menggunakan sistem yang ditetapkan oleh Menteri Keuangan seperti Sistem Akuntansi Barang Milik Negara (SABMN).
+BLU mengembangkan Sistem Akuntansi Biaya yang menghasilkan informasi tentang harga pokok produksi, biaya satuan (unit cost) per unit layanan, dan evaluasi varian. Sistem
+7
+
+Akuntansi Biaya berguna dalam perencanaan dan pengendalian, pengambilan keputusan, dan perhitungan tarif layanan.
+Pimpinan BLU bertanggung jawab atas penyusunan dan penyajian laporan keuangan BLU yang disertai dengan surat pernyataan tanggung jawab yang berisikan pernyataan bahwa pengelolaan anggaran telah dilaksanakan berdasarkan sistem pengendalian intern yang memadai, akuntansi keuangan telah diselenggarakan sesuai dengan standar akuntansi keuangan, dan kebenaran isi laporan keuangan merupakan tanggung jawab pimpinan BLU.
+BLU menyusun laporan keuangan berdasarkan Standar Akuntansi Keuangan (SAK). BLU merupakan satker kementerian negara/lembaga, oleh karena itu laporan keuangan BLU dikonsolidasikan dengan laporan keuangan kementerian negara/lembaga. Konsolidasi laporan keuangan dapat dilakukan jika digunakan prinsip-prinsip akuntansi yang sama. BLU menggunakan SAK sedangkan laporan keuangan kementerian negara/lembaga menggunakan SAP, karena itu BLU mengembangkan sub sistem akuntansi yang mampu menghasilkan laporan keuangan untuk memenuhi kebutuhan tersebut. Komponen Laporan Keuangan BLU yang dikonsolidasikan ke dalam laporan keuangan kementerian negara/lembaga meliputi, Laporan Realisasi Anggaran/ Laporan Operasional dan Neraca.
+2.2 Penyusunan Laporan Keuangan Universitas PTN BH
+Sebagaimana dinyatakan dalam pasal 14 Peraturan Menteri Keuangan Nomor 225 tahun 2014 tentang Pengelolaan Keuangan Perguruan Tinggi Negeri Berbadan Hukum Tahun Anggaran 2014, laporan keuangan PTN Badan Hukum Tahun Anggaran 2014 disajikan sesuai dengan Standar Akuntansi Keuangan yang diterbitkan oleh asosiasi profesi akuntansi yang berkedudukan di Indonesia. Laporan keuangan tersebut terdiri dari:
+a. Laporan Aktivitas/Operasional; b. Neraca; c. Laporan Arus Kas; dan d. Catatan atas Laporan Keuangan.
+Di samping itu, dalam rangka konsolidasi laporan keuangan, PTN Badan Hukum menyusun Laporan Keuangan berdasarkan Sistem Akuntansi Instansi yang terdiri dari:
+a. Laporan Realisasi Anggaran; b. Neraca; dan c. Catatan atas Laporan Keuangan.
+8
+
+Laporan keuangan berdasarkan SAI ini disusun dengan mengacu pada Peraturan Menteri Keuangan Nomor 76 Tahun 2008 tentang Pedoman Akuntansi dan Pelaporan Keuangan Badan Layanan Umum. Laporan keuangan yang disusun berdasarkan Standar Akuntansi Keuangan tersebut menjadi lampiran dari laporan keuangan yang dihasilkan dari Sistem Akuntansi Instansi.
+Pembahasan terkait pelaporan keuangan universitas yang disusun dengan mengacu pada Peraturan Menteri Keuangan Nomor 76 Tahun 2008 tentang Pedoman Akuntansi dan Pelaporan Keuangan Badan Layanan Umum tersebut akan dibahas secara mendalam pada subbab C. Pelaporan Keuangan Universitas BLU. Oleh karena ini, subbab ini akan berfokus pada pembahasan laporan keuangan universitas yang disusun berdasarkan Standar Akuntansi Keuangan di Indonesia.
+2.2.1 Format Laporan Keuangan
+1. Dasar Penyusunan Laporan Keuangan Universitas PTN BH Sebagaimana telah dijelaskan sebelumnya, laporan keuangan universitas PTN BH disusun berdasarkan Standar Akuntansi Keuangan di Indonesia. Di samping itu, pasal 62 Undangundang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi menyatakan bawa Perguruan Tinggi memiliki otonomi untuk mengelola sendiri lembaganya sebagai pusat penyelenggaraan Tridharma. Selanjutnya, pasal 63 Undang-undang tersebut menyatakan bahwa otonomi pengelolaan Perguruan Tinggi dilaksanakan berdasarkan prinsip: a. akuntabilitas; b. transparansi; c. nirlaba; d. penjaminan mutu; dan e. efektivitas dan efisiensi.
+Prinsip "nirlaba" sebagaimana dinyatakan dalam huruf c di atas menjadi dasar bagi Universitas PTN BH untuk menggunakan Pernyataan Standar Akuntansi Keuangan (PSAK) 45 (Revisi 2011) tentang Pelaporan Keuangan Entitas Nirlaba sebagai dasar dalam penyusunan pelaporan keuanganya. Paragraf 9 PSAK 45 tersebut mengatur bahwa jenis-jenis laporan keuangan entitas nirlaba adalah sebagai berikut.
+a. Laporan posisi keuangan (neraca); b. Laporan aktivitas; c. Laporan arus kas; dan
+9
+
+d. Catatan atas laporan keuangan.
+Bagiamana keempat laporan keuangan tersebut disusun dalam praktik di lapangan dapat dilihat pada Lampiran 1: Laporan Keuangan Universitas Indonesia Tahun 2014. Adapun pembahasan secara teorits atas setiap jenis laporan keuangan tersebut adalah sebagai berikut.
+
+2. Laporan Posisi Keuangan (Neraca) Paragraf 10 PSAK 45 menyatakan bahwa laporan posisi keuangan bertujuan untuk menyediakan informasi mengenai aset, liabilitas, serta aset neto dan informasi mengenai hubungan di antara unsur-unsur tersebut pada waktu tertentu. Informasi dalam laporan posisi keuangan yang digunakan bersama pengungkapan, dan informasi dalam laporan keuangan lainnya dapat membantu para penyumbang, anggota entitas nirlaba, kreditor, dan pihak-pihak lain untuk menilai: a. kemampuan entitas nirlaba untuk memberikan jasa secara berkelanjutan; dan b. likuiditas, fleksibilitas keuangan, kemampuan untuk memenuhi kewajibannya, dan kebutuhan pendanaan eksternal.
+
+Laporan posisi keuangan mencakup entitas nirlaba secara keseluruhan dan menyajikan total aset, liabilitas, dan aset neto. Format laporan posisi keuangan bagi universitas PTN BH yang disusun berdasarkan PSAK 45 adalah sebagai berikut.
+
+Gambar 2.1 Format Laporan Posisi Keuangan Universitas PTN BH
+Universitas XYZ Laporan Posisi Keuangan
+Per 31 Desember 20xx (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+ASET
+
+Aset Lancar
+
+Kas dan Setara Kas
+
+xxx
+
+Uang Muka
+
+xxx
+
+Investasi Jangka Pendek
+
+xxx
+
+Piutang (setelah dikurangi penyisihan piutang
+
+ragu-ragu)
+
+xxx
+
+Biaya Dibayar Di Muka
+
+xxx
+
+Persediaan
+
+xxx
+
+Jumlah Aset Lancar
+
+xxx
+
+Aset Tidak Lancar
+
+Investasi Jangka Panjang
+
+xxx
+
+Aset Tetap (setelah dikurangi akumulasi
+
+penyusutan)
+
+xxx
+
+Aset Lain-lain
+
+xxx
+
+10
+
+Jumlah Aset Tidak Lancar
+
+xxx
+
+Jumlah Aset
+
+xxx
+
+LIABILITAS DAN ASET NETO
+
+Liabilitas Jangka Pendek
+
+Hutang Pajak
+
+xxx
+
+Biaya yang Masih Harus Dibayar
+
+xxx
+
+Hutang Lain-lain
+
+xxx
+
+Jumlah Liabilitas Jangka Pendek
+
+xxx
+
+Liabilitas Jangka Panjang
+
+Hutang Lain-lain
+
+xxx
+
+Pendapatan Diterima Dimuka
+
+xxx
+
+Kewajiban Imbalan Paskakerja
+
+xxx
+
+Jumlah Liabilitas Jangka Panjang
+
+xxx
+
+Aset Neto
+
+Aset Neto Tidak Terikat
+
+xxx
+
+Aset Neto Terikat Temporer
+
+xxx
+
+Aset Neto Terikat Permanen
+
+xxx
+
+Jumlah Aset Neto
+
+xxx
+
+Jumlah Liabilitas dan Aset Neto
+
+xxx
+
+Sumber: Universitas Indonesia (2014).
+
+Karakteristik yang membedakan laporan posisi keuangan berdasarkan PSAK 45 di atas dengan laporan posisi keuangan yang disusun oleh perusahaan sektor privat adalah pada bagian pelaporan aset neto. Laporan posisi keuangan pada perusahaan sektor privat bukan menyajikan aset neto, melaikan ekuitas. Aset neto baik pada laporan keuangan universitas PTN BH maupun laporan keuangan entitas nirlaba lainnya terdiri atas tiga katagori sebagai berikut.
+
+a. Aset Neto Tidak Terikat Paragraf 18 PSAK 45 menyatakan bahwa aset neto tidak terikat umumnya meliputi pendapatan dari jasa, penjualan barang, sumbangan, dan dividen atau hasil investasi, dikurangi beban untuk memperoleh pendapatan tersebut. Batasan terhadap penggunaan aset neto tidak terikat dapat berasal dari sifat entitas nirlaba (dalam hal ini universitas PTN BH). Informasi mengenai batasan-batasan tersebut umumnya disajikan dalam catatan atas laporan keuangan.
+
+Contoh aset neto tidak terikat sebagaimana dilaporkan dalam Laporan Keuangan Universitas Indonesia (2014:30) adalah aset neto yang dapat berasal dari - pendapatan biaya pendidikan,
+
+11
+
+- pendapatan APBN, - pendapatan penelitian, - pendapatan seminar dan pelatihan, dan - lain-lain.
+b. Aset Neto Terikat Temporer Paragraf 17 PSAK 45 menyatakan bahwa pembatasan temporer terhadap (1) sumbangan berupa aktivitas operasi tertentu, (2) investasi untuk jangka waktu tertentu, (3) penggunaan selama periode tertentu di masa depan, atau (4) pemerolehan aset tetap, dapat disajikan sebagai unsur terpisah dalam kelompok aset neto yang penggunaannya dibatasi secara temporer atau disajikan dalam catatan atas laporan keuangan. Pembatasan temporer oleh penyumbang dapat berbentuk pembatasan waktu dan/atau pembatasan penggunaan.
+Adapun contoh aset neto terikat temporer dalam laporan keuangan universitas PTN BH adalah sebagaimana yang dilaporkan dalam Laporan Keuangan Universitas Indonesia (2014:31), yaitu: - aset neto terikat temporer yang berasal dari penelitian, - aset neto terikat temporer yang berasal dari beasiswa, dan - aset neto terikat temporer yang berasal dari hibah/sumbangan.
+c. Aset Neto Terikat Permanen Paragraf 16 PSAK 45 menyatakan bahwa pembatasan permanen terhadap (1) aset, seperti tanah atau karya seni, yang disumbangkan untuk tujuan tertentu, untuk dirawat dan tidak untuk dijual, atau (2) aset yang disumbangkan untuk investasi yang mendatangkan pendapatan secara permanen dapat disajikan sebagai unsur terpisah dalam kelompok aset neto yang penggunaanya dibatasi secara permanen atau disajikan dalam catatan atas laporan keuangan. Pembatasan permanen kelompok kedua tersebut berasal dari hibah atau wakaf dan warisan yang menjadi dana abadi (endowment).
+3. Laporan Aktivitas Paragraf 19 PSAK 45 menyatakan bahwa tujuan utama laporan aktivitas adalah menyediakan informasi mengenai: a. pengaruh transaksi dan peristiwa lain yang mengubah jumlah dan sifat aset neto, b. hubungan antartransaksi, dan peristiwa lain, serta
+12
+
+c. bagaimana penggunaan sumber daya dalam pelaksanaan berbagai program atau jasa.
+
+Informasi dalam laporan aktivitas yang digunakan bersama dengan pengungkapan informasi dalam laporan keuangan lainnya, dapat membantu para penyumbang, anggota entitas nirlaba, kreditur, dan pihak lainnya untuk: a. mengevaluasi kinerja dalam suatu periode, b. menilai upaya, kemampuan, dan kesinambungan entitas nirlaba dan memberikan jasa,
+serta c. menilai pelaksanaan tanggung jawab dan kinerja manajer.
+
+Laporan aktivitas mencakup entitas nirlaba secara keseluruhan dan menyajikan perubahan jumlah aset neto selama suatu periode. Perubahan aset neto dalam laporan aktivitas tercermin pada aset neto atau ekuitas dalam posisi keuangan. Format laporan aktivitas bagi universitas PTN BH yang disusun berdasarkan PSAK 45 adalah sebagai berikut.
+
+Gambar 2.2 Format Laporan Aktivitas Universitas PTN BH Universitas XYZ Laporan Aktivitas
+Untuk Tahun yang Berakhir 31 Desember 20xx (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+PERUBAHAN ASET NETO TIDAK TERIKAT
+
+Pendapatan
+
+Operasional
+
+xxx
+
+APBN
+
+xxx
+
+Hibah/Sumbangan
+
+xxx
+
+Lain-lain
+
+xxx
+
+xxx
+
+Aset Neto yang Berakhir Pembatasannya
+
+xxx
+
+Jumlah Pendapatan
+
+xxx
+
+Beban
+
+Operasional
+
+xxx
+
+Penyusutan dan Amortisasi
+
+xxx
+
+Lain-lain
+
+xxx
+
+Jumlah Beban
+
+xxx
+
+Kenaikan (Penurunan) Aset Neto Tidak Terikat
+
+xxx
+
+PERUBAHAN ASET NETO TERIKAT TEMPORER
+
+Pendapatan Operasional Hibah/Sumbangan Lain-lain
+Aset Neto Terbebaskan dari Pembatasan Jumlah Pendapatan
+
+xxx xxx xxx xxx (xxx) xxx
+
+13
+
+Kenaikan (Penurunan) Aset Neto Terikat Temporer
+PERUBAHAN ASET NETO TERIKAT PERMANEN Pendapatan Lain-lain Aset Neto Terbebaskan dari Pembatasan Jumlah Pendapatan Kenaikan (Penurunan) Aset Neto Terikat Permanen
+KENAIKAN (PENURUNAN) ASET NETO Aset Neto Awal Tahun Koreksi Saldo Awal Kenaikan (Penurunan Efek Tersedia untuk Dijual) Aset Neto Akhir Tahun
+Sumber: Universitas Indonesia (2014).
+
+xxx
+xxx (xxx)
+xxx xxx xxx xxx xxx xxx xxx
+
+Berdasarkan format laporan aktivitas di atas, laporan tersebut menyajikan jumlah perubahan aset neto terikat permanen, terikat temporer, dan tidak terikat dalam suatu periode. Paragraf 23, 24, dan 25 PSAK 45 mengatur perlakuan akuntansi pendapatan, beban, serta keuntungan dan kerugian sebagai berikut.
+
+a. Pendapatan diakui sebagai penambah aset neto tidak terikat, kecuali jika penggunaannya dibatasi oleh penyumbang, dan menyajikan beban sebagai pengurang aset neto tidak terikat.
+b. Sumbangan disajikan sebagai penambah aset neto tidak terikat, terikat permanen, atau terikat temporer, bergantung pada ada tidaknya pembatasan. Sumbangan terikat yang pembatasannya tidak berlaku lagi dalam periode yang sama, dapat disajikan sebagai sumbangan tidak terikat sepanjang disajikan secara konsisten dan diungkapkan sebagai kebijakan akuntansi.
+c. Keuntungan dan kerugian yang diperoleh dari investasi dan aset lain (atau liabilitas) diakui sebagai penambah atau pengurang aset neto tidak terikat, kecuali jika penggunaannya dibatasi.
+
+Paragraf 26 PSAK 45 menyatakan bahwa pengkalisifikasian pendapatan, beban, serta keuntungan dan kerugian dalam kelompok aset neto tidak menutup peluang adanya klasifikasi tambahan dalam laporan aktivitas. Misalnya, dalam suatu kelompok atau beberapa kelompok perubahan dalam aset neto, entitas nirlaba dapat mengklasifikasikan unsur-unsurnya menurut kelompok operasi atau nonoperasi, dapat dibelanjakan atau tidak dapat dibelanjakan, telah direalisasi atau belum direalisasi, berulang atau tidak berulang, atau dengan cara lain.
+
+14
+
+4. Laporan Arus Kas Paragraf 33 PSAK 45 menyatakan bahwa tujuan utama laporan arus kas adalah menyajikan informasi mengenai penerimaan dan pengeluaran kas dalam suatu periode. Format laporan arus kas bagi universitas PTN BH yang disusun berdasarkan PSAK 45 dengan pendekatan tidak langsung adalah sebagai berikut.
+
+Gambar 2.3 Format Laporan Arus Kas Universitas PTN BH
+Universitas XYZ Laporan Arus Kas Untuk Tahun yang Berakhir 31 Desember 20xx (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+ARUS KAS DARI AKTIVITAS OPERASI
+
+Kenaikan Aset Neto
+
+xxx
+
+Penyesuaian:
+
+Penyusutan
+
+xxx
+
+Koreksi Aset Neto
+
+xxx
+
+Imbalan Paskakerja
+
+xxx
+
+Laba (Rugi) Efek Tersedia untuk Dijual
+
+xxx
+
+Perubahan Modal Kerja:
+
+Uang Muka
+
+xxx
+
+Piutang
+
+xxx
+
+Biaya Dibayar Dimuka
+
+xxx
+
+Persediaan
+
+xxx
+
+Aset Lain-lain
+
+xxx
+
+Hutang Pajak
+
+xxx
+
+Biaya yang Masih Harus Dibayar
+
+xxx
+
+Hutang Lain-lain
+
+xxx
+
+Pendapatan Diterima Di Muka
+
+xxx
+
+Arusk Kas Bersih yang Diperoleh (Digunakan) dari Aktivitas Operasi
+
+xxx
+
+ARUS KAS DARI AKTIVITAS INVESTASI
+
+Perolehan Efek Tersedia untuk Dijual dan Dimiliki Hingga Jatuh Tempo
+
+xxx
+
+Pelepasan Efek Tersedia untuk Dijual dan Dimiliki Hingga Jatuh Tempo
+
+xxx
+
+Perolehan Aset Tetap
+
+xxx
+
+Arusk Kas Bersih yang Diperoleh (Digunakan) dari Aktivitas Investasi
+
+xxx
+
+ARUS KAS DARI AKTIVITAS PENDANAAN
+
+Pendanaan
+
+xxx
+
+Arusk Kas Bersih yang Diperoleh (Digunakan) dari Aktivitas
+
+Pendanaan
+
+xxx
+
+KENAIKAN (PENURUNAN) BERSIH KAS DAN SETARA KAS
+
+xxx
+
+KAS DAN SETARA KAS AWAL TAHUN
+
+xxx
+
+KAS DAN SETARA KAS AKHIR TAHUN
+
+xxx
+
+Sumber: Universitas Indonesia (2014).
+
+15
+
+Komponen dalam laporan arus kas tersebut adalah sebagaimana ditetapkan dalam PSAK 2 (Revisi 2013) tentang Laporan Arus Kas sebagai berikut. a. Aktivitas operasi
+Aktivitas operasi adalah Aktivitas penghasil utama pendapatan entitas dan aktivitas lain yang bukan merupakan aktivitas investasi dan pendanaan. Contoh aliran kas masuk dari aktivitas operasi antara lain adalah - penerimaan dari penjualan barang/jasa, royalti, pendapatan lain; - penerimaan dari pendapatan sewa, restitusi pajak; dan - penerimaan dari pemberian untuk bank dan penjualan sekuritas dari perusahaan
+efek.
+Sedangkan contoh aliran kas keluar dari aktivitas operasi antara lain adalah
+- pembayaran kepada pemasok barang dan jasa; - pembayaran untuk karyawan; - pembayaran klaim (asuransi), pembelian efek (perusahaan efek), pengembalian
+kredit (bank); dan - pembayaran biaya operasi.
+b. Aktivitas investasi Aktivitas investasi adalah perolehan dan pelepasan aset jangka panjang serta investasi lain yang tidak termasuk setara kas. Contoh aliran kas masuk dari aktivitas investasi antara lain adalah - penerimaan penjualan aset tetap, aset tidak berwujud dan aset jangka panjang lain; - penerimaan kas dari kontrak future/ forward, future untuk pendanaan; - penerimaan penjualan instrumen utang atau kas (selain diperdagangkan); dan - penerimaan kas dari pelunasan uang muka dan pinjaman dari pihak lain.
+Sedangkan contoh aliran kas keluar dari aktivitas investasi antara lain adalah
+- pembayaran kas untuk membeli aset tidak tetap, aset tidak berwujud, biaya pengembangan dikapiralisasi;
+- pembayaran kas dari kontrak future, forward, swap untuk aktivitas pendanaan; dan - pembayaran untuk membeli instrumen utang/ekuitas/ ventura selain untuk
+diperdagangkan.
+16
+
+c. Aktivitas pendanaan Aktivitas pendanaan adalah aktivitas yang mengakibatkan perubahan dalam jumlah serta komposisi kontribusi modal dan pinjaman entitas. Contoh aliran kas masuk dari aktivitas pendanaan antara lain adalah - penerimaan kas dari penerbitan saham; dan - penerimaan kas dari penerbitan obligasi, wesel, pinjaman jangka pendek dan jangka panjang, hipotek.
+Sedangkan contoh aliran kas keluar dari aktivitas pendanaan antara lain adalah
+- pembayaran kas kepada pemiliki untuk menarik atau menebus saham; - pelunasan pinjaman; dan - pembayaran kas oleh lessee untuk mengurangi saldo liabilitas terkait sewa
+pembiayaan.
+Di samping ketentuan dalam PSAK 2 tersebut, paragraf 34 PSAK 45 memberikan tambahan sebagai berikut. a. Aktivitas pendanaan:
+- penerimaan kas dari penyumbang yang penggunaannya dibatasi untuk jangka panjang;
+- penerimaan kas dari sumbangan dan penghasilan investasi yang penggunaannya dibatasi untuk pemerolehan, pembangunan dan pemeliharaan aset tetap, atau peningkatan dana abadi; dan
+- bunga dan dividen yang dibatasi penggunaannya untuk jangka panjang. b. Pengungkapan informasi mengenai aktivitas investasi dan pendanaan nonkas:
+sumbangan berupa bangunan atau aset investasi.
+5. Catatan atas Laporan Keuangan Catatan atas Laporan Keuangan meliputi penjelasan naratif atau rincian dari angka yang tertera dalam Laporan Aktivitas, Laporan Posisi Keuangan, dan Laporan Arus Kas. Catatan atas Laporan Keuangan juga mencakup informasi tentang kebijakan akuntansi yang dipergunakan oleh entitas pelaporan dan informasi lain yang diharuskan dan dianjurkan untuk diungkapkan di dalam Standar Akuntansi Keuangan serta ungkapanungkapan yang diperlukan untuk menghasilkan penyajian laporan keuangan secara wajar.
+17
+
+PSAK 1 (Revisi 2013) tentang Penyajian Laporan Keuangan menjelaskan bahwa catatan atas Laporan Keuangan mengungkapkan/menyajikan/menyediakan hal-hal sebagai berikut.
+
+a. Informasi dasar penyusunan laporan keuangan dan kebijakan akuntansi, seperti dasar pengukuran, kebijakan yang relevan, asumsi dalam estimasi;
+b. Informasi yang disyaratkan Standar Akuntansi Keuangan yang tidak disajikan di bagian mana pun dalam laporan keuangan;
+c. Informasi yang tidak disajikan di bagian mana pun dalam laporan keuangan, tetapi informasi tersebut relevan untuk memahami laporan keuangan.
+
+2.2.2 Jurnal-Jurnal Standar
+
+a. Jurnal penerimaan pendapatan pendaftaran ujian masuk D3 Bank tidak terikat Pendapatan tidak terikat-pendaftaran ujian masuk D3
+
+xxx xxx
+
+b. Jurnal penerimaan pendapatan SPP Bank tidak terikat Pendapatan tidak terikat-SPP
+
+xxx xxx
+
+c. Jurnal penerimaan pendapatan sewa gedung Bank tidak terikat Pendapatan tidak terikat-Sewa Gedung
+
+xxx xxx
+
+d. Jurnal penerimaan pendapatan hibah luar negeri terikat temporer
+
+Bank terikat temporer
+
+xxx
+
+Pendapatan terikat tempore-hibah luar negeri
+
+xxx
+
+e. Jurnal penerimaan pendapatan hibah dalam negeri terikat permanen
+
+Bank terikat permanen
+
+xxx
+
+Pendapatan terikat permanen-hibah dalam negeri
+
+xxx
+
+18
+
+f. Jurnal pembayaran beban honorarium mengajar Beban tidak terikat-honorarium mengajar Bank tidak terikat
+
+xxx xxx
+
+g. Jurnal pembayaran honorarium penyelenggaraan ujian skripsi
+
+Beban tidak terikat-penyelenggaraan ujian skripsi
+
+xxx
+
+Bank tidak terikat
+
+xxx
+
+h. Jurnal pembayaran honorarium penelitan terkait hibah luar negeri terikat temporer
+
+Beban terikat temporer-honorarium penelitian
+
+xxx
+
+Bank terikat temporer
+
+xxx
+
+i. Jurnal penempatan dana hibah dalam negeri terikat permanen pada investasi deposito
+
+12 bulan
+
+Investasi terikat permanen-deposito 12 bulan
+
+xxx
+
+Bank terikat permanen
+
+xxx
+
+2.3 Penyusunan Laporan Keuangan Universitas BLU Berdasarkan Peraturan Menteri Keuangan Nomor 76/PMK.05/2008 tentang Pedoman Akuntansi dan Pelaporan Keuangan Badan Layanan Umum, dalam rangka pertanggungjawaban atas pengelolaan keuangan dan kegiatan pelayanannya, Universitas BLU diwajibkan menyusun laporan keuangan dan laporan kinerja. Laporan keuangan sebagaimana dimaksud paling sedikit terdiri dari : Laporan Realisasi Anggaran/Laporan Operasional, Neraca, Laporan Arus Kas dan Catatan atas Laporan Keuangan.
+Undang-Undang Nomor 1 Tahun 2004 tentang Perbendaharaan Negara membuka koridor baru bagi penerapan basis kinerja ini di lingkungan pemerintah. Dalam Pasal 68 dan Pasal 69 Undang-Undang Nomor 1 Tahun 2004, instansi pemerintah yang tugas pokok dan fungsinya memberi pelayanan kepada masyarakat dapat menerapkan pola pengelolaan keuangan yang fleksibel dengan menonjolkan produktivitas, efisiensi, dan efektivitas. Instansi demikian, dengan sebutan umum sebagai Badan Layanan Umum (BLU), diharapkan menjadi contoh konkrit yang menonjol dari penerapan manajemen keuangan berbasis pada hasil (kinerja).
+Dengan pola pengelolaan keuangan BLU, fleksibilitas diberikan dalam rangka pelaksanaan anggaran, termasuk pengelolaan pendapatan dan belanja, pengelolaan kas, dan pengadaan
+19
+
+barang/jasa. Kepada BLU juga diberikan kesempatan untuk mempekerjakan tenaga profesional non PNS serta kesempatan pemberian imbalan jasa kepada pegawai sesuai dengan kontribusinya. Tetapi sebagai pengimbang, BLU dikendalikan secara ketat dalam perencanaan dan penganggarannya, serta dalam pertanggung jawabannya. Dalam Peraturan Pemerintah Nomor 23 Tahun 2005, BLU wajib menghitung harga pokok dari layanannya dengan kualitas dan kuantitas yang distandarkan oleh menteri teknis pembina.
+Demikian pula dalam pertanggung jawabannya, BLU harus mampu menghitung dan menyajikan anggaran yang digunakannya dalam kaitannya dengan layanan yang telah direalisasikan. Oleh karena itu, BLU berperan sebagai agen dari menteri/pimpinan lembaga induknya. Kedua belah pihak menandatangani kontrak kinerja (a contractual performance agreement), dimana menteri/ pimpinan lembaga induk bertanggung jawab atas kebijakan layanan yang hendak dihasilkan, dan BLU bertanggung jawab untuk menyajikan layanan yang diminta.
+Satuan kerja yang ditetapkan sebagai BLU mempunyai kewajiban untuk menyusun 2 (dua) laporan keuangan yaitu laporan keuangan berdasarkan SAK dan laporan keuangan berdasarkan SAP. Pembahasan terkait pelaporan keuangan universitas yang disusun dengan mengacu pada Peraturan Menteri Keuangan Nomor 76 Tahun 2008 tentang Pedoman Akuntansi dan Pelaporan Keuangan Badan Layanan Umum.
+2.3.1 Format Laporan Keuangan
+1. Dasar Penyusunan Laporan Keuangan Universitas BLU Sebagaimana telah dijelaskan sebelumnya, laporan keuangan universitas BLU disusun berdasarkan Standar Akuntansi Keuangan dan Standar Akuntansi Pemerintahan di Indonesia.
+Sistem akuntansi adalah serangkaian prosedur baik manual maupun terkomputerisasi mulai dari proses pengumpulan data, pencatatan, pengikhtisaran sampai pelaporan posisi keuangan dan operasi keuangan. BLU setidak-tidaknya mengembangkan tiga sistem akuntansi yang merupakan sub sistem dari sistem akuntansi BLU, yaitu sistem akuntansi keuangan, sistem akuntansi aset tetap, dan sistem akuntansi biaya.
+Sistem Akuntansi Keuangan menghasilkan laporan keuangan pokok berupa Laporan Realisasi Anggaran/Laporan Operasional, Neraca, Laporan Arus Kas, dan Catatan atas Laporan Keuangan sesuai dengan Standar Akuntansi Keuangan (SAK) yang ditetapkan
+20
+
+oleh asosiasi profesi akuntansi Indonesia /standar akuntansi industri spesifik dan Standar Akuntansi Pemerintahan (SAP).
+Laporan keuangan sesuai dengan SAK digunakan untuk kepentingan pelaporan kepada pengguna umum laporan keuangan BLU dalam hal ini adalah stakeholders, yaitu pihakpihak yang berhubungan dan memiliki kepentingan dengan BLU. Sedangkan laporan keuangan yang sesuai dengan SAP digunakan untuk kepentingan konsolidasi laporan keuangan BLU dengan laporan keuangan kementerian negara/lembaga.
+Sistem Akuntansi Aset Tetap menghasilkan laporan tentang aset tetap untuk keperluan manajemen aset. Sistem ini menyajikan informasi tentang jenis, kuantitas, nilai, mutasi, dan kondisi aset tetap milik BLU ataupun bukan milik BLU tetapi berada dalam pengelolaan BLU. Pengembangan Sistem Akuntansi Aset Tetap diserahkan sepenuhnya kepada BLU yang bersangkutan. Namun demikian, BLU dapat menggunakan sistem yang ditetapkan oleh Menteri Keuangan seperti Sistem Akuntansi Barang Milik Negara (SABMN).
+BLU mengembangkan Sistem Akuntansi Biaya yang menghasilkan informasi tentang harga pokok produksi, biaya satuan (unit cost) per unit layanan, dan evaluasi varian. Sistem Akuntansi Biaya berguna dalam perencanaan dan pengendalian, pengambilan keputusan, dan perhitungan tarif layanan.
+2. Laporan Posisi Keuangan (Neraca) Menurut PMK Nomor 76/PMK.05/2008, Tujuan utama neraca adalah menyediakan informasi tentang posisi keuangan BLU meliputi aset, kewajiban dan ekuitas pada tanggal tertentu. Informasi dalam neraca digunakan bersama-sama dengan informasi yang diungkapkan dalam laporan keuangan lainnya sehingga dapat membantu para pengguna laporan keuangan untuk menilai:
+a. Kemampuan BLU dalam memberikan jasa layanan secara berkelanjutan b. Likuiditas dan Solvabilitas
+c. Kebutuhan Pendanaan Eksternal
+Format laporan posisi keuangan bagi universitas BLU yang disusun berdasarkan PMK Nomor 76/PMK.05/2008 adalah sebagai berikut:
+21
+
+Gambar 2.4 Format Neraca Universitas BLU BLU Universitas XYZ Neraca Per 31 Desember 20xx
+(Disajikan dalam Rupiah, kecuali dinyatakan lain)
+ASET
+Aset Lancar Kas dan Setara Kas Bank Piutang Usaha
+Persediaan
+Biaya dibayar dimuka Investasi Jangka Pendek Jumlah Aset Lancar
+Aset Tidak Lancar Investasi Jangka Panjang Aset Tetap (setelah dikurangi akumulasi penyusutan) Aset Lain-lain
+Jumlah Aset Tidak Lancar
+Jumlah Aset
+LIABILITAS DAN EKUITAS
+Liabilitas Jangka Pendek Hutang Pajak Biaya yang Masih Harus Dibayar Hutang Lain-lain
+Jumlah Liabilitas Jangka Pendek
+Liabilitas Jangka Panjang Hutang Lain-lain Pendapatan Diterima Dimuka Uang Muka PPN
+Jumlah Liabilitas Jangka Panjang
+Ekuitas Tidak Terikat Ekuitas Awal Surplus dan Defisit Tahun Lalu Surplus dan Defisit Tahun Berjalan Ekuitas Donasi
+
+xxx xxx xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx xxx xxx xxx
+22
+
+Jumlah Ekuitas Tidak Terikat
+
+xxx
+
+Ekuitas Terikat Temporer
+
+xxx
+
+Ekuitas Terikat Permanen
+
+xxx
+
+Jumlah Ekuitas
+
+xxx
+
+Jumlah Liabilitas dan Ekuitas
+
+xxx
+
+Sumber: Laporan Keuangan (Audited) Universitas Soedirman Tahun 2011
+
+Karakteristik yang membedakan laporan posisi keuangan adalah pada ekuitas di neraca. Ekuitas adalah hak residual BLU atas aset setelah dikurangi seluruh kewajiban yang dimiliki. Ekuitas BLU terdiri atas:
+a. Ekuitas Tidak Terikat Ekuitas tidak terikat adalah ekuitas berupa sumber daya yang penggunaannya tidak dibatasi untuk tujuan tertentu. Ekuitas tidak terikat dinilai sebesar nilai buku ekuitas tidak terikat pada saat penetapan BLU. Contoh ekuitas tidak terikat meliputi: 1) Surplus dan Defisit Tahun Lalu Surplus dan Defisit Tahun Lalu merupakan akumulasi Surplus & Defisit pada periode-periode sebelumnya. 2) Surplus dan Defisit Tahun Berjalan Surplus dan Defisit Tahun Berjalan berasal dari seluruh pendapatan setelah dikurangi seluruh biaya pada tahun berjalan.
+b. Ekuitas Terikat Temporer Ekuitas terikat temporer adalah ekuitas berupa sumber daya ekonomi yang penggunaannya dan/atau waktunya dibatasi untuk tujuan tertentu dan/atau jangka waktu tertentu oleh pemerintah atau donatur. Pembatasan tersebut dapat berupa pembatasan waktu dan/atau pembatasan penggunaan ekuitas tersebut oleh BLU. Ekuitas terikat temporer diukur sebesar aset lancar non kas dikurangi total kewajiban baik kewajiban jangka pendek dan jangka panjang.
+c. Ekuitas Terikat Permanen Ekuitas terikat permanen adalah ekuitas berupa sumber daya yang penggunaannya dibatasi secara permanen untuk tujuan tertentu oleh pemerintah/donatur. Ekuitas terikat permanen di BLU meliputi:
+
+23
+
+1) Aset tetap sebelum dilaksanakan revaluasi yang diukur sebesar nilai buku pada saat penetapan BLU.
+2) Kenaikan aset tetap hasil revaluasi yang diukur dengan nilai wajar pada saat revaluasi aset.
+3) Aset lainnya. Ekuitas terikat permanen ini diukur sebesar nilai buku pada saat penetapan BLU.
+
+3. Laporan Realisasi Anggaran Berikut merupakan penjelasan mengenai Laporan Realisasi Anggaran menurut PMK Nomor 76/PMK.05/2008, yaitu:
+
+a. LRA menyajikan informasi tentang anggaran dan realsasi anggaran BLU secara tersanding yang menunjukkan tingkat capaian target-target yang telah disepakati dalam dokumen pelaksanaan anggaran.
+
+b. Laporan Realisasi Anggaran (LRA) mengungkapkan kegiatan keuangan pemerintah yang menunjukkan ketaatan terhadap APBN dengan menyajikan ikhtisar sumber, alokasi dan penggunaan sumber daya ekonomi yang dikelola oleh pemerintah pusat/daerah dalam satu periode pelaporan. LRA menggambarkan perbandingan antara anggaran dengan realisasinya dalam satu periode pelaporan. Format laporan realisasi anggaran bagi universitas BLU yang disusun berdasarkan Peraturan Pemerintah Nomor 71 Tahun 2010 tentang Standar Akuntansi Pemerintah adalah sebagai berikut:
+
+Gambar 2.5 Format Laporan Realisasi Anggaran
+
+Anggaran Realisasi (%)
+
+20x1
+
+20x1
+
+PENDAPATAN
+
+Pendapatan Jasa dan Layanan
+
+Pendapatan Jasa Layanan Pendidikan xxx
+
+xxx
+
+xx
+
+Pendapatan Jasa Layanan Lain
+
+xxx
+
+xxx
+
+xx
+
+Jumlah Pendapatan Jasa dan Layanan
+
+xxx
+
+xxx
+
+xx
+
+Hibah Hibah Terikat Hibah Tidak Terikat
+Jumlah Pendapatan Hibah
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xx
+
+Pendapatan APBN Operasional Investasi
+Jumlah Pendapatan APBN
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xx
+
+Realisasi 20x0
+xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx
+
+24
+
+Pendapatan Usaha Lainnya Hasil Kerja Sama Sewa Jasa Lembaga Keuangan
+Jumlah Pendapatan Usaha Lainnya Jumlah Pendapatan
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+BELANJA Belanja APBN Belanja Layanan Belanja Umum dan Administrasi
+Jumlah Belanja
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Surplus/Defisit
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+PEMBIAYAAN
+
+Penerimaan Pembiayaan
+
+Penerimaan Pinjaman Sektor
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Perbankan
+
+Penerimaan Pinjaman ­ Obligasi
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Jumlah Penerimaan Pembiayaan
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Pengeluaran Pembiayaan
+
+xx
+
+Pembayaran Pokok Pinjaman
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Perbankan
+
+Pembayaran Pokok Pinjaman ­
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Obligasi
+
+Jumlah Pengeluaran Pembiayaan
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Pembiayaan Neto
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Sisa Lebiha Anggaran Tahun Berjalan
+
+xxx
+
+xxx
+
+xx
+
+xxx
+
+Sumber: Peraturan Pemerintah Nomor 71 Tahun 2010
+
+Laporan Operasional menyajikan sekurang-kurangnya unsur-unsur sebagai berikut: a. Pendapatan
+Pendapatan adalah semua penerimaan Rekening Kas Umum Negara yang menambah ekuitas dana lancar dalam periode tahun anggaran yang bersangkutan yang menjadi hak pemerintah, dan tidak perlu dibayar kembali oleh pemerintah.
+
+b. Belanja Biaya adalah semua pengeluaran dari Rekening Kas Umum Negara yang mengurangi ekuitas dana lancar dalam periode tahun anggaran bersangkutan yang tidak akan diperoleh pembayarannya kembali oleh pemerintah.
+
+c. Transfer Transfer adalah penerimaan/pengeluaran uang dari suatu entitas pelaporan dari/kepada entitas pelaporan lain, termasuk dana perimbangan dan dana bagi hasil.
+
+25
+
+d. Surplus/defisit Surplus/defisit adalah selisih lebih/kurang antara pendapatan dan belanja selama satu periode pelaporan.
+e. Pembiayaan Pembiayaan adalah setiap penerimaan yang perlu dibayar kembali dan/atau pengeluaran yang akan diterima kembali, baik pada tahun anggaran bersangkutan maupun tahun-tahun anggaran berikutnya, yang dalam penganggaran pemerintah terutama dimaksudkan untuk menutup defisit atau memanfaatkan surplus anggaran.
+f. Sisa lebih/kurang pembiayaan anggaran Sisa lebih/kurang pembiayaan anggaran (SiLPA/SiKPA) adalah selisih lebih/kurang antara realisasi penerimaan dan pengeluaran APBN selama satu periode pelaporan.
+4. Laporan Operasional a. Laporan Operasional menyajikan informasi tentang operasi BLU mengenai sumber, alokasi dan pemakaian sumber daya ekonomi yang dikelola oleh BLU. Laporan operasional dapat berupa laporan aktivitas atau laporan surplus defisit.
+b. Informasi dalam LRA dan Laporan Operasional, digunakan bersama-sama dengan informasi yang diungkapkan dalam komponen laporan keuangan lainnya sehingga dapat membantu para pengguna laporan keuangan untuk: 1) Mengevaluasi keputusan mengenai alokasi sumber-sumber daya ekonomi 2) Menyediakan informasi mengenai sumber, alokasi dan pengggunaan sumber daya ekonomi 3) Menyediakan informasi mengenai realisasi anggaran secara menyeluruh yang berguna dalam mengevaluasi kinerja BLU dalam hal efisiensi dan efektifitas pengguna anggaran. 4) Laporan Realisasi Anggaran menggambarkan realisasi pendapatan, belanja, dan pembiayaan selama suatu periode.
+Laporan Operasional menyajikan ikhtisar sumber, alokasi, dan penggunaan sumber daya ekonomi yang dikelola oleh pemerintah pusat/daerah dalam satu periode pelaporan. Format Laporan Operasional bagi universitas BLU yang disusun berdasarkan PMK Nomor 76/PMK.05/2008 adalah sebagai berikut:
+26
+
+Gambar 2.6 Format Laporan Operasional Universitas BLU BLU Universitas XYZ Laporan Operasional
+Untuk Tahun yang Berakhir 31 Desember 20xx (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+PENDAPATAN Pendapatan Jasa dan layanan Pendapatan Jasa Layanan Pendidikan Pendapatan Jasa Layanan Lain
+Hibah Hibah Terikat Hibah Tidak Terikat
+Pendapatan APBN Operasional Investasi
+Pendapatan Usaha Lainnya Hasil Kerja Sama Dengan Pihak Lain Sewa Jasa Lembaga Keuangan
+Jumlah Pendapatan
+Biaya Biaya APBN Biaya Layanan Biaya Umum dan Administrasi
+Jumlah Biaya
+Surplus/Defisit Sebelum Keuntungan/Kerugian
+Keuntungan/Kerugian Keuntungan Penjualan Aset Tetap Rugi Penjualan Aset Tetap Rugi Penurunan Nilai
+Jumlah Keuntungan/Kerugian Surplus/Defisit Sebelum Pos-Pos Luar Biasa Pos-Pos Luar Biasa
+Pendapatan dan Kejadian Luar Biasa
+
+xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx
+xxx xxx xxx xxx xxx
+xxx xxx xxx xxx
+xxx
+xxx xxx xxx xxx xxx
+xxx
+27
+
+Biaya dan Kejadian Luar Biasa
+
+xxx
+
+Jumlah Pos-Pos Luar Biasa
+
+xxx
+
+SURPLUS/DEFISIT TAHUN BERJALAN BERSIH
+
+xxx
+
+SURPLUS/DEFISIT TAHUN BERJALAN DILUAR PENDAPATAN APBN
+
+xxx
+
+Sumber: Laporan Keuangan (Audited) Universitas Soedirman Tahun 2011
+
+Laporan Operasional menyajikan sekurang-kurangnya unsur-unsur sebagai berikut: a. Pendapatan
+Pendapatan adalah arus masuk bruto dari manfaat ekonomi yang timbul dari aktivitas operasional selama satu periode yang mengakibatkan penambahan ekuitas bersih.
+b. Biaya Beban adalah penurunan manfaat ekonomi selama satu periode akuntansi dalam bentuk arus keluar kas atau berkurangnya aset atau terjadinya kewajiban yang mengakibatkan penurunan ekuitas bersih.
+5. Laporan Arus Kas Menurut PMK Nomor 76/PMK.05/2008, tujuan utama laporan arus kas adalah menyediakan informasi mengenai sumber, penggunaan, perubahan kas dan setara kas selama periode akuntnasi serta saldo kas dan setara kas pada tanggal pelaporan. Arus kas dikelompokkan dalam aktivitas operasi, investasi dan pendanaan.
+Infomasi dalam laporan arus kas digunakan bersama-sama dengan inforamsi yang diungkapkan dalam laporan keuangan lainnya sehingga dapat membantu para pengguna laporan keuangan untuk menilai: a) Kemampuan BLU dalam menghasilkan kas dan setara kas b) Sumber dana BLU c) Penggunaan dana BLU d) Prediksi kemampuan BLU untuk memperoleh sumber dana serta pengunannya di
+masa yang akan datang.
+Format Laporan Arus Kas sebagaimana diatur dalam PMK Nomor 76/PMK.05/2008 adalah sebagaimana diilustrasikan dalam gambar 2.7 berikut.
+
+28
+
+Gambar 2.7 Format Laporan Arus Kas Universitas BLU BLU Universitas XYZ Laporan Arus Kas
+Untuk Tahun yang Berakhir 31 Desember 20xx (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+ARUS KAS DARI AKTIVITAS OPERASI
+
+Arus Kas Masuk
+
+xxx
+
+Pendapatan Usaha dari Jasa Layanan
+
+xxx
+
+Pendapatan Hibah
+
+xxx
+
+Pendapatan APBN (Rupiah Murni)
+
+xxx
+
+Pendapatan Usaha Lainnya
+
+xxx
+
+Arus Kas Keluar
+
+Belanja APBN
+
+xxx
+
+Biaya Layanan
+
+xxx
+
+Biaya Umum dan Administrasi
+
+xxx
+
+Pengeluaran Investasi Jangka Pendek
+
+xxx
+
+Biaya Lainnya
+
+xxx
+
+Arusk Kas Bersih dari Aktivitas Operasi
+
+xxx
+
+ARUS KAS DARI AKTIVITAS INVESTASI
+
+Arus Kas Masuk
+
+xxx
+
+Hasil Penjualan Aset Tetap
+
+xxx
+
+Hasil Penjualan Investasi Jangka Panjang
+
+xxx
+
+Hasil Penjualan Aset Lainnya
+
+xxx
+
+Arus Kas Keluar
+
+Perolehan Aset Tetap
+
+xxx
+
+Perolehan Investasi Jangka Panjang
+
+xxx
+
+Perolehan Aset Lainnya
+
+xxx
+
+Arus Kas Bersih dari Aktivitas Investasi
+
+xxx
+
+ARUS KAS DARI AKTIVITAS PENDANAAN
+
+Arus Kas Masuk
+
+xxx
+
+Tambahan Ekuitas Awal
+
+xxx
+
+Arus Kas Keluar
+
+Penyetoran Kembali ke Kas Negara
+
+xxx
+
+29
+
+Penurunan Ekuitas Awal
+
+xxx
+
+Arus Kas Bersih dari Aktivitas Pendanaan
+
+xxx
+
+KENAIKAN (PENURUNAN) BERSIH KAS DAN xxx
+SETARA KAS
+
+KAS DAN SETARA KAS AWAL TAHUN
+
+xxx
+
+JUMLAH SALDO KAS
+
+xxx
+
+Sumber: Laporan Keuangan (Audited) Universitas Soedirman Tahun 2011
+
+6. Catatan atas Laporan Keuangan Menurut PMK Nomor 76/PMK.05/2008, tujuan utama Catatan atas Laporan Keuangan adalah memberikan penjelasan dan analisis atas informasi yang ada di LRA/laporan operasional, neraca, laporan arus kas dan informasi tambahan lainnya seringga para pengguna mendapatkan pemahaman yang paripurna atas laporan keuangan BLU.
+Informasi dalam Catatan atas Laporan Keuangan mencakup antara lain:
+1) Pendahuluan, 2) Kebijakan Akuntansi 3) Penjelasan atas pos-pos lapran Realisasi Anggaran/ Laporan Operasional 4) Penjelasan atas pos-pos neraca 5) Kewajiban Kontijensi 6) Informasi tambahan dan pengungkapan lainnya.
+Laporan keuangan pokok diatas disertai dengan Laporan Kinerja yang menjelaskan secara ringkas dan lengkap tentang capaian kinerja yang berisikan ringkasan keluaran dari masing-masing kegiatan dan hasil yang dicapai dari masing-masing program yang disusun dalam Rencana Bisnis dan Anggaran.
+Catatan atas Laporan Keuangan (CaLK) adalah bagian yang tak terpisahkan dari laporan keuangan yang menyajikan informasi tentang penjelasan pos-pos laporan keuangan dalam rangka pengungkapan yang memadai. CaLK ditujukan agar laporan keuangan dapat dipahami dan dibandingkan dengan laporan keuangan entitas lainnya. CaLK sekurangkurangnya disajikan dengan susunan sebagai berikut:
+
+30
+
+a. Informasi tentang kebijakan fiskal/keuangan, ekonomi makro, pencapaian target, berikut kendala dan hambatan yang dihadapi dalam pencapaian target;
+b. Ikhtisar pencapaian kinerja keuangan selama tahun pelaporan; c. Informasi tentang dasar penyusunan laporan keuangan dan kebijakan-kebijakan
+akuntansi yang dipilih untuk diterapkan atas transaksi-transaksi dan kejadian-kejadian penting lainnya; d. Pengungkapan informasi yang diharuskan oleh PSAP yang belum disajikan dalam lembar muka laporan keuangan; e. Pengungkapan informasi untuk pos-pos aset dan kewajiban yang timbul sehubungan dengan penerapan basis akrual atas pendapatan dan belanja dan rekonsiliasinya dengan penerapan basis kas; f. Informasi tambahan yang diperlukan untuk penyajian yang wajar, yang tidak disajikan dalam lembar muka laporan keuangan.
+CaLK meliputi penjelasan atau daftar terinci atau analisis atas nilai suatu pos yang disajikan dalam LRA, Neraca, dan LAK. Termasuk pula dalam CaLK adalah penyajian informasi yang diharuskan dan dianjurkan oleh SAP serta pengungkapan-pengungkapan lainnya yang diperlukan untuk penyajian yang wajar atas laporan keuangan, seperti kewajiban kontinjensi dan komitmen-komitmen lainnya.
+Bagian kebijakan akuntansi pada CaLK setidak-tidaknya menjelaskan hal-hal sebagai berikut: a. basis pengukuran yang digunakan dalam penyusunan laporan keuangan; b. sampai sejauh mana kebijakan-kebijakan akuntansi yang berkaitan dengan ketentuan-
+ketentuan masa transisi SAP diterapkan oleh suatu entitas pelaporan; dan c. setiap kebijakan akuntansi tertentu yang diperlukan untuk memahami laporan
+keuangan.
+Untuk menentukan apakah suatu kebijakan akuntansi perlu diungkapkan, manajemen harus mempertimbangkan apakah pengungkapan tersebut dapat membantu pengguna untuk memahami setiap transaksi yang tercermin dalam laporan keuangan. Kebijakankebijakan akuntansi yang perlu dipertimbangkan untuk disajikan meliputi, tetapi tidak terbatas pada, hal-hal sebagai berikut:
+a. Pengakuan pendapatan; b. Pengakuan belanja;
+31
+
+c. Prinsip-prinsip penyusunan laporan konsolidasian; d. Investasi; e. Pengakuan dan penghentian/penghapusan aset berwujud dan tidak berwujud; f. Kontrak-kontrak konstruksi; g. Kebijakan kapitalisasi pengeluaran; h. Kemitraan dengan fihak ketiga; i. Biaya penelitian dan pengembangan; j. Persediaan, baik yang untuk dijual maupun untuk dipakai sendiri; k. Dana cadangan; l. Penjabaran mata uang asing dan lindung nilai.
+
+Suatu entitas pelaporan juga dapat mengungkapkan hal-hal berikut ini apabila belum diinformasikan dalam bagian manapun dari laporan keuangan, yaitu:
+a. domisili dan bentuk hukum suatu entitas serta jurisdiksi dimana entitas tersebut beroperasi;
+b. penjelasan mengenai sifat operasi entitas dan kegiatan pokoknya; c. ketentuan perundang-undangan yang menjadi landasan kegiatan operasionalnya.
+
+2.3.2 Jurnal-Jurnal Standar
+Di bawah ini merupakan contoh jurnal standar yang khas dilakukan oleh Universitas BLU berdasarkan PMK Nomor 76/PMK.05/2008.
+
+a. Pendapatan Badan Layanan Umum Tunai Kas di Bendahara Penerimaan ... Pendapatan Badan Layanan Umum .....
+
+xxx xxx
+
+b. Pendapatan Badan Layanan Umum Kredit Piutang di Bendahara Penerimaan ... Pendapatan Badan Layanan Umum .....
+
+xxx xxx
+
+c. Pendapatan Hibah Dalam Negeri dan Luar Negeri Tunai Kas di Bendahara Penerimaan ... Pendapatan Hibah Dalam dan Luar Negeri
+
+xxx xxx
+
+32
+
+d. Pendapatan Hibah Dalam Negeri dan Luar Negeri Kredit Piutang pada ... Pendapatan Hibah Dalam dan Luar Negeri
+e. Pendapatan Hasil Usaha BLU lainnya Tunai Kas di Bendahara Penerimaan ... Pendapatan Hasil Usaha BLU lainnya
+f. Pendapatan Hasil Usaha BLU lainnya Kredit Piutang pada ... Pendapatan Hasil Usaha BLU lainnya
+g. Belanja Barang BLU Tunai Belanja Barang BLU... Kas di Bendahara Pengeluaran
+h. Belanja Barang BLU Tunai Kredit Belanja Barang BLU... Utang pada ....
+i. Belanja Modal BLU Tunai Belanja Modal BLU... Kas di Bendahara Pengeluaran
+j. Belanja Modal BLU Kredit Belanja Modal BLU... Utang pada ....
+
+xxx xxx
+xxx xxx
+xxx xxx
+xxx xxx
+xxx xxx
+xxx xxx
+xxx xxx
+
+33
+
+BAB III
+SIMPULAN
+3.1 Simpulan
+Saat ini ada dua kategori universitas pemerintah terkait pengelolaan keuangannya yaitu Universitas sebagai Badan Layanan Umum (BLU) dan Universitas sebagai Badan Hukum. Perguruan Tinggi Negeri Badan Hukum (PTN BH) adalah Perguruan Tinggi Negeri yang didirikan oleh Pemerintah yang berstatus sebagai subyek hukum yang otonom. Kesiapan untuk melaksanakan pengelolaan perguruan tinggi secara otonom tersebut ditunjukkan melalui evaluasi diri yang menyeluruh baik dalam aspek program akademik, sumberdaya manusia (SDM), sarana-prasarana, maupun keuangan. Namun, pemberian otonomi tidak berarti pemerintah melepaskan diri dari tanggung jawab di bidang pendidikan. Jenis Laporan Keuangan Universitas PTN BH terdiri dari Laporan posisi keuangan (neraca), Laporan aktivitas, Laporan arus kas dan Catatan atas laporan keuangan.
+BLU adalah instansi di lingkungan Pemerintah yang dibentuk untuk memberikan pelayanan kepada masyarakat berupa penyediaan barang dan jasa yang dijual tanpa mengutamakan mencari keuntungan dan dalam melakukan kegiatannya didasarkan pada prinsip efisiensi dan produktivitas. Badan Layanan Umum menerapkan sistem informasi manajemen keuangan sesuai dengan kebutuhan dan praktek bisnis yang sehat. Akuntansi dan laporan keuangan badan layanan umum diselenggarakan sesuai dengan standar akuntansi keuangan yang diterbitkan oleh asosiasi profesi akuntansi Indonesia. Jenis Laporan Keuangan Universitas BLU terdiri dari Laporan posisi keuangan (neraca), Laporan realisasi anggaran/Laporan Operasional, Laporan arus kas dan Catatan atas laporan keuangan.
+Setiap Universitas baik PTN BH maupun BLU diharuskan melaksanakan pelaporan keuangan sesuai dengan standar yang berlaku. Universitas BLU menerapkan Standar Akuntansi Keuangan dan Standar Akuntansi Pemerintah (PMK Nomor 76/PMK.05/2008) sedangkan Universitas BHMN menerapkan Standar Akuntansi Keuangan (PSAK 45) sebagai pedoman dalam pengelolaan dan pelaporan keuangan universitas.
+34
+
+DAFTAR PUSTAKA
+Laporan Keuangan UI Tahun 2013. Laporan Keuangan UNSOED Tahun 2011. Peraturan Menteri Keuangan Nomor 225 tahun 2014 tentang Pengelolaan Keuangan
+Perguruan Tinggi Negeri Berbadan Hukum Tahun Anggaran 2014. Peraturan Menteri Keuangan Nomor 76 tahun 2008 tentang Pedoman Akuntansi dan
+Pelaporan Keuangan Badan Layanan Umum. PSAK 1 (Revisi 2013) tentang Penyajian Laporan Keuangan. PSAK 2 (Revisi 2013) tentang Laporan Arus Kas. PSAK 45 (Revisi 2011) tentang Pelaporan Keuangan Entitas Nirlaba. Undang-undang Nomor 12 Tahun 2012 tentang Pendidikan Tinggi. Undang-undang Nomor 20 tahun 2003 tentang Sistem Pendidikan Nasional.
+35
+
+LAMPIRAN
+Lampiran 1: Laporan Keuangan Universitas Indonesia Tahun 2013 (Audited) Lampiran 2: Laporan Keuangan Universitas Jenderal Soedirman 2011 (Audited)
+36
+
+LAPORAN POSISI KEUANGAN STATEMENTS OF FINANCIAL POSITION
+
+UNIVERSITAS INDONESIA LAPORAN POSISI KEUANGAN PER 31 DESEMBER 2013 DAN 2012 (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+UNIVERSITAS INDONESIA STATEMENTS OF FINANCIAL POSITION
+AS OF DECEMBER 31, 2013 AND 2012 (Expressed in Rupiah, unless otherwise stated)
+
+ASET
+Aset Lancar
+Kas dan Setara Kas Uang Muka Investasi Jangka Pendek Piutang
+(setelah dikurangi penyisihan piutang ragu Rp. 9.936.492.889,pada tahun 2013 dan Rp. 10.523.497.087,pada tahun 2012) Biaya Dibayar di Muka Persediaan
+Jumlah Aset Lancar
+Aset Tidak Lancar
+Investasi Jangka Panjang Aset Tetap
+(setelah dikurangi akumulasi penyusutan Rp. 769.015.104.984,pada tahun 2013 dan Rp. 651.872.217.248,pada tahun 2012) Aset Lain-lain
+Jumlah Aset Tidak Lancar
+Jumlah Aset
+
+2013
+
+Catatan/ Notes
+
+2012
+
+ASSETS
+
+1.601.637.953.696 58.971.818.680 10.182.992.153
+48.023.161.901 1.665.901.031 6.849.282.954
+1.727.331.110.415
+
+2f, 3 4
+2g, 5
+2h, 6 7 2i, 8
+
+1.299.516.597.420 75.142.444.132 10.189.858.460
+48.996.642.110 1.661.616.340 3.793.316.574
+1.439.300.475.036
+
+Current Assets
+Cash and Cash Equivalents Advances
+Short-Term Investments Receivables
+(net of allowance for doubtfull account of
+Rp. 9.936.492.889,in 2013 and
+Rp. 10.523.497.087,in 2012)
+Prepaid Expenses Inventories
+Total Current Assets
+
+11.310.061.810 2j, 9
+
+11.102.980.191
+
+7.164.292.966.867 39.481.104.011
+7.215.084.132.688
+
+2k, 10 11
+
+7.010.211.506.159 33.595.497.585
+7.054.909.983.935
+
+Non-Current Assets
+Long-Term Investments Fixed Assets
+(net of accumulated depreciation of
+Rp. 769.015.104.984,in 2013 and
+Rp. 651.872.217.248,in 2012)
+Other Assets
+Total Non-Current Assets
+
+8.942.415.243.103
+
+8.494.210.458.971
+
+Total Assets
+
+Catatan atas laporan keuangan merupakan
+
+bagian yang tidak terpisahkan dari laporan
+
+keuangan secara keseluruhan
+
+1
+
+The accompanying notes form an integral part of these financial statement
+
+UNIVERSITAS INDONESIA LAPORAN POSISI KEUANGAN PER 31 DESEMBER 2013 DAN 2012 (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+UNIVERSITAS INDONESIA STATEMENTS OF FINANCIAL POSITION
+AS OF DECEMBER 31, 2013 AND 2012 (Expressed in Rupiah, unless otherwise stated)
+
+2013
+
+Catatan/ Notes
+
+2012
+
+LIABILITAS DAN ASET NETO
+
+Liabilitas Jangka Pendek
+Hutang Pajak Biaya Yang Masih Harus
+Dibayar Hutang Lain-lain
+Jumlah Liabilitas Jangka Pendek
+
+13.624.968.839 12 5.144.682.265 13
+85.830.209.468 14
+104.599.860.572
+
+18.640.559.301 6.559.027.379
+50.185.642.055
+75.385.228.735
+
+Liabilitas Jangka Panjang
+Hutang Lain-lain Pendapatan Diterima
+di Muka Kewajiban Imbalan
+Pascakerja
+Jumlah Liabilitas Jangka Panjang
+
+304.301.440 14 44.267.349.076 15 27.339.461.173 2l, 16 71.911.111.689
+
+499.651.300 46.247.829.541 35.224.671.673 81.972.152.514
+
+Aset Neto
+Aset Neto Tidak Terikat Aset Neto Terikat
+Temporer Aset Neto Terikat
+Permanen
+Jumlah Aset Neto
+
+2.774.877.562.206 17 136.183.589.636 18
+5.854.843.119.000 19 8.765.904.270.842
+
+2.405.054.402.469 79.109.301.253
+5.852.689.374.000 8.336.853.077.722
+
+Jumlah Liabilitas dan Aset Neto
+
+8.942.415.243.103
+
+8.494.210.458.971
+
+LIABILITIES AND NET ASSETS
+Current Liabilities Taxes Payable
+Accrued Expenses Other Payables Total Current Liabilities
+Non-Current Liabilities Other Payables
+Unearned Revenues Post-Employment
+Benefits Obligation Total Non-Current Liabilities
+Net Assets Unrestricted Net Assets
+Temporary Restricted Net Assets
+Permanent Restricted Net Assets
+Total Net Assets
+Total Liabilities and Net Assets
+
+Catatan atas laporan keuangan merupakan
+
+bagian yang tidak terpisahkan dari laporan
+
+keuangan secara keseluruhan
+
+2
+
+The accompanying notes form an integral part of these financial statement
+
+LAPORAN AKTIVITAS STATEMENTS OF ACTIVITIES
+
+UNIVERSITAS INDONESIA LAPORAN AKTIVITAS UNTUK TAHUN-TAHUN YANG BERAKHIR 31 DESEMBER 2013 DAN 2012 (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+UNIVERSITAS INDONESIA STATEMENTS OF ACTIVITIES
+FOR THE YEARS ENDED DECEMBER 31, 2013 AND 2012 (Expressed in Rupiah, unless otherwise stated)
+
+PERUBAHAN ASET NETO TIDAK TERIKAT
+Pendapatan Operasional APBN Hibah/ Sumbangan Lain-lain
+Aset Neto yang Berakhir Pembatasannya
+Jumlah Pendapatan
+Beban Operasional Penyusutan dan
+Amortisasi Lain-lain Jumlah Beban
+Kenaikan (Penurunan) Aset Neto Tidak Terikat
+PERUBAHAN ASET NETO TERIKAT TEMPORER
+Pendapatan Operasional Hibah/ Sumbangan Lain-lain
+Aset Neto Terbebaskan dari Pembatasan
+Jumlah Pendapatan
+Kenaikan (Penurunan) Aset Neto Terikat Temporer
+
+2013
+
+Catatan/ Notes
+
+2012
+
+CHANGES IN UNRESTRICTED
+NET ASSETS
+
+1.160.791.580.072 650.533.118.574 93.774.852.291 97.543.028.042
+2.002.642.578.979
+
+2m, 20 2m, 20 2m, 20 2m, 20
+
+1.172.532.172.862 529.318.827.486 71.132.576.630 50.179.619.975
+1.823.163.196.953
+
+7.335.431.153 20 2.009.978.010.132
+
+5.938.565.177 1.829.101.762.130
+
+Revenues Operating
+APBN Grants/ Donations
+Others
+Net Assets Ended of Restrictions
+Total Revenues
+
+1.493.784.202.319 2m, 21 1.309.775.575.062
+
+118.103.904.773 25.712.819.706
+1.637.600.926.798
+
+2m, 21 2m, 21
+
+118.073.555.470 29.676.511.073
+1.457.525.641.605
+
+Expenses
+Operating Depreciation and
+Amortization Others
+Total Expenses
+
+372.377.083.334
+
+371.576.120.525
+
+Increase (Decrease) in Unrestricted Net Assets
+
+CHANGES IN TEMPORARY RESTRICTED
+NET ASSETS
+
+7.744.048.413 55.531.496.670
+1.134.174.454
+64.409.719.537
+
+2m, 22 2m, 22 2m, 22
+
+(7.335.431.153) 22 57.074.288.384
+
+3.342.887.217 45.634.426.190
+102.163.044 49.079.476.451
+(5.938.565.177) 43.140.911.274
+
+Revenues Operating Grants/ Donations
+Others
+Net Assets Released from Restrictions Total Revenues
+
+57.074.288.384
+
+43.140.911.274
+
+Increase (Decrease) in Temporary Restricted
+Net Assets
+
+Catatan atas laporan keuangan merupakan
+
+bagian yang tidak terpisahkan dari laporan
+
+keuangan secara keseluruhan
+
+3
+
+The accompanying notes form an integral part of these financial statement
+
+UNIVERSITAS INDONESIA LAPORAN AKTIVITAS UNTUK TAHUN-TAHUN YANG BERAKHIR 31 DESEMBER 2013 DAN 2012 (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+UNIVERSITAS INDONESIA STATEMENTS OF ACTIVITIES
+FOR THE YEARS ENDED DECEMBER 31, 2013 AND 2012 (Expressed in Rupiah, unless otherwise stated)
+
+2013
+
+Catatan/ Notes
+
+2012
+
+PERUBAHAN ASET NETO TERIKAT PERMANEN
+
+CHANGES IN PERMANENT RESTRICTED
+NET ASSETS
+
+Pendapatan Lain-lain
+Aset Neto Terbebaskan dari Pembatasan
+Jumlah Pendapatan
+
+2.153.745.000 2m, 23 2.153.745.000
+0 23 2.153.745.000
+
+514.710.000 514.710.000
+0 514.710.000
+
+Revenues Others
+Net Assets Released from Restrictions Total Revenues
+
+Kenaikan (Penurunan) Aset Neto Terikat Permanen
+
+2.153.745.000
+
+514.710.000
+
+Increase (Decrease) in Permanent Restricted
+Net Assets
+
+KENAIKAN (PENURUNAN) ASET NETO
+
+431.605.116.718
+
+415.231.741.799
+
+INCREASE (DECREASE) IN NET ASSETS
+
+ASET NETO AWAL TAHUN
+
+8.336.853.077.722
+
+7.925.344.715.726
+
+NET ASSETS AT THE BEGINNING OF YEAR
+
+Koreksi Saldo Awal Kenaikan (Penurunan)
+Efek Tersedia untuk Dijual
+
+(2.578.044.391) 24.120.793 24
+
+(3.802.190.482) 78.810.679
+
+Adjustment of Beginning Balance
+Increase (Decrease) In Available for Sale of Securities
+
+ASET NETO AKHIR TAHUN
+
+8.765.904.270.842
+
+8.336.853.077.722
+
+NET ASSETS AT THE END OF YEAR
+
+Catatan atas laporan keuangan merupakan
+
+bagian yang tidak terpisahkan dari laporan
+
+keuangan secara keseluruhan
+
+4
+
+The accompanying notes form an integral part of these financial statement
+
+LAPORAN ARUS KAS STATEMENTS OF CASH FLOWS
+
+UNIVERSITAS INDONESIA LAPORAN ARUS KAS UNTUK TAHUN-TAHUN YANG BERAKHIR 31 DESEMBER 2013 DAN 2012 (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+UNIVERSITAS INDONESIA STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2013 AND 2012 (Expressed in Rupiah, unless otherwise stated)
+
+ARUS KAS DARI AKTIVITAS OPERASI
+Kenaikan Aset Neto Penyesuaian: Penyusutan Koreksi Aset Neto Imbalan Pascakerja Laba (Rugi) Efek Tersedia
+untuk Dijual Perubahan Modal Kerja: Uang muka Piutang Biaya Dibayar di Muka Persediaan Aset Lain-lain Hutang Pajak Biaya Yang Masih Harus
+Dibayar Hutang Lain-lain Pendapatan Diterima di Muka
+Arus Kas Bersih yang Diperoleh (Digunakan) dari Aktivitas Operasi
+ARUS KAS DARI AKTIVITAS INVESTASI
+Perolehan Efek Tersedia untuk Dijual dan Dimiliki hingga Jatuh Tempo
+Pelepasan Efek Tersedia untuk Dijual dan Dimiliki hingga Jatuh Tempo
+Perolehan Aset Tetap
+Arus Kas Bersih yang Diperoleh (Digunakan) dari Aktivitas Investasi
+
+2013
+
+2012
+
+431.605.116.718
+118.103.904.773 (2.578.044.391) (7.885.210.500)
+24.120.793
+16.170.625.452 973.480.208 (4.284.691)
+(3.055.966.380) (5.885.606.426) (5.015.590.463)
+(1.414.345.114) 35.449.217.555 (1.980.480.465)
+
+415.231.741.799
+118.073.555.470 (3.802.190.482) 16.063.801.067
+78.810.679
+(4.219.626.287) (5.646.165.092) 1.440.200.042 (1.860.491.711) 3.186.179.645 2.388.156.961
+(11.437.022.942) 7.711.780.992 (2.118.609.769)
+
+574.506.937.069
+
+535.090.120.372
+
+0
+
+0
+
+(200.215.312) (272.185.365.481)
+
+(1.977.917.265) (244.337.046.425)
+
+(272.385.580.793) (246.314.963.690)
+
+CASH FLOWS FROM OPERATING ACTIVITIES
+Increase in Net Assets Adjustments: Depreciation
+Adjustment of Net Assets Post-Employment Benefits Gains (Losses) in Available
+for Sale Securities Changes in Work Capital:
+Advances Receivables Prepaid Expenses
+Inventories Other Assets Taxes Payable
+Accrued Expenses Other Payables
+Unearned Revenues
+Net Cash Flows Provided by (Used in) Operating Activities
+CASH FLOWS FROM INVESTING ACTIVITIES
+Acquisition of Securities Available for Sale and Held
+to Maturity Disposal of Securities Available for Sale and Held
+to Maturity Acquisition of Fixed Assets
+Net Cash Flows Provided by (Used in) Investing Activities
+
+Catatan atas laporan keuangan merupakan
+
+bagian yang tidak terpisahkan dari laporan
+
+keuangan secara keseluruhan
+
+5
+
+The accompanying notes form an integral part of these financial statement
+
+UNIVERSITAS INDONESIA LAPORAN ARUS KAS UNTUK TAHUN-TAHUN YANG BERAKHIR 31 DESEMBER 2013 DAN 2012 (Disajikan dalam Rupiah, kecuali dinyatakan lain)
+
+ARUS KAS DARI AKTIVITAS PENDANAAN
+Pendanaan
+Arus Kas Bersih yang Diperoleh (Digunakan) dari Aktivitas Pendanaan
+
+2013 0 0
+
+UNIVERSITAS INDONESIA STATEMENTS OF CASH FLOWS
+FOR THE YEARS ENDED DECEMBER 31, 2013 AND 2012 (Expressed in Rupiah, unless otherwise stated)
+
+2012 0 0
+
+CASH FLOWS FROM FINANCING ACTIVITIES
+Financing
+Net Cash Flows Provided by (Used in) Investing Financing
+
+KENAIKAN (PENURUNAN) BERSIH KAS DAN SETARA KAS
+KAS DAN SETARA KAS AWAL TAHUN
+KAS DAN SETARA KAS AKHIR TAHUN
+
+302.121.356.276 1.299.516.597.420 1.601.637.953.696
+
+288.775.156.682
+
+NET INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+
+1.010.741.440.738
+
+CASH AND CASH EQUIVALENTS AT BEGINNING OF YEAR
+
+1.299.516.597.420
+
+CASH AND CASH EQUIVALENTS AT
+END OF YEAR
+
+Catatan atas laporan keuangan merupakan
+
+bagian yang tidak terpisahkan dari laporan
+
+keuangan secara keseluruhan
+
+6
+
+The accompanying notes form an integral part of these financial statement
+
+CATATAN ATAS LAPORAN KEUANGAN NOTES TO THE FINANCIAL STATEMENTS
+
+BLU UNIVERSITAS JENDERAL SOEDIRMAN (UNSOED) PURWOKERTO
+N E RACA
+31 Desember2011 Dan 2010
+
+Ekshibit A-1
+
+ASE ASET LANCAR KAS BANK PIUTANG USAHA PERSEDIAAN BIAYA DIBAYAR DIMUKA INVESTASI JIWASRAYA SAVING PLAN "A' Jumlah Aset Lancar
+ASET TETAP Setelah dikurangi akumulasi penyusutan per 31 Desember 201 1 dan
+2010 masing-masing sebesar Rp 102,429,508,112.- dan Rp
+43,777,763,343.-
+ASET LAINNYA Aset Tak Benaujud
+TOTAL ASET
+
+3
+
+0
+
+3
+
+Rp 60,890,930,750 Rp
+
+4
+
+Rp
+
+8,582,193,794 Rp
+
+5
+
+Rp
+
+867,930,114 Rp
+
+0 48,446,944J02
+11,011,946,665 't,653,555,525
+
+6
+
+Rp
+
+750,000 Rp
+
+9,972,19s
+
+7
+
+Rp 20,000,000,000 Rp
+
+20,000,000,000
+
+Ep 90,341,804,658 Rp
+
+81.122.418.487
+
+8'2.i
+
+Rp 1,799,111,775,'t12 Rp
+
+9Rp
+Rp
+
+696,480,000 Rp 696,480,0A0 Rp
+
+Rp 1,890,150,059,
+
+1,741,748,196,564
+353,500,000 353,500,000
+
+KEWAJIBAN
+
+Utang Pajak Biaya Yang Masih Harus Dibayar Pendapatan Diterima Dimuka Uang Muka PPN Jumlah Kewajiban
+EKUITAS Ekuitas Tidak Terikat Ekuitas Awal Surp/us dan Defisit Tahun Lalu Surp/us Dan Defisit Tahun Berjalan Ekuitas Donasi Ekuitas Terikat Temporer Ekuitas Terikat Permanen Total Ekuitas
+TOTAL KEWAJIBAN DAN EKUITAS
+
+10
+
+Rp
+
+120,633,875 Rp
+
+11
+
+Rp
+
+4,799,687,138 Rp
+
+'t2
+
+Rp
+
+6,71s,642,456 Rp
+
+'t3
+
+Rp
+
+50,000 Rp
+
+Rp 1'1,636,013,469 Rp
+
+5,940,s23 461,760,867 1,039,529,S78
+'t,807,231,368
+
+14
+
+Rp 1,872,252,963,602 Rp
+
+1,815,455,800,985
+
+Rp 1,646,253,907,348 Rp
+
+1,714,934,350,828
+
+Rp 122,366,957,446 Rp
+
+Rp 1A2,793,501,308 Rp
+
+99,930,362,656
+
+Rp
+
+838,597,500 Rp
+
+5y,487,500
+
+15 Rp
+
+140,519,036 Rp
+
+140,519,036
+
+16 Rp
+
+6,120,563,663 Rp
+
+6,120,563.663
+
+Rp 1,878,514,046,301 Rp
+
+1,82't,716,883,684
+
+RP 1.S9OJ5O.OS$.ZZO NO
+
+1,823,224,1'|.5,O5'l
+
+Catatan atas Laporan Keuangan merupakan bagian yang tidak terpisahkan dari Laporan Keuangan
+Secara Keseluruhan
+
+BLU UNIVERSITAS JENDERAL SUDIRMAN (UNSOED) PURWOKERTO L{POR/A lAKTIVITAS
+Untuk Periode Yang Berakhir 31 Desember 201 1 Dan 2010
+
+Catatan
+
+20ll
+
+Ekshibit &2
+2010
+
+PENDAPATAN Pendapatan Jasa Layanan Pendapatan Jasa Layanan Pendidikan Pendapatan Jasa Layanan Lain Hibah Hibah Terikat Hibah Tidak Terikat Pendapatan APBN Operasional /nvesfasi Pendapa&n llsaha Lainnya Hasil Kerjasama Dengan Pihak Lain Sewa Jasa Lembaga Keuangan JUT{i.AH PENDAPATAN
+
+17
+
+Rp 123.515.803.720 Rp
+
+Rp 105.570.622.894 Rp
+
+Rp
+
+17.945180.926 Rp
+
+18
+
+Rp
+
+22.123.659.38i' Rp
+
+8p
+
+22.123.659.383 8p
+
+8p
+
+-8p
+
+19
+
+Rp 325./t59.1'f8.757 Rp
+
+Rp 227.49.938.461 Rp
+
+&p
+
+97.6@.210.296 fu
+
+20
+
+Rp
+
+4.291.959.739 Rp
+
+Rp
+
+Rp
+
+8@.391.477 8p
+
+Rp
+
+3.448.fi8.262 Rp
+
+Rp 475.356.fr1.599 Rp
+
+BIAYA
+
+BlayaAPBN
+
+21
+
+Biaya Pegawai
+
+Biaya Bardng
+
+BiayaMdal
+
+Biaya Bantuan Sosial
+
+Blaya Layanan
+
+Biaya pegawai
+
+22
+
+Biaya Bahan
+
+23
+
+Biaya Peneliharcan
+
+24
+
+Biaya Langganan Dapdan Jasa
+
+25
+
+Biaya Perjalanan
+
+26
+
+Biaya Layanan Lainnya
+
+27
+
+Blaya Umum dan Admlnbtrasl
+
+Biaya Pegawai
+
+28
+
+Biaya Administnsi Pe*antonn
+
+29
+
+Biaya Pemeliharaan
+
+30
+
+Biaya l-angganan Daya dan Jasa
+
+31
+
+Biaya Perjalanan
+
+32
+
+BiayaPrcmosi
+
+33
+
+Biaya Penyusutan
+
+34
+
+Biaya Umum dan Administasi Lainnya
+
+35
+
+JUTILAH BIAYA
+
+SURPLUS'DEFISIT SEBELUH KEUNTUNGAN'KERUGIAN
+
+KEUNruNGANTKERUGI,AN
+Keuntungan Peniualan A*t Tetap
+
+Rugi Penjualan Aset Tetap
+
+Rugi Penurunan Nilai
+
+SURPLUS'DEFISIT SEBELUH POSAOS LUAR BIASA
+
+POSflOS LT'AR BTASA
+
+Pedapatan dan Kejadian Luar Biasa
+
+BiaWdan Kejadian Luar Biasa
+EERSIH SURPLUSTITEFISITTAHUN BER.rAl-Altt APBN SURPLUSTDEFISIT TAHUN BER.TAI.AN DILUAR PENDAPATAN
+
+Rp 8p Rp 8Rpp Rp R8pp Rp 8p Rp Rp Rp Rp Rp Rp 8p 8p Rp Rp Rp Rp
+Rp Rp
+8p Rp
+Rp
+Rp
+RP
+Rp
+RP
+Rp Rp
+
+227.849.938.46, Rp
+
+112.378.096.489 Rp
+
+101.920.241.972 Rp
+-Rp
+
+13.551.600.000 Rp
+
+64.449.899.1'14 Rp
+
+27.983.558.923 Rp
+
+10.939.347.418 Rp
+
+1.827.9s3.301 8p
+178.w.197 8p
+1.191.059..862 Rp 22.329.470.4#t Rp
+
+80.263.232.687 Rp
+9.191.1a.440 Rp
+3.207.878.412 fu
+4.232.8A2317 Rp
+
+335.486.1@ Rp
+
+1.811.64.0.995 Ep 16.92A.@0 Rp
+
+58.651.744.768 8p
+
+2.815.595.595 8p
+
+372.563.070-292 102.793.s01.308
+
+R"Ap
+
+-Rp
+
+-Rp -Rp -Rp
+
+102.793.50r-308 Rp
+
+Rp
+
+Rp
+tu 102793.5{t1.308 Rp
+5.184.291.01't Rp
+
+@tatan atas Laponn Keuangan merupakan bagbn yang tidak tupiahkan dari Laporan Keuangan
+Secara Kexluruhan
+
+'t22.379.858.535 118.527_21289
+3.8s2.6/,6%6 18.872.032.845 18.714.3@.U5
+157.663.500 207.137.43.117 129.061.449.100
+78.675.994.017 t.786.245.38:!
+317.639_912 1.468.605.471 35{1.775.579.880
+r75.000.ss6.s1; 1N.367.413.981 26.252.#2.120
+1.525.054.U1 1.825.492.222 1.057.857.370 4.972346.285 75.844.5:t0.405 13.fi6.3w.418 5.923.320.517 3.396.349.614
+851.U1.39s 1.403-371.146 1.078.203.115
+$.777.7$.43
+5.908.180.857 2&.U5.21?.221
+99.930.362.656
+99.930.382.656
+99.930.362.656 21.254.368.0i19
+
+BLU UNIVERSITAS JENDERAL SOEDIRMAN (UNSOED) PURWOKERTO
+LAPORAN ARUS KAS Berakhir 3'1 Desember 20'l 1 Dan 2010
+
+Ekshibit C-3
+
+URAIAN
+
+2011
+
+20't0
+
+Arus Kas Dari Aktivitas Operasi Arus Kas Masuk
+Pendapatan Usaha dai Jasa Layanan
+Pendapatan Hibah Pendapatan APBN (Rupiah Mumi) Pendapatan Usaha Lainnya Arus Kas Keluar Belanja APBN Biaya Layanan Biaya Umum dan Administnsi Pengeluann lnvestasi Jangka Pendek (Jiwasraya Saving ptan ,,A,,) Biaya Lainnya Arus Kas Bersih Dari Aktivitas Operasi Arus Kas Dari Aktivitas lnvestasi Arus Kas Masuk Hasil Penjualan Aset Tetap Hasil Penjualan lnvestasi Jangka Panjang Hasil Penjualan Aset lainnya Arus Kas Keluar Perolehan Aset Tetap Perolehan lnvestasi jangka panjang Perolehan Aset Lainnya Arus Kas Bersih Dari Aktivitas lnvestasi Arus Kas Dari Aktivitas Pendanaan Arus Kas Masuk Tambahan Ekuitas Awal Arus Kas Keluar Penyetoran kembali ke kas negara Penurunan ekuitas awal Arus Kas Bersih Dari Aktivitas Pendanaan Kenaikan Bercih Kas Kas dan setara Kas Awal
+Jumlah Saldo Kas
+
+Rp 477,786,324,470 Rp
+
+Rp 123,515,803,720 Rp
+
+Rp
+
+22,123,659,383 Rp
+
+Rp 325,459,148,757 Rp
+
+Rp
+
+6,687,712,610 Rp
+
+Rp 302,987,695,817 Rp
+
+Rp 227,849,938,461 Rp
+
+Rp
+
+64,449,899,144 Rp
+
+Rp
+
+10,687,858,212 Rp
+
+Rp
+
+-Rp
+
+Rp
+
+-Rp
+
+Rp 174,798,628,653 Rp
+
+Rp
+
+-Rp
+
+Rp
+
+-Rp
+
+Rp
+
+Rp
+
+Rp
+
+-Rp
+
+Rp 116,358,303,317 Rp
+
+Rp 116,015,323,317 Rp
+
+Rp
+
+-Rp
+
+Rp
+
+s42,980,000 Rp
+
+Rp ({16,358,303,317) Rp
+
+350,775,579,880 122,379,858,535
+18,872,032,845 207,737,443,117
+1,786,245,383 247,330,430,600
+162,738,456,692 32,066,767,062 20,000,000,000 32,525,206,846 103,445,149,280
+101,062,936,51{ 99,942,134,746
+1,120,701,765 (101,062,836,511)
+
+Rp
+
+22,684,104,791 Rp
+
+Rp
+
+22,684JM,791 Rp
+
+Rp
+
+68,680,443,480 Rp
+
+Rp
+
+1,922,123,791 Rp
+
+Rp
+
+66,758,319,689 Rp
+
+Rp
+
+(45,996,338,689) Rp
+
+Rp
+
+12,443,986,648 Rp
+
+Rp
+
+48.446,944,1O2 RD
+
+Rp
+
+60,890,930,750 Rp
+
+46,543,449,588 46,543,449,588
+528,039,232 528,O39.232
+46,015,410,356 48,397,723,125
+49.220.977 48,446,944,102
+
+Catatan atas laporan Keuangan merupakan bagian yang tidak terpisahkan dari Laponn keuangan
+secaru keseluruhan

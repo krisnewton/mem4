@@ -1,0 +1,1350 @@
+The Conditional Clause in the Biblical Hebrew of the Pentateuch
+Thijs Amersfoort 24 July 2017
+
+Contents
+
+1. Introduction
+
+1
+
+1.1 Previous research
+
+1
+
+1.2 Problems with previous models
+
+2
+
+1.3 Definition of the conditional clause
+
+3
+
+1.4 Modality
+
+5
+
+1.5 Research outline
+
+6
+
+2. Particles
+
+7
+
+2.1 
+
+7
+
+2.1.1 In scholarly literature
+
+7
+
+2.1.2 Occurrences in the Pentateuch
+
+8
+
+2.1.3 Semantics in conditional sentences
+
+11
+
+2.1.4 In combinations
+
+11
+
+2.2  and  
+
+12
+
+2.2.1 In scholarly literature
+
+13
+
+2.2.2 Occurrences in the Pentateuch
+
+13
+
+2.2.3 Semantics in conditional sentences
+
+15
+
+2.2.4 In combinations
+
+15
+
+2.3 
+
+15
+
+2.3.1 In scholarly literature
+
+15
+
+2.3.2 Occurrences in the Pentateuch
+
+16
+
+2.3.3 Semantics in conditional sentences
+
+18
+
+2.3.4 In combinations
+
+19
+
+2.4   and 
+
+20
+
+2.4.1 In scholarly literature
+
+20
+
+2.4.2 Occurrences in the Pentateuch
+
+21
+
+2.4.3 Semantics in conditional sentences
+
+22
+
+2.5  
+
+22
+
+2.5.1 In scholarly literature
+
+22
+
+2.5.2 Occurrences in the Pentateuch
+
+22
+
+2.5.3 Semantics in conditional sentences
+
+23
+
+2.6 
+
+23
+
+2.6.1 In scholarly literature
+
+23
+
+2.6.2 Occurrences and semantics in conditional sentences
+
+23
+
+2.7 
+
+23
+
+2.7.1 In scholarly literature
+
+24
+
+2.7.2 Occurrences in the Pentateuch
+
+25
+
+2.7.3 Semantics in conditional sentences
+
+26
+
+3. Verbal forms
+
+27
+
+3.1 In scholarly literature
+
+27
+
+3.1.1 Problems with the Hebrew verbal forms
+
+27
+
+3.1.2 Background of modern theories of the BHVS
+
+28
+
+3.1.3 Tense, aspect, modality and discourse pragmatic theories
+
+29
+
+3.1.4 A modern view
+
+31
+
+3.1.4.1 Aspect
+
+31
+
+3.1.4.2 Tense
+
+33
+
+3.1.4.3 Mood and modality
+
+33
+
+3.1.4.4 Discourse pragmatics
+
+34
+
+3.2 Uses in conditional sentences
+
+35
+
+3.2.1 Protasis
+
+35
+
+3.2.1.1 qatal
+
+35
+
+3.2.1.2 yiqtol
+
+38
+
+3.2.1.3 Other verbal forms
+
+40
+
+3.2.1.4 No verb
+
+41
+
+3.2.2 Apodosis
+
+41
+
+3.2.1.1 qatal
+
+42
+
+3.2.1.2 yiqtol
+
+43
+
+3.2.1.3 Other verbal forms
+
+44
+
+3.2.1.4 No verb
+
+45
+
+4. A different approach
+
+46
+
+Abbreviations
+
+49
+
+Bibliography
+
+50
+
+1. Introduction
+The conditional clause is one of the most common clause types in Biblical Hebrew, and its understanding critical for accurate exegesis, translation and investigation. It comes in many
+different shapes, ranging from the straightforward clause found in Genesis 13:9,         'if (you pick) the left side, then I will go to the right', to oaths, where the normal meaning of
+the conditional particle seems changed from a positive to a negative connotation and part of the clause is missing. These and many different forms, which are discussed below, come with different semantics, and several studies and grammars have tried to group the conditional clauses by some of their characteristics to explain the different semantics. Different models have been proposed, but all have many exceptions. As Spradlin (1991: 1) notes, the grammars have failed to build a consensus approach to the subject and the multitude of strategies have only added to the confusion. Before the research question, methodology and outline are defined more clearly, an overview is given of previous research, problems with previous models and definitions of the conditional clause and modality.
+1.1 Previous research In the grammar of Wilhelm Gesenius, edited by Kautzsch (1910: §159), a system was proposed that divided all conditional sentences in two groups: capable of fulfillment and not capable of fulfillment, i.e. real and irreal conditional clauses. The distinction was based on the verbal form used in the protasis. When no particles are used in the protasis, the imperfect denotes a condition capable of fulfillment and the perfect a condition already fulfilled or impossible to fulfill. When
+particles are used,  followed by a perfect denotes a condition that is already fulfilled, while in
+combination with an imperfect or its equivalent it denotes a condition that is "possibly (or probably)
+occurring in the near future". If the particle  is used to denote a condition not fulfilled in the past, it
+is followed by a perfect, while for a condition not capable of fulfillment in present or future can be expressed by a perfect, a participle or even an imperfect.
+Friedrich (1884) again stated that the division between real and irreal conditions is produced
+mainly by the particles  and . His main contribution was not his model for real or irreal
+conditions, but the thorough analysis of the various forms of both the protasis and apodosis, and
+how they are connected. A weakness of the study is that he proposed that  originally was a
+question particle that only later developed in a conditional particle. Also, no solution is offered to the many exceptions to the particle based model.
+Driver (1892: 174-194) focused in his analysis of conditional sentences again on the verbs used, and distinguished between six categories: (1) A possible condition belonging to the real or potential future, expressed by an imperfect or participle in the protasis. (2) A possible condition either belonging to the remote or indefinite future, or extending up to de moment of speaking, expressed by the perfect in the protasis. (3) A condition not realized, expressed by a perfect in the protasis
+and apodosis, mainly after the particle . If, however, the imperfect is used, the conditional is
+realizable in present or future, making it an expression of either hope or fear. (4) A condition that might be conceivable, but also pure imaginary, expressed by an imperfect in both protasis and apodosis. Categories (5) and (6) are variations on (4) and are very rare. In (5) the protasis has a perfect, and in (6) it has a participle.
+1
+
+Later grammars had variations on these ideas. The grammar of Waltke O'Connor (1990 §30.5.4, §31.4, §38.2) again only distinguished between real and irreal conditional clauses and mainly
+focused on particles, with  used for irreal and  and other particles for real conditions. Of the
+verbal forms, it is stated that the perfect does not denote mood, real or irreal, which is expressed by particles. But the perfect is used in such contexts in conditional clauses. Likewise, for the imperfect, it is said that the context decides its modal nuances.
+Spradlin (1991: 144) proposed a model that looked at the verbal forms and their likeliness in both the protasis and apodosis. He distinguished five protasis classes: "definite (perfect verbs), probable (some participles and infinitives), possible (indicative and subjunctive imperfect verbs), impossible (negative particle with perfect protasis), and neutral (indicative imperfect verbs implying no outcome)". Likewise, there were five possible classes for the apodosis: "definite (perfect verbs), probable (some imperfects and infinitives), possible (some imperfects), impossible (negated perfects or imperfects), and neutral (indicative imperfect verb implying no outcome)." Adding to this list the separate class of the Biblical oath, he came up with a total of 26 classes. However, his model was based only on data from the book of Isaiah, and outside the book counterexamples are easily found.
+In the grammar of Joüon-Muraoka (2011), the main focus for classification is on real and irreal conditional clauses. The verbal forms are mentioned, but it is said that nothing particularly important can be noted for conditional clauses, except that they have their normal temporal value. The four types that are given are based on the relationship between the protasis and apodosis and say nothing about epistemic modality. Particles are the main factor that determines the likeliness of
+a condition, with again mostly  used for irreal and  and other particles for real conditions. The
+differences in the order of components is only mentioned, no reason is given.
+More general linguistic theories propose the same distinction. Palmer (2001: §8.1-3) also focusses on the distinction between 'real' and 'unreal' conditionals, and only discusses how various languages use different verbal forms to express these different types of conditions. Some languages only use the distinction in past and non-past tense to express real and unreal conditions, others use modal verb forms for this.
+All the previous models proposed a classification of conditional clauses in Biblical Hebrew in terms of their capability of fulfillment, and based their distinction primary on either verbal forms or particles.
+1.2 Problems with previous models As stated, all models proposed in previous research have numerous counterexamples. For
+example, in Num 22:18 we find a highly unlikely or even unrealizable condition introduced by 
+and an imperfect.
+[1.1]                                 
+If Balak will give me his house full of silver and gold, I could not go beyond the command of the Lord my God to do less or more.
+2
+
+This unlikely or even impossible condition with the particle  and an imperfect is not covered by
+any of the models proposed above. Also, all models base their categorization on either verbal forms or particles, but there are conditional sentences without verbal forms or without particles, which are not covered by such a model.
+
+The high number of counterexamples can be explained by two main problems found in all previous models. Firstly, all assume a direct relation between a single factor, either verbal forms or particles, and epistemic modality, while the many exceptions show that this is unlikely. There are many other factors that could play a role in determining the modality, such as ellipsis, word order, syntactic relations, auxiliary verbs, context and more. Secondly, the models are mostly lacking a modern view on tense, aspect and modality expressed by the verbal system, or a clear view of the use and exceptions of the particles involved, as well as a clear distinction between semantics and pragmatics.
+
+Likewise, a good definition of a conditional clause or of what is real or irreal is lacking. In sentences that use no conditional particle, the difference between conditional or circumstance clause becomes less clear. Also, generally, a verb is irreal if the reality of the situation is uncertain. However, for conditional clauses, when it is said that a condition is real, it is meant that it is capable of fulfillment, which means the reality of the condition is possible but uncertain.
+
+In this research, a different approach will be proposed, in which modality is not directly tied to morphology or lexemes. These and other factors all contribute to the semantics and possible modal nuances. In the next sections, some concepts will be defined more clearly.
+
+1.3 Definition of the conditional clause As stated above, there are some dubious cases, where a potential conditional clause has no conditional particle and could just as well be a circumstantial, causal or concessive clause. For example, in Gen 47:25 we read:
+
+[1.2]
+
+                       
+
+And they said, "You have made us live; if we/may we/we have found favor in the eyes of
+
+my lord, we will be servants to Pharaoh."
+
+From the text alone it is unclear whether a wish, a condition or just a statement is uttered.
+Likewise, the conditional particles are used in wishes or questions, as  in [1.3] and  in [1.4].
+
+[1.3] Gen 17:17
+                    
+Shall a child be born to a man who is a hundred years old? Shall Sarah, who is ninety years old, bear a child?
+
+[1.4] Gen 17:18 Oh, that Ishmael might live before you!
+
+          
+
+Several definitions have been proposed in previous research. Friedrich (1884: 1) states:
+
+3
+
+Unter Conditional- oder Bedingungssätzen versteht die Grammatik die Erweiterung des einfachen Behauptungssatzes, wonach das wirkliche Eintreten einer Sache von bestimmen Voraussetzungen abhängig gemacht wird. Likewise, Lambdin (1971: 276) states: Any two clauses, the first of which states a real or hypothetical condition, and the second of which states a real or hypothetical consequence thereof, may be taken as a conditional sentence Indeed, the most intuitive definition is that the conditional clause present a condition for the main clause to occur. However, this does not solve the difficulty of identifying a conditional clause in examples like [1.2]. Spradlin (1991: 4,5), partly citing Ferguson (1882: 40), gives a broader definition: A conditional sentence can be defined as a compound sentence in which the second clause is so limited by the first clause that it depends upon it to complete the understanding of the sentence. These clauses are mutually dependent; and either clause may be implied, but not written, in the text. This definition however is so broad it could include the circumstantial, causal or concessive clause as well, since 'depending on' another clause 'to complete the understanding' is to weak.
+In logic, a condition is represented as 'A > B'. This statement is true if whenever A is true, B is also true. Though logic and language work very differently in some cases, we can derive several characteristics of conditions: 1. A does not have to be true for the statement to hold. 2. 'A > B' is not the same as 'B > A'. 3. Since the operator '>' connects two propositions, 'A >' or '> B' is ill-formed.
+From (1) we derive that a condition presents alternatives and that the condition does not have to be factual, it is hypothetical. From (2) we derive that a condition differs from a simple conjunction in that A and B are not symmetrical. This means that the order generally cannot be reversed, since than the original consequence of the condition would become the condition of the original condition, which can only be true if both A and B, both condition and consequence, always cooccur, which would be equivalent to A = B. From (3) follows that [1.3] and [1.4] are no conditions, since they have no apodosis and do not imply any. As is noted in the definition by Spradlin, "either clause may be implied, but not written, in the text".
+However, Haiman (1993) argues these characteristics do not hold for all languages and conditional clauses. As an example, he gives a story from an old Spanish textbook, of a man that walks into a restaurant and orders a bottle of wine. When the wine is brought, he changes his mind, orders some fried eggs and potatoes instead, eats them and tries to walk away without paying. The waiter says to him:
+- Pay for the meal, my friend. - But if I exchanged it for a bottle of wine! - Then pay for the bottle of wine. - But if I didn't take it! - True, true.
+4
+
+As he argues, the if-sentences here are independent of any apodosis and are not hypothetical. One could supply an apodosis, like 'but if I exchanged it for a bottle of wine, why do you ask me to pay for the fried eggs and potatoes?' and 'but if I didn't take the wine, then why do you ask me to pay for the wine?', but this is not necessary in Spanish. This and other exceptions seem to ask for a new definition, and he argues that conditionals are actually topics in the sense of Chafe (1976), merely providing what is given before the consequence of it is presented. What is given can consequently be hypothetical or not.
+Indeed, all the counterexamples he gives for the standard theory fit in the definition of a conditional as a topic. However, a topic can be more than a conditional, since a cause clause can also be a topic, as can a circumstantial clause. Also, the mere fact that certain 'if-sentences' do not fit the definition for a conditional clause does not have to mean the definition is not broad enough, it can also mean that the word 'if' in a language can be used for more than just a conditional clause. Likewise, his argument that because in some languages 'if' and 'when' are the same word, not all conditional clauses are hypothetical, does not hold. The ability of a language to distinguish between them says nothing about the correctness of the concept of conditions.
+The difference between a circumstantial and a conditional clause is that while a conditional clause gives an alternative situation that causes the event in the main clause to take place, the circumstantial clause gives the background, concomitant events, of the main clause. While a concomitant event can also be a condition, it is not stated as such in the text. Also, the circumstantial clause is not hypothetical. The difference between a casual clause and a conditional clause is likewise that the conditional clause is hypothetic. A casual clause gives no alternatives. A concessive can be hypothetical and therefore both classes have some overlap, but one may wonder if a concessive fits the intuitive idea of a condition, since a concessive states that despite a condition, something is going to happen. This means, a concessive states that the two clauses present independent events. Still, for concessive statements, 'A > B' holds, and it is presented as a true condition. The only thing that makes the reader interpreted it as a concessive statement, is that at the same time, '(not A) > B' is implied. This makes it a proper subclass of conditional clauses.
+Thus, the logical statement 'A > B' and the three characteristics of conditions derived earlier properly define what was intuitively described by Friendrich and Lambdin. Unfortunately, for example [1.2] it is still hard to decide if it presents a condition or not solely based on this definition, so this should be decided from the context. Such a decision however is always subjective. For [1.2], we could argue that it is meant as a condition, since from other passages it becomes clear that "If I found favor in your eyes" is used as a polite formula to ask a favor of a person with equal or higher social status, and it most often occurs with the conditional particle. The condition asks the other person to be so kind to listen to the expressed wish only if he is in favor with that person.
+1.4 Modality As among others, Palmer (2001: §1.1) and Cook (2012: §1.6) state that, besides aspect and tense, a language has capabilities of expressing mood and modality. Where time gives the temporal location and aspect the temporal structure, mood and modality give the temporal existence and the speakers attitude towards an event. With mood, the realis : irrealis opposition is expressed in the
+5
+
+classical languages by verbal morphology (e.g. indicative, subjunctive, optative, imperative), but in some languages, it is expressed by other means, such as clitics and particles. Modality is most often classified in the categories of epistemic (possible, probable etc. but also speculative, deductive assumptive), deontic (permissive, obligative, commissive) and dynamic (volitive, ability) modality, but more nuances could be given, such as habitual, wishes, fears and more.
+Conditional clauses as defined in §1.3 are by nature hypothetical since they present alternatives, and therefore always have the irrealis mood. The alternative offered in a conditional clause is either not (yet) realized and therefore cannot be presented as real, or is deliberately presented as not realized or the outcome unknown to consider a hypothetical alternative.
+The previous models have mainly been interested in epistatic modality, whether a condition is possible or impossible. This remains the most important modal category for conditions, but in Biblical oaths deontic modality also plays a role, and likewise wishes and fears occur, most often in impossible conditions. To avoid the confusion between the mood opposition realis : irrealis and epistemic modality, we will not use real : irreal for conditions but possible : impossible or refer to a condition as realizable or not.1
+1.5 Research outline Since both verbal forms and particles do not seem to be able to build a good model for epistemic modality on their own, it will be determined what nuances both factors do add to the conditional sentence. Since a direct relation between one of these factors and epistemic modality seems unlikely, it is more interesting to see how they work together in a system. The Pentateuch is chosen as the corpus, since it contains enough stylistic variation and different genres, while it is still a reasonably synchronous text, and is therefore representative for the rest of the Hebrew Bible.
+To get a better overview of the individual contributions to the semantics of the conditional sentence, the different factors are separately analyzed. In chapter two, the particles are analyzed, and in chapter three the verbal forms and word order. Other types of modality besides the aspectual and temporal nuances expressed by the verbs will likewise be analyzed. In chapter four, a different approach will be proposed to analyze conditional clauses and the nuances expressed in them.
+1 Parker (2001, §8.2) uses 'past-modal' and 'modal-present' instead of 'irreal' and 'real', but this terminology is problematic for Hebrew since there are many examples of non-past impossible conditions, as found in example [1.4].
+6
+
+2. Particles
+As mentioned above, many previously proposed models base their primary distinction between
+probable and improbable conditional clauses on the particles being used, either  or . However,
+there are many exceptions to this basic distinction and there are conditional clauses with yet other particles or no particles at all. To get a better understanding of the semantics and functions of these particles, we will first look at each particle that is encountered in conditional clauses in the
+Pentateuch. As Aejmelaeus (1986) rightly points out in her analysis of the particle  , it is not
+helpful to look for the meaning of a particle and to collect the English glosses that are given to it, since that does not tell how the particle functions in Hebrew. Instead, its function should be derived from its various occurrences, preferably a single basic function. Jenni (1992: 14,15) describes his semantic model in similar terms, stating that a preposition can have many local (contextual) meanings, that together form a "relatively closed paradigm". Moreover, the seemingly unrelated meanings attributed to a preposition are for a large part determined by the class of the word it precedes, and are therefore contextual reinterpretations of its basic function. As such, for each participle a basic function will be derived. Then we can analyze what semantics that basic function adds to the various conditional clauses in which it occurs.
+For each particle, it is shortly summarized how it is described in scholarly literature, i.e. in relevant grammars, lexicons and articles. This includes functions and glosses attributed to the particle, as well as cognates in related languages, especially the older languages such as Ugaritic and Akkadian, since they might give information about the original function of the particle. However, this all serves as a background, while the functions of the particles are derived from its occurrences in the Pentateuch. When a lexicon is cited, a reference is made to the lemma of the discussed particle, unless otherwise specified.
+2.1 
+This particle is the most common conditional particle and its main function according to many previous models is to indicate probable conditions, as in the example in the introduction. However, there are exceptions where unreal conditions are given, as in example [1.2]. Also, the particle is used in clauses that do not seem to be conditional. In roughly four out of five occurrences, the particle is used conditionally. In the remaining occurrences, the particle appears to have a different function, as will be discussed in the next chapter.
+2.1.1 In scholarly literature
+While Friedrich (1884: 4) holds that  was originally an interrogative particle, HALOT, Gesenius and HS (§165,166) state that it was originally a deictic particle, related to   and  . Its cognates are m and hem in Ugaritic, summa in Akkadian2,  in Phoenician  in Aramaic. HALOT gives 9
+different uses and glosses, beginning with "if" for probable conditions and for unrealizable conditions, "if only" for wishes, "not" in oaths without apodosis, and besides being used in dependent questions, there are occurrences that should be translated as "even though", "but", "or", "unless" or "rather". Gesenius divides occurrences between two main categories: used as a conjunctive or an interrogative particle, rarely in direct, more often in indirect questions. The same
+2 cf. Gordon (1965), §19.773. 7
+
+glosses are given, and Gesenius adds the temporal use of  , which should be translated with
+"when". The same division in two categories is found in BDB, who calls the particle in conditional
+use the "hypothetical particle". Similar uses are given to  in the grammars by GKC, JM and WO.
+For the related particles in Ugaritic, the lexicon by del Olmo Lete and Gordon (1998) gives similar uses, conditional "if", disjunctive "or" or interrogative "perhaps". For related particles in Akkadian, the CDA gives similar glosses, such as "if", "or", "when", "now see", besides uses in questions, oaths and wishes.
+2.1.2 Occurrences in the Pentateuch To get a better understanding of the uses of the Hebrew particle, we will take a look at some examples. As is illustrated in the introduction and mentioned in most of the previous models, the particle is most often used to introduce the protasis of conditional sentences capable of fulfillment. As is clear from example [2.1], it is presented as hypothetical, as capable of fulfillment, and this does not mean that the writer, speaker or hearer might already know that it is not. [2.1] Gen 18:26
+                             
+And the Lord said, "If in Sodom I find fifty righteous in the city, I will spare the whole place for their sake."
+Even though one might argue God is already determined to destroy Sodom, or might (on theological grounds) suppose God already knows how many righteous are to be found in the city, still it is presented as a condition that might be true and therefore capable of fulfillment. As such God answers to Abraham who presented the hypothetical case that there might be fifty righteous
+(vs. 24), introduced by the particle   "perhaps".
+However, as mentioned by the various lexicons, there are exceptions to the idea that this particle denote conditions capable of fulfillment, as is illustrated in the examples [2.2-4]. [2.2] Gen 13:16
+                             
+I will make your seed as the dust of the earth; if one can number the dust of the earth, your seed also can be numbered.
+[2.3] Num 11:22
+               
+If all the fish of the sea shall be gathered for them, will enough be found for them?
+[2.4] Num 22:18
+                                
+If Balak were to give me his house full of silver and gold, I could not go beyond the command of the LORD my God to do less or more.
+In [2.2], the number of the offspring of Abraham is illustrated by comparing it to the dust of the earth. As no one is capable of numbering the dust, so no one will be able to number your offspring. This clearly is a condition that cannot be fulfilled, as no one will be able to count the dust of the
+8
+
+earth. Still, the hypothetical case is brought forth to state that his offspring will likewise be innumerable.
+Of examples [2.2] and [2.3] it can be argued that these are not conditional but concessive clauses, but as stated in §1.3, concessive clauses are a subclass of conditional clauses. Hebrew does not make the distinction between concessive and conditional clauses, and they are only interpreted by the reader as concessive. Moreover, the concessive interpretation is not even necessary here. In [2.2], Moses wonders how he can feed the enormous amount of people. But besides the concessive interpretation, it could also be translated more in the sense of "(only) if ..., enough will be found for them", which is a condition that is not capable of fulfillment.
+In [2.3] the concessive interpretation is more clearly from the context, since Bileam reacts to the servants of Balak who came to him with a reward if he would curse Israel. He replies that not even with a greater reward, be it as much as everything Balak owns, he would be able to do anything else than God commands him. Still it is presented as a condition and it is not likely that Balak would give up all that he has to curse Israel.
+The particle is also used in oaths, and as stated in the introduction, its meaning seems reversed, as in example [2.5]. [2.5] Gen 21:23
+                        
+Literally: And now, swear to me here by God: if you deal falsely with me or my descendants or my posterity ESV: Now therefore swear to me here by God that you will not deal falsely with me or with my descendants or with my posterity
+However, as can be seen from the full version of an oath in 1Sam 3:17 and 2King 6:13, where the apodosis "May God do so to you and more" is added, it is incorrect to state that the meaning is reversed. The curse in most oaths in Hebrew are left out. The fact that due to ellipsis many translations reverse the condition before the curse in an opposite affirmative statement to make it understandable, says nothing about the meaning or function of the particle in Hebrew, and
+considering the full expression of the oath, it functions as in other conditions with  . However, it
+could be argued that the curse is left out so consistently, that the oath has developed into its own clause type.
+In some cases, the particle is used to give several conditions, mostly translated "whether... or...", as in example [2.6] [2.5] Exo 19:13
+                          
+No hand shall touch him, for stoned he shall be or shot; whether beast or man, he shall not live.
+9
+
+This use might be called disjunctive since it is translated with "or", but the function of  here is not
+to disjunct man and beast, but to indicate that both are conditions to which the consequence is that they shall not live. Hence, also in this and similar occurrences, the particle functions as in other conditional sentences.
+A related use of the particle is found in questions. Often the particle occurs when a second
+question is introduced, after the first being introduced by the interrogative particle  , as in example
+[2.6] and [2.7].
+[2.6] Gen 17:17
+                                       
+Then Abraham fell on his face and laughed and said in his heart, "Shall a child be born to someone who is a hundred years old? Shall Sarah, who is ninety years old, bear?"
+[2.7] Gen 37:8
+                
+His brothers said to him, "Will you indeed be king over us? Or are you indeed to rule over us?"
+[2.8] Num 13:8
+                             
+And see how the land is, and the people who dwell in it. Are they strong or Weak? Are they few or many?
+In these examples, many translations render the particle as "or". For [2.6] it can be argued that the
+conjunction  before the particle is what carries the disjunctive force, but it is absent in [2.7] and [2.8]. Although it is clear that  here functions as an alternative to  to introduce the second
+question, example [2.8] shows it can also be introduced by the normal interrogative particle. This raises the question whether this variance is pure stylistic or also has a difference in semantics. If
+we take  to have the function that fits all occurrences discussed so far, that of a hypothetical
+particle, it is not hard to see how it can be used for questions. Since a question asks whether a
+hypothetical case is true, the interrogative particle is related in function to  , but is more specific. Therefore,  can be used to introduce questions and hypothetical thoughts, as in the examples
+above. This suggests that the use of the particle to introduce questions after other questions
+introduced by  is mainly stylistic. This is confirmed in example [2.8], where the two pairs "strong
+or weak" and "few or many" are clear parallels but use different particles. The fact that many translators render the particle as "or" is inconclusive, since English prefers the use of a connective or disjunctive particle, while in Hebrew it is left out more often.
+Lastly, the particle is also used in sentences that seem to be temporal rather than conditional, and is rendered in many translations as "when" or "whenever", as in example [2.9] and [2.10].
+[2.9] Gen 38:9
+                                       
+And Onan knew that the offspring would not be his. And whenever he went in to his brother's wife he would destroy it on the ground, so as not to give offspring to his brother.
+10
+
+[2.10]
+
+Num 36:4
+                                                   
+And whenever the jubilee of the sons of Israel comes, then their possession will be added to the possession of the tribe into which they marry, and their possession will be taken from the possession of the tribe of our fathers.
+
+Both verses, besides others that are said to be temporal, have the same structure: directly before or after the conditional particle there is an instance of the verb 'to be', a verb that is used often to start temporal sentences. Therefore it is clear that not the particle but the verb brings in the temporal nuance. But if conditional sentences can be build with just the verbal form, what is the function of the particle? Both examples are still structured as a conditional sentence, with a protasis and an apodosis. For the condition in the present/future example in [2.10], this is clear, but for [2.10] where the sentence is in narrative, it could be argued that it is not hypothetical, but presented as something that has happened. However, it is not impossible to speak hypothetically of the past. In this temporal construction, it is hypothetical because it is unknown exactly when this occurred and how often. It is simply stated conditionally that if it occurred, then he would waste the semen on the ground, which is still a proper hypothetical case and a proper conditional.
+
+2.1.3 Semantics in conditional sentences The main problem with the analysis in the various lexicons, is that they focus too much on providing glosses of the particle, and pay less attention to its general function in contrast to its uses in certain context. In many of the examples above it was clear that although in English we had to
+translate the particle  as "or", "when" or "certainly not", this did not mean that the particle had
+that meaning or function in Hebrew. Unfortunately, no clear distinction is made between semantics and pragmatics, between general function in Hebrew and its translation in English in a certain context.3 As discussed in the introduction and stated by Aejmelaeus (1986) and Jenni (1992), we should look for a basic function that can account for the many contextual meanings in Hebrew.
+
+Therefore, as is also clear from all the examples analyzed in the previous chapter, the particle 
+is best described, not as the conditional particle, not with a series of glosses, but as the particle that functions by making a clause hypothetical. As was clear from the examples [2.6-8], the particle can be used outside of conditional constructions. Because one of the main characteristics of conditional clauses is that they are hypothetical (see §1.3), this is the particle of choice for introducing the protasis. As was clear from the examples [2.2-4], the particle is not only used for conditions capable of fulfillment. Since the function is more basic than that, just denoting a hypothetical clause, it must be derived from other factors whether a condition is realizable or not.
+
+2.1.4 In combinations Now that we have defined the primary function of the particle, we will look at some last examples, where it occurs in conditional clauses in combination with other particles. Combinations with the
+particle  will be discussed in §2.3.
+
+3 Campbell (2015: p. 87) and Lee (2003: pp. 177-185) note this problem for Greek lexicography also. All standard works solely provide glosses for words, only the latest lexicon in New Testament studies, BGAT, and Louw and Nida provide definitions of most of the words.
+11
+
+[2.11] [2.12] [2.13]
+
+Deut 15:5
+                              
+... only if you will strictly obey to the voice of the LORD your God, guarding to do all this commandment that I command you today.
+Num 17:28
+                   
+Everyone who comes near - who comes near to the tabernacle of the LORD - shall die. Is it (good), if we all perish?
+Gen 24:19
+                     
+When she had finished giving him a drink, she said, "I will draw water for your camels also, until they have finished drinking."
+
+In [2.11],  is combined with the particle  . According to HALOT, this particle comes from a root  or , which means "fine, small", and with its derived meaning "in a small way", its function is
+to limit, most often translated as "only". Before the verse in [2.11], it is stated that when the Israelites will release what they have lent to a fellow Israelite every seven years, there will be no poor among the Israelites because God will bless them. Then, in our example, by using also the
+particle  , this promise is limited by the condition that follows, introduced by  . As such, the
+combination of particles allows the order of conditional construction to be reversed. This can also
+be done without  , but then the connection is far less stressed. Likewise,  excludes the
+possibility that the consequence happens without the condition being fulfilled.
+
+In [2.12],  is combined with the interrogative particle. This seems redundant, since from example [2.6-8] we have learned that  can be used instead of the interrogative particle to introduce questions. However, the negated combination,   , also occurs in Biblical Hebrew, in 2Kings
+20:19, and from that context it seems likely that we should translate this with the ESV as "Why not ..?", or as BDB suggests "Is it not (good), if". For our example in [2.12] this suggest that the interrogative particle should be translated as "Why" or "Is it (good) ...?", what fits the context.
+
+In [2.13],  is combined with  , "until", to form what could be called a temporal condition, and
+has the meaning "until (the moment) that/when". In this construction, in which the order of protasis and apodosis is again reversed, the action described in the apodosis is not the consequence that happens once the condition is met, but takes place until it is met. So again, by this combination, a different type of conditional clause is formed.
+
+2.2  and  
+This particle is commonly described as introducing unrealizable conditions. However, again there are exceptions where realizable conditions are found. Also, the particle is used in clauses that do not seem to be conditional, or are better described as wishes and fears. It occurs a total of nine times in the Pentateuch, of which only four are clear conditional clauses. In the remaining occurrences, the particle appears to have a different function, as will be discussed in the next section. The negative counterpart occurs three times, and all are conditional clauses.
+12
+
+2.2.1 In scholarly literature This particle, called a 'wish particle' in the lexicon of Gesenius, is related to l in Ugaritic, l in
+Akkadian and  in Old Aramaic. The particle   is the negation of , and only occurs in negative
+wishes.4 BDB gives two basic uses and glosses of the particle; to indicate a case that is not realized in the past or not likely to realize in the future. HALOT adds to this the use of the particle as assertive or affirmative. Similar uses are given in the grammars by GKC, JM and WO.
+
+Both Nötscher (1953) and Whitley (1975) connect the particle to the emphatic lamed found in Ugaritic and Akkadian, where it likewise expresses wishes and affirmation, and they state also that
+some of the seemingly assertive uses of   should be revocalized as . Of this emphatic lamed,
+Tropper (§85.8) states that the assumption that the two different uses, wishes and affirmation, go back on different forms, cannot be justified. Moreover, the expression of wishes in Ugaritic with l, the so called 'precative use', would be no more than affirmation, while the verbal form expresses the nuance of a wish. An assumption like this was made by Huehnergard (1983), who states that in Proto-Semitic, a hypothetical particle *l/law and an asseverative proclitic particle *la existed. He
+expresses doubt whether  is used as an assertive particle in Hebrew, and states that the only good candidate of assertive  can be found in Gen 50:15, but could also be explained as a plain
+conditional. He then states that the particle in Proto-Semitic had most likely three basic uses: optative, introducing unreal conditions and concessive, but the basic meaning would be best described as denoting hypothetical statements, "contrary to facts".
+
+2.2.2 Occurrences in the Pentateuch To get a better understanding of the uses of the Hebrew particle, we will take a look at some examples.
+
+The meaning most commonly given to this particle is that of introducing unrealized or unrealizable
+conditions. However, only few of the nine occurrences of  in the Pentateuch fit this description, as
+only two have an apodosis and are clearly unrealizable, one of them being example [2.15].
+
+[2.15]
+
+Num 22:29
+             
+If only there was a sword in my hand, so that I would kill you now!
+
+Bileam wants to slay his disobedient donkey, but he is unable since he has no sword. At that exact moment, the condition was indeed unrealizable. Four other occurrences are labeled unrealizable, but have no apodosis, like examples [2.16,17].
+
+[2.16]
+
+Num 14:2
+                                            
+And all the people of Israel murmured against Moses and Aaron. The whole assembly said to them, "If only we had died in the land of Egypt! Or if only we had died in this wilderness!"
+
+4 The occurrence in Psa 27:13 could be a case of affirmation according to HALOT, but it adds that the Masoretes marked the word for deletion, and it is absent from most of the old versions.
+13
+
+[2.17]
+
+Gen 17:18
+                     
+And Abraham said to God, "If only Ishmael might live before you!"
+
+In Num 14, after the 12 who spied the land of the Canaanites returned and told how strong the inhabitants where, the people uttered an unrealizable wish. In Gen 17, after God made clear that the promise of offspring was to be fulfilled not in Ishmael but in a son that will be born to Sarah, Abraham wonders how it is possible, since he is a hundred years old, and utters the wish that Ishmael would take the place in the promise. Of both examples, it could be argued that they are conditions with the apodosis left out, since from the context the reason for the utterance is clear. Wishes are hypothetical, just as conditions, but they lack a consequence. As such, both examples are better described as wishes, since the clauses are not presented as a condition and it is not clear that a condition is intended. In these cases, the particle functions to indicate that the wishes are hypothetical and contrary to the known facts.
+
+The particle is also used in conditions or clauses that are not unrealizable, as in example [2.18].
+
+[2.18]
+
+Gen 50:15
+                                    
+When Joseph's brothers saw that their father was dead, they said, "It may be that Joseph will be hostile to us and return to us all the evil that we did to him."
+
+After their father died, the brothers of Joseph fear that he will return their evil, since they sold him as a slave to Egypt. Here the particle is used in a clause that is not unrealizable but possible and even likely in the perception of the brothers. HALOT and Nötscher (1953) analyze this and other verses with the particle in light of the emphatic lamed, and state that it can be used affirmative, as also in example [2.19].
+
+[2.19] Gen 30:34 Laban said, "Behold! Let it be as you have said."
+
+            
+
+Although an alternative interpretation is possible, it is not necessary. As Huehnergard (1983: 571) notes, [2.18] can be translated as a conditional statement: "If Joseph is hostile to us, then he shall return ...". Since he calls that verse "the only likely candidate for assertive l in Biblical Hebrew", he interprets example [2.19] different, but does not give an alternative interpretation. GCK §109b interprets it as a wish: "I would it might be...", although in §151e it states that the example is rather concessive, equivalent to "let it be so". JM §162c expresses doubt about the passage, since it
+would be the only example of a jussive after  or  . Muraoka (1985: 116) on the other hand
+remarks that "the optative meaning of the particle coupled with the jussive is unmistakable and this example ... reminds us of the Akkadian precative which also prefixed l ".
+
+Although a wish as "may it be as you said" fits here, this could be expressed by the jussive alone, and the function of the particle remains unclear. As discussed above, Huehnergard (1983) states that the particle is best described as denoting hypothetical statements, "contrary to facts". This leads to the interpretation referred to by GKC, that contrary to what might be expected from the
+14
+
+facts and the tension between the two, he makes a concession and accepts what Jacob proposes. With a similar interpretation, there is no need to translate [2.18] as a condition, since there too the hypothetical case of Joseph revenge is contrary to what might be expected based on the provided facts. Up until that time, Joseph showed no hostility towards his brothers.
+Other explanations for [2.19] include the possibility that this is indeed the only assertive use found in the Hebrew Bible, and that it is the proclitic emphatic lamed as found in Ugaritic, but in later
+times wrongly vocalized as the particle . Lastly, it might also be a stylistic feature, to make Laban
+sound foreign.
+2.2.3 Semantics in conditional sentences As is clear from the examples analyzed above, the description of the particle as merely denoting unrealizable conditions is to narrow. The function of the particle in all these examples is, as Huehnergard (1983) states, best described as denoting hypothetical statements, contrary to facts. When combined with a past reference, this makes it the particle of choice to express unrealizable conditions or wishes, since what was not wished has already happened. With present and future reference, the particle can be used to express hypothetical cases that might be different than what otherwise could be expected based on the provided facts.
+2.2.4 In combinations
+The particles also occur in combination with  , and these combinations will be discussed in §2.3.
+2.3  Besides  and , the particle  is often mentioned as a conditional particle. But what the difference in meaning is when an author can choose between  and  , is not immediately clear.
+Also, it is not always clear whether the particle is used to introduce the protasis, since in Hebrew it is hard to make a clear distinction between conditional, temporal and causal clauses, as will be made clear below.
+2.3.1 In scholarly literature The particle has a wide range of uses, as is displayed in the various lexicons. HALOT and Gesenius divide the occurrences between demonstrative and conjunctive uses, having a wide range of glosses. For demonstrative use, they give glosses like "yeah" in emphatic use, "verily, indeed" in positive oath clauses, "on the contrary" following a negative clause, and for conjunctive use they give glosses like "because" and "for" in causal clauses, "that" after verbs of seeing, hearing, saying etc., "when" or "if" in conditional and temporal clauses, "although" in concessive clauses and "as" in modal cases. BDB divides the occurrences between three main glosses: "that",
+"when" for time relates expressions and "because, since". If  has a force that approaches  , it states that "it usually represents a case as more likely to occur than  ". Also, when both particles are used in the same text, it states that  is used to present a case more broadly, followed by specifications introduced by  , which is similarly stated by HALOT. Both lexicons also give counterexamples to this rule. JM (§164b, 165a, 167 s) adds that the emphatic use of  is also
+found in the apodosis of conditional sentences, to affirm the consequence if the condition is met, or in curses, to affirm the curse.
+15
+
+This broad use is also found with its cognates in related languages. The particle k in Akkadian can, according to CDA, be used as the preposition "like", the adverb "how?" or the particle "when" or "if" in conditional or temporal sentences, or "that" after verbs of knowing, saying and swearing. The Ugaritic particle k or ky has, according to Tropper (§84), uses in temporal or conditional clauses ("when, if"), modal clauses, causal causes ("because"), in letters ("about the case") and after verbs of saying, knowing etc., and consecutive clauses ("that"). Gordon (§9.17, 13.51, 19.1184) adds to this the uses of k as an emphatic particle or as a relative ("which, that").
+
+Aejmelaeus (1986) attempts to account for the "exceptionally wide range of usage in the most varied contexts and functions" of the particle, by formulating rules when it is used in which function. She stresses that, when discussing particles, "one ought not to speak of its various 'meanings,' but
+merely of its various 'functions.'". The main function of  is to join two clauses together as a conjunction. She then divides the occurrences of  between occurrences introducing clauses that
+precede the main clause, and occurrences introducing clauses that follow the main clause. When the clause precedes the main clause, they are normally interpreted as conditional, temporal or causal clauses. However, since Hebrew does not distinguish between them, Aejmelaeus suggests
+to call these clauses circumstantial  clauses. After the main clause,  is mainly used to introduce
+causal clauses, in the broad sense, including cause, reason, explanation and motivation. The other
+functions attributed to  - introducing clauses after the main clause, as can be found after verbs of
+saying, knowing etc., after a negative clause or introducing other object and subject clauses - she groups together as conjunctive, simply connecting two related clauses. Of the emphatic function of
+ she states that this interpretation is caused by the language of the interpreters, who seek to deal
+with the seemingly superfluous particles, and suggests that these occurrences too are to be interpreted as causal in the broad sense. Of the concessive function, she states that none of the concessive examples is undisputed and all can be reinterpreted as causal.
+
+2.3.2 Occurrences in the Pentateuch To get a better understanding of the uses of the particle in conditional sentences, we will take a look at some examples.
+
+Especially in the law, the particle is used often to introduce the conditional clause describing the offense or case, after which the punishment of consequence follows. In examples [2.20,21] below
+two ordinary conditional sentences are given with  .
+
+[2.20]
+
+Exo 21:37
+                               
+If a man steals an ox or a sheep, and slaughters it or sells it, he shall repay five from the cattle for an ox, and four from the flock for a sheep.
+
+[2.21]
+
+Exo 1:10
+                                      
+Come, let us deal wisely with them, lest they grow, and it will happen, if war breaks out, they will be added to our enemies and fight against us and go up from the land."
+
+16
+
+[2.22]
+
+Num 5:6,7
+                                                              7        
+Speak to the people of Israel: "If a man or woman commits any of all the sins of man by being disloyal with the LORD, and that soul is guilty, he shall confess his sin that he has done. And he shall return full restitution for his guilt, adding a fifth to it and giving it to him to whom he is guilty."
+
+Indeed, both examples can be analyzed as proper conditional sentences with a hypothetical protasis and an apodosis. At the same time, both could be interpreted as temporal clauses, and
+this interpretation is even suggested in [2.21] by the preceding    . In the introduction we
+concluded that conditional clauses are hypothetical, but in these examples, the clauses are not clearly marked as hypothetical, and can therefore be interpreted otherwise. In example [2.22] another frequent construction is found, where the subject is fronted before the particle, according to BDB for distinctiveness and emphasis. In other instances, as in example [2.23], it can be argued that what is normally translated as a condition, rather seems to be a statement.
+
+[2.23]
+
+Gen 30:34
+                                               
+Seven days you shall eat unleavened bread. In the first day you shall make leavened dough absent from your houses, for all who eats what is leavened, from the first day until the seventh day, that soul shall be cut off from Israel.
+
+Although several translations render   as "for if anyone", the Hebrew formulates it more as a statement, saying "for all who". In the  clause, the group is defined for whom the main clause is
+valid. Even though a condition is suggested by this, since the clause is not clearly marked to be hypothetical, it is not expressed as a condition in the Hebrew.
+
+In several texts, both  and  are used. For example, after the case of theft followed by
+slaughter or reselling is described in [2.20], the verses after it give variations on the outcome of the theft, to state what should happen if the thief is caught and killed, or if the stolen beasts are found
+in his possession. This clearly demonstrates the use of  to introduce a circumstantial clause, to
+paint the general case where several possible outcomes have different consequences. BDB describes this phenomena as the particle used "to state a principle broadly, after which special
+cases are introduced by  ", but also points to counterexamples, such as [2.24].
+
+[2.24]
+
+Num 5:19,20
+                                                                
+          
+And the priest shall make her take an oath and say to the woman, `If no man has laid down with you, and if you have not turned aside to uncleanness, being under your husband, be free from this water of bitterness that brings the curse. But if you have gone astray, being your husband, and if you have defiled yourself, and some man other than your husband has lain with you ...
+17
+
+Here two parallel conditions are given, the first introduced by the particle  , the second by  . The
+only differences between these are that the first is negative and the second not, and that the apodosis of the second is much longer. It is not uncommon to negate a conditional or
+circumstantial  clause, so the explanation might be that because of the considerable length of the
+apodosis, a circumstantial clause followed by a longer expansion is preferred. BDB also points to parallel laws in Exo 21:5 and Deut 15:16. The first is structured as expected, with the case
+introduced by  followed by alternative situations introduced by  , while the second only uses  .
+However, since both particles can be used to introduce conditions, this is no direct counterexample but shows that a writer can prefer to use only one particle in a text.
+
+The particle is also used to introduce the apodosis, as in example and [2.15] above and [2.25,26].
+
+[2.25]
+
+Exo 23:33
+                          
+They shall not dwell in your land, lest they make you sin against me; for if you serve their gods, it will be a snare to you.
+
+[2.26]
+
+Gen 31:42
+                                        
+If the God of my father, the God of Abraham and the Fear of Isaac, had not been on my side, then now you would have sent me away empty-handed.
+
+In [2.25], both the protasis and the apodosis are introduced by  . According to BDB, HALOT and
+Gesenius, this is part of the deictic and emphatic function of the particle, while Aejmelaeus (1986) states that in these sentences the particle introduces a cause clause, making it a statement instead of a condition. Some of the text cited as examples for the emphatic usage can indeed simply be explained differently. For example, in [2.15], the apodosis might give the cause rather than the consequence of the wish uttered by Bileam: "for I would slay you now". As BDB notes, sometimes
+multiple arguments are given, all introduced by  . If this is the case in [2.25], it should be
+translated as "... lest they sin against me by serving their Gods, for it will be a snare to you". Likewise, [2.26] should be translated as "If God ... had not been on my side! For now you would have ...".
+2.3.3 Semantics in conditional sentences
+As Aejmelaeus (1986) noted, it was clear from the examples that when  is used in the protasis, it
+is used to introduce not only conditional, but also temporal and causal clauses. It is often disputable which of these interpretations is correct. Therefore, the particle is better described as introducing circumstantial clauses when it is used before the main clause. Hebrew does not make a distinction between the clause types introduced by this particle, while this distinction is necessary
+in English. Therefore, like the previous particles discussed so far,  is not a conditional particle,
+but its general function can be used in contexts that suggest a condition.
+This function makes it suitable to introduce cases in the law, where the hypothetical particle  provides alternatives to this general case. BDB states that conditions formulated with  are more likely to occur than those introduced by  , and this can be explained by the fact that it is often
+hard to decide between a temporal and a conditional interpretation of a clause, because the clause
+18
+
+is not clearly hypothetical. Where the particle is used after the main clause, it is perhaps best described as introducing a cause clause in the broad sense, as Aejmelaeus (1986) does, but the data in the Pentateuch is not sufficient to make a clear analysis of these cases. This description makes the usage of the particle uniform, always introducing a subordinated clause.
+2.3.4 In combinations Now that we have analyzed the primary function of the particle, we will take a look at some last examples, where it occurs in conditional clauses in combination with other particles.
+One of the more frequent combinations,   , even has a separate entry in most lexicons.
+HALOT, BDB and Gesenius all divide the occurrences of the combination between the verses where each particle introduces a different clause and the verses where both introduce the same clause, and the combination functions as a single particle. To this last category, HALOT gives glosses like emphasizing "but", "surely" in an oath, and after a negative "but", "except" or "unless". BDB states that the function of the combination is to limit or contradict the preceding clause.
+
+[2.27] [2.28] [2.29]
+
+Exo 8:17
+                             
+For, if you will not let my people go, behold, I will send swarms of flies on you and your servants and your people, and into your houses.
+Gen 40:14
+                                         
+Then, if you remember me, when it is well with you, please do me the kindness to mention me to Pharaoh, and get me out of this house.
+Num 24:22
+                
+Nevertheless, Kain shall be grazed, when Asshur takes you away captive
+
+In [2.27] both particles function independently, since  introduces the protasis and apodosis, as subordinated clause to the preceding clause, while  introduces the protasis. The function we
+assigned to both is still clearly visible here. Example [2.28,29] are examples that HALOT places in the other category, where both particles form a new particle and introduce the same clause. For [2.28] this interpretation is not necessary, and the particles are better analyzed as functioning independently, but this is less clear for [2.29], where the verse is contrastive to the previous, since it is a reaction to Bileam's statement that the dwelling places of the Kenite seem to be strong and everlasting. This use as a particle of exception is most frequent after a negative clause, as in example [2.30].
+
+[2.30]
+
+Gen 15:4
+                            
+And behold, the word of the LORD came to him: "This man shall not be your heir, but who goes out of your entrails, he shall be your heir."
+
+19
+
+The frequent use if this combination shows that it most likely has developed a specialized
+meaning, although it is possible to see how it derived from the two particles, with  denoting a hypothetical or alternative and  introducing a subordinated clause.
+
+At last, a similar use, perhaps based on the combination   , is    in example [2.31].
+
+[2.31]
+
+Gen 43:9,10
+                                                        
+I will be his exchange. From my hand you shall require him. If I do not bring him back to you and place him before you, then I have sinned to you for all the days. But, if only we had not delayed! For we would now have returned twice.
+
+2.4   and  In several passages the interjective particles seem to introduce conditional clauses. For  , this use is generally attributed to Aramaic influence, but this is not the case for   . Whether the
+particles have their normal interjective use in these clauses or this represents a new function derived from this function or even Aramaic will be analyzed below.
+
+2.4.1 In scholarly literature
+To both  and the longer version   HALOT, Gesenius and BDB give the basic gloss "behold!".
+These particles, called deictic and interrupting interjections by HALOT, are related to Akkadian ann, to see, and calls the attention of the reader or listener to what is being stated. However, both particles, according to the main lexicons are also used in conditional sentences with a meaning
+closer to "if". BDB even calls  in these cases a hypothetical particle. For  both BDB and HALOT suggest that this use might be due to Aramaic influence, where the particle  is the normal
+conditional particle, as in JM §167l and GK §159w.
+
+Stec (1987) analyzed the passages where  is said to be used as a conditional particle, and divides the occurrences between three types of sentences. In the first type,  introduces and calls intention to a clause that is followed by   or  to which it is compared to and is literally
+translated as "Behold ..., how much more", which yields a conditional sentence "If ..., how much
+more". However, since this construction does not also occur with  , but is found in simialr verses
+that are clearly not conditional, he concludes that the particle here has its normal function and could be translated as "behold", and only implies a conditional sentence in some contexts. The
+second type is followed by a clause introduced only by  . In these sentences the particle can be
+translated both as "behold" and as "if", but Stec lists two differences with similar sentences that
+use  . Where  can be followed by perfect, imperfect or participle, supposedly conditional occurrences of  are all followed by the imperfect. Additionally, where the apodosis after a clause with  can be resumed with or without  , usually without when the clause begins with  , of all occurrences of an apodosis after a  clause, none starts without  , and all but one even begin with   , after which Stec concludes that these represent different syntactic structures. In this type, together with the third, a combination of  and an interrogative, the particle still means "behold",
+but the combination of the two clauses makes up what is to be interpreted as a conditional sentence. He therefore rejects the possible Aramaic influence on the use of this particle.
+
+20
+
+2.4.2 Occurrences in the Pentateuch To get a better understanding of the uses of the particles in conditional sentences, we will take a
+look at some examples, starting with  . Of the 28 occurrences of the particle in the Pentateuch,
+five are labeled by Stec (1987) as potentially conditional.
+
+[2.32]
+
+Exo 4:1
+                      
+Then Moses answered, "But behold, they will not believe me or listen to my voice"
+
+[2.33]
+
+Exo 8:22
+                                             
+And Moses said, "It would not be established to do so, for it is an abomination to the Egyptians that we sacrifice to the Lord, our God. Behold, we will sacrifice offerings abominable to the Egyptians before their eyes. Will they not stone us?
+
+[2.34]
+
+Lev 25:20
+                           
+And when you say, `What shall we eat in the seventh year? Behold, we may not sow or gather in our crop.'
+
+All the examples above could be translated as a conditional; [2.32] as "What if they will not...", [2.33] as "If we will ..., will they not ...?" and [2.34] as "... year, if we may not ...?". However, as Stec (1987) noted, the normal translation "behold" also fits in all occurrences, and the condition is not explicitly found in the Hebrew, but is implied. In all examples, with the interjection "behold", the speaker calls attention to a hypothetical case in the imperfect that he expects to happen. The case
+is not hypothetical because of the particle  , but because of the irreal yiqtol and the context.
+
+For the particle   , similar examples are found, as in [2.35,36].
+
+[2.35]
+
+Exo 3:13
+                                                 
+And Moses said to God, "Behold, I come to the people of Israel and say to them, `The God of your fathers has sent me to you,' and they will ask me, `What is his name?' What will I say to them?"
+
+[2.36]
+
+Lev 13:5
+                                        
+And the priest shall look at him on the seventh day, and behold, in his eyes the disease stands and the disease has not spread in the skin, and the priest shall shut him up for a second seven days.
+
+Again, both could be translated as conditional sentences, but this does not mean that the particle in Hebrew is conditional. But because the particle can be used to call attention to a hypothetical case, it can be used to imply a condition.
+
+21
+
+2.4.3 Semantics in conditional sentences From the examples above, it is clear that both particles function as interjections in these verses, and the conditional sentence is not found in the Hebrew, only implied, because the interjection can be used to call attention to a hypothetical case and its consequence.
+
+2.5   In several verses, where we would expect  or  , we find the particle   , which normally
+functions as the relative particle.
+
+2.5.1 In scholarly literature The function of the relative particle, according to HALOT, is to mark the connection between two independent clauses, or, as Gesenius states it, to introduce the subordinate clause. BDB adds to this that as a rule, the particle is a mere connecting link, and the precise relation between the clauses must be defined by supplemented words. It is most likely related to Akkadian asar meaning "place", which can be used as a relative meaning "the place where", and has the cognate atr in
+Ugaritic. Besides the relative function,   is used as a conjunction often instead of the older  ,
+as is stated in HALOT, Brockelmann (§159b, 160b) and JM (§167j). In GK (§159cc), this usage is again called the 'hypothetical usage'. BDB notes that this usage is similar to the use of the Aramaic
+. One of the conjunctive functions that is listed for   is its use to introduce a conditional clause, though BDB calls this use rare and peculiar. Often, in parallel clauses,  or  is used.
+
+Holmstedt (2001, 2002: 297-300) proposes a different view that minimizes the amount of
+interpretations given to   . The two main function of the particle are its use as the relative particle, and to introduce complements to verbs much like the particle  . Al other uses, he argues,
+can be brought back to these two functions, if we also consider the possibility of headless relative
+clauses and extraposition. As he states, conditional and temporal clauses introduced by   , often
+translated as "When ...", are actually headless relative clauses, "[on the day], when ...", so that "when" is relative to "[day]". Though this reference to a certain day is missing from many passages, in parallels such as Deut 4:10,11 it is found.
+
+2.5.2 Occurrences in the Pentateuch To get a better understanding of the uses of the relative particle in conditional sentences, we will take a look at some examples.
+
+[2.37]
+
+Lev 4:22
+                                
+If a leader sins, doing unintentionally one thing from all the commandments of the Lord his God that you shall not do, and realizes his guilt...
+
+[2.38]
+
+Num 5:29
+                      
+This is the law of jealousy, when a wife, being under her husband, goes astray and becomes unclean...
+
+22
+
+[2.39]
+
+Deut 11:26,27
+                                              
+See, I am giving before you this day a blessing and a curse: the blessing, if you keep the commandments of the LORD your God, which I command you this day...
+
+From [2.37] and [2.39] it is clear that   indeed functions exactly like the particle  in conditional
+clauses, introducing what could be a conditional or temporal sentence. However, in Lev 4, the
+particle functions differently on a syntactic level, where it is used parallel to  to introduce alternatives to a general case introduced by  . Similarly, in Deut 11:28, the parallel verse for the conditional sentence in [2.39],  is used. In example [2.38], the sentence could also be temporal or conditional, but   can be explained as a normal relative, where the particle introduces the
+details of the law. In both [2.37] and [2.38], as Holmstedt proposed, "[In the day]" could be added to
+the front of the clause, so that   remains a relative. However, Deut 4:10,11 is the only example in the Pentateuch of this construction, and since Holmstedt admits that   has other functions in common with  , the function of introducing conditional clauses could easily be taken over as well.
+
+2.5.3 Semantics in conditional sentences
+In the lexicons that state that   was used sometimes instead of the older  , not only the use in conditional sentences overlaps with  , also many other uses. In the examples, it was clear that in conditional sentences the particle indeed seems to function as  , introducing temporal or conditional clauses. On a syntactic level however, it was used more often parallel  .
+
+2.6 
+In several verses, we find conditional sentences introduced be the particle normally translated with "or".
+
+2.6.1 In scholarly literature This disjunctive, called the "particle of choice" by HALOT, is given the gloss "or" by all mayor
+lexicons. Besides the normal usage, it occurs in combination with  to introduce conditional clauses, but not exclusively. BDB states that the meaning of the particle when used without  is
+closer to "or if", making it a conditional particle.
+
+2.6.2 Occurrences and semantics in conditional sentences
+In all occurrences in the Pentateuch without  , the particle is functioning as expected, continuing
+an earlier conditional sentence by presenting an alternative condition. The conditional particle of the previous condition is not repeated, but that does not mean the meaning of the particle is closer to "(or) if", it just means that in Hebrew the conditional particle can be left out where English might require it.
+
+2.7 
+In some cases, we even find a conditional clause with none of these particles, only the conjunction
+ . However, since many meanings are attributed to the conjunctive, we shall analyze the precise
+meaning it attributes to the conditional sentences in the next chapters.
+
+23
+
+2.7.1 In scholarly literature This conjunctive is the normal connector in Biblical Hebrew and HALOT, BDB and Gesenius give it the basic gloss "and". Besides that, HALOT gives many other meanings to this particle, such as emphasizing "also, even", inclusive "together with", explanatory "that is", besides "or", "even so", "as well as", "but", as the second part of a conditional sentence "then", or continuing action "and then". Gesenius and BDB divide the occurrences between cases where they connect words or sentences. None of these lexicons mention the use of this particle to introduce a conditional clause where the conditional particles are absent.
+Even more different meanings are attributed to this conjunctive by Locke (1975), who states: In the Hebrew Tongue, there is a Particle consisting of but one single Letter, of which there are reckoned up, as I remember, seventy, I am sure above fifty several significations.
+The many meanings that are given to this conjunctive leads scholars to conclude with Dinur (1957):
+It is well known that the meanings and senses of the conjunction  in the Bible are many and
+varied. In reaction to this approach, Steiner (2000) argues that all these different meanings exist in our translations, but not in the Hebrew language. For the cases where the conjunctive is supposed to mean "but", it is not the connective but the word order that signals the contrast, as is the case with the circumstantial "while" meaning. For the meaning "or", he states that it is a misinterpretation of the structure of the sentence. The classical example of Lev 20:9 "For anyone who curses his father
+or ( ) his mother shall surely be put to death", he explains by stating that through ellipsis, the
+structure is not if p or q, then r, but if p, then r and if q, then r. Likewise, most other cases of the conjunctive with the meaning "or" occur in negative clauses. Again, he explains this by supposing ellipses, so that the structure of these clauses is not p and not q instead of not p or q. For the cases where the conjunction introduces the apodosis of conditional clauses, he argues that likewise the meaning "then" might not be intended, but again by ellipsis not if p, then q might be intended, but if p, then p and q. At last he gives the possibility that the conjunction might not even mean "and". In the meanings attributed to the conjunction, in certain cases it seems to have the meaning of the logic operator & "and", in others that of  "or", and in yet others that of  "then", but the conjunction might just be the common denominator of these logic operators, meaning that p we-q is true whenever p and q are true. Yet in other cases the conjunction seams superfluous and has no meaning at all.
+Although this logical approach is interesting, Steiner is inconsistent in his argumentation to state that the meanings we attribute to the conjunction are based on our language rather than Hebrew, and still maintains the idea that in some cases, because it seems superfluous in our translation, it has no meaning. Also, as cited above from Aejmelaeus (1986), we should not look for the general meaning of a particle, but for its function. Then the basic function of the connection seems to be that it simply connects words and sentences. The other factors, such as word order, other particles and lexemes and context, determine whether the two connected sentences are contrastive, emphasizing etc.
+24
+
+2.7.2 Occurrences in the Pentateuch To get a better understanding of the uses of the conjunctive particle in conditional sentences, we will take a look at some examples. The particle is most often used to introduce the apodosis, and nearly all qatal forms in the apodosis are preceded by it (the so-called perfect consecutive, see §3.1.4), as in example [2.40].
+
+[2.40]
+
+Gen 13:9
+                 
+If (you take) the left hand, then I will turn to the right, or if (you take) the right hand, then I will turn to the left.
+
+In these cases, the conjunctive particle functions as in non-conditional clauses. In some cases, a
+particle that introduces a conditional clause is missing, and the protasis is only introduced by  , as
+in example [2.41,42].
+
+[2.41]
+
+Gen 34:30
+                           
+My numbers are few, and if they gather themselves against me and strike me, I shall be destroyed, me and my house.
+
+[2.42]
+
+Gen 44:29
+                             
+If you take this one also from before me, and harm happens to him, you will bring down my gray hairs in evil to Sheol.'
+
+In these examples, both protasis and apodosis are introduced by the simple conjunction. Although the interpretation as a condition is likely, both examples can be translated as consecutive clauses, so that [2.41] is translated as "My numbers are few, and they shall gather ..., and I shall be destroyed", and [2.42] as "And you will take this one .., and harm will happen to him, and you will bring down ...". The conjunction in Hebrew has as its most basic function to connect words, clauses and sentences, and does not specify the nature of the connection. This should be determined using the context and other words. The same is true in the examples above: the clauses are simply connected, and the hearer or reader of the words must determine whether the protasis is hypothetical and the following clause presents the consequence of it. None of these nuances is expressed by the conjunctive particle. And as in example [2.43], it is not always clear if a conditional sentence is meant.
+
+[2.43]
+
+Lev 26:25
+                                         
+And I will bring a sword upon you, executing vengeance for the covenant. And if you gather within your cities, I will send pestilence among you, and you shall be given into the hand of the enemy.
+
+The sentence in this example that is translated conditional, could likewise be translated as temporal or just with a simple future as a statement rather than a condition. In other cases, it seems to be an alternative of the condition stated in the previous clause, although it is translated often as "(or) if". All these nuances are to be derived from the context.
+
+25
+
+2.7.3 Semantics in conditional sentences As is clear from the literature and the examples, the particle can be used to connect words, clauses and sentences, but the precise relation between the connected elements can be very broad and should be derived from the context. As such, the reader or hearer should determine whether a hypothetical condition or a consequence is introduced by the particle. This type of
+conditional sentences is less specified than those cases where the hypothetical particles  or 
+are used.
+26
+
+3. Verbal forms
+As mentioned in the introduction, many previously proposed models base their primary distinction between possible and impossible conditional clauses on either a combination of particles and verbal forms being used, or verbal forms alone. GKC uses verbs to divide the conditional clauses in two categories, while Spradlin (1991: 144,145) even proposes 26 categories. However, again there are many exceptions to these models and conditional clauses can be found with no verbal forms at all. To get a better understanding of the semantics and functions of the verbal forms in conditional clauses, we will first have a look at the Biblical Hebrew verbal system as a whole and how the different forms can express tense, aspect and modality.
+As stated before, the problem with models that rely on verbal forms for their distinction, is that their theories of the Biblical Hebrew verbal system (hereafter: BHVS) are not up to date. To properly analyze the verbal forms in conditional clauses, we therefore need to develop a modern view of the BHVS. First, in chapter 3.1 an overview of the most important models that previously where proposed in scholarly literature, because the variety of different models shows all the nuances that are associated with the verbal forms that should be taken into account. This is followed by a modern description of the BHVS, mainly based on Cook (2012), that is used in chapter 3.2 to analyze how the verbal forms function in conditional sentences and what semantic nuances are expressed by them. As will be made clear from the analysis, verbal forms in conditional clauses contribute to the semantics by expressing mainly aspect, which combined with their context is used to express modality and tense. A largely overlooked nuance expressed by the verbal forms, that will appear to be central to the choice of verbal forms in conditional clauses, is temporal succession, indicated by boundedness.
+3.1 In scholarly literature In the past centuries, many theories have been proposed to explain all the peculiarities of the BHVS. To better understand why so many theories have been proposed, first the main issues these theories have tried to address are explained5, before the theories themselves are discussed.
+3.1.1 Problems with the Hebrew verbal forms The first problem a theory must address is the broad array of meanings attributed to the two basic verbal forms: qatal and the yiqtol.6 The main grammars attribute to both conjugations past, present and future semantics, as well as modal uses7. This makes it both hard to give an accurate description of the semantics of these forms and to distinguish between the two.8 Secondly, in Hebrew both qatal and yiqtol can be combined with a waw that appears to reverse their meaning, so that wayyiqtol functions more closely to qatal and weqatal more closely to yiqtol, and are
+5 See Cook (2012: 77-83).
+6 To avoid confusion between the names of these verbal forms and the semantics attributed to them, we use qatal and yiqtol instead of perfect and imperfect.
+7 JM §112,113; GKC §47,49; WOC §30,31. The use of these forms in all these different meanings is also illustrated by the statistic listing of translation equivalents by McFall (1982: 186-187).
+8 Cook (2012: 79) even gives two parallels that have equivalent verses except that one uses qatal, the other yiqtol.
+27
+
+traditionally called "waw-conversive" or "waw-consecutive". However, the understanding of these "consecutive" forms is crucial to our understanding of the conditional clause, since weqatal occurs so frequent in it. Thirdly, the Hebrew Bible contains texts spanning multiple centuries. Because of this, when a verbal form changes its meaning over time, the corpus can contain several stages of the verbal form that need to be distinguished. These stages however, are never clearly separated, and a single text can contain old and new uses. Lastly, through sound changes, some forms have become indistinguishable in most cases, such as the jussive and yiqtol.
+3.1.2 Background of modern theories of the BHVS The modern theories that are discussed below are all proposed against the background of the old tense or aspect debate and the historical data that was discovered in the previous century. Before the introduction of the "Standard theories" by Ewald and Driver, the BHVS was viewed as tense based, with qatal, yiqtol and the participle respectively denoting past, present and future tense, while the waw prefixed forms where understood as "inverted tenses". Ewald (1870, 1879) introduced the Latin terms perfectum and imperfectum for qatal and yiqtol and described the forms as denoting completed and non-completed action, while his view of the waw prefixed forms is best described as relative. Driver (1998) continued down this pad, and added the participle as denoting continued action, while yiqtol indicated incipient actions. These two basic approaches are still central the debate of the BHVS, even though in recent time also modality and discourse based theories have been proposed.
+Another important background to the theories of the BHVS is the historical comparative data from other Semitic languages such as Akkadian, Ugaritic and Canaanite inscriptions. These allow us to reconstruct the grammaticalization paths of the verbal forms and trace their semantics and usages. Evidence was found for a West Semitic preterite yaqtul in Ugaritic, Canaanite and Amorite, besides Akkadian and Arabic. Many of the forms found in North West Semitic epigraphs have a prefixed waw, which suggests that wayyiqtol was a common North West Semitic verb form.9 Likewise, data from Amarna and Ebla link the proposed development of qatal to the verbal adjective as found in Akkadian. As Cook (2012: 119,120) states, although there is enough evidence to conclude that there existed a long and short imperfect in West Semitic, no evidence has been found for two etymological distinct forms out of which qatal and weqatal have developed. On the contrary, the data shows that qatal with or without waw employs a non-past meaning in conditional sentences, as found in Amarna, Aramaic, Syriac, Phoenician, Arabic and Ethiopic. This use seems to be contextually reanalyzed in Biblical Hebrew so that this optative or precative meaning of weqatal was employed outside the conditional sentence.
+Renz (2016: 439-465) likewise notes of the use of weqatal in conditional sentences (in both protasis and apodosis) in cognate languages. Also in Ugaritic, the Amarna letters and Phoenician, the form is used to continue volitive verbal forms, but only with final or consecutive semantics, not to introduce new wishes or orders. However, he states that the wider use of non-past weqatal outside the conditional sentence or as final or consecutive after volitive forms is not visible in these languages. Still, Ugaritic already shows signs that the waw prefix became a standard feature of the non-past use of qatal in conditional sentences, because whenever the verb is separated from the
+9 So concludes also Garr (2004: 186). 28
+
+initial waw, yiqtol is used instead. The fact that qatal and weqatal are not based on two etymological distinct forms is further strengthened by the remark by Renz that outside the non-past use in conditional sentences and after volitive verbal forms, weqatal is only used with the default perfect semantics of qatal, in both Ancient Hebrew inscriptions and the related languages Ugaritic, Phoenician, Canaanite and Aramaic.
+3.1.3 Tense, aspect, modality and discourse pragmatic theories The historical linguistic data gave rise to many new aspect, relative tense and discourse theories. For example, Müller (1983), continuing the work of Meyer (1960), incorporated the historical data into an aspect prominent theory of the verbal system in which the West Semitic opposition between yaqtul and yaqtulu plays a prominent role, as he argued that wayyiqtol, derived from the old preterite, expresses perfective aspect,10 momentary-punctual action and past tense, qatal also expresses perfective aspect, punctual action, past tense, besides present future and modal meanings, while yiqtol expresses imperfective aspect, durative action and present-future tense.
+At the same time, several scholars returned to a tense-based theory, but combined it with syntax. Blau (1971: 26) noted the alternation of qatal/wayyiqtol and yiqtol/weqatal is mainly based on the syntax, whether it is possible to use a waw-prefixed form in initial position. Likewise, Silverman (1973: 175) stated that the aspectual notion of completeness and incompleteness is expressed by the placement of the verb in the sentence and not its morphology. Revell (1989) argued that since tense was found in the Semitic preterite and Mishnaic Hebrew, the system of the intervening period should also be based on tense. He extended this theory with syntax to incorporate modality and argued that clause initial yiqtol was used modal, and non-initial yiqtol is used indicative, while weqatal developed as a syntactic alternative to clause initial yiqtol. In conditional clauses, this would mean that most verbal forms are modal and have no tense or aspectual nuances.
+Besides these tense-prominent theories, relative tense theories where developed. Reichenbach (1947: 287-298) first introduced a relative-tense theory which explains tense in verbs as relative to different points in time, and distinguished between event-time (E), speech-time (S) and referencetime (R). As such, a form that expresses relative past tense can be used to indicate an event as past relative to the reference event in the future, while still being in the future relative to the moment of speech (past in the future, S > E > R). Based on this theory, Barnes (1965: 7) could state that there is no distinction between the waw and non-waw prefixed forms, and qatal and weqatal both indicate an event "already fulfilled before one's eyes", while yiqtol and wayyiqtol denote events "not in the course of fulfillment". Joosten (2012) combined relative tense with modality, and states that both non-volitive yiqtol and weqatal and the volitive imperative, jussive and cohortative express future-modal semantics, while qatal and the participle stand in an "anterior - contemporaneous opposition" relative to the moment of speaking, while wayyiqtol is stated to be contemporaneous with a moment in the past. The two main problems with the theory, as Cook (2012: 141) states, are that the system is "typologically unparalleled" among the world's
+10 Though often neglected, there is a difference between perfect and perfective aspect (see Cook 2012: §1.7.3.3). Perfective aspect occurs when the whole event is in view, and gives the impression that the event is completed, while imperfective aspect focuses on the progress of the event, without the beginning or end of it. The perfect on the other hand focuses on the end of an event, and on the resultant phase after an event.
+29
+
+languages, and it cannot be related to historical comparative data.11 Also, this does not work in conditional clauses, where qatal is used in conditions of laws, of which the fulfillment is not anterior to the moment of speaking, but still in the future.
+Other theories give a prominent role to discourse to determine the function of verbal forms. Most of these theories can be divided in two "schools", that of Schneider or Longacre. Longacre puts emphasis on text types, and creates verb ranks for each text type, while Schneider focusses more on the distinction between speech and narrative. According to Schneider's theory, in narrative, wayyiqtol is used for foreground events, while x-qatal and x-yiqtol are used for background, and in speech, yiqtol or imperative forms are used for foreground and x-qatal, qatal, and weqatal for background. Talstra, a prominent follower of Schneider, argues that his theory is more sound than others, because it precedes from form to function (1992: 284), although he admits that Schneider's lack of semantics is problematic (1978: 174). Niccacci (1990: 177,178), who also follows Schneider, gives a more prominent role to word order, when he also distinguishes between narrative wayyiqtol and continuation wayyiqtol, of which the latter occurs in a chain of verbs preceded by a non-wayyiqtol verbal form. Most other discourse-pragmatic theories share great similarities with the above mentioned. Cook (2012: 272-275) notes that there are problems with discourse theories. Firstly, it's not clear whether the relation between linguistic form and pragmatics is correlational or causal. Some scholars propose it as a suitable alternative for semantic interpretations, while it is worth asking whether there is a semantic explanation for the pragmatic uses considered central in discourse theories. Secondly, without a semantic component, claims are often circular and without support. Without any semantic analysis of the verbal forms, how can their function in discourse be established?
+While the discussion of the BHVS was most often portrayed as a choice between tense and aspect, recently more nuanced approaches have been suggested. As Gzella (2011: 12) noted:
+Nicht alle Oppositionen ließen sich demnach auf einen reinen Aspektunterschied reduzieren. Statt Tempus und Aspekt gegeneinander auszuspielen, würde eine nuanciertere Untersuchung eher fragen, ob die finiten Verbalformen primär Aspekt und sekundär Tempus anzeigten oder umgekehrt. Likewise, Talstra (1997: 86) states that the debate between discourse and semantic theories "is not one of principle, but of priority", and others incorporate modality into tense or aspect theories. Recent research and grammars incorporate both aspect and tense. For example, Rogland (2003: 10,11) states that qatal is aspectually unmarked, past/anterior, while yiqtol and the participle are non-past/non-anterior imperfectives, and wayyiqtol and weqatal are treated as syntactic variants to qatal and yiqtol respectively. The non-past uses of qatal are mainly explained with relative past tense. His argument for the claim that qatal is aspectually unmarked seems to be that nearly all instances can be explained with relative tense. However, the same would be true if qatal was viewed as also expressing perfective aspect. Likewise, grammars combine aspect, tense and modality. JM (§111) describes the verbal system as tense prominent, but also expressing aspect and modality, while WO (§20.2) views the system as aspect prominent.
+11 For a more detailed review of Joosten's theory, see Cook (2014). 30
+
+Several problems with proposed verbal theories are mentioned by Cook (2012:172-175, 2014), some of which are important for this study. Firstly, nearly all theories put too much focus on only one or two semantic categories, with the idea that if a verbal form expresses aspect, it cannot express tense. Similar, many discourse-pragmatic theories are positioned as replacements for aspect and tense theories. A modern view of the verbal system should incorporate tense, aspect, modality and discourse-pragmatics to explain all the nuances that can be expressed by the verbal forms. Secondly, there is the problem of induction. Because of the lack of "external means of evaluating the verb data in the Hebrew Bible", so that any meaning derived from an inductive analysis of the verbs is difficult to verify, Cook states that "it is an almost unavoidable outcome of the inductive study of the BHVS that the structure of the research language is imposed on the ancient Hebrew language" (2012:174). Two important "external means" that Cook uses in his theory to verify the data, are typology and grammaticalization. By comparing the BHVS with those of the languages of the world, it can be assessed how likely such a verbal system is. Combined with historical comparative data and typological likely grammaticalization paths for verbal forms, a proposed system can be verified. By analyzing the grammaticalization paths of the verbal forms, also differences between early and late texts can be explained more accurately.
+3.1.4 A modern view To be able to analyze the semantics that the verbal forms express in the conditional sentence, a modern view of the BHVS is important, and will be given below. The view is mainly based on Cook (2012), who formulates as a basic principle to his theory that he takes the categories of tense, aspect and modality as discrete and their meaning invariable (2012: 180), contrary to the evolutionary approach proposed by Andrason (2011), where a verb does not have a single meaning but can be used for every meaning it used to express in his grammaticalization path. Since Biblical Hebrew has several verbal forms that function in a system, a choice for one instead of the other has to be meaningful, what implies that not every verb can express every meaning, but they function in oppositions. However, this does not mean that a past-tense verbal form cannot be used in a context that refers to the future. As Cook notes (2012: 181), even if the verbal form in such a context does not express past temporal reference, "its specific meaning can be explained by reference to its general meaning and its syntactic context." In other words: in a modern view, there should be a clear difference between semantics and pragmatics. That a theory should incorporate tense, aspect, modality and discourse, does not mean that a single form can only express a single modal or tense nuance, but it should describe how the general meaning of the verb in certain contexts can be extended to express tense, modality, and how syntax can condition certain nuances.
+3.1.4.1 Aspect Cook (2012: 200-208) advocates an aspect prominent theory of the BHVS. As arguments for this he first states that the type of aspect-prominent languages with a perfective: imperfective opposition is the most frequent, and thus the most likely, type of verbal system in the typological studies by Dahl and Bybee (1989: 83), while mood prominent theories are very unlikely.12
+12 Andrason (2011: 43) rightly questions the correctness of this argument. If tenses develop out of aspects via grammaticalization, and some forms are further down this path than others, as is proposed for Hebrew as well, then it is incorrect to state that an aspect prominent language is more likely than a tense prominent. Still, the argument holds against mood prominent theories.
+31
+
+Secondly, the fact that stative verbs in qatal default to present tense is typical for stative verbs with perfective aspect13 (so Bybee, Perkins and Pagliuca 1994: 92). Thirdly, the fact that some Semitic language use periphrastic means of denoting tense (e.g. Classic Arabic past imperfective kana yaktubu "he was writing") in contrast to means of denoting aspect. Fourthly, while the vast amount of different temporal meanings attributed to the verbal forms is difficult to account for in a tense prominent theory, they can be explained in an aspectual theory, where aspectual verbal forms can appear in any temporal context, while they also have a default temporal interpretation. Fifthly, the aspectual theory fits neatly the most frequent grammaticalization paths found in the languages of the world, as will be discussed. In discussions about the BHVS, aspect is mostly used to refer to viewpoint aspect, although phasal and situation aspect are also aspectual values, which will not be further discussed here.14
+As stated in §3.1.3, qatal most likely originates as a West Semitic verbal adjective, that in later a stage was combined with a suffixed personal pronoun.15 Given the fact that for qatal in the Canaanite El-Amarna letters the perfect meaning is dominant (Moran 2003: 30) and that after the loss of narrative wayyiqtol, it expresses past tense in Rabbinic Hebrew, the development of qatal is best described by the perfective/past grammaticalization path described by Bybee, Perkins and Pagliuca (1994: 105): resultative > perfect > perfective/simple past. Since in Biblical Hebrew qatal is used with both perfect and perfective/simple past meaning, according to Cook (2012: 207) the perfect is a meaning that sometimes persist from the earlier stage. And since it cannot be simple past since it occurs in present and future context, it must be a perfective. As stated above, there is no historical comparative data that weqatal is derived from a different form than qatal, unlike the long and short imperfect distinction still found in yiqtol and wayyiqtol. Still, the semantic and syntactic differences are clearly there, and will be discussed in §3.1.4.3.
+Since we assigned to qatal the aspectual perfective value, and perfective grams develop only in verb systems in languages that already have an imperfective (Bybee, Perkins and Pagliuca 1994: 91), yiqtol should have imperfective aspect. The alternatives are not convincing since a modal interpretation cannot account for its non-modal uses, and non-past tense identification fails likewise to account for the yiqtol forms that express a past temporal reference. However, although there is clear historical comparative evidence that there was a short and long imperfect in West Semitic, the origin of the long yaqtulu is less clear. The infinitive origin proposed by Bauer (1910: 8), out of which yaqtulu is formed by adding agreement affixes and possible a locative -u suffix, is in keeping with the statement that locative constructions with infinitives are a common source of progressives (Bybee, Perkins and Pagliuca 1994: 128), but there is too little information. Still, the uses of yiqtol are best explained if it developed along the progressive > imperfective grammaticalization path. The more evenly spread use of yiqtol among imperfective, future and modal uses can be explained when we consider that future and modal functions often appear as "peripheral" meanings of the
+13 Robar (2014: 404) notes that statistically, statives with qatal are presents only in 54% of the time, and even though this rises to 78% in direct speech, this is not statistically strong in her opinion. Still, compared to non-stative verbs, 54% up to 78% is clearly higher and the difference is statistically relevant, if we consider that overal, qatal denotes a present in only 18% of the time (McFall 1982:186-187).
+14 See Cook (2012: 191-199)
+15 This usage of the verbal noun is already visible in Akkadian, see Huehnergard (2011: §22.1). 32
+
+imperfective (Bybee, Perkins and Pagliuca 1994: 158), but have become more dominant when more of the imperfective functions where taken over by the participle, until in Rabbinic Hebrew it was almost solely used as an irrealis. The short yaqtul developed along the same resultative > perfect > perfective/simple past path as qatal, but since it is probably older, wayyiqtol already had the simple past narrative meaning when qatal was still a perfective.
+The participle, as a nominal form, can also be used predicative and should therefore also be included in the discussion of the verbal system. Since it is often used parallel to yiqtol, the form seems to share some of its semantics. While it is younger than yiqtol, and is used in Rabbinic Hebrew to express present/imperfective meaning, the participle seems to be at an earlier stage of the progressive > imperfective development, and is best described in Biblical Hebrew as progressive. Cook (2012: 230) further states this identification is supported by the fact that it is always copularly supported, and that such paraphrastic expressions again are a major source of progressive grams (Bybee, Perkins and Pagliuca 1994: 127-133).
+3.1.4.2 Tense Although we have argued that the BHVS is aspect-prominent, it can express tense, either
+grammaticalized, with prepositions such as  or   , or by the default temporal interpretation of
+the aspectual values of the verbal forms. As noted above, the older yaqtul that is found in wayyiqtol is probably further down the grammaticalization path and already expressed past tense. The temporal interpretation of this form is further strengthened by the typological argument that while the fact that statives with qatal default to present temporal reference points to the form being aspectual, the fact that statives with wayyiqtol default to past tense points to the form being temporal (Bybee, Perkins and Pagliuca 1994: 92). The past tense interpretation of the form is also supported by the percentages given by percentages given by scholars such as Furuli (2006: 73), who states that a full 93,1% of wayyiqtol forms are past narratives. Cook states further (2012: 259-265) that the "consecutive" function attributed to wayyiqtol is not always present and is dependent on more factors such as aspect and adverbs. Also, other functions such as perfect meaning are better explained as context induced interpretations.
+As already noted, the aspectual interpretation of the BHVS does not prevent the verbal forms of making temporal references in certain context. This is simply explained by the fact that with both perfective and progressive/imperfective aspect, there is a default temporal interpretation, as also suggested in the research of temporal expression in "tenseless" languages by Smith (2006). Since perfect and perfective aspect suggest the event is completed, it is most naturally interpreted as past, while the progressive/imperfective aspect is most naturally interpreted as non-past. Still, as the counterexamples to tense-prominent theories show, these verbal forms can also be used in other contexts with non-default temporal reference.
+3.1.4.3 Mood and modality Besides tense and aspect, the BHVS can express mood and modality. This is clear for the volitive/ directive verbal forms (jussive, cohortative and imperative), but both yiqtol and qatal are also used for irrealis nuances. The key to differentiate between realis and irrealis qatal and yiqtol, according to Cook (2012: 235-237) is word order. Although most grammars position VS as the basic wordorder, since it is statistically dominant, he notes that this is not necessarily correct since the
+33
+
+frequently used wayyiqtol is syntactically constrained as clause initial, and moreover is constrained to narrative, and is therefore not representative for other genres or verbal forms. As he notes, several scholars have noticed that the volitive/directive verb forms tend to head their clause, as does irrealis yiqtol. In particular, Holmstedt (2011: 28) argues for a SV basic word order, where variations in the order are due to constituent movement (X-VS), fronted items and irrealis mood. However, these causes can co-occur, so that a fronted item can "override" the expected VS order that would indicate irrealis.16 Although this theory is promising, Holmstedt himself already states that any conclusion about the default word order must be delayed till all texts have been analyzed (2011: 25). Also, the position of wayyiqtol is not clear, due to the uncertainty about the exact nature of its waC- prefix. If it is not just a prefixed waw, but also includes an assimilated element, the VS word order can be explained by a third fronted constituent. However, this reconstruction is far from certain.
+Nonetheless, the theory helps identify weqatal along with several non-past occurrences of clause initial qatal as modal forms. As Cook (2012: 249,250) notes, this includes the qatal forms following
+the particles ,  ,  or  . To disambiguate the uses of the jussive, irrealis yiqtol and irrealis
+qatal, Cook states that a directive jussive is subjective, while the directive yiqtol can also be objective, placing the obligation outside of the speaker. On the other hand, irrealis qatal is preferred in directives and habitual events that require being carried out in a specific order (procedural), which fits the discourse pragmatic uses of the perfective, as discussed in §3.1.4.4. He also notes that in final and conditional sentences, yiqtol is more lexically marked than qatal, i.e. is more often accompanied by subordinating particles, and yiqtol is the main verbal form for dynamic and epistemic modality.
+3.1.4.4 Discourse pragmatics As stated above, the proposed discourse-pragmatic theories fail because they often neglect semantics, even though it is not possible to assign a function to a verbal form without looking at semantics. Also, as Cook (2012: 273) states, there is no sharp distinction between correlation and cause. Because of a strong correlation between perfectivity and foreground events, it is concluded that the primary function of perfectives is to indicate foreground events, but there are more factors contributing to it, as will be discussed. This is the same problem as with verbal forms and conditional clauses. Even though there is some correlation between qatal and unrealizable conditions, this does not immediately mean the relation is causal, as is clear from the counterexamples (see §3.2.1.1).
+The two most often discussed discourse-pragmatic concepts are temporal succession and foreground/background distinction. As noted by Hatav (1989: 493), temporal succession is determined solely by boundedness. An event is bounded, when a temporal bound, e.g. an endpoint, is reached. A bounded event, since it reaches a temporal bound, advances the reference
+16 Robar (2014: 407) rightly points out that here the typological argument is missing, on which Cook so heavily relied on in the aspectual interpretation of the verbal forms. She also wonders whether modality and word-order "merely correlate highly, rather than one causing the other". However, since more research on word order is necessary, this is not clear for now. A detailed study of word-order on the sentence level and other linguistic features on the text-linguistic level that together seemed to decide whether a form is used modal or indicative, is found in Kalkman (2015). Unfortunately the proposed system is presented as an alternative to aspect and tense, instead of analyzing how they work together.
+34
+
+time, and therefore bounded events are temporally successive. Although the perfective generally implies an endpoint, there are more determining factors. Situation aspect also plays a role, since statives in the perfective default to the present tense and do not imply an endpoint, and therefore are not bounded. However, by the use of adverbs or explicit description of a temporal bound, a state can become bounded. A further distinction in situation aspect is made between accomplishments, achievements and activities. Both accomplishments and achievements are by default bounded with the perfective, while activities may need adverbs to explicitly state a temporal bound. However, other verbal forms may also become bounded by the use of adverbs or descriptions of bounds. Moreover, the narrative wayyiqtol frequently also is temporally successive, because we tend to assume that narrative is told in chronological order, but this default interpretation can be overridden by context too. As such, both viewpoint aspect, situation aspect, adverbial modification and genre play a role in temporal succession. A similar case can be made for the foreground/background distinction. Because wayyiqtol is the narrative verbal form in the BHVS, it most often defaults to foreground. However, other verbs such as qatal can likewise be used for foreground, especially if it replaces a wayyiqtol after a fronted item. Since the foreground/ background distinction is less important in conditional clauses, it will not be further discussed.
+Cook (2012: 319-326) further argues, that when modal forms are used, such as irrealis qatal or yiqtol, they don't lose their aspectual meaning. Therefore, the perfective is preferred for what he calls "modal continuity", modal events that require being carried out in a specific order (procedural), although similar other factors can affect the boundedness of these events.
+3.2 Uses in conditional sentences Now we have established a modern view on the various verbal forms of the BHVS, we can take a closer look at how the semantics attributed to these forms are used in conditional clauses. Since the use of the forms differ substantially between the protasis and the apodosis, between the subordinated and main clause, we will first take a look at the forms in the protasis before their use in the apodosis is analyzed.
+3.2.1 Protasis Since it is the protasis that sets the condition for the main clause, it also contains the particle and verb form that according to earlier models determine whether a condition is possible or not. Therefore, the attention in our investigation of the verbal forms in the protasis is directed to how the these forms attribute to the modal nuance of the clause, besides other nuances that can be expressed by verbal forms, what is the difference between the various forms and whether these differences are also influenced by word order. Since conditional clauses are by definition hypothetical, they are in irrealis mood, so if this is encoded in word order in Hebrew, we should only find VS word order. Extra attention will be paid to the exceptions to this rule.
+3.2.1.1 qatal As stated by Renz (2016: 439-465), the use of qatal in the protasis is found already in Ugaritic, Phoenician and Canaanite inscriptions, although the modal uses of the form were not as developed as in Biblical Hebrew. These passages can often be analyzed with the basic perfective aspect of the forms. This indicated that when qatal is used in conditional sentences, we should also take into account the main semantics attributed to the form in §3.1.4.
+35
+
+As stated in all verb based models for conditional sentences, the perfect is used to denote impossible conditions, as in Gen 43:10.
+
+[3.1]
+
+                  
+
+For, if only we had not delayed, we would now have returned two times.
+
+Here, Judah complains to his father that because he hesitates to send the youngest brother with them to Egypt, they suffered from famine, while they could have gone twice. Here, qatal is used in its perfective meaning with past temporal reference in a hypothetical "contrary to facts", introduced
+by  . For these kind of conditions, qatal is the verb of choice, since the perfective aspect, which
+includes the entire action, suggests that the event would have ended and would be located in the unchangeable past.
+
+However, as stated multiple times, there are many exceptions to this rule. In fact, the use of qatal in possible conditional clauses is much more frequent, but this is partly due to the fact that possible conditions are much more frequent. Still, qatal is used often in possible conditions, as in examples [3.2,3].
+[3.2] Gen 47:29
+                             
+If now I have found favor in your eyes, put now your hand under my thigh and promise to deal kindly and truly with me.
+[3.3] Num 5:19
+                                             
+And the priest shall make her take an oath and say to the woman, `If no man has laid down with you, and if you have not turned aside to uncleanness, being under your husband, be free from this water of bitterness that brings the curse.
+The first example, [3.2], is a common formal way in Biblical Hebrew for an entreaty or exhortation, and is in this case, where Israel called his son, not even possible but plausible. Still it is constructed as a hypothetical, as a condition, to emphasize the importance of the entreaty. In this formal construction, the perfect is the verb of choice, since it is used to describe the favor that has been build up in the past, for which the perfect/perfective aspect is suited. In a similar way, the perfective aspect of qatal is used [3.3] to describe an event that is located prior to the oath taking.
+
+With stative verbs, as expected, we indeed find a present tense, as in Num 14:8.
+
+[3.4]
+
+                   
+
+If the Lord delights in us, he will bring us to this land and give it to us.
+
+However, also occurrences of qatal can be found with a future temporal reference, as in Gen 43:9 (see for the particle [2.31]).
+
+[3.5]
+
+                        
+
+If I do not bring him back to you and set him before you, then I have sinned to you
+
+forever.
+
+36
+
+Since qatal has as its basic meaning perfective aspect and past tense is only the default interpretation, it can be used in the future as well. To still account for the perfective aspect, we could resort to a future perfect in the translation, "If I will not have brought him back", as proposed by Barnes (1965: 7), but this might be too strong. More likely the perfective aspect here makes the action bounded, by which the temporal succession is emphasized and hence the condition stronger connected to the consequence.
+
+Another interesting occurrence with future temporal reference is found in Num 30:4-6, with a parallel in verse 9, example [3.6,7] respectively.
+
+[3.6]
+
+         ...          ...             
+
+                                ...     
+
+
+
+If a woman vows a vow to the Lord and binds herself with an obligation ... and her father
+
+hears of her vow ... and her father is silent to her, all her vows shall stand ... but if her
+
+father opposes her in the day that he hears of it, all her vows and pledges by which she
+
+has bound herself shall not stand.
+
+[3.7]
+
+                       
+
+But if in the day that her husband comes to hear of it he opposes her, then he breaks her
+
+vow that was on her.
+
+In verse 4, the clause introduced by  describes the general case, to which the clause introduced by  in verse 6 is an alternative. Several (we)qatal forms are used in the protasis of the various
+conditions here. Since the protasis is more complex and consists of a series of events, the use of qatal leads to the interpretation of these events to be temporally successive,17 which indeed is true. Because the subject is fronted in verse 4, the verb cannot be in initial position, and yiqtol is used instead. The same situation is found in verse 9, that is parallel to verse 6. Because in verse 9 the complement is fronted, the verb cannot be in initial position and yiqtol is used instead of qatal. As noted by Renz (2016: 439-442), similar use of the verbal forms is already found in Ugaritic, where whenever something separates qatal from the clause initial waw, the imperfect is used instead, what suggests that weqatal was reanalyzed as a single verbal form. However, for Biblical Hebrew we see this phenomenon in the protasis, where qatal by fronting is not separated from the clause initial waw but from the clause initial particle. This suggests that indeed not the prefixed waw makes qatal in conditional clauses modal, but VS word order, and whenever by a fronted subject the word order cannot be VS, confusion with non-modal qatal is avoided by using a form that already has a stronger modal marking.
+
+However, there seem to be a few exceptions to this rule, as found in example [3.8].18
+[3.8] Gen 31:42
+                              
+If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, surely now you would have sent me away empty.
+
+17 Even more temporally successive events in the protasis of conditions can be found in Lev 13.
+18 Other exceptions are found in Num 12:14 and Lev 13:3,5. 37
+
+All exceptions have a fronted subject to emphasize the difference with a different subject in the preceding verses, as predicted by Holmstedt (2011: 28) and Cook (2012: 235-237). In [3.8] the fronting is used to distinguish God from Laban, of whom it is told in the preceding verses that he did much to ensure he did not pay much to Jacob. But because the temporal reference is past in these exceptions, the perfective aspect is suited for this context and confusion with non-modal qatal is not a problem, so qatal is preferred over yiqtol.
+
+Besides these examples, qatal also occurs in conditional sentences without a conditional particle, as in Gen 34:30.
+[3.9] Gen 31:42
+                                                              
+And Jacob said to Simeon and Levi, "You have brought disaster on me by making me stink to the inhabitants of the land, the Canaanites and the Perizzites. My men are few, and if they gather themselves against me and strike me, I shall be destroyed, both I and my house."
+In these cases, the conditional sentence is not introduced by any particle that points to a hypothetical clause, so this must be derived from the context and the modal use of qatal, indicated by the VS of the apodosis, as no subject is indicated in the protasis. By using qatal in both protasis and apodosis, by temporal succession, the idea that the final clause is the consequence of the protasis is strengthened.
+
+From this analysis, it is clear that word order indeed signals the modal usage of qatal in conditional sentences, and the exceptions are due to fronted items. However, in all instances, the perfective aspect of qatal could be found, either for the default past temporal interpretation, or to signal temporal succession in a series of events in the protasis or between the protasis and apodosis, as argued by Cook (2012: 319-326), especially when conditional particles are lacking.
+
+3.2.1.2 yiqtol The prefix conjugation in the protasis of a conditional clause is more common than qatal, and even
+outnumbers the suffix conjugation by more than three to one. Some particles, like  , even only
+introduce conditional clauses with yiqtol. This frequent use can be explained by the fact that conditional clauses most often have a temporal reference to the present or future as in example [3.10], which is also the default temporal interpretation of yiqtol.
+
+[3.10]
+
+Gen 18:26
+                         
+If I find at Sodom fifty righteous in the midst of the city, I will spare the whole place for their sake.
+
+Also, in nearly all cases, yiqtol is used in possible conditions, but this is mainly because of the low number of impossible conditions that are found in Biblical Hebrew. Still, impossible conditions occur with the prefix conjugation, as in example [3.11,12].
+
+38
+
+[3.11] [3.12]
+
+Deut 32:26,27
+                                          
+I would have said, "I will cut them to pieces; I will remove them from human memory," if I did not fear the anger of the enemy, lest their adversaries should misunderstand, lest they should say, "Our hand is exalted, it was not the Lord who did all this."
+Gen 13:16
+                             
+I will make your seed as the dust of the earth; if one can number the dust of the earth, your seed also can be numbered.
+
+In example [3.12] (for the particle, see [2.2]), another impossible condition is given. Since the temporal reference of the clause is present or future, yiqtol is the verb of choice. In example [3.11], the verb is separated from the particle by a fronted complement, so that the choice for yiqtol can be expected. However, at first sight, the form does not fit in nicely in the past temporal reference. Since it is Ancient Hebrew poetry, one could argue for an ancient preterite, but the plene spelling prohibits such a conclusion. However, the aspectual value of yiqtol does fit the context, if we consider it expressing a progressive/durative action of fear, not a single completed action in the past. The same explanation can be given to other conditional clauses with past temporal reference, such as Gen 31:8, where the action is iterative.
+
+[3.13]
+
+                                            
+If he said thus: `The speckled shall be your wages,' then all the flock bore speckled; and if he said thus: `The striped shall be your wages,' then all the flock bore striped.
+
+As stated above, the particle  , most often used in law, is only followed by yiqtol. Since clauses
+with this particle mainly introduce a case in law, the yiqtol is mainly found at the beginning of cases in the law. In Deuteronomy as a whole and especially chapter 22, almost every conditional clause
+is of this type. Following such an introductory  clause is typically a series of qatal clauses that
+together form the protasis and denote temporally successive conditions for the apodosis. Other pieces of law have different constructions, and consist more of series of shorter independent laws
+introduced most often by  with a yiqtol verb form, as in Exo 21; 22; Lev 13 and 25-27. Also,
+when two conditions are not independent, but not directly temporally successive, yiqtol is used, as in Exo 21:20,21.
+
+[3.14]
+
+                                        
+When a man strikes his slave or maid with a rod and he dies under his hand, he shall be avenged. But if he stands a day or two, he is not to be avenged, for it is his money.
+
+The second condition is placed some days after the first, which is explicitly stated, so the verb does not have to express temporal succession.
+
+Besides in law, yiqtol is also the verb of choice in Biblical oaths, as in Gen 26:28,29
+
+39
+
+[3.15]
+
+                                                  
+Let there be a sworn pact between us, between you and us, and let us make a covenant with you, that you will do us no evil, just as we have not striked you and have done to you nothing but good and have sent you away in peace.
+
+As stated before, in the oath, the apodosis that states the consequence, probably "thus the Lord will do to me and thus He will add" (2Sam 3:35), is left out, so that in translations it seems as if the meaning of the particles is reversed. Since the oath is valid from the time the oath was sworn, that is, in the present and future relative to the time of utterance, the prefix conjugation is the verb of choice. However, it should be questioned whether the oath should still be considered a conditional clause, if it has not developed in a clause type of its own.
+
+The verb form seems to occur also once in a conditional sentence without a particle, in Exo 33:5.
+
+[3.16]
+
+             
+
+If for a single moment I should go up in your midst, I would consume you.
+
+Again, we have a fronted item that might cause the use of yiqtol, with qatal in the apodosis. However, especially with 'a single moment', the clause might better be analyzed as a temporal clause, which would mean that there is no conditional clause with yiqtol but without a conditional particle.
+
+The word order for conditional clauses with yiqtol is again very consistent SV, with only few exceptions all of which have a fronted subject to distinguish it from the subject of preceding verses, as in Lev 4:3,19 where the condition is part of a series of laws for unintentional sinning of different groups of people, of which in this verse the priest is distinguished by fronting.
+
+From this analysis, it is clear that word order also signals the modal usage of yiqtol in conditional sentences, and the exceptions are due to fronted subjects. However, in all instances, the imperfective aspect could be found, either for the default present/future temporal interpretation, or to signal durative or iterative events. Contrary to qatal, yiqtol is not used in the Pentateuch in conditional sentences without particle.
+
+3.2.1.3 Other verbal forms Besides the two main verbal forms in conditional sentences, two others appear and will be discussed here. The most frequent alternative is the participle. As stated above, when used predicatively, the participle is a progressive gram that shares many of its semantics with yiqtol. In all occurrences, the conditional clause has the standard present/future temporal reference and the participle functions like yiqtol, as in Exo 7:27.20
+
+[3.17]
+
+                        
+
+If you refuse to let them go, behold, I will strike all your country with frogs.
+
+19 Other conditions with fronted subjects are found in Lev 4:13,27; 5:17; 25:52; Num 15:27.
+20 Other conditional clauses with participles are found in Gen 27:46; Exo 3:13; 9:2; 10:4; Lev 3:1,7; 27:8; Num 11:15; Deut 5:25.
+40
+
+The other alternative is found in Exo 4:22,23, where the narrative wayyiqtol seems to introduce a conditional clause.
+
+[3.18]
+
+                                                 
+And you shall say to Pharaoh, `Thus says the Lord, Israel is my firstborn son, and I say to you, "Send my son and he shall serve me." If you refuse to let him go, behold, I will kill your firstborn son.'
+
+Although the use of the narrative in a conditional clause is strange, there are possible explanations. That the vocalization of the Masoretes is wrong and we should read weyiqtol instead seems unlikely, since yiqtol is not found in the protasis without a particle elsewhere in the Pentateuch. However, just as the notion of temporal succession by the perfective aspect of qatal strengthens the connection between the protasis and apodosis in conditional sentences without a conditional particle, this notion is present in wayyiqtol. Still, the use of the narrative in a conditional clause is odd, and alternatively, the form could be analyzed as weyiqtol just as the preceding form, and passage not as conditional but indicative, so that God commands Moses to say to the Pharaoh that he will refuse and that God will kill his first born.
+
+3.2.1.4 No verb As in non-conditional clauses, Hebrew also has some non-verbal strategies to express a condition, as in examples [3.19,20] (for the particle of [3.20], see [2.40]).
+
+[3.19]
+
+Gen 24:49
+                         
+And now, if you are going to show steadfast love and faithfulness to my master, tell me; and if not, tell me.
+
+[3.20] Exo 22:14 If his master was with him, he shall not make a restitution.
+
+         
+
+In [3.19] two strategies are used. In the first condition, the particle of existence is used followed by a participle, although other verses also combine the particle with an infinitive. The particle is used in the conditional clauses with a meaning close to "If it is true that ...". In the second condition of the example, a protasis with only particles is found with a similar meaning "If it is not so, ...". In [3.20] a nominal clause forms the protasis. Just as with verbal strategies, these constructions can be used to express also impossible conditions or formal entreaties etc.21
+
+3.2.2 Apodosis Since in the apodosis it is not determined whether the condition is possible or not, less attention will be given to it. Still, in the model of Spradlin (1991: 144,145), verbal forms also make the apodosis more or less possible. Therefore, the attention is again directed to how the verbal forms attribute to the modal nuance of the clause, what is the difference between the various forms and whether these differences are also influenced by word order.
+
+21 For examples, see Num 22:29 [2.15] and Gen 23:8. 41
+
+3.2.1.1 qatal In the apodosis, contrary to the protasis, qatal outnumbers yiqtol two to one. This use in the apodosis was already frequent in Ugaritic, Phoenician and Canaanite inscriptions, as stated by Renz (2016: 439-465), and might have to do with temporal succession, as will be discussed below. Compared with the protasis, the syntax of the apodosis with qatal is much more consistent: with just one exception in example [3.21], the word order is SV.
+
+[3.21]
+
+Num 16:29
+                            
+If these die like the death of all men, or the punishment of all men visits them, then the Lord has not send me.
+
+Here, the subject is fronted in order to emphasize the source of the authority of Moses, that was challenged by these men. It could be argued that the verb here expresses only perfective aspect and is not used modal, to account for the SV word order, but as formulated by Holmstedt (2011: 28), the word order that indicates modality can be overridden by fronting, so modality is not ruled out. Similar arguments hold for [3.1,8]. Also, as already noticeable in Ugaritic, in the apodosis, weqatal is often seen as an inseparable unit, and only rarely a fronted object or particle comes between the waw and qatal.22
+
+An explanation for the frequent use of qatal in the apodosis, already found in ancient inscriptions, is the strong notion of temporal succession that is the default interpretation of conditional sentences, as the apodosis states the consequence of the protasis. As stated in §3.1.4.4 and noted by Hatav (1989: 493), perfective aspect causes events to be bounded, thereby expressing temporal succession, as bounded events advance the reference time, while unbounded events do not. This means that only if both protasis and apodosis have a qatal, temporal succession is expressed by the verbal forms (as in [3.5], notice that this is different with statives, as in [3.4]). This notion of temporal succession can also exist between multiple qatal forms in the apodosis to express a series of events that need to be executed in succession23, as noted by Cook (2012: 319-326). If the apodosis has a yiqtol form, the end of the action in the protasis is not implied and the action could still be going on while the apodosis has begun to take place. Similar, a yiqtol presents an action as unbounded and could overlap with the event in the protasis or occur just at some moment after it (as in [3.7]). This does not mean that a conditional sentence with yiqtol cannot be temporally successive, but it is not specified by the verbal forms. Alternatively, particles can be used, or the succession should be derived from context.
+
+Spradlin (1991: 144) stated that also in the apodosis, verbal forms determine the possibility of the action, with the perfect denoting a definite consequence. It was already stated that the problem with this theory was the assumption of a direct link between verbal forms and epistemic modality, and counterexamples are not hard to find. The frequent use of qatal in the apodosis of conditions in the law is an example, since even if the condition of a law is met, it was up to the Israelites to
+
+22 Gen 23:13; 43:14; Lev 13:37; Num 16:29; 22:33; Deut 4:24; 6:25; 8:19; 18:6; 30:17.
+23 Many examples can be found in Lev 13. 42
+
+execute the law, and examples where they did not do that are plentiful. Rather, it could be argued that in law the apodosis expresses directive modality rather than epistemic, as in example [3.22].
+
+[3.22]
+
+Lev 25:25
+                          
+If your brother becomes poor and sells from his property, let his nearest redeemer come and redeem what his brother has sold.
+
+Although most translations translate "shall come", it is more likely that qatal is used modal here to express directive force.
+
+From this analysis, it is clear that word order signals the modal usage of qatal in the apodosis of conditional sentences, and seems reanalyzed so that weqatal was seen as an inseparable unit. It is quite possibly it is this reanalysis out of which non-conditional use of weqatal emerged, a development still visible in the old inscriptions according to Renz (2016: 648-658). Still, the perfective aspect plays an important role in the notion of temporal succession between protasis and apodosis. Furthermore, there is no direct connection between epistemic modality and the use of qatal, but in law there seems to be a directive modal nuance.
+
+3.2.1.2 yiqtol Contrary to the use of qatal, yiqtol rarely is placed directly after a waw (see [2.40]), as it could be confused with the narrative wayyiqtol. Instead, in most cases there is no connecting waw (as in [3.23]), or a particle, infinitive24 or fronted item (as in [3.24]) is placed between the waw and yiqtol.
+
+[3.23] Exo 21:3
+
+                    
+
+If he comes in single, he shall go out single; if he is the husband of a wife, then his wife
+
+shall go out with him.
+
+[3.24]
+
+Lev 1:3
+              
+If his offering is a burnt offering from the cattle, let him offer a male without blemish.
+
+Likewise, since the word order for qatal in the apodosis is much more restricted, whenever the subject is fronted, yiqtol is preferred.25
+
+As stated in the previous chapter, when yiqtol is used in the apodosis, the verbal forms do not express temporal succession, as in Lev 2:14.
+
+[3.25]
+
+                         
+If you offer a food offering of firstfruits to the Lord, offer for the grain offering of your firstfruits fresh ears, roasted in fire, fresh new grain.
+
+Here, a yiqtol is used in both protasis and apodosis, and the two show clear temporal overlap. However, as stated in the previous chapter, this does not mean that a conditional sentence with
+
+24 Only in Exo 22:22. However, in the protasis this occurs more often.
+25 Occurrences are found in Gen 42:19, Exo 21:29; 22:10, Lev (25:47),26:15; 27:9; Num 30:6,13. 43
+
+yiqtol cannot have two temporally successive actions, only the verbal forms do not specify the action as such.
+
+As was the case with qatal, there is no direct relation between possibility and the use of yiqtol in the apodosis. As can be seen from example [3.12] above, where it is stated that "if one can number the dust of the earth, your seed also can be numbered", yiqtol in the apodosis can likewise be a definite consequence of the condition. It does not mean "if the dust can be numbered, then maybe also your seed"; it is stated that both are comparable in difficulty, so that if someone can do the former, he can do the latter. On the other hand, yiqtol is also used in law, where the possibility of the apodosis is less than definite, as with qatal. Similarly, its use in law can be interpreted as denoting directive modality.
+
+From this analysis, it is clear that word order signals the modal usage of yiqtol in the apodosis of conditional sentences, but to a less degree than qatal. Probably because qatal in the apodosis became so restricted to the clause initial position, yiqtol became the verb of choice whenever some item was placed before the verb. Because the imperfective aspect presents events as unbounded, temporal succession is not indicated by this verbal form, although particles and context could still point to temporal succession. Again, there is no direct connection between epistemic modality and the use of yiqtol, but in law there seems to be a directive modal nuance.
+
+3.2.1.3 Other verbal forms As an alternative to these main verbal forms, in a number of conditional sentences the imperative is found in the apodosis. As stated above, both qatal and yiqtol seem to indicate directive modality. This is more explicitly expressed by the particle, but its use in conditional clauses is only found in direct speech, often in formal entreaties, as in example [3.26].
+
+[3.26]
+
+Gen 50:4
+                           
+And Joseph spoke to the household of Pharaoh, saying, "If now I have found favor in your eyes, please speak in the ears of Pharaoh ..."
+
+The word order of the apodosis with the imperative is consistently VS, as is to be expected.
+
+The other alternative is the participle. As stated above, when used predicatively, the participle is a progressive gram that shares many of its semantics with yiqtol, and its use in the apodosis is no different. It frequently has a present/future temporal reference (as in [3.17]), or simply functions as the progressive, as in Lev 13:57.
+
+[3.27]
+
+                         
+Then if it appears again in the garment, in the warp or the woof, or in any utensil made of skin, it is breaking out.
+
+The breaking out or spreading of the disease in the garments or utensils is a clear example of the progressive aspect of the particle.
+
+44
+
+3.2.1.4 No verb As in the protasis, Hebrew also has some non-verbal strategies to express the consequence of a condition, as in examples [3.29,30].
+
+[3.28]
+
+Num 35:26,27
+               ...                           
+But if the murderer shall at any time go beyond the boundaries of his city of his refuge ... and the avenger of blood finds him outside the boundaries of his city of refuge, and the avenger of blood kills the murderer, there shall be no blood to him.
+
+[3.29]
+
+Gen 27:46
+                    
+If Jacob takes one of the daughters of the Hittite like these, one of the daughters of the land, what will life be to me?
+
+In [3.28], the existence particle is used again, while in [3.29] a nominal clause forms the apodosis. As such, none of the aspectual or modal values of the verbal forms are specified in these verses, just a simple conditional relation between the condition and what is expressed in the apodosis is present.
+
+45
+
+4. A different approach
+As was stated multiple times, the main problem with the previous models for conditional sentences in Biblical Hebrew, was that they supposed there was a direct connection between either verbal forms or particles and the possibility of a condition (epistemic modality). As chapter two showed,
+the particles  and  are not directly linked to possible and impossible conditions respectively, and a more general function can be assigned to them. The standard conditional particle,  , also
+occurred in non-conditional clauses such as questions, and is found introducing impossible
+conditions. Likewise,  is found in clauses better described as non-conditional wishes and fears
+and is used to introduce possible conditions. For example, in Gen 50:15, we saw that although contrary to facts, since Joseph treated his brothers good, it was possible that the death of their father would change this and Joseph would make them pay for the evil they had done to him. Other particles can also be used to introduce conditional clauses, but since they do not specify the
+clause as hypothetical, this must be derived from context. Where  is used to introduce circumstantial clauses, the clause type can be even less specified if only a  is present, which
+simply connects the two clauses.
+The verbal forms used in the conditional sentence likewise have no direct connection with epistemic modality. The use of qatal in the protasis, often associated with impossible conditions, is more frequent in possible conditions, although this is also due to the fact that possible conditions are far more frequent than impossible conditions. In all cases, the perfective aspect was present in the conditional clauses, and can account for the default past temporal interpretation and for temporal succession Likewise, yiqtol is used for both possible and impossible conditions. Again, the imperfective aspect can be found in all cases, explains the default present/future temporal interpretation or its use in durative or iterative events. Similar aspectual nuances are found in the clauses where the participle is used.
+Based on this analysis, a better approach to the identification of conditional clauses can be suggested. First, instead of focusing on only two separated classes, possible and impossible conditionals, we should recon that not all clauses clearly express epistemic modality, and that more nuances are important in the analysis of conditional sentences, such as aspect, tense and other types of modality like directive modality, and temporal succession.
+The semantics of the conditional clauses are not expressed by a single factor, such as verbal forms or particles, but by the combination of them. Particles used in conditional clauses mainly
+define the clause type that follows, with  and  as the main conditional particles, since they
+label a class as hypothetical, the latter additionally as "contrary to facts". If other or even no particles are used, it must be derived from the context whether the clause is hypothetical and conditional. As such, they can be used also in non-conditional clauses that are hypothetical and
+are not directly linked to epistemic modality. This explains examples as in Gen 13:16 where  is used to introduce an impossible condition and Gen 50:15, where  is used in a possible condition.
+A condition that is contrary to known facts can still be a possible alternative, and a clause that is only viewed as hypothetical, can still be impossible, even though it is not specified by the particle.
+46
+
+The verbal forms primarily express viewpoint aspect. In different contexts in conditional clauses this leads to other semantic nuances. The perfective aspect of qatal, with or without prefixed waw, can suggest that the action is completed, as in "If I have found favor in your eyes" (Gen 47:29), or have the default past temporal interpretation. The imperfective aspect of yiqtol can likewise be used in progressive/durative actions or present/future temporal reference. For both qatal and yiqtol, the VS word order indicates the modal use of the forms in a conditional clause, without a difference between possible or impossible conditions.
+An important notion in conditional clauses, that is also one of the factors that determines the choice for the use of either qatal or yiqtol is temporal succession. The perfective aspect makes most actions bounded, so that it advances the reference time, while the imperfective aspect does not. As such, multiple qatal forms following each other denote temporally successive actions. This is an important nuance for conditional clauses, because it can stress the fact that a consequence directly follows a condition. Therefore, qatal is used rather frequent in the apodosis of conditional clauses, and is the only verb used in conditional sentences without particles, in which case it is the only factor expressing the relation of the two clauses. In law, whole series of qatal forms are used in the protasis or apodosis, to describe actions that must be executed in a certain order. If a yiqtol is used in either the protasis or apodosis, the temporal succession is not specified. The actions could overlap, be too distant to speak of direct temporal succession or are in fact temporally successive, but do not use qatal to specify this; it must be derived from context. The context can also supply particles that can limit the possible nuances by either indicating temporal succession or specify a different reference time for one of the clauses.
+As such, the choice for either qatal or yiqtol is not based only on epistemic modality, but is meaningful in the various nuances that are caused by their primary aspectual value, most notably temporal succession. Other factors also played a role in the choice for certain verb forms, such as
+the particle used. When a protasis was introduced by  , yiqtol always followed. On the other hand,
+only qatal was used when the particle was missing. The imperative only occurred in direct speech. Other nuances also seemed to be expressed by the verbal forms. Besides epistemic modality, the use of both qatal and yiqtol in law also suggested that the forms are used to express directive modality, and the use of a series of qatal forms in either the protasis or apodosis indicates that the events are successive and have to take place in a fixed order.
+By combining these factors, more can be said about the realizability of a condition. Not by suggesting a direct relation between a feature and a type of modality, but by limiting the possible
+modal nuances that can be expressed by the combination of factors. For example, when  is
+combined with a verb that, in combination with the context, leads to a past temporal interpretation, the condition is impossible, since the past is generally viewed as unchangeable. When a past
+temporal interpretation is combined with the normal hypothetical particle  , it must be derived
+from the context that the condition is "contrary to facts". When the temporal interpretation is present/future, then the options are less limited, and from the context it must be derived if the condition is physically impossible (counting the sand of the see in [2.2] or gathering all the fish in the see in [2.3]) or is supposed to be impossible (Balack giving all his possessions in [2.4]). If yet other particles are used, the options are even less limited, since the clause might not be hypothetical or conditional at all.
+47
+
+This approach is also based on the theory that although verbal forms primary express aspect, the language can express tense, modality and discourse-pragmatic nuances with other strategies, but they are less specified or limited than the aspectual interpretation of the verbal forms. Similarly, particles should be given a single function, such as "presenting a clause as hypothetical", but can be used to express other nuances as well. To summarize, this approach proposes a clear distinction between semantics and pragmatics. For further research, this model could be tested on other texts from the Hebrew Bible. Also, more factors could be added. As already mentioned above, different genres prefer different conditional
+constructions. Most notably, in the law many cases where first introduced by  and followed by
+yiqtol, after which a series of qatal forms can be used to express the procedure that has to be followed in such a case. Also, as the Hebrew Bible contains texts that might span more than a millennium, the use of verbal forms, particles and more generally conditional clauses might have evolved over time, so the factor of the time a text was written might also be important. Kalkman (2015) suggests furthermore that syntax, more specifically, the relation between mother and daughter clauses, can condition the modal nuances expressed by a verb. Therefore, this should also be analyzed. More generally, this approach for studying the semantics of the conditional clause by looking at basic functions that combine with context, syntax and other factors to express a variety of aspectual, tense, modal and discourse-pragmatic nuances can and should be applied to the study of any clause type in Biblical Hebrew.
+48
+
+Abbreviations
+BDAG
+
+Bauer, W., Danker, F. W., Arndt, W. E., Ginrich, F. W., Greek-English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed., Chicago: University of Chicago Press, 2000.
+
+BDB
+
+Brown, F., Driver, S., Briggs, C., The Brown-Driver-Briggs Hebrew and English Lexicon, Mifflin and Company, Boston, Houghton, 1906, repr. Peabody, Massachusetts: Hendrickson, 2012.
+
+CDA
+
+Black, J., George, A., Postgate, N., A Concise Dictionary of Akkadian, Wiesbaden: Harrassowitz Verlag, 2000.
+
+ESV
+
+The Holy Bible: English Standard Version, Crossway Bibles, 2011.
+
+Gesenius GKC HALOT HS JM
+
+Gesenius, W., Hebraisches un Aramäisches Handwörterbuch über das Alte Testament, revised by Rüterswörden, U., Meyer, R., Donner, H., 18th ed., Berlin, New York, Heidelberg: Springer-Verlag, 1987.
+Gesenius, W., Gesenius' Hebrew Grammar, edited and enlarged by Kautzsch, E., revised by Cowley, A.E., Oxford: Clarendon Press, 1910.
+Köhler, L., Baumgartner, W., Hartmann, B., Richardson, M.E.J, The Hebrew and Aramaic lexicon of the Old Testament, Leiden: Brill, 2000.
+Brockelmann, C., Hebraïsche Syntax, Verlag der Buchhandlung des Neukirchen: Erziehungsvereins, 1956.
+Joüon, P., Muraoka, T., A Grammar of Biblical Hebrew 2nd edition, Rome: Gregorian & Biblical Press, 2011.
+
+Tropper WO
+
+Tropper, J., Ugaritische Grammatic, Alter Orient und Altes Testament 273, Münster: Ugarit-Verlag, 2000.
+Waltke, K. and O'Connor, M., An Introduction to Biblical Hebrew Syntax, Winona Lake, Indiana: Eisenbrauns, 1990.
+
+49
+
+Bibliography
+Aejmelaeus, A., "Function and Interpretation of  in Biblical Hebrew", in Journal of Biblical Literature 105, 1986, pp. 193-209.
+Andrason, A., "The Biblical Hebrew Verbal System in Light of Grammaticalization", in Hebrew Studies 52, 2011, pp. 19-51.
+Barnes, O. L., A New Approach to the Problem of the Hebrew Tenses, Thornton, Oxford, 1965. Bauer, H., "Die Tempora im Semitischen", in Beiträge zur Assyriologie und semitischen
+Sprachwissenschaft 81, 1910, pp. 1-53. Blau, J., "Marginalia Semitica I", in Israel Oriental Studies 1, 1971, pp. 1-35. Bybee, J. L., Dahl, Östen, "The Creation of Tense and Aspect Systems in the Language of the
+World", in Studies in Language 13, 1989, pp. 51-133. Bybee, J. L., Perkins, R., Pagliuca, W., The Evolution of Grammar: Tense, Aspect, and Modality in
+the Languages of the World, Chicago: University Press of Chicago, 1994. Campbell, C.R., Advances in the study of Greek, Zondervan, Grand Rapids, 2015. Cook, J. A., Time and the Biblical Hebrew Verb: The Expression of Tense, Aspect, and Modality in
+Biblical Hebrew, Winona Lake, Indiana: Eisenbrauns, 2012. Cook, J. A., "Putting old Wine in new Wineskins: A new Synthesis of the Verbal System of Biblical
+Hebrew that is neither New nor a coherent Synthesis", in Hebrew Studies 55, 2014 pp. 379-388. Cook, J. A., "Cognitive-Linguistic Confusion", in Bibliotheca Orientalis 72, 2015 pp. 294-320. Curtius, G., Elucidations of the Student's Greek Grammar, translated by Evelyn Abbott, John
+London: Murray, 1870.
+Dinur, B. Z., "   ", in Les 22, 1957-1958, p. 199.
+Driver, S. R., A Treatise on the Uses of the Tenses in Hebrew: And Some Other Syntactical Questions, 3rd ed., Oxford: Clarendon Press, 1892, reprint 1998.
+Ewald, H., Ausführliches Lehrbuch der hebräischen Sprache des Alten Bundes, 8th ed., Göttingen: Dieterichschen Buchhandlung, 1870.
+Ewald, H., Syntax of the Hebrew Language of the Old Testament, translated by Kennedy, J., Edinburgh: T & T Clark, 1879.
+Ferguson, H., "An Examination of Conditional Sentences in Hebrew", in Journal of the Society of Biblical Literature and Exegesis, vol. 2, 1882, pp. 40-90.
+Friedrich, P., Die Hebräische Conditionalsätze, Halle: Ehrhardt Karras, 1884. Furuli, R. J., A New Understanding of the Verbal System of Classic Hebrew: An Attempt to
+Distinguish between Semantic and Pragmatic Factors, Oslo: Awatu, 2006. Gesenius, W., Hebrew Grammar, translated by Benjamin Davies, London: Samuel Bagster and
+sons, 1846. Gordon, C. H., Ugaritic textbook, Rome: Pontifical Biblical Institute, 1965. Gzella, H., "Probleme der Vermittlung hebräischer Verbalsyntax am Beispiel von 2 Sam 11­12", in
+Kleine Untersuchungen zur Sprache des Alten Testaments und seiner Umwelt 12.13, 2011, 7-39. Haiman, J., "Conditionals", in Jacobs et. all (eds.), Syntax - An International Handbook of Contemporary Research, vol. 1, Berlin, New York: Walter de Gruyter, 1993, pp. 923-929. Hatav, G., "Aspect, Aktionsarten, and the Time Line", in Linguistics 27, 1989, pp. 487-516.
+Holmstedt, R. D., "Headlessness and Extraposition: another Look at the Syntax of ", in Journal
+of Northwest Semitic Languages 27, 2001, pp. 1-16. Holmstedt, R. D., The Relative Clause in Biblical Hebrew: a Linguistic Analysis, University of
+Wisconsin-Madison, 2002. 50
+
+Holmstedt, R. D., "The Typological Classification of the Hebrew of Genesis: Subject-Verb or VerbSubject?", in Journal of Hebrew Scriptures 11, http://www.jhsonline.org/, 2011.
+Huehnergard, J., "Asseverative *la and Hypothetical *lu/law in Semitic", in Journal of the American Oriental Society 103, pp. 569-593.
+Jenni, E., Die hebräische Präpositionen: Die Präposition Beth, Kohlhammer, Stuttgart, 1992. Joosten, J., The Verbal System of Biblical Hebrew: A New Synthesis Elaborated on the Basis of
+Classical Prose, Jerusalem Biblical Studies 10, Jerusalem: Simor, 2012. Joüon, P. and Muraoka, T., A Grammar of Biblical Hebrew 2nd edition, Rome: Gregorian & Biblical
+Press, 2011. Kalkman, G. J., Verbal Forms in Biblical Hebrew Poetry: Poetic Freedom or Linguistic System?, 's-
+Hertogenbosch: Uitgeverij Box Press, 2015. Knudtzon, J. A., "Zur assyrischen und algemein semitischen Grammatik", in Zeitschrift für
+Assyriologie 7, 1892, pp. 55-63. Lambdin, O. T., Introduction to Biblical Hebrew, New York: Scribner, 1971. Lee, J.A.L., A History of New Testament Lexicography, Studies in Biblical Greek 8, New York: Peter
+Lang, 2003. Locke, J., An Essay Concerning Human Understanding, Oxford: Clarendon Press, 1975. Louw, J.P., Nida, A.E., Greek-English Lexicon of the New Testament Based on Semantic Domains,
+New York: United Bible Societies, 1988. McFall, L., The Enigma of the Hebrew Verbal System, Historic Texts and Interpreters in Biblical
+Scholarship 2, Sheffield: Almond Press. Meyer, R., "Das hebräische Verbalsystem im Licht der gegenwärtigen Forschung", in Congress
+Volume: Oxford 1959, Vetus Testamentum Supplementum 7, Leiden: Brill, 1960, pp. 309-317. Müller, H. P., "Zur Geschichte des hebräischen Verbs: Diachronie der Konjugationsthemen", in
+Bibliche Zeitschrift 27, pp. 34-57. Muraoka, T., Emphatic words and structures in Biblical Hebrew, Brill, Jerusalem, Leiden, 1985. Niccacci, A., The Syntax of the Verb in Classical Hebrew Prose, translated by Watson, W. G. E.,
+Journal for the Study of the Old Testament Supplement 86, JSOT Press, Sheffield, 1990. Nötscher, F., "Zum emphatischen Lamed", in Vetus Testamentum 3, pp. 372-380. del Olmo Lete, G., Sanmartín, J., A Dictionary of the Ugaritic Language in the Alphabetic Tradition,
+translated and edited by Watson, W.G.E., Leiden: Brill, 2015. Palmer, F. R., Mood and Modality, Cambridge: Cambridge University Press, 2001. Reichenbach, H., Elements of Symbolic Logic, London: Collier-Macmillan, 1947. Renz, J., "Alt oder Spät?", in Zeitschrift für die alttestamentliche Wissenschaft 128, two parts, 2016
+pp. 433-467, 626-667. Revell, E. J., "The System of the Verb in Standard Biblical Prose", in Hebrew Union College Annual
+60, 1989, pp. 1-37. Robar, E., "An old Argument in new Garb: John Cook on Aspect and Biblical Hebrew", in Hebrew
+Studies 55, 2014, pp. 399-409. Robar, E., The Verb and the Paragraph in Biblical Hebrew. A Cognitive-Linguistic Approach,
+Studies in Semitic Languages and Linguistics 78, Leiden, Boston: Brill, 2015. Rogland, M.F., Alleged Non-Past Uses of the Qatal in Classical Hebrew, Leiden: Dissertations
+Leiden, 2001. Schroeder, N. W., Institutiones ad Fundamenta Linguae Hebraicae, 4th edition, Glassgow: Prelum
+Academicum, 1824.
+51
+
+Silverman, M. H., "Syntactic notes on the Waw Consecutive", in Orient and Occident: Essays Presented to Cyrus H. Gordon, ed. H. A. Hoffner Jr., Alter Orient und Altes Testament 22, Kevelaer: Butzon and Becker, 1973, pp. 167-175.
+Smith, C. S., "The pragmatics and Semantics of Temporal Meaning", in Proceedings, Texas Linguistic Forum 2004, ed. Denis, P., Mccready, E., Palmer, A., Reese, B., Somerville: Cascadilla, 2006, pp. 92-106.
+Spradlin, M. R., An investigation of conditional sentences in the Hebrew text of Isaiah, Mid-America Baptist Theological Seminar, 1991.
+Steiner, R. C., "Does the Biblical Hebrew Conjunction - Have Many Meanings, One Meaning, or
+No Meaning at All?", in Journal of Biblical Literature, Vol. 119, 2000, pp. 249-267. Talstra, E., "Text Grammar and the Hebrew Bible I: Elements of a Theory", in Bibliotheca Orientalis
+35, 1978, pp. 168-175. Talstra, E., "Text Grammar and Biblical Hebrew: The Viewpoint of Wolfgang Schneider", in Journal
+of Translation and Textlinguistics 5, 1992, pp. 269-297. Tropper, J., "Tempusmarkierung durch Wortstellung?", in Zeitschrift für Althebräistik 11, 1999, pp.
+153-190.
+52

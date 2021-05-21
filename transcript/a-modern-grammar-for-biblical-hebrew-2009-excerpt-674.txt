@@ -1,0 +1,1988 @@
+iii
+TABLE OF CONTENTS
+A. Orthography and Phonology 1. The Hebrew Alphabet and Vowels .....................................................................................1 2. Pointed Vowel Letters and the Silent Shewa....................................................................12 3. Daghesh Forte, Mappiq, Metheg, and Rules for Gutturals ...............................................18 4. Accent Shift and Vowel Changes .....................................................................................23 B. Basic Morphology and Syntax 5. Gender and Number in Nouns ..........................................................................................28 6. Hebrew Verbs ...................................................................................................................33 7. The Directive , Negative  , and Interrogative  ..........................................................42 8. The Definite Article ..........................................................................................................45 9. Roots, Stems, and the Qal Qatal.......................................................................................50 10. The Conjunction and the Qal Yiqtol and Weqatal ..........................................................58 11. The Qal Infinitive Construct and Wayyiqtol ...................................................................68 12. The Construct Chain .......................................................................................................74 13. Prepositions.....................................................................................................................83 14. Pronominal Suffixes on Nouns and Prepositions............................................................89 15. Adjectives and the Qal Participles ..................................................................................99 16. Geminate and Segholate Nouns ....................................................................................106 17. Pronouns .......................................................................................................................116 18. More About  and  and the Qal Imperative ............................................................122 19. Numbers........................................................................................................................127 20. Stems, Roots, and Principal Parts of Weak Roots with Gutturals in the Qal Stem ......134 21. Principal Parts of Other Weak Roots in the Qal Stem ..................................................144 22. Characteristics of the Niphal, Piel, and Hiphil .............................................................150 23. Characteristics of the Pual, Hophal, and Hithpael ........................................................161 24. Principal Parts of Weak Roots in the Derived Stems ...................................................167 25. Pronominal Suffixes on Verbs ......................................................................................178 26. The Qal Infinitive Construct with Suffixes, the Qal Infinitive Absolute, and   .......186 C. Detailed Study of the Qal Verb 27. The Qal Yiqtol and Wayyiqtol with Weak Roots ..........................................................196 28. The Qal Imperative and Participle with Weak Roots ...................................................206 29. The Qal Qatal with Weak Roots, Qal Statives, and the Qal Passive Participle ...........212 30. The Qal Cohortative, Jussive, and Weyiqtol .................................................................220
+
+iv
+D. Detailed Study of the Derived Stems 31. The Niphal ....................................................................................................................226 32. The Piel and Pual ..........................................................................................................235 33. The Hiphil and Hophal..................................................................................................246 34. The Hithpael..................................................................................................................261 35. The Alternative Doubled Stems....................................................................................267 E. The Masoretic Text, Detailed Study of Syntax, and Poetry 36. The Cantillation Marks and Other Masoretic Conventions ..........................................273 37. An Overview of Text Syntax and Literary Structure....................................................283 38. More on Historical Discourse and Paragraphs, Connectors, and Subordination..........296 39. More on Anticipatory and Descriptive Discourse ........................................................312 40. Discourse Markers and More on Directive Discourse ..................................................321 41. An Overview of Poetry .................................................................................................336 F. Appendixes Appendix 1: Basics for Using Your Hebrew Bible ............................................................349 Appendix 2: Noun Types and Basics for Using Your Hebrew Lexicon.............................366 Appendix 3: Distinguishing Subject and Predicate in Nominal Clauses............................371 Appendix 4: Connection, Offline Clauses, and Text Type Predicate Patterns ...................373 Appendix 5: Glossary for the Study of Hebrew Grammar .................................................375 Appendix 6: Hebrew-English Vocabulary­­By Chapter ...................................................385 Appendix 7: Hebrew-English Vocabulary­­By Alphabet .................................................398 Appendix 8: Principal Parts and Finite Verb Paradigms ....................................................411
+
+<#???#>
+
+v
+
+PREFACE
+A Modern Grammar for Biblical Hebrew and its accompanying materials are designed for two semester course of study. The textbook's structure, however, is intentionally set up to allow maximal use in both traditional and non-traditional academic settings. The format of the material gives instructors numerous options for customizing their syllabi.
+1. Possible Tracks Looking at the Table of Contents, you can see that the grammar is organized in the following manner:
+(1) Orthography and Phonology (chapters 1­4) (2) Basic Morphology and Syntax (chapters 5­26) (3) Detailed Study of the Qal Verb (chapters 27­30) (4) Detailed Study of the Derived Stems (chapters 31­35) (5) The Masoretic Text, Detailed Study of Syntax, and Poetry (chapters 36­41)
+It is important to realize that the student is introduced to all essential elements of biblical Hebrew grammar, including the derived stems, by the end of chapter 26. The grammar provides the following four options for a full course of study:
+(1) Chapter 26: Ending here enables professors to cover nearly all traditional first-year grammar, including an introduction to weak verbs and derived stems. Students will
+have studied the Qal strong verb and III- verb with full inflections, but they will
+have also become acquainted with weak verbs and derived stems by means of inflected vocabulary, principal parts, and translation practice. Two extra topics on which first-year professors may want to comment are the jussive and cohortative forms in chapter 30 and the alternative doubled stems in chapter 35. (2) Chapter 30: This ending point allows professors to address all traditional first-year grammar, with all Qal weak forms being taught through full inflections and with the derived stems being taught through principal parts. The one additional topic that professors may want to address is the alternative doubled stems in chapter 35. (3) Chapter 35: By this point, all traditional first-year grammar has been covered, with all stems being taught through full inflections along with full discussions of the derived stem verbs in weak roots. (4) Chapter 41: Completing the whole book allows professors to cover all traditional first-year grammar, along with an introduction to essential intermediate issues like the Hebrew cantillation system, text syntax (as opposed to sentence syntax), literary structure, discourse markers, poetry, textual criticism, and lexicography. Students will have translated over 300 verses of actual biblical Hebrew (plus numerous pratice sentences) and memorized nearly all words used 79 times or more in the Hebrew Bible (plus some extras), including 510 core vocabulary and 155 proper names.
+
+vi
+
+A Modern Grammar for Biblical Hebrew
+
+Some instructors may choose to take their students through all 41 chapters in a three-semester program. There may also be those who dod not have enough time to complete the book but who still desire to incorporate some intermediate-level material into a first-year course. For these, the grammar is very usable since, so long as students have learned to use their lexicons, professors can jump to specific textbook chpaters and readings without in any way jeopardizing the students' mastery of teh basics. Since most teachers of first-year Hebrew will want students to become acquainted with basic guidelines for using the Hebrew Bible and the lexicon, and also with noun types, information on these topics is provided in Appendixes 1 and 2.
+
+2. A Note on Vocabulary
+Accompanying this material are "Third Semester Hebrew Catch-up Lists" that will allow students to master vocabulary down to 100 uses, regardless of which of the four termination options were used in the first year. If you skip chapters, we encourage you to have students continue to work on vocabulary in the consecutive chapters, so as to enable the use of these catch-up lists.
+
+3. Ancillary Materials
+The CD in the back of this volume contains many helpful materials for the student, including audio files for the alphabet and vocabulary. Additional ancillary materials for students and teachers are available on the publisher's Web site at http://www.bhacademic.com/AModern-Grammar-for-Biblical-Hebrew/.
+
+4. Acknowledgements
+With profound appreciation, we here offer our thanks to those who toiled for hours in proofreading, evaluating, and correcting this work. Responsibility for any remaining errors is entirely ours. Special thanks go to Anna Strom, Jason Andersen, Sarah Lysaker, Dr. Rebekah Josberger, and Dr. David Stabnow. Their thoroughness, enthusiasm, and honesty are deeply appreciated. We also thank Dr. Kenneth Turner of Bryan College and Brian Tabb and Ryan Griffith of Bethlehem College and Seminary for trying early drafts of this material in the classroom. We must also voice the deepest gratitude to our own Hebrew students at The Southern Baptist Theological Seminary and Northwestern College (MN), who patiently bore with the early manuscript versions of this grammar while kindly making suggestions for its improvement.
+Finally and chiefly, we joyfully give praise to God, whose clear and sufficient disclosure of himself and his will through the Scripture makes such a grammar possible and necessary. Being confident in all God's past and future grace won for us through Messiah Jesus, we pray our grammar will help equip the next generation to study, practice, and teach all of God's Word in God's world for God's glory.
+
+Duane A. Garrett and Jason S. DeRouchie Easter Week 2009
+
+Chapter 1: The Hebrew Alphabet and Vowels
+
+1
+
+CHAPTER 1 THE HEBREW ALPHABET AND VOWELS
+
+The Hebrew alphabet consists entirely of consonants, the first being  (Aleph) and the last being  (Taw). It has 23 letters, but  (Sin) and  (Shin) were originally counted as one letter, and thus it is sometimes said to have 22 letters. It is written from right to left, so that in
+the word written , the letter  is first and the letter  is last. The standard script for biblical Hebrew is called the square or Aramaic script.
+
+A. The Consonants 1. The Letters of the Alphabet
+Table 1.1. The Hebrew Alphabet
+
+1  Aleph 2  Beth 3  Gimel 4  Daleth 5  Hey 6  Waw
+
+7  Zayin 8  Heth 9  Teth 10  Yod 11  Kaph 12  Lamed
+
+13  Mem 14  Nun 15  Samek 16  Ayin 17  Pe 18  Tsade
+
+19  Qoph 20  Resh 21  Sin 22  Shin 23  Taw
+
+To master the Hebrew alphabet, first learn the signs, their names, and their alphabetical order. Do not be concerned with the phonetic values of the letters at this time.
+
+2. Letters with Final Forms
+Five letters have final forms. Whenever one of these letters is the last letter in a word, it is written in its final form rather than its normal form. For example, the final form of Tsade is  (contrast ). It is important to realize that the letter itself is the same; it is simply written differently if it is the last letter in the word. The five final forms are as follows.
+
+Table 1.2. Consonants with Final Forms
+
+Normal Form 
+
+
+
+
+
+
+
+
+
+Final Form
+
+9
+
+
+
+
+
+
+
+
+
+(1) In 9 (mlk),  (the first letter, reading the Hebrew right to left) has the normal form, but the last letter in the word is  in its final form (9).
+(2) In  (lkm), the  has the normal form, but the  has the final form ().
+
+2
+
+A Modern Grammar for Biblical Hebrew
+
+Blackboard 1.1. The Use of Final Forms of Letters
+
+Final Form
+
+Final Form
+
+#"! %$"
+
+Normal Forms
+
+Normal Forms
+
+3. Confusing Letters Hebrew can be difficult to read because many letters look very similar. Observe the letters in the following chart. In each box, you see a series of letters that look similar to one another. Be sure that you can distinguish which letter is which.
+Table 1.3. Easily Confused Letters
+
+
+
+
+
+
+
+9
+
+
+
+
+
+
+
+4. The Phonetic Value of the Alphabet
+For learning the alphabet, Hebrew consonants can be divided conveniently into six groups: begadkephat letters, sibilants,  and , gutturals, liquids, and nasals. These six groups are not built around phonetic definitions of the Hebrew consonant system, although some phonetic terminology is used. These groups simply provide a framework for learning to pronounce the letters of the Hebrew alphabet.
+
+a. Begadkephat Letters
+Referred to as the begadkephat letters (from the artificial memory words     ), the letters , , , , , and  are unique in that each has two distinct phonetic values. Each of these may be found with a dot called a Daghesh Lene (e.g., ) or without the Daghesh Lene (e.g., ).
+(1) If the Daghesh Lene is present, the letter is a plosive, like the English B.
+(2) If there is no Daghesh Lene, the sound is a fricative or spirant (there is a strong breathing sound, as with the English V sound).
+
+Table 1.4. The "Begadkephat" Letters
+
+With
+
+
+
+Daghesh
+
+Lene B as in boy
+
+
+G as in good
+
+
+
+
+
+D as in dot K as in kite
+
+
+P as in paste
+
+ T as in tin
+
+Without Daghesh
+Lene
+
+
+V as in very
+
+
+GH as in dog house
+
+
+voiced TH as in then
+
+
+C as in cool
+
+ F as in fix
+
+
+unvoiced TH as in
+thin
+
+Chapter 1: The Hebrew Alphabet and Vowels
+
+3
+
+Do not think of the begadkephat letters as twelve different letters. There are only six. In a given word the same begadkephat letter will be written sometimes with and sometimes without a Daghesh Lene, according to rules we will learn in the next chapter. The Daghesh Lene is used only with these six begadkephat letters.
+b. The Gutturals
+Hebrew has four guttural letters: , , , and . The sounds of these letters are made at the back of the throat. For English speakers, the "sounds" of  and  are especially odd. The letter  is a mild "glottal stop," the tiny sound made by the tightening of the throat before the oh sound in uh-oh. But for all practical purposes,  has no sound at all.  was necessary, however, because originally Hebrew was written with no vowels. Writing without vowels obviously posed a problem if, for example, a word began with a vowel sound. Some letter had to be an "empty" consonant to show that there was a vowel there, and  had that role. The  is a strong "glottal stop," and it has a much stronger guttural sound. It is important to try to pronounce the letters distinctly. Today, people frequently treat  and  as redundant (both having no sound) and also treat  and  as redundant (both having an H sound). Biblical Hebrew does not confuse these letters.
+Table 1.5. The Gutturals
+Almost no sound; a weak glottal stop. The tiny sound made by the tightening  of the throat before the oh sound in uh-oh.
+A strong glottal stop. Exaggerate the sound made by the tightening of the  throat before the oh sound in uh-oh, and add a slight but hard G sound.
+Somewhat similar to the final guttural sound of the English -ING ending.
+ H as in hot.
+ Like H but with friction at the back of throat; like the CH in Scottish loch.
+
+c. The Sibilants These are the S-type letters. They are created by passing air between the teeth. These letters differ from one another in several respects as described in the chart below.
+(1) Voiced refers to a consonant that is pronounced while using the voice (e.g., the sound of Z); unvoiced refers to a consonant pronounced without using the voice (e.g., the sound of S).
+(2) To English speakers,  and  appear to be redundant letters, but probably most speakers of biblical Hebrew could distinguish the two.
+Table 1.6. The Sibilants
+ Z as in Zion; voiced
+ S as in sack; a sharp S made with teeth; unvoiced
+ TS as in hats; unvoiced but emphatic
+
+4
+
+A Modern Grammar for Biblical Hebrew
+
+ S as in seen; a softer S than the Samek; unvoiced and slightly aspirated  SH as in sheen; unvoiced and strongly aspirated
+
+d. Velar (Emphatic) T and K The letter  is a T sound that may have been pronounced more on the palate than was the case with its counterpart  (the  seems to have been pronounced with the tongue on the back of the teeth). The letter  is a K that was probably pronounced further back in the throat, more in the back of the palate, than . These two consonants are pronounced more emphatically and are called velars. The  is also a velar.
+Table 1.7.  and   a T made more on the palate, as in tot; may have had a glottal sound
+ a K sound at the back of the throat; no English analogy
+e. The Nasals A nasal is a sound made by vibrating the vocal chords while obstructing the flow of air through the mouth with the lips or tongue with the result that air and its sound comes out the nose instead of the mouth. Hebrew has two nasals:  (which obstructs airflow with the lips) and  (which obstructs airflow with the tongue on the palate). These are like their English counterparts M and N.
+Table 1.8. The Nasals
+ M as in miss
+ N as in now
+f. The Linguals A lingual is a consonant sound made by causing the airstream the flow over the sides of the tongue, as in the English L and R.
+Table 1.9. The Liquids
+ L as in look
+ R as in read
+
+g. The Glides (Semivowels) A semivowel or glide is a consonant with a vowel-like sound; sometimes they are actually used as vowels. For example, English Y is a consonant in yoke but a vowel in easy. Hebrew has two semivowels:  and .
+ W as in wish (modern pronunciation: like V in very)
+
+Chapter 1: The Hebrew Alphabet and Vowels
+
+5
+
+ Y as in yes
+
+h. Phonetic Classification of the Letters
+The velars  and  are also plosive like , not fricative like . Notice also that the begadkephat letters are in three classes: labials (made with the lips), palatals (made on the palate), and dentals (made with the front teeth). As you can see, the begadkephat letters are subdivided by whether they are voiced or unvoiced and whether they are fricative or plosive.
+In the table below, unvoiced consonants are italicized, and voiced consonants are bold.
+
+Table 1.10. Letters Phonetically Classified
+
+Class Fricative Plosive Velars
+
+Nasals
+
+Glides
+
+Other
+
+Labials
+
+
+
+
+
+
+
+
+
+Palatals
+
+
+
+
+
+
+
+
+
+Dentals
+
+
+
+
+
+
+
+
+
+Gutturals
+
+  
+
+Sibilants
+
+
+
+
+
+Linguals
+
+
+
+i. Summary of the Pronunciation of the Hebrew Consonants The following chart summarizes the phonetic values of the Hebrew alphabet.
+
+Table 1.11. Pronunciation of the Hebrew Consonants
+
+ almost silent
+
+ CH of loch
+
+ P of paste
+
+ B of boy
+
+ T of tot
+
+ F of fix
+
+ V of very
+
+ Y of yes
+
+ TS of hats
+
+ G of good
+
+ K of kite
+
+ K at back of throat
+
+ GH of dog house
+
+ C of cool
+
+ R of read
+
+ D of dot
+
+ L of look
+
+ S of seen
+
+ TH of the
+
+ M of miss
+
+ SH of sheen
+
+ H of hot
+
+ N of now
+
+ T of tin
+
+ W or V
+
+ S of sack
+
+ TH of thin
+
+ Z of zoo
+
+ strong glottal stop
+
+6
+
+A Modern Grammar for Biblical Hebrew
+
+5. Writing Hebrew Letters
+
+You obviously will want to learn to write Hebrew letters. Everyone develops his or her par-
+
+ticular style for writing Hebrew letters, but use the following guidelines.
+
+(1) Remember that Hebrew is written from right to left. Thus, the general motion of your
+
+hand should be right to left rather than left to right.
+
+(2) Be sure that your letters are standard and recognizable to all people who know He-
+
+brew. Do not develop an eccentric style.
+
+(3) Make your writing clear by including the small marks that distinguish similar letters. Your  should not look like . Final Nun () should drop below the rule line; Waw () should not.
+
+(4) On the other hand, you do not need to imitate the very formal style of the Hebrew letters found in a Hebrew Bible. Simple lines, as found in the letters below, suffice. The stroke order found in the letters below will help you write clear letters that move from right to left.
+
+< ; : 9 8 2
+
+1
+
+1
+
+2
+
+21
+
+2
+
+2
+
+3
+
+1
+
+1
+
+% $ # " ! 1
+
+1
+
+2
+
+12
+
+1
+
+1
+
+1
+
+*
+
+) ( ' & 1
+
+2
+
+2
+
+1
+
+1
+
+1
+
+/ . - , + 1
+
+2
+
+1
+
+1
+
+2
+
+1
+
+2
+
+1
+
+22
+
+1
+
+7 61
+
+2
+
+1
+
+2
+
+1 0 2
+
+2
+
+1
+5 1
+
+4 = 3 1
+
+21
+
+1
+
+3
+
+2
+
+B. The Concept of Vowel Points
+1. Background Biblical Hebrew was originally written without vowels; the tradition of how to vocalize correctly the Hebrew text was passed down orally from one generation to the next. But
+
+Chapter 1: The Hebrew Alphabet and Vowels
+
+7
+
+eventually, the scribes realized that some way of writing down the vowels had to be devised if the correct pronunciation was not to be lost or corrupted. They were not willing, however, to deface the sacred text by inserting large vowels (like the Roman letters A, E, or U) that would require moving aside the received letters. Instead, they created a system of dots and lines to represent vowels. They were able to insert these minute vowels around the Hebrew letters of the text without having to move the letters. The vowel signs are called vowel points. By about the seventh century A.D., the current system of vowel pointing was made the standard. The scribes who devised this system are commonly called the Masoretes, and thus the standard text they produced is called the Masoretic Text (MT).
+
+2. Simple Vowels and Their Classes
+(1) Hebrew vowel points are written below the consonants, or to the left of the consonants, or raised and to the left of the consonants, as in the examples below.
+(a) The vowel Hireq is a small dot written under a consonant. It is pronounced like the English I in hit. Thus,  is MI as in miss.
+(b) The vowel Holem is a small, raised dot slightly to the left of its consonant. It is pronounced like the O in hole.  would be pronounced MO.
+(2) A vowel is pronounced after the consonant that it is with. Thus,  is MI and not IM. (3) Hebrew vowels may be described in three categories: simple vowels, pointed vowel
+letters, and reduced vowels. All make use of vowel points (reduced vowels are described below; pointed vowel letters are described in chapter 2).
+(4) Hebrew has long and short vowels, but the quantity of a vowel in a given word can change depending on what happens to that word. If a word is altered (for example, by the addition of a suffix), a long vowel may be replaced by a short vowel, or a short vowel by a long one. A vowel that can undergo this kind of change can be called changeable. We learn how vowels change in chapter 4.
+(5) The Hebrew vowels are divided into three classes called a-class, i-class, and u-class. Generally, vowels change within their classes (this is not an invariable rule). A long a-class vowel (Qamets) might become a short a-class vowel (Pathach) but will not normally become a short u-class vowel (e.g., Qibbuts).
+
+Table 1.12. The Simple Vowel Points
+
+Class
+
+Symbol
+
+Name
+
+Quantity
+
+Sound
+
+A
+
+
+
+
+
+Pathach
+
+A
+
+
+
+
+
+Qamets
+
+I
+
+
+
+
+
+Hireq
+
+I
+
+
+
+
+
+Seghol
+
+I
+
+
+
+
+
+Tsere
+
+short long short short long
+
+A of cat A of father
+I of hit E of set E of hey
+
+8
+
+A Modern Grammar for Biblical Hebrew
+
+U
+
+
+
+
+
+Qibbuts
+
+short
+
+U of cut
+
+U
+
+
+
+
+
+Holem
+
+long
+
+O of whole
+
+U
+
+
+
+
+
+Qamets Hatuph
+
+short
+
+O of tote
+
+Under the column "Symbol," you can see both how the vowel looks when written with a consonant (in this case, ) and how it looks by itself. There are three ambiguities in the vowels listed above.
+(1) A single vowel symbol ! is used for both the Qamets and Qamets Hatuph. In order to distinguish the two, you must know how to tell a short syllable from a long syllable. This is discussed in chapter 3.
+(2) The vowel Holem written with the letter Shin or Sin is confusing. A Shin with Holem looks like this:  . A Sin with Holem looks like this:  . Sometimes a single dot does double duty, so that Sin with Holem looks like this: .
+(3) Holem is in some words "unchangeable." When unchangeable, it stays the same and will not be transformed into a different vowel. For example, in   ("judge") it is unchangeably long. In different words, however, Holem will change. The reason for this is described in the next lesson.
+
+3. The Reduced Vowels
+Sometimes a simple long or short vowel will become an extremely short or "reduced" vowel. Hebrew has four such "reduced" vowels. These are analogous to the very short sound for the E many people use when pronouncing "because" (as because).
+
+Name Shewa Hateph Pathach Hateph Seghol Hateph Qamets
+
+Table 1.13. The Reduced Vowels
+
+Symbol
+
+Sound
+
+
+
+
+
+E of because
+
+
+
+
+
+A of aside
+
+
+
+
+
+E of mechanic
+
+
+
+
+
+first O of tomato
+
+Transliteration    
+
+The three vowels with the name Hateph are also called composite Shewas. They are almost always found with gutturals and not with the other letters.
+
+C. Other Introductory Matters
+1. Basic Transliteration From time to time, you will see Hebrew words written in transliteration, that is, written with Roman characters. The following chart gives you standard transliterations for the consonants and vowels you have learned. By practicing transliterating Hebrew words in the early
+
+Chapter 1: The Hebrew Alphabet and Vowels
+
+9
+
+stage of your learning, you can better associate the Hebrew letters with their phonetic val-
+ues. At the same time, you should never rely on transliteration for reading and pronuncia-
+tion. Learn to read and pronounce Hebrew letters. Using the following table, the word   would be transliterated as <ååm, and  would be transliterated as ar.
+
+Table 1.14. Transliterations for Consonants and Basic Vowels
+
+
+
+<
+
+
+
+w
+
+
+
+m
+
+
+
+r
+
+
+
+a
+
+
+
+b
+
+
+
+z
+
+
+
+n
+
+
+
+
+
+
+
+å
+
+
+
+
+
+
+
+
+
+
+
+s
+
+
+
+¡
+
+
+
+i
+
+
+
+g
+
+
+
+
+
+
+
+>
+
+
+
+t
+
+
+
+e
+
+
+
+æ
+
+
+
+y
+
+
+
+p
+
+
+
+®
+
+
+
+
+
+
+
+d
+
+
+
+k
+
+
+
+
+
+
+
+u
+
+
+
+
+
+
+
+¬
+
+
+
+ß
+
+
+
+ø
+
+
+
+h
+
+
+
+l
+
+
+
+q
+
+
+
+o
+
+2. Reading a Hebrew Word Read the word from right to left and pronounce the consonant before you pronounce a vowel that is below or to the left of that consonant.
+Blackboard 1.2. Pronouncing Hebrew with Vowel Points
+Reading Direction
+#!"  &$%
+
+!ar
+
+"#$
+
+
+
+Transliteration Direction
+
+3. Basic Accentuation In Hebrew, words are normally accented on the last syllable of the word (the ultima). Not infrequently, however, the accent is on the second to last syllable (the penult). In this textbook, words accented on the ultima have no special mark, but words accented on the penult are marked with the  sign, as follows: 9  .
+4. Gender in Nouns Every noun in Hebrew is masculine or feminine. There is no neuter gender. We will learn
+more about gender in nouns in chapter 5. Every noun in the vocabulary is marked with m
+
+10
+
+A Modern Grammar for Biblical Hebrew
+
+for masculine nouns and f for feminine nouns. If a noun has both m and f with it, that
+means that it could be either gender.
+
+5. Nouns in Construct
+The normal or lexical form of a noun is called the absolute form in Hebrew. For example,   is an absolute noun and means "word" or "a word." There is also a form of the noun called the construct. Think of the construct form as always having the English "of" after it. The construct form of   is   , and it means "word of." Notice in   the Shewa under the  and the Pathach under the . A construct noun followed by an absolute noun forms a construct chain. For example, the phrase 9    means "a word of a king" (that is, "a king's word"). The construct noun is always in front of the absolute noun.
+Blackboard 1.3. The Basic Construct Chain
+
+Absolute noun
+
+Construct noun
+
+"king"
+
+"word of"
+
+)(' &'! %#$ !"
+
+"a word of a king" ("a king's word")
+
+(1) In some cases, the absolute noun and the construct look exactly the same; in other cases, they are different. You will learn about this in chapter 12.
+(2) For now, focus on memorizing the absolute form of each noun and on familiarizing yourself with the construct forms. Exercises in the workbook will help you get used to seeing construct forms.
+(3) In the vocabulary lists, you will see the construct singular form of each noun given between two vertical lines like |  |.
+Below is an example of how a noun is listed in the vocabulary.
+
+Absolute form
+$#!"
+
+Gender
+human, Adam m |$#!" |
+
+Meaning(s) Construct form
+
+D. Vocabulary
+Learn the following vocabulary words and use these words to practice the pronunciation of Hebrew words with simple vowels. Distinguish the sounds of begadkephat letters with Daghesh Lene from those without it. In all of the words given in the list below, ! is Qamets and not Qamets Hatuph.
+
+Chapter 1: The Hebrew Alphabet and Vowels
+
+11
+
+In this textbook, there are four categories of vocabulary. (1) Core Vocabulary: These are the essential words for memorization. Each of these words appears frequently in the Hebrew Bible, and some appear hundreds of times. (2) Inflected Vocabulary: In the early chapters, some words will be given in an inflected form (like the English saw from the verb see). These words will enable you to begin reading simple sentences and will serve as reference points as you progress in the grammar. (3) Proper Names: The names of people and places; these are easy to recognize. (4) Reading Vocabulary: These are words that you need in order to read a specific biblical passage in the lesson. These words either are inflected in a pattern that you have not yet studied or are relatively uncommon words and therefore not in the core vocabulary.
+
+1. Core Vocabulary
+
+ 
+
+human, Adam m |  |
+
+           
+
+earth, land f |  | fire f | | word, thing m |  | knowledge f |   | old (adjective); elder, old man (noun) m |  | village, courtyard fm |  |
+
+9 
+
+king m |9  |
+
+      
+
+servant, slave m |  | flock (of sheep or goats) (s or p collective) f | | ruler, leader, prince m | | judge, leader m |  |
+
+Chapter 6: Hebrew Verbs
+
+33
+
+CHAPTER 6 HEBREW VERBS
+
+A. Inflected Verbs
+
+1. Using Inflected Verbs
+Consider the following:
+(1)   by itself can be translated "he will fall," but the subject is always masculine and singular. This verb is inflected, meaning that it is in a specific form that indicates, among other things, gender (masculine) and number (singular).
+(2) As you know, 9  means "(a) king" and is a masculine, singular noun. (3) Thus, what does   9  mean? "A king will fall." It is not necessary to comprehend fully the complexities of Hebrew grammar in order to begin to read sentences with verbs. One can begin by using a small set of inflected verbs.
+
+2. Glosses and Alternative Translations
+Look at   in the box below and see that it has several possible meanings, including, "(he) will fall," "(he) should fall," "(he) is going to fall," and "(he) used to fall."
+
+Meaning
+
+Verb
+
+Gloss
+
+Alternative Translations
+
+fall
+
+ 
+
+(he) will fall
+
+(he) should fall / used to fall / is falling
+
+(1) The first translation given after each form in the chart (such as "[he] will fall" for   ) is the gloss. This is a simplified, basic translation that you can give in the absence of any context.
+(2) The alternative translations represent other conceivable translations that you may use, depending on context.
+(3) Notice that   can refer to the future ("he will fall"), to the past ("he used to fall"), to the subjunctive ("he should fall"), or to the present durative ("he is falling")
+(4) All the translations of   basically mean to "fall," and all have an implied subject "he."   is never translated simply as "fall" but as "he will fall" or in a way similar to the other listed translations.   (a feminine form of the same verb) is used if you mean to say "She will fall."
+(5) Even other meanings are also possible!   could mean "May he fall." The reasons that one verb form can have so many meanings are given below.
+It is important to understand that an inflected verb like   can be translated differently in different contexts. If you learn only the meaning "(he) will fall" for   , you may find yourself bewildered by texts where a future tense makes no sense. It it is hard to "unlearn" misconceptions.
+
+34
+
+A Modern Grammar for Biblical Hebrew
+
+Meaning Verb
+ arise
+ 
+
+encircle   
+
+  fall
+ 
+
+give
+
+ 
+
+Table 6.1. Some Inflected Verbs
+
+Gloss
+
+Alternative Translations
+
+(he) arose
+
+(he) arises; (he) has / had arisen
+
+(they) will arise (they) should arise / used to arise / are arising
+
+and (he) encircled, went about (he) will fall (she) will fall (I) will give
+
+and (he) encircles, goes about
+(he) should fall / used to fall / is falling (she) should fall / used to fall / is falling (I) should give / used to give / am giving
+
+How can you deal with all these possible meanings? (1) First, memorize the gloss translations. Memorize that   means "(he) will fall," just as you memorized that 9  means "king." (2) Then, take into account that every verb with "will (do)" in its gloss can also mean "should (do)" or "used to (do)" or "is (doing)." (3) Similarly, first learn that  means "(he) arose." But take into account that it could also mean "arises" or "has arisen."
+If it seems astonishing that a single verb form like  could be both past and present, remember that English has many verbs that are similar. Compare the following two examples: "I hit the ball yesterday" (past); "I hit a punching bag every day" (present). We use this verb and others like it without confusion or ambiguity.
+B. Names for Hebrew Verb Types If you look at the gloss translations in the above list, you will see three verb types:
+(1) Several have the future as their gloss, such as   , "(he) will fall." These are traditionally called imperfect verbs, but today they are commonly called yiqtol verbs.
+(2) One verb has the simple past as its gloss:  , "(he) arose." This kind of verb form is traditionally called the perfect tense, but it is now often called the qatal verb.
+(3) One verb has the simple past meaning with the word "and" in its gloss:    , "and (he) encircled." This kind of verb typically begins with  followed directly by a letter with Daghesh Forte, as you see in    . We will call these the wayyiqtol verbs.
+C. Gender, Number, and Person in Verbs The gender, number, and person of the subject is implied in the form of the Hebrew verb.
+(1) Hebrew verbs are inflected for gender. (a) If a verb is masculine in gender, it takes a masculine subject. (b) If a verb is feminine in gender, it takes a feminine subject.
+
+Chapter 6: Hebrew Verbs
+
+35
+
+(c) Some verb forms are common in gender, meaning that the subject can be either masculine or feminine.
+(2) Hebrew verbs are also inflected for number, indicating whether the subject is singular or plural.
+(3) Hebrew verbs are also inflected for person, including first person ("I, we"), second person ("you"), and third person ("he, she, they").
+To better understand gender, number, and person, observe the following: (1)   means "(he) will fall," but   means "(she) will fall." Both are singular and both are third person, but the former is masculine while the latter is feminine. (2) Of course, you can use a noun as the subject of the verb, as in   9  , "a king will fall." The gender and number of the verb should agree with the noun; both 9  and   are masculine and singular. If you wanted to say "A woman will fall," it would be a mistake to use   since that is the masculine form of the verb. Since   is the feminine form, you would say     . (3) The verb   is a yiqtol that is both masculine and plural. It means "(they) will arise." This verb must have a plural subject, as in the phrase      , "kings will arise." You cannot use the singular noun 9  as the subject of the plural verb   . Notice also that in      the subject (   ), like the verb, is masculine. (4) Notice that   means "I will give." It is first person singular. It is also common in gender, meaning that the speaker could be a male or a female.
+D. Verb Tense, Mood, Aspect, and Voice
+1. Defining Terms
+English speakers have been taught to think of verbs first in terms of tense and then in terms of mood (or modality) and voice. We also need to be aware of aspect.
+(1) Tense tells us whether the situation expressed by the verb is past, present, or future. English uses, for example, simple past ("he ate it") and future ("he will eat it").
+(2) Mood or modality tells us whether the action or state expressed in a verb is actual ("was," "is," "will") or merely possible ("may," "would," "could"). (a) For actual situations, we have the indicative mood ("he eats vegetables"). (b) For possible situations, we have the subjunctive mood ("he should eat vegetables"). A subjunctive verb can be described as non-indicative or as a modal. (i) Modals can express what is possible but not certain ("He could die"). (ii) Some modals are classed as volitives, because they express the volition or desire of the speaker, as in "he should go." (iii) Modals can also express purpose ("he stood by the road so that he would see her go by").
+(3) Aspect relates to how a speaker portrays an action, whether it is presented as a whole event ("it happened") or as a process ("it was happening"). There are two aspects we are concerned with: perfective and imperfective.
+
+36
+
+A Modern Grammar for Biblical Hebrew
+
+(a) Perfective aspect portrays an action as a whole. Its focus is on the fact that an action took place, as opposed to viewing an activity in process as it happens or happened. English examples of perfectives would be as follows: (i) The professor ate the apple. This is a past action viewed as a whole, stated as a simple act that took place in the past. (ii) He has eaten the apple. This is completed action. (iii) He eats apples. Here, although the tense is present, the action is portrayed as a whole rather than as ongoing. It could answer the question, "Should I give him an apple to eat?" and imply, "Yes, give him one; he likes them." This is not the same as "He is eating apples," which indicates ongoing activity in the present. Notice also that He eats apples is perfective but does not imply a completed action; it merely states that such an action takes place.
+(b) Imperfective aspect portrays an action in process rather than as a whole. It is sometimes open-ended as to the outcome, and it may be habitual or repeated. (i) He was walking home after work. Focus is on the process of walking home. It is open-ended because we don't know if he made it home or not. Contrast "He walked home after work," which is perfective in that it portrays the action as a whole and implies the outcome: he arrived at his home. (ii) I used to walk home. This describes an action that habitually took place in the past.
+(4) Voice tells us whether the subject of a verb acts or is acted upon. For voice, English has the active ("Bill hit the ball") and the passive ("The ball was hit by Bill").
+2. An Overview of Tense, Mood, Aspect and Voice in Biblical Hebrew
+Many western languages, such as French, Latin, and Greek, have elaborate inflection systems that explicitly mark their verbs with such things as past and present tense or indicative and subjunctive mood. In contrast, biblical Hebrew finite verbs do not inflect verbs specifically for tense or mood. No Hebrew verb form is solely used for the "future tense" or the "indicative mood," but for the yiqtol, qatal, and wayyiqtol, these general rules apply:
+(1) Tense: The yiqtol is more likely to be future, and the qatal and wayyiqtol are more likely to be past. Any of them can be present tense in certain contexts.
+(2) Mood: The qatal and wayyiqtol are much more likely to be indicative (a real situation), whereas the the yiqtol may be either indicative or non-indicative (a possible or desirable situation).
+(3) Aspect: The qatal and wayyiqtol are generally perfective. A speaker who wishes to indicate imperfective action is more likely to use the yiqtol. But this does not mean that every yiqtol implies continuous or repeated action. The yiqtol is likely to be imperfective if it is in the past or present tense (not future) and is indicative (not modal).
+(4) Voice: Hebrew has a way of marking the passive voice independently of whether the verb is yiqtol, qatal, or wayyiqtol. We will deal with the passive later in our study. For now, all the verbs we are looking at are active.
+
+Chapter 6: Hebrew Verbs
+
+37
+
+E. Tense in the Hebrew Verb Although the various Hebrew conjugations are not by nature specific about tense, certain verb types more naturally align with past or non-past contexts.
+
+1. The Uses of Yiqtol, Qatal, and Wayyiqtol for Tense
+(1) Yiqtol verbs are often future tense. This is why the gloss for   is "he will fall." However, the yiqtol can mark ongoing present activity or recurrent past action. A yiqtol is rarely translated as a simple past, such as "he fell." Here are two places where one might use   as the verb: (a) Future tense: "Within a year that evil man will fall." The yiqtol here marks a simple act (not repeated action or action in process) in the future.
+(b) Past imperfect: "The old man would fall when he tried to walk." Notice that this is imperfective and not a simple past tense as in, "He fell when he tried to walk."
+(2) Qatal verbs most commonly represent the past tense, and thus the gloss for  is "he arose." Yet qatal does not equal past tense, as it can also mark present or typical events. Also, the qatal may or may not describe completed action.
+(a) Simple past tense: "He rose to power at a young age." The simple past is the default translation (the gloss).
+(b) A past tense indicating completed action: "He has arisen."
+(c) Not past tense or completed action, but a timeless fact: "The people rise when the king enters the room."
+(3) Wayyiqtol verbs often express simple past action (and also have the conjunction "and"), and thus the gloss for    is "and he encircled." This is the default. There are other uses for the wayyiqtol, but we will not encounter these for some time.
+
+2. How do You Tell the Difference?
+We have seen that   might mean "he will fall" or "he used to fall." Both meanings are indicative (not subjunctive/modal). But how do you tell whether   is future or is past in meaning?
+(1) The basic answer is context. This describes the situation in which a statement is made. If   is in a narrative about the past, it is a past imperfective ("he used to fall"). If   is in a future context, it has a future meaning. The future meaning of the yiqtol is far more common than the past imperfect.
+(2) Context will also determine the tense of a qatal or wayyiqtol verb. The qatal in verbs describing what one thinks or feels is often present tense. For example, "They know (this is a qatal verb) the way of YHWH" (Jer 5:5); "I love (this is a qatal verb) the habitation of your house" (Ps 26:8). But usually qatal and wayyiqtol are past tense.
+(3) In the absence of context (as in the exercise sentences), use the default translation.
+F. Mood in the Hebrew Verb: The Yiqtol As explained, a speaker can describe a situation as actual (indicative mood) or as merely desirable or possible (non-indicative or modal). For non-indicative statements, Hebrew is far
+
+38
+
+A Modern Grammar for Biblical Hebrew
+
+more likely to use a yiqtol than a qatal or wayyiqtol. There are patterns in which Hebrew uses a qatal for a non-indicative, such as in contrary-to-fact statements (a qatal is used in, "we would have been like Sodom" [Isa 1:9]), but these are not common. We will focus here on non-indicative statements that employ the yiqtol.
+The basic question is this: How do you tell whether a yiqtol such as   is a future indicative, "He will fall," or a modal, "He should fall"? Once again, you need to be aware of context, but you also need to look at syntax. Context is the situation in which a statement is made, and syntax is how a sentence is put together (its word order and its use of certain modifiers such as "perhaps" or "in order that").
+
+1. Context and Mood First, you should not be surprised that context is important for understanding yiqtol verbs. Context is important in many languages. For example, in English we say that "will (do)" is future tense, but it is actually more complex than that. Consider the following:
+(1) An investment counselor tells a client, "Don't worry, you will make money this year." The counselor is making a prediction (future tense).
+(2) A sergeant tells his troops, "You will stay together and you will not talk!" He is not making a prediction; he is giving a command.
+(3) An employee tells a co-worker, "I will ask the boss for a raise!" He is not really making a prediction; he is expressing determination to do something.
+There is nothing that distinguishes these three sentences grammatically, but in each case the meaning of "will (do)" is different. The important point is this: Context often plays a key role in determining the mood of a verb. For now, the sentences you see in the exercises will have little if any context. Most of these yiqtol verbs can be translated with the gloss: you can render   as "(he) will fall" and not worry about other meanings. As you progress, however, pay attention to context and don't automatically translate every yiqtol as future indicative.
+2. Syntax and Mood There is one general rule of Hebrew syntax that can help you refine your translation: pay attention to where the yiqtol verb is placed in the sentence. This will help you determine whether the verb is indicative or non-indicative (modal).
+(1) If the yiqtol is the first word in the sentence, it is probably modal. Thus, when it is the first word in a sentence, a yiqtol verb usually means "he should do" or "may he do," or it expresses possibility or determination to do something.
+(2) If the yiqtol is not the first word in the sentence, it is probably indicative. Remember: depending on context, it could be a future ("he will do") or a past imperfect ("he used to do"). Most often, it will be future, and this should be your default translation.
+There are exceptions to the above rules. For example: (1) A yiqtol in a question may be modal regardless of its position in a sentence. As a question,        could mean "Should a woman fall in battle?"
+
+Chapter 6: Hebrew Verbs
+
+39
+
+(2) Occasionally a yiqtol is modal even when it is not first. This is often the case when God is the subject. Therefore, while a sentence like     Q might mean "God will give a sign," it could mean "May God give a sign!"
+(3) If the yiqtol is in a conditional statement, the question of indicative or non-indicative is determined by context. (a) A conditional statement is an "If... then..." sentence. The "if" clause is called a protasis, and the "then" clause is called an apodosis, as in the following: (i) Protasis: "If you worship other gods," (ii) Apodosis: "then you will die." (b) Similar patterns are found where the conditional sentence is temporal ("When... then...") or causal ("Because... therefore..."). (c) In such cases, word position does not indicate whether a yiqtol is indicative or non-indicative; it is simply conditional, and the translation you apply will depend on context.
+G. Aspect and the Hebrew Verb: The Yiqtol For the imperfective aspect, the yiqtol is much more likely to be used than the qatal and wayyiqtol. In many cases, however, even the yiqtol does not describe repeated or habitual action, and there is no reason to think of it as describing a process. This is especially so if the yiqtol is either future tense or non-indicative, as in these two examples:
+(1) Future: "He who is near will fall (  ) by the sword" (Ezek 6:12). (2) Non-indicative: "A thousand may fall (  ) at your feet" (Ps 91:7). An imperfective aspect for a yiqtol is more likely if the sentence is either past or present tense and in the indicative mood, as in these two examples: (1) Present imperfective: "Why do you keep looking (this is a yiqtol verb) at each other?"
+(Gen 42:1). (2) Past imperfective: "Whenever the cloud was taken up... the Israelites would move out
+(this is a yiqtol verb) on each stage of their journey" (Exod 40:36).
+H. Summary of Important Points Here are the main points of this chapter:
+(1) Hebrew verbs are inflected for gender (male or female), number (singular or plural), and person (first, second, or third person). A verb and its subject should agree in gender, number, and person. For example, one does not use a masculine subject with a feminine verb or use the pronoun "I" as the subject of a third person verb.
+(2) Hebrew verbs are not strictly inflected for tense (such as past or future) or mood (such as indicative or subjunctive), but Hebrew can express tense, mood, and aspect through qatal, yiqtol, and wayyiqtol verbs in specific contexts.
+(3) Hebrew has a way of showing the passive voice, but we have not yet studied it. (4) At this point, you have learned about three types or conjugations of verbs:
+
+40
+
+A Modern Grammar for Biblical Hebrew
+
+(a) Qatal (traditionally, the perfect): This verb has the past tense, indicative mood, and perfective aspect as its default but may be present or present perfect in tense.
+(b) Wayyiqtol: This verb has the past tense, indicative mood, and perfective aspect as its default, and it has "and" in front of it (as in "and he did").
+(c) Yiqtol (traditionally, the imperfect): This verb has the future indicative as its default, but context and syntax are important for determining its function. (i) If it is the first word in a sentence, a yiqtol verb is often modal (non-indicative), as in "he should do." (ii) If it is not in the first position, a yiqtol is usually indicative. There are exceptions to this (see the table below). Depending on context, the yiqtol may be used for future action ("he will do") or for past action ("he used to do"). The future is far more common. (iii) If it is in a past or present tense indicative statement, the yiqtol is probably imperfective in aspect.
+The following chart will give you some basic guidelines about determining the tense, mood, and aspect of yiqtol verbs.
+For the new vocabulary used in this chart, see the table of verbs on the next page.
+
+Table 6.2. General Rules for the Yiqtol (Imperfect) Verb
+
+The default is future indicative.
+
+  9 
+
+A king will fall.
+
+In the first position, the yiqtol usually is modal.
+
+  Q  
+
+May God give a sign!
+
+Not in the first position, the yiqtol usually is indicative.
+
+       A priest will give a blessing!
+
+In a question, a yiqtol not in the first
+
+Should a woman fall in
+
+position may be modal.        battle?
+
+If God is the subject, a yiqtol not in the first position may be modal.
+
+    Q May God give a sign!
+
+If the yiqtol is indicative, the context determines its tense.
+If the yiqtol is indicative and past or present, it is probably imperfective.
+
+...   ... ...   ...
+
+Tomorrow In his childhood, he will fall he used to fall
+He used to fall a lot when he skied, but he is better now.
+
+A conditional sentence: Protasis Apodosis
+
+     If a man should sin,   he will fall.
+
+Chapter 6: Hebrew Verbs
+
+41
+
+I. Vocabulary
+
+1. Inflected Vocabulary Qatal and wayyiqtol verbs are in gray boxes; yiqtol verbs are in white.
+
+Meaning Verb
+
+Gloss
+
+Alternative Translations
+
+arise choose
+
+     
+
+encircle
+
+    
+
+  fall
+ 
+
+find   
+
+  give
+ 
+
+give birth    
+
+   hear
+  
+
+kill
+
+ 
+
+sin
+
+  
+
+(he) arose
+
+(he) arises / has arisen
+
+(they) will arise (they) should arise / used to arise / are arising
+
+(he) will choose
+(he) will encircle, go about
+
+(he) should choose / used to choose / is choosing
+(he) should encircle, go about / used to encircle, go about / is encircling, going about
+
+and (he) encircled
+
+and (he) encircles
+
+(he) will fall
+
+(he) should fall / used to fall / is falling
+
+(she) will fall
+
+(she) should fall / used to fall / is falling
+
+(he) will find
+
+(he) should find / used to find / is finding
+
+(he) will give
+
+(he) should give / used to give / is giving
+
+(I) will give
+
+(I) should give / used to give / am giving
+
+(she) bore
+
+(she) bears / has borne
+
+(he) will hear
+
+(he) should hear / used to hear / is hearing
+
+(she) will hear
+
+(she) should hear / used to hear / is hearing
+
+(he) killed
+
+(he) kills / has killed
+
+(he) will sin
+
+(he) should sin / used to sin / is sinning
+
+2. Core Vocabulary
+
+
+
+if
+
+
+
+to, for (directly attached to a noun, as in    , "for David")
+
+  
+
+"for the sake of" (with a following noun, as in      , "for the sake of David"); "in order that, so that" (with a following yiqtol, as in      , "so that he may give")
+
+134
+
+A Modern Grammar for Biblical Hebrew
+
+CHAPTER 20 STEMS, ROOTS, AND PRINCIPAL PARTS OF WEAK ROOTS WITH
+GUTTURALS IN THE QAL STEM
+
+A. Vowel Position in Verbs The following terms describe the positions for vowels with verbs:
+(1) Preformative vowel: The vowel with a preformative, such as the vowel in a yiqtol preformative.
+(2) First-radical vowel: The vowel after the first consonant of the root. (3) Stem vowel: The vowel after the second consonant of the root. (4) Linking vowel: a vowel inserted between the final consonant of the root and a suffor-
+mative or suffix.
+
+B. The Seven Major Stems
+There are seven main stems for the verb (there are a few other unusual stems). The Qal is the basic stem. The other six, called derived stems, are Niphal, Piel, Pual, Hiphil, Hophal, and Hithpael. These names are all qatal 3ms forms of the verb , "do." Today, even though most scholars continue to use the terms Niphal, Piel, and so forth,  is used as the paradigm verb. The reason  is no longer used as a paradigm is that it has a guttural letter in the middle position (as you know, gutturals are subject to special rules). To master these stems, begin by learning the qatal 3ms forms of  along with the names of the stems.
+Table 20.1. The Stem Names and Patterns with Roots  and 
+
+
+
+
+
+Qal
+
+ 
+
+ 
+
+Niphal
+
+  
+
+  
+
+Piel
+
+ 
+
+ 
+
+Pual
+
+ 
+
+ 
+
+Hithpael
+
+   
+
+   
+
+Hiphil
+
+  
+
+  
+
+Hophal
+
+  
+
+  
+
+As a tree grows, its branches go off in different directions, but you could follow any branch back to the trunk and down to the root. Analogously, a derived stem takes the root meaning of a word and moves it in a specific semantic direction with a specific meaning. In the following diagram, we see that the Qal, like the trunk of a tree, carries the root meaning of a
+
+Chapter 20: Stems, Roots, and Principal Parts of Weak Roots with Gutturals in the Qal Stem
+
+135
+
+word. It may be regarded as "unmarked" in the sense that it does not have a distinctive semantic nuance. The other stems take the root meaning in various directions.
+
+Qal Pual Hophal
+Niphal
+
+Piel Hiphil
+
+Hithpael
+
+Root
+(1) The three stems on the left side of the tree are essentially passive. (2) The Piel and Hiphil are active and have explicit or implied direct objects.
+(a) An explicit direct object would be "him" in, "He struck him." (b) An implied object would be something like "a word" or "a sentence" in the state-
+ment, "He spoke." (3) The Hithpael is primarily reflexive, meaning that the subject acts upon itself. (The
+Niphal is sometimes reflexive as well.) The root , which in the Qal means "split," is one of the few roots that appears in all seven stems in the Hebrew Bible. The Qal may be transitive (taking a direct object) or intransitive (active but not taking a direct object). The Niphal of  is a middle voice; it means to "split open," as when the ground split open in Num 16:31. The Piel is transitive and means "tear (something) to pieces," and the Pual, the passive of the Piel, means to be "torn" or "ripped up." The reflexive Hithpael means to "burst open." The Hiphil means to "breach" the defenses of a city, and the Hophal, as the passive of the Hiphil, means "be breached." The following illustrates how one root has different meanings in its various stems.
+
+Pual: be ripped up Hophal: be breached
+Niphal: be split
+
+Qal: split or break open
+#"!
+
+Piel: tear to pieces Hiphil: break
+through, breach
+Hithpael: burst open
+
+136
+
+A Modern Grammar for Biblical Hebrew
+
+You should be aware that the stems do not always neatly follow these patterns. Some Niphal verbs, for example, are active in meaning.
+1. The Meaning of Verbs in the Qal
+The Qal is the basic stem. It is also called the G stem (from German Grund, meaning "ground" or "basic"). It has the following functions:
+(1) Transitive. A transitive verb is active and takes a direct object, as in "He forgot the Daghesh Forte!"
+(2) Intransitive. An intransitive verb is active but will not take a direct object, as in "He sleeps in Hebrew class."
+(3) Stative. Not really active or passive, a stative verb describes the status of its subject. English does not use stative verbs, but uses a form of "to be" with an adjective, as in "This is confusing, and we are weary." Hebrew often uses Qal stative verbs where English uses adjectives.
+2. The Meaning of Verbs in the Niphal
+Verbs in the Niphal stem (also called the N stem) usually have one of the following meanings:
+(1) Passive. The Niphal is frequently passive in meaning, as in "The food was eaten by Abraham." Verbs that are active in the Qal are often passive in the Niphal. The root  means to "eat" in the Qal and to "be eaten" in the Niphal.
+(2) Reflexive. When a verb is reflexive, the action of the verb comes back upon the subject, or the subject acts upon himself. For example, "He hid himself from the Hebrew professor."
+3. The Meaning of Verbs in the Piel
+The Piel (also called the D or "doubled" stem) is active (not passive). In this respect, the Piel is similar to the Qal, except that the Piel is not used for stative verbs. Many Piel forms have a simple active meaning. For example,  in the Piel means to "praise." Other uses are as follows:
+(1) Factitive. A verb that is intransitive in the Qal may become transitive in the Piel. A transitive verb can take a direct object; an intransitive verb cannot. Hebrew can use the root  to mean "die" in the Qal but "kill" in the Piel, as in "Either he will die (, Qal) in battle or he will kill (, Piel) his enemy." Similarly,  ("be naked" in the Qal) is to "expose" in the Piel.
+(2) Frequentive. A simple action (as indicated by the Qal) can become a frequent or repeated action in the Piel. For example, the root 9 means "go" in the Qal but "go about" in the Piel.
+(3) Denominative. A verb that is derived from a noun or adjective is often inflected in the Piel. The root  is used for the noun "word" and the Piel verb "speak," as in "I don't understand that word (, noun); please speak (, Piel verb) in plain Hebrew!"
+
+Chapter 20: Stems, Roots, and Principal Parts of Weak Roots with Gutturals in the Qal Stem
+
+137
+
+(4) Causative. The root  means to "learn" in the Qal stem but to "cause to learn," that is, to "teach," in the Piel stem.
+
+4. The Meaning of Verbs in the Pual
+The Pual is the passive of the Piel. For example, the root  means "speak" in the Piel but "be spoken" in the Pual, as in "Hebrew is spoken here." The Pual is also called the Dp or "doubled passive" stem.
+
+5. The Meaning of Verbs in the Hithpael
+The Hithpael is often reflexive or reciprocal. It is also called the HtD stem because it has a preformative  and doubles the middle radical.
+(1) Reflexive. Like the Niphal, a Hithpael verb can be reflexive. As a reflexive, the action of the verb comes back upon the subject. The root  means to "sanctify" in the Piel but to "sanctify oneself" in the Hithpael, as in "You must sanctify yourself before entering the temple."
+(2) Reciprocal. Hithpael verbs can also be translated with the notion of reciprocity:  means to "see" in the Qal and to "look at each other" in the Hithpael, as in "The students saw (, Qal) the Hebrew test and then looked at each other (, Hithpael) in dismay."
+(3) Frequentive. This nuance also appears in the Piel.
+
+6. The Meaning of Verbs in the Hiphil
+The Hiphil is also called the H stem. It often has one of the following functions:
+(1) Causative. This implies that someone is causing someone else (or something else) to do something. Verbs that are active in the Qal are often causal in the Hiphil. For example, the root  means "eat" in the Qal but "make someone eat" (i.e., "feed") in the Hiphil, as in "Sarah fed Isaac raisins and dates." The Hiphil is causative more often than is the Piel.
+(2) Factitive. As in the Piel, sometimes verbs that are intransitive or stative in the Qal become transitive in the Hiphil.
+
+7. The Meaning of Verbs in the Hophal The Hophal is the passive of the Hiphil and is therefore sometimes called the Hp stem. The root  means to "destroy" in the Hiphil and to "be destroyed" in the Hophal, as in the ancient curse, "He who destroys (, Hiphil) this Hebrew textbook, his house shall be destroyed (, Hophal) before dawn!"
+8. Verbs in Other Stems Other stems, far less frequent than the six principal derived stems, are also attested in biblical Hebrew. Some of these are so infrequent that it is impossible to generate complete paradigms, but some are important and will be described in chapter 35.
+
+138
+
+A Modern Grammar for Biblical Hebrew
+
+C. Types of Weak Roots
+Most Hebrew roots have three consonants. Hebrew consonants that do not cause changes in conjugations are called strong letters. A root made up of all strong letters is a strong root.  is a strong root because it follows a simple, basic inflection pattern, without any peculiarities. In contrast, a weak letter often changes the form a verb will take. A vowel may be lengthened, a consonant may be lost, or the like. Any root with at least one weak letter is weak. For now, we will focus on how weak roots work in the Qal stem.
+(1) The principal weak letters are the gutturals (, ,  and ) and , , and  (like a guttural,  will not double).
+(2) A weak root is classified according to where in the root the weak letter falls.
+(a) For example, if the weak letter is a  and it is the first of the three root letters, the root is called a "first Nun" (I-) root.
+(b) If the weak letter is  and it falls in the third position, it is called a "III-" root. (3) Two weak roots are distinctive.
+(a) The hollow root has only two consonants with a pointed vowel letter between the two. It is sometimes called biconsonantal. The consonants may not be weak, but the root is weak because it has this distinct pattern.
+(b) The geminate root is one in which the second and third letters are repeated. Again, the consonants may not be weak, but the root is weak because it has this unusual pattern.
+(4) Some grammars and lexicons describe weak letters in a scheme that uses the root  as the paradigm. In this scheme, consonant position corresponds to the letters of this root . The first consonant position is called the " position," the second is the " position," and the third is the " position." When referring to these grammars, you must understand this terminology.
+(a) What this grammar calls a I- root would be in some grammars called "Pe-Nun" (it is written as '' ), meaning that there was a  in the first or  position.
+(b) Similarly, what in this grammar is called a III- root would be called "LamedHey" ('' ) in a grammar using this terminology.
+(5) The I- and I- roots have two patterns each, as given below.
+
+Table 20.2. Common Weak Root Types
+
+Type
+
+Root and Example Comments
+
+I- or  
+
+The first letter has the normal traits of a guttural,    such as preferring an a-class vowel.
+
+I-
+
+
+
+In the Qal yiqtol, it takes a Holem with the prefor   mative and a Pathach as the stem vowel.
+
+Chapter 20: Stems, Roots, and Principal Parts of Weak Roots with Gutturals in the Qal Stem
+
+139
+
+I- II-Guttural III- or 
+III- I- I- I- Hollow
+Geminate
+III-
+
+         
+
+In the Qal yiqtol, it takes a Seghol with the prefor   mative and a Pathach as the stem vowel.
+
+The second letter has the normal traits of a gut   tural, such as preferring an a-class vowel.
+
+The guttural will especially influence the verb's    form by its preference for the a-class vowel.
+
+  
+
+The  will often quiesce and cause the vowel in front of it to lengthen.
+
+ 
+
+The I- generally assimilates to the following letter when a preformative is added.
+
+ 
+
+The first letter of the root (the ) drops out if a preformative is added.
+
+ 
+
+The first letter of the root (the ) becomes a vowel letter  if a preformative is added.
+
+The vowel between the two consonants does not   reduce and is usually long.
+
+The geminate verb tends to mimic other patterns.
+  In this case, it is similar to the yiqtol of the hollow verb.
+
+  
+
+The III- has a fixed set of rules that it follows with great consistency.
+
+Some roots are doubly-weak; that is, two of the root letters are weak (these are not listed in the chart above). For example,  is both a I-Guttural and a III- root. Doubly-weak roots will combine the peculiarities of both weak roots and can be difficult to recognize.
+D. Introduction to Principal Parts Having mastered the full paradigms for the Qal strong and III- verbs in the various conjugations, you are now ready to tackle the weak roots noted above. Rather than beginning with numerous full paradigms, we will approach weak roots through their principal parts. These are the most basic forms of a given verbal root in the primary conjugations, and their memorization provides a manageable and helpful way to identify weak forms in all stems.
+(1) The charts below only give the principal parts of weak verbs. (a) For the qatal and yiqtol, we usually have only the 3ms forms. (b) For the infinitive construct, we have the simple form without the  preposition. (c) For the participle, we have only the ms forms.
+
+140
+
+A Modern Grammar for Biblical Hebrew
+
+(2) We will study the complete paradigms later. At the same time, with the knowledge of the principal parts and the patterns of the conjugations in the Qal strong verb, you should have no trouble recognizing the other inflections of these verbs. For example, since the Qal yiqtol 3ms of  is    , its 3fs would be    . If you know that the ms Qal active participle of  is   , you should recognize    as the mp Qal active participle.
+(3) The principal parts of the strong root  are provided for the sake of comparison. (4) When we say that a pattern is "Like strong," we mean that as a general rule its inflec-
+tion is similar to that of the strong verb . This does not mean that there are no differences whatsoever, but it does mean that differences are minimal. For example, the Qal qatal 3cp of  is    , which differs from    in that it has a Hateph Pathach where the strong verb has a vocal Shewa. But this is a very minor difference, and in most cases the vowel patterns of the Qal qatal of  and  are identical.
+
+E. Qal Weak Verbs with Gutturals Gutturals pose no real difficulty with the Qal stem. Remember that gutturals prefer a-class vowels, take composite Shewas instead of vocal Shewas, and will not double.
+
+Table 20.3. The Qal Verb with Gutturals
+
+Qatal
+
+Yiqtol
+
+Inf. Con.
+
+Participle
+
+Strong
+I-/  stand
+II-Guttural  choose
+III-/  hear
+III-  find
+I- + III-  sin
+
+  Like strong
+
+  
+A-class preformative
+
+ 
+Composite Shewa
+
+  Like strong
+
+  Like strong
+
+  
+A-class stem vowel
+
+  Like strong
+
+  Like strong
+
+  Like strong
+
+  
+A-class stem vowel
+
+ 
+
+ 
+
+Like strong; Like strong; furtive Pathach furtive Pathach
+
+ 
+Quiescent   
+Quiescent   
+
+   Quiescent ; A-
+class stem vowel
+   Seghol preformative; quiescent 
+  
+
+  
+Like strong  
+Composite Shewa  
+
+  
+Like strong  
+Like strong  V
+
+Chapter 20: Stems, Roots, and Principal Parts of Weak Roots with Gutturals in the Qal Stem
+
+141
+
+The vowels of the strong verb yiqtol are not normative. Note the following:
+(1) The vowel pattern of the Qal yiqtol is highly variable. (a) A first-position guttural (I-guttural) in the Qal yiqtol will often have Pathach preformative and Hateph Pathach under the first radical. Sometimes, however, it will have Seghol in the preformative position, as with    . (b) In yiqtol verbs with gutturals in the second and third positions, Qal verbs have aclass stem vowels.
+(2) The III- verb  shows quiescence of the  in the qatal (contrast   with   ) and shows both quiescence and preference for the a-class vowel in the yiqtol (contrast    with    and    ).
+(3) A III-guttural will at times have a furtive Pathach. (4) In all the above roots, the infinitive construct has a Holem stem vowel. In some roots,
+however, this is not the case.
+(5) For the most part, imperatives look like yiqtol verbs with the preformative dropped. Thus, the ms imperative of  is   . In many cases, the form of the imperative ms is the same as that of the infinitive construct (important exceptions are in the II- and III-guttural and the I- roots). Thus, if you know the principal parts, you can often use the infinitive to figure out the imperative.
+(6) The root  is doubly-weak, being I- and III-. (a) The yiqtol has a preformative with Seghol, illustrating the fact that some I- roots will take Seghol (contrast    ). (b) The III- has the normal quiescence.
+F. Vocabulary
+
+1. Core Vocabulary
+
+a. Verbs
+
+  
+
+
+
+
+Qal:   choose Qal:   miss (a mark), sin Qal:   fear, be afraid Niphal:   (= participle) be feared Qal:   possess, inherit, dispossess Hiphil:   take possession of, dispossess, drive out Qal:   find, seek Niphal:    be found Qal:   carry, lift up Niphal:   be carried
+
+142
+
+A Modern Grammar for Biblical Hebrew
+
+b. Other Words
+
+
+
+lord, master m |  |;    = "my/the Lord"
+
+V
+
+generation m |V|
+
+ 
+
+loyalty, steadfast love, devotion, faithfulness m |  |
+
+ 
+
+very much, very
+
+ 
+
+poor, wretched m |  |
+
+ 
+
+dread, trembling, deep fear m |  |
+
+2. Reading Vocabulary
+
+    
+
+precise meaning unknown; often rendered, "for the director of music"
+
+ 
+
+fool, arrogant person m
+
+
+
+Qal:   fear, be in dread
+
+3. Previously Learned Verbs in Derived Stems
+
+
+
+Qal: chapter 9 Niphal:    (yiqtol 3ms) be written
+
+9
+
+Qal: chapter 9 Hiphil: 9   install someone as king
+
+
+
+Qal: chapter 10 Niphal:    be kept, be guarded
+
+4. Proper Names
+
+  
+
+Philistia
+
+   
+
+Philistine(s)
+
+V
+
+Zion
+
+G. Reading from Psalm 14
+
+1       
+
+V     
+
+ Q 
+
+1. This could be translated "by David," "of David," or "to David."
+
+Chapter 20: Stems, Roots, and Principal Parts of Weak Roots with Gutturals in the Qal Stem
+
+143
+
+1       V  Q 
+
+      V  2  
+
+1. This looks like it means something like, "There they are in dread of dread." It is actually a "cognate accusative," in which the verb and its direct object are both from the same root. It can be translated simply as "There they are in deep dread."
+2. You can easily recognize that    means "Who will give?" This is an idiom that expresses strong desire for something. It could be translated "If only (X would happen)." Thus, this line means "If only the salvation of Israel (would come) from Zion!"
+
+Chapter 37: An Overview of Text Syntax and Literary Structure
+
+283
+
+CHAPTER 37 AN OVERVIEW OF TEXT SYNTAX AND LITERARY STRUCTURE
+
+A. Defining Syntax
+Every language has its own system for communicating effectively. Hebrew uses a number of formal features to help the reader distinguish paragraph divisions, to lay out the logical relationship of clauses and larger text units, and to differentiate types of discourse. To this point, your study of Hebrew has focused on four areas:
+(1) Orthography is the study of an alphabet and of how its letters combine to represent sounds and to form words.
+(2) Phonology refers to the study of a language's system of sounds (phonemes). (3) Morphology describes how the smallest grammatical units (morphemes) combine to
+form stems and words. It is the study of the formation of words. (4) Syntax deals with how words combine to form clauses, sentences, and larger dis-
+course structures.
+In these final chapters, we will continue to wrestle with microsyntax (the shaping of clauses and sentences) and also consider further issues of macrosyntax (the shaping of texts), examining the way sentences join and relate to form meaningful discourse units.
+B. Clauses and Sentences
+The basic building block of text analysis is the clause, a grammatical construction that is made up of a subject and its predicate. For example, "he prayed" is a clause, with "he" being the subject and "prayed" being the predicate. By contrast, "in the house" is only a phrase.
+(1) Predication refers to the state, process, or action associated with the subject. (a) The predicate may be a finite verb with all its complements (e.g., if the verb is transitive, its direct object). This creates a verbal clause (e.g.,            , "And the priest read the book"). (b) Sometimes, as you have already seen, the predicate can be another noun or an adjective without any explicit verb. This is called a verbless or nominal clause (e.g.,      , "The priest [is] holy"). There is no finite verb in this clause (the verb "to be" is understood), yet the predication is marked by the adjective   ("holy").
+(2) In both verbal and nominal clauses, the predicate can be the first word, or it can have some other part of the clause (e.g., subject, object, prepositional phrase) placed in front of it.
+(3) The essential nucleus (Nuc) of a clause (Cl) is a subject and its predicate. Along with the clause nucleus can be various modifiers (Mod) and connectors (Con), such as conjunctions, exclamations, adverbs, and prepositional phrases.
+
+284
+
+A Modern Grammar for Biblical Hebrew
+
+Blackboard 37.1. Elements of a Clause
+Cl = ±Con +Nuc ±Mod
+
+And David killed Goliath with a stone
+
+Connector Nucleus
+
+Modifier
+
+To have a clause, only the nucleus is essential.
+
+You can think of a clause as having grammatical slots: one slot for an optional connector, one slot for a mandatory nucleus (subject and predicate), and any number of slots for optional modifiers. The modifier slots may be filled by a word (such as an adverb), a phrase (such as a prepositional phrase), or even a whole clause (such as a relative clause). Here are examples of modifiers:
+(1) A word: "Yesterday David slew Goliath." Here, "yesterday" is an adverbial modifier. (2) A phrase: "David slew Goliath in the afternoon." A phrase is a group of words that
+fills a single modifier slot, as the adverbial prepositional phrase "in the afternoon" does here. (3) A clause: "David, who is but a boy, slew Goliath." The words "who is but a boy" include a subject and predicate, but they form a relative clause and serve as a modifier of "David." They are in a subordinate position.
+Thus, we can adopt the following definitions: (1) A phrase is a group of words that fills a single slot in a clause. (2) A subordinate clause is a clause that serves as a modifier and is embedded in a higher level clause, as in "who is but a boy" above. (3) A matrix (Latin, "mother") clause is not grammatically subordinate to any other higher level clause. In the construction "David, who is but a boy, slew Goliath," the words "David... slew Goliath" form the matrix clause. (4) A sentence is a matrix clause with all its subordinate clauses.
+C. The Role of  and Ø in Creating Discourse Blocks Hebrew has a way of marking discrete units of discourse and of distinguishing primary from embedded material. Just as this chapter has an outline of primary and supporting points, so too Hebrew texts have discernible hierarchic structure. Two grammatical features are the primary guides in the literary shaping of texts.
+(1) The conjunction  ("and"). The conjunction links grammatical units of equal value (e.g., phrases to phrases, clauses to clauses), creating chains of discourse that are to be read together. The presence of  assumes a preceding text; it generally does not signal an absolute beginning. That is, except for certain special patterns, a new discourse generally does not start with the conjunction , and if a discourse does begin
+
+Chapter 37: An Overview of Text Syntax and Literary Structure
+
+285
+
+with that conjunction, there is usually a good reason. Sometimes, for example, biblical books or speeches do begin with the conjunction  , but even in these cases we should recognize that there is an implied prior discourse. Leviticus, Numbers, Joshua, Judges, Samuel, Ezekiel, Jonah, Ruth, and Esther begin with a wayyiqtol verb. Exodus, Kings, and Ezra-Nehemiah begin with a  + non-verb. In all of these cases, the authors are probably using the conjunction to set the books within the grand narrative of Israel's history. By contrast, Job, which is not part of that history, does not begin with a conjunction. Whenever we find a speech or a book that begins with a conjunction, we should ask why that conjunction is there. (2) Asyndeton. This is the absence of a conjunction (grammarians use Ø, the symbol for an empty set, to indicate the absence). Asyndeton at the front of sentences most commonly signals either (a) the start of a new unit of discourse or (b) the restatement, clarification, or support of a previous text unit (such as a paren-
+thetical comment). In most instances, context alone clarifies for the reader whether asyndeton marks a fresh beginning or explication. In summary, a discourse typically (1) begins with a clause that does not start with a conjunction, (2) is carried on by a chain of  clauses, (3) but may include embedded units initiated by asyndetic clauses (i.e., those not fronted with a conjunction) that clarify or support the primary line of thought.
+D. Reported Speech and Embedded Discourse Often one block of discourse can be interrupted by another discourse. This is especially common with quotations, which we call reported direct speech. Consider the following:
+The night wore on, and John was bored. So he said, "I am going to leave now." And he got up, and he left the room.
+In this illustration, the reported speech, "I am going to leave now," is set within a larger discourse. By itself, however, "I am going to leave now" is an independent discourse. We have the larger discourse by the narrator and, within that, we have the reported speech of John. Sometimes, one discourse can be embedded in another discourse even when there is no reported speech. For example, there can be an embedded discourse that is by the narrator and not by a character in the story. For example, a narrator may give an aside, a brief narration that gives background information but is not actually part of the main narrative. The following examples will clarify the special role of  and Ø in marking embedded units of texts. The diagrams below include the following features:
+(1) The coordination of phrases is marked by a horizontal arrow (). (2) The sequencing of clauses is marked by a vertical arrow (). (3) A break in the flow of the discourse with Ø is marked by a horizontal line (­).
+
+286
+
+A Modern Grammar for Biblical Hebrew
+
+Table 37.1. Reported Speech in Deuteronomy 5:30­31
+
+    ­ Ø 30b
+
+  
+
+­ Ø 30c
+
+           31a
+
+      ()     ()       a         31b
+
+30b Say to them,
+
+30c
+
+"Return to your tents."
+
+31a But you, stand here with me,
+
+31b and I will tell you the whole commandment and the statutes and the rules...
+
+In the above example, clauses 31a and 31b are within a continuous discourse initiated by 30b. This is marked by the fact that both 31a and 31b begin with the conjunction  . But the clause in 30c is reported direct speech, and taken by itself is an independent discourse. It does not begin with a conjunction but is marked by Ø. After the reported speech, clause 31a resumes the prior discourse (30b) and thus begins with a conjunction.
+It is possible, as stated above, to have one discourse embedded within another without reported speech. In such a case, the embedded discourse often explains or emphasizes something in the larger discourse.
+
+Table 37.2. Embedded Discourse in 1 Kings 2:10­11
+
+            10a
+
+          10b
+
+             9          11a
+
+   
+
+­ Ø 11b
+
+    
+
+  11c
+
+10a And David lay down with his fathers,
+
+10b and he was buried in the city of David.
+
+11a and the days that David reigned over Israel were forty years.
+
+11b
+
+In Hebron he reigned seven years,
+
+11c
+
+and in Jerusalem he reigned thirty-three years.
+
+In the above example, the embedded discourse (11b-11c) explains the "forty years" mentioned in clause 11a. Note that the unit begins with asyndeton (Ø). There is also a relative clause in 11a, which for simplicity's sake has not been set on its own line. We will examine relative and other subordinate clauses in the next chapter.
+
+Chapter 37: An Overview of Text Syntax and Literary Structure
+
+287
+
+Two final points are noteworthy here: (1) Hebrew allows for sentence and paragraph embedding to occur recursively (i.e., embedding within embedding ad infinitum), so the interpreter must always be aware of the relationship of any given text block to the greater whole. (2) The most important thematic material in a text is not necessarily to be found in the primary line of textual development. In other words, an embedded clause may be the main point of a discourse. Although the primary storyline in historical narrative is never embedded, the core message is often found not in the words of the narrator or in the actions of the characters but in a reported speech (e.g., God's words through a prophet), which is always embedded material.
+E. Mainline and Offline Material
+
+1. Mainline Material In a discourse of several sentences or more, there is normally a structural backbone that moves the discourse forward in some kind of sequential manner. We call this structural backbone the mainline of the discourse. This is most obvious in historical narrative, which typically carries a story forward chronologically through a progression of events using wayyiqtol verbs to represent the mainline. Joshua 24:3 contains four mainline clauses, and it is here translated very literally for the sake of illustration.
+Table 37.3. Mainline Clauses in Joshua 24:3
+And I took your father Abraham from beyond the River, and I led him through all the land of Canaan. And I made numerous his offspring, and I gave to him Isaac...
+                          ­ ­ ­
+
+In the above example, every italicized verb phrase represents a wayyiqtol verb; these verbs carry the historical narrative forward through a succession of events. One might think of a discourse as a journey, with each mainline verbal clause being one step in that journey. But the wayyiqtol serves as the mainline only for historical discourse; other text types (such as a prediction or a series of commands) use other verb forms to set up the mainline of a text. In a predictive text, as below, the weqatal provides the mainline of the discourse.
+Table 37.4. Mainline Clauses in Isaiah 2:2­3
+and it shall be lifted up above the hills; and all the nations shall flow to it, and many peoples shall come, and they shall say...
+               
+
+In the above example, the mainline material is a series of weqatal clauses. Once again we have a sequence of temporally successive events, but now the events are in the future rather than the past.
+
+288
+
+A Modern Grammar for Biblical Hebrew
+
+2. Offline Material
+In addition to the discourse mainline, there is also the discourse offline. To use the journey analogy again, each mainline clause is another step along the path of the narrative, but offline clauses are a point in the journey where the traveller stops to look around, or where he temporarily steps off the main path to take a side trail for a while before getting back on the main path. Why might a discourse need offline text?
+(1) To give background information. That is, offline material can describe the setting or the situation at the time of the main action.
+(2) To match multiple aspects of the same event. That is, a single event may have two or more components or aspects, which may be contrasted or aligned. (a) Contrastive matching: A mainline and offline clause are together thought of as two contrasting parts of a single event or idea. This type of matching is often expressed when a mainline, verb-first clause (V[x]) is directly followed by an offline, non-verb-first clause ([x]V), resulting in the following pattern: V(x) + (x)V. (b) Identical matching: A series of offline statements that describe two or more examples of a single event. This type of matching occurs when multiple offline, non-verb-first clauses are aligned, resulting in the following pattern: (x)V + (x)V.
+(3) For an interruption or transition. That is, this action breaks the main flow of thought, whether to mark dramatic pause, thematic division, or flashback. At times, such a clause is thematically prominent, meaning that its content sticks out from the main line of the text. Alternatively, it may signal a turning point in the discourse (called hinge material), whether by marking a mere paragraph division or by introducing an entirely new temporal, logical, or thematic point of departure. Such clauses can be very important.
+(4) For negated actions. As a general rule, because a negative does not carry the action forward, it is by nature offline. There may be exceptions to this, but they would be rare. However, you must understand that "offline" does not mean "unimportant." An offline, negated clause can be the most thematically prominent and critical clause in a discourse.
+Using historical narrative again, we can see examples of each of these types of offline texts. In the following, mainline verbs are in italics and the offline clauses are in bold typeface.
+Table 37.5. Offline Background Information in 1 Kings 17:10
+And he arose, and he went to Zarephath. And he came to the gate of the city, and behold, a widow was there gathering wood. And he called to her and he said...
+     ­                 
+
+In this example, the offline material begins with     and includes a nominal participial clause. It represents the situation confronting Elijah when he arrived at the gate of the city.
+
+Chapter 37: An Overview of Text Syntax and Literary Structure
+
+289
+
+By contrast, all the mainline verbs (in italics) are wayyiqtol. Each mainline wayyiqtol clause carries the historical account forward; the offline clause does not.
+Table 37.6. Contrastive Matching in Genesis 1:4­5
+And God saw that the light was good. And God separated the light from the darkness. And God called the light Day, and the darkness he called Night.
+ 9         Q      Q         Q
+In the above example, the offline text (in bold) uses the conjunction  with a prepositional phrase followed by a qatal verb, and it represents the action of calling the darkness "night" as conceptually simultaneous with and contrasted with the calling of the light "day." The other actions are temporally successive and represented by wayyiqtol forms in italics. Conceptually, there are three (not four) events here: (1) God saw that it was good, (2) God separated light from darkness, and (3) God called the light "day" and the darkness "night."
+Table 37.7. Identical Matching in 2 Kings 17:29­30
+And nation after nation was making its gods. And they placed them in the shrine of the high places that the Samaritans had made­­nation after nation in the cities in which they lived. And the men of Babylon made Succoth-benoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima.
+                     Q         ­  ­           ­    ­
+In the above historical discourse, a series of offline, non-verb-first clauses (all in bold type face) together expound the earlier statements regarding the nations that crafted gods and placed them in the city shrines. Each nation's idolatrous actions are identical to that of all the others, and together they are here portrayed as a single event, each part clarifying the whole.
+Table 37.8. Offline Prominent Action in Jonah 1:3­4
+And Jonah rose to flee to Tarshish from the presence of YHWH. And he went down to Joppa and he found a ship going to Tarshish. And he paid its fare and went down on it to go with them to Tarshish away from the presence of YHWH. But YHWH hurled a great wind upon the sea...
+                               ­                       ­
+
+290
+
+A Modern Grammar for Biblical Hebrew
+
+In the above example, the offline bold text uses the conjunction  with   followed by a qatal verb, and it represents God's action of hurling a storm on the sea as a surprising interruption in the story flow. This action is more thematically prominent than the mainline clauses represented by wayyiqtol forms in italics. The offline pattern shows that the action is sudden, unexpected, and important.
+Table 37.9. Discourse Initiation in Joshua 24:2­3
+On the other side of the Euphrates lived your fathers long ago--Terah, the father of Abraham and the father of Nahor--and they served other gods. And I took your father Abraham from beyond the River...
+                                Q
+In the above, the first clause uses a prepositional phrase followed by a qatal verb to initiate a narrative. It is similar to other offline statements we have seen, except that it does not begin with the conjunction because it begins a discourse. The mainline clauses that carry the historical account forward are represented by wayyiqtol forms.
+Table 37.10. Offline Negated Action in 2 Samuel 11:8­10
+And Uriah went out of the king's house, and a present went out after him from the king. And Uriah slept at the door of the king's house with all the servants of his lord, but he did not go down to his house. And they told David...
+       9          9             ­           9  
+In the above example, again in historical narrative, the offline text uses the conjunction  with   followed by a qatal verb, and it indicates what did not happen. Here, the negated clause is more thematically prominent than the mainline clauses.
+3. Important Points Related to Mainline and Offline Material You should grasp three points at this juncture:
+(1) Along with the use of context, Hebrew distinguishes mainline from offline material by using different kinds of predicates. In historical discourse, as in the above examples, wayyiqtol clauses mark the mainline, but offline material uses other patterns, such as a conjunction ( ) with a noun followed by a qatal verb.
+(2) Mainline and offline clauses have various functions in a discourse. Mainline clauses typically present the essential structure of a story or argument. Offline clauses have various functions. Some provide simple background material, such as a description of the setting of a story. Others could be an aside or a comment by the narrator. Still others may mark a decisive moment in the narrative. Do not think of mainline clauses as
+
+Chapter 37: An Overview of Text Syntax and Literary Structure
+
+291
+
+important and offline clauses as unimportant. The importance of a clause is not a matter of being mainline or offline; it is a matter of the prominence of the clause. (3) A clause that has prominence draws attention to itself. Mainline material carries the primary flow of thought; offline material impedes this flow for some reason. A clause that halts the flow of the text is often important. Therefore, the most important or thematically prominent information in a text is often not the mainline clause. Offline clauses can be thought of as on a cline, or continuum, with some having high prominence and others low prominence.The table below indicates the typical prominence of offline clause types. Remember that these are general rules only and do not cover every possible usage for the types of clauses indicated.
+Table 37.11. Functions of Predicate Patterns in Historical Discourse1
+
+Prominence
+
+Function
+
+Predicate Pattern
+
+1: Offline
+
+Primary marker of climax, or paragraph boundaries; can also be used with mainline wayyiqtol for identical or contrastive matching
+
+qatal [x] + qatal  + [x] + qatal
+
+2: Offline Backgrounded activities
+
+Participial nominal clauses
+
+3: Offline Backgrounded description
+
+Nominal clauses Existential clauses
+
+4: Offline
+
+Negative (*can shift to level 1 with "momentous negation")
+
+  or  + finite verb
+
+Mainline Primary storyline
+
+Wayyiqtol
+
+F. Text Types
+We have seen that historical narrative (telling a story) is not the only kind of discourse. For example, one can also give commands (directive discourse) or describe events in the future (anticipatory discourse). We refer to the different kinds of discourse as text types.
+We know also that the wayyiqtol serves as the mainline of historical narrative, and we have also seen some offline material in narrative. By contrast, we saw that the weqatal is used for the mainline in a prediction. Thus, each text type has its own preferred way of indicating which clauses are mainline and which are not. In addition, Hebrew uses different predicate patterns within various text types for offline clauses and to begin or end paragraphs. For
+
+1. The following studies influenced the shape of the "clines" in this grammar: R. E. Longacre, Joseph: A Story of Divine Providence­­A Text Theoretical and Textlinguistic Analysis of Genesis 37 and 39­48, 2nd ed. (Winona Lake, IN: Eisenbrauns, 2003), 79, 106, 121; R. L. Heller, Narrative Structure and Discourse Constellations: An Analysis of Clause Function in Biblical Hebrew Prose, HSS 55 (Winona Lake, IN: Eisenbrauns, 2004), 428­482; J. S. DeRouchie, A Call to Covenant Love: Text Grammar and Literary Structure in Deuteronomy 5­11, GD 30/BS 2 (Piscataway, NJ: Gorgias, 2007), 132­186.
+
+292
+
+A Modern Grammar for Biblical Hebrew
+
+example, in anticipatory discourse (as is found in predications and promises), a yiqtol may be used in a clause that begins a paragraph, or it may be used in an offline comment. You have seen that in historical discourse, a conjunction with a noun followed by a qatal can mark an offline comment. Thus, we need to identify the various text types as well as the patterns that mark their mainline statements, and then we can begin to spot and analyze various offline clauses.
+The table below identifies the four main text types of the Hebrew Bible: Historical, Anticipatory, Descriptive, and Directive. Each discourse type is characterized by its own set of predicate patterns. The first three types are used to relay information, whereas the last one expresses a speaker's volition. Beneath the "Text Type" and "Function" columns you will see examples of the various discourse types from the Bible in English translation. Under the column "Formal Signals," you will see listed the standard predicate form used as the mainline for each text type (e.g., historical discourse uses the wayyiqtol as its mainline predicate pattern). You will also see some common forms of offline predication listed (usually to fall under "level 2") but remember that offline material can employ a wide variety of predicate patterns.
+
+Table 37.12. Text Types: Their Function & the Forms that Signal Them
+
+Text Type
+
+Function
+
+Formal Signals
+
+Relays a succession of contingent events;
+Historical usually past tense, with events having taken
+place prior to the report
+Joshua 24:2­3: On the other side of the Euphrates lived your fathers long ago--Terah, the father of Abraham and the father of Nahor--and they served other gods. And I took your father Abraham from beyond the River, and I led him through all the land of Canaan.
+
+Mainline = wayyiqtol clauses. [X] + qatal clauses often add offline events and/or mark the onset or termination of paragraphs.
+
+Predicts or promises forthcoming events, at
+
+Anticipatory
+
+times in contingent succession; usually future tense, marking events that will occur
+
+after the speech
+
+Isaiah 2:2­3: and it shall be lifted up above the hills; and all the nations shall flow to it, and many peoples shall come, and say...
+
+Isaiah 40:31: But they who wait for YHWH shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
+
+Mainline = weqatal clauses. [X] + yiqtol often marks offline predictions or promises and/or signals the onset or termination of paragraphs.
+
+Chapter 37: An Overview of Text Syntax and Literary Structure
+
+293
+
+Static; explains a situation, state or activity
+
+Descriptive
+
+that is occurring in the mainline timeframe of another discourse type or that is perpetually
+
+true
+
+Ezekiel 40:21: Its side rooms (three on each side) and its jambs and its vestibule were of the same size as those of the first gate. Its length was fifty cubits, and its breadth twenty-five cubits.
+
+Clauses with  ("to be") Verbless/nominal clauses Existential clauses
+
+Directive
+
+Commands or exhortations, at times in the form of progressive directions for a given task
+
+Leviticus 3:2: And he shall lay his hand on the head of his offering and kill it at the entrance of the tent of meeting, and Aaron's sons the priests shall throw the blood against the sides of the altar.
+
+Proverbs 3:5: Trust in YHWH with all your heart, and do not lean on your own understanding.
+
+Mainline = weqatal clauses, often after initial volitive(s). Modal yiqtol verbs and jussives mark offline instruction/exhortation or signal the onset or termination of paragraphs.   + yiqtol or  + jussive express prohibitions
+
+G. Vocabulary
+
+1. Core Vocabulary
+
+a. Verbs
+
+   
+
+
+Qal:   trust, be confident, feel secure Qal:   redeem, reclaim as one's own Qal:   be(come) dry, wither Niphal:    hide oneself, be hidden Hiphil:    hide, conceal Qal: * ;   (qatal 2ms) be small, be insignificant; swift Piel:   belittle, curse, declare cursed
+
+b. Other Words
+
+           
+
+at the back (spatial), later on (temporal), last widow f |construct not extant| tongue (as part of the body, a language, or the shape) fm | | prince m |  | end; boundary m | | edge, end (spatial); end (temporal) m |  |
+
+294
+
+A Modern Grammar for Biblical Hebrew
+
+   
+
+sabbath, rest fm |  | oil m |  |
+
+2. Proper Names
+
+  
+
+Ahab
+
+  
+
+Gilead
+
+   
+
+Gileadite(s)
+
+ 
+
+Cherith
+
+
+
+Sidon
+
+   
+
+Zarephath
+
+  
+
+Tishbite
+
+3. Reading Vocabulary
+
+
+
+Pilpel:    contain, sustain
+
+
+
+Polel:   (qatal 3cp) gather
+
+ 
+
+rain
+
+
+
+dew, light rain
+
+ 
+
+rain
+
+ 
+
+raven
+
+
+
+scrap, piece
+
+ 
+
+eastward, to the east
+
+ 
+
+sojourner, resident alien
+
+H. Reading­­1 Kings 17:1­11
+
+       Q                          1                                   
+               2                             a        9 3   a                          4                      9            9   5
+
+Chapter 37: An Overview of Text Syntax and Literary Structure
+
+295
+
+                         V         6    
+                            7               8
+                     V         9  9 a     
+                             9        10                                 9                              9    11

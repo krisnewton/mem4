@@ -1,0 +1,5794 @@
+089.01.3400.689266 KD
+LAPORAN KEUANGAN
+(AUDITED)
+PERWAKILAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN
+PROVINSI SULAWESI BARAT UNTUK PERIODE YANG BERAKHIR 31 DESEMBER 2016
+NOMOR : LKE-454/PW32/1/2017 TANGGAL : 10 APRIL 2017
+
+089.01.3400.689266.KD
+LAPORAN KEUANGAN (AUDITED)
+PERIODE YANG BERAKHIR 31 DESEMBER 2016
+TAHUN ANGGARAN 2016
+NOMOR : LKE-454 /PW32/1/2017 TANGGAL : 13 APRIL 2017
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+KATA PENGANTAR
+Sebagaimana diamanatkan Undang-Undang Nomor 17 Tahun 2003 tentang Keuangan Negara, Menteri/Pimpinan Lembaga sebagai Pengguna Anggaran/Barang mempunyai tugas antara lain menyusun dan menyampaikan laporan keuangan Kementerian Negara/Lembaga yang dipimpinnya. Perwakilan BPKP Provinsi Sulawesi Barat adalah salah satu entitas akuntansi di bawah Badan Pengawasan Keuangan dan Pembangunan yang berkewajiban menyelenggarakan akuntansi dan laporan pertanggungjawaban atas pelaksanaan Anggaran Pendapatan dan Belanja Negara dengan menyusun laporan keuangan berupa Laporan Realisasi Anggaran, Neraca, Laporan Operasional, Laporan Perubahan Ekuitas, dan Catatan atas Laporan Keuangan. Penyusunan Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat mengacu pada Peraturan Pemerintah Nomor 71 Tahun 2010 tentang Standar Akuntansi Pemerintahan dan kaidah-kaidah pengelolaan keuangan yang sehat dalam pemerintahan. Laporan Keuangan ini telah disusun dan disajikan dengan basis akrual sehingga menyajikan informasi keuangan yang transparan, akurat dan akuntabel. Laporan Keuangan ini diharapkan dapat memberikan informasi yang berguna kepada para pemakai laporan khususnya sebagai sarana untuk meningkatkan akuntabilitas / pertanggungjawaban dan transparansi pengelolaan keuangan negara pada Perwakilan BPKP Provinsi Sulawesi Barat. Di samping itu, laporan keuangan ini juga dimaksudkan untuk memberikan informasi kepada manajemen dalam pengambilan keputusan dalam usaha untuk mewujudkan tata kelola pemerintahan yang baik (good governance).
+Mamuju, 10 April 2017 Kepala Perwakilan,
+Wasis Prabowo NIP 19651031 198703 1 001
+Kata Pengantar - i -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Kata Pengantar Daftar Isi Daftar Tabel Daftar Lampiran Pernyataan Tanggung Jawab Ringkasan Laporan Keuangan I. Laporan Realisasi Anggaran II. Neraca III. Laporan Operasional IV. Laporan Perubahan Ekuitas V. Catatan atas Laporan Keuangan
+A. Penjelasan Umum A.1. Profil dan Kebijakan Teknis A.2. Pendekatan Penyusunan Laporan Keuangan A.3. Basis Akuntansi A.4. Dasar Pengukuran A.5. Kebijakan Akuntansi
+B. Penjelasan atas Pos-pos Laporan Realisasi Anggaran B.1. Pendapatan Negara dan Hibah B.2. Belanja Negara
+C. Penjelasan atas Pos-pos Neraca C.1. Aset Lancar C.2. Aset Tetap C.3. Kewajiban Jangka Pendek C.4. Ekuitas
+D. Penjelasan atas Pos-pos Laporan Operasional D.1. Surplus/(Defisit) dari Kegiatan Operasional D.2. Surplus/(Defisit) dari Kegiatan Non Operasional
+E. Penjelasan atas Pos-pos Laporan Perubahan Ekuitas E.1. Ekuitas Awal E.2. Surplus/(Defisit) LO E.3. Koreksi Yang Menambah/(Mengurangi) Nilai Ekuitas E.4. Transaksi Antar Entitas E.5. Ekuitas Akhir
+F. Informasi Penting Lainnya Informasi Dana Penugasan Beban Mitra Kerja
+
+DAFTAR ISI
+Halaman
+i ii iii iv v 1 3 4 5 6 7 7 7 8 9 9 9 18 19 19 25 25 27 30 30 31 31 37 40 40 40 40 41 42 43 43
+
+Daftar Isi - ii -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+DAFTAR TABEL
+
+Tabel 1 Tabel 2 Tabel 3 Tabel 4 Tabel 5 Tabel 6 Tabel 7 Tabel 8 Tabel 9 Tabel 10 Tabel 11 Tabel 12 Tabel 13 Tabel 14 Tabel 15 Tabel 16 Tabel 17 Tabel 18 Tabel 19
+Tabel 20 Tabel 21 Tabel 22
+Tabel 23 Tabel 24 Tabel 25 Tabel 26
+Tabel 27
+Tabel 28
+
+Halaman
+
+: Perbandingan Realisasi PNBP Tahun 2016 dan 2015
+
+19
+
+: Rincian Anggaran dan Realisasi Belanja Menurut Program Tahun 2016
+
+20
+
+: Rincian Anggaran dan Realisasi Belanja per Jenis Belanja Tahun 2016
+
+20
+
+: Perbandingan Realisasi Belanja Tahun 2016 dan 2015
+
+21
+
+: Rincian dan Realisasi Belanja Pegawai Tahun 2016
+
+22
+
+: Perbandingan Realisasi Belanja Pegawai Tahun 2016 dan 2015
+
+22
+
+: Rincian Anggaran dan Realisasi Belanja Barang Tahun 2016
+
+22
+
+: Perbandingan Realisasi Belanja Barang Tahun 2016 dan 2015
+
+23
+
+: Perbandingan Realisasi Belanja Modal Tahun 2016 dan 2015
+
+24
+
+: Rincian Aset Lancar per 31 Desember 2016 dan 2015
+
+25
+
+: Rincian Kas di Bendahara Pengeluaran per 31 Desember 2016 dan 2015
+
+25
+
+: Rincian Belanja Dibayar di Muka (prepaid) per 31 Desember 2016
+
+26
+
+: Rincian Persediaan per 31 Desember 2016 dan 2015
+
+27
+
+: Rincian Aset Tetap per 31 Desember 2016 dan 2015
+
+27
+
+: Rincian Akumulasi Penyusutan Aset Tetap per 31 Desember 2016
+
+29
+
+: Rincian Pendapatan Negara Bukan Pajak-LO Tahun 2016 dan 2015
+
+31
+
+: Rincian Beban Operasional Tahun 2016 dan 2015
+
+32
+
+: Rincian Beban Pegawai Tahun 2016 dan 2015
+
+33
+
+: Perbandingan Realisasi Beban/Belanja Pegawai Tahun 2016 Menurut LO
+
+33
+
+dan LRA
+
+: Rincian Beban Persediaan Tahun 2016 dan 2015
+
+34
+
+: Rincian Beban Barang dan Jasa Tahun 2016 dan 2015
+
+34
+
+: Perbandingan Realisasi Beban/Belanja Barang dan Jasa Tahun 2016
+
+35
+
+Menurut LO dan LRA
+
+: Rincian Beban Pemeliharaan Tahun 2016 dan 2015
+
+35
+
+: Rincian Beban Perjalanan Dinas Tahun 2016 dan 2015
+
+36
+
+: Rincian Beban Penyusutan dan Amortisasi Tahun 2016 dan 2015
+
+37
+
+: Rincian Pendapatan dari Kegiatan Non Operasional Lainnya Tahun 2016
+
+38
+
+dan 2015
+
+: Perbandingan Realisasi Pendapatan Kegiatan Non Operasional Lainnya
+
+38
+
+Tahun 2016 Menurut LO dan LRA
+
+: Rincian Beban dari Kegiatan Non Operasional Lainnya Taun 2016 dan
+
+39
+
+2015
+
+Daftar Tabel - iii -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+DAFTAR LAMPIRAN
+1. Laporan Keuangan Pokok A. Neraca Saldo Awal B. Neraca Percobaan Basis Kas C. Neraca Percobaan Basis Akrual D. Laporan Realisasi Anggaran E. Neraca F. Laporan Operasional G. Laporan Perubahan Ekuitas
+2. Laporan Realisasi Anggaran Pendapatan Negara dan Hibah 3. Laporan Realisasi Anggaran Belanja 4. Neraca SIMAK BMN per 31 Desember 2016 5. Daftar Tanah
+Daftar Lampiran - iv -
+
+PERNYATAAN TANGGUNG JAWAB
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited )
+PERWAKILAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN
+PERNYATAAN TANGGUNG JAWAB
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 yang terdiri atas Laporan Realisasi Anggaran, Neraca, Laporan Operasional, Laporan Perubahan Ekuitas, dan Catatan atas Laporan Keuangan sebagaimana terlampir, adalah merupakan tanggung jawab kami. Laporan Keuangan tersebut telah disusun berdasarkan sistem pengendalian intern yang memadai dan isinya telah menyajikan informasi pelaksanaan anggaran dan posisi keuangan secara layak sesuai dengan Standar Akuntansi Pemerintahan.
+Mamuju, 10 April 2017 Kepala Perwakilan,
+Wasis Prabowo NIP 19651031 198703 1 001
+Pernyataan Tanggung Jawab - v -
+
+RINGKASAN LAPORAN KEUANGAN
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+RINGKASAN LAPORAN KEUANGAN
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 ini telah disusun dan disajikan sesuai dengan Peraturan Pemerintah Nomor 71 Tahun 2010 tentang Standar Akuntansi Pemerintahan (SAP), dan berdasarkan kaidah-kaidah pengelolaan keuangan yang sehat dalam pemerintahan. Laporan Keuangan ini meliputi:
+
+1. LAPORAN REALISASI ANGGARAN Laporan Realisasi Anggaran menggambarkan perbandingan antara anggaran dengan realisasinya, yang mencakup unsur-unsur Pendapatan-LRA dan Belanja sampai dengan 31 Desember 2016. Realisasi Pendapatan Negara sampai dengan 31 Desember 2016 adalah berupa Penerimaan Negara Bukan Pajak sebesar Rp56.344.476,000. Dalam TA 2016 Perwakilan BPKP Provinsi Sulawesi Barat tidak membuat estimasi pendapatan. Realisasi Belanja Negara s.d. 31 Desember 2016 adalah sebesar Rp12.242.942.436,00 atau mencapai 96,35 persen dari alokasi anggaran sebesar Rp12.706.208.000,00.
+
+2. NERACA
+
+Neraca menggambarkan posisi keuangan entitas mengenai aset, kewajiban, dan ekuitas dana per 31 Desember 2016 dan 2015.
+
+Nilai Aset per 31 Desember 2016 dicatat dan disajikan sebesar Rp41.466.308.776,00 yang terdiri atas Aset Lancar sebesar Rp208.110.074,00 dan Aset Tetap (netto setelah akumulasi penyusutan) sebesar Rp41.258.198.701,00
+
+Nilai Kewajiban dan Ekuitas masing-masing sebesar Rp26.504.802,00
+
+dan
+
+Rp41.439.803.973,00
+
+3. LAPORAN OPERASIONAL Laporan Operasional menyajikan berbagai unsur pendapatan-LO, beban, surplus/defisit dari kegiatan operasional, surplus/defisit dari kegiatan non-operasional, dan surplus/defisit-LO, yang diperlukan untuk penyajian yang wajar. Surplus/(Defisit) sampai dengan 31 Desember 2016 sebesar minus Rp14.507.574.588,00 Jumlah tersebut terdiri atas:
+
+Ringkasan - 1 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+ Surplus/(Defisit) dari Kegiatan Operasional sampai dengan 31 Desember 2016 sebesar minus Rp14.509.129.575,00 yang merupakan selisih antara Pendapatan Operasional sebesar Rp52.904.476,00 dikurangi dengan Beban Operasional sebesar Rp14.562.034.051,00
+ Surplus/(Defisit) dari Kegiatan Non Operasional sebesar Rp1.554.987,00 dan Surplus/(Defisit) dari Kegiatan Non Operasional Lainnya sebesar minus Rp1.554.987,00
+4. LAPORAN PERUBAHAN EKUITAS Laporan Perubahan Ekuitas menyajikan informasi kenaikan atau penurunan ekuitas tahun pelaporan dibandingkan dengan tahun sebelumnya. Ekuitas pada tanggal 1 Januari 2016 adalah sebesar Rp43.409.620.635,00 dikurangi Defisit LO sebesar Rp14.507.574.588,00, ditambah dengan Koreksi Yang Menambah (Mengurangi) Nilai Ekuitas sebesar minus Rp351.159.966,00 ditambah Transaksi Antar Entitas sebesar Rp12.186.597.960,00 sehingga Ekuitas Perwakilan BPKP Provinsi Sulawesi Barat pada tanggal 31 Desember 2016 adalah sebesar Rp41.439.803.973,00
+5. CATATAN ATAS LAPORAN KEUANGAN Catatan atas Laporan Keuangan (CaLK) menyajikan informasi tentang penjelasan atau daftar terinci atau analisis atas nilai suatu pos yang disajikan dalam Laporan Realisasi Anggaran, Neraca, Laporan Operasional, dan Laporan Perubahan Ekuitas. Termasuk pula dalam CaLK adalah penyajian informasi yang diharuskan dan dianjurkan oleh Standar Akuntansi Pemerintahan serta pengungkapanpengungkapan lainnya yang diperlukan untuk penyajian yang wajar atas laporan keuangan.
+Dalam penyajian Laporan Realisasi Anggaran untuk periode yang berakhir sampai dengan tanggal 31 Desember 2016 disusun dan disajikan berdasarkan basis kas. Sedangkan Neraca, Laporan Operasional, dan L aporan Perubahan Ekuitas untuk periode sampai dengan 31 Desember 2016 disusun dan disajikan dengan basis akrual.
+Ringkasan - 2 -
+
+LAPORAN REALISASI ANGGARAN
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+I. LAPORAN REALISASI ANGGARAN
+
+PERWAKILAN BPKP PROVINSI SULAWESI BARAT LAPORAN REALISASI ANGGARAN
+UNTUK PERIODE YANG BERAKHIR 31 DESEMBER 2016 DAN 2015
+
+(dalam Rupiah)
+
+31 DESEMBER 2016
+
+%
+
+31 DES 2015
+
+NO.
+
+U R A I A N
+
+CATATAN ANGGARAN
+
+REALISASI REALISASI
+
+REALISASI
+
+THD
+
+ANGGARAN
+
+PENDAPATAN NEGARA DAN
+
+B.1
+
+A
+
+HIBAH
+
+ Penerimaan Negara Bukan Pajak
+
+-
+
+56.344.476
+
+- 326.859.299
+
+Jumlah Pendapatan Negara & Hibah
+
+-
+
+56.344.476
+
+- 326.859.299
+
+BELANJA
+
+B.2
+
+ Belanja Pegawai B
+ Belanja Barang
+
+8.360.425.000 4.345.783.000
+
+8.022.811.814 4.220.130.622
+
+95,96 8.284.086.798 97,11 5.071.342.271
+
+ Belanja Modal
+
+-
+
+-
+
+- 2.505.514.973
+
+Jumlah Belanja
+
+12.706.208.000 12.242.942.436
+
+96,35 15.860.944.042
+
+Lihat Catatan atas Laporan Keuangan yang merupakan bagian tidak terpisahkan dari Laporan Keuangan ini.
+
+Laporan Realisasi Anggaran- 3 -
+
+NERACA
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+II. N E R A C A
+
+PERWAKILAN BPKP PROVINSI SULAWESI BARAT NERACA
+PER 31 DESEMBER 2016 DAN 2015
+
+NAMA PERKIRAAN
+ASET ASET LANCAR  Kas di Bendahara Pengeluaran Belanja Dibayar Dimuka (prepaid)  Persediaan
+JUMLAH ASET LANCAR ASET TETAP  Tanah  Peralatan dan Mesin  Gedung dan Bangunan  Jalan, Irigasi dan Jaringan  Akumulasi Penyusutan
+JUMLAH ASET TETAP JUMLAH ASET KEWAJIBAN
+KEWAJIBAN JANGKA PENDEK  Utang Kepada Pihak Ketiga  Uang Muka dari KPPN
+JUMLAH KEWAJIBAN JANGKA PENDEK JUMLAH KEWAJIBAN EKUITAS
+ Ekuitas JUMLH EKUITAS
+JUMLAH KEWAJIBAN DAN EKUITAS DANA
+
+CATATAN 31 DES 2016
+
+C.1 C.1.1 C.1.2 C.1.3
+C.2 C.2.1 C.2.2 C.2.3 C.2.4 C.2.5
+C.3 C.3.1 C.3.2
+C.4 C.4.1
+
+0 48.382.500 159.727.574 208.110.074
+2.042.703.750 6.232.014.285 34.520.500.913 4.292.795.369 (5.829.815.616) 41.258.198.701 41.466.308.775
+26.504.802 0
+26.504.802 26.504.802
+41.439.803.973 41.439.803.973 41.466.308.775
+
+(dalam Rupiah) 31 DES 2015
+55.614.380 45.315.000 264.832.968 365.762.348
+2.042.703.750 6.232.014.285 34.520.500.913 4.292.795.369 (3.912.681.913) 43.175.332.404 43.541.094.752
+75.859.737 55.614.380 131.474.117 131.474.117
+43.409.620.635 43.409.620.635 43.541.094.752
+
+Lihat Catatan atas Laporan Keuangan yang merupakan bagian tidak terpisahkan dari Laporan Keuangan ini.
+
+Neraca - 4 -
+
+LAPORAN OPERASIONAL
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+III. LAPORAN OPERASIONAL
+
+PERWAKILAN BPKP PROVINSI SULAWESI BARAT LAPORAN OPERASIONAL
+UNTUK PERIODE YANG BERAKHIR 31 DESEMBER 2016 DAN 2015
+(dalam Rupiah)
+
+NAMA PERKIRAAN
+
+CATATAN
+
+31 DES 2016
+
+31 DES 2015
+
+KEGIATAN OPERASIONAL PENDAPATAN OPERASIONAL  Pendapatan Negara Bukan Pajak
+Jumlah Pendapatan Operasional (D.1.1.1) BEBAN OPERASIONAL  Beban Pegawai  Beban Persediaan  Beban Barang dan Jasa  Beban Pemeliharaan  Beban Perjalanan Dinas  Beban Penyusutan dan Amortisasi
+Jumlah Beban Operasional (D.1.2.1 s.d. D.1.2.6) Surplus / (Defisit) dari Kegiatan Operasional (D.1.1­D.1.2)
+KEGIATAN NON OPERASIONAL SURPLUS / (DEFISIT) DARI KEGIATAN NON OPERASIONAL LAINNYA  Pendapatan dari Kegiatan Non Operasional Lainnya  Beban dari Kegiatan Non Operasional Lainnya Jumlah Surplus / (Defisit) dari Kegiatan Non Operasional
+Lainnya (D.2.1.1-D.2.1.2) Surplus / (Defisit) dari Kegiatan Non Operasional (D.2.1)
+SURPLUS / (DEFISIT) ­ LO (D.1+D.2)
+
+D.1 D.1.1 D.1.1.1 D.1.1 D.1.2 D.1.2.1 D.1.2.2 D.1.2.3 D.1.2.4 D.1.2.5 D.1.2.6 D.1.2 D.1 D.2
+D.2.1
+D.2.1.1 D.2.1.2
+D.2.1
+D.2
+
+52.904.476 52.904.476
+
+4.265.649 4.265.649
+
+7.967.197.434 169.194.611
+1.560.474.059 376.313.472
+2.220.560.806 2.268.293.669 14.562.034.051 (14.509.129.575)
+
+8.339.701.178 178.899.575
+1.221.481.891 490.759.593
+2.964.071.454 2.456.482.586 15.651.396.277 (15.647.130.628)
+
+3.573.650 2.018.663
+
+85.563 -
+
+1.554.987
+
+85.563
+
+1.554.987 (14.507.574.588)
+
+85.563 (15.647.045.065)
+
+Lihat Catatan atas Laporan Keuangan yang merupakan bagian tidak terpisahkan dari Laporan Keuangan ini.
+
+Laporan Operasional - 5 -
+
+LAPORAN PERUBAHAN EKUITAS
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+IV. LAPORAN PERUBAHAN EKUITAS
+
+PERWAKILAN BPKP PROVINSI SULAWESI BARAT LAPORAN PERUBAHAN EKUITAS
+UNTUK PERIODE YANG BERAKHIR 31 DESEMBER 2016 DAN 2015
+(dalam Rupiah)
+
+NAMA PERKIRAAN
+
+CATATAN
+
+31 DES 2016
+
+31 DES 2015
+
+EKUITAS AWAL SURPLUS/(DEFISIT) ­ LO KOREKSI YANG MENAMBAH /(MENGURANGI) NILAI EKUITAS  Penyesuaian Nilai Aset  Koreksi Nilai Aset Tetap Non Revaluasi  Koreksi Nilai Aset Lainnya Non Revaluasi Jumlah Koreksi Yang Menambah/(Mengurangi) Nilai Ekuitas TRANSAKSI ANTAR ENTITAS  Ditagihkan ke Entitas Lain
+ Diterima dari Entitas Lain
+
+E.1 E.2 E.3 E.3.1 E.3.2 E.3.3
+E.4 E.4.1 E.4.2
+
+43.409.620.635 (14.507.574.588)
+
+43.546.483.391 (15.355.544.778)
+
+351.159.966
+-
+351.159.966
+
+3.880.285 (319.283.006)
+-
+(315.402.721)
+
+12.242.942.436 (56.344.476)
+
+15.860.944.042 (326.859.299)
+
+Jumlah Transaksi Antar Entitas KENAIKAN/(PENURUNAN) EKUITAS (E.2+E.3+E.4)
+EKUITAS AKHIR (E.1+E.2+E.3+E.4)
+
+12.186.597.960 15.534.084.743
+
+(1.969.816.662)
+
+(136.862.756)
+
+E.5
+
+41.439.803.973 43.409.620.635
+
+Lihat Catatan atas Laporan Keuangan yang merupakan bagian tidak terpisahkan dari Laporan Keuangan ini.
+
+Laporan Perubahan Ekuitas - 6 -
+
+CATATAN ATAS LAPORAN KEUANGAN
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+V. CATATAN ATAS LAPORAN KEUANGAN
+
+Profil dan Kebijakan Teknis
+
+A. PENJELASAN UMUM A.1. PROFIL DAN KEBIJAKAN TEKNIS
+Badan Pengawasan Keuangan dan Pembangunan (BPKP) adalah lembaga pemerintah non kementerian, yang dibentuk berdasarkan Keputusan Presiden Nomor 31 Tahun 1983, kemudian diperbarui dengan Keputusan Presiden Nomor 103 Tahun 2001 tentang Kedudukan, Tugas, Fungsi, Kewenangan, Susunan Organisasi dan Tata Kerja Lembaga Pemerintah Non Departemen, sebagaimana beberapa kali diubah terakhir dengan Peraturan Presiden Nomor 192 Tahun 2014.
+Sesuai dengan Peraturan Presiden Nomor 192 Tahun 2014 tentang Badan Pengawasan Keuangan dan Pembangunan, BPKP merupakan aparat pengawasan intern pemerintah yang berada dan bertanggung jawab kepada Presiden. Tugas BPKP adalah menyelenggarakan urusan pemerintahan di bidang pengawasan keuangan negara/daerah dan pembangunan nasional.
+Sebagai aparat pengawasan internal pemerintah, BPKP berperan untuk membantu pemerintah dalam membangun pemerintahan yang baik dan bersih, membantu menghadapi permasalahan yang terjadi dan memberikan masukan/solusi. Penegasan jati diri sebagai pengawas internal pemerintah adalah dalam arti BPKP lebih mengedepankan peran proaktif untuk dapat memberikan nilai tambah kepada stakeholder dan shareholder. Dalam hal ini, BPKP berperan untuk meningkatkan proses governance, manajemen risiko dan penerapan sistem pengendalian guna mencapai tujuan nasional. Peraturan Pemerintah Nomor 60 Tahun 2008 tentang Sistem Pengendalian Intern Pemerintah, menyatakan BPKP berperan dalam mendukung akuntabilitas Presiden dalam pelaksanaan pengelolaan Keuangan Negara melalui fungsi pengawasan intern terhadap akuntabilitas keuangan negara dan pembinaan penyelenggaraan Sistem Pengendalian Intern Pemerintah (SPIP).
+
+Catatan atas Laporan Keuangan - 7 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Susunan organisasi dan pejabat pimpinan unit kerja di lingkungan Perwakilan BPKP Provinsi Sulawesi Barat adalah sebagai berikut:
+
+Kepala Perwakilan Kepala Bagian Tata Usaha
+Kepala Sub Bagian Keuangan
+Kepala Sub Bagian Kepegawaian dan Umum Koorwas Bidang IPP
+Koorwas Bidang APD Koorwas Bidang Akuntan Negara
+
+: Wasis Prabowo, S.E.,Ak.,MM : Muh. Abdi Uluelang, S.E.,Ak. : Baden, S.E.,Ak.,M.Ak.,CA : Aryanto, S.Kom.,M.Ec.Dev : Baharuddin Rahman, S.E. : Syamsul Aris, S.E. : Putu Yudi Tenaya, Ak.,MM
+
+Pendekatan Penyusunan Laporan Keuangan
+
+Koorwas Bidang Investigasi
+
+: Charles Rante Batara, S.E.,MM
+
+Koorwas Bidang P3A & Pembinaan APIP : Suan Kim, S.E.,MM
+
+A.2. PENDEKATAN PENYUSUNAN LAPORAN KEUANGAN
+Laporan Keuangan per 31 Desember 2016 ini merupakan laporan yang mencakup seluruh aspek keuangan yang dikelola oleh Perwakilan BPKP Provinsi Sulawesi Barat. Laporan Keuangan ini dihasilkan melalui Sistem Akuntansi Instansi (SAI) yaitu serangkaian prosedur manual maupun yang terkomputerisasi mulai dari pengumpulan data, pencatatan dan pengikhtisaran sampai dengan pelaporan posisi keuangan dan operasi keuangan pada Kementerian Negara/Lembaga.
+SAI terdiri dari Sistem Akuntansi Instansi Berbasis Akrual (SAIBA) dan Sistem Informasi Manajemen dan Akuntansi Barang Milik Negara (SIMAK-BMN). SAI dirancang untuk menghasilkan Laporan Keuangan Satuan Kerja yang terdiri dari Laporan Realisasi Anggaran, Neraca, Laporan Operasional, dan Laporan Perubahan Ekuitas. Sedangkan SIMAK-BMN adalah sistem yang menghasilkan informasi aset tetap, persediaan, dan aset lainnya untuk penyusunan neraca dan laporan barang milik negara serta laporan manajerial lainnya.
+
+Catatan atas Laporan Keuangan - 8 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Basis Akuntansi
+Dasar Pengukuran
+Kebijakan Akuntansi
+
+A.3. BASIS AKUNTANSI
+Perwakilan BPKP Provinsi Sulawesi Barat menerapkan basis akrual dalam penyusunan dan penyajian Neraca, Laporan Operasional, dan Laporan Perubahan Ekuitas serta basis kas untuk penyusunan dan penyajian Laporan Realisasi Anggaran. Basis akrual adalah basis akuntansi yang mengakui pengaruh transaksi dan peristiwa lainnya pada saat transaksi dan peristiwa itu terjadi, tanpa memperhatikan saat kas atau setara kas diterima atau dibayarkan. Sedangkan basis kas adalah basis akuntansi yang mengakui pengaruh transaksi atau peristiwa lainnya pada saat kas atau setara kas diterima atau dibayar. Hal ini sesuai dengan Standar Akuntansi Pemerintahan (SAP) yang telah ditetapkan dengan Peraturan Pemerintah Nomor 71 Tahun 2010 tentang StandarAkuntansi Pemerintahan.
+A.4. DASAR PENGUKURAN
+Pengukuran adalah proses penetapan nilai uang untuk mengakui dan memasukkan setiap pos dalam laporan keuangan. Dasar pengukuran yang diterapkan Perwakilan BPKP Provinsi Sulawesi Barat dalam penyusunan dan penyajian Laporan Keuangan adalah dengan menggunakan nilai perolehan historis.
+Aset dicatat sebesar pengeluaran/penggunaan sumber daya ekonomi atau sebesar nilai wajar dari imbalan yang diberikan untuk memperoleh aset tersebut. Kewajiban dicatat sebesar nilai wajar sumber daya ekonomi yang digunakan pemerintah untuk memenuhi kewajiban yang bersangkutan.
+Pengukuran pos-pos laporan keuangan menggunakan mata uang rupiah. Transaksi yang menggunakan mata uang asing dikonversi terlebih dahulu dan dinyatakan dalam mata uang rupiah.
+A.5. KEBIJAKAN AKUNTANSI
+Penyusunan dan penyajian Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat per 31 Desember 2016 telah mengacu pada Standar Akuntansi Pemerintahan (SAP). Kebijakan akuntansi
+
+Catatan atas Laporan Keuangan - 9 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Pendapatan-LRA Pendapatan-LO
+
+merupakan prinsip-prinsip, dasar-dasar, konvensi konvensi, aturanaturan, dan praktik-praktik spesifik yang dipilih oleh suatu entitas pelaporan dalam penyusunan dan penyajian laporan keuangan. Kebijakan akuntansi yang diterapkan dalam laporan keuangan ini merupakan kebijakan yang ditetapkan oleh BPKP. Di samping itu, dalam penyusunannya telah diterapkan kaidah-kaidah pengelolaan keuangan yang sehat di lingkungan pemerintahan.
+Kebijakan-kebijakan akuntansi yang penting yang digunakan dalam penyusunan Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat adalah sebagai berikut:
+(1) Pendapatan-LRA  Pendapatan-LRA adalah semua penerimaan yang menambah ekuitas dana lancar dalam periode tahun yang bersangkutan yang menjadi hak pemerintah pusat dan tidak perlu dibayar kembali oleh pemerintah pusat.  Pendapatan-LRA diakui pada saat kas diterima pada Kas Umum Negara (KUN).  Akuntansi pendapatan-LRA dilaksanakan berdasarkan azas bruto, yaitu dengan membukukan penerimaan bruto, dan tidak mencatat jumlah nettonya (setelah dikompensasikan dengan pengeluaran).  Pendapatan-LRA disajikan menurut klasifikasi sumber pendapatan.
+(2) Pendapatan-LO  Pendapatan-LO adalah hak pemerintah pusat yang diakui sebagai penambah ekuitas dalam periode tahun anggaran yang bersangkutan dan tidak perlu dibayar kembali.  Pendapatan-LO diakui pada saat timbulnya hak atas pendapatan dan/atau pendapatan direalisasi, yaitu adanya aliran masuk sumber daya ekonomi. Secara khusus pengakuan pendapatan-LO pada Perwakilan BPKP Provinsi Sulawesi Barat adalah sebagai berikut:  Pendapatan Sewa Aset Tetap diakui secara proposional
+
+Catatan atas Laporan Keuangan - 10 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Belanja Beban
+
+antara nilai dan periode waktu sewa.  Pendapatan denda keterlambatan penyelesaian pekerjaan
+diakui pada saat ditetapkan surat keputusan denda atau dokumen lain yang dipersamakan.  Akuntansi pendapatan-LO dilaksanakan berdasarkan azas bruto, yaitu dengan membukukan penerimaan bruto, dan tidak mencatat jumlah nettonya (setelah dikompensasikan dengan pengeluaran).  Pendapatan disajikan menurut klasifikasi sumber pendapatan.
+(3) Belanja  Belanja adalah semua pengeluaran yang mengurangi ekuitas dana lancar dalam periode tahun yang bersangkutan yang tidak akan diperoleh pembayarannya kembali oleh pemerintah pusat.  Belanja diakui pada saat terjadi pengeluaran kas dari KUN.  Khusus pengeluaran melalui bendahara pengeluaran, pengakuan belanja terjadi pada saat pertanggungjawaban atas pengeluaran tersebut disahkan oleh Kantor Pelayanan Perbendaharaan Negara (KPPN).  Belanja disajikan menurut klasifikasi ekonomi/jenis belanja dan selanjutnya klasifikasi berdasarkan organisasi dan fungsi akan diungkapkan dalam Catatan atas Laporan Keuangan.
+(4) Beban  Beban adalah penurunan manfaat ekonomi atau potensi dalam periode pelaporan yang menurunkan ekuitas, yang dapat berupa pengeluaran atau konsumsi aset atau timbulnya kewajiban.  Beban diakui pada saat timbulnya kewajiban; terjadinya konsumsi aset; terjadinya penurunan manfaat ekonomi atau potensi jasa.  Beban disajikan menurut klasifikasi ekonomi/jenis belanja dan selanjutnya klasifikasi berdasarkan organisasi dan fungsi diungkapkan dalam Catatan atas Laporan Keuangan .
+
+Catatan atas Laporan Keuangan - 11 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Aset Aset Lancar
+
+(5) Aset Aset diklasifikasikan menjadi Aset Lancar, Aset Tetap, Piutang Jangka Panjang, dan Aset Lainnya. a. Aset Lancar  Kas disajikan di neraca dengan menggunakan nilai nominal. Kas dalam bentuk valuta asing disajikan di neraca dengan menggunakan kurs tengah BI pada tanggal neraca.  Piutang diakui apabila memenuhi kriteria sebagai berikut:  Piutang yang timbul dari Tuntutan Perbendaharaan/ Ganti Rugi apabila telah timbul hak yang didukung dengan Surat Keterangan Tanggung Jawab Mutlak (SKTM) dan/atau telah dikeluarkannya surat keputusan yang mempunyai kekuatan hukum tetap.  Piutang yang timbul dari perikatan diakui apabila peristiwa yang menimbulkan hak tagih dan didukung dengan naskah perjanjian yang menyatakan hak dan kewajiban secara jelas serta jumlahnya bisa diukur secara handal.  Piutang disajikan dalam neraca pada nilai yang dapat direalisasikan (net realizable value). Hal ini diwujudkan dengan membentuk penyisihan piutang tak tertagih. Penyisihan tersebut didasarkan atas kualitas piutang yang ditentukan berdasarkan jatuh tempo dan upaya penagihan yang dilakukan pemerintah. Perhitungan penyisihannya adalah sebagai berikut:
+
+Kualitas Piutang
+
+Uraian
+
+Lancar
+
+Belum dilakukan pelunasan s.d. tanggal jatuh tempo
+
+Kurang Lancar
+
+Satu bulan terhitung sejak tanggal Surat Tagihan Pertama tidak dilakukan pelunasan
+
+Diragukan Satu bulan terhitung sejak tanggal Surat Tagihan Kedua tidak dilakukan pelunasan
+
+Macet
+
+1. Satu bulan terhitung sejak tanggal Surat
+
+Tarif Penyisihan
+0,5%
+10%
+50% 100%
+
+Catatan atas Laporan Keuangan - 12 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Aset Tetap
+
+Tagihan Ketiga tidak dilakukan pelunasan 2. Piutang telah diserahkan kepada Panitia
+Urusan Piutang Negara/DJKN
+ Tagihan Tuntutan Ganti Rugi (TGR) yang akan jatuh tempo dua belas (12) bulan setelah tanggal pelaporan disajikan sebagai Bagian Lancar Tagihan TGR.
+ Persediaan dicatat berdasarkan hasil perhitungan fisik pada tanggal neraca dikalikan dengan harga pembelian terakhir, apabila diperoleh dengan pembelian.
+b. Aset Tetap  Nilai aset tetap disajikan berdasarkan harga perolehan atau harga wajar.  Pengakuan aset tetap didasarkan pada nilai satuan minimum kapitalisasi sebagai berikut:  Pengeluaran untuk per satuan peralatan dan mesin dan peralatan olah raga yang nilainya sama dengan atau lebih dari Rp300.000,00 (tiga ratus ribu rupiah);  Pengeluaran untuk gedung dan bangunan yang nilainya sama dengan atau lebih dari Rp10.000.000,00 (sepuluh juta rupiah);  Pengeluaran yang tidak tercakup dalam batasan nilai minimum kapitalisasi tersebut di atas, diperlakukan sebagai biaya kecuali pengeluaran untuk tanah, jalan/irigasi/jaringan, dan aset tetap lainnya berupa koleksi perpustakaan dan barang bercorak kesenian.  Aset Tetap yang tidak digunakan dalam kegiatan operasional pemerintah yang clisebabkan antara lain karena aus, ketinggalan jaman, tidak sesuai dengan kebutuhan organisasi yang makin berkembang, rusak berat, tidak sesuai clengan rencana umum tata ruang (RUTR), atau masa kegunaannya telah berakhir direklasifikasi ke Aset Lain-Lain pada pos Aset Lainnya.  Aset tetap yang secara permanen dihentikan penggunaannya, dikeluarkan dari neraca pada saat ada
+
+Catatan atas Laporan Keuangan - 13 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Penyusutan Aset Tetap
+
+penetapan dari entitas sesuai dengan ketentuan perundangundangan di bidang BMN/BMD.  Pengembalian belanja modal tahun anggaran yang lalu dicatat sebagai koreksi terhadap nilai aset yang bersangkutan pada saat pengembalian tersebut telah disetorkan ke Kas Negara. c. Penyusutan Aset Tetap  Penyusutan aset tetap adalah penyesuaian nilai sehubungan dengan penurunan kapasitas dan manfaat dari suatu aset tetap. Kebijakan penyusutan aset tetap didasarkan pada Peraturan Menteri Keuangan Nomor 90/PMK.06/2014 tentang Perubahan atas Peraturan Menteri Keuangan Nomor 01/PMK.06/2013 tentang Penyusutan Barang Milik Negara Berupa Aset Tetap Pada Entitas Pemerintah Pusat.  Penyusutan aset tetap tidak dilakukan terhadap Tanah, Konstruksi dalam Pengerjaan (KDP), dan Aset Tetap yang dinyatakan hilang berdasarkan dokumen sumber sah atau dalam kondisi rusak berat dan/atau usang yang telah diusulkan kepada Pengelola Barang untuk dilakukan penghapusan.  Penghitungan dan pencatatan Penyusutan Aset Tetap dilakukan setiap akhir semester tanpa memperhitungkan adanya nilai residu.  Penyusutan Aset Tetap dilakukan dengan menggunakan metode garis lurus yaitu dengan mengalokasikan nilai yang dapat disusutkan dari Aset Tetap secara merata setiap semester selama Masa Manfaat.  Masa Manfaat Aset Tetap ditentukan dengan berpedoman pada Keputusan Menteri Keuangan Nomor 59/KMK.06/2013 tentang Tabel Masa Manfaat Dalam Rangka Penyusutan Barang Milik Negara berupa Aset Tetap pada Entitas Pemerintah Pusat. Secara umum tabel masa manfaat adalah sebagai berikut:
+
+Catatan atas Laporan Keuangan - 14 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Piutang Jangka Panjang
+Aset Lainnya
+
+Kelompok Aset Tetap Peralatan dan Mesin Gedung dan Bangunan Jalan, Jaringan dan Irigasi Alat Tetap Lainnya (Alat Musik Modern)
+
+Masa Manfaat 2 s.d. 20 tahun 10 s.d. 50 tahun 5 s.d 40 tahun
+4 tahun
+
+d. Piutang Jangka Panjang  Piutang Jangka Panjang adalah piutang yang akan jatuh tempo atau akan direalisasikan lebih dari dua belas (12) bulan sejak tanggal pelaporan. Termasuk dalam Piutang Jangka Panjang adalah Tagihan Tuntutan Perbendaharaan/ Tuntutan Ganti Rugi (TP/TGR) yang jatuh tempo lebih dari satu tahun.  TP adalah tagihan yang ditetapkan oleh Badan Pemeriksa Keuangan kepada bendahara yang karena lalai atau perbuatan melawan hukum mengakibatkan kerugian negara/daerah.  TGR adalah suatu proses yang dilakukan terhadap pegawai negeri atau bukan pegawai negeri bukan bendahara dengan tujuan untuk menuntut penggantian atas suatu kerugian yang diderita oleh negara sebagai akibat langsung ataupun tidak langsung dari suatu perbuatan yang melanggar hukum yang dilakukan oleh pegawai tersebut atau kelalaian dalam pelaksanaan tugasnya.
+e. Aset Lainnya  Aset Lainnya adalah aset pemerintah selain aset lancar, aset tetap, dan piutang jangka panjang. Termasuk dalam Aset Lainnya adalah Aset Tak Berwujud, dan Aset Lain-lain, tagihan penjualan angsuran yang jatuh tempo lebih dari 12 (dua belas) bulan, aset kerjasama dengan pihak ketiga (kemitraan), dan kas yang dibatasi penggunaannya.  Aset Tak Berwujud (ATB) disajikan sebesar nilai tercatat netto yaitu harga setelah dikurangi akumulasi amortisasi.  Amortisasi ATB dengan masa manfaat terbatas dilakukan
+
+Catatan atas Laporan Keuangan - 15 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+dengan metode garis lurus dan nilai sisa nihil. Sedangkan atas ATB dengan masa manfaat tidak terbatas tidak dilakkan amortisasi.  Masa Manfaat Aset Tak Berwujud ditentukan dengan berpedoman Keputusan Menteri Keuangan Nomor 620/KM6/2015 tentang Masa Manfaat Dalam Rangka Amortisasi Barang Milik Negara berupa Aset Tak Berwujud pada Entitas Pemerintah Pusat. Secara umum table masa manfaat adalah sebagai berikut:
+
+Kelompok Aset Tak Berwujud
+Software Komputer
+Franchise
+Lisensi, Hak Paten Sederhana, Merk, Desain Industri, Rahasia Dagang, Desain Tata Letak Sirkuit Terpadu
+Hak Ekonomi Lembaga Penyiaran, Paten Biasa, Perlindungan Varietas Tanaman Semusim
+Hak Cipta Karya Seni Terapan, Perlindungan Varietas Tanaman Tahunan
+Hak Cipta atas Ciptaan Gol.II Hak Ekonomi Pelaku Pertunjukan, Hak Ekonomi Produser Fonogram
+Hak Cipta atas Ciptaan Gol. I
+
+Masa Manfaat (tahun) 4 5 10
+20
+25
+50 70
+
+Kewajiban
+
+ Aset Lain-lain berupa aset tetap pemerintah dalam kondisi rusak berat dan tidak lagi digunakan dalam operasional pemerintahan, disajikan sebesar nilai buku yaitu harga perolehan dikurangi akumulasi penyusutan.
+(6) Kewajiban  Kewajiban adalah utang yang timbul dari peristiwa masa lalu yang penyelesaiannya mengakibatkan aliran keluar sumber daya ekonomi pemerintah.  Kewajiban pemerintah diklasifikasikan kedalam kewajiban jangka pendek dan kewajiban jangka panjang. a. Kewajiban Jangka Pendek Suatu kewajiban diklasifikasikan sebagai kewajiban jangka pendek jika diharapkan untuk dibayar atau jatuh tempo dalam waktu dua belas bulan setelah tanggal pelaporan.
+
+Catatan atas Laporan Keuangan - 16 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Ekuitas
+
+Kewajiban jangka pendek meliputi Utang Kepada Pihak Ketiga, Belanja yang Masih Harus Dibayar, Pendapatan Diterima Dimuka, dan Utang Jangka Pendek Lainnya. Pembelian Persediaan yang belum dibayar dari Kas Negara (belum terbit SP2D) diakui sebagai Belanja yang Masih Harus Dibayar pada tanggal Neraca.
+b. Kewajiban Jangka Panjang Kewajiban diklasifikasikan sebagai kewajiban jangka panjang jika diharapkan untuk dibayar atau jatuh tempo dalam waktu lebih dari dua belas (12) bulan setelah tanggal pelaporan.
+ Kewajiban dicatat sebesar nilai nominal, yaitu sebesar nilai kewajiban pemerintah pada saat pertama kali transaksi berlangsung.
+(7) Ekuitas Ekuitas merupakan selisih antara aset dengan kewajiban dalam satu periode. Pengungkapan lebih lanjut dari ekuitas disajikan dalam Laporan Perubahan Ekuitas.
+
+Catatan atas Laporan Keuangan - 17 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+B. PENJELASAN ATAS POS-POS LAPORAN REALISASI ANGGARAN
+
+Selama periode berjalan, Pagu anggaran Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 sebesar Rp13.778.969.000,00. Sesuai dengan Instruksi Presiden Nomor 4 Tahun 2016 dan Surat Menteri Keuangan Nomor S-377/MK.02/2016 tanggal 13 Mei 2016, terdapat pengurangan pagu sebesar Rp182.761.000,00 sehingga pagu DIPA Perwakilan BPKP Provinsi Sulawesi Barat menjadi sebesar Rp13.596.208.000,00
+
+Sesuai dengan Instruksi Presiden Nomor 8 Tahun 2016 tentang Langkah-
+
+Langkah Penghematan Belanja Kementerian/Lembaga Dalam Rangka
+
+Pelaksanaan APBN Perubahan Tahun Anggaran 2016, terdapat
+
+pengurangan pagu anggaran Perwakilan BPKP Provinsi Sulawesi Barat
+
+beserta revisi realokasi anggaran Rp890.000.000,00 sehingga pagu net DIPA
+
+Perwakilan BPKP Provinsi Sulawesi Barat menjadi sebesar
+
+Rp12.706.208.000,00 (termasuk self blocking sebesar Rp125.000.000,00)
+
+dengan rincian sebagai berikut:
+
+Jenis Belanja
+
+Kode ee 51 52
+
+Uraian Belanja Pegawai Belanja Barang
+
+53 Belanja Modal
+
+Total
+
+Jumlah Anggaran (Rp)
+
+Awal
+
+Revisi
+
+9.250.425.000 8.360.425.000
+
+4.528.544.000 4.345.783.000
+
+0
+
+0
+
+13.778.969.000 12.706.208.000
+
+Sedangkan apabila dilihat dari program, maka pagu belanja adalah sebagai berikut:
+
+Uraian Program
+
+Program Dukungan Manajemen dan
+
+Pelaksanaan Tugas Teknis Lainnya
+
+BPKP
+
+Program Pengawasan Intern
+
+Akuntabilitas Keuangan Negara dan
+
+Pembangunan Nasional
+
+serta
+
+Pembinaan Penyelenggaraan SPIP
+
+Jumlah Pagu
+
+Awal (Rp)
+
+Revisi (Rp)
+
+11.771.731.000 10.826.825.000
+
+2.007.238.000 1.879.383.000
+
+Total
+
+13.778.969.000 12.706.208.000
+
+Catatan atas Laporan Keuangan - 18 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Realisasi Pendapatan Negara dan Hibah Rp56.344.476
+
+B.1. Pendapatan Negara dan Hibah Realisasi Pendapatan Negara dan Hibah pada Tahun 2016 adalah sebesar Rp56.344.476,00. Keseluruhan Pendapatan Negara dan Hibah Perwakilan BPKP Provinsi Sulawesi Barat merupakan Penerimaan Negara Bukan Pajak (PNBP) Lainnya. Perwakilan BPKP Provinsi Sulawesi Barat tidak membuat Estimasi Pendapatan Negara Bukan Pajak dan Hibah TA 2016.
+
+Realisasi PNBP Lainnya Tahun 2016 mengalami penurunan sebesar
+
+Rp270.514.823,00 atau minus 82,76 persen dibandingkan realisasi
+
+PNBP TA 2015 sebesar Rp326.859.299,00 yang disebabkan
+
+menurunnya pendapatan sewa tanah, gedung dan bangunan, dan
+
+pendapatan Iuran, Denda dan pendapatan lain-lain.
+
+Perbandingan realisasi PNBP Tahun Anggaran 2016 dan 2015
+
+disajikan pada Tabel 1 berikut ini:
+
+Tabel 1 Perbandingan Realisasi PNBP Tahun 2016 dan 2015
+
+Uraian Jenis PNBP
+
+Realisasi PNBP TA 2016 (Rp) TA 2015 (Rp)
+
+Naik / (Turun)
+
+Rp
+
+%
+
+Pendapatan Pemanfaatan BMN
+
+421.500
+
+623.583
+
+(202.083) (32,41)
+
+Pendapatan Iuran dan Denda Pendapatan Lain-Lain
+Jumlah Netto
+
+52.482.976 3.440.000
+56.344.476
+
+3.642.066
+
+48.840.910 1.341,02
+
+322.593.650 (319.153.650) (98,93)
+
+326.859.299 (270.514.823) (82,76)
+
+Realisasi Belanja Negara Rp12.242.436
+
+B.2. Belanja Negara Realisasi belanja Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 setelah dikurangi pengembalian belanja adalah sebesar Rp12.242.942.436,00 atau 96,35 persen dari anggaran sebesar Rp12.706.208.000,00. Rincian anggaran dan realisasi Belanja menurut program Tahun 2016 disajikan pada Tabel 2 berikut ini:
+
+Catatan atas Laporan Keuangan - 19 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Tabel 2 Rincian Anggaran dan Realisasi Belanja Menurut Program Tahun 2016
+
+Program
+Program Dukungan Manajemen dan Pelaksanaan Tugas Teknis Lainnya BPKP
+
+Anggaran (Rp)
+
+Realisasi Netto (Rp)
+
+%tase
+
+10.826.825.000
+
+10.428.802.962 96,32
+
+Program Pengawasan Intern Akuntabilitas Keuangan Negara dan Pembinaan Penyelenggaraan SPIP
+
+1.879.383.000
+
+1.814.139.474 96,53
+
+Total
+
+12.706.208.000
+
+12.242.942.436 96,35
+
+Sedangkan menurut jenis belanja, anggaran dan realisasinya disajikan pada Tabel 3 di bawah ini:
+Tabel 3 Rincian Anggaran dan Realisasi Belanja per Jenis Belanja Tahun 2016
+
+Jenis Belanja
+
+Kode
+
+Uraian
+
+51
+
+Belanja Pegawai
+
+52
+
+Belanja Barang
+
+53
+
+Belanja Modal
+
+Jumlah
+
+Anggaran (Rp)
+
+Realisasi Netto (Rp)
+
+%tase
+
+8.360.425.000 4.345.783.000
+0 12.706.208.000
+
+8.022.811.814 4.220.130.622
+0 12.242.942.436
+
+95,96 97,11
+0,00 96,35
+
+Komposisi anggaran dan realisasi belanja disajikan dalam grafik berikut ini:
+
+10.000.000.000 9.000.000.000 8.000.000.000 7.000.000.000 6.000.000.000 5.000.000.000 4.000.000.000 3.000.000.000 2.000.000.000 1.000.000.000 -
+
+8.360.425.000 8.022.811.814
+4.345.783.000 4.220.130.622
+
+Beban Pegawai Beban Barang
+
+Anggaran
+
+Realisasi
+
+Catatan atas Laporan Keuangan - 20 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Realisasi belanja Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 mengalami penurunan sebesar Rp3.618.001.606,00 atau 22,81% dibandingkan realisasi belanja TA 2015 disebabkan tidak ada alokasi anggaran Belanja Modal dalam Tahun 2016. Perbandingan realisasi belanja Tahun 2016 dan 2015 disajikan pada Tabel 4 berikut ini:
+
+Belanja Pegawai Rp8.022.811.814
+
+Tabel 4 Perbandingan Realisasi Belanja Tahun 2016 dan 2015
+
+Jenis Belanja
+
+Kode
+
+Uraian
+
+51 Belanja Pegawai
+
+52 Belanja Barang
+
+53 Belanja Modal
+
+Jumlah
+
+Realisasi Belanja Netto (Rp)
+
+Naik / (Turun)
+
+TA 2016
+
+TA 2015
+
+Jumlah (Rp) %tase
+
+8.022.811.814 4.220.130.622
+
+8.284.086.798 5.071.342.271
+
+(261.274.984) (3,15) (851.211.649) (16,78)
+
+- 2.505.514.973 (2.505.514.973) (100)
+
+12.242.942.436 15.860.944.042 (3.618.001.606) (22,81)
+
+B.2.1. Belanja Pegawai Realisasi Belanja Pegawai Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 dan 2015 setelah dikurangi pengembalian
+
+belanja masing-masing sebesar Rp8.022.811.814,00 dan
+
+Rp8.284.086.798,00. Rincian anggaran dan Realisas Belanja Pegawai Tahun 2016
+
+disajikan pada Tabel 5 berikut ini:
+
+Tabel 5 Rincian Anggaran dan Realisasi Belanja Pegawai Tahun 2016
+
+Uraian Belanja Gaji dan Tunj. PNS Belanja Lembur
+
+Anggaran (Rp) 3.781.671.000 80.000.000
+
+Realisasi Netto (Rp)
+3.636.860.816
+66.358.000
+
+% 96,17 82,95
+
+Belanja Tunjangan Khusus dan Belanja Pegawai Transito
+
+4.498.754.000
+
+4.319.592.998 96,02
+
+Realisasi Belanja Netto
+
+8.360.425.000
+
+8.022.811.814 95,96
+
+Realisasi belanja pegawai (netto) sebesar Rp8.022.811.814,00 berasal dari belanja pegawai (bruto) sebesar Rp8.041.114.989,00 setelah dikurangi dengan pengembalian belanja sebesar Rp18.303.175,00. Dibandingkan dengan realisasi TA 2015, terdapat penurunan
+
+Catatan atas Laporan Keuangan - 21 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Belanja Barang Rp4.220.130.622
+
+realisasi Belanja Pegawai sebesar Rp261.274.984,00 atau minus 3,15 persen disebabkan karena berkurangnya jumlah pegawai yang belum selesai melaksanakan pendidikan. Perbandingan realisasi Belanja Pegawai Tahun 2016 dan 2015 disajikan pada Tabel 6 berikut ini:
+
+Tabel 6 Perbandingan Realisasi Belanja Pegawai Tahun 2016 dan 2015
+
+Uraian
+Belanja Gaji dan Tunj. PNS
+Belanja Lembur Belanja Tunjangan Khusus dan Belanja Pegawai Transito Realisasi Belanja Bruto
+
+Realisasi Netto (Rp)
+
+TA 2016
+
+TA 2015
+
+3.636.860.816 4.035.161.572
+
+66.358.000
+
+80.000.000
+
+Naik / (Turun)
+
+Jumlah (Rp)
+
+%
+
+(398.300.756)
+
+(9,87)
+
+(13.642.000) (17,05)
+
+4.319.592.998 4.168.925.226 (29.332.228)
+
+(0,70)
+
+8.022.811.814 8.284.086.798 (261.274.984)
+
+(3,15)
+
+B.2.2. Belanja Barang
+Realisasi Belanja Barang Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 dan 2015 setelah dikurangi pengembalian belanja masing-masing sebesar Rp4.220.130.622,00 dan Rp5.071342.271,00. Rincian anggaran dan realisasi Belanja Barang Tahun 2016 disajikan pada Tabel 7 berikut ini:
+
+Tabel 7 Rincian Anggaran dan Realisasi Belanja Barang Tahun 2016
+
+Uraian Belanja Barang Operasional
+
+Anggaran (Rp) 1.071.215.000
+
+Realisasi Netto (Rp)
+1.032.811.327
+
+%tase 96,41
+
+Belanja Barang Non Operasional
+
+36.876.000
+
+28.708.260 77,85
+
+Belanja Barang Persediaan
+
+69.505.000
+
+65.974.230 94,92
+
+Belanja Jasa
+
+495.779.000
+
+495.762.527 100,00
+
+Belanja Pemeliharaan
+
+396.315.000
+
+376.313.472 94,95
+
+Belanja Perj. Dalam Negeri
+
+2.276.093.000
+
+2.220.560.806 97,56
+
+Total
+
+4.345.783.000
+
+4.220.130.622 97,24
+
+Realisasi belanja barang (netto) sebesar Rp4.220.130.622,00
+
+berasal dari belanja barang (bruto) sebesar Rp4.220.130.622,00
+
+tanpa adanya pengembalian belanja.
+
+Catatan atas Laporan Keuangan - 22 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Dibandingkan dengan realisasi TA 2015, terdapat penurunan realisasi Belanja Barang sebesar Rp851.211.649,00 atau 16,78 persen, antara lain disebabkan adanya penghematan Belanja
+
+Barang sesuai Instruksi Presiden Nomor 4 Tahun 2016.
+Perbandingan realisasi Belanja Barang Tahun 2016 dan 2015
+disajikan pada Tabel 8 berikut ini:
+Tabel 8 Perbandingan Realisasi Belanja Barang Tahun 2016 dan 2015
+
+Uraian
+Belanja Barang Operasional Belanja Barang Non Operasional
+
+Realisasi Netto
+
+TA 2016
+
+TA 2015
+
+1.032.811.327
+
+737.488.148
+
+28.708.260
+
+18.227.500
+
+Naik / (Turun)
+
+Jumlah Rp
+
+%
+
+295.323.179 40,04
+
+10.480.760 57,50
+
+Belanja Barang Persediaan
+
+65.974.230
+
+361.953.511 (295.979.281) (81,77)
+
+Belanja Jasa Belanja Pemeliharaan
+
+495.762.527 376.313.472
+
+481.585.265 508.016.393
+
+14.177.262 2,94 (131.702.921) (25,92)
+
+Belanja Perj. Dalam Negeri Total
+
+2.220.560.806 4.220.130.622
+
+2.964.071.454 5.071.342.271
+
+(743.510.648) (25,08) (851.211.649) (16,78)
+
+Belanja Modal Rp0
+
+B.2.3. Belanja Modal Realisasi Belanja Modal Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 dan 2015 setelah dikurangi pengembalian belanja masing-masing sebesar Rp0,00 dan Rp2.505.514.973,00.
+Dibandingkan dengan realisasi TA 2015, terdapat penurunan realisasi Belanja Modal sebesar Rp2.505.514.973,00 atau 100,00 persen, antara lain disebabkan belanja modal yang sejak awal tidak dialokasikan untuk Tahun 2016.
+Perbandingan Realisasi Belanja Modal Tahun 2016 dan 2015 disajikan pada Tabel 9 berikut ini:
+
+Catatan atas Laporan Keuangan - 23 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Tabel 9 Perbandingan Realisasi Belanja Modal Tahun 2016 dan 2015
+
+Uraian
+Belanja Modal Peralatan dan Mesin Belanja Modal Gedung dan Bangunan Belanja Modal Jalan, Irigasi dan Jaringan
+Total
+
+Realisasi Netto (Rp)
+
+TA 2016
+
+TA 2015
+
+Naik / (Turun)
+
+Jumlah (Rp)
+
+%
+
+0
+
+1.514.764.973 (1.514.764.973) (100,00)
+
+0
+
+551.300.000 (551.300.000) (100,00)
+
+0
+
+439.450.000 (439.450.000) (100,00)
+
+0
+
+2.505.514.973 (2.505.514.973) (100,00)
+
+Catatan atas Laporan Keuangan - 24 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Aset Lancar Rp208.110.074
+
+C. PENJELASAN ATAS POS-POS NERACA
+
+C.1. Aset Lancar Nilai Aset Lancar per 31 Desember 2016 dan 2015 adalah masing-masing
+
+sebesar Rp208.110.074,00 dan Rp365.762.348,00. Aset Lancar merupakan
+
+aset yang diharapkan segera untuk dapat direalisasikan atau dimiliki
+
+untuk dipakai atau dijual dalam waktu 12 (dua belas) bulan sejak tanggal
+
+pelaporan.
+
+Rincian Aset Lancar per 31 Desember 2016 dan 2015 disajikan pada Tabel
+
+10 berikut ini:
+
+Tabel 10 Rincian Aset Lancar per 31 Desember 2016 dan 2015
+
+No.
+
+Aset Lancar
+
+1 Kas di Bendahara Pengeluaran
+
+2 Belanja Dibayar Dimuka (prepaid)
+
+3 Persediaan
+
+Jumlah
+
+31 Des 2016 (Rp) 0
+48.382.500 159.727.574 208.110.074
+
+31 Des 2015 (Rp) 55.614.380 45.315.000 264.832.968 365.762.348
+
+Kas di Bendahara Pengeluaran Rp0
+
+C.1.1. Kas di Bendahara Pengeluaran Saldo Kas di Bendahara Pengeluaran per 31 Desember 2016 dan 2015 masing-masing sebesar Rp0,00 dan Rp55.614.380,00. Rincian Kas di Bendahara Pengeluaran pada Perwakilan BPKP Provinsi Sulawesi Barat per 31 Desember 2016 dan 2015 disajikan pada Tabel 11 berikut ini:
+
+Tabel 11
+Rincian Kas di Bendahara Pengeluaran per 31 Desember 2016 dan 2015
+
+No.
+
+Aset Lancar
+
+31 Des 2016 (Rp) 31 Des 2015 (Rp)
+
+1 Kas Tunai
+
+0,00
+
+55.614.380
+
+Jumlah
+
+0,00
+
+55.614.380
+
+Saldo Kas per 31 Desember 2015 telah disetorkan ke Kas Negara pada tanggal 5 Januari 2016 dengan NTPN Nomor 0709021412010407.
+
+Catatan atas Laporan Keuangan - 25 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Belanja Dibayar Dimuka (prepaid) Rp48.382.500
+Persediaan Rp159.727.574
+
+C.1.2. Belanja Dibayar Dimuka (prepaid)
+
+Belanja Dibayar Dimuka per 31 Desember 2016 dan 2015 masing-
+
+masing sebesar Rp48.382.500,00 dan Rp45.315.000,00. Saldo per
+
+31 Desember 2016 merupakan sewa rumah dan mobil untuk
+
+keperluan dinas yang pembayarannya dilakukan pada tahun 2016.
+
+Rincian
+
+Belanja
+
+Dibayar
+
+Dimuka
+
+(prepaid)
+
+per 31 Desember 2016 disajikan pada Tabel 12 berikut ini:
+
+Tabel 12 Rincian Belanja Dibayar Dimuka (prepaid) per 31 Desember 2016
+
+No Obyek Sewa
+
+Jangka Waktu (Periode)
+
+Nilai Sewa (Rp)
+
+Beban Dimuka per 31 Desember 2016
+(Rp)
+
+1
+
+Rumah Dinas
+
+1 tahun (16/03/2016 s.d 15/03/2017)
+
+25.000.000
+
+6.250.000
+
+2
+
+Rumah Dinas
+
+1 tahun (20/03/2016 s.d 19/03/2017)
+
+25.000.000
+
+6.250.000
+
+3
+
+Rumah Dinas
+
+1 tahun (16/03/2016 s.d 15/03/2017)
+
+25.000.000
+
+6.250.000
+
+4
+
+Rumah Dinas
+
+1 tahun (08/08/2016 s.d 07/08/2017)
+
+18.890.000
+
+11.019.170
+
+5
+
+Rumah Dinas
+
+1 tahun (25/08/2016 s.d 24/08/2017
+
+16.670.000
+
+11.113.330
+
+6
+
+Kendaraan Operasional
+
+1 tahun (01/02/2016 s.d 31/01/2017
+
+90.000.000
+
+Jumlah
+
+200.560.000
+
+7.500.000 48.382.500
+
+C.1.3. Persediaan Persediaan per 31 Desember 2016 dan 2015 masing-masing sebesar Rp159.727.574,00 dan Rp264.832.968,00. Persediaan merupakan jenis aset dalam bentuk barang atau perlengkapan (supplies) pada tanggal neraca yang diperoleh dengan maksud untuk mendukung kegiatan operasional. Rincian Persediaan per 31 Desember 2016 dan 2015 disajikan pada Tabel 13 berikut ini:
+
+Catatan atas Laporan Keuangan - 26 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Aset Tetap Rp41.258.198.701
+Tanah Rp2.042.703.750
+
+Tabel 13 Rincian Persediaan per 31 Desember 2016 dan 2015
+
+Kode
+
+Jenis Persediaan
+
+31 Des 2016 (Rp) 31 Des 2015 (Rp)
+
+117111 Barang Konsumsi
+
+159.702.916
+
+264.832.968
+
+117113 Bahan untuk Pemeliharaan
+
+24.658
+
+0
+
+Jumlah
+
+159.727.574
+
+264.832.968
+
+Semua jenis persediaan pada tanggal pelaporan berada dalam kondisi
+
+baik.
+
+C.2. Aset Tetap Nilai buku Aset Tetap per 31 Desember 2016 dan 2015 masing-masing
+
+sebesar Rp41.258.198.701,00 dan Rp43.175.332.404,00, yang merupakan
+
+aset berwujud yang mempunyai masa manfaat lebih dari 12 (dua belas)
+
+bulan, dan digunakan dalam kegiatan operasional Perwakilan BPKP
+
+Provinsi Sulawesi Barat.
+
+Rincian Aset Tetap per 31 Desember 2016 dan 2015 disajikan pada Tabel
+
+14 berikut ini:
+
+Tabel 14
+Rincian Aset Tetap per 31 Desember 2016 dan 2015
+
+No.
+
+Uraian
+
+1
+
+Tanah
+
+2
+
+Peralatan dan Mesin
+
+3
+
+Gedung dan Bangunan
+
+4
+
+Jalan, Irigasi dan Jaringan
+
+Nilai Perolehan
+
+Akumulasi Penyusutan
+
+Nilai Buku
+
+31 Des 2016 (Rp) 2.042.703.750 6.232.014.285
+34.520.500.913 4.292.795.369
+47.088.014.317 (5.829.815.616) 41.258.198.701
+
+31 Des 2015 (Rp) 2.042.703.750 6.232.014.285
+34.520.500.913 4.292.795.369
+47.088.014.317 (3.912.681.913) 43.175.332.404
+
+C.2.1. Tanah Nilai perolehan Tanah per 31 Desember 2016 dan 2015 masingmasing sebesar Rp2.042.703.750,00. Sampai dengan 31 Desember 2016 tidak terdapat mutasi Tanah.
+Rincian saldo Tanah per 31 Desember 2016 dapat dilihat pada Lampiran.
+
+Catatan atas Laporan Keuangan - 27 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Peralatan dan Mesin Rp6.232.014.285
+Gedung dan Bangunan Rp34.520.500.913
+Jalan, Irigasi dan Jaringan Rp4.292.795.369
+Akumulasi Penyusutan Aset Tetap Rp5.829.815.616
+
+C.2.2. Peralatan dan Mesin Nilai perolehan Peralatan dan Mesin per 31 Desember 2016 dan 2015 masing-masing sebesar Rp6.232.014.285,00. Akumulasi Penyusutan Peralatan dan Mesin s.d. 31 Desember 2016 adalah sebesar Rp3.056.299.327,00, sehingga nilai buku Peralatan dan Mesin per 31 Desember 2016 adalah sebesar Rp3.175.714.958,00 Sampai dengan 31 Desember 2016 tidak ada mutasi nilai perolehan Peralatan dan Mesin. Saldo Peralatan dan Mesin per 31 Desember 2016 tersebut di atas tidak termasuk Peralatan dan Mesin yang dicatat secara Ekstrakomptabel sebesar Rp220.000,00.
+C.2.3. Gedung dan Bangunan Nilai perolehan Gedung dan Bangunan per 31 Desember 2016 dan 2015, masing-masing sebesar Rp34.520.500.913,00. Akumulasi Penyusutan Gedung dan Bangunan s.d. 31 Desember 2016 adalah sebesar Rp1.790.586.702,00, sehingga nilai buku Gedung dan Bangunan per 31 Desember 2016 adalah sebesar Rp32.729.914.211,00. Sampai dengan 31 Desember 2016 tidak ada mutasi nilai perolehan Gedung dan Bangunan.
+C.2.4. Jalan, Irigasi dan Jaringan
+Nilai perolehan Jalan, Irigasi dan Jaringan per 31 Desember 2016 dan 2015 masing-masing sebesar Rp4.292.795.369,00. Akumulasi Penyusutan Jalan, Irigasi dan Jaringan s.d. 31 Desember 2016 adalah sebesar Rp982.929.587,00, sehingga nilai buku Jalan, Irigasi dan Jaringan per 31 Desember 2016 adalah sebesar Rp3.309.865.782,00. Sampai dengan 31 Desember 2016 tidak ada mutasi nilai perolehan Jalan, Irigasi dan Jaringan.
+C.2.5. Akumulasi Penyusutan Aset Tetap
+Saldo Akumulasi Penyusutan Aset Tetap per 31 Desember 2016 dan 2015 masing-masing sebesar Rp5.829.815.616,00 dan Rp3.912.681.913,00.
+
+Catatan atas Laporan Keuangan - 28 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Akumulasi Penyusutan Aset Tetap merupakan kontra akun Aset Tetap yang disajikan berdasarkan pengakumulasian atas penyesuaian nilai sehubungan dengan penurunan kapasitas dan manfaat Aset Tetap selain untuk Tanah dan Konstruksi dalam Pengerjaan (KDP).
+
+Rincian Akumulasi Penyusutan Aset Tetap per 31 Desember 2016
+
+disajikan pada Tabel 15, berikut ini:
+
+Tabel 15 Rincian Akumulasi Penyusutan Aset Tetap per 31 Desember 2016
+
+No
+
+Uraian
+
+1 Tanah
+
+2
+
+Peralatan dan Mesin
+
+3
+
+Gedung dan Bangunan
+
+4
+
+Jalan, Irigasi dan Jaringan
+
+Jumlah
+
+Nilai Perolehan (Rp)
+2.042.703.750
+
+Akumulasi Penyusutan (Rp)
+-
+
+6.232.014.285
+
+3.056.299.327
+
+34.520.500.913
+
+1.790.586.702
+
+4.292.795.369 47.088.014.317
+
+982.929.587 5.829.815.616
+
+Nilai Buku (Rp) 2.042.703.750 3.175.714.958
+32.729.914.211
+3.309.865.782 41.258.198.701
+
+Perbandingan mutasi akumulasi penyusutan dengan beban penyusutan per 31 Desember 2016 adalah sebagai berikut:
+
+No
+
+Uraian
+
+1 Peralatan dan Mesin
+2 Gedung dan Bangunan
+3 Jalan, Irigasi dan Jaringan Total
+
+Saldo per 31/12/2015
+(Rp) 1.879.091.055
+1.443.833.106
+589.757.752
+3.912.681.913
+
+Saldo per 31/12/2016
+(Rp) 3.056.299.327
+1.790.586.702
+982.929.587
+5.829.815.616
+
+Mutasi (Rp) 1.177.208.272
+
+Beban Penyusutan
+(Rp) 1.184.697.223
+
+Selisih (Rp)
+(7.488.951)
+
+346.753.596 690.424.610 (343.671.014)
+
+393.171.835 393.171.836
+
+(1)
+
+1.917.133.703 2.268.293.669 (351.159.966)
+
+Selisih tersebut merupakan normalisasi akumulasi penyusutan sehubungan dengan update aplikasi SIMAK BMN.
+
+Catatan atas Laporan Keuangan - 29 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Kewajiban Jangka Pendek Rp26.504.802
+
+C.3. Kewajiban Jangka Pendek
+
+Nilai Kewajiban Jangka Pendek per 31 Desember 2016 dan 2015 masingmasing sebesar Rp26.504.802,00 dan Rp131.474.117,00. Kewajiban Jangka Pendek merupakan kelompok kewajiban yang diharapkan segera diselesaikan dalam waktu kurang dari 12 (dua belas) bulan setelah tanggal pelaporan.
+
+Rincian Kewajiban Jangka Pendek per 31 Desember 2016 adalah sebagai berikut:
+
+No.
+
+Uraian
+
+1 Utang Kepada Pihak Ketiga
+
+2 Uang Muka dari KPPN
+
+Jumlah
+
+Jumlah (Rp) 26.504.802,00 0,00 26.504.802,00
+
+Utang Kepada Pihak Ketiga Rp26.504.802
+Uang Muka dari KPPN Rp0
+
+C.3.1. Utang Kepada Pihak Ketiga Nilai Utang Kepada Pihak Ketiga per 31 Desember 2016 dan 2015 masing-masing sebesar Rp26.504.802,00 dan Rp75.859.737,00. Jumlah Utang Kepada Pihak Ketiga per 31 Desember 2016 sebesar Rp26.504.802,00 tersebut terdiri dari Belanja Barang dan Jasa berupa tagihan rekening listrik Rp25.399.493,00 dan telepon Rp1.105.309,00 bulan Desember 2016.
+C.3.2. Uang Muka dari KPPN Saldo Uang Muka dari KPPN per 31 Desember 2016 dan 2015 masing-masing sebesar Rp0,00 dan Rp55.614.380,00.
+
+Ekuitas Rp41.439.803.988
+
+C.4. Ekuitas Ekuitas per 31 Desember 2016 dan 2015 masing-masing sebesar Rp41.439.803.988,00 dan Rp43.409.620.635,00. Ekuitas adalah kekayaan bersih entitas yang merupakan selisih antara Aset dan Kewajiban. Rincian lebih lanjut tentang ekuitas disajikan dalam Laporan Perubahan Ekuitas.
+
+Catatan atas Laporan Keuangan - 30 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Surplus/(Defisit) dari Kegiatan Operasional Rp14.509.129.560
+
+D. PENJELASAN ATAS POS-POS LAPORAN OPERASIONAL D.1. Surplus/(Defisit) dari Kegiatan Operasional Surplus/(Defisit) dari Kegiatan Operasional Tahun 2016 dan 2015 masing-masing sebesar minus Rp14.509.129.560,00 dan minus Rp15.647.130.628,00. Jumlah Surplus/(Defisit) dari Kegiatan Operasional Tahun 2016 tersebut merupakan selisih antara Pendapatan Operasional sebesar Rp52.904.476,00 dikurangi dengan Beban Operasional sebesar Rp14.562.034.036,00
+
+Pendapatan Operasional Rp52.904.476
+
+D.1.1. Pendapatan Operasional Pendapatan Operasional Tahun 2016 dan 2015 masing-masing sebesar Rp52.904.476,00 dan Rp4.265.649,00. Jumlah tersebut seluruhnya merupakan Penerimaan Negara Bukan Pajak.
+
+Pendapatan Negara Bukan Pajak-LO Rp52.904.476
+
+D.1.1.1. Penerimaan Negara Bukan Pajak
+Jumlah Penerimaan Negara Bukan Pajak-LO Tahun 2016 dan 2015 masing-masing sebesar Rp52.904.476,00 dan Rp4.265.649,00. Rincian Penerimaan Negara Bukan Pajak-LO Tahun 2016 dan 2015 disajikan pada Tabel 16 berikut ini:
+
+Tabel 16 Rincian Penerimaan Negara Bukan Pajak-LO
+Tahun 2016 dan 2015
+
+Uraian
+Pendapatan dari Pemanfaatan BMN Pendapatan Denda
+Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+421.500
+
+623.583
+
+52.482.976 52.904.476
+
+3.642.066 4.265.649
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+(202.083)
+48.840.910 48.638.827
+
+(32,41)
+1.341,02 1.140,24
+
+Tidak terdapat selisih Pendapatan Operasional menurut Laporan Realisasi Anggaran dibandingkan dengan Laporan Operasional.
+
+Catatan atas Laporan Keuangan - 31 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Beban Operasional Rp14.562.034.051
+Beban Pegawai Rp7.967.197.434
+
+D.1.2. Beban Operasional Jumlah Beban Operasional pada Tahun 2016 dan 2015 masingmasing sebesar Rp14.562.034.051,00 dan Rp15.682.404.077,00. Jumlah tersebut merupakan realisasi beban yang terjadi dalam rangka pelaksanaan kegiatan operasional selama Tahun 2016. Rincian Beban Operasional disajikan pada Tabel 17 berikut ini:
+
+Tabel 17 Rincian Beban Operasional Tahun 2016 dan 2015
+
+Uraian
+Beban Pegawai Beban Persediaan Beban Barang dan Jasa Beban Pemeliharaan Beban Perjalanan Dinas Beban Penyusutan dan Amortisasi
+Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+7.967.197.434 8.339.701.178
+
+169.194.611
+
+178.899.575
+
+1.560.474.059 1.221.481.891
+
+376.313.472
+
+490.759.593
+
+2.220.560.806 2.964.071.454
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+(372.503.744) (4,47)
+
+(9.704.964) (5,42)
+
+338.992.168 27,75
+
+(114.446.121) (23,32)
+
+(743.510.648) (25,08)
+
+2.268.293.669 2.456.482.586 14.562.034.051 15.651.396.277
+
+(188.188.917) (7,66) (1.089.362.226) (69,60)
+
+D.1.2.1 Beban Pegawai Jumlah Beban Pegawai pada Tahun 2016 dan 2015 masing-masing sebesar Rp7.967.197.434,00 dan Rp8.339.701.178,00. Beban Pegawai adalah beban atas kompensasi, baik dalam bentuk uang maupun barang yang ditetapkan berdasarkan peraturan perundangundangan yang diberikan kepada Aparatur Sipil Negara (ASN) sebagai imbalan atas pekerjaan yang telah dilaksanakan.
+Rincian Beban Pegawai Tahun 2016 dan 2015 disajikan pada Tabel 18 berikut ini:
+
+Catatan atas Laporan Keuangan - 32 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Beban Persediaan Rp169.194.611
+
+Tabel 18 Rincian Beban Pegawai Tahun 2016 dan 2015
+
+Uraian
+Belanja Gaji dan Tunjangan PNS Belanja Lembur Belanja Tunjangan Khusus dan Belanja Pegawai Transito
+Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+3.636.860.816
+
+4.035.161.572 (398.300.756) (9,87)
+
+66.358.000
+
+80.000.000 (13.642.000) (17,05)
+
+4.263.978.618
+
+4.224.539.606
+
+39.439.012
+
+0,93
+
+7.967.197.434
+
+8.339.701.178 (372.503.744) (4,47)
+
+Jika realisasi tahun 2016 dibandingkan dengan realisasi menurut LRA pada periode yang sama, terdapat selisih sebesar Rp55.614.380,00 sebagaimana disajikan pada Tabel 19 berikut ini:
+
+Tabel 19 Perbandingan Realisasi Beban/Belanja Pegawai Tahun 2016
+Menurut LO dan LRA
+
+Uraian
+Belanja Gaji dan Tunjangan PNS Belanja Lembur Belanja Tunjangan Khusus dan Belanja Pegawai Transito
+Jumlah
+
+Realisasi Menurut
+
+LO (Rp)
+
+LRA (Rp)
+
+3.636.860.816 3.636.860.816
+
+66.358.000
+
+66.358.000
+
+Selisih (Rp)
+0 0
+
+4.263.978.618 4.319.592.998 55.614.380
+
+7.967.197.434 8.022.811.814 55.614.380
+
+Selisih realisasi sebesar Rp55.614.380,00 merupakan pembayaran tunjangan kinerja tahun 2016 atas beban tahun 2015.
+
+D.1.2.2. Beban Persediaan Jumlah Beban Persediaan pada Tahun 2016 dan 2015 masing-masing Rp169.194.611,00 dan Rp178.899.575,00. Beban Persediaan merupakan beban untuk mencatat pemakaian/konsumsi atas barang-barang yang habis pakai.
+
+Rincian Beban Persediaan Tahun 2016 dan 2015 disajikan pada Tabel 20 berikut ini:
+
+Catatan atas Laporan Keuangan - 33 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Beban Barang dan Jasa Rp1.560.474.059
+
+Tabel 20 Rincian Beban Persediaan Tahun 2016 dan 2015
+
+Uraian
+Beban Persediaan Konsumsi Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+169.194.611 178.899.575
+
+169.194.611 178.899.575
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+(9.704.964) (5,42)
+
+(9.704.964) (5,42)
+
+Realisasi Belanja Persediaan (netto) Tahun 2016 menurut Laporan Realisasi Anggaran sebesar Rp65.974.230,00, sedangkan menurut Laporan Operasional sebesar Rp169.194.611,00. Perbedaan tersebut disebabkan Belanja Persediaan dicatat sebagai perolehan Persediaan di Neraca, sedangkan Beban Persediaan merupakan pemakaian Persediaan selama tahun 2016.
+
+D.1.2.3. Beban Barang dan Jasa Jumlah Beban Barang dan Jasa pada Tahun 2016 dan 2015 masing-masing Rp1.560.474.059,00 dan Rp1.221.481.891,00. Beban Barang dan Jasa adalah konsumsi atas jasa-jasa dalam rangka penyelenggaraan kegiatan entitas.
+
+Rincian Beban Barang dan Jasa disajikan pada Tabel 21 berikut ini:
+Tabel 21 Rincian Beban Barang dan Jasa Tahun 2016 dan 2015
+
+Uraian
+Beban Barang Operasional Beban Barang Non Operasional
+Beban Jasa
+Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+1.032.811.327
+
+732.417.648
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+300.393.679
+
+41,01
+
+28.708.260 498.954.472 1.560.474.059
+
+9.870.000 18.838.260
+
+479.194.243 1.221.481.891
+
+19.760.229 338.992.168
+
+190,86 4,12 27,75
+
+Jika realisasi tahun 2016 dibandingkan dengan realisasi
+
+menurut LRA pada periode yang sama, terdapat selisih
+
+sebesar Rp3.191.930,00 sebagaimana disajikan pada
+
+Tabel 22 berikut ini:
+
+Catatan atas Laporan Keuangan - 34 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Beban
+Pemeliharaaan Rp376.313.472
+
+Tabel 22 Perbandingan Realisasi Beban/Belanja Barang dan Jasa Tahun 2016
+Menurut LO dan LRA
+
+Uraian
+Beban Barang Operasional Beban Barang Non Operasional
+
+Realisasi Menurut
+
+LO (Rp)
+
+LRA (Rp)
+
+1.032.811.327
+
+1.032.811.327
+
+28.708.260
+
+28.708.260
+
+Selisih (Rp)
+-
+
+Beban Jasa
+
+498.954.472
+
+495.762.527 3.191.945
+
+Jumlah
+
+1.560.474.059
+
+1.557.282.114 3.191.945
+
+Selisih realisasi Beban Jasa sebesar Rp3.191.945,00
+
+dengan penjelasan sebagai berikut:
+
+Uraian
+Pembayaran langganan daya dan jasa tahun 2016 atas beban yang terutang tahun 2015
+Beban langganan daya dan jasa tahun 2016 yang belum dibayarkan
+Pembayaran biaya sewa tahun 2015 untuk masa pemakaian melewati tahun 2015
+Pembayaran biaya sewa tahun 2016 untuk masa pemakaian melewati tahun 2016
+Jumlah
+
+Realisasi (20.245.357)
+26.504.802 45.315.000 (48.382.500) 3.191.945
+
+D.1.2.4. Beban Pemeliharaan Jumlah Beban Pemeliharaan pada Tahun 2016 dan 2015 masing-masing Rp376.313.472,00 dan Rp490.759.593,00. Beban Pemeliharaan merupakan beban yang dimaksudkan untuk mempertahankan aset tetap dan aset lainnya yang sudah ada ke dalam kondisi normal.
+
+Rincian Beban Pemeliharaan Tahun 2016 dan 2015 disajikan pada Tabel 23 berikut ini:
+
+Catatan atas Laporan Keuangan - 35 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Beban Perjalanan Dinas Rp2.220.560.806
+
+Tabel 23 Rincian Beban Pemeliharaan Tahun 2016 dan 2015
+
+Uraian
+Beban Pemeliharaan Gedung dan Bangunan
+Beban Pemeliharaan Peralatan dan Mesin
+
+Realisasi Tahun 2016 Tahun 2015 306.514.800 389.358.650
+69.798.672 101.400.943
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+(82.843.850) (21,28)
+
+(31.602.271) (31,17)
+
+Jumlah
+
+376.313.472 490.759.593
+
+114.446.121
+
+23,32
+
+Tidak terdapat selisih Belanja Pemeliharaan menurut
+
+Laporan Realisasi Anggaran dibandingkan dengan
+
+Laporan Operasional.
+
+D.1.2.5. Beban Perjalanan Dinas Jumlah Beban Perjalanan Dinas pada Tahun 2016 dan 2015 masing-masing Rp2.220.560.806,00 dan Rp2.964.071.454,00. Beban tersebut merupakan beban yang terjadi untuk perjalanan dinas dalam rangka pelaksanaan tugas, fungsi dan jabatan.
+Rincian Beban Perjalanan Dinas disajikan pada Tabel 24 berikut ini:
+
+Tabel 24 Rincian Beban Perjalanan Dinas Tahun 2016 dan 2015
+
+Uraian
+Beban Perjalanan Biasa Beban Perjalanan Dinas Dalam Kota Beban Perjalanan Dinas Paket Meeting Dalam Kota
+Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+2.152.830.806 2.905.221.454
+
+37.730.000
+
+58.850.000
+
+30.000.000 2.220.560.806
+
+0 2.964.071.454
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+(752.390.648) (25,90)
+
+(21.120.000) (35,89)
+
+30.000.000
+
+0,00
+
+(743.510.648) (25,08)
+
+Tidak terdapat selisih Belanja Perjalanan Dinas menurut Laporan Realisasi Anggaran dibandingkan dengan Laporan Operasional.
+
+Beban Penyusutan dan Amortisasi Rp2.268.293.669
+
+D.1.2.6. Beban Penyusutan dan Amortisasi Jumlah Beban Penyusutan dan Amortisasi pada Tahun 2016 dan 2015 masing-masing Rp2.268.293.669,00 dan
+
+Catatan atas Laporan Keuangan - 36 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Surplus/(Defisit) dari Kegiatan Non Operasional Rp1.554.987
+Surplus/(Defisit) dari Kegiatan Non Operasional Lainnya Rp1.554.987
+Pendapatan dari Kegiatan Non Operasional Lainnya Rp3.573.650
+
+Rp2.456.482.586,00. Beban Penyusutan merupakan beban untuk mencatat alokasi sistematis atas nilai suatu aset tetap yang dapat disusutkan (depreciable assets) selama masa manfaat aset yang bersangkutan.
+
+Rincian Beban Penyusutan dan Amortisasi Tahun 2016 dan 2015 disajikan pada Tabel 25 berikut ini:
+
+Tabel 25 Rincian Beban Penyusutan dan Amortisasi
+Tahun 2016 dan 2015
+
+Uraian
+Beban Penyusutan Peralatan dan Mesin Beban Penyusutan Gedung dan Bangunan Beban Penyusutan Jalan, Irigasi dan Jaringan
+Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+1.184.697.223 1.024.424.355
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+160.272.868
+
+15,65
+
+690.424.610 1.038.886.396 (348.461.786) (33,54)
+
+393.171.836 393.171.839
+
+(3)
+
+2.268.293.669 2.456.482.586 (188.188.917)
+
+(0,00) (7,66)
+
+D.2. Surplus/(Defisit) dari Kegiatan Non Operasional Surplus/(Defisit) dari Kegiatan Non Operasional pada Tahun 2016 dan 2015 masing-masing sebesar Rp1.554.987,00 dan Rp85.563,00. Jumlah tersebut merupakan Surplus dari Kegiatan Non Operasional Lainnya sebesar Rp1.554.987,00.
+D.2.1. Surplus/(Defisit) dari Kegiatan Non Operasional Lainnya Surplus/(Defisit) dari Kegiatan Non Operasional Lainnya pada Tahun 2016 dan 2015 masing-masing sebesar Rp1.554.987,00 dan Rp85.563,00. Jumlah tersebut merupakan selisih antara Pendapatan dari Kegiatan Non Operasional Lainnya sebesar Rp3.573.650,00 dikurangi Beban dari Kegiatan Non Operasional Lainnya sebesar Rp2.018.663,00.
+
+D.2.1.1. Pendapatan dari Kegiatan Non Operasional Lainnya
+Pendapatan dari Kegiatan Non Operasional Lainnya pada Tahun 2016 dan 2015 masing-masing sebesar Rp3.573.650,00 dan Rp85.563,00.
+
+Catatan atas Laporan Keuangan - 37 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Rincian Pendapatan dari Kegiatan Non Operasional Lainnya disajikan pada Tabel 26 berikut ini:
+
+Tabel 26 Rincian Pendapatan dari Kegiatan Non Operasional Lainnya
+Tahun 2016 dan 2015
+
+Uraian
+Penerimaan Kembali Belanja Pegawai Tahun Anggaran Yang Lalu Pendapatan Penyesuaian Nilai Persediaan
+Jumlah
+
+Realisasi
+
+Tahun 2016
+
+Tahun 2015
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+3.440.000
+
+85.563
+
+3.354.437 3.920,43
+
+133.650 3.573.650
+
+0 85.563
+
+133.650
+
+0,00
+
+3.488.087 4.076,63
+
+Jika realisasi tahun 2016 dibandingkan dengan realisasi menurut LRA pada periode yang sama, terdapat selisih sebesar Rp133.650,00 sebagaimana disajikan pada Tabel 27 berikut ini:
+
+Tabel 27
+
+Perbandingan Realisasi Pendapatan Kegiatan Non Operasional Lainnya
+
+Tahun 2016 Menurut LO dan LRA
+
+Uraian
+
+Realisasi Menurut
+
+LO (Rp)
+
+LRA (Rp)
+
+Selisih (Rp)
+
+Penerimaan Kembali Belanja
+
+Pegawai Tahun Anggaran Yang
+
+3.440.000
+
+3.440.000
+
+-
+
+Lalu
+
+Pendapatan Penyesuaian Nilai Persediaan
+
+133.650
+
+-
+
+133.650
+
+Jumlah
+
+3.573.650
+
+3.440.000
+
+133.650
+
+Pendapatan Penyesuaian Nilai Persediaan merupakan selisih lebih nilai persediaan pada setiap akhir bulan dibandingkan dengan nilai menurut pembukuan, sehubungan dengan kebijakan akuntansi yang menggunakan harga terakhir untuk mencatat nilai persediaan.
+
+Catatan atas Laporan Keuangan - 38 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Beban dari Kegiatan Non Operasional Lainnya Rp2.018.663
+
+D.2.1.2. Beban dari Kegiatan Non Operasional Lainnya.
+Beban dari Kegiatan Non Operasional Lainnya Tahun 2016 dan 2015 masing-masing sebesar Rp2.018.663,00 dan Rp0,00
+
+Rincian Beban dari Kegiatan Non Operasional Lainnya disajikan pada Tabel 28 berikut ini:
+
+Tabel 28 Rincian Beban dari Kegiatan Non Operasional Lainnya
+Tahun 2016 dan 2015
+
+Uraian
+Beban Penyesuaian Nilai Persediaan
+Jumlah
+
+Realisasi Tahun 2016 Tahun 2015
+
+2.018.663
+
+-
+
+2.018.663
+
+-
+
+Naik / (Turun)
+
+Jumlah
+
+%
+
+2.018.663
+
+0,00
+
+2.018.663
+
+0,00
+
+Beban Penyesuaian Nilai Persediaan merupakan selisih nilai kurang nilai persediaan pada setiap akhir bulan dibandingkan dengan nilai menurut pembukuan, sehubungan dengan kebijakan akuntansi yang menggunakan
+
+Catatan atas Laporan Keuangan - 39 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+E. PENJELASAN ATAS POS-POS LAPORAN PERUBAHAN EKUITAS
+
+Ekuitas Awal Rp43.409.620.635
+
+E.1. Ekuitas Awal Nilai Ekuitas pada tanggal 01 Januari 2016 dan 2015 adalah masingmasing sebesar Rp43.409.620.635,00 dan Rp43.546.483.391,00.
+
+Surplus/(Defisit) LO (Rp14.507.574.588)
+
+E.2. Surplus/(Defisit) LO Jumlah Defisit LO untuk periode yang berakhir pada 31 Desember 2016 dan 2015 adalah sebesar minus Rp14.507.574.588,00 dan minus Rp15.355.544.778,00. Jumlah tersebut merupakan selisih kurang pendapatan dibandingkan dengan beban sebagaimana telah dijelaskan pada Penjelasan atas Pos-Pos Laporan Operasional.
+
+Koreksi Yang Menambah/(Mengur angi) Nilai Ekuitas Rp351.159.966
+
+E.3. Koreksi Yang Menambah/(Mengurangi) Nilai Ekuitas
+
+Jumlah Koreksi Yang Menambah /(Mengurangi) Nilai Ekuitas per 31
+
+Desember 2016 dan 2015 adalah sebesar Rp351.159.966,00 dan
+
+Rp(315.402.721,00). Jumlah per 31 Desember 2016 tersebut terdiri atas:
+
+Jumlah
+
+Jumlah
+
+Uraian
+
+31 Des 2016 31 Des 2015
+
+(Rp)
+
+(Rp)
+
+Penyesuaian Nilai Aset
+
+-
+
+3.880.285
+
+Koreksi Nilai Aset Tetap Non Revaluasi 351.159.966 (319.283.006)
+
+Total
+
+351.159.966 (315.402.721)
+
+Penyesuaian Nilai Aset Rp0
+
+E.3.1. Penyesuaian Nilai Aset
+Penyesuaian Nilai Aset per 31 Desember 2016 dan 2015 adalah sebesar Rp0,00 dan Rp3.880.285,00. Penyesuaian Nilai Aset merupakan hsil penyesuaian nilai perolehan persediaan akibat penerapan kebijakan akuntansi, yaitu persediaan dinilai dengan menggunakan harga pembelian/perolehan terakhir. Pada tahun 2015, penyesuaian nilai persediaan diakui sebagai koreksi nilai ekuitas, sedangkan pada tahun 2016 diakui sebagai bagian dari surplus/(defisit) LO.
+
+Catatan atas Laporan Keuangan - 40 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Koreksi Nilai Aset Tetap Non Revaluasi Rp351.159.966
+Transaksi Antar Entitas Rp12.186.597.960
+Ditagihkan ke Entitas Lain Rp12.242.942.436
+Diterima dari Entitas Lain Rp56.344.476
+
+E.3.2. Koreksi Nilai Aset Tetap Non Revaluasi
+
+Koreksi Nilai Aset Tetap Non Revaluasi per 31 Desember 2016 merupakan koreksi atas kesalahan pencatatan nilai buku aset sehubungan normalisasi perhitungan akumulasi penyusutan dengan rincian sebagai berikut:
+
+Uraian Peralatan dan Mesin Gedung dan Bangunan Jalan, Irigasi, dan Jaringan
+Total
+
+Jumlah (Rp) (7.488.951)
+(343.671.014) (1)
+(351.159.966)
+
+E.4. Transaksi Antar Entitas Jumlah Transaksi Antar Entitas per 31 Desember 2016 dan 2015 masing-masing sebesar Rp12.186.597.960,00 dan Rp15.534.084.743,00. Jumlah Transaksi Antar Entitas per 31 Desember 2016 terdiri atas:
+
+Uraian
+
+31 Des 2016
+
+31 Des 2015
+
+Ditagihkan ke Entitas Lain Diterima dari Entitas Lain
+Jumlah
+
+12.242.942.436 (56.344.476)
+12.186.597.960
+
+15.860.944.042 (326.859.299_ 15.534.084.743
+
+E.4.1. Ditagihkan ke Entitas Lain Jumlah Ditagihkan ke Entitas Lain per 31 Desember 2016 dan 2015 masing-masing sebesar Rp12.242.942.436,00 dan Rp15.860.944.042,00. Jumlah tersebut merupakan realisasi belanja yang telah diterima pembayarannya dari Kas Negara pada tanggal neraca setelah dikurangi pengembalian belanja s.d. 31 Desember 2016.
+
+E.4.2. Diterima dari Entitas Lain Jumlah Diterima dari Entitas Lain per 31 Desember 2016 dan 2015 masing-masing sebesar Rp56.344.476,00 dan Rp326.859.299,00. Jumlah tersebut merupakan realisasi penerimaan Negara yang telah disetorkan ke Kas Negara setelah dikurangi pengembalian penerimaan Negara s.d. 31 Desember 2016.
+
+Catatan atas Laporan Keuangan - 41 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Ekuitas Akhir Rp41.439.803.973
+
+E.5. Ekuitas Akhir Jumlah Ekuitas per tanggal 31 Desember 2016 dan 2015 adalah masingmasing sebesar Rp41.439.803.973,00 dan Rp43.409.620.635,00. Jumlah Ekuitas per 31 Desember 2016 merupakan kekayaan bersih pada tanggal neraca yaitu selisih antara nilai Aset sebesar Rp41.466.308.775,00 dikurangi nilai Kewajiban sebesar Rp26.504.802,00
+
+Catatan atas Laporan Keuangan - 42 -
+
+Laporan Keuangan Perwakilan BPKP Provinsi Sulawesi Barat Tahun 2016 (Audited)
+
+Informasi Penting
+
+Lainnya
+
+Informasi
+
+Dana
+
+Penugasan Beban Mitra
+
+Kerja
+
+F. INFORMASI PENTING LAINNYA Informasi Dana Penugasan Beban Mitra Kerja Selama tahun 2016 kegiatan pengawasan di lingkungan Perwakilan BPKP
+
+Provinsi Sulawesi Barat selain didanai dari DIPA Perwakilan BPKP
+
+Provinsi Sulawesi Barat, juga didanai dari mitra kerja. Kegiatan tersebut
+
+berupa pendampingan, bimbingan teknis dan sosialisasi berdasarkan
+
+permintaan dari kementerian/lembaga, dan BUMN/BUMD/ BLU yang
+
+menjadi mitra kerja di lingkungan Perwakilan BPKP Provinsi Sulawesi
+
+Barat. Sampai dengan tanggal 31 Desember 2016 jumlah penugasan yang
+
+dibiayai dari dana mitra kerja sebanyak 45 PP dan telah menghasilkan
+
+45 LHP, dan realisasi dana penugasan beban mitra kerja sebesar
+
+Rp798.227.582.455,00 dengan rincian sebagai berikut:
+
+Kedeputian
+
+PKP2T
+
+PP LHP
+
+Dana
+
+Non PKP2T
+
+PP LHP
+
+Dana
+
+Perekonomian
+
+1
+
+1
+
+9.095.502
+
+6
+
+6
+
+53.111.309
+
+Polhukam dan PMK
+
+5
+
+5
+
+58.182.000 15 15
+
+165.102.347
+
+Keuangan Daerah
+
+-
+
+-
+
+-
+
+18
+
+18
+
+513.030.000
+
+Jumlah
+
+6
+
+6
+
+67.277.502 39 39
+
+731.243.656
+
+Jumlah dana tersebut seluruhnya dikelola dan dipertanggungjawabkan oleh pihak mitra kerja sesuai dengan mekanisme yang berlaku pada masing-masing mitra kerja. Pegawai BPKP yang diberi tugas oleh pimpinan unit masing-masing diterbitkan Surat Perintah Dinas (SPD) Nihil dengan beban anggaran mitra kerja, dan pada akhir kegiatan/penugasan pegawai dimaksud menerima dan menandatangani kuitansi penggantian biaya perjalanan dinas/transport lokal, dan selanjutnya dipertanggungjawabkan sesuai dengan mekanisme yang berlaku pada masing-masing mitra kerja.
+
+Catatan atas Laporan Keuangan - 43 -
+
+LAPORAN KEUANGAN POKOK
+ NERACA SALDO AWAL  NERACA PERCOBAAN BASIS KAS  NERACA PERCOBAAN BASIS AKRUAL  LAPORAN REALISASI ANGGARAN  NERACA  LAPORAN OPERASIONAL  LAPORAN PERUBAHAN EKUITAS
+
+KEMENTERIAN NEGARA/ LEMBAGA ESELON I
+WILAYAH/PROPINSI SATUAN KERJA
+
+NERACA PERCOBAAN TINGKAT SATUAN KERJA SALDO AWAL TAHUN 2016
+( DALAM RUPIAH )
+
+Kode Laporan:
+
+Tanggal
+
+:
+
+Halaman :
+
+05-04-17 1
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN
+PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+KODE KODE TRANS PERKIRAAN
+
+NAMA PERKIRAAN
+
+1
+
+2
+
+3
+
+0
+
+111613 Kas di Bendahara Pengeluaran TUP
+
+0
+
+114112 Belanja Barang yang Dibayar Dimuka (prepaid)
+
+0
+
+117111 Barang Konsumsi
+
+0
+
+131111 Tanah
+
+0
+
+132111 Peralatan dan Mesin
+
+0
+
+133111 Gedung dan Bangunan
+
+0
+
+134111 Jalan dan Jembatan
+
+0
+
+134113 Jaringan
+
+0
+
+137111 Akumulasi Penyusutan Peralatan dan Mesin
+
+0
+
+137211 Akumulasi Penyusutan Gedung dan Bangunan
+
+0
+
+137311 Akumulasi Penyusutan Jalan dan Jembatan
+
+0
+
+137313 Akumulasi Penyusutan Jaringan
+
+0
+
+212111 Belanja Pegawai yang Masih Harus Dibayar
+
+0
+
+212112 Belanja Barang yang Masih Harus Dibayar
+
+0
+
+219511 Uang Muka dari KPPN
+
+0
+
+391111 Ekuitas
+
+J U M L A H
+
+DEBET 4 55,614,380 45,315,000 264,832,968
+2,042,703,750 6,232,014,285 34,520,500,913 1,137,295,928 3,155,499,441
+47,453,776,665
+
+KREDIT 5
+1,879,091,055 1,443,833,106
+170,594,388 419,163,364
+55,614,380 20,245,357 55,614,380 43,409,620,635 47,453,776,665
+
+KEMENTERIAN NEGARA/ LEMBAGA ESELON I
+WILAYAH/PROPINSI SATUAN KERJA
+
+NERACA PERCOBAAN TINGKAT SATUAN KERJA PER 31 DESEMBER 2016
+( DALAM RUPIAH )
+
+Kode Laporan:
+
+Tanggal
+
+:
+
+Halaman :
+
+NPSAIKT 05-04-17
+1
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN
+PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+KODE KODE TRANS PERKIRAAN
+
+NAMA PERKIRAAN
+
+1
+
+2
+
+3
+
+0
+
+115612 Piutang dari KPPN
+
+0
+
+219711 Utang Kepada KUN
+
+2
+
+511111 Allotment Belanja Gaji Pokok PNS
+
+2
+
+511119 Allotment Belanja Pembulatan Gaji PNS
+
+2
+
+511121 Allotment Belanja Tunj. Suami/Istri PNS
+
+2
+
+511122 Allotment Belanja Tunj. Anak PNS
+
+2
+
+511123 Allotment Belanja Tunj. Struktural PNS
+
+2
+
+511124 Allotment Belanja Tunj. Fungsional PNS
+
+2
+
+511125 Allotment Belanja Tunj. PPh PNS
+
+2
+
+511126 Allotment Belanja Tunj. Beras PNS
+
+2
+
+511129 Allotment Belanja Uang Makan PNS
+
+2
+
+511151 Allotment Belanja Tunjangan Umum PNS
+
+2
+
+512211 Allotment Belanja Uang Lembur
+
+2
+
+512411 Allotment Belanja Pegawai (Tunjangan Khusus/ Kegiatan)
+
+2
+
+521111 Allotment Belanja Keperluan Perkantoran
+
+2
+
+521114 Allotment Belanja Pengiriman Surat Dinas Pos Pusat
+
+2
+
+521115 Allotment Belanja Honor Operasional Satuan Kerja
+
+2
+
+521119 Allotment Belanja Barang Operasional Lainnya
+
+2
+
+521211 Allotment Belanja Bahan
+
+2
+
+521213 Allotment Belanja Honor Output Kegiatan
+
+2
+
+521811 Allotment Belanja Barang Persediaan Barang Konsumsi
+
+2
+
+522111 Allotment Belanja Langganan Listrik
+
+2
+
+522112 Allotment Belanja Langganan Telepon
+
+2
+
+522141 Allotment Belanja Sewa
+
+2
+
+522151 Allotment Belanja Jasa Profesi
+
+2
+
+523111 Allotment Belanja Pemeliharaan Gedung dan Bangunan
+
+2
+
+523121 Allotment Belanja Pemeliharaan Peralatan dan Mesin
+
+2
+
+524111 Allotment Belanja Perjalanan Biasa
+
+2
+
+524113 Allotment Belanja Perjalanan Dinas Dalam Kota
+
+2
+
+524114 Allotment Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+
+3
+
+423141 Pendapatan Sewa Tanah, Gedung, dan Bangunan
+
+3
+
+423752 Pendapatan Denda Keterlambatan Penyelesaian Pekerjaan Pemerintah
+
+3
+
+423951 Penerimaan Kembali Belanja Pegawai Tahun Anggaran Yang Lalu
+
+3
+
+511111 Belanja Gaji Pokok PNS
+
+3
+
+511119 Belanja Pembulatan Gaji PNS
+
+DEBET 4 463,265,564 56,344,476
+2,544,299,860 41,121
+
+KREDIT 5
+2,604,844,000 46,000
+163,626,000 49,951,000 74,560,000
+362,860,000 49,698,000
+125,676,000 334,460,000
+15,950,000 80,000,000 4,498,754,000 846,399,000 30,892,000 158,100,000 35,824,000 24,356,000 12,520,000 69,505,000 266,755,000 17,214,000 200,560,000 11,250,000 316,516,000 79,799,000 2,203,618,000 42,475,000 30,000,000
+421,500 52,482,976
+3,440,000
+
+KEMENTERIAN NEGARA/ LEMBAGA ESELON I
+WILAYAH/PROPINSI SATUAN KERJA
+
+NERACA PERCOBAAN TINGKAT SATUAN KERJA PER 31 DESEMBER 2016
+( DALAM RUPIAH )
+
+Kode Laporan:
+
+Tanggal
+
+:
+
+Halaman :
+
+NPSAIKT 05-04-17
+2
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN
+PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+KODE KODE TRANS PERKIRAAN
+
+NAMA PERKIRAAN
+
+1
+
+2
+
+3
+
+3
+
+511119 Pengembalian Belanja Pembulatan Gaji PNS
+
+3
+
+511121 Belanja Tunj. Suami/Istri PNS
+
+3
+
+511122 Belanja Tunj. Anak PNS
+
+3
+
+511123 Belanja Tunj. Struktural PNS
+
+3
+
+511124 Belanja Tunj. Fungsional PNS
+
+3
+
+511124 Pengembalian Belanja Tunj. Fungsional PNS
+
+3
+
+511125 Belanja Tunj. PPh PNS
+
+3
+
+511126 Belanja Tunj. Beras PNS
+
+3
+
+511129 Belanja Uang Makan PNS
+
+3
+
+511151 Belanja Tunjangan Umum PNS
+
+3
+
+511151 Pengembalian Belanja Tunjangan Umum PNS
+
+3
+
+512211 Belanja Uang Lembur
+
+3
+
+512211 Pengembalian Belanja Uang Lembur
+
+3
+
+512411 Belanja Pegawai (Tunjangan Khusus/ Kegiatan)
+
+3
+
+512411 Pengembalian Belanja Pegawai (Tunjangan Khusus/ Kegiatan)
+
+3
+
+521111 Belanja Keperluan Perkantoran
+
+3
+
+521114 Belanja Pengiriman Surat Dinas Pos Pusat
+
+3
+
+521115 Belanja Honor Operasional Satuan Kerja
+
+3
+
+521119 Belanja Barang Operasional Lainnya
+
+3
+
+521211 Belanja Bahan
+
+3
+
+521213 Belanja Honor Output Kegiatan
+
+3
+
+521811 Belanja Barang Persediaan Barang Konsumsi
+
+3
+
+522111 Belanja Langganan Listrik
+
+3
+
+522112 Belanja Langganan Telepon
+
+3
+
+522141 Belanja Sewa
+
+3
+
+522151 Belanja Jasa Profesi
+
+3
+
+523111 Belanja Pemeliharaan Gedung dan Bangunan
+
+3
+
+523121 Belanja Pemeliharaan Peralatan dan Mesin
+
+3
+
+524111 Belanja Perjalanan Biasa
+
+3
+
+524113 Belanja Perjalanan Dinas Dalam Kota
+
+3
+
+524114 Belanja Perjalanan Dinas Paket Meeting Dalam Kota
+
+J U M L A H
+
+DEBET 4
+155,804,390 44,020,590 72,670,000
+361,850,000
+44,564,656 114,061,500 290,570,000
+10,540,000
+79,994,000
+4,322,698,872
+817,996,618 30,891,609
+158,100,000 25,823,100 17,788,260 10,920,000 65,974,230
+266,754,895 17,197,632
+200,560,000 11,250,000
+306,514,800 69,798,672
+2,152,830,806 37,730,000 30,000,000
+12,780,855,651
+
+KREDIT 5 1,301 450,000 1,110,000 13,636,000 3,105,874
+12,780,855,651
+
+KEMENTERIAN NEGARA/ LEMBAGA ESELON I
+WILAYAH/PROPINSI SATUAN KERJA
+
+NERACA PERCOBAAN TINGKAT SATUAN KERJA PER 31 DESEMBER 2016
+( DALAM RUPIAH )
+
+Kode Laporan:
+
+Tanggal
+
+:
+
+Halaman :
+
+NPSAIKT 05-04-17
+1
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN
+PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+KODE KODE TRANS PERKIRAAN
+
+NAMA PERKIRAAN
+
+1
+
+2
+
+3
+
+0
+
+114112 Belanja Barang yang Dibayar Dimuka (prepaid)
+
+0
+
+117111 Barang Konsumsi
+
+0
+
+117113 Bahan untuk Pemeliharaan
+
+0
+
+131111 Tanah
+
+0
+
+132111 Peralatan dan Mesin
+
+0
+
+133111 Gedung dan Bangunan
+
+0
+
+134111 Jalan dan Jembatan
+
+0
+
+134113 Jaringan
+
+0
+
+137111 Akumulasi Penyusutan Peralatan dan Mesin
+
+0
+
+137211 Akumulasi Penyusutan Gedung dan Bangunan
+
+0
+
+137311 Akumulasi Penyusutan Jalan dan Jembatan
+
+0
+
+137313 Akumulasi Penyusutan Jaringan
+
+0
+
+212112 Belanja Barang yang Masih Harus Dibayar
+
+0
+
+313111 Ditagihkan ke Entitas Lain
+
+0
+
+313121 Diterima dari Entitas Lain
+
+0
+
+391111 Ekuitas
+
+0
+
+391116 Koreksi Nilai Aset Tetap Non Revaluasi
+
+3
+
+423141 Pendapatan Sewa Tanah, Gedung, dan Bangunan
+
+3
+
+423752 Pendapatan Denda Keterlambatan Penyelesaian Pekerjaan Pemerintah
+
+3
+
+423951 Penerimaan Kembali Belanja Pegawai Tahun Anggaran Yang Lalu
+
+3
+
+491511 Pendapatan Penyesuaian Nilai Persediaan
+
+3
+
+511111 Beban Gaji Pokok PNS
+
+3
+
+511119 Beban Pembulatan Gaji PNS
+
+3
+
+511119 Pengembalian Beban Pembulatan Gaji PNS
+
+3
+
+511121 Beban Tunj. Suami/Istri PNS
+
+3
+
+511122 Beban Tunj. Anak PNS
+
+3
+
+511123 Beban Tunj. Struktural PNS
+
+3
+
+511124 Beban Tunj. Fungsional PNS
+
+3
+
+511124 Pengembalian Beban Tunj. Fungsional PNS
+
+3
+
+511125 Beban Tunj. PPh PNS
+
+3
+
+511126 Beban Tunj. Beras PNS
+
+3
+
+511129 Beban Uang Makan PNS
+
+3
+
+511151 Beban Tunjangan Umum PNS
+
+3
+
+511151 Pengembalian Beban Tunjangan Umum PNS
+
+3
+
+512211 Beban Uang Lembur
+
+DEBET 4 48,382,500 159,702,916 24,658
+2,042,703,750 6,232,014,285 34,520,500,913 1,137,295,928 3,155,499,441
+56,344,476
+2,544,299,860 41,121
+155,804,390 44,020,590 72,670,000
+361,850,000 44,564,656
+114,061,500 290,570,000
+10,540,000 79,994,000
+
+KREDIT 5
+3,056,299,327 1,790,586,702
+284,323,981 698,605,606
+26,504,802 12,242,942,436 43,409,620,635
+351,159,966 421,500
+52,482,976 3,440,000 133,650
+1,301
+450,000
+1,110,000
+
+KEMENTERIAN NEGARA/ LEMBAGA ESELON I
+WILAYAH/PROPINSI SATUAN KERJA
+
+NERACA PERCOBAAN TINGKAT SATUAN KERJA PER 31 DESEMBER 2016
+( DALAM RUPIAH )
+
+Kode Laporan:
+
+Tanggal
+
+:
+
+Halaman :
+
+NPSAIKT 05-04-17
+2
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN
+PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+KODE KODE TRANS PERKIRAAN
+
+NAMA PERKIRAAN
+
+1
+
+2
+
+3
+
+3
+
+512211 Pengembalian Beban Uang Lembur
+
+3
+
+512411 Beban Pegawai (Tunjangan Khusus/ Kegiatan)
+
+3
+
+512411 Pengembalian Beban Pegawai (Tunjangan Khusus/ Kegiatan)
+
+3
+
+521111 Beban Keperluan Perkantoran
+
+3
+
+521114 Beban Pengiriman Surat Dinas Pos Pusat
+
+3
+
+521115 Beban Honor Operasional Satuan Kerja
+
+3
+
+521119 Beban Barang Operasional Lainnya
+
+3
+
+521211 Beban Bahan
+
+3
+
+521213 Beban Honor Output Kegiatan
+
+3
+
+522111 Beban Langganan Listrik
+
+3
+
+522112 Beban Langganan Telepon
+
+3
+
+522141 Beban Sewa
+
+3
+
+522151 Beban Jasa Profesi
+
+3
+
+523111 Beban Pemeliharaan Gedung dan Bangunan
+
+3
+
+523121 Beban Pemeliharaan Peralatan dan Mesin
+
+3
+
+524111 Beban Perjalanan Biasa
+
+3
+
+524113 Beban Perjalanan Dinas Dalam Kota
+
+3
+
+524114 Beban Perjalanan Dinas Paket Meeting Dalam Kota
+
+3
+
+591111 Beban Penyusutan Peralatan dan Mesin
+
+3
+
+591211 Beban Penyusutan Gedung dan Bangunan
+
+3
+
+591311 Beban Penyusutan Jalan dan Jembatan
+
+3
+
+591313 Beban Penyusutan Jaringan
+
+3
+
+593111 Beban Persediaan konsumsi
+
+3
+
+593311 Beban Penyesuaian Nilai Persediaan
+
+J U M L A H
+
+DEBET 4
+4,267,084,492
+817,996,618 30,891,609
+158,100,000 25,823,100 17,788,260 10,920,000
+272,242,704 17,969,268
+197,492,500 11,250,000
+306,514,800 69,798,672
+2,152,830,806 37,730,000 30,000,000
+1,184,697,223 690,424,610 113,729,593 279,442,243 169,194,611 2,018,663
+61,934,824,756
+
+KREDIT 5 13,636,000 3,105,874
+61,934,824,756
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I
+
+: 01
+
+WILAYAH/PROPINSI
+
+: 3400
+
+SATUAN KERJA JENIS KEWENANGAN
+
+: 689266 : KD
+
+No
+
+URAIAN
+
+1
+
+2
+
+LAPORAN REALISASI ANGGARAN SATUAN KERJA UNTUK TAHUN YANG BERAKHIR 31 DESEMBER 2016 DAN 2015
+(DALAM RUPIAH)
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+KANTOR DAERAH
+
+2016
+
+ANGGARAN
+
+REALISASI
+
+REALISASI DI ATAS (BAWAH)
+ANGGARAN
+
+% REAL. ANGG.
+
+ANGGARAN
+
+3
+
+4
+
+5
+
+6
+
+7
+
+A
+A.I.1 A.I.1.a A.I.1.b A.I.2
+
+PENDAPATAN NEGARA DAN HIBAH
+PENERIMAAN NEGARA Penerimaan Perpajakan Penerimaan Negara Bukan Pajak
+HIBAH
+JUMLAH PENDAPATAN DAN HIBAH (A.I + A. II)
+
+0
+
+56,344,476
+
+56,344,476
+
+0.00
+
+0
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+56,344,476
+
+56,344,476
+
+0.00
+
+0
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+56,344,476
+
+56,344,476
+
+0.00
+
+0
+
+B
+B.I.1 B.I.1.a B.I.1.b B.I.1.c B.I.1.d B.I.1.e B.I.1.f B.I.1.g B.I.1.h B.I.2 B.I.2.a B.I.2.b B.I.2.c B.I.2.d B.I.2.e B.I.2.f B.I.2.g B.I.2.h
+
+BELANJA NEGARA
+Rupiah Murni Belanja Pegawai Belanja Barang Belanja Modal Pembayaran Bunga Utang Subsidi Hibah Bantuan Sosial Belanja Lain-lain
+Pinjaman dan Hibah Belanja Pegawai Belanja Barang Belanja Modal Pembayaran Bunga Utang Subsidi Hibah Bantuan Sosial Belanja Lain-lain
+JUMLAH BELANJA (B.I + B. II)
+
+12,706,208,000 8,360,425,000 4,345,783,000 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12,706,208,000
+
+12,242,942,436 ( 8,022,811,814 ( 4,220,130,622 ( 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+12,242,942,436 (
+
+463,265,564) 337,613,186) 125,652,378)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 463,265,564)
+
+96.35 95.96 97.11
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 96.35
+
+16,678,100,000 9,020,584,000 5,116,273,000 2,541,243,000 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+16,678,100,000
+
+C
+C.I C.I.1 C.I.2 C.II
+
+PEMBIAYAAN
+PEMBIAYAAN DALAM NEGERI (NETO) Perbankan Dalam Negeri Non Perbankan Dalam Negeri (Neto)
+PEMBIAYAAN LUAR NEGERI (NETO)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+Kode Lap. Tanggal
+Halaman Prog.Id
+
+: LRAST
+
+: Wednesday, April
+
+:
+
+1
+
+: lu_pastkt
+
+2015
+
+REALISASI
+
+REALISASI DI ATAS (BAWAH)
+ANGGARAN
+
+8
+
+9
+
+% REAL. ANGG.
+10
+
+326,859,299 0
+326,859,299 0
+326,859,299
+
+326,859,299 0
+326,859,299 0
+326,859,299
+
+0.00 0.00 0.00 0.00 0.00
+
+15,860,944,042 ( 8,284,086,798 ( 5,071,342,271 ( 2,505,514,973 ( 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+15,860,944,042 (
+
+817,155,958) 736,497,202)
+44,930,729) 35,728,027)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 817,155,958)
+
+95.10 91.84 99.12 98.59
+0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 0.00 95.10
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+LAPORAN REALISASI ANGGARAN SATUAN KERJA UNTUK TAHUN YANG BERAKHIR 31 DESEMBER 2016 DAN 2015
+(DALAM RUPIAH)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I
+
+: 01
+
+WILAYAH/PROPINSI
+
+: 3400
+
+SATUAN KERJA
+
+: 689266
+
+JENIS KEWENANGAN
+
+: KD
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+KANTOR DAERAH
+
+No
+
+URAIAN
+
+ANGGARAN
+
+2016
+
+REALISASI
+
+REALISASI DI ATAS (BAWAH)
+ANGGARAN
+
+% REAL. ANGG.
+
+ANGGARAN
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+C.II.1 C.II.1
+
+Penarikan Pinjaman Luar Negeri Pembayaran Cicilan Pokok Utang Luar Negeri
+JUMLAH PEMBIAYAAN (C.1 +C.2)
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+Kode Lap. Tanggal
+Halaman Prog.Id
+
+: LRAST
+
+: Wednesday, April
+
+:
+
+2
+
+: lu_pastkt
+
+2015
+
+REALISASI
+
+REALISASI DI ATAS (BAWAH)
+ANGGARAN
+
+% REAL. ANGG.
+
+8
+
+9
+
+10
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0.00
+
+Mamuju, 23 Maret 2017 Kepala Perwakilan
+
+Wasis Prabowo NIP. 19651031 198703 1 001
+
+NERACA TINGKAT SATUAN KERJA
+PER 31 DESEMBER 2016 DAN 2015 (DALAM RUPIAH)
+
+Kode Laporan:
+
+Tanggal
+
+:
+
+Halaman :
+
+NSAIE1T 05/04/17
+1
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+JENIS KEWENANGAN
+
+: KD
+
+NAMA PERKIRAAN 1
+
+KANTOR DAERAH
+
+2016 2
+
+JUMLAH
+
+2015 3
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+ASET ASET LANCAR
+Kas di Bendahara Pengeluaran Belanja Dibayar Dimuka (prepaid) Persediaan
+JUMLAH ASET LANCAR ASET TETAP
+Tanah Peralatan dan Mesin Gedung dan Bangunan Jalan, Irigasi dan Jaringan Akumulasi Penyusutan
+JUMLAH ASET TETAP JUMLAH ASET KEWAJIBAN
+KEWAJIBAN JANGKA PENDEK Utang kepada Pihak Ketiga Uang Muka dari KPPN
+JUMLAH KEWAJIBAN JANGKA PENDEK JUMLAH KEWAJIBAN EKUITAS
+EKUITAS Ekuitas
+JUMLAH EKUITAS JUMLAH KEWAJIBAN DAN EKUITAS
+
+0 48,382,500 159,727,574 208,110,074
+
+55,614,380
+
+(
+
+55,614,380) ( 100.00)
+
+45,315,000
+
+3,067,500
+
+6.76
+
+264,832,968 (
+
+105,105,394) ( 39.68)
+
+365,762,348
+
+(
+
+157,652,274) ( 43.10)
+
+2,042,703,750
+
+2,042,703,750
+
+6,232,014,285
+
+6,232,014,285
+
+34,520,500,913
+
+34,520,500,913
+
+4,292,795,369
+
+4,292,795,369
+
+( 5,829,815,616) ( 3,912,681,913)
+
+41,258,198,701 41,466,308,775
+
+43,175,332,404 43,541,094,752
+
+0
+
+0.00
+
+0
+
+0.00
+
+0
+
+0.00
+
+0
+
+0.00
+
+( 1,917,133,703)
+
+48.99
+
+( 1,917,133,703) ( 4.44) ( 2,074,785,977) ( 4.76)
+
+26,504,802 0
+26,504,802 26,504,802
+
+75,859,737
+
+(
+
+49,354,935) ( 65.06)
+
+55,614,380
+
+(
+
+55,614,380) ( 100.00)
+
+131,474,117
+
+(
+
+104,969,315) ( 79.84)
+
+131,474,117
+
+(
+
+104,969,315) ( 79.84)
+
+41,439,803,973 41,439,803,973 41,466,308,775
+
+43,409,620,635 43,409,620,635 43,541,094,752
+
+( 1,969,816,662) ( 4.53) ( 1,969,816,662) ( 4.53) ( 2,074,785,977) ( 4.76)
+
+Mamuju, 23 Maret 2017 Kepala Perwakilan
+
+Wasis Prabowo NIP. 19651031 198703 1 001
+
+LAPORAN OPERASIONAL TINGKAT SATUAN KERJA UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 Desember 2016 DAN 2015
+(DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_losatker
+1
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+JENIS KEWENANGAN
+
+: KD
+
+KANTOR DAERAH
+
+URAIAN
+1 KEGIATAN OPERASIONAL
+PENDAPATAN OPERASIONAL PENDAPATAN PERPAJAKAN Pendapatan Pajak Penghasilan Pendapatan Pajak Pertambahan Nilai dan Penjualan Barang Mewah Pendapatan Pajak Bumi dan Bangunan Pendapatan Bea Perolehan Hak atas Tanah dan Bangunan Pendapatan Cukai Pendapatan Pajak Lainnya Pendapatan Bea Masuk Pendapatan Bea Keluar Jumlah Pendapatan Perpajakan PENDAPATAN NEGARA BUKAN PAJAK Pendapatan Sumber Daya Alam Pendapatan Bagian Pemerintah atas Laba Pendapatan Negara Bukan Pajak Lainnya Jumlah Pendapatan Negara Bukan Pajak PENDAPATAN HIBAH Pendapatan Hibah Jumlah Pendapatan Hibah JUMLAH PENDAPATAN OPERASIONAL
+BEBAN OPERASIONAL Beban Pegawai Beban Persediaan Beban Barang dan Jasa 521113 Beban Penambah Daya Tahan Tubuh 521219 Beban Barang Non Operasional Lainnya 522113 Beban Langganan Air Jumlah Beban Barang dan Jasa Beban Pemeliharaan 593113 Beban Persediaan bahan untuk pemeliharaan Jumlah Beban Pemeliharaan Beban Perjalanan Dinas Beban Barang Untuk Diserahkan Kepaada Masyarakat Beban Bunga Beban Subsidi Beban Hibah
+
+2016 2
+
+JUMLAH 2015 3
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+0
+
+0
+
+0
+
+0.00
+
+52,904,476
+0 0
+
+4,265,649
+0 0
+
+48,638,827 1,140.24
+
+0
+
+0.00
+
+0
+
+0.00
+
+0
+
+5,070,500 (
+
+5,070,500) ( 100.00)
+
+0
+
+8,357,500 (
+
+8,357,500) ( 100.00)
+
+0
+
+323,000
+
+(
+
+323,000) ( 100.00)
+
+0
+
+13,751,000
+
+(
+
+323,000) ( 300.00)
+
+0
+
+17,256,800 (
+
+17,256,800) ( 100.00)
+
+0
+
+17,256,800 (
+
+17,256,800) ( 100.00)
+
+LAPORAN OPERASIONAL TINGKAT SATUAN KERJA UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 Desember 2016 DAN 2015
+(DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_losatker
+2
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+JENIS KEWENANGAN
+
+: KD
+
+KANTOR DAERAH
+
+URAIAN
+1
+Beban Bantuan Sosial Beban Penyusutan dan Amortisasi Beban Penyisihan Piutang Tak Tertagih Beban Transfer Beban Lain-Lain
+JUMLAH BEBAN OPERASIONAL SURPLUS/(DEFISIT) DARI KEGIATAN OPERASIONAL KEGIATAN NON OPERASIONAL SURPLUS/(DEFISIT) PELEPASAN ASET NON LANCAR Pendapatan Pelepasan Aset Non Lancar Beban Pelepasan Aset Non Lancar Jumlah Surplus/(defisit) Pelepasan Aset Non Lancar SURPLUS/(DEFISIT) PENYELESAIAN KEWAJIBAN JANGKA PANJANG Pendapatan Penyelesaian Kewajiban Jangka Panjang Beban Penyelesaian Kewajiban Jangka Panjang Jumlah Surplus/(defisit) Penyelesaian Kewajiban Jangka Panjang SURPLUS/(DEFISIT) DARI KEGIATAN NON OPERASIONAL LAINNYA Pendapatan dari Kegiatan Non Operasional Lainnya 423953 Penerimaan Kembali Belanja Modal Tahun Anggaran Yang Lalu Jumlah Pendapatan dari Kegiatan Non Operasional Lainnya Beban dari Kegiatan Non Operasional Lainnya Jumlah Surplus/(defisit) Dari Kegiatan Non Operasional Lainnya
+SURPLUS/(DEFISIT) DARI KEGIATAN NON OPERASIONAL POS LUAR BIASA Beban Luar Biasa
+
+2016 2
+
+JUMLAH 2015 3
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+0
+
+0
+
+(
+
+31,007,800 ( 31,007,800)
+
+31,007,800) ( 400.00)
+
+31,007,800
+
+400.00
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0
+
+0.00
+
+0 0
+1,554,987
+
+322,508,087 ( 322,508,087 (
+
+322,508,087)
+
+100.00
+
+322,508,087) 100.00
+
+322,593,650 ( 322,508,087 (
+
+321,038,663) ( 99.51) 322,508,087) 100.00
+
+SURPLUS/(DEFISIT) DARI POS LUAR BIASA KEGIATAN OPERASIONAL PENDAPATAN OPERASIONAL PENDAPATAN PERPAJAKAN
+
+0
+
+0
+
+0.00
+
+LAPORAN OPERASIONAL TINGKAT SATUAN KERJA UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 Desember 2016 DAN 2015
+(DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_losatker
+3
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+JENIS KEWENANGAN
+
+: KD
+
+KANTOR DAERAH
+
+URAIAN
+1 Pendapatan Pajak Penghasilan Pendapatan Pajak Pertambahan Nilai dan Penjualan Barang Mewah Pendapatan Pajak Bumi dan Bangunan Pendapatan Bea Perolehan Hak atas Tanah dan Bangunan Pendapatan Cukai Pendapatan Pajak Lainnya Pendapatan Bea Masuk Pendapatan Bea Keluar
+Jumlah Pendapatan Perpajakan PENDAPATAN NEGARA BUKAN PAJAK
+Pendapatan Sumber Daya Alam Pendapatan Bagian Pemerintah atas Laba Pendapatan Negara Bukan Pajak Lainnya 423141 Pendapatan Sewa Tanah, Gedung, dan Bangunan 423752 Pendapatan Denda Keterlambatan Penyelesaian Pekerjaan Pemerintah
+Jumlah Pendapatan Negara Bukan Pajak Lainnya
+Jumlah Pendapatan Negara Bukan Pajak PENDAPATAN HIBAH
+Pendapatan Hibah
+Jumlah Pendapatan Hibah JUMLAH PENDAPATAN OPERASIONAL
+BEBAN OPERASIONAL Beban Pegawai 511111 Beban Gaji Pokok PNS 511119 Beban Pembulatan Gaji PNS 511121 Beban Tunj. Suami/Istri PNS 511122 Beban Tunj. Anak PNS 511123 Beban Tunj. Struktural PNS 511124 Beban Tunj. Fungsional PNS 511125 Beban Tunj. PPh PNS 511126 Beban Tunj. Beras PNS 511129 Beban Uang Makan PNS 511151 Beban Tunjangan Umum PNS 512211 Beban Uang Lembur 512411 Beban Pegawai (Tunjangan Khusus/ Kegiatan) Jumlah Beban Pegawai Beban Persediaan
+
+2016 2
+
+JUMLAH 2015 3
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+0
+
+0
+
+0
+
+0.00
+
+421,500
+52,482,976
+52,904,476
+52,904,476
+0 52,904,476
+2,544,299,860 39,820
+155,804,390 44,020,590 72,670,000
+361,400,000 44,564,656
+114,061,500 290,570,000
+9,430,000 66,358,000 4,263,978,618
+7,967,197,434
+
+623,583
+
+(
+
+3,642,066
+
+4,265,649
+
+4,265,649
+
+202,083)
+
+32.40
+
+48,840,910 ( 1,341.02)
+
+48,840,910 ( 1,308.61)
+
+48,638,827 1,140.24
+
+0 4,265,649
+
+0
+
+0.00
+
+48,638,827 ( 1,308.61)
+
+2,601,667,780 (
+
+59,228
+
+(
+
+164,180,714 (
+
+52,560,178 (
+
+79,700,000 (
+
+357,195,000
+
+70,960,082 (
+
+139,077,590 (
+
+542,136,000 (
+
+27,625,000 (
+
+80,000,000 (
+
+4,224,539,606
+
+57,367,920) ( 2.20)
+
+19,408) ( 32.76)
+
+8,376,324) ( 5.10)
+
+8,539,588) ( 16.24)
+
+7,030,000) ( 8.82)
+
+4,205,000
+
+1.17
+
+26,395,426) ( 37.19)
+
+25,016,090) ( 17.98)
+
+251,566,000) ( 46.40)
+
+18,195,000) ( 65.86)
+
+13,642,000) ( 17.05)
+
+39,439,012
+
+0.93
+
+8,339,701,178
+
+39,439,012 ( 247.53)
+
+LAPORAN OPERASIONAL TINGKAT SATUAN KERJA UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 Desember 2016 DAN 2015
+(DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_losatker
+4
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+JENIS KEWENANGAN
+
+: KD
+
+KANTOR DAERAH
+
+URAIAN
+
+1 593111 Beban Persediaan konsumsi
+Jumlah Beban Persediaan
+Beban Barang dan Jasa 521111 Beban Keperluan Perkantoran 521114 Beban Pengiriman Surat Dinas Pos Pusat 521115 Beban Honor Operasional Satuan Kerja 521119 Beban Barang Operasional Lainnya 521211 Beban Bahan 521213 Beban Honor Output Kegiatan 522111 Beban Langganan Listrik 522112 Beban Langganan Telepon 522141 Beban Sewa 522151 Beban Jasa Profesi
+Jumlah Beban Barang dan Jasa
+Beban Pemeliharaan 523111 Beban Pemeliharaan Gedung dan Bangunan 523121 Beban Pemeliharaan Peralatan dan Mesin
+Jumlah Beban Pemeliharaan
+Beban Perjalanan Dinas 524111 Beban Perjalanan Biasa 524113 Beban Perjalanan Dinas Dalam Kota 524114 Beban Perjalanan Dinas Paket Meeting Dalam Kota
+Jumlah Beban Perjalanan Dinas
+Beban Barang Untuk Diserahkan Kepaada Masyarakat
+Beban Bunga
+Beban Subsidi
+Beban Hibah
+
+Beban Bantuan Sosial Beban Penyusutan dan Amortisasi 591111 Beban Penyusutan Peralatan dan Mesin 591211 Beban Penyusutan Gedung dan Bangunan 591311 Beban Penyusutan Jalan dan Jembatan 591313 Beban Penyusutan Jaringan Beban Penyisihan Piutang Tak Tertagih Beban Transfer Beban Lain-Lain
+
+JUMLAH BEBAN OPERASIONAL
+
+SURPLUS/(DEFISIT) DARI KEGIATAN
+
+(
+
+OPERASIONAL
+
+JUMLAH
+
+2016 2
+169,194,611 169,194,611
+
+2015 3 178,899,575 178,899,575
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+(
+
+9,704,964) ( 5.42)
+
+(
+
+9,704,964) ( 5.42)
+
+817,996,618 30,891,609
+158,100,000 25,823,100 17,788,260 10,920,000
+272,242,704 17,969,268
+197,492,500 11,250,000
+1,560,474,059
+
+579,210,260 14,944,888
+120,187,500 18,075,000 0 9,870,000
+263,001,926 13,843,150
+192,349,167 10,000,000
+1,221,481,891
+
+238,786,358 15,946,721 37,912,500 7,748,100 17,788,260 1,050,000 9,240,778 4,126,118 5,143,333 1,250,000 1,250,000
+
+41.22 106.70
+31.54 42.86
+0.00 10.63
+3.51 29.80
+2.67 12.50 281.47
+
+306,514,800
+69,798,672 376,313,472
+
+389,358,650 (
+101,400,943 ( 490,759,593 (
+
+82,843,850) ( 21.27)
+31,602,271) ( 31.16) 31,602,271) ( 52.44)
+
+2,152,830,806 37,730,000 30,000,000
+2,220,560,806
+
+2,905,221,454 ( 58,850,000 ( 0
+2,964,071,454
+
+752,390,648) ( 21,120,000) ( 30,000,000
+
+25.89) 35.88)
+0.00
+
+30,000,000 ( 61.78)
+
+1,184,697,223 690,424,610
+113,729,593 279,442,243
+
+1,024,424,355 1,038,886,396 (
+113,729,592 279,442,243
+
+160,272,868
+
+15.64
+
+348,461,786) ( 33.54)
+
+1
+
+0.00
+
+0
+
+14,562,034,051 14,509,129,575) (
+
+15,651,396,277 ( 15,647,130,628)
+
+1,089,362,226) ( 103.61) 1,138,001,053 ( 1,205.00)
+
+LAPORAN OPERASIONAL TINGKAT SATUAN KERJA UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 Desember 2016 DAN 2015
+(DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_losatker
+5
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+JENIS KEWENANGAN
+
+: KD
+
+KANTOR DAERAH
+
+URAIAN
+1 KEGIATAN NON OPERASIONAL
+SURPLUS/(DEFISIT) PELEPASAN ASET NON LANCAR
+Pendapatan Pelepasan Aset Non Lancar Beban Pelepasan Aset Non Lancar
+Jumlah Surplus/(defisit) Pelepasan Aset Non Lancar SURPLUS/(DEFISIT) PENYELESAIAN KEWAJIBAN JANGKA PANJANG Pendapatan Penyelesaian Kewajiban Jangka Panjang Beban Penyelesaian Kewajiban Jangka Panjang
+Jumlah Surplus/(defisit) Penyelesaian Kewajiban Jangka Panjang SURPLUS/(DEFISIT) DARI KEGIATAN NON OPERASIONAL LAINNYA Pendapatan dari Kegiatan Non Operasional Lainnya 423951 Penerimaan Kembali Belanja Pegawai Tahun Anggaran Yang Lalu 491511 Pendapatan Penyesuaian Nilai Persediaan Jumlah Pendapatan dari Kegiatan Non Operasional Lainnya Beban dari Kegiatan Non Operasional Lainnya 593311 Beban Penyesuaian Nilai Persediaan Jumlah Beban dari Kegiatan Non Operasional Lainnya
+Jumlah Surplus/(defisit) Dari Kegiatan Non Operasional Lainnya
+SURPLUS/(DEFISIT) DARI KEGIATAN NON OPERASIONAL POS LUAR BIASA Beban Luar Biasa
+
+2016 2
+
+JUMLAH 2015 3
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0
+
+0.00
+
+3,440,000 133,650
+3,573,650
+2,018,663 2,018,663 1,554,987
+1,554,987
+
+85,563
+0 85,563
+
+3,354,437 ( 3,920.42)
+
+133,650
+
+0.00
+
+133,650 ( 3,920.42)
+
+0 0 322,593,650 (
+85,563
+
+2,018,663 2,018,663
+
+0.00 0.00
+
+321,038,663) ( 99.51)
+
+1,469,424 ( 3,920.42)
+
+SURPLUS/(DEFISIT) DARI POS LUAR BIASA
+SURPLUS / (DEFISIT) - LO
+
+0
+
+0
+
+( 14,507,574,588) ( 15,355,544,778)
+
+0
+
+0.00
+
+847,970,190 ( 4,625.43)
+
+LAPORAN OPERASIONAL TINGKAT SATUAN KERJA UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 Desember 2016 DAN 2015
+(DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_losatker
+6
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+JENIS KEWENANGAN
+URAIAN
+1
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+: KD
+
+KANTOR DAERAH
+2016 2
+
+JUMLAH 2015 3
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+Mamuju, 23 Maret 2017 Kepala Perwakilan
+
+Wasis Prabowo NIP. 19651031 198703 1 001
+
+LAPORAN PERUBAHAN EKUITAS TINGKAT SATUAN KERJA
+UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 2016 (DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_lpesatker
+1
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+JENIS KEWENANGAN
+
+: KD
+
+KANTOR DAERAH
+
+URAIAN
+1 EKUITAS AWAL SURPLUS/DEFISIT - LO DAMPAK KUMULATIF PERUBAHAN KEBIJAKAN AKUNTANSI / KESALAHAN MENDASAR KOREKSI YANG MENAMBAH / MENGURANGI EKUITAS
+Penyesuaian Nilai Aset 391117 Penyesuaian Nilai Persediaan 311312 Pengembalian Pendapatan BLU Tahun
+Anggaran Yang Lalu 311313 SAL Selisih Kurs Belum Terealisasi 311315 Penyesuaian SAL BLU
+Koreksi Nilai Persediaan 391113 Koreksi Nilai Persediaan
+Selisih Revaluasi Aset Tetap 391114 Revaluasi Aset Tetap
+Koreksi Nilai Aset Tetap Non Revaluasi 391116 Koreksi Nilai Aset Tetap Non Revaluasi 391118 Koreksi Nilai Aset Lainnya Non Revaluasi
+Koreksi Lain-lain 391119 Koreksi Lainnya 391121 Ekuitas Transaksi Lainnya
+TRANSAKSI ANTAR ENTITAS 313111 Ditagihkan Ke Entitas Lain 313121 Diterima Dari Entitas Lain 313211 Transfer Keluar 313221 Transfer Masuk 313231 Transaksi Pengelolaan Investasi BA BUN
+pada BLU 391131 Pengesahan Hibah Langsung 391132 Pengesahan Pengembalian Hibah
+Langsung 391141 Setoran Surplus BLU
+KENAIKAN/PENURUNAN EKUITAS EKUITAS AKHIR
+
+JUMLAH
+
+Kenaikan (Penurunan)
+
+31 DESEMBER 2016 2
+
+31 Desember 2015 3
+
+Jumlah 4
+
+43,409,620,635
+
+43,546,483,391 (
+
+136,862,756)
+
+( 14,507,574,588) ( 15,355,544,778)
+
+847,970,190
+
+0
+
+0
+
+0
+
+% 5 ( 0.31) ( 5.52)
+0.00
+
+351,159,966 (
+
+315,402,721)
+
+666,562,687 ( 211.33)
+
+0
+
+3,880,285 (
+
+3,880,285) ( 100.00)
+
+0
+
+3,880,285 (
+
+3,880,285) ( 100.00)
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+351,159,966 (
+
+351,159,966 (
+
+0
+
+0
+
+0
+
+0
+
+12,186,597,960
+
+12,242,942,436
+
+(
+
+56,344,476) (
+
+0
+
+0
+
+0
+
+0 0 0 0 0 0 319,283,006) 319,283,006) 0 0 0 0 15,534,084,743 ( 15,860,944,042 ( 326,859,299) 0 0 0
+
+0 0 0 0 0 0 670,442,972 670,442,972 0 0 0 0 3,347,486,783) 3,618,001,606) 270,514,823 0 0 0
+
+0.00 0.00 0.00 0.00 0.00 0.00 ( 209.98) ( 209.98) 0.00 0.00 0.00 0.00 ( 21.54) ( 22.81) ( 82.76) 0.00 0.00 0.00
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0.00
+
+0
+
+0.00
+
+0
+
+0
+
+(
+
+1,969,816,662) (
+
+136,862,756) (
+
+41,439,803,973
+
+43,409,620,635 (
+
+0 1,832,953,906) 1,969,816,662)
+
+0.00 1,339.26 ( 4.53)
+
+LAPORAN PERUBAHAN EKUITAS TINGKAT SATUAN KERJA
+UNTUK PERIODE YANG BERAKHIR SAMPAI DENGAN 31 DESEMBER 2016 (DALAM RUPIAH)
+
+Tanggal
+
+:
+
+Kode Laporan:
+
+Halaman :
+
+05/04/17 lu_lpesatker
+2
+
+KEMENTERIAN NEGARA/LEMBAGA UNIT ORGANISASI WILAYAH/PROPINSI SATUAN KERJA
+JENIS KEWENANGAN
+URAIAN
+1
+
+: 089 : 01 : 3400 : 689266
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+: KD
+
+KANTOR DAERAH
+
+JUMLAH
+
+31 DESEMBER 2016 2
+
+31 Desember 2015 3
+
+Kenaikan (Penurunan)
+
+Jumlah
+
+%
+
+4
+
+5
+
+Mamuju, 23 Maret 2017 Kepala Perwakilan
+
+Wasis Prabowo NIP. 19651031 198703 1 001
+
+LAPORAN REALISASI ANGGARAN BELANJA
+
+LAPORAN REALISASI ANGGARAN BELANJA BELANJA SATUAN KERJA MELALUI KPPN TAHUN 2016 (dalam rupiah)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I WILAYAH/PROPINSI SATUAN KERJA
+
+: 01 : 3400 : 689266
+
+JENIS SATUAN KERJA
+
+: KD
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE
+
+URAIAN
+
+ANGGARAN SEMULA
+
+ANGGARAN SETELAH REVISI
+
+1
+01 0 01 01
+01
+3670 994 51 5111 511111 511119 511121 511122 511123 511124 511125 511126 511129 511151
+5122
+
+2
+TRANSAKSI KAS RUPIAH MURNI RM PELAYANAN UMUM LEMBAGA EKSEKUTIF DAN LEGISLATIF, KEUANGAN DAN FISKAL, SERTA URUSAN LUAR NEGERI Program Dukungan Manajemen dan Pelaksanaan Tugas Teknis Lainnya BPKP Dukungan Manajemen dan Pelaksanaan Tugas Teknis BPKP Layanan Perkantoran BELANJA PEGAWAI Belanja Gaji dan Tunjangan PNS Belanja Gaji Pokok PNS Belanja Pembulatan Gaji PNS Belanja Tunj. Suami/Istri PNS Belanja Tunj. Anak PNS Belanja Tunj. Struktural PNS Belanja Tunj. Fungsional PNS Belanja Tunj. PPh PNS Belanja Tunj. Beras PNS Belanja Uang Makan PNS Belanja Tunjangan Umum PNS JUMLAH SUB KELOMPOK BELANJA 5111 Belanja Lembur
+
+3
+
+4
+
+2,734,844,000 46,000
+170,626,000 56,951,000 53,060,000
+325,360,000 32,198,000
+137,676,000 498,960,000
+61,950,000 4,071,671,000
+
+2,604,844,000 46,000
+163,626,000 49,951,000 74,560,000
+362,860,000 49,698,000
+125,676,000 334,460,000
+15,950,000 3,781,671,000
+
+TAHUN INI
+5
+2,544,299,860 41,121
+155,804,390 44,020,590 72,670,000
+361,850,000 44,564,656
+114,061,500 290,570,000
+10,540,000 3,638,422,117
+
+REALISASI BELANJA
+
+JUMLAH S/D TAHUN INI
+6
+
+PENGEMBALIAN S/D TAHUN INI
+7
+
+2,544,299,860 41,121
+155,804,390 44,020,590 72,670,000
+361,850,000 44,564,656
+114,061,500 290,570,000
+10,540,000 3,638,422,117
+
+0
+
+(
+
+1,301)
+
+0
+
+0
+
+0
+
+(
+
+450,000)
+
+0
+
+0
+
+0
+
+(
+
+1,110,000)
+
+(
+
+1,561,301)
+
+Kode Lap. Tanggal Halaman Prog.Id
+
+: LRBST 02
+
+: Wednesday, April 05,
+
+:
+
+1
+
+: lu_lrabstkt
+
+JUMLAH NETO S/D TAHUN INI
+8
+
+% REALISASI ANGGARAN
+9
+
+SISA ANGGARAN
+10
+
+2,544,299,860 39,820
+155,804,390 44,020,590 72,670,000
+361,400,000 44,564,656
+114,061,500 290,570,000
+9,430,000 3,636,860,816
+
+97.68 86.57 95.22 88.13 97.47 99.60 89.67 90.76 86.88 59.12 96.21
+
+60,544,140 6,180
+7,821,610 5,930,410 1,890,000 1,460,000 5,133,344 11,614,500 43,890,000 6,520,000 144,810,184
+
+LAPORAN REALISASI ANGGARAN BELANJA BELANJA SATUAN KERJA MELALUI KPPN TAHUN 2016 (dalam rupiah)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I WILAYAH/PROPINSI SATUAN KERJA
+
+: 01 : 3400 : 689266
+
+JENIS SATUAN KERJA
+
+: KD
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE
+
+URAIAN
+
+1
+512211
+5124 512411
+52 5211 521111 521114 521115 521119
+5212 521213
+5221 522111 522112 522141
+5231 523111 523112
+
+2
+Belanja Uang Lembur JUMLAH SUB KELOMPOK BELANJA 5122 Belanja Tunj. Khusus & Belanja Pegawai Transito Belanja Pegawai (Tunjangan Khusus/ Kegiatan) JUMLAH SUB KELOMPOK BELANJA 5124 JUMLAH KELOMPOK BELANJA 51 BELANJA BARANG Belanja Barang Operasional Belanja Keperluan Perkantoran Belanja Pengiriman Surat Dinas Pos Pusat Belanja Honor Operasional Satuan Kerja Belanja Barang Operasional Lainnya JUMLAH SUB KELOMPOK BELANJA 5211 Belanja Barang Non Operasional Belanja Honor Output Kegiatan JUMLAH SUB KELOMPOK BELANJA 5212 Belanja Jasa Belanja Langganan Listrik Belanja Langganan Telepon Belanja Sewa JUMLAH SUB KELOMPOK BELANJA 5221 Belanja Pemeliharaan Belanja Pemeliharaan Gedung dan Bangunan Belanja Barang Persediaan Pemeliharaan Gedung dan
+
+ANGGARAN SEMULA
+
+ANGGARAN SETELAH REVISI
+
+3
+80,000,000 80,000,000
+
+4
+80,000,000 80,000,000
+
+TAHUN INI
+5
+79,994,000 79,994,000
+
+5,098,754,000 5,098,754,000 9,250,425,000
+
+4,498,754,000 4,498,754,000 8,360,425,000
+
+4,322,698,872 4,322,698,872 8,041,114,989
+
+852,091,000 24,000,000
+156,960,000 21,790,000
+1,054,841,000
+12,520,000 12,520,000
+300,000,000 24,000,000
+190,000,000 514,000,000
+264,175,000 54,000,000
+
+846,399,000 30,892,000
+158,100,000 35,824,000
+1,071,215,000
+12,520,000 12,520,000
+266,755,000 17,214,000
+200,560,000 484,529,000
+316,516,000 0
+
+817,996,618 30,891,609
+158,100,000 25,823,100
+1,032,811,327
+10,920,000 10,920,000
+266,754,895 17,197,632
+200,560,000 484,512,527
+306,514,800 0
+
+REALISASI BELANJA
+
+JUMLAH S/D TAHUN INI
+6
+
+PENGEMBALIAN S/D TAHUN INI
+7
+
+79,994,000
+
+( 13,636,000)
+
+79,994,000
+
+( 13,636,000)
+
+4,322,698,872 4,322,698,872 8,041,114,989
+
+(
+
+3,105,874)
+
+(
+
+3,105,874)
+
+( 18,303,175)
+
+817,996,618
+
+0
+
+30,891,609
+
+0
+
+158,100,000
+
+0
+
+25,823,100
+
+0
+
+1,032,811,327
+
+0
+
+10,920,000
+
+0
+
+10,920,000
+
+0
+
+266,754,895
+
+0
+
+17,197,632
+
+0
+
+200,560,000
+
+0
+
+484,512,527
+
+0
+
+306,514,800
+
+0
+
+0
+
+0
+
+Kode Lap. Tanggal Halaman Prog.Id
+
+: LRBST 02
+
+: Wednesday, April 05,
+
+:
+
+2
+
+: lu_lrabstkt
+
+JUMLAH NETO S/D TAHUN INI
+8
+66,358,000
+66,358,000
+
+% REALISASI ANGGARAN
+9
+82.95 99.99
+
+SISA ANGGARAN
+10
+13,642,000 13,642,000
+
+4,319,592,998 4,319,592,998 8,022,811,814
+
+96.02 96.09 96.18
+
+179,161,002 179,161,002 337,613,186
+
+817,996,618 30,891,609
+158,100,000 25,823,100
+1,032,811,327
+10,920,000 10,920,000
+266,754,895 17,197,632
+200,560,000 484,512,527
+306,514,800 0
+
+96.64 100.00 100.00
+72.08 96.41
+87.22 87.22
+100.00 99.90
+100.00 100.00
+96.84 0.00
+
+28,402,382 391 0
+10,000,900 38,403,673
+1,600,000 1,600,000
+105 16,368
+0 16,473
+10,001,200 0
+
+LAPORAN REALISASI ANGGARAN BELANJA BELANJA SATUAN KERJA MELALUI KPPN TAHUN 2016 (dalam rupiah)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I WILAYAH/PROPINSI SATUAN KERJA
+
+: 01 : 3400 : 689266
+
+JENIS SATUAN KERJA
+
+: KD
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE
+
+URAIAN
+
+ANGGARAN SEMULA
+
+ANGGARAN SETELAH REVISI
+
+1
+523121
+3676 001 52 5241 524111 524114
+06 3701 003
+52
+
+2
+Bangunan Belanja Pemeliharaan Peralatan dan Mesin JUMLAH SUB KELOMPOK BELANJA 5231 JUMLAH KELOMPOK BELANJA 52 JUMLAH BELANJA OUTPUT 3670.994 JUMLAH BELANJA KEGIATAN 3670
+Fasilitas Dukungan Manajemen BPKP Laporan Laporan Dukungan manajemen BPKP BELANJA BARANG Belanja Perjalanan Dalam Negeri Belanja Perjalanan Biasa Belanja Perjalanan Dinas Paket Meeting Dalam Kota JUMLAH SUB KELOMPOK BELANJA 5241 JUMLAH KELOMPOK BELANJA 52 JUMLAH BELANJA OUTPUT 3676.001 JUMLAH BELANJA KEGIATAN 3676 JUMLAH BELANJA PROGRAM 01.01.01 Program Pengawasan Intern Akuntabilitas Keuangan Negara dan Pembinaan Penyelenggaraan Sistem Pengendalian Intern Pemerintah Pelaksanaan Pengawasan Intern Akuntabilitas Keuangan Negara dan Pembangunan Nasional Serta Pembinaan Penyelenggaraan SPIP Rekomendasi Pengawasan Perwakilan BPKP BELANJA BARANG
+
+3
+119,949,000 438,124,000 2,019,485,000 11,269,910,000 11,269,910,000
+
+4
+79,799,000 396,315,000 1,964,579,000 10,325,004,000 10,325,004,000
+
+466,821,000 35,000,000
+501,821,000 501,821,000 501,821,000 501,821,000 11,771,731,000
+
+471,821,000 30,000,000
+501,821,000 501,821,000 501,821,000 501,821,000 10,826,825,000
+
+TAHUN INI
+5
+69,798,672 376,313,472 1,904,557,326 9,945,672,315 9,945,672,315
+471,433,822 30,000,000
+501,433,822 501,433,822 501,433,822 501,433,822 10,447,106,137
+
+REALISASI BELANJA
+
+JUMLAH S/D TAHUN INI
+6
+
+PENGEMBALIAN S/D TAHUN INI
+7
+
+69,798,672 376,313,472 1,904,557,326 9,945,672,315 9,945,672,315
+
+0 0 0 ( 18,303,175) ( 18,303,175)
+
+471,433,822 30,000,000
+501,433,822 501,433,822 501,433,822 501,433,822 10,447,106,137
+
+0 0 0 0 0 0 ( 18,303,175)
+
+Kode Lap. Tanggal Halaman Prog.Id
+
+: LRBST 02
+
+: Wednesday, April 05,
+
+:
+
+3
+
+: lu_lrabstkt
+
+JUMLAH NETO S/D TAHUN INI
+8
+
+% REALISASI ANGGARAN
+9
+
+SISA ANGGARAN
+10
+
+69,798,672 376,313,472 1,904,557,326 9,927,369,140 9,927,369,140
+
+87.47 94.95 96.94 96.33 96.33
+
+10,000,328 20,001,528 60,021,674 397,634,860 397,634,860
+
+471,433,822 30,000,000
+501,433,822 501,433,822 501,433,822 501,433,822 10,428,802,962
+
+99.92 100.00
+99.92 99.92 99.92 99.92 96.49
+
+387,178 0
+387,178 387,178 387,178 387,178 398,022,038
+
+LAPORAN REALISASI ANGGARAN BELANJA BELANJA SATUAN KERJA MELALUI KPPN TAHUN 2016 (dalam rupiah)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I WILAYAH/PROPINSI SATUAN KERJA
+
+: 01 : 3400 : 689266
+
+JENIS SATUAN KERJA
+
+: KD
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE
+
+URAIAN
+
+ANGGARAN SEMULA
+
+ANGGARAN SETELAH REVISI
+
+1
+5212 521211
+5218 521811
+5221 522151
+5241 524111 524113
+004 52 5212 521211
+5218 521811
+5241
+
+2
+Belanja Barang Non Operasional Belanja Bahan JUMLAH SUB KELOMPOK BELANJA 5212 Belanja Barang Persediaan Belanja Barang Persediaan Barang Konsumsi JUMLAH SUB KELOMPOK BELANJA 5218 Belanja Jasa Belanja Jasa Profesi JUMLAH SUB KELOMPOK BELANJA 5221 Belanja Perjalanan Dalam Negeri Belanja Perjalanan Biasa Belanja Perjalanan Dinas Dalam Kota JUMLAH SUB KELOMPOK BELANJA 5241 JUMLAH KELOMPOK BELANJA 52 JUMLAH BELANJA OUTPUT 3701.003 Rekomendasi Pengawasan Perwakilan BPKP (Nawa Cita 3-7) BELANJA BARANG Belanja Barang Non Operasional Belanja Bahan JUMLAH SUB KELOMPOK BELANJA 5212 Belanja Barang Persediaan Belanja Barang Persediaan Barang Konsumsi JUMLAH SUB KELOMPOK BELANJA 5218 Belanja Perjalanan Dalam Negeri
+
+3
+11,850,000 11,850,000
+47,404,000 47,404,000
+12,500,000 12,500,000
+1,001,080,000 121,000,000
+1,122,080,000 1,193,834,000 1,193,834,000
+
+4
+18,656,000 18,656,000
+29,000,000 29,000,000
+11,250,000 11,250,000
+1,009,436,000 42,475,000
+1,051,911,000 1,110,817,000 1,110,817,000
+
+3,900,000 3,900,000
+15,601,000 15,601,000
+
+1,050,000 1,050,000
+8,566,000 8,566,000
+
+TAHUN INI
+5
+17,788,260 17,788,260
+28,904,100 28,904,100
+11,250,000 11,250,000
+997,997,531 37,730,000
+1,035,727,531 1,093,669,891 1,093,669,891
+0 0
+8,165,000 8,165,000
+
+REALISASI BELANJA
+
+JUMLAH S/D TAHUN INI
+6
+
+PENGEMBALIAN S/D TAHUN INI
+7
+
+17,788,260
+
+0
+
+17,788,260
+
+0
+
+28,904,100
+
+0
+
+28,904,100
+
+0
+
+11,250,000
+
+0
+
+11,250,000
+
+0
+
+997,997,531
+
+0
+
+37,730,000
+
+0
+
+1,035,727,531
+
+0
+
+1,093,669,891
+
+0
+
+1,093,669,891
+
+0
+
+0
+
+0
+
+0
+
+0
+
+8,165,000
+
+0
+
+8,165,000
+
+0
+
+Kode Lap. Tanggal Halaman Prog.Id
+
+: LRBST 02
+
+: Wednesday, April 05,
+
+:
+
+4
+
+: lu_lrabstkt
+
+JUMLAH NETO S/D TAHUN INI
+8
+
+% REALISASI ANGGARAN
+9
+
+SISA ANGGARAN
+10
+
+17,788,260 17,788,260
+28,904,100 28,904,100
+11,250,000 11,250,000
+997,997,531 37,730,000
+1,035,727,531 1,093,669,891 1,093,669,891
+
+95.35 95.35
+99.67 99.67
+100.00 100.00
+98.87 88.83 98.46 98.46 98.46
+
+867,740 867,740
+95,900 95,900
+0 0
+11,438,469 4,745,000
+16,183,469 17,147,109 17,147,109
+
+0 0
+8,165,000 8,165,000
+
+0.00 0.00
+95.32 95.32
+
+1,050,000 1,050,000
+401,000 401,000
+
+LAPORAN REALISASI ANGGARAN BELANJA BELANJA SATUAN KERJA MELALUI KPPN TAHUN 2016 (dalam rupiah)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I WILAYAH/PROPINSI SATUAN KERJA
+
+: 01 : 3400 : 689266
+
+JENIS SATUAN KERJA
+
+: KD
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE
+
+URAIAN
+
+ANGGARAN SEMULA
+
+ANGGARAN SETELAH REVISI
+
+1
+524111
+005 52 5212 521211 5218 521811 5241 524111
+006 52 5212 521211 5218
+
+2
+Belanja Perjalanan Biasa JUMLAH SUB KELOMPOK BELANJA 5241 JUMLAH KELOMPOK BELANJA 52 JUMLAH BELANJA OUTPUT 3701.004 Rekomendasi Pengawasan Regional Bidang Otonomi Daerah (Nawa Cita 3 - 7) BELANJA BARANG Belanja Barang Non Operasional Belanja Bahan JUMLAH SUB KELOMPOK BELANJA 5212 Belanja Barang Persediaan Belanja Barang Persediaan Barang Konsumsi JUMLAH SUB KELOMPOK BELANJA 5218 Belanja Perjalanan Dalam Negeri Belanja Perjalanan Biasa JUMLAH SUB KELOMPOK BELANJA 5241 JUMLAH KELOMPOK BELANJA 52 JUMLAH BELANJA OUTPUT 3701.005 Rekomendasi Perbaikan Penyelenggaraan SPIP (Termasuk Piloting) BELANJA BARANG Belanja Barang Non Operasional Belanja Bahan JUMLAH SUB KELOMPOK BELANJA 5212 Belanja Barang Persediaan
+
+3
+327,825,000 327,825,000 347,326,000 347,326,000
+
+4
+312,316,000 312,316,000 321,932,000 321,932,000
+
+600,000 600,000
+2,400,000 2,400,000
+93,914,000 93,914,000 96,914,000 96,914,000
+
+600,000 600,000
+13,546,000 13,546,000
+73,768,000 73,768,000 87,914,000 87,914,000
+
+4,050,000 4,050,000
+
+4,050,000 4,050,000
+
+TAHUN INI
+5
+294,726,599 294,726,599 302,891,599 302,891,599
+0 0 11,145,130 11,145,130 71,638,615 71,638,615 82,783,745 82,783,745
+0 0
+
+REALISASI BELANJA
+
+JUMLAH S/D TAHUN INI
+6
+
+PENGEMBALIAN S/D TAHUN INI
+7
+
+294,726,599
+
+0
+
+294,726,599
+
+0
+
+302,891,599
+
+0
+
+302,891,599
+
+0
+
+0
+
+0
+
+0
+
+0
+
+11,145,130
+
+0
+
+11,145,130
+
+0
+
+71,638,615
+
+0
+
+71,638,615
+
+0
+
+82,783,745
+
+0
+
+82,783,745
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Kode Lap. Tanggal Halaman Prog.Id
+
+: LRBST 02
+
+: Wednesday, April 05,
+
+:
+
+5
+
+: lu_lrabstkt
+
+JUMLAH NETO S/D TAHUN INI
+8
+294,726,599
+294,726,599 302,891,599 302,891,599
+
+% REALISASI ANGGARAN
+9
+94.37 94.37 94.09 94.09
+
+SISA ANGGARAN
+10
+17,589,401 17,589,401 19,040,401 19,040,401
+
+0 0
+11,145,130 11,145,130
+71,638,615 71,638,615 82,783,745 82,783,745
+
+0.00 0.00
+82.28 82.28
+97.11 97.11 94.16 94.16
+
+600,000 600,000
+2,400,870 2,400,870
+2,129,385 2,129,385 5,130,255 5,130,255
+
+0
+
+0.00
+
+0
+
+0.00
+
+4,050,000 4,050,000
+
+LAPORAN REALISASI ANGGARAN BELANJA BELANJA SATUAN KERJA MELALUI KPPN TAHUN 2016 (dalam rupiah)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I WILAYAH/PROPINSI SATUAN KERJA
+
+: 01 : 3400 : 689266
+
+JENIS SATUAN KERJA
+
+: KD
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE
+
+URAIAN
+
+1
+
+2
+
+521811 Belanja Barang Persediaan Barang Konsumsi
+
+5241 524111
+
+JUMLAH SUB KELOMPOK BELANJA 5218 Belanja Perjalanan Dalam Negeri Belanja Perjalanan Biasa
+
+JUMLAH SUB KELOMPOK BELANJA 5241 JUMLAH KELOMPOK BELANJA 52 JUMLAH BELANJA OUTPUT 3701.006 JUMLAH BELANJA KEGIATAN 3701 JUMLAH BELANJA PROGRAM 01.01.06 JUMLAH BELANJA SUB FUNGSI 01.01
+
+JUMLAH BELANJA FUNGSI 01
+
+JUMLAH BELANJA CARA PENARIKAN 0
+
+JUMLAH BELANJA SUMBER DANA 01
+JUMLAH BELANJA JENIS SATKER KD
+JUMLAH TRANSAKSI KAS JUMLAH BELANJA (TRANSAKSI KAS DAN TRANSAKSI NON KAS
+
+ANGGARAN SEMULA
+
+ANGGARAN SETELAH REVISI
+
+3
+16,202,000 16,202,000
+
+4
+18,393,000 18,393,000
+
+TAHUN INI
+5
+17,760,000 17,760,000
+
+348,912,000 348,912,000 369,164,000 369,164,000 2,007,238,000 2,007,238,000 13,778,969,000 13,778,969,000 13,778,969,000 13,778,969,000 13,778,969,000 13,778,969,000 13,778,969,000
+
+336,277,000 336,277,000 358,720,000 358,720,000 1,879,383,000 1,879,383,000 12,706,208,000 12,706,208,000 12,706,208,000 12,706,208,000 12,706,208,000 12,706,208,000 12,706,208,000
+
+317,034,239 317,034,239 334,794,239 334,794,239 1,814,139,474 1,814,139,474 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611
+
+REALISASI BELANJA
+
+JUMLAH S/D TAHUN INI
+6
+
+PENGEMBALIAN S/D TAHUN INI
+7
+
+17,760,000
+
+0
+
+17,760,000
+
+0
+
+317,034,239 317,034,239 334,794,239 334,794,239 1,814,139,474 1,814,139,474 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611 12,261,245,611
+
+0 0 0 0 0 0 ( 18,303,175) ( 18,303,175) ( 18,303,175) ( 18,303,175) ( 18,303,175) ( 18,303,175) ( 18,303,175)
+
+Kode Lap. Tanggal Halaman Prog.Id
+
+: LRBST 02
+
+: Wednesday, April 05,
+
+:
+
+6
+
+: lu_lrabstkt
+
+JUMLAH NETO S/D TAHUN INI
+8
+17,760,000
+17,760,000
+
+% REALISASI ANGGARAN
+9
+96.56 96.56
+
+SISA ANGGARAN
+10
+633,000 633,000
+
+317,034,239 317,034,239 334,794,239 334,794,239 1,814,139,474 1,814,139,474 12,242,942,436 12,242,942,436 12,242,942,436 12,242,942,436 12,242,942,436 12,242,942,436 12,242,942,436
+
+94.28 94.28 93.33 93.33 96.53 96.53 96.50 96.50 96.50 96.50 96.50 96.50 96.50
+
+19,242,761 19,242,761 23,925,761 23,925,761 65,243,526 65,243,526 463,265,564 463,265,564 463,265,564 463,265,564 463,265,564 463,265,564 463,265,564
+
+LAPORAN REALISASI ANGGARAN PENDAPATAN NEGARA & HIBAH
+
+LAPORAN REALISASI ANGGARAN PENDAPATAN NEGARA DAN HIBAH PENDAPATAN NEGARA DAN HIBAH SATUAN KERJA MELALUI KPPN
+UNTUK TAHUN 2016 (DALAM RUPIAH)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I
+
+: 01
+
+WILAYAH/PROPINSI
+
+: 3400
+
+SATUAN KERJA JENIS SATKER
+
+: 689266 : K: D
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE
+
+U R A I A N
+
+ESTIMASI PENDAPATAN
+
+1
+
+2
+
+TRANSAKSI KAS
+
+I Penerimaan Dalam Negeri
+
+42 423 4231
+42314 423141
+4237 42375 423752
+4239 42395 423951
+
+PENDAPATAN PENERIMAAN NEGARA BUKAN PAJAK PNBP LAINNYA Pendapatan dari Pengelolaan BMN (Pemanfaatan dan Pemindahtanganan) serta Pendapatan dari Penjualan Pendapatan dari Pemanfaatan BMN Pendapatan Sewa Tanah, Gedung, dan Bangunan
+Jumlah Penerimaan 42314 Jumlah Penerimaan 4231
+Pendapatan Iuran dan Denda Pendapatan Denda Pendapatan Denda Keterlambatan Penyelesaian Pekerjaan Pemerintah
+Jumlah Penerimaan 42375 Jumlah Penerimaan 4237
+Pendapatan Lain-lain Penerimaan Kembali Belanja Tahun Anggaran Yang Lalu Penerimaan Kembali Belanja Pegawai Tahun Anggaran Yang Lalu
+Jumlah Penerimaan 42395 Jumlah Penerimaan 4239 Jumlah Penerimaan 423 Jumlah Penerimaan 42 Jumlah Penerimaan Dalam Negeri JUMLAH PENDAPATAN DAN HIBAH JUMLAH PENDAPATAN
+
+3
+0 0 0
+0 0 0
+0 0 0 0 0 0 0 0
+
+TAHUN INI 4
+
+KD. LAPORAN : LRPS.T02
+
+TANGGAL : 05/04/17
+
+HAL
+
+:1
+
+PROG. ID : : lu_pendsatk
+
+REALISASI PENDAPATAN
+
+JUMLAH SAMPAI DENGAN
+TAHUN INI
+
+PENGEMBALIAN JUMLAH NETTO
+
+SAMPAI DENGAN SAMPAI DENGAN
+
+TAHUN INI
+
+TAHUN INI
+
+5
+
+6
+
+7
+
+% REAL. PEND
+8
+
+421,500 421,500 421,500
+52,482,976 52,482,976 52,482,976
+3,440,000 3,440,000 3,440,000 56,344,476 56,344,476 56,344,476 56,344,476 56,344,476
+
+421,500 421,500 421,500
+52,482,976 52,482,976 52,482,976
+3,440,000 3,440,000 3,440,000 56,344,476 56,344,476 56,344,476 56,344,476 56,344,476
+
+0
+
+421,500
+
+0.00
+
+0
+
+421,500
+
+0.00
+
+0
+
+421,500
+
+0.00
+
+0
+
+52,482,976
+
+0.00
+
+0
+
+52,482,976
+
+0.00
+
+0
+
+52,482,976
+
+0.00
+
+0
+
+3,440,000
+
+0.00
+
+0
+
+3,440,000
+
+0.00
+
+0
+
+3,440,000
+
+0.00
+
+0
+
+56,344,476
+
+0.00
+
+0
+
+56,344,476
+
+0.00
+
+0
+
+56,344,476
+
+0.00
+
+0
+
+56,344,476
+
+0.00
+
+0
+
+56,344,476
+
+0.00
+
+LAPORAN REALISASI ANGGARAN PENDAPATAN NEGARA DAN HIBAH PENDAPATAN NEGARA DAN HIBAH SATUAN KERJA MELALUI KPPN
+UNTUK TAHUN 2016 (DALAM RUPIAH)
+
+KEMENTERIAN NEGARA/LEMBAGA : 089
+
+ESELON I
+
+: 01
+
+WILAYAH/PROPINSI
+
+: 3400
+
+SATUAN KERJA JENIS SATKER
+
+: 689266 : K: D
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PROP. SULAWESI BARAT PERWAKILAN BPKP PROVINSI SULAWESI BARAT KANTOR DAERAH
+
+KODE 1
+
+U R A I A N 2
+
+ESTIMASI PENDAPATAN
+3
+
+TAHUN INI 4
+
+KD. LAPORAN : LRPS.T02
+
+TANGGAL : 05/04/17
+
+HAL
+
+:2
+
+PROG. ID : : lu_pendsatk
+
+REALISASI PENDAPATAN
+
+JUMLAH SAMPAI DENGAN
+TAHUN INI
+
+PENGEMBALIAN JUMLAH NETTO
+
+SAMPAI DENGAN SAMPAI DENGAN
+
+TAHUN INI
+
+TAHUN INI
+
+5
+
+6
+
+7
+
+% REAL. PEND
+8
+
+JUMLAH PENDAPATAN DAN HIBAH
+
+0
+
+56,344,476
+
+56,344,476
+
+0
+
+56,344,476
+
+0.00
+
+NERACA SIMAK PER 31 DESEMBER 2016
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+LAPORAN POSISI BARANG MILIK NEGARA DI NERACA POSISI PER TANGGAL 31 DESEMBER 2016 TAHUN ANGGARAN 2016
+NAMA UAKPB : 089.01.34.689266.000 PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+
+Tanggal : 05-04-2017
+
+Halaman :
+
+1
+
+Kode Lap. : LBAPKG
+
+AKUN NERACA
+
+KODE 1
+117111 117113 131111 132111 133111 134111 134113 136111 137111 137211 137311 137313
+
+URAIAN 2
+Barang Konsumsi Bahan untuk Pemeliharaan Tanah Peralatan dan Mesin Gedung dan Bangunan Jalan dan Jembatan Jaringan Konstruksi Dalam pengerjaan Akumulasi Penyusutan Peralatan dan Mesin Akumulasi Penyusutan Gedung dan Bangunan Akumulasi Penyusutan Jalan dan Jembatan Akumulasi Penyusutan Jaringan
+J U M L A H
+
+JUMLAH
+3
+159,702,916 24,658
+2,042,703,750 6,232,014,285 34,520,500,913 1,137,295,928 3,155,499,441
+0 ( 3,056,299,327) ( 1,790,586,702) ( 284,323,981) ( 698,605,606)
+41,417,926,275
+
+Mamuju, 31 Desember 2016 Penanggung Jawab UAKPB
+Kepala Perwakilan,
+
+Wasis Prabowo NIP 19651031 198703 1 001
+
+DAFTAR TANAH
+
+DAFTAR TANAH PER 31 DESEMBER 2016
+
+NUP
+
+ALAMAT
+
+LUAS (M2) NILAI (Rp)
+
+1. Kelurahan Rangas Kecamatan Simboro Kabupaten Mamuju
+2. Kelurahan Rangas Kecamatan Simboro Kabupaten Mamuju TOTAL
+
+5.310 10.000
+
+239.613.750 1.803.090.000 2.042.703.750
+
+BADAN PENGAWASAN KEUANGAN DAN PEMBANGUNAN PERWAKILAN BPKP PROVINSI SULAWESI BARAT
+Jln. Abdul Malik Pattana Endeng, Mamuju. 91512 Telp. (0426) 21088, 21434. Fax. (04260 21137. Email: sulawesi.barat@bpkp.go.id

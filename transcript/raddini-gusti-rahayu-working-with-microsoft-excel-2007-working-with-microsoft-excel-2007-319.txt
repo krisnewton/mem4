@@ -1,0 +1,1300 @@
+Working with Microsoft Excel 2007
+Raddini Gusti Rahayu Xiaoyu.hiroshi@gmail.com Raddini_ka282042@yahoo.co.id www.mugi.or.id/blogs/raddini_gusti_rahayu www.excelmiso.blogspot.com
+
+Daftar Isi
+
+Bekerja pada Excel 2007
+
+1
+
+1. Bekerja pada Excel 2007............................................................................................. 4
+1.1. Memulai Excel dengan Cepat...................................................................................................................4 1.2. Standart dan Format Negara ...................................................................................................................5 1.3. Mengatur Konfigurasi Dasar ....................................................................................................................6 1.4. Mengatur Toolbar dan Ribbon.................................................................................................................8
+1.4.1. Quick Acces Toolbar............................................................................................................................ 8 1.4.2. Mengatur Ribbon ............................................................................................................................... 9 1.4.3. Menjepit Workbook Mru pada Recent Document .......................................................................... 10 1.5. Mengatur Tampilan Data.......................................................................................................................11 1.5.1. Zoom Slider ....................................................................................................................................... 11 1.5.2. Freeze Panes ..................................................................................................................................... 12 1.5.3. Split Windows ................................................................................................................................... 14 1.5.4. View Side by Side .............................................................................................................................. 14
+2. Proteksi Data Pada Excel 2007.................................................................................. 16
+2.1. Prepare Document for Distribution .......................................................................................................16 2.1.1. Properties.......................................................................................................................................... 16 2.1.2. Inspect Document ............................................................................................................................. 17 2.1.3. Encrypt Document ............................................................................................................................ 18 2.1.4. Mark as Final ..................................................................................................................................... 19 2.1.5. Run Compatibility Checker................................................................................................................ 20
+2.2. Menyembunyikan Data .........................................................................................................................20 2.2.1. Menyembunyikan Baris .................................................................................................................... 20 2.2.2. Menyembunyikan Kolom .................................................................................................................. 22 2.2.3. Menyembunyikan Sheet ................................................................................................................... 24 2.2.4. Menyembunyikan Workbook ........................................................................................................... 25
+2.3. Proteksi pada Worksheet ......................................................................................................................26 2.3.1. Proteksi pada seluruh worksheet ..................................................................................................... 26 2.3.2. Proteksi pada cell/range tertentu..................................................................................................... 28
+2.4. Proteksi pada Workbook .......................................................................................................................31 2.5. Security Option......................................................................................................................................33
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+2
+
+3. Manajemen Worksheet dan Workbook.................................................................... 35
+3.1. Mengisi Data Secara Otomatis ke Dalam Cell.........................................................................................35
+3.2. Menggabungkan Worksheet..................................................................................................................36
+3.3. Menambahkan Header dan Footer pada Workbook ..............................................................................38
+3.4. Menyimpan Workbook dalam format PDF/XPS .....................................................................................39
+3.5. Workspace.............................................................................................................................................41
+4. Fungsi Lanjutan Pada Excel 2007 .............................................................................. 44
+4.1. Fungsi Dasar ..........................................................................................................................................44 4.1.1. SUM .................................................................................................................................................. 44 4.1.2. AVERAGE ........................................................................................................................................... 45 4.1.3. COUNT .............................................................................................................................................. 45 4.1.4. MAX / MIN ........................................................................................................................................ 46 4.1.5. SUMIF................................................................................................................................................ 46 4.1.6. COUNTIF............................................................................................................................................ 47 4.1.7. IF ....................................................................................................................................................... 47 4.1.8. Vlookup ............................................................................................................................................. 48 4.1.9. Hlookup............................................................................................................................................. 48
+4.2. Penggabungan Fungsi ............................................................................................................................49
+4.3. Fungsi Lanjutan......................................................................................................................................50 4.3.1. Fungsi Logika OR ............................................................................................................................... 50 4.3.2. Fungsi Logika AND............................................................................................................................. 51 4.3.3. Fungsi Tanggal................................................................................................................................... 51 4.3.4. Fungsi Waktu .................................................................................................................................... 52 4.3.5. Fungsi Pembulatan............................................................................................................................ 53 4.3.6. Fungsi Teks........................................................................................................................................ 53
+4.4. Define Name..........................................................................................................................................54
+5. MANAJEMEN DATA PADA EXCEL 2007...................................................................... 56
+5.1. Sort........................................................................................................................................................57
+5.2. Filter ......................................................................................................................................................59 5.2.1. AutoFilter .......................................................................................................................................... 59 5.2.2. Advanced Filter ................................................................................................................................. 60
+5.3. Form ......................................................................................................................................................62
+5.4. Validation ..............................................................................................................................................64
+5.5. Subtotals ...............................................................................................................................................69 5.5.1. Subtotal Tunggal ............................................................................................................................... 69 5.5.2. Subtotal Bertingkat ........................................................................................................................... 71
+5.6. Charts ....................................................................................................................................................74
+5.7. Pivot Table.............................................................................................................................................80
+5.8. PivotChart..............................................................................................................................................82
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+3
+
+6. VBA Macro Excel 2007 ............................................................................................. 84
+6.1. Memulai dengan Macro.........................................................................................................................84 6.1.1. Menampilkan Tab Developer pada Ribbon ...................................................................................... 84 6.1.2. Mengaktifkan Macro......................................................................................................................... 85 6.1.3. Menyimpan Workbook Macro.......................................................................................................... 86
+6.2. Membuat Macro Sederhana ..................................................................................................................86 6.2.1. Macro Berpindah ke Sheet Tertentu ................................................................................................ 87
+7. Shortcut Keyboard Excel 2007 .................................................................................. 89
+7.1. Tombol Shortcut dengan kombinasi CTRL..............................................................................................89 7.2. Tombol Function....................................................................................................................................91 7.3. Kombinasi Tombol Lainnya ....................................................................................................................93
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+4
+
+1. Bekerja pada Excel 2007
+
+Microsoft Excel versi 2007 ini memberikan Anda lebih banyak kemudahan saat bekerja dibanding Excel versi sebelumnya. Sebelum Anda menggunakannya ada beberapa pengaturan yang harus diperhatikan, berikut merupakan beberapa diantaranya.
+1.1. Memulai Excel dengan Cepat
+Anda dapat menjalankan Excel dengan cepat tanpa perlu melakukan beberapa klik. Ada beberapa cara yang dapat dilakukan, yaitu:
+Jika Anda menggunakan Windows 7 atau Vista, cukup dengan klik tombol Start, lalu pada kotak isian Search program and files ketikkan excel lalu tekan Enter.
+Jika Anda menggunakan Windows XP, klik tombol Start lalu pilih Run, setelah itu ketikkan excel lalu klik OK atau tekan Enter.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+5
+
+Anda dapat menyematkan Excel pada Start Menu atau Taskbar, dengan cara klik tombol Start > All Program > Microsoft Office, lalu klik kanan pada Excel dan pilih Pin to Start Menu atau Pin to Taskbar. Ketika Anda ingin membukanya cukup klik icon Excel pada Taskbar atau pada Menu Start.
+
+1.2. Standart dan Format Negara
+Pengolahan data Excel tidak luput dari nilai uang dan mata uang dan setiap negara mempunyai format yang berbeda ­ beda.
+Sebagai contoh untuk format nilai uang negara Amerika, pemisah angka ribuan menggunakan tanda koma "," dan di Indonesia menggunakan tanda titik ".". Sehingga di Amerika untuk penulisan nilai tujuh ribu ditulis 7,000 sedangkan di Indonesia penulisan nilai 7,000 artinya 7. Ini akan menyebabkan kekacauan dalam analisis dan perhitungan data.
+Oleh sebab itu, untuk menghindarinya, sebelum Anda bekerja dengan Excel sebaiknya Anda memilih standart dan format negara yang sesuai dengan data yang Anda kerjakan, dengan cara sebagai berikut :
+Klik Start > Control Panel. Pada jendela Control Panel klik Regional and Language sehingga muncul kotak dialog Regional and Language. Pada tab Format dan list box Format, pilih format negara mana yang akan Anda gunakan.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+6
+
+1.3. Mengatur Konfigurasi Dasar
+Pada aplikasi Excel, ada beberapa konfigurasi yang harus diperhatikan, yaitu sebagai berikut :
+Klik Office Button > Excel Option sehingga muncul kotak dialog Excel Option seperti berikut ini :
+
+Pilih tab Popular, pada bagian ini dibagi menjadi 3 kategori yang mana Anda dapat mengatur tampilan Excel saat pertama digunakan.  Top Options for Working with Excel, diantaranya mengatur warna tampilan Excel
+dan ScreenTip.  When Creating New Workbooks, mengatur jenis dan ukuran font dan jumlah
+sheet yang ditampilkan ketika workboook pertama kali dibuat.  Personalize Your Copy of Microsoft Office, mengatur nama Penulis dan jenis
+bahasa yang digunakan. Pilih tab Save, pada bagian ini berhubungan dengan pengaturan peyimpanan data, yaitu :  Save Workbooks, mengatur seberapa sering fasilitas AutoRecover disimpan dan
+lokasi peyimpanannya.  AutoRecover Exceptions for, berfungsi untuk menonaktifkan fasilitas
+AutoRecover.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+7
+
+Pilih tab Customize, pada bagian ini mengatur Command Button pada Quick Acces Toolbar.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+8
+
+1.4.
+1.4.1.
+
+Mengatur Toolbar dan Ribbon
+Quick Acces Toolbar
+Seperti halnya aplikasi Office yang lain, Excel juga mempunyai fasilitas Quick Access Toolbar. Fungsinya untuk memudahkan Anda lebih cepat mengoperasikan Excel. Anda dapat menambahkan tombol perintah yang sering Anda gunakan ke dalamnya seperti tombol perintah Save, Print Preview, Open dan yang lainnya. Ada berbagai cara yang dapat dilakukan yaitu :
+Klik tombol panah bawah pada Quick Access Toolbar lalu pilih tombol perintah yang diinginkan, atau pilih More Commands untuk tombol perintah lainnya.
+
+Klik kanan pada tombol perintah yang diinginkan lalu pilih Add to Quick Access Toolbar.
+Klik kanan pada ruang kosong Ribbon lalu pilih Costumize Quick Access Toolbar Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+9
+
+Pada tab Costumize di Excel Option, di List Box Choose command from pilih sesuai kategori dan pilih tombol perintah yang diinginkan di command list, setelah itu klik Add dan OK.
+
+1.4.2.
+
+Mengatur Ribbon
+Anda dapat mengakses ribbon dengan cepat dan mudah. Ada 2 media yang dapat digunakan, yaitu melalui :
+Mouse Dengan cara mengarahkan kursor pada ribbon lalu geser ke atas atau ke bawah scroller pada mouse Anda untuk berpindah ke tiap ribbon. Keyboard Dengan cara tekan tombol Alt namun pastikan Excel tidak sedang dalam mode edit. Setelah itu pada tiap Ribbon dan Toolbar akan muncul shortcut key berupa huruf. Untuk mengaksesnya, Anda cukup menekan tombol huruf sesuai dengan yang ada pada tombol perintah atau judul ribbon.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+10
+
+Selain itu, jika Anda ingin memperkecil tampilan Ribbon, Anda dapat melakukan cara berikut :
+Klik kanan pada judul Ribbon, lalu pilih Minimize the Ribbon.
+
+1.4.3.
+
+Ketika ribbon dalam mode ini, isi ribbon akan ditampilkan jika judul ribbon di klik. Untuk menampilkan Ribbon kembali seperti semula, klik kanan pada judul Ribbon, lalu hilangkan ceklis pada Minimize Ribbon.
+Menjepit Workbook Mru pada Recent Document
+Pada Excel 2007, Anda dapat melihat list workbook MRU (Most Recently Used) pada Recent Document di Office Button, sehingga untuk workbook yang sering digunakan Anda tak perlu membukanya dengan mencari lokasi workbook tersebut terlebih dahulu. Workbook MRU ini pun dapat Anda jepit atau pin agar tetap berada di List Recent Document yaitu dengan cara klik icon pin sehingga icon tersebut berubah menjadi warna hijau. Untuk melepasnya cukup meng-klik nya kembali.
+Secara default workbook MRU yang ditampilkan maksimal hanya empat workbook terakhir yang digunakan, untuk mengubah jumlah workbook yang ditampilkan dapat dilakukan dengan cara :
+Klik Office Button > Excel Option > Advanced. Pada kotak isian Spin Button Show this number of Recent Document : di kategori Display, masukkan berapa jumlah workbook yang ingin ditampilkan lalu klik OK.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+11
+
+1.5.
+1.5.1.
+
+Mengatur Tampilan Data
+Jika Anda bekerja dengan data yang kompleks, mungkin Anda akan merasa sulit dan repot untuk berpindah ke cell atau range yang jaraknya berjauhan atau bahkan berada di sheet yang berbeda. Untuk itu, Excel menyediakan berbagai fasilitas untuk keperluan bernavigasi antar Cell, Range, Sheet ataupun Workbook. Dalam pembahasan ini file yang digunakan adalah Bab1_Mengatur Tampilan Data.xlsx.
+Zoom Slider
+Dengan fasilitas Zoom Slider ini Anda dapat dengan mudah mengatur tampilan workbook Anda sehingga bisa lebih jelas terlihat. Anda bebas mengatur seberapa besar presentase tampilan data.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+12
+
+Cara cepat yang dapat Anda lakukan adalah dengan menggeser tombol pengatur pembesaran atau Plus dan Min Button pada zoom slider yang berada pada status bar sebelah kanan.
+
+Di sebelah kiri zoom slider ini terdapat zoom level yang menunjukkan berapa besar persentase pembesaran dari workbook tersebut. Jika Zoom Level ini diklik maka akan muncul kotak dialog Zoom untuk pengaturan pembesaran lebih lanjut. Pilih Fit Selection untuk memperbesar tampilan dari range yang Anda sorot.
+
+1.5.2.
+
+Freeze Panes
+Freeze Panes digunakan untuk membekukan area tertentu pada workbook Anda. Sehingga ketika Anda menggeser tampilan workbook maka area tersebut tidak ikut tergeser. Ada 2 kategori dalam freeze panes, yaitu membekukan secara vertikal dan horizontal. Cara menggunakannya yaitu :
+Horizontal  Untuk membekukan secara horizontal atau baris, sorot baris dibawah baris data
+yang akan dibekukan. Vertikal  Untuk membekukan secara vertikal atau kolom, sorot kolom disebelah kanan
+kolom data yang akan dibekukan.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+13
+
+Pada tab View kategori Window klik Freeze Panes lalu pilih Freeze Panes.
+Ketika Anda geser tampilan kebawah maka judul kolom tersebut tidak ikut bergeser. Untuk menonaktifkan Freeze Panes, pilih tab View kategori Window > Freeze Panes > Unfreeze Panes.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+14
+
+1.5.3.
+
+Untuk membekukan secara vertikal lakukan hal serupa.
+Split Windows
+Split Windows digunakan untuk membagi workbook menjadi 2 atau 4 bagian yang mana ketika salah satu area tersebut digeser maka area lain tidak ikut tergeser. Cara menggunakannya adalah sebagai berikut :
+Tempatkan penunjuk Cell dimana tampilan workbook akan dibagi. Pada tab View kategori Window klik Split, sehingga tampilan workbook menjadi seperti ini :
+
+1.5.4.
+
+Untuk menonaktifkan Split, pilih tab View kategori Window lalu klik Split.
+View Side by Side View Side by Side digunakan untuk menampilkan data yang berada pada Sheet atau workbook yang berbeda. Seperti namanya, workbook ditampilkan side by side dengan berbagai pilihan. Cara menggunakannya yaitu :
+Pada tab View kategori Window, klik View Side by Side > Arrange All, sehingga muncul kotak dialog Arrange Windows.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Bekerja pada Excel 2007
+
+15
+
+Pada kotak dialog tersebut ada beberapa pilihan, yaitu :  Tiled, menampilkan workbook berbentuk tile  Horizontal, menampilkan workbook secara horizontal  Vertikal, menampilkan workbook secara vertikal  Cascade, menampilkan workbook berbentuk lembaran Sebagai contoh, pilih Tiled lalu klik OK sehingga tampilannya menjadi seperti ini :
+
+Anda juga dapat menggeser tampilan workbook secara bersamaan, untuk menonaktifkan nya pilih tab View, pada kategori Window klik Synchronous Scrolling. Sedangkan untuk menonaktifkan fasilitas View Side by Side, klik kembali tombol perintah View Side by Side pada lokasi yang sama lalu klik Arrange All > Cascade > Checklist Windows of active workbook > OK.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+16
+
+2. Proteksi Data Pada Excel 2007
+
+Aplikasi Excel menyediakan fasilitas untuk memproteksi data sehingga workbook tetap terjaga keamanannya dari pengguna lain, apalagi jika workbook yang Anda buat digunakan oleh lebih dari satu pengguna. Dalam pembahasan ini file yang digunakan adalah Bab2_Proteksi Data.xlsx.
+
+2.1.
+2.1.1.
+
+Prepare Document for Distribution
+Fasilitas Prepare ini digunakan untuk membantu Anda dalam menyelesaikan workbook untuk didistribusikan secara elektronik. Anda dapat menggunakannya dengan klik Office Button > Prepare. Jika workbook yang Anda buat akan digunakan oleh beberapa user, sebaiknya Anda mempersiapkan keamanan data pada workbook Anda dengan memperhatikan beberapa fasilitas berikut :
+Properties
+Properties digunakan untuk menampilkan dan menambah informasi pada workbook Anda. Cara menggunakannya yaitu :
+Klik Office Button > Prepare > Properties, sehingga muncul document properties antara worksheet dan Ribbon. Masukkan informasi yang ingin Anda tambahkan, seperti Author, Title, Subject dan Comment. Untuk menampilkan informasi lebih rinci klik panah bawah pada Document Properties dan pilih Advanced Properties sehingga muncul kotak dialog Properties.
+
+Pada tab General, berisi informasi tentang Judul workbook, lokasi penyimpanan, ukuran, kapan workbook dibuat, dimodifikasi dan diakses.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+17
+
+Pada tab Summary, berisi informasi yang dapat Anda tambahkan mengenai Judul, Penulis, Subjek, Kategori, Komentar dan Katakunci yang memudahkan Anda saat pencarian file ini.
+
+2.1.2.
+
+Inspect Document
+Inspect Document digunakan untuk memeriksa workbook Anda mengenai konten ­ konten yang tersembunyi, seperti baris, kolom, worksheet dan beberapa konten lainnya. Cara mengggunakannya yaitu :
+Klik Office Button > Prepare > Inspect Document, sehingga muncul kotak dialog Document Inspector.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+18
+
+Untuk memerika seluruh konten, klik tombol Inspect. Atau hilangkan ceklis pada meta data yang tidak ingin diperiksa. Setelah itu muncul laporan hasil pemeriksaan tentang konten ­ konten yang dipilih. Anda dapat klik Remove all untuk menghapusnya atau klik close untuk keluar dari kotak dialog Document Inspector.
+
+2.1.3.
+
+Encrypt Document
+Encrypt document digunakan untuk melindungi workbook Anda dengan cara mengenkripsinya. Hal ini membutuhkan password yang mana password tersebut tidak akan mungkin bisa di crack seperti penggunaan password di fasilitas lain. Cara menggunakannya yaitu :
+Klik Office Button > Prepare > Encrypt Document, sehingga muncul kotak dialog Encrypt Document yang meminta Anda untuk mengenkripsi dokumen dengan password.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+19
+
+Masukkan password yang Anda inginkan lalu klik OK dan pastikan Anda tetap mengingatnya karena jika tidak Anda tidak dapat memulihkannya. Excel akan meminta Anda memasukkan password satu kali lagi pada kotak dialog Confirm password, hal ini dilakukan untuk memastikan Anda tidak melakukan kesalahan dalam pengisian password. Lalu klik OK.
+
+2.1.4.
+
+Sekarang, jika Anda membuka workbook tersebut, Excel akan meminta Anda memasukkan password terlebih dahulu.
+Mark as Final Mark as Final digunakan untuk menandai bahwa workbook Anda telah mencapai tahap penyelesaian dan mencegah pengguna lain membuat perubahan pada workbook Anda dengan membuatnya menjadi Read Only. Cara menggunakannya yaitu :
+Klik Office Button > Prepare > Mark as Final, sehingga muncul kotak dialog yang menginformasikan bahwa workbook Anda telah ditandai sebagai tahap akhir.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+20
+
+2.1.5.
+
+Run Compatibility Checker
+Run compatibility checker digunakan untuk menemukan potensial masalah kompatibilitas jika Anda ingin menyimpan workbook Anda dalam format Excel sebelumnya yaitu 19972003. Cara menggunakannya yaitu :
+Klik Office Button > Prepare > Run Compatibility Checker. Maka akan muncul kotak dialog Compatibility Checker yang menginformasikan isu kompatibilitas workbook Anda. Klik OK untuk keluar dari kotak dialog tersebut.
+
+2.2.
+2.2.1.
+
+Menyembunyikan Data
+Excel dapat menyembunyikan data Anda baik berupa baris, kolom, sheet maupun workbook, sehingga pengguna lain tidak dapat melihat data yang mungkin sangat sensitif bagi Anda. Berikut beberapa cara menyembunyikannya.
+Menyembunyikan Baris Tentukan baris mana yang akan Anda sembunyikan dengan menyorotnya terlebih dahulu.
+
+Pada tab Home kategori Cells, klik Format > Hide & Unhide > Hide Rows. Atau dengan cara cepat menggunakan keyboard dengan menekan kombinasi tombol Ctrl + 9.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+21
+
+Perhatikan, setelah baris nomor 7 langsung ke baris nomor 10 yang menandakan bahwa baris 8 dan baris 9 telah disembunyikan.
+Untuk menampilkannya kembali sorot baris 7 dan baris 10, lalu pada tab Home kategori Cells pilih Format > Hide & Unhide > Unhide Rows. Atau cara cepat dengan menggunakan keyboard yaitu dengan menekan kombinasi tombol Ctrl + Shift + (.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+22
+
+2.2.2.
+
+Menyembunyikan Kolom
+Tentukan kolom mana yang akan anda sembunyikan dengan menyorotnya terlebih dahulu.
+
+Pada tab Home kategori Cells, klik Format > Hide & Unhide > Hide Columns. Atau dengan cara cepat menggunakan keyboard dengan menekan kombinasi tombol Ctrl + 0.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+23
+
+Perhatikan, setelah kolom nomor B langsung ke kolom E yang menandakan bahwa kolom C dan kolom D telah disembunyikan.
+Untuk menampilkannya kembali kolom C dan kolom D, pada tab Home kategori Cells pilih Format > Hide & Unhide > Unhide Column. Atau cara cepat dengan menggunakan keyboard yaitu dengan menekan kombinasi tombol Ctrl + Shift + ). Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+24
+
+2.2.3.
+
+Menyembunyikan Sheet
+Tentukan sheet mana yang akan Anda sembunyikan. Pada tab Home kategori Cells, klik Format > Hide & Unhide > Hide Sheet.
+
+Untuk menampilkannya kembali sheet tersebut, pada tab Home kategori Cells pilih Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+25
+
+Format > Hide & Unhide > Unhide Sheet. Lalu muncul kotak dialog Unhide dan pilih sheet mana yang akan Anda tampilkan kembali.
+
+Pilih sheet mana yang akan Anda tampilkan dan klik OK.
+
+2.2.4.
+
+Menyembunyikan Workbook
+Tentukan workbook mana yang akan Anda sembunyikan. Pada tab View kategori Window, klik Hide.
+
+Sekarang workbook Anda telah disembunyikan dan akan tetap tersembunyi walau ditutup dan dibuka kembali. Untuk menampilkannya kembali workbook tersebut, pada tab View kategori
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+26
+
+Window lalu klik Unhide. Lalu muncul kotak dialog Unhide dan pilih workbook mana yang akan Anda tampilkan kembali.
+
+2.3.
+2.3.1.
+
+Proteksi pada Worksheet
+Proteksi pada seluruh worksheet Sorot seluruh cell pada worksheet atau dengan menekan tombol Sellect All pada bagian kiri atas worksheet.
+
+Pada tab Home kategori Cells, pilih Format lalu nonaktifkan Lock Cell. Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+27
+
+Pada tab Home kategori Cells, pilih Format lalu klik Protect Sheet sehingga muncul kotak dialog Protect Sheet.
+Pada kotak dialog Protect Sheet, Anda diminta memasukkan password yang nantinya berfungsi untuk membuka proteksi dan mengatur pengecualian terhadap proteksi worksheet yang Anda buat. Jika sudah tekan OK. Excel akan meminta Anda memasukkan password satu kali lagi pada kotak dialog Confirm password, hal ini dilakukan untuk memastikan Anda tidak melakukan kesalahan dalam pengisian password. Lalu klik OK.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+28
+
+Seluruh Worksheet Anda kini telah diproteksi dan Anda tidak dapat melakukan perubahan pada worksheet tersebut. Untuk membuka proteksinya, pada tab Home kategori Cells, pilih Format lalu klik Unprotect Sheet dan Anda diminta memasukkan password.
+
+2.3.2.
+
+Proteksi pada cell/range tertentu
+Sorot seluruh cell pada worksheet atau dengan menekan tombol Sellect All pada bagian kiri atas worksheet.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+29
+
+Pada tab Home kategori Cells, pilih Format lalu pastikan toogle button Lock Cell tidak sedang dalam keadaan aktif.
+Tentukan range yang akan di diproteksi.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+30
+
+Pada tab Home kategori Cells, pilih Format , klik Lock Cell.
+Pada tab Home kategori Cells, pilih Format lalu klik Protect Sheet sehingga muncul kotak dialog Protect Sheet.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+31
+
+Pada kotak dialog Protect Sheet, Anda diminta memasukkan password yang nantinya berfungsi untuk membuka proteksi dan mengatur pengecualian terhadap proteksi worksheet yang Anda buat. Dalam hal ini biarkan ceklis pada Select Unlocked Cells dan hilangkan ceklis pada Select Locked Cells. Jika sudah tekan OK. Excel akan meminta Anda memasukkan password satu kali lagi pada kotak dialog Confirm password, hal ini dilakukan untuk memastikan Anda tidak melakukan kesalahan dalam pengisian password. Lalu klik OK.
+
+Bagian worksheet Anda yaitu Range B5:D10 telah diproteksi dan Anda tidak dapat melakukan perubahan pada worksheet tersebut. Untuk membuka proteksinya, pada tab Home kategori Cells, pilih Format lalu klik Unprotect Sheet dan Anda diminta memasukkan password.
+
+2.4. Proteksi pada Workbook
+Excel memberikan proteksi pada workbook Anda dengan tingkat yang berlapis, workbook Anda pun dapat diproteksi untuk menambah tingkat keamanan. Caranya adalah sebagai berikut :
+Pada tab Review kategori Changes, pilih Protect Workbook lalu klik Protect
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+32
+
+Structure and Windows sehingga muncul kotak dialog Protect Structure and Windows.
+
+Pada kotak dialog ini, ada 2 pilihan yang diberikan Excel.  Structure, berfungsi untuk memberikan proteksi terhadap struktur workbook
+Anda, seperti menambah sheet baru, menghapus, memindahkan, mengubah nama dan menyembunyikan sheet.  Windows, berfungsi untuk memberikan proteksi terhadap ukuran dan posisi workbook Anda ketika workbook dibuka. Pilih proteksi yang Anda ingin untuk workbook Anda dan isikan password. Klik OK. Excel akan meminta Anda memasukkan password satu kali lagi pada kotak dialog Confirm password, hal ini dilakukan untuk memastikan Anda tidak melakukan kesalahan dalam pengisian password. Lalu klik OK.
+Workbook Anda telah diproteksi, kini Anda tidak dapat melakukan perubahan pada workbook Anda. Untuk membuka proteksinya, pada tab Review kategori Changes, pilih Protect Workbook lalu klik Protect Structure and Windows. Anda akan diminta memasukkan password.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+33
+
+2.5. Security Option
+Seperti halnya aplikasi Office yang lain, Excel juga mempunyai fasilitas Security Option yang berfungsi untuk membatasi pengguna lain dalam pemakaian workbook Anda. Fasilitas ini dapat Anda lakukan ketika anda menyimpan workbook anda. Caranya adalah sebagai berikut :
+Klik Office Button lalu pilih Save As sehingga muncul kotak dialog Save As.
+
+Pada kotak dialog Save As, klik Tools > General Options... sehingga muncul kotak dialog General Options.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Proteksi Data Pada Excel 2007
+
+34
+
+Pada kotak dialog General Options ada 2 jenis Password yang ditawarkan Excel, Open untuk membuka workbook dan Modify untuk mengubah isi workbook. Isikan password pada jenis password yang Anda inginkan. Excel akan meminta Anda memasukkan password satu kali lagi pada kotak dialog Confirm password, hal ini dilakukan untuk memastikan Anda tidak melakukan kesalahan dalam pengisian password. Lalu klik OK.
+Sekarang jika Anda membuka workbook Anda, Anda harus memasukkan password terlebih dahulu, jika salah workbook Anda tidak akan terbuka. Untuk membuka proteksinya, lakukan hal yang sama ketika mebuat proteksi hanya saja kosongkan isian pada password.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+35
+
+3. Manajemen Worksheet dan Workbook
+
+Excel memberikan berbagai fasilitas yang memungkinkan Anda untuk mengatur worksheet dan workbook sehingga Anda lebih optimal dan efisien dalam bekerja dengan Excel. Dalam pembahasan ini file yang digunakan adalah Bab3_Manajemen Worksheet&Workbook.xlsx.
+3.1. Mengisi Data Secara Otomatis ke Dalam Cell
+Jika Anda sering menuliskan kata atau kalimat panjang berulang-ulang setiap waktu seperti nama perusahaan atau nama barang, Excel memberikan kemudahan bagi Anda untuk mempercepat menuliskan kata atau kalimat tersebut sehingga Anda tak perlu lagi menuliskannya begitu panjang. Caranya adalah sebagai berikut :
+Klik Office Button lalu pilih Excel Options sehingga muncul kotak dialog Excel Options. Pada tab Proofing, klik AutoCorrect Options sehingga muncul kotak dialog AutoCorrect.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+36
+
+Pada kotak dialog AutoCorrect tab AutoCorrect, isikan inisial atau singkatan yang akan Anda pakai ketika menulis di Cell pada kotak isian Replace, dan isikan kata atau kalimat yang ingin dimunculkan ketika Anda menulis inisial atau singkatan tadi pada kotak isian With. Contohnya, untuk mempercepat penulisan PT ValueStream International Anda cukup tuliskan singkatan `vsi pada cell. Klik Add, lakukan hal serupa untuk singkatan selanjutnya. Jika sudah tekan OK. Sekarang coba tuliskan `vsi pada salah satu cell, ketika Anda menekan Enter singkatan `vsi tadi berubah menjadi PT ValueStream International.
+Untuk meneruskan kembali penulisan Anda, tempatkan kembali penunjuk cell di B6, lalu tekan F2 pada keyboard.
+3.2. Menggabungkan Worksheet
+Jika Anda sering bekerja dengan workbook yang memiliki format worksheet yang sama, adakalanya worksheet tersebut Anda modifikasi sesuai dengan kebutuhan. Namun untuk perubahan yang sedikit akan dirasa begitu banyak jika worksheet Anda berjumlah belasan atau bahkan puluhan. untuk mengatasinya, Excel menyediakan fasilitas Grouping Sheet yang memudahkan Anda memodifikasi beberapa sheet sekali dalam satu waktu. Caranya adalah seperti berikut :
+Pilih Sheet mana saja yang akan Anda modifikasi, caranya dengan klik sheet tersebut
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+37
+
+sambil menekan tombol Ctrl pada keyboard. Jika seluruh sheet yang akan Anda modifikasi, cukup klik kanan pada salah satu sheet lalu pilih Select all sheets.
+
+Pada title bar akan muncul kata [Group] pada akhir nama Workbook. Ini menunjukkan seluruh atau beberapa sheet sedang dipilih.
+
+Setelah itu Anda dapat melakukan modifikasi, seperti mengganti isi cell, shading, edit formula, insert atau delete baris dan kolom dan yang lainnya. Sebagai contoh, lakukan modifikasi berikut :  Ganti kata Daily Transaction menjadi Transaksi Harian.  Ganti warna font judul kolom (A4:G4) menjadi warna putih.  Pada cell B5 tambahkan kata Saldo Awal.  Sisipkan Kolom Referensi antara kolom F (Keluar) dengan Kolom G (Jumlah).
+Sehingga tampilannya menjadi seperti ini :
+Sekarang perhatikan pada tiap sheet, perubahan yang tadi Anda buat juga terjadi pada seluruh sheet. Tapi pada mode grouping ini, fitur Conditional Formatting dan Format as Table dan seluruh fitur di tab Data dan Insert (kecuali Header&Footer) tidak dapat digunakan. Untuk mengakhiri mode grouping ini, klik di salah satu nama sheet dan pastikan kata [Group] telah hilang dari title bar.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+38
+
+3.3. Menambahkan Header dan Footer pada Workbook
+Anda dapat memberikan keterangan tambahan pada workbook Anda dengan menggunakan Header dan Footer seperti tanggal dan waktu, halaman, lokasi penyimpanan workbook, nama workbook dan gambar. Cara membuatnya yaitu :
+Pada tab Page Layout, kategori Page Setup klik icon panah di sebelah kanan bawah.
+
+Ketika muncul kotak dialog Page Setup, pilih tab Header/Footer, lalu klik button Custom Header atau Costum Footer sesuai keinginan Anda sehingga akan muncul kotak dialog Header atau Footer.
+
+Keterangan yang dapat ditambahkan yaitu nomor halaman, jumlah halaman, tanggal, waktu, lokasi penyimpanan, nama file, nama sheet dan gambar. Ada beberapa section yang ditawarkan, Anda dapat memilih tambahan informasi tersebut ingin ditempatkan di sebelah kiri, tengah atau kanan. Sebagai contoh, pada header tambahkan nama workbook di left section, nama sheet di center section dan tanggal di right section, klik OK. Sehingga tampilan pada kotak dialog Header dan workbook akan menjadi seperti ini :
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+39
+
+3.4. Menyimpan Workbook dalam format PDF/XPS
+Excel dapat menyimpan workbook Anda menjadi format PDF atau XPS yang memudahkan Anda untuk medistribusikannya secara elektronik. Caranya adalah seperti berikut ini :
+Tentukan workbook mana yang akan Anda simpan dengan format PDF/XPS Pada Office Button pilih Save As > PDF or XPS sehingga akan muncul kotak dialog Save As. Sebagai contoh simpan workbook Anda dengan format PDF.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+40
+
+Tentukan dimana Anda akan menyimpannya, dan klik button Options....
+
+Pada kotak dialog Options tentukan pada area mana Anda akan menyimpan menjadi format PDF, lalu klik OK dan Publish.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+41
+
+Setelah proses Publishing, dokumen dengan format PDF akan terbuka secara otomatis dan tampilannya akan seperti berikut ini :
+
+3.5. Workspace
+Workspace adalah fasilitas Excel yang memungkinkan Anda untuk menyimpan berbagai workbook dalam satu file yang berformat *.xlw. Dengan fasilitas ini Anda tidak perlu membuang ­ buang waktu hanya untuk mencari dan membuka workbook ­ workbook tersebut. Caranya adalah sebagai berikut:
+Buka semua workbook yang Anda inginkan. Pada tab View kategori Window Klik Save Workspace sehingga muncul kotak dialog save Workspace.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+42
+
+Pada kotak isian File Name, ketikkan nama workspace yang Anda inginkan. Untuk memudahkan, beri nama yang masih berhubungan workbook ­ workbook di dalamnya. Pilih tempat dimana workspace tersebut akan disimpan, lalu Klik Save.
+
+Untuk membuktikannya, tutup semua workbook yang dibuka tadi. Lalu buka Workspace yang baru saja Anda buat. Ketika workspace terbuka Excel akan menampilkan workbook ­ workbook tadi.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Manajemen Worksheet dan Workbook
+
+43
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+44
+
+4. Fungsi Lanjutan Pada Excel 2007
+
+Dalam aplikasi Excel, untuk mempermudah proses penghitungan data ataupun analisa data, Anda dapat menggunakan rutin penghitungan dengan pola tertentu yang spesifik. Rutin ini lazim disebut dengan rumus / formula / ekspresi yang akan menjalankan perhitungan atas data-data Anda berdasarkan kriteria tertentu yang Anda tetapkan sendiri.
+
+Namun sebelum mempelajari tentang rumus ini, ada beberapa istilah dasar yang harus selalu Anda perhatikan saat bekerja dengan rumus, yaitu sebagai berikut.
+AutoFill - Proses penyalinan rumus untuk lokasi data yang konsisten / tetap, dimana Excel akan menambahkan alamat cell dengan nilai 1. Range ­ Penulisan alamat cell yang diapit tanda kurung serta dibatasi tanda ":", menunjukan alamat cell awal menuju alamat cell akhir atau alamat cell pada ujung kiri atas menuju alamat cell pada ujung kanan bawah (cell awal : cell akhir). Sel Absolut - Fasilitas penguncian alamat cell pada Excel. Ditandai dengan penggunaan karakter dollar "$" didepan nama kolom atau nomor barisnya.
+
+4.1.
+4.1.1.
+
+Fungsi Dasar
+Berikut ini merupakan fungsi dasar yang sering digunakan dalam aplikasi Excel. Dalam pembahasan ini, file yang digunakan adalah Bab4_Fungsi Lanjutan.xlsx.
+SUM Digunakan untuk menjumlahkan data pada range tertentu. Penulisan rumus nya adalah :
+=SUM(range)
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+45
+
+4.1.2.
+
+AVERAGE Digunakan untuk menghitung nilai rata ­ rata dari data pada range tertentu. Penulisan rumusnya adalah :
+=AVERAGE(range)
+
+4.1.3.
+
+COUNT Digunakan untuk menghitung jumlah data pada range tertentu. Penulisan rumusnya adalah :
+=COUNT(range)
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+46
+
+4.1.4.
+
+MAX / MIN Digunakan untuk mengitung nilai maksimun atau minimum dari data pada range tertentu. Penulisan rumusnya adalah :
+=MAX(range) atau =MIN(range)
+
+4.1.5.
+
+SUMIF Digunakan untuk menjumlahkan data dengan kriteria tertentu. Penulisan rumusnya adalah :
+=SUMIF(range kriteria;kriteria;range data)
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+47
+
+4.1.6.
+
+COUNTIF Digunakan untuk menghitung jumlah data dengan kriteria tertentu. Penulisan rumusnya adalah :
+=COUNTIF(range kriteria;kriteria)
+
+4.1.7.
+
+IF Digunakan untuk menentukan keputusan berdasarkan kondisi tertentu. Menggunakan nilai True jika kondisi benar (terpenuhi) dan False jika kondisi salah (tidak terpenuhi). Penulisan rumusnya adalah :
+=IF(kondisi;nilai jika kondisi benar;nilai jika kondisi salah)
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+48
+
+4.1.8.
+
+Vlookup Digunakan untuk mengisi data berdasarkan data pada tabel lain atau tabel referensi yang disusun berdasarkan kolom / memanjang ke bawah secara vertikal. Penulisan rumusnya adalah :
+=VLOOKUP(nilai kunci; tabel referensi; nomor index kolom; tipe).
+
+4.1.9.
+
+Hlookup Digunakan untuk mengisi data berdasarkan data pada tabel lain atau tabel referensi yang disusun berdasarkan baris / memanjang ke samping secara horizontal. Penulisan rumusnya adalah :
+=HLOOKUP(nilai kunci; tabel referensi; nomor index kolom; tipe).
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+49
+
+4.2. Penggabungan Fungsi
+Untuk memudahkan pekerjaan Anda dalam Excel, Anda dapat menggabungkan beberapa fungsi sekaligus. Namun, ada beberapa fungsi yang tidak dapat digabungkan penggunaannya dengan fungsi yang lain dan ada juga beberapa fungsi yang memang harus digabungkan penggunaannya dengan fungsi yang lain. Berikut beberapa contohnya. Penggabungan fungsi VLOOKUP dengan perkalian
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+50
+
+Penggabungan fungsi SUMIF dan VLOOKUP dengan pengurangan
+
+4.3.
+4.3.1.
+
+Fungsi Lanjutan
+
+Fungsi Logika OR
+Fungsi logika OR digunakan untuk membandingkan 2 buah kondisi. Fungsi ini akan menghasilkan nilai TRUE jika semua kondisi atau salah satu kondisi terpenuhi, dan akan menghasilkan nilai FALSE jika semua kondisi tidak terpenuhi. Untuk lebih jelasnya perhatikan tabel berikut ini :
+
+Kondisi 1 Ya Ya
+Tidak Tidak
+
+Kondisi 2 Ya
+Tidak Ya
+Tidak
+
+Nilai (OR) TRUE TRUE TRUE FALSE
+
+Fungsi logika OR digabungkan penggunaannya dengan fungsi IF. Aturan penulisannya adalah sebagai berikut :
+
+=IF(OR(kondisi 1;kondisi 2);nilai untuk kondisi TRUE;nilai untuk kondisi FALSE)
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+51
+
+4.3.2.
+
+Fungsi Logika AND
+Fungsi logika AND juga digunakan untuk membandingkan 2 buah kondisi. Fungsi ini akan menghasilkan nilai TRUE jika semua kondisi terpenuhi, dan akan menghasilkan nilai FALSE jika semua kondisi atau salah satu kondisi tidak terpenuhi. Untuk lebih jelasnya perhatikan tabel berikut ini.
+
+Kondisi 1 Ya Ya
+Tidak Tidak
+
+Kondisi 2 Ya
+Tidak Ya
+Tidak
+
+Nilai (OR) TRUE FALSE FALSE FALSE
+
+Fungsi logika AND juga digabungkan penggunaannya dengan fungsi IF. Aturan penulisannya adalah sebagai berikut :
+
+=IF(AND(kondisi 1;kondisi 2);nilai untuk kondisi TRUE;nilai untuk kondisi FALSE)
+
+4.3.3.
+
+Fungsi Tanggal Digunakan untuk data yang berhubungan dengan penanggalan. Penulisan rumusnya
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+52
+
+dapat dilihat pada tabel berikut :
+Fungsi Tanggal =TODAY() =NOW() =DATE(year; month; day) =DAY(A1) =MONTH(A1) =YEAR(A1)
+
+Keterangan Tanggal saat ini diambil dari sistem Tanggal dan jam saat ini diambil dari sistem Memasukkan format tanggal Mengambil data hari dari sel A1 Mengambil data bulan dari sel A1 Mengambil data tahun dari sel A1
+
+4.3.4.
+
+Fungsi Waktu
+Digunakan untuk data yang berhubungan dengan waktu. Penulisan rumusnya dapat dilihat pada tabel berikut :
+
+Fungsi Waktu =TIME(jam;menit;detik) =HOUR(A1) =MINUTE(A1) =SECOND(A1)
+
+Keterangan Memasukkan format waktu saja Mengambil data jam dari sel A1 Mengambil data menit dari sel A1 Mengambil data detik dari sel A1
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+53
+
+4.3.5.
+
+Fungsi Pembulatan
+Digunakan untuk membulatkan nilai sesuai dengan aturan tertentu yang dapat Anda tentukan sendiri. Aturan penulisan fungsi ini dapat dilihat pada tabel berikut :
+
+Fungsi Pembulatan =INT(number) =ROUND(number; num_digits) =ROUNDUP(number; num_digits)
+=ROUNDDOWN(number; num_digits)
+
+Keterangan Pembulatan nilai ke bawah dari suatu angka Pembulatan nilai numerik berdasarkan digit tertentu Pembulatan ke atas nilai numerik berdasarkan digit tertentu Pembulatan ke bawah nilai numerik berdasarkan digit tertentu
+
+Keterangan :
+Number : Nilai dari suatu data angka Num_Digits : Jumlah digit yang kita inginkan dari hasil pembulatan
+
+4.3.6.
+
+Fungsi Teks
+Digunakan untuk mengambil sebagian data teks dari suatu cell. Ada 3 buah fungsi teks yang umum digunakan, yaitu LEFT, RIGHT dan MID, perbedaannya dapat dilihat pada
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+54
+
+tabel berikut :
+
+Fungsi Teks Fungsi LEFT Fungsi RIGHT
+Fungsi MID
+
+Keterangan Mengambil sebagian data teks dimulai dari karakter paling kiri. Mengambil sebagian data teks dimulai dari karakter paling kanan. Mengambil sebagian data teks dimulai dari karakter tengah yang ditentukan posisinya terlebih dahulu.
+
+Aturan Penulisan
+=LEFT(data; jumlah karakter)
+=RIGHT(data; jumlah karakter)
+=MID(data; posisi awal karakter; jumlah karakter)
+
+4.4. Define Name
+Digunakan untuk memberi nama pada cell atau range sehingga memudahkan Anda untuk menuliskan formula atau rumus dan menghindari kesalahan menyorot ketika menentukan range dalam formula. Dalam penamaan cell atau range yang terdiri dari dua kata atau lebih, gunakan tanda underscore "_" untuk memisahkan tiap kata. Caranya adalah sebagai berikut :
+Sorot cell atau range yang ingin diberi nama. Cara tercepat adalah pada Name Box (di sebelah kiri formula bar) isikan nama cell atau range yang Anda inginkan.
+
+Sehingga pada penulisan rumus perolehan excel adalah bukan lagi =SUM(C7:C10) Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Fungsi Lanjutan Pada Excel 2007
+
+55
+
+melainkan =SUM(penjualan_excel). Untuk mengelola penamaan cell dan range, Anda dapat melakukannya di Name Manager yang terletak di tab Formula kategori Defined Names. Atau dengan cara cepat menekan kombinasi tombol Ctrl + F3 pada keyboard.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+56
+
+5. MANAJEMEN DATA PADA EXCEL 2007
+
+Excel dapat menangani tabel data yang kompleks, diantaranya adalah fasilitas entri data, mengurutkan data, validasi data, analisa data untuk menghitung nilai tertentu dan analisa data untuk menarik kesimpulan dari suatu tabel data.
+Fasilitas manajemen data pada Excel terdapat dalam ribbon Data. Untuk menggunakan perintah manajemen data tersebut, ada beberapa hal yang harus diperhatikan, yaitu :
+Pastikan bahwa data yang berada dalam satu kolom harus sejenis. Kolom yang berisi data sejenis tersebut dinamakan Field Setiap field harus mempunyai judul kolom atau nama field. Isi dari setiap field dinamakan Record. Judul tabel data tidak boleh berdampingan dengan tabel datanya, minimal terdapat satu baris kosong diantaranya.
+Anda tidak perlu menyorot seluruh range jika hendak menggunakan perintah dalam menu data, cukup klik mouse pada salah satu sel yang masih berada dalam range data lalu pilih perintah yang sesuai. Dalam pembahasan ini, file yang digunakan adalah Bab5_Manajemen Data.xlsx.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+57
+
+5.1. Sort
+Sort adalah perintah untuk mengurutkan data berdasarkan kondisi tertentu. Cara menggunakannya adalah sebagai berikut:
+Pastikan penunjuk cell berada di dalam range data. Pada tab Data kategori Sort & Filter pilih Sort, sehingga muncul kotak dialog Sort.
+
+Keterangan kotak dialog Sort :  Add Level : digunakan untuk menambah level pengurutan untuk mengurutkan
+data secara bertingkat.  Delete Level : digunakan untuk menghapus level pengurutan.  Copy Level : digunakan untuk mengkopi jenis urutan.  Option : digunakan untuk memilih arah pengurutan .
+Sort Top to Bottom untuk mengurutkan data dari atas ke bawah (berdasarkan Kolom). Sort Left to Right untuk mengurutkan data dari kiri ke kanan (berdasarkan Baris).  My Data Has Headers: jika Anda menceklis bagian ini, nama field akan ditampilkan pada list Sort by, jika Anda menghilangkan ceklisnya, nama kolom yang akan ditampilkan pada list Sort by.  Sort By : berisikan daftar nama field atau nama kolom yang menjadi acuan pengurutan data. Sebagai contoh, untuk mengurutkan Tanggal Lahir dari waktu terlampau sampai waktu terkini, pilih field Tanggal Lahir dan pastikan pada bagian List Order terpilih Oldest to Newest, lalu tekan OK.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+58
+
+Perhatikan tampilan data berubah sesuai dengan urutan tanggal lahir terlampau ke terkini.
+
+Sebagai contoh pengurutan bertingkat, Anda dapat mencoba mengurutkan data berdasarkan Nama dan Tanggal Lahir.
+Pilih field Nama pada list Sort by, pastikan pada list Order adalah A to Z. Klik Add Level, lalu pilih Tanggal Lahir pada list Then by dan pastikan pada list Order adalah Oldest to Newest. Tekan OK.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+59
+
+Sehingga tampilan data nampak seperti berikut ini :
+
+5.2.
+5.2.1.
+
+Filter
+Filter adalah perintah untuk menyaring data dengan kriteria tertentu. Ada dua metode yang bisa digunakan, yaitu AutoFilter dan Advanced Filter.
+AutoFilter AutoFilter akan menyaring data secara otomatis. Cara menggunakannya yaitu:
+Pada tab Data kategori Sort & Filter, klik Filter.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+60
+
+Perhatikan pada tabel data Anda. Muncul panah kecil di sebelah kanan tiap nama field. Tombol panah kecil tersebut digunakan untuk menyaring data pada field yang bersangkutan. Pilih bagian data yang ingin Anda saring melalui tombol panah kecil tersebut.
+
+Untuk mengembalikan semua data, pilih Select All. Untuk menonaktifkan fasilitas Autofilter pada data Anda, klik kembali toggle button Filter pada tab Data kategori Sort & Filter.
+
+5.2.2.
+
+Advanced Filter Advanced Filter akan menyaring data berdasarkan kriteria tertentu. Anda dapat menyaring data dengan lebih akurat dengan menggunakan perintah ini.
+Caranya adalah sebagai berikut :
+Pada file "Bab5_Manajemen Data.xlsx" lalu pilih sheet Advanced Filter.
+Copy-Paste Nama Field dan satu baris dibawahnya ke bagian lain dalam sheet tersebut, lalu hapus Record-nya.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+61
+
+Isikan kriteria penyaringan pada tabel tersebut. Sebagai contoh, jika Anda ingin melihat semua mahasiswa jurusan Akuntansi, maka ketikan Akuntansi pada sel E23, yaitu dibawah field JURUSAN. Pada tab Data kategori Sort & Filter, klik Advanced sehingga muncul kotak dialog Advanced Filter.
+Pada kotak dialog Advanced Filter ada beberapa bagian, yaitu :  Pada bagian Action, aktifkan Filter the list, in-place agar hasil penyaringan
+diletakan pada sheet yang sama. Pilihan Copy to another location digunakan untuk menempatkan hasil penyaringan di tempat lain.  List range, adalah range data asli yang akan disaring, umumnya sudah terisi.  Criteria range, isikan dengan range tabel hasil Copy-Paste pada langkah ke-2. Klik OK.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+62
+
+Hasil yang ditampilkan seperti berikut :
+
+Untuk menonaktifkan fasilitas Advanced Filter, pada tab Data kategori Sort & Filter, klik Clear.
+5.3. Form
+Form adalah fasilitas untuk menyunting atau mengedit data dengan menggunakan kotak dialog khusus, yaitu kotak dialog Form. Fasilitas ini sangat berguna untuk menangani proses entri data dalam suatu tabel data yang kompleks. Namun Anda harus menampilkan button Formnya terlebih dahulu, caranya adalah sebagai berikut :
+Klik Office Button > Excel Options.
+
+Ketika muncul kotak dialog Excel Options pilih tab Costumize. Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+63
+
+Pilih Command Not in the Ribbon pada list Choose Command from, dan pilih button Form pada list button lalu klik Add dan OK.
+
+Sekarang button Form telah berada di Quick Access Toolbar. Cara menggunakan button Form yaitu :
+Pastikan penunjuk cell berada di dalam range data. Klik button Form pada Quick Access Toolbar, sehingga muncul kotak dialof Form dengan nama sesuai dengan nama sheet data tersebut.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+64
+
+Perhatikan bahwa pada kotak dialog ini Anda dapat merubah setiap Record data dengan mudah.  New - untuk membuat Record baru.  Delete - untuk menghapus Record.  Restore - untuk membatalkan perubahan Record.  Find Prev - untuk melihat field sebelumnya.  Find Next - untuk melihat field selanjutnya.  Criteria - untuk membatasi Record dengan kriteria tertentu.  Close - untuk menutup kotak dialog Form.
+5.4. Validation
+Validation adalah fasilitas untuk mengatur keabsahan data. Fasilitas ini sangat berguna dalam menangani suatu tabel data yang memiliki Record tetap atau berdasarkan kriteria tertentu. Caranya adalah sebagai berikut :
+Pada file Bab5_Manajemen Data.xlsx lalu pilih sheet Validation. Tentukan range data yang akan diberi validasi, sebagai contoh :  Field NAMA, hanya boleh diisi dengan teks maksimal 25 karakter.  Field JURUSAN, hanya boleh diisi dengan Informatika, Bisnis dan Akuntansi.  Field BEASISWA, hanya boleh diisi dengan bilangan 3.500.000 s/d 5.000.000.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+65
+
+Untuk mengatur validasi field NAMA, sorot range dibawah field NAMA, yaitu C5:C20. Pada tab Data kategori Data Tools pilih Data Validation.
+
+Ketika kotak dialog Validation tampil, pada tab Settings, bagian Validation criteria, lakukan pengaturan sebagai berikut :  Allow : Text Lenght  Data : Less than or equal to  Maximum : 25
+
+Tab Input Message digunakan untuk menampilkan informasi singkat atau panduan untuk mengisi Record pada field NAMA.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+66
+
+Tab Error Alert digunakan untuk menampilkan pesan kesalahan saat terjadinya kesalahan dalam proses pengisian data.
+Tekan tombol Ok jika telah selesai. Hasil akhirnya tampak seperti berikut ini. Jika Anda pilih sel pada field NAMA maka Excel akan menampilkan informasi yang telah Anda buat sebelumnya.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+67
+
+Jika Anda salah mengisi data, maka Excel akan menampilkan pesan kesalahan sesuai dengan aturan yang telah Anda tentukan sebelumnya.
+Untuk mengatur validasi field JURUSAN, buat terlebih dahulu tabel Jurusan pada sel C22:C25 lalu isikan dengan Informatika, Bisnis serta Akuntansi. Contohnya seperti berikut ini.
+Sorot range dibawah field JURUSAN, yaitu E5:E20. Pilih tab Data kategori Data Tools pilih Data Validation hingga kotak dialog Data Validation tampil. Pada tab Settings, bagian Validation criteria, lakukan pengaturan sebagai berikut :  Allow : List Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+ Source : =$C$23:$C$25
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+68
+
+Tekan tombol OK jika telah selesai. Perhatikan hasilnya. Pada field JURUSAN Anda hanya dapat mengisi data dengan memilih dari drop-down menu yang tampil.
+Untuk mengatur validasi field BEASISWA, sorot range dibawah field BEASISWA, yaitu cell F5:F20. Pada tab Data kategori Data Tools pilih Data Validation hingga kotak dialog Data Validation tampil. Pada tab Settings, bagian Validation criteria, lakukan pengaturan sebagai berikut :  Allow : Date  Data : Between  Minimum : 1/1/2004  End date : 31/12/2004
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+69
+
+Tekan tombol Ok jika telah selesai.
+
+5.5.
+5.5.1.
+
+Subtotals
+Perintah Subtotals digunakan untuk menghitung nilai subtotal dan grand total (total keseluruhan) data dengan kriteria tertentu.
+Subtotal Tunggal Digunakan untuk menghitung nilai subtotal dan grand total berdasarkan satu kriteria saja. Caranya adalah sebagai berikut :
+Pada file Bab5_Manajemen Data.xlsx lalu pilih sheet Subtotals.
+Pada sheet tersebut terdapat tabel data penjualan laptop selama 1 tahun. Misalkan Anda akan menghitung nilai subtotal penjualan ponsel tiap Merk Barang, maka urutkan data berdasarkan field Merk Barang dengan menggunakan perintah Sort yang telah dibahas sebelumnya.
+Pada tab Data kategori Outline pilih Subtotals.
+
+Kotak dialog Subtotals akan ditampilkan. Ada beberapa seting yang harus Anda atur pada kotak dialog ini, yaitu :  At each change in - Untuk memilih nama field yang dijadikan kriteria
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+70
+
+perhitungan.  Use function - Untuk memilih fungsi yang digunakan dalam perhitungan subtotal.  Add subtotal to - Untuk memilih nama field data yang akan dihitung subtotalnya.  Replace current subtotals - Untuk mengganti hasil perhitungan dengan subtotal
+yang baru.  Page break between groups - Untuk menempatkan setiap kelompok data
+subtotal pada halaman terpisah saat dicetak dengan printer.  Summary below data - Untuk menampilkan hasil perhitungan subtotal dibawah
+tabel data.  Remove All - Untuk menghapus subtotals.
+
+Sebagai contoh, atur bagian-bagian dalam kotak dialog tersebut sebagai berikut :  At each change in : Merk Barang  Use function : Sum  Add subtotal to : Total  Replace current subtotals : aktif  Page break between groups : aktif  Summary below data : aktif Tekan tombol OK untuk mengakhiri. Perhatikan hasilnya seperti gambar berikut. Disisi kiri worksheet muncul Outline Bar yang berfungsi untuk mengatur tampilan data. Anda dapat mengubahnya dengan menggunakan tombol + (plus) dan ­ (minus), atau gunakan tombol 1, 2 dan 3 :  Tombol 1 - Untuk menampilkan nilai Grand Total saja.  Tombol 2 - Untuk menampilkan nilai SubTotal dan Grand Total.  Tombol 3 - Untuk menampilkan nilai SubTotal dan Grand Total berikut tabelnya.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+71
+
+5.5.2.
+
+Subtotal Bertingkat
+Digunakan untuk menghitung nilai subtotal dan grand total berdasarkan beberapa kriteria sekaligus. Caranya adalah sebagai berikut :
+Masih pada sheet yang sama, hapus subtotal yang telah dibuat sebelumnya dengan menggunakan tombol Remove All pada kotak dialog Subtotals. Misalkan Anda akan menghitung nilai subtotal dan grand total berdasarkan Merk Barang dan Kota, maka urutkan data berdasarkan field Merk Barang kemudian Kota dengan menggunakan perintah Sort yang telah dibahas sebelumnya. Pada tab Data kategori Outline > Subtotals hingga kotak dialog Subtotals ditampilkan. Atur seting dalam kotak dialog tersebut sebagai berikut :  At each change in : Merk Barang  Use function : Sum  Add subtotal to : Total  Replace current subtotals : aktif
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+72
+
+ Page break between groups : aktif  Summary below data : aktif
+
+Tekan tombol OK untuk mengakhiri. Tampilkan kembali kotak dialog Subtotals lalu atur setingnya sebagai berikut :  At each change in : Kota  Use function : Sum  Add subtotal to : Total  Replace current subtotals : Non Aktif  Page break between groups : Aktif
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+73
+
+Tekan tombol OK untuk mengakhiri. Contoh hasil akhirnya tampak seperti gambar berikut ini.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+74
+
+5.6. Charts
+Charts adalah fasilitas untuk menyajikan kesimpulan data dalam bentuk grafik. Cara menggunakannya adalah sebagai berikut :
+Pada file Bab5_Manajemen Data.xlsx pilih sheet Charts.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+75
+
+Klik pada salah satu cell di dalam tabel. Pada tab Insert kategori Charts pilih salah satu model grafik yang Anda inginkan. Sebagai contoh pilih 3D Clustered Column.
+
+Grafik sederhana ditampilkan.
+Sampai tahap ini Anda telah membuat kesimpulan dari tabel Data Penjualan Laptop. Anda dapat mempercantik tampilan grafik Anda dengan menggunakan beberapa tools yang tersedia pada Charts Tools. Berikut tools utama yang sering dipergunakan Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+76
+
+untuk mengelola grafik Anda. Pada Charts Tools tab Design ada beberapa tools yang digunakan untuk mengatur bentuk, tampilan dan lokasi grafik.
+
+ Change Chart Type : digunakan untuk mengubah model grafik, ketika Anda memilihnya maka akan muncul kotak dialog Change Chart Type yang berisi jenis ­ jenis grafik dan Anda bebas memilih sesuai keinginan.
+
+ Switch Row/Column : digunakan untuk menukar data row ke column dan sebaliknya. Sehingga jika Anda menggunakan fasilitas ini, tampilan akhir dari grafik adalah seperti berikut ini :
+ Select Data : digunakan untuk mengganti atau mengubah data sumber dari grafik Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+77
+
+tersebut.  Chart Style : digunakan untuk mengatur tampilan grafik.  Move Chart : digunakan untuk menentukan lokasi grafik. Sebagai contoh, pada Chart Style pilih style 34 dan pindahkan grafik ke sheet baru. Sehingga tampilannya seperti berikut ini :
+
+Pada Charts Tools tab Layout ada beberapa tools yang digunakan untuk mengatur tampilan grafik lebih rinci lagi.
+ Pada kategori Insert berisi fasilitas untuk menyisipkan gambar, shape dan text Box.
+ Pada kategori Labels berisi fasilitas untuk menambahkan judul grafik, judul sumbu, keterangan grafik, label data dan tabel.
+ Pada kategori Axes berisi fasilitas yang mengatur sumbu dan garis kisi.  Pada kategori Background berisi fasilitas yang mengatur latar belakang grafik.  Pada kategori Properties berisi fasilitas untuk mengatur nama grafik. Sebagai contoh, tambahkan beberapa label pada grafik :  Berikan judul grafik "Penjualan Laptop Periode Januari ­ Maret".  Tempatkan Legend grafik berada di bawah grafik dan perjelas dengan
+memperbesar dan menebalkan tulisannya.  Tampilkan data label pada grafik.  Beri latar belakang Gradient Fill Silver. Sehingga tampilan akhirnya akan menjadi seperti ini :
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+78
+
+Untuk menambahkan judul grafik caranya adalah sebagai berikut:  Pada tab Layout kategori Labels pilih Chart Title > Above Chart, lalu tuliskan
+judulnya pada formula bar jika sudah tekan Enter.
+Untuk menempatkan legend grafik dibawah grafik caranya adalah sebagai berikut : Pada tab Layout kategori Labels pilih Legend > Show Legend at Bottom, lalu tuliskan perbesar dan pertebal tulisannya.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+79
+
+Untuk menampilkan data label pada grafik caranya adalah sebagai berikut :  Pada tab Layout kategori Labels pilih Data Labels > Show.
+
+Untuk memberikan latar belakang caranya adalah sebagai berikut :  Pada tab Layout kategori Background pilih Chart Wall > More Walls Options.
+ Kotak dialog Format Walls ditampilkan. Pada tab Fill pilih Gradient fill dan pada preset colors pilih silver. Jika sudah klik Close.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+80
+
+5.7. Pivot Table
+Pivot Table digunakan untuk membuat kesimpulan dari berbagai sudut pandang pada suatu tabel dalam Excel. Fasilitas ini digunakan terutama pada analisa data yang kompleks.
+Cara menggunakan fasilitas ini adalah sebagai berikut :
+Pada file Bab5_Manajemen Data.xlsx pilih sheet Pivot Table.
+
+Klik pada salah satu cell didalam tabel. Pada tab Insert klik PivotTable, hingga muncul kotak dialog Create Pivot Table.
+
+Pada bagian Choose the data thay you want to analyze ada 2 pilihan, yaitu :  Select a table or range : umumnya sudah terisi karena sebelumnya kita telah
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+81
+
+menempatkan penunjuk cell pada salah satu cell di dalam tabel.  Use an external data source : data yang akan di analisa oleh Excel berasal dari
+luar seperti Access, Web atau data source lainnya. Pada bagian Choose where you want the pivotTable report to be placed ada 2 pilihan, yaitu:  New Worksheet : untuk menempatkan report PivotTable pada sheet baru.  Existing Worksheet : untuk menempatkan report PivotTable pada sheet yang
+sama dengan memilih lokasinya di bagian Location. Biarkan kotak dialog seperti pada saat muncul lalu klik OK. Perhatikan pada workbook Anda, secara otomatis Excel akan menyisipkan sheet baru yang berisikan beberapa elemen, yaitu :  Layout PivotTable ­ Bidang utama Pivot Table.  Kotak dialog PivotTable Field List - Berisikan field-field dalam tabel yang telah
+dipilih sebelumnya.
+
+Layout PivotTable yang masih kosong dapat Anda isi dengan cara drag & drop fieldfield yang tersedia dalam PivotTable Field List ke Area Section yang diinginkan, yaitu:  Report Filter - Digunakan untuk menyaring seluruh laporan berdasarkan item
+yang dipilih dalam Report Filter.  Column Labels - Digunakan untuk menampilkan kolom seperti kolom di bagian
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+82
+
+atas laporan.  Row Labels - Digunakan untuk menampilkan kolom
+seperti baris pada sisi laporan.  Value - Digunakan untuk menampilkan akumulasi data numerik. Sebagai contoh, ikuti langkah berikut ini :  Drag field Jenis Barang ke bagian Report Filter.  Drag field Bulan ke bagian Column Labels.  Drag field Nama Barang ke bagian Row Labels.  Drag field Terjual ke bagian Value. Contoh hasil akhirnya tampak seperti berikut ini.
+
+Sampai dengan tahap ini, Anda telah dapat membuat kesimpulan dari suatu tabel data pada Excel dengan menggunalan fasilitas PivotTable. Untuk mempercantik tampilan Report PivotTable Anda, di PivotTable Tools Option dan Design.
+5.8. PivotChart
+Pivot Chart digunakan untuk membuat kesimpulan berbentuk grafik pada suatu tabel dalam Excel. Fasilitas ini digunakan terutama pada analisa data yang kompleks. PivotCharts berhubungan erat dengan PivotTable karena PivotChart mengambil data dari PivotTable yang telah dibuat sebelumnya. Sehingga setelah Anda selesai membuat pivotTable tadi, Anda dapat langsung membuat PivotChart dengan cara :
+Pada PivotTable Tools tab Options kategori Tools pilih PivotChart.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+MANAJEMEN DATA PADA EXCEL 2007
+
+83
+
+Kotak dialog Insert Chart ditampilkan, pilih jenis grafik yang Anda inginkan lalu klik OK.
+
+Grafik ditampilkan, Anda dapat memindahkan dan mempercantiknya seperti yang telah dijelaskan sebelumnya dengan tools pada PivotChart Tools.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+VBA Macro Excel 2007
+
+84
+
+6.
+
+VBA Macro Excel 2007
+
+Visual Basic Aplication (VBA) adalah program Visual Basic yang disertakan dalam program-program Microsoft Office seperti Microsoft Word, Microsoft Excel, Microsoft Access dan sebagainya.
+Namun dalam penggunaannya VBA menuntut pengguna memahami bahasa pemograman yang menjadi kendala bagi pengguna Excel. Untuk mengatasinya, Excel menyediakan fasilitas Macro Excel yang memungkinkan pengguna melakukan serangkaian pekerjaan tanpa harus menuliskan kode-kode program yang rumit.
+Macro adalah serangkaian perintah dan fungsi yang tersimpan dalam modul Visual Basic dan dapat dijalankan kapanpun dibutuhkan untuk melaksanakan pekerjaan tertentu. Kode-kode program dalam VBA akan tertulis secara otomatis bila kita menggunakan fasilitas Record Macro. Fasilitas ini yang akan dipakai dalam pembahasan, dan file yang dipakai adalah Bab6_Macro Excel 2007.xlm.
+
+6.1.
+6.1.1.
+
+Memulai dengan Macro
+Sebelum bekerja dengan Macro kita perlu mengatur beberapa fasilitas pendukungnya seperti berikut ini :
+Menampilkan Tab Developer pada Ribbon
+Tab Developer merupakan tab yang berisi fasilitas-fasilitas tombol perintah untuk menunjang pekerjaan dengan Macro. Secara default tab developer ini belum ditampilkan pada Ribbon, sehingga Anda harus menampilkannya dengan cara sebagai berikut :
+Klik Office Button lalu pilih Excel Options, sehingga muncul kotak dialog Excel Options. Pada tab Popular bagian Top options for working with Excel, beri tanda ceklis pada Show Developer tab in the Ribbon. Lalu klik OK.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+VBA Macro Excel 2007
+
+85
+
+Tab Developer kini sudah ditampilkan pada Ribbon seperti berikut ini :
+
+6.1.2.
+
+Mengaktifkan Macro Setelah menampilkan tab Developer pada Ribbon, tahap selanjutnya adalah mengaktifkan Macro, caranya adalah sebagai berikut :
+Pada kotak dialog Excel Options pilih tab Trust Center dan klik Trust Center Settings.
+
+Kotak dialog Trust Center ditampilkan. Pada tab Macro Setting bagian Macro Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+VBA Macro Excel 2007
+
+86
+
+6.1.3.
+
+Setting ada beberapa pilihan, yaitu :  Disablle all macros without notification ­ Macro dalam workbook tidak akan
+dijalankan ketika dibuka.  Disable all macros with notofication ­ Excel akan menampilkan kotak dialog
+Microsoft Office Excel Security Notice pada setiap workbook yang mengandung macro dibuka.  Disablle all macro except digitally signed macros - Macro dalam workbook tidak akan dijalankan ketika dibuka.  Enablled al macros (not recommended; potentially dangerous code can run) ­ Macro yang ada pada workbook akan selalu dijalankan, tanpa melalui kotak dialog Microsoft Office Excel Security Notice. Opsi ini tidak direkomendasikan terutama pada macro dalam workbook yang tidak Anda kenal karena berpotensi menimbulkan bahaya. Jika Anda memilih opsi ini ceklist pada pilihan Trust access to the VBA project object model. Untuk pembelajaran pada modul ini, sementara pilih opsi Enablled al macros (not recommended; potentially dangerous code can run) kemudian tekan OK.
+Menyimpan Workbook Macro
+Format XLSX tidak mendukung workbook yang di dalamnya terdapat Macro. Oleh karena itu, anda harus menyimpannya dengan format XLM. Caranya adalah sebagai berikut :
+Klik Office Button > Save As sehingga kotak dialog Save As ditampilkan. Jika anda menyimpannya dengan format tersebut maka akan muncul kotak pesan Microsoft Office Excel seperti berikut ini :
+
+Klik Yes jika Anda ingin menyimpan workbook tanpa Macro, dan klik No untuk menyimpan workbook dengan Macro. Pada kotak dialog Save As isikan nama workbook pada isian File Name dan pilih format Excel Macro-Enabled Workbook (*.xlm) pada isian Save As Type kemudian klik Save.
+6.2. Membuat Macro Sederhana
+Berikut akan dibahas beberapa contoh pembuatan Macro yang fungsinya untuk
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+VBA Macro Excel 2007
+
+87
+
+6.2.1.
+
+mempermudah pekerjaan Anda.
+Macro Berpindah ke Sheet Tertentu
+Dengan Macro ini Anda dapat berpindah ke sheet lain dengan cepat walau jaraknya berjauhan. Caranya adalah sebagai berikut :
+Isi dari file pembahasan ini merupakan data dari Bab4_Fungsi Lanjutan.xlsx yang diubah nama file dan formatnya menjadi .xlm. Buat sheet baru sebelum sheet Fungsi Dasar dengan cara klik kanan sheet fungsi dasar lalu pilih insert, beri nama Menu. Buat tombol ­ tombol sheet sehingga tampilan sheet Menu menjadi seperti ini :
+
+Pada tab Developer kategori Code klik Record Macro sehingga kotak dialog Record Macro ditampilkan.
+
+Pada kotak isian Macro name isikan Sheet_FungsiDasar lalu tekan OK. Setelah itu klik sheet fungsi dasar dan dengan segera klik Stop Recording pada tab Developer kategori Code. Kembali ke sheet Menu dan klik kanan pada kotak Fungsi Dasar lalu pilih Assign Macro. Ketika kotak dialog Assign Macro ditampilka, pilih Macro yang telah Anda buat tadi lalu klik OK.
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+VBA Macro Excel 2007
+
+88
+
+Lakukan hal yang sama pada setiap sheet dan tombol sheet pada sheet Menu. Dengan cara yang sama, buatlah Macro sheet Menu dan buat tombolnya di setiap sheet. Sampai tahap ini Anda sudah membuat tombol Macro untuk berpindah ke sheet tertentu.
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Shortcut Keyboard Excel 2007
+
+89
+
+7. Shortcut Keyboard Excel 2007
+
+Dari seluruh fasilitas yang disediakan oleh Excel, Anda dapat lebih cepat menggunakannya dengan shortcut keyboard. Dengan cara ini, Anda dapat lebih singkat mengakses tombol perintah dan fasilitas lainnya serta lebih cepat dalam menyelesaikan pekerjaan Anda.
+
+7.1. Tombol Shortcut dengan kombinasi CTRL
+
+Tombol CTRL+SHIFT+( CTRL+SHIFT+& CTRL+SHIFT_ CTRL+SHIFT+~
+
+Fungsi Menampilkan Baris yang tersembunyi Membuat border di sekeliling cell yang dipilih menghilangkan border di sekeliling cell yang dipilih Menerapkan format angka General
+
+CTRL+SHIFT+$ CTRL+SHIFT+%
+
+Menerapkan format angka Currency dengan dua angka di belakang koma Menerapkan format angka Percentage
+
+CTRL+SHIFT+^ CTRL+SHIFT+#
+CTRL+SHIFT+@
+CTRL+SHIFT+!
+CTRL+SHIFT+* CTRL+SHIFT+:
+CTRL+SHIFT+" CTRL+SHIFT+Plus (+) CTRL+Minus (-) CTRL+; CTRL+`
+CTRL+'
+
+menerapkan format angka Scientific dengan dua angka di belakang koma Menerapkan format Date dengan format hari, bulan dan tahun Menerapkan format Time dengan format Jam dan menit serta AM atau PM Menerapkan format angka Number dengan dua angka di belakang koma, pemisah ribuan, dan tanda minus (-) untuk nilai negatif Menyorot range yang berisi data, pada PivotTable berfungsi untuk menyorot PivotTable report Memasukkan Waktu saat ini Mengkopi isi dari cell di atas cell yang aktif ke dalam cell tersebut atau ke Formulabar
+Menampilkan Kotak dialog Insert untuk menyisipkan cell kosong Menampilkan kotak dialog Delete untuk menghapus cell yang dipilih Memasukkan tanggal saat ini Menampilkan isi cell atau formula yang terdapat pada worksheet Mengkopi formula dari cell di atas cell yang aktif ke dalam cell tersebut atau ke Formula bar
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Shortcut Keyboard Excel 2007
+
+90
+
+Tombol CTRL+SHIFT+( CTRL+SHIFT+& CTRL+SHIFT_ CTRL+SHIFT+~ CTRL+1 CTRL+2 CTRL+3 CTRL+4 CTRL+5 CTRL+6 CTRL+8 CTRL+9 CTRL+0 CTRL+A
+CTRL+B CTRL+C
+CTRL+D
+CTRL+F CTRL+SHIFT+F CTRL+G
+CTRL+H CTRL+I
+CTRL+K CTRL+L CTRL+N CTRL+O CTRL+SHIFT+O CTRL+P CTRL+SHIFT+P
+CTRL+R
+CTRL+S CTRL+T CTRL+U CTRL+SHIFT+U
+
+Fungsi Menampilkan Baris yang tersembunyi Membuat border di sekeliling cell yang dipilih menghilangkan border di sekeliling cell yang dipilih Menerapkan format angka General Menampilkan Kotak dialog Format Cells Menerapkan atau menghilangkan format Bold Menerapkan atau menghilangkan format Italic Menerapkan atau menghilangkan format Underline Menerapkan atau menghilangkan format Strikethrough Menyembunyikan atau menampilkan objek Menampilkan atau menyembunyikan simbol Outline Menyembunyikan baris yang dipilih Menyembunyikan kolom yang dipilih Menyorot seluruh area worksheet Jika worksheet mengandung data, CTRL+A menyorot range yang berisi data. CTRL+A yang kedua kali menyorot seluruh area worksheet Menerapkan atau menghilangkan format Bold Mengkopi cell yang dipilih Mengkopi isi dari cell paling atas pada suatu range dan menyalinnya ke seluruh cell di bawahnya pada range tersebut
+Menampilkan kotak dialog Find and Replace, dengan tab Find yang dipilih Menampilkan kotak dialog Format Cell dengan tab Font yang dipilih Menampilkan kotak dialog Go To Menampilkan kotak dialog Find and Replace, dengan tab Replace yang dipilih Menerapkan atau menghilangkan format Italic
+Menampilkan kotak dialog Insert Hyperlink untuk membuat hiperlink baru atau menampilkan kotak dialog Edit Hyperlink untuk hyperlink yang dipilih Menampilkan kotak dialog Create table Membuat workbook baru yang kosong Menampilkan kotak dialog Open untuk membuka atau mencari file Menyorot seluruh cell yang mengandung Comment Menampilkan kotak dialog Print Menampilkan kotak dialog Format Cells dengan tab Font yang dipilih Mengkopi isi dan format cell paling kiri pada suatu range dan menyalinnya ke seluruh cell di sebelahnya pada range tersebut Menyimpan file yang aktif dengan nama file, lokasi dan format yang sama pada sebelumnya Menampilkan kotak dialog Create Table Menerapkan atau menghilangkan format Underline Memperbesar atau memperkecil ukuran Formula bar
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Shortcut Keyboard Excel 2007
+
+91
+
+Tombol CTRL+SHIFT+( CTRL+SHIFT+& CTRL+SHIFT_ CTRL+SHIFT+~
+CTRL+V
+CTRL+ALT+V CTRL+W CTRL+X CTRL+Y
+CTRL+Z
+
+Fungsi Menampilkan Baris yang tersembunyi Membuat border di sekeliling cell yang dipilih menghilangkan border di sekeliling cell yang dipilih Menerapkan format angka General Menyisipkan isi dari Clipboard jika Anda telah memotong atau mengkopi objek, teks atau isi cell
+Menampilkan kotak dialog Paste Special jika Anda telah memotong atau mengkopi objek, teks atau isi cell pada worksheet atau program lain Menutup jendela workbook yang aktif Memotong cell yang dipilih Mengulang perintah atau aksi, jika memungkinkan
+Melakukan perintah Undo untuk membatalkan perintah yang dilakukan atau kembali ke kondisi sebelumnya atau menghapus penginputan terakhir yang Anda tulis
+
+7.2. Tombol Function
+
+Tombol F1 CTRL+F1 ALT+F1 ALT+SHIFT+F1 F2 SHIFT+F2 CTRL+F2 F3 SHIFT+F3 F4 CTRL+F4 ALT+F4 F5 CTRL+F5
+F6 SHIFT+F6
+CTRL+F6
+F7
+
+Fungsi Menampilkan Excel help Task Pane Menampilkan atau menyembunyikan Ribbon Membuat Grafik dari data range yang dipilih Menyisipkan worksheet baru Mengedit cell yang aktif dan posisi kursor berada pada akhir isi cell Menambah atau mengedit Comment cell Menampilkan Print Preview area Menampilkan kotak dialog Paste Name Menampilkan kotak dialog Insert Function Mengulang perintah atau aksi terakhir jika memungkinkan Menutup jendela workbook yang aktif Menutup Program Excel Menampilkan kotak dialog Go To Mengembalikan ukuran jendela pada jendela workbook yang dipilih
+Beralih antara worksheet, ribbon, task pane dan zoom control, pada worksheet yang di split beralih antara View menu, Manage This window, Freeze panes, Split Window command Beralih antara worksheet, ribbon, task pane dan zoom control
+Beralih ke workbook selanjutnya ketika lebih dari satu workbook yang dibuka
+Menampilkan kotak dialog Spelling untuk mengecek spelling pada worksheet yang aktif atau pada range yang dipilih
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Shortcut Keyboard Excel 2007
+
+92
+
+Tombol F1 CTRL+F1 ALT+F1 ALT+SHIFT+F1 F2 SHIFT+F2 CTRL+F2 F3 SHIFT+F3
+CTRL+F7
+F8
+SHIFT+F8
+CTRL+F8
+ALT+F8 F9 SHIFT+F9
+
+Fungsi Menampilkan Excel help Task Pane Menampilkan atau menyembunyikan Ribbon Membuat Grafik dari data range yang dipilih Menyisipkan worksheet baru Mengedit cell yang aktif dan posisi kursor berada pada akhir isi cell Menambah atau mengedit Comment cell Menampilkan Print Preview area Menampilkan kotak dialog Paste Name Menampilkan kotak dialog Insert Function
+Mengaktifkan perintah Move pada jendela workbook ketika tidak dalam keadaan maximize. Gunakan tombol panah untuk memindahkan jendela, dan jika selsai tekan Enter atau ESC untuk membatalkan
+Turns extend mode on or off. In extend mode, Extended Selection appears in the status line, and the arrow keys extend the selection.
+enables you to add a nonadjacent cell or range to a selection of cells by using the arrow keys.
+Mengaktifkan mode Extend On atau Off. Pada mode Extend, akan menyorot cell jika tombol panah ditekan
+Menampilkan kotak dialog Macro untuk membuat, menjalankan atau menghapus Macro Mengkalkulasi seluruh worksheet pada seluruh workbook yang aktif Mengkalkulasi worksheet yang aktif
+
+CTRL+ALT+F9
+CTRL+ALT+SHIFT+F9 CTRL+F9 F10
+SHIFT+F10 ALT+SHIFT+F10 CTRL+F10
+F11 SHIFT+F11
+ALT+F11 F12
+
+Mengkalkulasi seluruh worksheet pada seluruh workbook yang aktif, tanpa memperhatikan seluruh data akan berubahsetelah proses kalkulasi
+Mengecek kembali formula, dan mengkalkulasi seluruh cell pada workbook yang terbuka, termasuk cell yang tidak untuk dikalkulasikan Memperkecil jendela workbook menjadi sebuah ikon Mengaktifkan Key Tips On atau Off
+Menampilkan menu shortcut untuk item yang terpilih (seperti melakukan klik kanan) Menampilkan menu atau pesan untuk tombol Error Checking Memperbesar atau mengembalikan jendela workbook yang dipilih
+Membuat grafik dari data range yang dipilih ke dalam sheet grafik yang terpisah Menyisipkan worksheet baru
+Membuka Microsoft Visual Basic For Applications Editor, dimana Anda dapat membuat sebuah Macro dengan menggunakan VBA Menampilkan kotak dialog Save As
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu
+
+Shortcut Keyboard Excel 2007
+
+93
+
+7.3. Kombinasi Tombol Lainnya
+
+Tombol CTRL+ARROW KEY SHIFT+ARROW KEY
+CTRL+SHIFT+ARROW KEY CTRL+END
+CTRL+SHIFT+END ALT+ENTER CTRL+ENTER SHIFT+ENTER CTRL+HOME
+CTRL+SHIFT+HOME ALT+PAGE DOWN CTRL+PAGE DOWN CTRL+SHIFT+PAGE DOWN ALT+PAGE UP CTRL+PAGE UP CTRL+SHIFT+PAGE UP CTRL+SPACEBAR SHIFT+SPACEBAR
+CTRL+SHIFT+SPACEBAR ALT+SPACEBAR
+SHIFT+TAB CTRL+TAB CTRL+SHIFT+TAB
+
+Fungsi Berpindah ke akhir area data Menyorot cell satu per satu
+Menyorot cell hingga cell terakhir yang mengandung data di kolom atau barus yang sama Berpindah ke cell yang terakhir digunakan pada worksheet Menyorot cell dari cell yang dipilih sampai ke cell terakhir yang digunakan pada worksheet Memulai garis baru pada cell yang sama Mengisi range cell dengan isi yang sama Berpindah ke cell di atasnya (kebalikan Enter) Berpindah ke cell awal pada worksheet
+Menyorot cell dari cell yang dipilih sampai ke cell awal yang digunakan pada worksheet Berpindah satu layar ke kanan pada worksheet Berpindah ke satu sheet selanjutnya pada workbook
+Memilih sheet yang dipilih dan satu sheet selanjutnya pada workbook Berpindah satu layar ke kiri pada worksheet Berpindah ke satu sheet sebelumnya pada workbook Memilih sheet yang dipilih dan satu sheet sebelumnya pada workbook Menyorot kolom pada cell yang aktif pada worksheet Menyorot baris pada cell yang aktif pada worksheet Menyorot seluruh cell yang mengandung data pada worksheet, untuk kedua kalinya menyorot seluruh cell pada worksheet Menampilkan menu Control pada jendela Excel Berpindah ke cell sebelumnya pada worksheet atau berpindah ke opsi sebelumnya pada kotak dialog Berpindah ke tab selanjutnya pada kotak dialog Berpindah ke tab sebelumnya pada kotak dialog
+
+Working with Microsoft Excel 2007 ­ Raddini Gusti Rahayu

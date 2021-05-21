@@ -1,0 +1,2581 @@
+Pamekar Diajar
+BASA SUNDA
+KIKD Kurikulum 2013
+Buku Tuturus Guru SMP/MTs
+Kelas IX
+DINAS PENDIDIKAN PROVINSI JAWA BARAT 2013
+
+Pamekar Diajar
+BASA SUNDA
+KIKD Kurikulum 2013
+Buku Tuturus Guru SMP/MTs Kelas IX
+Hak cipta © kagungan Dinas Pendidikan Provinsi Jawa Barat
+Ditangtayungan ku Undang-undang
+Disklaimer: Ieu buku téh diajangkeun pikeun guru basa Sunda dina raraga larapna Kurikulum 2013. Ieu buku disusun tur ditalaah ku hiji tim kalawan dikoordinasi ku Balai Pengembangan Bahasa Daerah dan Kesenian (BPBDK) Dinas Pendidikan Provinsi Jawa Barat minangka buku kurikulum daerah. Mimitina dipakéna buku taun 2014. Ieu buku téh sipatna "dokumén hirup". Hartina bakal tuluy disarungsum luyu jeung kabutuh katut panéka jaman. Pangdeudeul ti rupining pihak dipiharep bisa ngundakkeun ajén ieu buku.
+PANYUSUN: Tatang Sumarsono
+Ahmad Hadi Ano Karsana Asep Ruhimat
+Darpan Dede Kosasih H. Dingding Haerudin H.Yayat Sudaryat
+Risnawati
+PENELAAH: Prof. Dr. H. Iskandarwassid, M.Pd.
+Dr. Hj.Ai Sofianti, M.Pd. Drs. H. Elin Syamsuri
+Drs. Apip Ruhamdani, M.Pd. Budi Riyanto
+Rarancang Eusi: Yoshi Sukadar Rarancang Jilid: Yoshi Sukadar
+Eusi ngagunakeun Adobe InDesign CS3 jeung Adobe Photoshop CS3 Aksara ngagunakeun Bembo Std 12 pt - 24 pt.
+Dipedalkeun ku: DINAS PENDIDIKAN PROVINSI JAWA BARAT
+ISBN: 978-602-1300-22-0 (Jilid Lengkap) 978-602-1300-25-1 (Jilid 3)
+Perpustakaan Nasional : Katalog Dalam Terbitan (KDT)
+
+PANGBAGÉA
+KEPALA DINAS PENDIDIKAN PROVINSI JAWA BARAT
+Alhamdulillah, ieu buku pangajaran basa Sunda tiasa ngawujud, enggoning nyaosan implemèntasi Kurikulum 2013,pikeun ngeusian lolongkrang Muatan Lokal Mata Pelajaran Bahasa dan Sastra Daerah di Jawa Barat.
+Hasil garapan tim panyusun tèh aya dua rupi buku nyaèta buku murid sareng buku guru.Èta tèh mangrupa bagian tina pakèt Kurikulum Daerah,hususna ngeunaan pangajaran basa jeung sastra daèrah, dumasar kana Permendikbud No. 81A/2013, ngeunaan implementasi kurikulum. Pami diwincik deui, sanès mung buku wungkul bagian èta Permendikbud tèh, tapi deuih ngawengku Kompetensi Inti jeung Kompetensi Dasar (KI-KD), silabus, sareng Rencana Pelaksanaan Pembelajaran (RPP).
+Ku medalna ieu buku, dipiharep implementasi kurikulum 2013, hususna ngeunaan pangajaran muatan lokal basa jeung sastra daèrah di Jawa Barat tiasa dilaksanakeun kalawan merenah, luyu sareng udaganana. Saparantosna dialajar ngeunaan basa jeung sastra daèrah, dipiharep dina diri murid aya parobihan anu tètèla, boh unsur sikepna (attitude), boh pangaweruhna (knowledge), boh kamampuh ngagunakeun katut karancagèan (performance; behavior). Singgetna mah èta unsur anu tilu tèh bisa disebut kompetènsi.
+Kalungguhan guru dina posisi agèn parobahan utama enggoning ngaimplemèntasikeun kurikulum 2013 teu kinten pentingna. Aya hiji hipotèsis basajan, saupami guru kagungan kompetènsi anu nohonan pasaratan Kurikulum 2013,tangtosna gè kalebet guru basa daèrah deuih,tinangtos èta kurikulum bakal tiasa diimplemèntasikeun kalawan merenah. Ku margi kitu, dina nataharkeun sareng ngaronjatkeun kompetènsi guru tèh, di antawisna ku cara nysusun buku padoman guru, kalebet tarèkah anu kedah kènging pangajèn.
+iii
+
+Muga-muga waè harepan urang sadaya ngeunaan ayana parobihan anu tétéla dina dunya atikan ku diimplemèntasikeunana Kurikulum 2013 téh tiasa ngawujud, enggoning lahirna Generasi Emas Indonesia dina taun 2045 nu badé dongkap.
+Bandung, Desember 2013 Kepala Dinas Pendidikan Provinsi Jawa Barat, Prof. Dr. H. Moh.Wahyudin Zarkasyi, CPA Pembina Utama Madya NIP. 19570807 198601 1 001
+iv
+
+PANGBAGÉA
+KEPALA BALAI PENGEMBANGAN BAHASA DAERAH DAN KESENIAN
+DINAS PENDIDIKAN PROVINSI JAWA BARAT
+Kurikulum 2013 ti wangkid ayeuna parantos ngawitan dianggo sacara nasional.Jalaran kitu,pangajaran basa jeung sastra daérah nu diperenahkeun janten muatan lokal di Jawa Barat kedah luyu sareng Kurikulum 2013 hususna patali luyuna sareng elemén-elemén parobihan anu janten karakteristik Kurikulum 2013 anu ngawengku: Standar Kompeténsi Lulusan, Standar Isi, Standar Prosés, sareng Standar Penilaian. Éta katangtosan kedah kacangkem sareng kalaksanakeun ku sakumna guru-guru basa jeung sastra daerah anu mancén tugas di SD/MI, SMP/MTs, SMA/MA, sareng SMK/MAK.
+Ieu buku bahan ajar teh dijudulan Pamekar Diajar Basa Sunda, sadayana aya 24 jilid, ngurung buku siswa 12 jilid sareng buku guru 12 jilid. Kalungguhanana janten buku babon anggoeun di sakola nu aya di Jawa Barat. Buku murid diajangkeun pikeun sakumna murid dumasar kana tingkatan kelas. Buku Murid eusina medar materi ajar sareng pertanyaan-pertanyaan, latihan, tugas/pancen anu raket patalina sareng kompetensi dasar (KD). Buku Guru eusina medar silabus, métodologi pangajaran, sareng évaluasi, ogé mangrupi pangjembar buku murid.
+Komponén-komponén anu dimekarkeun boh dina buku murid atanapi buku guru dumasar kana opat kaparigelan basa anu ngawengku ngaregepkeun, nyarita, maca, sareng nulis anu diajarkeun maké pamarekan saintifik sareng penilaian auténtik. Hal ieu dumasar kana karakteristik Kurikulum 2013 nu ngalarapkeun pamerakan saintifik sareng penilaian auténtik dina prosés pangajaran.
+Disusuna ieu buku téh mangrupa lajuning laku tina Surat Edaran Kepala Dinas Pendidikan Provinsi Jawa Barat, Nomor 423/2372/Setdisdik, 26 Maret 2013, negunaan Pembelajaran Muatan Lokal Bahasa dan Sastra Daerah pada jenjang SD/MI, SMP/MTs, SMA/MA, SMK/MAK. Sajabi ti eta, ogé
+v
+
+dumasar kana Peraturan Gubernur Jawa Barat Nomor 69 Tahun 2013, ngeunaan Pembelajaran Muatan Lokal Bahasa dan Sastra Daerah pada Jenjang Pendidikan Dasar dan Menengah.
+Muga-muga waé ieu buku téh aya manpaatna ka urang sadaya, tur janten cukanglantaran dina merenahkeun sareng memeres basa jeung sastra daerah, anu udagan langkung tebihna pikeun ngamumulé sareng mekarkeun basa jeung sastra daérah, ngalangkungan jalur atikan di Jawa Barat.
+Tangtosna ogé ieu buku téh teu acan tiasa disebat sampurna. Ku margi kitu, teu kinten diantos-antosna kamadang ti sadayana. Saukur kakirangan anu nyampak dina ieu buku bakal teras didangdosan, supados tiasa nyumponan pameredih sareng kaayaan pajaman.
+Bandung, Desember 2013 Kepala Balai Pengembangan Bahasa Daerah dan Kesenian,
+Drs. H. Husen R. Hasan, M.Pd. Pembina Tk. I NIP. 196110051986031014
+vi
+
+PANGJAJAP
+Kurikulum 2013 saenyana mangrupa Kurikulum Berbasis Kompeténsi (KBK) pikeun nyanghareupan panéka jaman, utamana mah kompeténsi atawa kamampuh abad ka-21. Dina ieu abad, daék teu daék butuh karancagéan dina rupining widang, kaasup kamekaran téhnologi, informasi, jeung komunikasi (TIK) milu nangtukeun warna pangajaran basa Sunda.
+Luyu jeung éta hal, rumusan kompeténsi sikep (agama jeung sosial), kaweruh, jeung kaparigelan nu dipaké dadasar dina Kurikulum 2013 kudu ngaheulakeun pentingna karancagéan jeung komunikasi. Najan kitu, dina pangajaran basa Sunda mah dititénan ogé kahasan basa jeung budaya Sunda minangka média jeung wahana pangajaran basa Sunda.
+Téma-téma dina buku pangajaran basa Sunda diluyukeun kana téma-téma dina pangajaran tématis SMP/MTs nu sipatna nasional. Kompeténsi nu dipiharep ku barudak SMP/MTs dirumuskeun minangka kamampuh mikir jeung paripolah nu rancagé dina ranah nyamuni (abstrak) jeung nembrak (konkrit). Eta kamampuh téh diécéskeun dina kompeténsi inti (KI) anu dipidangkeun ku kaweruh dina basa Sunda anu bener tur merenah, ngéntép seureuh, sarta luyu jeung kontéks situasi. Eta kamampuh téh dirarancang dina prosés pangajaran winangun papancén (project based learning) jeung ngoréhan (discovery learning) anu nyoko kana léngkah-léngkah ngilmiah (saintifik) kayaning niténan, nanya, nyoba (nyungsi), nalar, jeung kedaling (ngomunikasikeun).
+Ieu buku ngawincik tarékah minimal nu kudu dipilampah ku murid dina ngahontal kompeténsi nu dipiharep. Luyu jeung pamarekan dina Kurikulum 2013,murid diperedih gedé kawanina tur kadaék dina ngoréhan kaweruh perkara basa jeung sastra Sunda, anu engkéna parigel maké basa Sunda. Dampakna murid boga sikep anu hadé kana basa jeung sastra Sunda katut hirup kumbuhna, bari teu mopohokeun sikep agama.
+Tangtu waé réa kénéh kahéngkéran ieu buku téh. Panyawad katut pangdeudeul pikeun nyampurnakeun ieu buku pohara dianti-atina.
+Bandung, Oktober 2013
+vii
+
+DAPTAR EUSI
+PANGBAGEA: 1. Kepala Dinas Pendidikan
+Provinsi Jawa Barat ........................................................................ iii 2. Kepala Balai Pengembangan Bahasa Daerah dan Kesenian Dinas
+Pendidikan Provinsi Jawa Barat ...................................................... v
+PANGJAJAP ..................................................................................... vii
+BAB I: PITUDUH UMUM A. Ngeunaan Buku Tuturus Guru ........................................................ 2 B. Padika Make Buku Tuturus Guru .................................................... 2 C. Tatapakan Formal .......................................................................... 4 D. Sistim, Prinsip, jeung Pamarekan Pangajaran .................................... 4 E. Standar Kompetensi Lulusan (SKL) ................................................. 5 F. Proses Pangajaran ........................................................................... 5 G. Kompetensi Inti (KI) jeung Kompetensi Dasar (KD) Kelas IX
+SMP/MTs ..................................................................................... 5 H. Péta Konsép .................................................................................... 8
+BAB II: PITUDUH HUSUS Pangajaran 1: Panata Acara A. Maca Wacana.................................................................................. 10 B. Niténan Téks.................................................................................. 13 C. Metakeun ....................................................................................... 13 D. Pancén ........................................................................................... 14
+Pangajaran 2: Adat di Pilemburan A. Maca Wacana.................................................................................. 15 B. Ngaguar Eusi Wacana...................................................................... 16 C. Ningkes Wacana ............................................................................. 17 D. Pancén ........................................................................................... 18
+viii
+
+Pangajaran 3: Pakeman Basa A. Maca Wacana.................................................................................. 19 B. Niténan Pakeman Basa ................................................................... 20 C. Nyangkem Babasan jeung Paribasa .................................................. 21 D. Ngalarapkeun Babasan jeung Paribasa .............................................. 22 E. Niténan Babasan jeung Paribasa dina Wacana ................................... 25
+Pangajaran 4: Nulis Laporan Kagiatan A. Maca Laporan kagiatan ................................................................... 26 B. Niténan Laporan Kagiatan .............................................................. 27 C. Nulis Laporan Kagiatan .................................................................. 28 D. Pancén ........................................................................................... 28
+Pangajaran 5: Maca Novel A. Maca Sempalan Novel .................................................................... 30 B. Maham Eusi Sempalan Novel.......................................................... 31 C. Niténan Unsur Novel ..................................................................... 31 E. Nganalisis Tingkesan Novel ............................................................ 32 F. Nulis Sempalan jeung Tingkesan Novel .......................................... 33 G. Pancén ........................................................................................... 33
+Pangajaran 6: Drama A. Maca Naskah Drama ...................................................................... 35 B. Niténan Naskah Drama .................................................................. 36 C. Metakeun Drama ........................................................................... 37 D. Pancén ........................................................................................... 37
+BA B III: BAHAN PANGJEMBAR
+A. Wangun Karya Sastra ...................................................................... 40 B. Basa ............................................................................................... 40
+Pangajaran 1: Girang Acara.............................................................. 42 Pangajaran 2: Bahasan ..................................................................... 44 Pangajaran 3: Pakeman Basa ............................................................ 45 Pangajaran 4: Laporan Kagiatan ....................................................... 48 Pangajaran 5: Novel ........................................................................ 50 Pangajaran 6: Drama ....................................................................... 52
+ix
+
+BA B IV: PITUDUH MEUNTEUN Model Penilaian Autentik Dina Proses Jeung Hasil Diajar Dumasar Kana Kurikulum 2013............................................................ 56 A. Wangenan Asesmen Autentik .......................................................... 56 B. Rupa-rupa Asesmen Autentik ......................................................... 56 C. Conto Pormat Meunteun ............................................................... 59 Pabukon............................................................................................... 72
+x
+
+Bab I
+Pituduh Umum
+1
+
+A. Ngeunaan Buku Tuturus Guru
+Ieu buku disusun sangkan guru meunang gambaran anu écés dina ngalaksanakeun kagiatan pangajaran basa Sunda. Eusina ngawengku sawatara hal. 1. Wincikan léngkah-léngkah pangajaran dina raraga méré gambaran ka guru
+pikeun ngahontal kompeténsi dasar (KD) jeung indikator. 2. Susunan léngkah-léngkah kagiatan anu ngagambarkeun pangajaran nu
+gumulung tur ngamalir. 3. Léngkah pangajaran nu disusun dipiharep bisa ngahontal pangalaman
+diajar nu miharti (meaningfullnes) pikeun ngawangun sikep jeung paripolah hadé, ngawasa konsép, kaparigelan mikir nu ilmiah (saintifik), kamampuh ngaréngsékeun masalah, karancagéan, pribadi nu sonagar (répléktif), tur numuwuhkeun rasa basa Sunda. 4. Dadaran rupining téhnik pikeun meunteun kamampuh murid. 5. Wawaran pikeun calecer (acuan) kagiatan rémédial jeung ngajembaran pangaweruh murid. 6. Pidangan kagiatan diajar nu silih simbeuh tur silih élédan (sharing). 7. Pituduh ngeunaan cara maké buku babon murid.
+Kagiatan dina ieu buku dirarancang pikeun mekarkeun kamampuh (sikep, kaweruh, jeung kaparigelan) murid kalawan gumulung tur rinéka. Ari paripolahna ngawengku: 1. Muka pangajaran ku karep murid saperti maca atawa ngaregepkeun téks,
+tumanya, ngawih, kaulinan, démonstrasi, pidangan masalah, jsté. 2. Nepikeun tujuan pangajaran nepi ka murid bisa nyangreb wawaran nu
+ditepikeun. 3. Ngali kaweruh murid samémehna sangkan bisa ngait jeung kaweruh nu
+bakal diulik. 4. Papancén nu malapah gedang sangkan murid kabantu dina nyangkem
+konsép. 5. Méré lolongkrang pikeun ngalatih kaparigelan murid. 6. Méré unduring laku (umpan balik) pikeun ngukuhan pamahaman murid.
+B. Padika Make Buku Tuturus Guru
+Ieu buku Tuturus Guru téh mibanda kagunaan ganda, jaba ti pituduh maké buku babon murid ogé jadi calecer (acuan) keur kagiatan pangajaran di kelas. Guru dipiharep niténan heula sawatara hal nu dipidangkeun dina ieu buku.
+2 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+1. Baca heula ieu buku kalawan telik tur imeut unggal kacana. 2. Cangkem heula tiap-tiap KD jeung indikator pangajaran. 3. Tarékahan pikeun ngasupkeun KI-1 jeung KI-2 dina sakumna kagiatan
+pangajaran. Guru kudu nguatan jeung ngukuhan tarékah pikeun ngawangun sikep, kaweruh, katutg paripolah murid anu hadé. 4. Deudeul kahontalna KI-1 jeung KI-2 ku kagiatan "pembiasaan", pieunteungeun, pituladeun, jeung kultur di sakola anu hadé. 5. Luyukeun tiap-tiap léngkah kagiatan dina buku tuturus guru jeung buku babon murid. 6. Mekarkeun gagasan rancagé dina milih padika pangajaran.Sungsi ogé kagiatan séjén lamun kaayaan teu luyu jeung naon-naon nu geus dirarancang. 7. Rupining stratégi pangajaran nu rék dimekarkeun (kayaning murid niténan, nanya, nyaritakeun, metakeun, ngawih, jsté.)kudu ngalibetkeun muridna sorangan jeung ngalibetkeun warga atawa lingkungan sakola. 8. Guru dipiharep mekarkeun: a. Métode "pengajaran aktif, inovatif, kréatif, éféktif, dan menyenangkan
+(PAIKEM)"; b. Timbang-timbang ogé maké pamarekan komunikatif jeung
+kontékstual; c. Kaparigelan nanya atawa tumanya; d. Kaparigelan muka jeung mungkas pangajaran; e. Kaparigelan ngolah kelas jeung pidangan kelas. 9. Gunakeun media jeung sumber diajar nu aya di sabudeureun sakola atawa patali jeung sosial budaya Sunda. 10. Alokasi waktu nyoko kana struktur kurikulum.Guru bisa nangtukeun sorangan alokasi waktu luyu jeung minggu éféktif, situasi katut kaayaan di sakola. 11. Dina sataun ajaran kelas IX aya genep materi anu kudu dibagi ku guru kalawan proporsional keur dua seméstereun. Kudu ditimbang-timbang ogé alokasi waktu antara seméster I jeung seméster II sangkan pangajaran bisa ditepikeun luyu jeung alokasi waktu anu nyampak. 12. Unggal matéri galeuh rata-rata dirarancang keur sabulaneun (4 x lawungan). 13. Kagiatan dina minggu kahiji dimimitian ku niténan bahan, karep réséptif (ngaregepkeun jeung maca), minggu kadua mangrupa kagiatan nyoba jeung ngulik, ari minggu katilu jeung kaopat ngalarapkeun atawa midangkeun (kagiatan kréatif nulis jeung nyarita) hasil tina minggu kahiji jeung kadua. Murid digiring sangkan kaasah daya nalar jeung mikirna kalawan ngaleunjeur. Kagiatan dirarancang pikeun méré lolongkrang tumanya jeung ngali wawaran nu deukeut jeung murid.
+Bab I 3
+PITUDUH UMUM
+
+14. Hasil pagawéan murid jeung bukti peunteun bisa dikumpulkeun dina portofolio murid.
+15. Pikeun tarékah ngoméan diri jeung minggu éféktif, jieun catetan réfleksi sanggeus hiji téma atawa bahan réngsé katepikeun.
+16. Deudeul murid sina resepeun kana basa Sunda sarta yakinkeun yén manéhna téh cerdas tur bisa.
+17. Sangkan tujuan pangajaran kahontal, guru ogé perlu saregep, enya-enya, tur sabar dina nyanghareupan murid. Ari sababna, kamampuh murid téh béda-béda. Katambah-tambah teu sakumna padika pangajaran loyog pikeun sakumna guru, murid, tempat, waktu, jeung bahan ajar.
+C. Tatapakan Formal
+Bahan ajar basa Sunda anu dipidangkeun dina ieu buku dumasarkana Kurikulum 2013, ngawengku kasang tukang, karakteristik, jeung tujuanan. Kurikulum basa Sunda atawa Kompetensi Inti jeung Kompetensi Dasar (KIKD) Mata Pelajaran Basa jeung Sastra Sunda disusun jeung dikaluarkeun ku Balai Pengembangan Bahasa Daerah dan Kesenian (BPBDK), Dinas Pendidikan Provinsi Jawa Barat. Lamun disusud ka luhurna, ngindungna mah tangtu waé kana Kurikulum Tingkat Nasional, da nu ieu mah kaasup kana Kurikulum Daerah (Kurda).
+Kurikulum Basa Sunda anu disusun ku BPBDK téh diwincik jadi KIKD,luyu jeung pola struktur Kurikulum Nasional. KIKD disusun mangrupa struktur anu maneuh, tur salawasna kudu jadi padoman dina kagiatan diajar-ngajar. Cindekna, sajeroning guru ngajarkeun basa Sunda,dipahing méngpar tina katangtuan KIKD, téma, jeung alokasi waktu. Ari dina lebah milih bahan katut ngajarkeunana mah guru dibéré lolongkrang keur ngembangkeun karancagéanana.
+Ieu buku poma ulah dianggap hiji-hijina sumber keur tuturus guru. Ari sababna, naon-naon nu diperedih ku KIKD téh moal sagemblengna kacumponan mun ukur ngandelkeun tina hiji sumber. Kudu aya sumber-sumber lianna pikeun pangrojong kagiatan diajar-ngajar, di antarana média massa, bagbagan paélmuan lianna, jeung kondisi sosial budaya masarakat Sunda. Nya ka lebah dinya pisan guru kudu rancingeus pikeun néngan jeung ngungkab bahan pangrojong sangkan KIKD bisa kahontal jeung kacumponan.
+D. Sistim, Prinsip, jeung Pamarekan Pangajaran
+Sakabéh matéri dina ieu buku diluyukeun jeung sistem pidangan buku babon murid, nu dipidangkeun maké sistem spiral; dimitian ti nu babari heula, terus ningkat ka nu hésé. Heula pandeurina nyusun bahan anu dumasar kana
+4 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+babari héséna téh tumerap kana saban pangajaran. Sistem spiral anu dignakeun dina ieu buku dumasar kana prinsip proporsional,
+tur tahapan (gradasina) henteu patarenggang. Hal ieu bisa tumerap dina wangun lahiriahna (panjang-pondokna, basajan-kompleksna) kecap, kalimah, atawa wacana, bisa deuih dina eusi atawa substansina (gampang-henteuna).
+
+E. Standar Kompetensi Lulusan (SKL)
+
+Ranah
+
+SD/MI
+
+SMP/MTs
+
+SMA/SMK/ MA/MAK
+
+Sikep
+
+Nampa, ngajalankeun, ngajénan, jeung ngamalkeun
+
+Pribadi nu iman, ahlak mulya, percaya diri jeung tanggung jawab dina patali marga kalawan merenah jeung lingkungan masarakat, alam sabudeureun, sarta dunya katut adabna.
+
+Kaparigelan
+
+Nampa, nanya, ngalarapkeun
+
+nyoba,
+
+ngolah,
+
+midangkeun,
+
+nalar,
+
+jeung
+
+Pribadi nu mampuh mikir jeung lumampah kalawan merenah tur rancagé dina ranah nyamuni (abstrak) jeung nembrak (konkrit).
+
+Kaweruh Mikanyaho, nyangkem, nerangkeun, ngolah, jeung meunteun.
+
+Pribadi nu ngawasa élmu kaweruh, téhnologi, seni budaya, sarta wawasan kamunasaan, kabangsaan, kanagaraan, jeung paradaban.
+
+F. Proses Pangajaran
+Prosés pangajaran lumangsung maké pamarekan saintifik, anu léngkahléngkahna: 1. Niténan (mengamati), ku cara maca, ngaregepkeun, atawa nongton; 2. Nanya (menanya), ku cara ngayakeun tanya jawab atawa sawala; 3. Nalar (menalar/mengasosiasi), ku cara nambahan kaweruh anu leuwih
+jembar; 4. Nyungsi atawa nyoba (eksplorasi/eksperimen); 5. Midangkeun, ngedalkeun, atawa nepikeun (mengkomunikasikan) 6. Ngawangun ramatloka (networking) ku cara néangan bahan tina sumber anu
+lian.
+G. Kompetensi Inti (KI) jeung Kompetensi Dasar (KD) Kelas
+Bab I 5
+PITUDUH UMUM
+
+IX SMP/MTs
+
+KOMPETENSI INTI (KI)
+
+KOMPETENSI DASAR (KD)
+
+9.1 Menghargai dan menghayati ajaran agama yang dianutnya
+
+9.1.1
+
+Menghargai dan mensyukuri keberadaan bahasa Sunda sebagai anugrah Tuhan Yang Maha Esa sebagai sarana komunikasi melaluiMEMANDU ACARA, BAHASAN, DESKRIPSI, LAPORAN KEGIATAN, NOVEL, dan DRAMA.
+
+9.2 Menghargai dan menghayati perilaku jujur, disiplin, tanggung jawab, peduli (toleransi, gotong royong), santun, percaya diri, dalam berinteraksi secara efektif dengan lingkungan sosial dan alam dalam jangkauan pergaulan dan keberadaannya
+
+9.2.1
+9.2.2 9.2.3
+
+Menunjukkan perilaku jujur, tanggung jawab, percaya diri, peduli, proaktif dan santun dalam menggunakan bahasa Sunda untuk memahamiTEKS MEMANDU ACARA, DESKRIPSI, BAHASAN, dan LAPORAN KEGIATAN.
+Menunjukkan perilaku jujur, percaya diri, peduli, proaktif dan santun dalam berbahasa Sunda untuk memahami NOVEL.
+Menunjukkan perilaku jujur, tanggung jawab, percaya diri, peduli, proaktif dan santun dalam berbahasa Sunda untuk memahami teks DRAMA.
+
+9.3.1 Mengidentifikasi dan menganalisis TEKS
+
+9.3 Memahami dan
+
+MEMANDU ACARA sesuai dengan
+
+menerapkan
+
+kaidah-kaidahnya.
+
+pengetahuan (faktual, konseptual, dan prosedural) berdasarkan rasa ingin tahunya tentang ilmu pengetahuan, teknologi, seni, budaya terkait fenomena dan kejadian tampak mata
+
+9.3.2 9.3.3 9.3.4
+
+Mengidentifikasi dan menganalisisDESKRIPSIBUDAYA SUNDAsesuai dengan kaidah-kaidahnya.
+Mengidentifikasi dan menganalisisBAHASAN YANG MENGANDUNG IDIOMsesuai dengan kaidah-kaidahnya.
+Mengidentifikasi dan menganalisis
+
+NOVEL sesuai dengan kaidah-kaidahnya.
+
+6 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+9.3.5 9.3.6
+
+Mengidentifikasi dan menganalisisteks DRAMAsesuai dengan kaidah-kaidahnya.
+Mengidentifikasi dan menganalisis teks LAPORAN KEGIATAN sesuai dengan kaidah-kaidahnya.
+
+9.4.1 Menyusun, menyajikan, dan
+
+9.4 Mengolah, menyaji, dan menalar dalam ranah konkret (menggunakan,
+
+menanggapiMEMANDU ACARA sesuai dengan kaidah-kaidahnya secara lisan dan tulisan.
+
+mengurai, merangkai, 9.4.2 Menanggapi dan meringkas teks
+
+memodifikasi, dan
+
+DESKRIPSI BUDAYA SUNDAsesuai
+
+membuat) dan ranah
+
+dengan kaidah-kaidahnya.
+
+abstrak (menulis, membaca, menghitung, menggambar, dan mengarang) sesuai
+
+9.4.3
+
+Menanggapi, meringkas, dan menyajikan teks BAHASAN YANG MENGANDUNG IDIOMsesuai dengan kaidah-kaidahnya.
+
+dengan yang dipelajari di sekolah dan sumber lain yang sama dalam sudut pandang/teor
+
+9.4.4 Menanggapi dan meringkasNOVELsesuai dengan kaidah-kaidahnya secara lisan dan tulisan.
+
+9.4.5 Menanggapi dan memperagakan teks
+
+DRAMAsesuai dengan kaidah-kaidahnya.
+
+9.4.6 Menyusun dan menyunting LAPORAN KEGIATAN sesuai dengan kaidahkaidahnya.
+
+Bab I 7
+PITUDUH UMUM
+
+8 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+H. Péta Konsép
+
+Kaparigelan Basa
+
+Pangajaran Kelas IX
+
+Apresiasi Sastra
+
+Girang Acara
+
+Bahasan Budaya
+
+Pakeman Basa
+
+Laporan Kagiatan
+
+Novel
+
+Drama
+
+- Panata acara - Panumbu catur - Struktur teks
+panata acara - Struktur teks
+panumbu catur - Metakeun
+panata acara - Metakeun
+panumbu catur - Nulis teks
+panata acara jeung panumbu catur
+
+- Maca wacana - Mahamkeun
+eusi wacana - Ningkes wacana
+
+- Rupa-rupa pakeman basa
+- Nitenan pakeman basa
+- Babasan jeung paribasa
+- Ngalarapkeun babasan jeung paribasa
+- Ngaidentifikasi babasan jeung paribasa dina wacana
+
+- Struktur laporan kagiatan
+
+- Maca sempalan novel
+- mahamkeun eusi sempalan novel
+- unsur novel - analisis novel
+
+- Maca drama - Unsur-unsur
+drama - Metakeun
+drama
+
+Bab II
+Pituduh Husus
+9
+
+PANGAJARAN 1
+PANATA ACARA
+
+PANGANTEUR
+Tangtu geus apal naon anu disebut panata acara atawa panumbu catur. Enya, panata acara mah MC (Master of Ceremony) téa anu sok ngatur lumangsungna hiji acara, sedeng panumbu catur mah moderator téa anu sok ngatur lumangsungna hiji sawala (diskusi), seminar, lokakarya, jsb. Tah dina pangajaran ieu, murid bakal diajarkeun sagala rupa hal anu atali jeung kagiatan panata acara jeung panumbu catur.
+Sabada réngsé pangajaran, dipiharep siswa mahamkeun , nyusun, sarta ngedalkeun (molahkeun) téks panata acara kalawan omongan anu lancar, sora anu ngoncrang, lentong anu merenah, sarta basa anu genah éntép seureuhna.
+
+KAGIATAN DIAJAR A. Maca Wacana
+1. Panata Acara NO
+
+KAGIATAN
+
+Saméméh prung diajar, hadéna guru mintonkeun video atawa gambargambar anu matak ngirut panitén murid anu aya patalina jeung kagiatan 1. panata acara, boh jadi MC (master of ceremony) boh jadi panumbu catur dina sawala (diskusi). Dina TV loba pidangan-pidangan diskusi atawa debat, bisa dicutat sempalan pidanganana.
+
+2.
+
+Murid dibéré téks panata acara, sarta dibéré waktu pikeun niténan éta teks.
+
+3.
+
+Murid nyieun catetan-catetan naon baé hal-hal penting anu kapanggih dina éta téks.
+
+Murid nanyakeun hal-hal anu teu dipikaharti anu aya dina téks. Guru 4. bisa langsung ngajéntrékeun, atawa ngoper éta pananya ka murid anu
+séjénna sangkan lumangsung kagiatan sawala kelas.
+
+10 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Sabada murid paham kana eusi téks,murid dijejeran sina nyieun kelompok
+
+5.
+
+anu jumlah anggota kelompokna luyu jeung peran anu aya dina téks téa. Aya nu pancénna jadi panata acara, aya nu pancénna maca ayat Al-Qur'an,
+
+aya anu méré pamapag, jsb.
+
+6.
+
+Murid dibéré waktu pikeun latihan molahkeun téks panata acara tadi, nepi ka sakabéh anggota kelompok lancar.
+
+7.
+
+Sabada réngsé ngabagi pancén jeung latihan, unggal kelompok dipentés molahkeun téks panata acara hareupeun kelas sacara bagilir.
+
+Réngsé sakelompok midang, diselang heula ku unggal kelompok ngajén
+
+8.
+
+kana pidangan kelompok nu keur midang téa. Kitu jeung kitu nepi ka unggal kelompok réngsé midang sarta murid bener-bener paham kana
+
+pancén panata acara.
+
+2. Panumbu Catur (Moderator)
+
+NO
+
+KAGIATAN
+
+9. Murid dibéré téks panumbu catur dina kagiatan sawala.
+
+10.
+
+Unggal murid niténan téks panumbu catur kalawan gemet bari diarahkeun sina nyieun catetan-catetan penting anu kapanggih dina éta téks.
+
+Murid dibéré kasempetan nanyakeun hal-hal anu teu dipikaharti anu
+
+11.
+
+aya dina téks panumbu catur. Jiga kagiatan saméméhna, hadéna guru ngarahkeun ieu kagiatan jadi sawala kelas anu ngalibetkeun sakabéh
+
+murid,
+
+Sabada murid paham kana eusi téks, murid nyieun kelompok anu jumlah anggotana luyu jeung peran anu aya dina téks. Diusahakeun anggota 12. kelompokna ulah sarua jeung kelompok panata acara. Ieu hal kacida pentingna sangkan murid bisa gawé bareng jeung sakabéh baturna nu aya di kelas, lain ngan ukur jeung babaturan deukeutna wungkul.
+
+13.
+
+Murid sina nyawalakeun téks panumbu catur sarta ngabagi peran jeung babaturan kelompokna.
+
+14.
+
+Sabada murid paham kana pancénna séwang-séwangan,unggal kelompok molahkeun téks panumbu catur hareupeun kelas sacara bagilir.
+
+Bab II 11
+PITUDUH HUSUS
+
+Unggal hiji kelompok midang, kelompok séjénna ngajén kana pidangan 15. bieu nepi ka lumangsung diskusi kelas. Kitu jeung kitu nepi ka uanggal
+kelompok midang sarta murid paham kana pancén panumbu catur.
+
+3. Ngajawab Latihan
+
+NO
+
+KAGIATAN
+
+1. Pancén panata acara nyaéta purah nyusun runtuyan acara jeung
+
+nangtukeun sarta ngahaturanan saha-sahana anu midang atawa cacarita
+
+dina éta acara.
+
+2. Acara anu dijejeran ku panata acara nyaéta paturay-tineung siswa kelas
+
+salapan anu geus lulus ti sakola.
+
+3. Pikeun numuwuhkeun sifat silihrojong, silihasih ku pangarti, silihasah
+
+ku pangabisa, silihasuh ku kaweruh dina diri murid salila diajar.
+
+4. Méré pangajén ka siswa kelas IX anu nyongcolang préstasina sarta
+
+jadi pinunjul dina rupa-rupa pasanggiri, boh akademik boh non-
+
+akademik.
+
+5. Omonganna merenah sarta ngaleunjeur.
+
+6. Panata acara mah pancénna ngatur lumangsungna acara-acara anu
+
+16
+
+sipatna seremonial, nyebutan acara sarta ngahaturanan anu midang
+
+atawa nyarita, ti mimiti prung nepi ka pungkasna acara anu jalma-
+
+jalmana téh geus ditangtukeun ti anggalna, sedengkeun panumbu
+
+catur mah ngatur lumangsungna sawala, ngatur iraha jeung saha anu
+
+nanya, jeung iraha narasumber ngajawab éta pananya. Lian ti kitu,
+
+boga pancén pikeun nyindekkeun hasil sawala.
+
+7. Jejer sawala dina téks panumbu catur nyaéta "Ngagunakeun basa
+
+Sunda dina kahirupan sapopoé".
+
+8. Urang Sunda loba anu henteu nyarita ku basa Sunda, utamana di
+
+kota-kota. Di pilemburan ogé geus loba anu wegah nyarita ku basa
+
+Sunda, geus loba kolot urang Sunda anu ngajarkeun basa Indonésia
+
+ka anak-anakna.
+
+12 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+9. Undak-usuk basa Sunda angger diperlukeun, pangpangna pikeun ngabédakeun nyarita ka saluhureun, ka sahandapeun atawa babaturan anu satata, jeung ka sato.
+10.Ngahaturanan Pangjejer nyarita, ngahaturanan ka siswa anu nanya ka pangjejer, sarta nyindekkeun hasil sawala.
+
+B. Niténan Téks
+
+NO
+
+KAGIATAN
+
+17.
+
+Murid maca pedaran ngeunaan struktur téks panata acara jeung panumbu catur kalawan gemet.
+
+Sabada réngsé maca pedaran, murid dibéré kasempetan pikeun nanyakeun 18. hasil paniténna. Dina prosés tanya-jawab ieu, guru ngarahkeun sangkan
+lumangsung kagiatan sawala (diskusi) kelas.
+
+19.
+
+Murid dibéré conto téks panata acara jeung panumbu catur anu séjénna, anu jejer jeung omonganana béda jeung anu aya dina pedaran tadi.
+
+20.
+
+Murid ngaanalisis struktur téks panata acara jeung panumbu catur anu bieu, nepi ka bisa nuduhkeun bagian-bagianna luyu jeung conto.
+
+21.
+
+Murid nepikeun hasil analisisna sacara bagilir, guru jeung murid séjénna ngajén kana hasil analisisna.
+
+C. Metakeun
+
+1. Panata Acara NO
+
+KAGIATAN
+
+22.
+
+Murid dijieun kelompok. Bisa kelompok anu saméméhna atawa nyieun deui kelompok anyar.
+
+23. Unggal kelompok dibéré téks panata acara atawa panumbu catur.
+
+24.
+
+Murid ngabagi pancén peran anu aya dina téks. Tuluy unggal murid ngapalkeun bagianna séwang-séwangan.
+
+Bab II 13
+PITUDUH HUSUS
+
+Sanggeus kabéh murid apal kana téks bagianana, praktékkeun hareupeun 25. kelas. Suasana kelas diatur sangkan jiga keur ngayakeun hiji acara luyu
+jeung jejer dina téks téa.
+
+26.
+
+Kelompok anu henteu minton kudu meunteun pidangan ti kelompok nu keur midang di hareup, naon kakurangan jeung kaunggulanana.
+
+27.
+
+Guru meunteun pidangan kelompok ogé meunteun hasil panitén kelompok ka kelompok anu midang téa.
+
+3. Latihan Nyusun Téks
+
+28. Murid masih dikelompokkeun, unggal kelompok anggotana opat urang.
+
+Murid dibéré sababaraha jejer acara, tuluy sina milih jejer acara anu 29. dipikaresepna. Geus kitu murid jeung kelompokna séwang-séwangan
+nyusun téks panata acara. Guru ngaping salila murid migawé pancénna.
+
+Sabada réngsé nyusun téks panata acara, uanggal kelompok dibéré pancén 30. nyusun téks panumbu catur. Jejer sawalana ditangtukeun ku kelompok
+séwang-séwangan.
+
+31. Hasil pagawéan kelompok dikumpulkeun.
+
+D. Pancén
+
+NO
+
+KAGIATAN
+
+Murid duaan-duaan titah milih pasualan anu aktual, anu keur haneut 31. diambéng, boh ku média massa boh ku masarakat di lingkungan
+sabudeureunana, tuluy éta pasualan dijieun jejer (bahan) sawala di kelas.
+
+Jejer anu dipilih téa, dipidangkeun hareupeun kelas. Saurang jadi pangjejer
+
+32.
+
+saurang deui jadi panumbu catur. Murid séjénna dibéré kalaluasaan nanya atawa ngajén kana jejer anu dijadikeun bahan sawala.Teu diatur jiga dina
+
+sawala anu maké naskah téa.
+
+PANUTUP
+Murid dibéré pancén sina ngahadiran hiji acara.Tuluy nengetan anu nyekel pancén panata acara dina éta acara.Murid kudu nengetan kalawan gemet kumaha pok-pokan nyaritana, sikep jeung anggah-ungguhna, pakéan anu dipakéna, jsb.
+Eta hasil panitén dilaporkeun dina wangun tinulis kalawan dilengkepan ku pangajén manéhna pribadi kana sagala rupa hal anu katitén ti panata acara téa.
+
+14 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+PANGAJARAN 2
+ADAT DI PILEMBURAN
+
+PANGANTEUR
+Urang Sunda kasohor beunghar ku adat jeung budaya. Dina ieu pangajaran, bakal diwanohkeun rupa-rupa adat kabiasaan anu masih kénéh dipageuhan di lembur-lembur nu tangtu. Sabada pangajaran réngsé, dipiharep murid téh lian ti wanoh kana rupaning adat di pilemburan, ogé parigel maca wacana, bisa mahamkeun eusina, sarta nuduhkeun pakeman-pakeman basa anu aya dina wacana.
+
+KAGIATAN DIAJAR A. Maca Wacana
+
+NO
+
+KAGIATAN
+
+Guru muka pangajaran ku mintonkeun video atawa gambar ngeunaan
+
+1.
+
+kampung-kampung adat anu aya di Tatar Sunda. Aya kampung Baduy di Banten, Kampung Naga di Kabupatén Tasikmalaya, Kampung Ciptagelar
+
+di Kabupatén Sukabumi, Kampung Dukuh di Bogor, jsb.
+
+Sabada mintonkeun gambar-gambar pakampungan anu titik beuratna
+
+2.
+
+kana wangunan, kakara mintonkeun video atawa gambar-gambar anu keur migawé kagiatan budaya. Upamana anu keur hajat sérén taun, anu
+
+keur ngaruat, mitembeyan méméh tandur, panén, jsb.
+
+Sabada muter sababaraha video atawa mintonkeun gambar, murid dibéré 3. pancén maca wacana anu judulna "Kampung Budaya Sindangbarang"
+kalawan gemet.
+
+Ulah poho murid diingetan heula pikeun nyatetkeun sababaraha hal 4. anu dianggap unik anu aya dina wacana. Pangpangna anu patali jeung
+pakeman basa.
+
+5.
+
+Sabada réngsé maca, murid ngajawab latihan anu geus diasadiakeun dina buku murid.
+
+Bab II 15
+PITUDUH HUSUS
+
+Jawaban pancén latihan 1:
+
+1. Leuweung maleukmeuk di jauhna, imah-imah panggung parentul.
+
+Asri tur hégar.Aya imah gedé, suhunan leuit anu nyarungcung éndah,
+
+tangkal kalapa jeung awi tingrunggunuk,malah batu anu ngadarungkuk
+
+diriung ku kekembangan ogé matak éndah katingalina.
+
+2. Pupuhu Kampung Sindangbarang nyaéta Ahmad Sumawijaya.
+
+3. Dina naskah Pantun Bogor.
+
+4. Rakéan Darmasiksa
+
+5. Upacara sérén taun téh upacara anu diayakeun minangka tanda sukur
+
+ka Gusti Nu Maha Suci lantaran geus dipaparin hasil panén anu
+
+mucekil, sarta miharep hasil nu leuwih punjul dina taun hareupna.
+
+6. Dina taun 2006.
+
+7. Babagian imah aya tilu. Bagian tengah disebutna "buana panca
+
+tengah" tempat cicingna manusa, bagian handap atawa kolong
+
+6.
+
+disebutna "buana panca handap" tempat cicingna bangsa lelembut,
+
+jin, atawa siluman, sedeng bagian luhur nyaéta suhunan, disebutna
+
+"buana panca luhur" tempat cicingna karuhun.
+
+8. Warogé téh gambar, simbul tina jangjawokan Sunda baheula anu
+
+diukur dina kai. Gunana pikeun panolak bala sangkan henteu
+
+diganggu ku bangsa lelembut nu boga maksud jahat. Asal kecapna
+
+tina daruga atawa darugi, robahan tina kecap durga atawa durgi. Dina
+
+mitologi Hindu, Durga téh Déwi Uma anu disupata ku Batara Guru
+
+tepi ka wujudna robah jadi raksési nu pikasieuneun.
+
+9. Upacara melak batu atawa makukeun dimimitian ku Ngunduh Watu,
+
+nyaéta néangan atawa milihan batu di walungan, mun geus manggih
+
+tuluy meuleum menyan sarta sasadu ka lelembut nu ngageugeuh
+
+walungan yén éta batu rék dipindahkeun. Geus kitu Ngunduh Matur,
+
+nyaéta néangan tatangkalan anu bakal dipelak di sabudeureun batu.
+
+Eta batu jeung tatangkalan téh dipelak deukeut Imah Gedé.
+
+B. Ngaguar Eusi Wacana
+
+NO
+
+KAGIATAN
+
+7.
+
+Murid dibéré pancén maca pedaran anu ngaguar eusi wacara Kampung Budaya Sindangbarang kalawan gemet.
+
+Tuluy niténan runtuyan upacara adat anu masih kénéh hirup di éta
+
+8.
+
+lembur, niténa gambar-gambar wangun suhunan jeung istilah-istilah anu aya dina wacana. Salila murid niténan ieu pedaran, guru kudu sayaga
+
+ngajéntrékeun lamun murid aya nu nanya perkara eusi wacana.
+
+16 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Hadéna guru ogé marengan kagiatan murid ku mintonkeun gambar9. gambar hirup (video atawa pilem dokuméntér) anu patali jeung kagiatan
+budaya anu aya dina éta wacana.
+
+10. Murid migawé pancén latihan 2.
+
+Jawaban pancén latihan 2:
+
+1. Nomer hiji nyaluyukeun kana jawaban murid, lantaran bisa jadi
+
+kabiasaan di lembur murid téh béda-béda.
+
+11.
+
+2. - nyunatan hartina: - nyawér hartina:
+
+- nyekar hartina:
+
+- pancakaki hartina:
+
+- paririmbon hartina:
+
+C. Ningkes Wacana
+
+NO
+
+KAGIATAN
+
+12.
+
+Murid maca deui wacana "Kampung Budaya Sindangbarang" kalawan gemet. Ieu pancén sorangan-sorangan.
+
+13.
+
+Murid maca conto tingkesan wacana "Kampung Budaya Sindangbarang" kalawan gemet.
+
+14.
+
+Geus kitu, murid dikelompokkeun anu anggota kelompokna opatanopatan.
+
+15.
+
+Unggal kelompok dibéré pancén milih salahsahiji wacana anu geus nyampak dina buku cecekelanana.
+
+16. Unggal kelompok nyawalakeun eusi wacana anu dipilihna.
+
+Murid néangan kekecapan anu teu kaharti anu patali jeung adat kabiasaan,
+
+17.
+
+sina ditulis digundukkeun, geus kitu téangan hartina dina kamus. Alusna mah disadiakeun kamusna di perpustakaan sakola anu bisa diinjeum iraha
+
+baé.
+
+Murid nuliskeun pamanggihna ngeunaan wacana anu dibacana. Hal-hal
+
+18.
+
+naon anu kakara dipikanyaho ku murid anu aya dina éta wacana, hal-hal naon anu sarua jeung kabiasaan anu aya di lemburna, pakeman basa anu
+
+kapanggih dina éta wacana, jsb.
+
+19. Murid nyieun tingkesan eusi wacana.
+
+20. Hasil paniténna dibacakeun hareupeun kelas.
+
+Bab II 17
+PITUDUH HUSUS
+
+Kelompok séjén diarahkeun ngoméntaran kana sagalarupa hal anu
+
+21.
+
+keur dibacakeun ku kelompok anu di hareup, anu engkéna dipiharep lumangsung sawala (diskusi) kelas. Guru jadi panumbu catur dina ieu
+
+sawala.
+
+22.
+
+Unggal kelompok meunteun sacara tinulis kakurangan jeung kaunggulan hasil panitén kelompok séjénna. Sarta hasilna dikumpulkeun.
+
+D. Pancén
+
+NO
+
+KAGIATAN
+
+Murid dibéré pancén pikeun néangan wacana séjénna ngeunaan adat 23. kabiasaan di pilemburan jeung kagiatan budaya urang Sunda, boh tina
+média citak, atawa tina internét. Ieu pancén dipigawé saurang-saurang.
+
+Sabada unggal murid manggih wacana anu dipikaresepna, murid nyieun 24. tingkesan eusi wacana jeung nuliskeun kekecapan anu teu kaharti sarta
+néangan hartina tina kamus.
+
+25. Murid nuliskeun pamanggihan ngeunaan eusi éta wacana.
+
+26.
+
+Hasil paniténna dilaporkeun sacara tinulis, dikumpulkeun minggu hareupna.
+
+PANUTUP
+Pikeun leuwih ngantebkeun hasil pangajaran, murid dibéré pancén nulis wacana anu patali jeung adat kabiasaan anu aya di lemburna séwang-séwangan. Disarankeun murid sina nanyakeun ka kolotna, boh indung bapana boh nini akina. Malah bisa ogé nanyakeun ka kokolot lembur anu kagiatanana wawancara. Hasil wawancarana ditulis jadi wacana.
+
+18 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+PANGAJARAN 3
+PAKEMAN BASA
+
+PANGANTEUR
+Urang Sunda mah mun nyarita sok dibalibirkeun, tara togmol ka nu dimaksud. Maksudna mah ngaragangan ka anu diajak nyarita, sangkan henteu nerag teuing karasana. Malibirkeun omongan téh bisa ku wangun sisindiran atawa ku babasan jeung paribasa. Nu kitu téh disebutna pakeman basa atawa osok ogé disebut idiom, tina basa Yunani idios, anu hartina soranang, mandiri, husus, atawa has. Tah dina pangajaran ieu mah murid bakal diajak neuleuman pakeman basa dina wangun babasan jeung paribasa anu ilahar sok dipaké nyarita ku urang Sunda dina kahirupan sapopoé.
+
+KAGIATAN DIAJAR A. Maca Wacana
+
+Saméméh kagiatan diajar dimimitian,guru muka pangajaran ku nyebutan
+
+sababaraha conto babasan jeung paribasa. Upamana dina muka pangajaran
+
+1.
+
+téh nyaritana ngagunakeun babasan jeung paribasa. Contona: Barudak, lamun diajar hayang téréh bisa, urang téh kudu bodo aléwoh.....jsb. bisa
+
+sababaraha babasan jeung paribasa diasupkeun kana omongan, pikeun
+
+ngawahan ka matéri poko.
+
+2.
+
+Mun geus kitu, kakara murid dibéré pancén pikeun maca wacana "Hayu Urang Nyaritaku Basa Sunda" kalawan gemet.
+
+3.
+
+Murid sina nuliskeun deui babasan jeung paribasa anu aya dina wacana sakalian jeung hartina.
+
+4.
+
+Murid ngajawab pananya anu patali jeung wacana. Ieu pancén dipigawé ku saurang-saurang (individu).
+
+Jawaban pananya ngeunaan wacana: 5. 1. Cara ngamumulé basa Sunda di antarana ku cara nyarita maké basa
+Sunda dina kahirupan sapopoé.
+
+Bab II 19
+PITUDUH HUSUS
+
+2. Loba urang Sunda anu teu nyarita ku basa Sunda lantaran: lingkungan anu geus pacampur antar rupa-rupa sélér bangsa nepi ka perlu maké basa Indonésia, lantaran aya undak-usuk basa nepi ka loba nu sieun salah nyarita, lantaran aya anggapan basa Sunda kampungan, jsb.
+3. Undak-usuk basa téh tahapan atawa panta-pantana basa, atawa luhur handapna ajén basa anu dilarapkeun luyu jeung jalma anu diajak nyarita.
+4. Dumasar kana pamanggih murid. 5. - Hadé gogog hadé tagog
+- Hadé tata hadé basa - soméah hadé ka sémah - tutulung ka nu butuh tatalang ka nu susah 6. Tatakrama téh aturan dina ngahormat atawa aturan sopan santun anu disaluyuan ku warga masarakat, pikeun silihajénan jeung nu lian. 7. Pikeun silihajénan jeung sasama sangkan bisa hirup rukun. 8. Ngarah teu patukeur makéna, lantaran najan sarua basa lemes, mun basa lemes keur ka sorangan dipaké ka saluhureun, dianggap urang teu ngajénan atawa teu hormat ka saluhureun, lantaran saolah-olah urang nganggap diri urang jeung bsaluhureun téh satata.
+
+B. Niténan Pakeman Basa
+
+NO
+
+KAGIATAN
+
+Murid maca pedaran ngeunaan pakeman basa kalawan gemet, niténan 6. kalimah anu ngagunakeun babasan jeung paribasa, sarta conto-conto
+babasan jeung paribasa anu dibéréndélkeun dina buku cecekelanana.
+
+Sangkan murid leuwih paham kana harti babasan jeung paribasa,
+
+7.
+
+sakabéh conto babasan jeung paribasa anu geus dibéréndélkeun jeung hartina, dilarapkeun kana kalimah. Ieu pancén dipigawé saurang-saurang
+
+(individu).
+
+Sabada dilarapkeun kana kalimah, murid bagilir macakeun hasil
+
+pagawéanana. Guru jeung murid anu séjénna ngoméntaran kana hasil
+
+8.
+
+pagawéan murid anu keur dibacakeun. Lamun aya kalimah anu kurang merenah, bisa langsung dibenerkeun harita kénéh. Murid digiring kana
+
+sawala (diskusi) kelas medar ngeunaan babasan jeung paribasa sarta larapna
+
+dina kalimah.
+
+20 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+C. Nyangkem Babasan jeung Paribasa
+
+NO.
+
+KAGIATAN
+
+9.
+
+Guru ngaping siswa pikeun maca babasan jeung paribasa wawaran luang, pangjurung laku hade, panyaram léngkah salah.
+
+Sanggeus dibaraca, guru mancing siswa pikeun nataan babasan jeung
+
+10.
+
+paribasa séjénna nu teu aya dina buku siswa ku cara nanyakeun. Sakur babasan jeung paribasa nu ditataan ku siswa hadéna dicatet ku
+
+siswa séjénna sangkan nambahan pangaweruhna.
+
+Pancén 1 11. Guru maréntah siswa pikeun migawé pancén maluruh harti paribasa
+
+ku cara ngajodokeun kana jawaban nu geus disadiakeun.
+
+Pancén 2 Guru maréntahkeun ka siswa pikeun migawé pancén maluruh harti kecap tina kamus jeung harti injeuman (konotatif) dina ungkara babasan jeung paribasa. Contona: 12. 1. Kejot borosot
+
+kejot (pangajak haté at. kahayang nu datangna ngadadak) borosot (kecap pagawéan ngalésotkeun at. ngécagkeun naon-naon barangbawaan beurat nu diais atawa nu digandong) hartina: ulah waka buru-buru nyieun kaputusan, kudu dipikir dibulak-balik heula, jsté.
+
+Pancén 3
+
+Guru maréntahkeun ka siswa pikeun migawé pancén nyieun kalimah
+
+ngagunakeun babasan jeung paribasa.
+
+13.
+
+Contona: 1. Dug hulu pet nyawa
+
+Hartina: digawé satékah polah taya eureuna. Kalimahna: Mang Damiri nepi ka dug hulu pet nyawa usaha pikeun nyumponan pangabutuh hirup kulawargana, Jsté.
+
+Pancén 4 Guru maréntahkeun ka siswa pikeun migawé pancén ngalengkepan babasan jeung paribasa. 14. Contona: 1. _____ beubeulahan térong
+Kawas beubeulahan térong, Jsté.
+
+Bab II 21
+PITUDUH HUSUS
+
+D. Ngalarapkeun Babasan jeung Paribasa
+
+NO
+
+KAGIATAN
+
+Murid migawé latihan 1.
+
+Babasan:
+
+1. Kawas bueuk beunang mabuk = jempé/ngaheruk teu ngomong
+
+2. Kawas anjing tutung buntut = teu daék cicing
+
+3. Kembang buruan
+
+= Budak keur meujeuhna resep
+
+ulin di buruan
+
+4. Kokolot begog
+
+= Niron-niron omongan atawa
+
+kalakuan kolot
+
+5. Kurung batok
+
+= Tara liar ti imah, nepi ka teu
+
+nyaho nanaon
+
+6. Laér gado
+
+= Resep barangpénta
+
+7. Lésang kuras
+
+= Geus teu boga nanaon
+
+8. Leuleus awak
+
+= Resep baranggawé, rapékan/
+
+daékan
+
+9. Leutik burih
+
+= Teu boga kawani, sieunan, éléhan
+
+15. 10. Lungguh tutut
+
+= Katénjona lungguh/cicingeun
+
+padahal Saenyana henteu
+
+11. Miyuni kembang
+
+= Loba nu mikaresep (dilarapkeun
+
+ka awéwé)
+
+12. Murag bulu bitis
+
+= Resep indit-inditan
+
+13. Ngabuntut bangkong
+
+= Teu puguh tungtungna, teu nepi
+
+ka réngsé
+
+14. Ngégél curuk
+
+= teu meunang hasil
+
+15. Ngéplék jawér
+
+= Kurang kawani, sieunan,
+
+borangan
+
+16. Nyoo gado
+
+= Ngunghak, ngalunjak
+
+17. Panjang léngkah
+
+= Loba pangalaman
+
+18. Pindah pileumpangan
+
+= Robah kalakuan
+
+19. saur manuk
+
+= Ngomong rampak/bareng
+
+20.Tuturut munding
+
+= Nurutan batur bari teu nyaho
+
+maksudna
+
+Jawaban Latihan 2: 1. Cing saurang-saurang atuh nyaritana, ulah saur manuk kitu! 16. 2. Ulah dipeuncit kabéhanana hayam téh, pamali matak lésang kuras teu
+boga naon-naon. 3. Miyuni kembang Néng Syifa mah, nu nénjo teu weléh resep.
+
+22 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+4. Batur-batur mareunang duit, ari manéhna ngégél curuk teu kabagéan sapérak-pérak acan.
+5. Urang Sunda gé ayeuna mah murag bulu bitis, teu idek liher di lembur baé, tapi laliar ka mancanagara.
+6. Ih, ku naon ari Dadan, kawas anjing tutung buntut, ti tatadi teu daék cicing?
+7. Basa dicarékan barudak téh jempling baé kawas bueuk beunang mabuk.
+8. Pantes rék loba kanyaho ogé, da manéhna mah panjang léngkah loba pangalaman.
+9. Kudu puguh aya hasilna ari babadamian téh, ualh tepi ka ngabuntut bangkong.
+10. Si éta mah laér gado da, sok resep barang pénta ka batur.
+
+Jawaban latihan 3:
+
+1. Marebutkeun paisan kosong = Masinikeun pasualan anu teu aya
+
+hartina.
+
+2. Mindingan beungeut ku saweuy = Ngéwa ka hiji jalma tapi api-
+
+api resep.
+
+3. Mipit kudu amit ngala kudu ménta = Lamun rék barangcokot/
+
+barangala, kudu bébéja heula ka nu bogana.
+
+4. Moro julang ngaleupaskeun peusing = Pagawéan anu geus puguh
+
+ditinggalkeun, ari nu puguh diudag-udag.
+
+5. Mun teu ngakal moal ngakeul = Lamun teu digawé moal
+
+barangdahar
+
+6. Nété tarajé nincak hambalan = Migawé satahap-satahap, henteu
+
+17.
+
+rusuh hayang anggeus sakaligus.
+
+7. Neukteuk curuk dina pingping = Nyilakakeun dulur sorangan
+
+8. Nu asih dipulang sengit = Pagawéan hadé dibales ku kagoréngan
+
+9. Ngadék sacékna nilas splasna = Sahinasna boh ucap boh paripolah,
+
+henteu bohong atawa ngaleuleuwihkeun.
+
+10. Ngajul bulan ku asiwung mesék kalapa ku jara = Migawé
+
+pagawéan anu moal kahontal, atawa teu asup akal
+
+11. Ngaliarkeun taleus ateul = Ngabéja-béja/nyebarkeun kagoréngan
+
+batur
+
+12. Ngawur kasintu nyieuhkeun hayam = Batur dipikanyaah ari dulur
+
+sorangan diantep
+
+13. Ngindung ka waktu ngabapa ka jaman = Nyaluyukeun manéh
+
+jeung kaayaan jaman
+
+Bab II 23
+PITUDUH HUSUS
+
+14. Ngukur ka kujur nimbang ka badan = Ngukur kana kamampuh atawa kaayaan diri sorangan
+15. Nyieun pucuk ti girang = Nyieun kasalahan ti heula 16. Pacikrak ngalawan merak = Nu leutik/miskin ngalawan nu gedé/
+beunghar 17. Pagiri-giri calik pagirang-girang tampian = Paluhur-luhur jeung
+batur, henteu hayang akur sorangan 18. Piit ngeundeuk-ngeundeuk pasir = Boga kahayang anu pamohalan
+kasorang 19. Pupulur méméh mantun = Barangdahar saméméh digawé 20. Silih jenggut jeung nu dugul = Ménta tulung ka jalma anu sarua
+keur ripuh
+
+Jawaban latihan 4:
+
+1. Batur mah sok teu weléh ditulungan ku Kang Uja téh, ari dulurna
+
+boga kabutuh sok haré-haré, ngawur kasintu nyieuhkeun hayam, nu
+
+kitu téh.
+
+2. Manéhna nu mimiti nyieun kasalahan téh, nu nyieun pucuk ti girang,
+
+tapi naha ayeuna bet malik nuduh ka kuring?
+
+3. Urang kudu ngindung ka waktu mibapa ka jaman, kudu bisa nuturkeun
+
+kaayaan jeung kamajuan jaman.
+
+4. Ulah sok resep ngaliarkeun taleus ateul, ngucah-ngacéh kagoréngan
+
+batur.
+
+18.
+
+5. Ih, kumaha ieu téh bet pupulur méméh mantun, can digawé tapi geus meunang buruh.
+
+6. Sing sabar ari baranggawé téh, kudu nété tarajé nincak hambalan, ulah
+
+hayang gancang anggeus bari hasilna teu hadé.
+
+7. Sing daék usaha atuh ari hayang boga panghasilan mah, apan ceuk
+
+paribasa gé mun teu ngakal moal ngakeul.
+
+8. Nu asih dipulang sengit nu kitu téh kasebutna. Kolotna nu ngurus ti
+
+bubudak, ayeuna bet dipingéwa ku manéhna.
+
+9. Ulah luhur teuing boga kahayng téh, urang kudu ngukur ka kujur
+
+nimbang ka badan, nyaluyukeun jeung kamampuh sorangan.
+
+10. Euh, sok tara bébéja Lina mah ari baranginjeum téh, apan ceuk
+
+paribasa ogé mipit kudu amit ngala kudu ménta.
+
+24 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+E. Niténan Babasan jeung Paribasa dina Wacana
+
+NO
+
+KAGIATAN
+
+Murid dikelompokkeun anu anggotana sakelompok opatan tuluy dibéré 19. pancén maca téks biantara anu aya dina buku kalawan gemet, sarta bari
+nyirian babasan jeung paribasa anu aya dina éta téks.
+
+20.
+
+Sabada kapanggih babasan jeung paribasan, tuluy digundukkeun, babasan babasan wungkul, paribasa paribasa wungkul.
+
+Téangan harti babasan jeung paribasa anu kapanggih téa dina buku
+
+21.
+
+kumpulan babasan jeung paribasa atawa kamus. Hadéna buku pangrojong anu dipikabutuh disadiakeun di perpustakaan sakola sarta bisa diinjeum
+
+iraha baé.
+
+22. Sabada kapanggih hartina, tuluy dilarapkeun kana kalimah.
+
+Hasil pagawéan kelompok, dibacakeun hareupeun kelas. kelompok séjén 23. ngajén kana hasil pagawéan kelompok anu midang, pangpangna dina
+nyusun kalimah, nepi ka jadi sawala (diskusi) kelas.
+24. Ieu pagawéan dilaporkeun dina wangun tinulis pikeun dipeunteun.
+
+PANUTUP
+Pikeun ngantebkeun pangaweruh murid kana pakeman basa anu mangrupa babasan jeung paribasa, murid jeung kelompokna dibéré pancén néangan babasan lobana 20 jeung paribasa lobana 20, boh nyutat tina omongan kolot di sabudeureun kahirupanna sapopoé boh tina buku atawa tina internét. Tuluy éta babasan jeung paribasa ditéangan hartina sarta tuluy dilarapkeun kana kalimah. Dikumpulkeun sakelompok hiji laporan.
+
+Bab II 25
+PITUDUH HUSUS
+
+PANGAJARAN 4
+NULIS LAPORAN KAGIATAN
+
+PANGANTEUR
+Tangtu di sakola remen diayakeun kagiatan anu ngalibetkeun sakabéh murid. Naha miéling acara agustusan, naha kagiatan Pekan Kreativitas Siswa, naha ngayakeun karyawisata, muludan, rajaban, jsb. kacida pentingna murid diajar ngadokumnéntasikeun kagiatan anu geus dipigawé dina wnagun tinulis, lain ngan sakadar dina wnagun poto. Hal ieu pikeun ngalatih cara mikir anu ngaruntuy (sistematis), nulis dina wanda resmi, nyusun kalimah anu merenah ringkes tur padet, sarta mikaweruh struktur nulis laporan kagiatan.
+
+KAGIATAN DIAJAR A. Maca Laporan kagiatan
+
+NO
+
+KAGIATAN
+
+1.
+
+Saméméh muka buku pangajaran,aya hadéna guru midangkeun rékaman ngeunaan kagiatan-kagiatan anu biasa dilaksanakeun di sakola.
+
+Lian ti gambar-gambar kagiatan, guru ogé bisa midangkeun rékaman
+
+2.
+
+conto pupuhu panata calagara hiji kagiatan keur macakeun laporan kagiatan. Upamana pupuhu panatacalagara paturay tineung, pupuhu
+
+panatacalagara miéling agustusan, jsb.
+
+Salila ngabandungan pidangan rékaman, murid nyekel alat tulis sarta 3. dibéré pancén nuliskeun ha-hal penting anu aya dina kagiatan atawa anu
+dilaporkeun ku pupuhu panatacalagara téa.
+
+Sabada réngsé, guru bisa mentés sababaraha urang murid macakeun hasil
+
+4.
+
+catetanana.Teu kudu kabéh, cukup sababaraha urang murid anu sakirana bisa ngawakilan sakabéhna. Ulah poho hasil cateta murid dikoméntaran,
+
+sarta méré kasempetan ka murid séjénna pikeun milu ngoméntaran.
+
+Sanggeus dianggap murid boga gambaran kana matéri anu bakal ditepikeun, murid kakara dibéré paancén pikeun maca conto laporan 5. kagiatan "Wisata Budaya ka Kampung mahmud". Ulah poho murid dibéré pancén nuliskeun struktur atawa babagian anu kudu aya dina laporan kagiatan.
+
+26 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+6.
+
+Salila maca, murid dibéré lolongkrang pikeun nanyakeun hal-hal anu teu kaharti, sarta guru siap sadia pikeun ngajéntrékeunana.
+
+Réngsé maca, murid migawé latihan. Ieu jawabanana:
+
+1. Kampung mahmud perenahna di Désa Mekarrahayu, Kacamatan
+
+Margaasih, Kabupatén Bandung.
+
+2. Kampung mahmud diadegkeun ku Eyang Abdul Manaf
+
+3. Dina jaman Walanda Eyang Abdul Manaf ngamukim di Mekah.
+
+Méméh mulang ka lemah cai, anjeunna munajat ka Allah di Kubah
+
+Mahmud nu aya di wewengkon Masjidil Harom, nyuhnkeun
+
+pituduh di mana tempat pamulangan anu moal katincak ku Walanda.
+
+Nya meunang ilapat kudu ngajugjug ka wewengkon ranca. Eyang
+
+Abdul Manaf ngalaksanakeun éta ilapat sarta ngadegkeun Kampung
+
+7.
+
+mahmud di wewengkon ranca sisi Walungan Citarum di Pasisian Bandung.
+
+4. Loba kénéh imah panggung, sawaréhna deui imah gedong.
+
+5. ­ teu meunang nyieun imah tina bahan témbok (permanén)
+
+- teu meunang nyieun imah ngagunakeun kaca
+
+- teu meunang nabeuh gooong
+
+- teu meunang nyieun sumur
+
+- teu meunang ngingu soang
+
+6. Ku sabab ulah kanyahoan ku Walanda, nya kaayaan lembur kudu
+
+simpé.
+
+7. Sabab éta pantrangan geus teu saluyu jeung kaayaan jaman.
+
+8. Gumantung kana jawaban murid.
+
+B. Niténan Laporan Kagiatan
+
+NO
+
+KAGIATAN
+
+Murid dIbéré pancén néangan conto rupa-rupa laporan kagiatan, boh 8. dokuméntasi di hiji organisasi boh nu aya dina buku, internét, atawa
+média massa. Rék dina basa Sunda atawa basa Indonésia.
+
+Laporan kagiatan beunang néangan téa tuluy ditengetan kalawan gemet,
+
+9.
+
+sarta dijieun kacindekkan bagian naon waé anu aya dina éta laporan kagiatan. Dituliskeun strukturna kalawan ngaruntuy. Mun basa Indonésia
+
+kudu ditarjamahkeun heula kana basa Sunda.
+
+10.
+
+Hasil paniténna dibacakeun hareupeun kelas. Guru jeung murid anu séjénna ngajén kana hasil pagawéanana.
+
+Bab II 27
+PITUDUH HUSUS
+
+C. Nulis Laporan Kagiatan
+
+NO
+
+KAGIATAN
+
+11.
+
+Murid dibéré pancén nyieun kelompok anu sakelompokna opat urang.
+
+12.
+
+Unggal kelompok dibéré pancén nengetan dua tulisan dina buku anu nyaritakeun hiji kagiatan.
+
+13.
+
+Dua naskah tadi dirobah jadi wangun laporan kagiatan anu struktur tulisanana jiga dina conto.
+
+Hasil tulisan kelompok dibacakeun hareupeun kelas. kelompok séjénna 14. ngajén kana hasil pagawéan anu dibacakeun. Diarahkeun sangkan jadi
+sawala (diskusi) kelompok.
+
+15. Hasil pagawéan kelompok dikumpulkeun.
+
+D. Pancén
+
+NO
+
+KAGIATAN
+
+Murid jeung kelompokna nyieun laporan kagiatan ngeunaan kagiatan 16. anu kungsi diayakeun, boh di lingkungan sakola boh di lingkungan
+masarakat di lemburna.
+
+Mun geus réngsé, pagawéan hiji kelompok ditukeurkeun jeung
+
+17.
+
+kelompok séjénna. Tuluy unggal kelompok ngajén tulisan beunang nyusun kelompok séjén, pangpangna nuliskeun naon kakurangan jeung
+
+kasalahanana.
+
+18.
+
+Hasil tulisan jeung hasil pangajén kana tulisan kelompok séjén dikumpulkeun pikeun dipeunteun.
+
+28 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+PANUTUP
+Guru nutup pangajaran, ku cara méré pancén keur pigawéeun di imah. Ulah poho méré gambaran kagiatan diajar minggu hareupna, sangkan murid bisa tatan-tatan nataharkeun bahan ajar anu aya patalina jeung matéri nu bakal ditepikeun heula. Guru ogé ulah bosen méré motivasi sangkan murid daék diajar sorangan, leuwih kréatip jeung aktip dina migawé pancén-pancén, geus kitu pangajaran ditutup ku ngado'a babarengan.
+Bab II 29
+PITUDUH HUSUS
+
+PANGAJARAN 5:
+MACA NOVEL
+
+PANGANTEUR
+Kiwari geus loba novel-novel Sunda anu caritana geus nuturkeun jaman, henteu ngan ngulibek nyaritakeun alam pilemburan tapi geus nyaritakeun alam kiwari jeung téhnologi anu leuwih deukeut jeung kahirupan barudak Sunda ayeuna. Ku kituna, dipiharep saméméh ngajarkeun ieu matéri, guru macaan heula rupa-rupa novel barudak anu témana ogé rupa-rupa. Pikeun ngahudang karep barudak kana maca, guru bisa nyaritakeun eusi rupa-rupa novel anu dibacana saliwat-saliwat. Dina ieu pangajaran, murid teu cukup ku maca sempalan novel wungkul, tapi dikudukeun maca novel anu gembleng, minimal sajudul. Tuluy dianalisis unsur-unsurna.
+
+KAGIATAN DIAJAR A. Maca Sempalan Novel
+
+NO
+
+KAGIATAN
+
+Saméméh kagiatan diajar, guru némbongkeun rupa-rupa novel barudak dina basa Sunda bari nyaritakeun eusina saliwat-saliwat,pikeun ngahudang rasa panasaran dina diri murid sangkan hayang maca eusina. Malah alusan 1. mah ditambahan ku sawatara novel Sunda bacaeun kolot, pangpangna novel Sunda anu medal dina awal kamekaranana. Upamana Baruang Ka Nu Ngarora karangan D.K. Ardiwinata, Rusiah Nu Goréng Patut karangan Sukria jeung Yuhana, Lain Eta karangan Moh.Ambri, jrrd.
+
+Sanggeus pantén murid museur, kakara pedaran museur kana novel anu 2. dicutat sempalanana dina buku, nyaéta novel Rasiah Kodeu Biner jeung
+Catetan Poéan Réré.Alusna novelna ditémbongkeun ka murid di kelas.
+
+Murid dibéré pancén maca sempalan novel Rasiah Kodeu Biner. Ulah 3. poho murid diingetan nyadiakeun catetan pikeun nuliskeun kekecapan
+anu teu kaharti anu kapanggih dina sempalan novel téa.
+
+4.
+
+Kekecapan anu teu kaharti téa digundukkeun, pikeun ditéangan hartina dina kamus atawa diterangkeun ku guru.
+
+30 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Sabada réngsé maca, murid dibéré pancén nyaritakeun deui naon anu
+
+5.
+
+dibacana maké basana sorangan.Teu kudu unggal murid,cukup sababaraha urang pikeun ngawakilan kelas. Hal ieu penting pikeun mikanyaho nepi
+
+ka mana kamampuh murid dina nyangkem eusi bacaan.
+
+B. Maham Eusi Sempalan Novel
+
+NO
+
+KAGIATAN
+
+6.
+
+Sangkan murid leuwih paham kana eusi sempalan novel, murid dibéré pancén ngajawab pananya anu patali jeung eusi sempalan.
+
+Jawaban pananya eusi sempalan:
+
+1. Palaku dina sempalan novel 1: Rina, Anis, Diran, Emod, Indung
+
+Rina, Bu Lilis, Lalaki duaan nu saurang ngaran Ahmid, Jang Wandi,
+
+Bu Ening, Pa Sukaya, jeung Sudira.
+
+2. Ku sabab sempalan urang can bisa mastikeun saha palaku utamana,
+
+tapi mun niténan kana eusi carita, bisa jadi anu jadi palaku utamana:
+
+Rina, Anis, Diran, jeung Emod.
+
+3. Pasipatan anu opatan, balageur, palinter, sarta loba kapanasaran.
+
+4. Latar waktu isuk-isuk di imah Rina. Anu dicaritakeun ku Emod di
+
+7.
+
+wc sakola jeung tempat parkir beurang jeung di warnét pasosoré. 5. Lantaran butuheun keretas anu dibabawa ku Emod sarta tinggaleun
+
+di wc, meunang manggih tina saku kaméja bulao ti gudang.
+
+6. Ukur angka 1 jeung 0, atawa kodeu biner.
+
+7. Nyieun heula surat anu eusina angka 1 jeung 0 di warnét.
+
+8. Tuluy leumpang ka sakola nyokot keretas anu tinggaleun di wc téa,
+
+tuluy leumpang ka imah Diran, nyaritakeun pangalamanana basa
+
+dibawa kabur ku lalaki duaan.
+
+9. Lantaran diculikna basa kaluar ti wc, babaturanana euweuh di dinya.
+
+Tuluy rék nelepon ogé teu apaleun nomer babaturanana.
+
+10. Jawaban gumantung ka murid séwang-séwangan.
+
+C. Niténan Unsur Novel
+
+NO
+
+KAGIATAN
+
+8.
+
+Murid maca pedaran ngeunaan unsur-unsur novel. Sangkan murid gancang paham, hadéna dibarengan ku pedaran ti guru ongkoh.
+
+Bab II 31
+PITUDUH HUSUS
+
+9.
+
+Murid dibéré kasempetan pikeun nanyakeun ngeunaan eusi novel Rasiah Kodeu Biner. Hadéna guru geus maca eusi novelna sacara gembleng.
+
+Dina ieu pedaran murid kudu paham pisan kana anu dimaksud unsur-
+
+unsur novel, naon anu dimaksud palaku sarta kumaha porsi peranna dina
+
+10.
+
+carita nepi ka aya sesebutan palaku utama jeung palaku panambah, naon anu dimaksud latar boh waktu boh tempat, nu kumaha anu disebut galur
+
+carita, jeung naon anu dimaksud téma. Dina téma pangpangna sok loba
+
+kénéh murid anu pamahamanna pabeulit jeung amanat.
+
+Sabada murid paham kana pedaran guru, murid dikelompokkeun sarta 11. dibéré pancén pikeun latihan ngaaprésiasi sempalan novel "Catetan
+Poéan Réré" jeung "Nu Sengit Dipulang Asih" anu aya dina buku.
+
+12. Murid jeung kelompokna maca sempalan novel babarengan.
+
+13. Murid nuliskeun ringkesan sempalan novel anu dibacana
+
+14.
+
+Murid nuliskeun unsur-unsur novel anu aya dina sempalan novel: palaku, latar, galur, jeung téma.
+
+Hasil panitén murid ditulis kalawan rapih, tuluy dibacakeun hareupeun 15. kelas. Bisa jadi hasil panitén hiji kelompok béda jeung hasil panitén
+kelompok séjénna. Ieu hal bisa jadi bahan sawala (diskusi) kelas.
+
+E. Nganalisis Tingkesan Novel
+
+NO.
+
+KAGIATAN
+
+16.
+
+Dina ieu bagian dipiharep siswa miboga kamampuh ngabédakeun antara wacana sempalan novel jeung tingkesan novel.
+
+Guru maréntahkeun murid maca conto tingkesan novel "Mantri
+
+Jero"
+
+17.
+
+Sajeroning maca, siswa diparéntah pikeun merhatikeun kaidahkaidah basa tulis nu aya dina éta tingkesan novel, kayaning tanda
+
+baca, nuliskeun hurup kapital, isiltah, pilihan kecap, kaasup undak-
+
+usuk basana.
+
+Pancén 4 18. Guru maréntahkeun siswa pikeun nuliskeun poko pikiran utama nu
+aya dina unggal paragrap tingeksan novel "Mantri Jero".
+
+19. Guru maréntah siswa pikeun ngalaporkeun hasil pagawéanana.
+
+32 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+F. Nulis Sempalan jeung Tingkesan Novel
+
+NO.
+
+KAGIATAN
+
+Dina ieu bagian dipiharep siswa miboga kamampuh pikeun nuliskeun 20. sempalan jeung ningkes novel luyu jeung kaidiah-kaidahna.
+
+21.
+
+Guru maréntah siswa pikeun maca pedaran singget ngeunaan tingkesan jeung sempalan novel.
+
+Guru nugaskeun siswa pikeun maca hiji judul novel séjénna, tuluy siswa diparéntah pikeun nuliskeun sempalan jeung tingkesan tina éta 22. novel nu dibacana. Pikeun migaé ieu tugas bisa dipigawé ku saurang, duaan, atawa kelompok (diluyukeun jeung situasi jeung kondisi siswana).
+
+23.
+
+Guru ngumpulkeun hasil pagawéan siswa jeung maréntahkeun siswa pikeun macakeun éta hasil pagawéanana.
+
+G. Pancén
+
+NO
+
+KAGIATAN
+
+Unggal murid dibéré pancén néangan novel Sunda. Alusna guru méré 16. rékoméndasi novel naon baé anu kudu dibaca ku murid. Malah leuwih
+hadé lamun novél-novélna disadiakeun ku perpustakaan sakola.
+
+Unggal murid maca hiji novel nepi ka tamat. Tuluy sina ngaringkes
+
+17.
+
+eusina jeung nuliskeun unsur-unsurna. Sangkan laporanna ngaruntuy, dina ngaringkes dipasing-pasing unggal bab anu engkéna bakal jadi galur
+
+carita.
+
+18.
+
+Murid anu maca novélna sarua judulna dihijikeun jadi sakelompok.Tuluy dibéré pancén ngadiskusikeun hasil laporanana.
+
+19.
+
+Tuluy hasil laporan unggal anggota kelompok dirangkum jadi hiji laporan, anu bakal dikumpulkeun ka guru.
+
+Hasil ngaringkes kelompokna dibacakeun hareupeun kelas, sangkan
+
+19.
+
+murid séjén anu maca novel anu béda, apal kana eusi novl séjénna. Ka cara kieu, murid bakal apal sakaligus kana eusi sababaraha novel najan
+
+macan ngan hiji.
+
+Bab II 33
+PITUDUH HUSUS
+
+kelompok séjén ngajén atawa nanya ka kelompok anu keur macakeun 20. laporanana. Jadi penting pisan, boh guru boh kelomlpok anu macakeun
+laporanna, apal kana eusi novel anu keur dipedar.
+
+21.
+
+Guru meunteun hasil laporan tinulis jeung hasil pidangan kelompok di hareup.
+
+PANUTUP
+Sabada murid ngagulang-gapér novel, dipiharep bisa ngaronjatkeun karepna pikeun macaan novel-novel séjénna, peran guru kacida pentingna pikeun ngahudang kapanasaran murid nepi ka timbul karep pikeun maca. Taya salahna mun murid dibéré pancén deui maca novel pikeun laporan ahir seméster.
+
+34 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+PANGAJARAN 6:
+DRAMA
+
+PANGANTEUR
+Mun niténan kaayaan kiwari, mémang drama téh geus langka dipintonkeun. Najan lain hartina tara aya. Di Gedong Kasenian Rumentang Siang Bandung upamana, unggal taun mayeng diayakeun pestival drama basa Sunda.Atawa dina acara paturay tineung, biasana sok aya anu mintonkeun drama. Tapi mun héséhésé teuing mah néangan conto, kapan sinétron ogé sarua jeung drama, ngan pédah waktuna panjang pisan. Dina ieu pangajaran murid bakal diwanohkeun kana naskah drama sarta sakaligus molahkeunana (merankeunana).
+
+KAGIATAN DIAJAR A. Maca Naskah Drama
+
+NO
+
+KAGIATAN
+
+Saméméh kagiatan diajar dimimitian, guru midangkeun sempalan drama dina wangun video. Ulah ngan hiji contona, bisa sababaraha drama. Mun aya mah dina 1. wangun teater, gending karesmén, sendratari, atawa longsér. Sangkan murid kahudang karepna kana ieu matéri. Malah pikeun ngairing suasana diajar anu tumaninah jeung pikaresepeun, aya alusna midangkeun drama anu aya bodoran ongkoh.
+
+Sabada lalajo pidangan babarengan, murid dibéré pancén niténan naskah drama anu judulna "Si Ujang Jadi Prabu". Ulah poho murid salila maca 2. téh diingetan nyadiakeun alat tulis pikeun nyatetkeun hal-hal anyar atawa anu ngahudang kapanasaranana anu kapanggih dina naskah anu keur dibacana.
+
+Sabada réngsé maca naskah drama, guru ngajak murid ngadiskusikeun
+
+3.
+
+hasil bacaan murid, pangpangna ngeunaan wangun tulisan drama anu béda jeung wangun tulisan séjénna. Murid dimotivasi sangkan nanyakeun
+
+naon baé anu jadi kapanasaranana.
+
+Bab II 35
+PITUDUH HUSUS
+
+4.
+
+Sabada réngsé tanya-jawab, murid ngeusian latihan anu geus disadiakeun.
+
+Jawaban latihanna:
+
+1. Anu ngalalakon dina naskah drama Si Ujang Jadi Prabu nyaéta Gusti
+
+Prabu, Paman Léngsér, Praméswari, jeung Radén Aria.
+
+2. Baluweng ku dua perkara.Anu kahiji lantaran rahayat keur keuna ku
+
+rupa-rupa musibat, anu kadua lantaran putrina teu damang.
+
+3. Orok kakara brol tapi bedegul, bisa kokorondangan, jaba bisa
+
+5.
+
+nyarita. 4. Kudu ditumbal ku tujuh mustika'
+
+5. Radén Aria. Pasipatanana ogo jeung gumasép.
+
+6. Praméswari nyaéta istri resmi raja atawa sok disebut ogé garwa
+
+padmi.
+
+7. Adegan kaluarna Radén Aria putra raja anu maké saragam SD, sarta
+
+omonganana.
+
+8. Jalma-jalma sakti.
+
+B. Niténan Naskah Drama
+
+NO
+
+KAGIATAN
+
+6.
+
+Murid maca pedaran dina bagian niténan naskah drama, nepi ka paham kana bagian-bagian atawa ciri-ciri husus anu aya dina naskah drama.
+
+Sabada paham kana ciri-ciri naskah drama, murid diwangun kelompok 7. anu sakelompokna paling loba genep urang tuluy dibéré naskah drama
+séjénna.
+
+8. Murid ngadiskusikeun naskah drama anu anyar.
+
+9. Murid ngaringkes eusi naskah drama maké basa lancaran.
+
+Murid nuliskeun ciri-ciri husus dina naskah drama luyu jeung anu 10. dipertélakeun dina pedaran. Dicutat bagian-bagian anu jadi ciri husus
+téa.
+
+11.
+
+Réngsé unggal kelompok niténan naskah drama, unggal kelompok ka hareup macakeun hasil paniténna.
+
+36 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+12.
+
+kelompok séjén dibéré kasempetan pikeun nanya atawa ngajén kana eusi laporan ti kelompok nu di hareup.
+
+C. Metakeun Drama
+
+NO
+
+KAGIATAN
+
+13.
+
+Murid jeung kelompokna ngabagi peran pikeun pikeun metakeun naskah drama Si Ujang Jadi Prabu nepi ka tamat.
+
+14.
+
+Sabada bérés ngabagi peran, tuluy saréréa ngapalkeun naskah drama luyu jeung peranna séwang-séwangan.
+
+Murid dibéré kasempetan pikeun latihan jeung kelompokna, sangkan 15. dina pintonan dramana, boh réngkak boh lentong, luyu jeung pameredih
+eusi naskah.
+
+Unggal kelompok mintonkeun pagelaran drama Si Ujang Jadi Prabu. 16. Kelompok séjénna nuliskeun kakurangan jeung kaunggulan tina
+pintonan kelompok anu keur midang.
+
+Sabada réngsé pintonan hiji kelompok, diayakeun sawala pikeun ngajén
+
+kana pintonan tadi,sangkan unggal kelompok apal di mana kakuranganana.
+
+17.
+
+Kitu jeung kitu nepi ka unggal kelompok minton kabéh. Kadé dina pintonan alusna murid maké kostum anu luyu, pikeun numuwuhkeun
+
+kreativitas dina dirina jeung sangkan daria dina molahkeun dramana.
+
+Ulah disengker ku waktu, da waktu mah laluasa.
+
+D. Pancén
+
+NO
+
+KAGIATAN
+
+Murid jeung kelompokna dibéré pancén nyieun naskah drama anu 18. témana bébas, anu jumlah palakuna diluyukeun jeung jumlah anggota
+kelompok.
+
+Naskah meunang nyusun murid dipilih anu pangalusna, sarta kelompok
+
+19.
+
+anu kapilih pangalusna kudu molahkeun naskahna hareupeun kelas. Hal ieu kudu dibéjakeun ti anggalna sangkan murid kahudang karepna
+
+pikeun nyieun naksah paalus-alus.
+
+Bab II 37
+PITUDUH HUSUS
+
+20.
+
+Kelompok séjén dibéré kasempetan pikeun ngajén pidangan kelompok anu kapilih téa.
+
+PANUTUP
+Sabada pangajaran réngsé, tangtu murid bakal paham pisan kana naon anu disebut drama. Pikeun pancén kelompok di imah, murid nyieun rékaman molahkeun drama tina naskah anu geus disusun ku kelompokna téa. Dirékam dina wangun video, anu engkéna bakal dipidangkeun di kelas. Lantaran waktuna laluasa sarta nyieunna ukur sakelompok, murid bisa molahkeun drama anu dirojong ku kostum jeung akting anu alus. Hasilna dilalajoan ku saréréa sarta diajén ku kelompok séjénna.
+
+38 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Bab III
+Bahan Pangjembar
+39
+
+A. WANGUN KARYA SASTRA
+
+Puisi
+
+Ngawujud lalakon Buhun
+Teu ngawujud lalakon
+
+Modéren
+
+sajak bebas
+
+1. wawacan
+2. carita pantun
+1. mantra 2. Sisindiran 3. kakawihan 4. pupujian 5. guguritan
+
+KARYA SASTRA
+
+Prosa Drama
+
+Buhun
+
+1. dongéng 2. carita wayang
+
+Modéren
+
+1. carita pondok 2. novel 3. éséy
+
+Lisan (teu maké naskah)
+
+sandiwara(ngalalakonkeun roman, babad, jeung desik (lalakon ti nagara Arab)
+
+Modéren/téater (maké naskah)
+
+B. BASA
+Basa téh nyaéta sintem lambang sora omongan anu dihasilkeun ku pakakas ucap manusa kalawan puguh éntép seureuhna (sintematis) tur ragem (konvénsional) antar anggota masarakatna pikeun tujuan komunikasi.
+FUNGSI BASA Fungsi basa téh peran anu dicekel ku basa minangka alat komunikasi. Fungsi
+basa muncul dumasar kana: 1. panyatur 2. paregep 3. konteks
+4. kontak
+40 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+5. kode 6. amanat omongan Mun digambarkeun mah kieu fungsi basa téh:
+Fungsi Emotif Fungsi Konatif FUNGSI BASA Fungsi Kognitif Fungsi Patis Fungsi Imajinatif Fungsi Métabasa 1. Fungsi Emotif nyaéta fungsi basa anu raket patalina jeung panyatur, gunana pikeun ngébréhkeun rasa, pikiran, tur kahayang panyaturna. 2. Fungsi Konatif nyaéta fungsi basa anu raket patalina jeung paregep (pamaca), gunana pikeun nimbulkeun pamapag (responsi) ka paregep, tujuanana bisa ngajak, mangaruhan, nitah, nyaram, nanya, mapatahan, jst. 3. Fungsi kognitif nyaéta fungsi basa anu raket patalina jeung konteks atawa objék nu dicaritakeun, gunana pikeun ngagambarkeun dunya luar basa kayaning ngulik, ngadadarkeun, jeung medar élmu pangaweruh. 4. Fungsi patis nyaéta fungsi basa anu raket patalina jeung kontak interaksi, gunana pikeun nepungkeun panyatur jeung paregep geusan ngajaga talisilaturahmi, silihajénan, tur silihormat. 5. Fungsi imajinaf nyaéta fungsi basa anu raket patalina jeung amanat atawa pesen omongan minangka makéna basa jadi lambang kaéndahan. Museur kana amanat lambang basa anu nimbulkeun rasa éndah, tujuanana ngarah meunang kasugemaan batin, biasana mangrupa kristalisasi pangalaman jiwa pamaké basa tur diréalisasikeun winangun karya sastra. 6. Fungsi métabasa nyaéta basa anu raket patalina jeung lambang (kode, tanda) basa, gunana pikeun maluruh tur medar basana sorangan. Contona, basa Sunda mibanda fungsi ngulik jeung medar basa Sunda.
+Bab III 41
+BAHAN PANGJEMBAR
+
+PANGAJARAN 1
+GIRANG ACARA
+Dina unggal acara atawa riungan, boh resmi boh kulir, tangtu sok aya nu ngaluluguan muka acara. Geus puguheun model acara-acara resmi pamaréntahan, dines, atawa organisasi mah, dalah dina acara modél papacangan atawa réunian jeung babaturan sakelas baheula, pancén girang acara téh kacida diperlukeunana. Pangpangna mah sangkan acara puguh alang-ujurna. Puguh kumaha mimitina, puguh kumaha runtuyanna, sarta puguh kumaha pungkasanana.
+Kapan ayeuna mah geuning MC (master of ceremony) téh geus jadi hiji profesi anu bayaranana ogé mahal. Nepi ka loba jalma anu boga kapinteran dina nyarita, ngahususkeun manéh nyekel profési girang acara (MC). Komo sabada loba média televisi anu remen ngayakeun acara-acara, peran girang acara téh kacida diajénanana. Nepi ka aya girang acara anu dibayar ratusan juta dina sakali midang téh. Ku kituna, jaman kiwari mah kaparigelan jadi girang acara téh geus jadi profési anu bisa diandelkeun keur kahirupan. Kitu deui deui peran panumbu catur, ayeuna mah kacida pentingna lantaran loba dinas/instansi/organisasi anu ngayakeun diskusi, seminar, atawa lokakarya. Panumbu catur gé geus dijadikeun profési anu dibayar mahal ayeuna mah. Ieu di handap aya sababaraha hal anu jadi pancén panumbu catur dina sawala: 1. ngatur lumangsungna sawala. 2. muka sawala sacara resmi. 3. ngatur giliran nu rék nyarita. 4. nangtukeun lilana nyarita. 5. teu meunang ngarobah poko permasalahan atawa tema. 6. bisa ngeureunkeun sawala, lamun pamilon teu tartib. 7. nutup sawala.
+Husus dina rutuyan acara ngawinkeun upamana, kapan peran girang acara téh sakitu pentingna. Ti mimiti nanyaan, ngalamar, nyeureuhan, seserahan, akad nikah, upacara adat, nepi ka acara hiburanana kudu maké girang acara. Kapan nepi ka aya bukuna husus runtuyan acara jeung biantara-biantara anu biasa ditepikeun dina acara ngawinkeun. Judul bukuna "MODANA" anu disusun ku R.H. Uton Muchtar sareng Ki Umbara. Kanggo bapa/ibu Guru nu palay neleban runtuyan acara ngawinkeun, tiasa maos ieu buku.
+42 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Pikeun conto-contona mah dina buku cecekelan murid geus dibéréndélkeun naskah girang acara jeung panumbu catur. Da enas-enasna mah sarua baé, boh pancénna boh pok-pokanana, kari ngarobah maksudna baé diluyukeun jeung acara anu keur dilaksanakeun. Dina bubuka, biasana ngajak sukuran ka Gusti anu tos ngawidian nepi ka acara bisa lumangsung, ngadugikeun solawat ka kangjeng Nabi, nganuhunkeun ka nu haladir, nétélakeun éta riungan téh dina raraga naon, sarta ngumumkeun béréndélan acara anu bakal dilakonan. Penting pisan dibéréndélkeun sangkan anu kabagéan pancén, pangpangna nepikeun pamapag, apal iraha kudu ngalaksanakeun pancénna.
+Satuluyna ngahaturanan anu bakal mancén atawa cumarita. Geus bérés, nganuhunkeun ka nu tos ngalaksanakeun pancénna/cumarita téa. Tuluy ngahaturanan anu cumarita satuluyna. Kitu jeung kitu nepi ka runtuyan acara béak. Geus kitu girang acara/panumbu acara boga pancén nutup acara. Husus pikeun panumbu catur, kudu dipungkas ku nyindekkeun hasil diskusi. Nu matak girang acara/panumbu catur mah wayahna kudu ngajentul ti mimiti nepi ka pungkasan acara.
+Bab III 43
+BAHAN PANGJEMBAR
+
+PANGAJARAN 2
+BAHASAN
+Sakabéh tulisan anu dimuat dina média massa, disebutna artikel. Aya anu dina wangun warta, feature, bahasan, éséy, atawa kolom. Nepi ka kiwari, can aya téori anu bener-bener bisa misahkeun wangun tulisan antara bahasan, éséy, atawa kolom. Bisa jadi tulisanana mah éta-éta kénéh, ngan béda méré ngaran wungkul. Upamana istilah kolom, mimiti populérna sabada dipaké ku MajalahTémpo. Majalah Manglé ogé milu maké éta istilah pikeun méré ngaran kana artikel-artikel wangun éséy anu ditulisna leuwih pondok batan anu disebut bahasan ku éta majalah.
+Bisa jadi, anu rada ngabédakeunana téh dina cara nulisna. Lamun bahasan, leuwih réa ditulis dina wangun narasi, déskripsi, jeung eksposisi. Sedeng éséy mah biasana eusina leuwih arguméntatif atawa disebut ogé wangun arguméntasi. Dina harti, loba nyodorkeun pamanggih anu nulis kana hiji perkara.
+Nu disebut narasi téh nyaritakeun. Gaya nulisna wungkul nyaritakeun hiji perkara anu sipatna informatif. Kamampuh nulis pangarang bakal kaciri pisan dina wangun narasi mah. leuwih tapis ngolah basa, bakal leuwih matak ngirut nu maca eusi tulisanana.
+Sedeng déskripsi mah nataan. Nyebutan sarupaning hal ditéték nepi ka bubuk leutikna, nepi ka nu maca meunang gambaran anu lengkep ngeunaan naon-naon anu ditepikeun ku anu nulis. Mun nataan hiji patempatan téa mah, nepi ka tembres kagambar dina pikiran anu maca kumaha kaayaan di éta tempat.
+Dina tulisan éksposisi, biasana nu nulis téh nepikeun hiji perkara pikeun nambahan pangaweruh anu macana. Upamana kumaha carana nyieun endog asin. Hal-hal anu patali jeung endog asin, ti mimiti nyieunna nepi ka kumaha masarkeunana, dipedar gemet pisan. Nepi ka anu maca téh meunang pangaweruh anyar anu bisa dipraktékkeun ku sorangan. Bisa ogé ngeunaan hasiat tutuwuhan pikeun ubar, cara ngolah barang-barang urut sangkan aya mangpaatna, jsb.
+Nu kaopat, wangun tulisan arguméntasi. Tah biasana dina média massa mah sok disebut éséy atawa kolom téa.Tulisanana leuwih kritis, biasana medar ngeunaan pasualan-pasualan aktual anu patali jeung kapentingan umum. Gagasan jeung pamadegan anu nulis leuwih kentel karasana, sarta méré pangaruh kana cara mikir anu maca. Inteléktual anu nulis bakal kagambar dina eusi tulisanana.
+Sanajan wangun tulisan dipasing-pasing, tapi dina émprona mah sok gumulung baé. Komo ari narasi mah, da biasana dina unggal tulisan ogé pasti aya. Ngan meureun loba saeutikna, anu bisa dipaké ciri téh. Mana anu leuwih dominan dina tulisan, éta bisa dipaké nyirian wangun tulisanana.
+Di dieu moal dipidangkeun conto-conto tulisanana, lantaran ku niténan ciricirina ogé jigana guru bisa ngabédakeun artikel nu hiji jeung ju séjénna.
+44 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+PANGAJARAN 3
+PAKEMAN BASA
+Urang Sunda, kasohor beunghar ku pakeman basa atawa anu sok disebut idiom téa. Asalna tina basa Yunani idios anu hartina has, mandiri, husus, pribadi. Jadi pakeman basa téh nyaéta wangun basa anu husus tur mandiri sarta harti anu dikandungna teu bisa dihartikeun sajalantrahna nurutkeun harti tata basa. Anu kaasup kana pakeman basa téh di antarana:
+1. Babasan Babasan nyaéta ungkara winangun kecap (kantétan) atawa frasa anu susunan basana geus matok sarta ngandung harti injeuman. Contona tingali dina buku murid.
+2. Paribasa Paribasa nyaéta ungkara winangun kalimah atawa klausa anu kekecapan katut susunan basa geus matok sarta teu bisa dirobah. Upamana basa kasar teu meunang dirobah kana basa lemes pédah nyarita jeung saluhureun. Biasana ngandung harti babandingan minangka siloka lakuning hirup manusa. Contona tingali dina buku murid.
+3. Gayabasa Gayabasa nyaéta rakitan basa anu dipaké sangkan ngahudang pangaruh (efek) anu leleb karasana ka nu maca atawa nu ngaregepkeun. Contona: - Pucuk kalapa lir nu ngagupayan - Panonna mani hurung - Beungeutna pias kawas kapas - Budak téh teu katempo tarang-tarangna acan
+4. Rakitan Lantip Rakitan lantip téh nyaéta susunan kecap anu dihartikeunana ku kabiasaan maké dadasar lantip. Contona: - Cik pangmiceunkeun tampolong. Anu dipiceun eusina, lain tampolongna. - Eh, seungit nu ngagoréng bawang. Anu seungit téh goréng bawangna, lain anu ngagoréngna.
+5. Kecap Kiasan Kecap kiasan nyaéta kecap anu hartina dipapadékeun kana harti kecap séjén atawa sok disebut ogé ngandung harti konotatif (harti injeuman/harti anu teu sabenerna).
+Bab III 45
+BAHAN PANGJEMBAR
+
+Contona: - Na mani ngahampas pisan ka batur téh. - Néng Tuti téh béntangna di kelas 7 a. 6. Cacandran Cacandran nyaéta panataan kana pasipatan tempat anu dibalibirkeun. Nuduhkeun kaayaan (kondisi) hiji tempat. Contona: Bandung heurin ku tangtung, Sumedang ngarangrangan, Cianjur katalanjuran, jsb. 7. Uga Uga nyaéta tujuman (torah) anu aya patalina jeung parobahan penting, babakuna parobahan kaayaan nagara (daérah). Contona: - Sunda nanjung mun pulung geus turun ti Galunggung. - Pulo Jawa kaéréh ku kulit kuning lilana saumur jagong. 8. Caturangga Caturangga nyaéta pakeman basa anu nuduhkeun tanda-tanda pikeun mikanyaho hadé goréngna watek kuda mun diingu. a. Satria tinayungan (pinayungan) nyaéta watek kuda anu hadé, matak
+mulya ka nu ngingu; tanda kukulinciran dina tonggong handapeun sela beulah katuhu. b. Sekar panggung nyaéta watek kuda anu hadé, mawa rahayu ka nu ngingu; tandana bulu suku kuda ti handap nepi kana tuurna opatanana bodas. c. Sumur bandung nyaéta watek kuda anu hadé, matak loba rejeki, tandana aya kukulinciran dina tarang kuda. d. Wisnu murti nyaéta watek kuda anu hadé, tandana bulu kuda hideung meles. e. Buaya ngangsar nyyaéta watek kuda anu goréng, dibawa meuntas dina parung sok depa, dina leuwin sok palid; tandana kukulinciran dina beuteung beulah tukang. f. Tumpur ludes nyaéta watek kuda anu goréng, matak sangsara ka nu ngingu; tandana kukulinciran dina beuteung beulah hareup. g. Turub layuan nyaéta watek kuda anu goréng.Matak pikasieuneun;tandana kukulinciran dina tonggong kuda, handapeun sela beulah hareup. 9. Candrasangkala (kronogram) Candrasangkala nyaéta kalimah atawa frasa nu ngandung harti panataan angka taun. Anu dipaké patokan téh sok taun Saka (pananggalan bangsa Syek di India nu diitung ti lahirna Raja Salihwarna nu ganjor 78 taun ti Nabi Isa). Ku kituna, keur nyaruakeun taun Saka jeung taun Maséhi sok ditambah 78 taun.
+46 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Contona: - Panca pandawa ngemban bumi: 5521-1255 Saka-1333 Maséhi, ngadegna
+Karajaan Pajajaran. - Sirna ilang kertaning bumi: 8741 ­ 1478 Saka ­ 1556 Maséhi, runtagna
+Karajaan Majapahit. 10. Repok
+Repok nyaéta tujuman (torah) anu aya patalina jeung cara nganyahokeun alus henteuna nasib dua jalma nu rék laki rabi. Upamana wedan Senén repok jeung wedak Kemis. Lantaran Senén lambangna kembang, Kemis lambangna angin. Lamun kembang kaanginkeun tangtu seungit nyambuang. Wedal Salasa repokna ka wedal Jumaah. Lantaran Salasa lambangna seuneu, sedeng Jumaah lambangna cai. Lamun seuneu dibanjur ku cai, tangtu jadi tiis. Wedal Rebo repokna ka wedal Saptu. Lantaran Rebo lambangna daun, sedengkeun Saptu lambangna bumi. Tangkal tumuwuhna di bumi. Sedeng poé minggu mah dilambangkeun méga, ieu gé disebutna repok jeung wedal Rebo lantaran daun ngaluhuran bisa ngahontal méga. Dina repok téh aya itungan anu patali jeung ma'na ninggangna dina naon, naha bagja, pati, rejeki, cilaka, jsb. Aya dua ma'na anu dikandungna, nyaéta: a. Ma'na anu alus kayaning: ratu sabdaning pandita, padaringan kebek,
+sangga waringin, satria lalaku. b. Ma'na anu goréng kayaning pisang punggel, lumbung gumulung, jeung
+tunggak kasemi.
+Bab III 47
+BAHAN PANGJEMBAR
+
+PANGAJARAN 4:
+LAPORAN KAGIATAN
+Dina nulis Laporan Kagiatan, anu penting mah puguh heula sistematikana. Najan teu baku, tapi dina laporan kagiatan biasana ngawengku sababaraha bagian. Lamun diringkeskeun mah kieu sistematika laporan kagiatan téh: 1. Bubuka
+1.1. Kasang tukang Eusina ngeunaan alesan-alesan naon pentingna dijieun laporan sabada ngalaksanakeun hiji kagiatan. Dina kasang tukang ogé ditulis gambaran umum ngeunaan kagiatan anu geus dilaksanakeun téa.
+1.2. Tujuan Dina ngayakeun hiji kagiatan tangtu miboga tujuan anu sipatna positip sarta gedé mangpaatna keur balaréa. Tah tujuan ngayakeun ieu kagiatan téh kudu dijéntrékeun sing mérélé, sangkan lamun hasilna alus bisa dilaksanakeun deui ka hareupna.
+2. Prosés Lumangsungna Kagiatan 2.1. Hasil kagaiatan Dina laporan kagiatan tangtu baé hasilna kudu dilaporkeun. Upamana ngayakeun kagiatan pasanggiri basa Sunda anu ngawengku sababaraha mata lomba. Dina hasil kudu dibéréndélkeun saha waé anu jadi pinunjul dina éta pasanggiri. Alusan ditabélkeun anu ngamuat waktu kagiatan, jenis lombana, jeung saha waé pinunjulna, sangkan leuwih jéntré. 2.2. Sumber Waragad Sumber waragad anu digunakeun dina ngayakeun hiji kagaiatan kudu dilaporkeun, komo lamun waragadna ngagunakeun anggaran dinas atawa organisasi. Kudu ditataan nepi ka sapérak dua pérakna duit anu dikaluarkeun sarta dibarengan ku bukti pengeluaran mangrupa kuitansi atawa nota. Hal ieu pikeun nyingkahan sangkaan goréng ti anggota dinas/organisasi anu teu jadi panitia. 2.3. Halangan Harungan Kagiatan Hal ieu gé perlu ditulis dina laporan, pikeun bahan evaluasi lamun rék ngayakeun deui kagaiatan anu sarupa ka hareupna. Ku ayana bahan evaluasi, halang-halangan anu ngaganggu kana kalancaran acara bisa disingkahan atawa diantisipasi ti anggalna.
+48 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+3. Panutup Dina panutup mah biasa ngamuat kacindekkan jeung saran atawa nganuhunkeun ka unggal pihak anu geus méré bantuan nepi ka acara bisa dilaksanakeun.
+Bab III 49
+BAHAN PANGJEMBAR
+
+PANGAJARAN 5:
+NOVEL
+Novel téh carita anu panjang anu ditulis dina wangun lancaran. Kajadianana diréka lir anu enya-enya kajadian. Jalan caritana loba bagian-bagianana, tapi sambung sinambung ngawangun hiji leunjeuran carita anu gembleng. Ku lantaran loba bagian-bagianna téa, tangtu baé latar waktu jeung latar tempatna ogé leuwih lega. Kitu deui palakuna, biasana leuwih loba, pangpangna dina palaku panambah. Atuh dina nyaritakeun pasipatan jeung paripolah palakuna ogé leuwih laluasa, nepi ka karakter-karakter tokoh dina novel mah karasana sok leuwih kuat.
+Novel dina sastra Sunda minangka pangaruh tina sastra Barat, utamana Walanda. Mimiti muncul dina sastra Sunda dina abad ka-20. Novel munggaran dina sastra Sunda nyaéta Baruang ka nu Ngarora karangan D.K. Ardiwinata anu medal taun 1914. Genep taun leuwih ti heula mun dibandingkeun jeung novel munggaran dina basa Indonesia nyaéta Azab dan Sengsara karangan Merari Siregar anu medal taun 1920. Dina Baruang ka nu Ngarora, nyaritakeun kahirupan masarakat Bandung dina katompernakeun abad ka-19.
+Satuluyna dina taun 1926, kaluar deui novel Agan Permas karangan Yuhana. Disusul ku novel Rusiah nu Goréng Patut karangan Sukria jeung Yuhana anu medal taun 1928. Karangan Yuhana séjénna upamana Eulis Acih jeung Mugiri, medal sapandeurieunana.
+Masih dina taun 1928, R. Méméd Sastrahadiprawira medalkeun novel Mantri Jero anu latrana kajadian sajarah dina abad ka-16 di Nagara Tengah (Priangan Wétan). Disusul taun 1930 ku novel Pangéran Kornél masih karangan R. Méméd sastrahadiprawira. Taun 1940 medal novel Laleur Bodas karangan Samsu. Nu ieu mah eusina carita detektif. Novel detektif séjénna, Diarah Pati jeung Rasiah Geulang Rantay karangan Margasulaksana, tuluy karangan Ahmad Bakri di antarana: Mayit Dina Dahan Jéngkol, Rajapati di Pananjung, Asmaramurka jeung Bedog Si Rajapati. Pangarang wanoja ogé aya anu ngarang novel detektif, upamana novel Kalajengking karangan Anna Mustikaati sandiasmana Aam Amalia. Lian ti ngarang Kalajengking, Aam Amalia ogé ngarang novel Buron, Puputon, Sanggeus Halimun Peuray anu kungsi dipilemkeun, jeung Lalangsé.
+Lian ti éta loba deui novel anu Sunda anu medal. Di anatarana waé: Pipisahan, Nu kaul Lagu Kaléon karangan R.A.F. , Mikung, Lembur Singkur karangan Abdullah Mustappa, Béntang Pasantrén, Béntang Lapang karangan Usep Romli H.M., Lain Eta karangan Moch. Ambri, Cinta Pabaliut karangan Eddy D. Iskandar, jsb.
+50 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Pikeun bacaeun barudak SMP mah loba ogé novel barudak. Disebut novel barudak sotéh lantaran eusina mémang diajangkeun keur bacaeun barudak.Atuh anu ngalalakonna ogé barudak deuih,sarta masalah-masalah anu disanghareupanna ogé masalah anu remen karandapan/raket patalina jeung kahirupan barudak. Kiwari novel barudak téh kaitung loba, sabadana pamedal Kiblat Utama getol medal-medalkeun, boh medalkeun deui novel barudak anu geus lawas, boh medalkeun novel anu anyar. Geura urang tataan sababaraha contona: 1. Karangan Samsoedi: Budak Teuneung, Budak Minggat, Surat Wasiat, Carita Si
+Dirun. 2. Karangan Tatang Sumarsono: Miang jeung Kaludeung, Si Paser, Si Sekar
+Panggung, Ochank. 3. Karangan Hidayat Soesanto: Guha Karang legok Pari, Bima Rengkung. 4. Karangan Ahmad Bakri: Nu Sengit Dipulang Asih, Kabandang ku Kuda
+Lumping, Dirawu Kélong 5. Karangan Aan Merdeka Permana: Tanah Angar di Sebambam, KedokTangkorék,
+Andar-andar Pagandaran, Paul di Pananjung Paul di Batukaras. 6. Karangan Adang S. : Néangan Bapa, Budak Calakan, Dang Umar ti Situraja. 7. Karangan Ki Umabara: Si Bedog Panjang (bisa digolongkeun ogé kana novel
+misteri) 8. Karangan Dadan Sutisna: Misteri haur Geulis, Legok Kiara, Rasiah Kodeu
+Binner (bisa digolongkeun ogé kana novel misteri)
+Bab III 51
+BAHAN PANGJEMBAR
+
+PANGAJARAN 6:
+DRAMA
+Drama téh carita atawa lalakon anu ditulis dina wangun paguneman, pikeun dipintonkeun. Dina pintonanana, drama mah ngandung sakabéh unsur seni; seni musik, seni suara, seni tari, seni peran, jeung seni sastra. Tah anu kaasup kana seni sastra mah naskahna téa. Dina naskah lengkep disebutkeun latarna, musik anu kudu dipaké, lagu anu kudu dihaleuangkeun, gerak anu kudu dirigigkeun, nepi ka réngkak paripolah anu kudu diperankeun ku palaku. Dina naskah drama mah gegedéna ngagunakeun kalimah langsung, silihtempas antar palaku. Najan sok aya ogé anu ditulis dina jero kurung, biasana gerak/riuk beungeut anu kudu diperankeun ku palaku. Tah anu dina bagian jero kurung mah teu kudu diomongkeun tapi dilampahkeun.
+Anu disebut drama dina sasatra Sunda téh drama modéren atawa sok disebut ogé téater. Ari saméméhna mah aya nu disebut sandiwara, tah ieu mah kaasupna drama lisan, anu teu maké naskah. Aya ogé anu disebut gending karesmén, wangun drama anu pagunemanana digurit dina wangun tembang atawa kawih sarta dipintonkeunana kudu dilagukeun. Lian ti drama anu diwangun ku paguneman (dialog) aya deui dina wangun monolog, nyaéta pagelaran drama anu mangrupa omongan hiji jalma. Palakuna ngan saurang. Dina sastra Sunda can kapanggih naskah drama monolog mah, aya ogé pagelaran monolog anu naskahna nyokot tina carita pondok atawa karya-karya séjénna. Upamana carpon Oknum karangan Hadi AKS, remen dipintonkeun dina wangun monolog ku Wawan Sofwan (dramawan Bandung), malah nepi ka Ustrali sagala.
+Dina drama aya anu disebut babak, nyaéta bagian-bagian pintonan. Dina hiji pintonan drama téh biasana diwangun ku sababaraha babak. Lumrahna, mun ganti babak téh sok ganti setting.Tah dina sababak téh diwangun ku sababaraha adegan. Lian ti éta, aya ogé anu disebut prolog, nyaéta bubuka drama atawa panganteur kana adegan mimiti. Sedengkeun panutupna sok disebut épilog.
+Sababaraha karya drama anu gelar dina sastra Sunda, di antarana waé: 1. Wahyu Wibisana:Tukang Asahan,Tonggérét banén. 2. Yoseph Iskandar: Juag Toéd, Tanjeur Pajajaran, Runtagna Pajajaran, Sémah,
+Siliwangi Maharaja Pajajaran, Dalem Cuké. 3. R. Hidayat Suryalaga:Tambang, Raja Walét, Pundén-pundén nu Rarempag 4. Ahmad Bakri: Rajapati, Lebé Kabayan 5. Yus Rusyana: Hutbah Munggaran di Pajajaran 5. Teddy AN Muhtadin: Pasaran
+52 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+6. Tatang Sumarsono: Randu Jalaprang 7. Eddi Tarmidi: Ciung Wanara 8. Enang Rokayat Assura: Méga-Méga Peuray 9. Nazarudin Azhar: Jeblog 10. Dhipa Galuh Purba: Badog 11. Eriyandi Budiman: Buuk Seuneu 12. Arma Djunaédi: Rorongo 13. Rosyid E. Abby: Qasidah Cinta Alfaruq
+Bab III 53
+BAHAN PANGJEMBAR
+
+54 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Bab IV
+Pituduh Meunteun
+55
+
+MODEL PENILAIAN AUTENTIK DINA PROSES JEUNG HASIL DIAJAR DUMASAR KANA KURIKULUM 2013
+A. Wangenan Asesmen Autentik
+Nu dimaksud Asesmen Autentik téh nyaéta ngukur kamampuh murid sacara signifikan kana hasil diajarna anu ngawengku sikep, kaparigelan, jeung pangaweruh. Isitilah asesmen téh sinonim tina meunteun (penilaian), ngukur (pengukuran), nguji (pengujian), jeung evaluasi. Sedengkeun istilah autentik sasaruaanna tina asli, nyata, valid, atawa reliabel.
+Sacara konséptual, asesmen autentik ngandung makna anu leuwih signifikan dibandingkeun jeung tés pilihan ganda anu geus nyumponan standar. Dina ngalarapkeun asesmen autentik pikeun ngajén hasil diajar murid, guru ngalarapkeun kriteria anu tumali jeung konstrusi pangaweruh, kagiatan niténan jeung ujicoba, ogé préstasi di luar sakola.
+Dina American Library Association, asesmen autentik téh miboga harti hiji proses pikeun ngukur kinerja, prestasi, motovasi, jeung sikep-sikep murid dina kagiatan anu aya patalina jeung pangajaran.
+Sedengkeun dina Newton Public School, asesmen autentik miboga harti proses ngajén kana hasil jeung pagawéan murid anu aya patalina jeung pangalaman hirup anu nyata.
+Nu pamungkas, Wiggins ngadéfinisikeun asesmen autentik téh mangrupa hiji tarékah pikeun méré pancén ka murid anu pancénna téh ngagambarkeun prioritas jeung tantangan anu kapanggih sajeroning kagiatan diajar upamana dina nalungtik hiji pasualan, nulis, ngoméan jeung medar artikel, ngalaporkeun hasil analisis kana hiji kajadian, debat dina diskusi, jsb.
+B. Rupa-rupa Asesmen Autentik
+Dina raraga ngalaksanakeun asesmen autentik nu hadé, guru kudu paham heula kana tujuan anu bakal dihontal. Guru kudu nyindekkeun heula hal-hal anu patali jeung: 1. Sikep, kaparigelan, jeung pangaweruh naon baé anu bakal diajén. 2. Fokus pangajén kana widang naon baé, naha anu patali jeung sikep, jeung
+kaparigelan, atawa jeung pangaweruh. 3. Tingkat pangaweruh anu bakal dianjénna nepi ka mana, upamana nalar,
+memori, atawa proses.
+56 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Sangkan leuwih jéntré, di handap dibéréndélkeun rupa-rupa asesmen autentik:
+1. Penilaian Kinerja Asesmen autentik kudu ngalibetkeun partisifasi murid, hususna dina proses
+jeung aspék-aspék anu bakal diajén. Guru bisa méré pancén ka murid pikeun nyebutkeun unsur-unsur proyék/pancén anu bakal dipaké ku murid pikeun ngaréngsékeun pancénna. Ku ayana informasi ieu, guru bisa méré umpan balik kana kinerja murid dina wnagun laporan naratif atawa laporan kelas. aya sababaraha cara pikeun ngarékam hasil ngajén anu basisna kinerja:
+a. daptar ceklis (checklist). Digunakeun pikeun mikanyaho muncul atawa henteuna unsur-unsur nu tangtu tina indikator atawa subindikator nu kudu aya dina hiji kajadian atawa tindakan.
+b. catetan anékdot/narasi (anecdotal/narative records). Digunakeun ku jalan guru nuliskeun laporan narasi ngeunaan naon baé anu dipigawé ku unggal murid salila kagiatan diajar atawa migawé pancén. Tina ieu laporan guru bisa nangtukeun nepi ka mana murid nyumponan standar anu geus ditangtukeun.
+c. Skala penilaian (rating scale). Biasana ngagunakeun skala numerik jeung predikatna. Upamana: 5 = baik sekali, 4 = baik, 3 = cukup, 2 = kurang, 1 = kurang sekali.
+d. memori/ingatan (memory approach). Guru niténan murid salila diajar atawa migawé pancén, bari jeung teu nyieun catetan, naha murid geus nyumponan standar anu geus ditangtukeun atawa acan.
+Niténan kinerja murid bisa dilaksanakeun dina rupa-rupa situasi sarta tuluy-tumuluy. Upamana, pikeun ngajén kaparigelan nyarita, guru bisa niténan dina waktu murid prakték biantara, diskusi kelas, ngadongéng, nyaritakeun deui eusi wacana, atawa wawancara. Bisa digunakeun rupa-rupa instrumen, upamana ngajén sikep, observasi tingkah laku, nanya langsung, jsb.
+Penilaian diri (self assesment) kaasup kana penilaian kerja.Mangrupa salasahiji tehnik ngajén anu prak-prakanana murid dibéré pancén ngajén dirina sorangan anu patali jeung tingkat kamampuhna dina hiji kompetensi. Téhnik ieu gé bisa dipaké pikeun ngukur kompetensi kognitif, afektif, jeung psikomotor dumasar kana standar anu geus ditetepkeun. Gedé pisan mangpaat téhnik penilaian diri téh, diantarana: 1) numuwuhkeun rasa percaya diri murid, 2) murid sadar kana kahéngkéran jeung kapunjulanana sorangan, 3) ngarojong jeung ngabiasakeun murid jujur ka dirina sorangan, 4) numuwuhkeun sumanget pikeun maju dina dirina.
+Bab IV 57
+PITUDUH MEUNTEUN
+
+2. Penilaian Proyek. Penilaian proyek (project assesment) mangrupa kagiatan ngajén kana
+pancén-pancén anu kudu diréngsékeun ku murid dina peride waktu anu geus ditangtukeun. Pancén anu dimaksud mangrupa investigasi anu dipigawé ku murid ti mimiti nyieun rarancang, ngumpulkeun data, ngelompokkeun, ngolah, jeung midangkeun data. Ku kituna, penilaian proyek mah patali jeung pamahaman, ngalarapkeun, nalungtik, jsb. Salila migawé proyek, murid miboga kasempetan pikeun ngalarapkeun sikep, kaparigelan, jeung pangaweruhna. Ku kituna, guru kudu niténan tilu perkara: a. Kaparigelan murid dina milih topik, néangan jeung ngumpulkeun data,
+ngolah jeung ngaanalisis data, méré harti (ngamaknaan) informasi anu kapanggih, jeung nulis laporan. b. Kasaluyuan (relevansi) matéri pangajaran jeung kamekaran sikep, kaparigelan jeung pangaweruh anu diperlukeun ku murid. c. Orisinalitas atawa kaaslian hiji "proyek pembelajaran" anu dipigawé atawa dihasilkeun ku murid.
+3. Penilaian Portofolio Penilaian portofolio minangka pangajén anu dumasar kana informasi
+ngeunaan kamekaran kamampuh murid dina hiji periode. Eta informasi téh bisa mangrupa karya murid tina hiji kagiatan diajar anu dianggap panghadéna, bisa tina hasil tés, atawa informasi séjénna anu luyu jeung sikep, kaparigelan, atawa pngaweruh anu kudu dihontal dina hiji kompetensi. Jadi, anu diajén téh kumpulan karya murid, boh sorangan- sorangan boh kelompok dina hiji periode kagiatan diajar.
+Ku penilaian porofolio, guru bisa mikanyaho kamekaran jeung kamajuan diajar murid. Upamana dina hasil karya nyieun sajak, nulis carpon, ngaringkes novel, nulis laporan kagiatan, nulis naskah drama, nulis guguritan, jsb. Léngkah-léngkah penilaian portofolio: 1). Guru ngajéntrékeun sacara ringkes anu dimaksud penilaian portofolio 2). Guru jeung murid nangtukeun jenis portofolio anu bakal dijieun 3). Murid, boh kelompok boh individu, kalawan dituyun ku guru nyusun
+portofolio pembelajaran. 4). Guru ngumpulkeun portofolio murid dibarengan ku catetan tanggal
+ngumpulkeunana. 5). Guru meunteun potofolio murid dumasar kana kriteria anu geus
+ditangtukeun
+58 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+6). Mun kaburu, guru jeung murid ngadiskusikeun dokumen portofolio anu geus dikumpulkeun
+7). Guru méré umpan balik kana hasil penilaian portofolio.
+4. Tés Tinulis Najan konsép asesmen autentik muncul lantaran aya anggapan tés tinulis kurang
+nyugemakeun, tapi dina kagiatan diajar tés tinulis angger diperlukeun. Wangunna bisa milih jawaban, upamana pilihan ganda, milih bener-salah, ya-tidak, ngajodokeun, jsb. Bisa ogé ngajawab ku jalan ngeusian luyu jeung pananya (uraian).
+Tés tinulis wangun uraian meredih kamampuh murid dina nginget-nginget, mahamkeun, ngelompokkeun, ngalarapkeun, ngaanalisis, jeung ngajén matéri anu geus diajarkeun. Nyieun soalna diusahakeun bisa ngawengku ranah sikep, kaparigelan, jeung pangaweruh murid.Tés wangun uraian méré kasempetan ka guru pikeun ngukur hasil diajar murid dina tahapan anu leuwih luhur atawa kompleks.
+
+C. Conto Pormat Meunteun
+1. KELAS 7 Matéri Paguneman
+
+1. Bentuk Instrumen dan Instrumen a. Kompetensi Sikap:
+
+Lembar Pengamatan Sikap
+
+Mata Pelajaran : Bahasa dan Sastra Sunda
+
+Kelas/Semester : VII/1
+
+Tahun Ajaran
+
+: .....................................
+
+Waktu Pengamatan : .....................................
+
+No
+
+Nama Siswa
+
+Religius
+
+Jujur
+
+Tanggungjawab
+
+Santun
+
+BT MT MB MK BT MT MB MK BT MT MB MK BT MT MB MK
+
+Bab IV 59
+PITUDUH MEUNTEUN
+
+Keterangan: 1. BT (belum tampak) jika sama sekali tidak menunjukkan usaha yang
+sungguh-sungguh dalam menyelesaikan tugas. 2. MT (mulai tampak) jika menunjukkan sudah usaha ada yang sungguh-
+sungguh dalam menyelesaikan tugas tetapi masih sedikit dan belum ajeg/ konsisten. 3. MB (mulai berkembang) jika menunjukkan ada usaha yang sungguhsungguh dalam menyelesaikan tugas yang cukup sering dan mulai ajeg/ konsisten 4. MK( membudaya) jika menunjukkkan adanya usaha sungguh-sungguh dalam menyelesaikan tugas secara terus menerus dan ajeg/konsisten. b. Kompetensi Pengetahuan: Soal Tes Lisan 1) Lamun dititénan tina paguneman anu dilakukeun ku A jeung B, kirakira naon hubungan antara A jeung B téh? 2) Sebutan kalimah-kalimah nu jadi konci dina éta paguneman! 3) Sebutan bagian-bagian eusi éta pagunemam! 4) Naon anu hayang ditepikeun ku A ka B téh? 5) Naon anu jadi jejer paguneman antara A jeung B?
+
+c. Kompetensi Keterampilan: · Lembar Penilaian Teks Paguneman (a)
+
+No. Nama Peserta Didik Isi (1-5)
+
+Aspek yang Dinilai
+
+Organisasi (1-5)
+
+Diksi (1-5)
+
+Struktur (1-5)
+
+· Lembar Penilaian Unjuk Kerja (b)
+
+No.
+
+Nama Peserta Didik
+
+Aspek yang Dinilai Tampilan Kesesuaian Kelancaran
+
+(1-5)
+
+(1-5)
+
+(1-5)
+
+Kebahasaan (1-5)
+
+60 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+2. Pedoman Penskoran (1) Penilaian Pengetahuan (NP) - Skala skor: 1-5 - Skor Maksimal = 5X5 = 25 - Nilai Pengetahuan (NP) = Skor Diperoleh/10 (2) Penilaian Ketarampilan (NK) - Skala skor: 1-5 - Skor Maksimal masing-masing(a) dan (b) = 5X4 = 20 - Skor Diperoleh = (a)+(b) - Nilai Keterampilan (NK) = Skor Diperoleh/10 (3) Nilai Total
+NT = NP+ NK
+
+2. KELAS 8 Materi: Kawih
+
+Bentuk Instrumen dan Instrumen
+
+a. Kompetensi Sikap:
+
+Lembar Observasi Penilaian Proses
+
+No
+
+Aspek yang dinilai
+
+Teknik Penilaian
+
+Waktu Penilaian
+
+1 Religius
+
+Pengamatan
+
+Proses
+
+2 Jujur 3 Tanggung jawab 4 Santun 5 Cermat
+
+Lembar Pengamatan Sikap
+
+Mata pelajaran : .......................................
+
+Kelas/semester : .......................................
+
+Tahun ajaran
+
+: .......................................
+
+Waktu pengamatan : .......................................
+
+Instrumen Penilaian
+Lembar Pengamatan Terlampir
+
+Bab IV 61
+PITUDUH MEUNTEUN
+
+No
+
+Nama Siswa
+
+Religius
+
+Jujur
+
+Tanggungjawab
+
+Santun
+
+BT MT MB MK BT MT MB MK BT MT MB MK BT MT MB M K
+
+Keterangan: 1. BT (belum tampak) jika sama sekali tidak menunjukkan usaha yang sungguh-
+sungguh dalam menyelesaikan tugas 2. MT (mulai tampak) jika menunjukkan sudah usaha ada yang sungguh-
+sungguh dalam menyelesaikan tugas tetapi masih sedikit dan belum ajeg/ konsisten 3. MB (mulai berkembang) jika menunjukkan ada usaha yang sungguhsungguh dalam menyelesaikan tugas yang cukup sering dan mulai ajeg/ konsisten 4. MK( membudaya) jika menunjukkkan adanya usaha sungguh-sungguh dalam menyelesaikan tugas secara terus menerus dan ajeg/konsisten
+
+b. Kompetensi Pengetahuan: Penilaian Hasil
+
+Indikator Pencapaian Kompetensi
+
+Teknik Penilaian
+
+1. Mengenal teks kawih Sunda
+2. Memahami kata-kata yang terdapat dalam teks kawih Sunda
+3. Memahami isi teks kawih Sunda
+4. Menemukan purwakanti dalam teks kawih Sunda
+5. Membandingkan teks kawih Sunda lama dan kawih baru
+
+Tes Tertulis
+
+Bentuk Penilaian
+Tes Uraian
+
+Instrumen
+1. Sebutkan ciri-ciri nu kapanggih dina teks kawih Sunda?
+2.Téangan kecap-kecap anu teu kaharti dina teks kawih, sarta sebutkeun naon hartina!
+3.Caritakeun eusi kawihna dumasar kana naon-naon anu dibaca ku hidep!
+4.Téangan kecap-kecap anu murwakanti sarta sebutkeun murwakanti dina sora naon!
+5.Sebutkeun naon bédana jeung sasaruanna dua kawih di handap!
+
+62 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+1. Menceritakan kembali isi teks kawih Sunda dengan bahasa sendiri
+2. Menyanyikan kawih Sunda
+
+Tes Lisan observasi
+Tes Lisan observasi
+
+3. Melengkapi teks kawih yang rumpang
+
+Portofolio
+
+Langsung Langsung Unjuk kerja
+
+1. Baca kawih di handap sarta tuluy caritakeun deui maké basa hidep sorangan!
+2. Apalkeun salahsahiji kawih nepi ka bisa ngahaleuangkeunna, tuluy saurangsaurang ngahaleuang hareupeun kelas!
+3. Salin rumpaka kawih anu aya dina buku kana buku tulis, kupingkeun lagu nu rék disetél, tuluy eusian titik-titik anu aya dina éta rumpaka!
+
+c. Kompetensi Keterampilan: 1. Teknik: tes lisan 2. Bentuk Instrumen: unjuk kerja
+
+Cik kawihkeun lagu anu geus meunang ngapalkeun, saurang-saurang hareupeun kelas!
+
+Nama : ...................................
+
+Kelas : ...................................
+
+Sasaran
+
+Aspek
+
+Kriteria
+
+Skala
+
+Lagam
+
+a. Luyu jeung kawihna
+
+merenah
+
+10-15
+
+b. kurang luyu
+
+kurang merenah
+
+5-10
+
+c. teu luyu
+
+teu merenah
+
+1-5
+
+Wirahma/ ketukan
+
+a. Keuna kana wirahma/ketukan
+
+merenah
+
+10-15
+
+b. Kurang keuna kana wirahma kurang merenah
+
+5-10
+
+c.Teu keuna kana ketukan
+
+teu merenah
+
+1-5
+
+sora
+
+a. Asup kana nada
+
+merenah
+
+10-15
+
+b. Kurang asup kana nada
+
+kurang merenah
+
+5-10
+
+b. teu asup kana nada
+
+teu merenah
+
+1-5
+
+Jumlah
+
+Bab IV 63
+PITUDUH MEUNTEUN
+
+Peunteun:
+a. Alus b. Meujeuhna c. Kurang
+
+(80-100) (60-79) (35-59)
+
+3. Pedoman Penskoran a. Penilaian Afektif (NAf.)
+- Skala Skor: 1-5 - Skor Maksimal = 7X5 = 35 - Nilai Afektif = Skor Diperoleh/10 b. Penilaian Kognitif (NK) - Skor soal nomer 1 jeung 2 skalana 1-5 - Skor soal nomer 3 skalana 1-15 - Skor Maksimal = ((2X5)+(1X15) = 25 - Nilai Kognitif = Skor Diperoleh/10 c. Penilaian Psikomotor (NP) - Skala skor: 1-5 - Skor Maksimal masing-masing(a) dan (b) = 5X4 = 20 - Skor Diperoleh = (a)+(b) - Nilai Psikomotor = Skor Diperoleh/10 d. Nilai Total NT = Naf. + NK + NP
+
+3. KELAS 8 Materi : Carpon
+
+1. Bentuk Instrumen dan Instrumen a. Kompetensi Sikap:
+
+Lembar Observasi Penilaian Proses
+
+No
+
+Aspek yang dinilai
+
+1 Religius
+
+2 Jujur
+
+3 Tanggung jawab
+
+4 Santun
+
+5 Cermat
+
+Teknik Penilaian Pengamatan
+
+Waktu Penilaian Instrumen Penilaian
+
+Proses
+
+Lembar Pengamatan Terlampir
+
+64 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Lembar Pengamatan Sikap
+
+Mata pelajaran : .......................................
+
+Kelas/semester : .......................................
+
+Tahun ajaran
+
+: .......................................
+
+Waktu pengamatan : .......................................
+
+No
+
+Nama Siswa
+
+Religius
+
+Jujur
+
+Tanggungjawab
+
+Santun
+
+BT MT MB MK BT MT MB MK BT MT MB MK BT MT MB MK
+
+Keterangan: 1. BT (belum tampak) jika sama sekali tidak menunjukkan usaha yang sungguh-
+sungguh dalam menyelesaikan tugas 2. MT (mulai tampak) jika menunjukkan sudah usaha ada yang sungguh-
+sungguh dalam menyelesaikan tugas tetapi masih sedikit dan belum ajeg/ konsisten 3. MB (mulai berkembang) jika menunjukkan ada usaha yang sungguhsungguh dalam menyelesaikan tugas yang cukup sering dan mulai ajeg/ konsisten 4. MK( membudaya) jika menunjukkkan adanya usaha sungguh-sungguh dalam menyelesaikan tugas secara terus menerus dan ajeg/konsisten
+
+b. Kompetensi Pengetahuan: Penilaian Hasil
+
+Indikator Pencapaian Kompetensi
+
+Teknik Penilaian
+
+1. Memahami struktur isi teks carpon!
+2. Mengidentifikasi struktur teks carpon!
+
+Tes Tertulis
+
+Bentuk Penilaian
+Tes Uraian
+
+Instrumen
+1. Sebutkan struktur isi teks carpon!
+2. Sebutkeun palaku dina carpon nu judulna "Duh Indung"!
+3. Kumaha watek para palakuna?
+4. Dimana jeung iraha kajadian dina eta carpon?
+5. Naon amanat anu aya dina eta carpon?
+
+Bab IV 65
+PITUDUH MEUNTEUN
+
+1. Mengidentifikasi ciriciri bahasa dalam carpon
+2. Menceritakan kembali isi carpon yang dibacanya
+
+Tes Lisan
+Tes Lisan Observasi
+
+Tes Uraian Unjuk Kerja
+
+1. Jelaskeunciri-ciri bahasa dina teks carpon "Duh Indung"!
+2. Caritakeun deui kalayan ringkes carpon anu tos dibaca tadi ku hidep!
+
+c. Kompetensi Keterampilan: 3. Teknik: tes lisan 4. Bentuk Instrumen: unjuk kerja
+
+Cing caritakeun deui eusi carpon nu geus dibaca ku hidep!
+
+Nama : ................................... Kelas : ...................................
+
+Sasaran
+
+Aspek
+
+Basa Eusi
+Tehnik/sikep Jumlah
+Peunteun:
+
+a. Ucapan (artikulasi) b. Lentong (tekenan, wirahma, randegan) a. Hubungan eusi b. Pamekaran eusi c. Pamahaman eusi a. Pidanganbahan b. Rengkak jeung peta
+
+a. Alus
+
+(80-100)
+
+b. Meujeuhna (60-79)
+
+c. Kurang
+
+(35-59)
+
+Kriteria
+Jentre Merenah Saluyu Lengkep Paham Ngaguluyur Saregep/sopan
+
+Skala
+5-15 5-15 5-10 5-20 5-20 5-10 5-10 35-100
+
+Pedoman Penskoran a. Penilaian Afektif (NAf.)
+- Skala Skor: 1-5 - Skor Maksimal = 7X5 = 35 - Nilai Afektif = SkorDiperoleh/10 b. Penilaian Kognitif (NK) - Skor soal nomer 1 jeung 2 skalana 1-5 - Skor soal nomer 3 skalana 1-15 - Skor Maksimal = ((2X5)+(1X15) = 25 - Nilai Kognitif = SkorDiperoleh/10
+66 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+c. PenilaianPsikomotor (NP) - Skalaskor: 1-5 - SkorMaksimalmasing-masing(a) dan (b) = 5X4 = 20 - SkorDiperoleh = (a)+(b) - NilaiPsikomotor = SkorDiperoleh/10
+d. Nilai Total NT = Naf. + Nk + NP
+
+4. KELAS 9 Materi: Girang Acara
+
+Bentuk Instrumen dan Instrumen
+
+a. Kompetensi Sikap:
+
+Lembar Observasi Penilaian Proses
+
+No
+
+Aspek yang dinilai
+
+Teknik Penilaian
+
+1 Religius
+
+Pengamatan
+
+2 Jujur
+
+3 Tanggung jawab
+
+4 Santun
+
+5 Cermat
+
+Waktu Penilaian Proses
+
+Instrumen Penilaian
+Lembar Pengamatan Terlampir
+
+Lembar Pengamatan Sikap
+
+Mata pelajaran :.......................................
+
+Kelas/semester :.......................................
+
+Tahun ajaran
+
+:.......................................
+
+Waktu pengamatan :.......................................
+
+No
+
+Nama Siswa
+
+Religius
+
+Jujur
+
+Tanggungjawab
+
+Santun
+
+BT MT MB MK BT MT MB MK BT MT MB MK BT MT MB MK
+
+Keterangan: 1. BT (belum tampak) jika sama sekali tidak menunjukkan usaha yang sungguh-
+sungguh dalam menyelesaikan tugas 2. MT (mulai tampak) jika menunjukkan sudah usaha ada yang sungguh-
+sungguh dalam menyelesaikan tugas tetapi masih sedikit dan belum ajeg/ konsisten
+Bab IV 67
+PITUDUH MEUNTEUN
+
+3. MB (mulai berkembang) jika menunjukkan ada usaha yang sungguhsungguh dalam menyelesaikan tugas yang cukup sering dan mulai ajeg/ konsisten
+4. MK( membudaya) jika menunjukkkan adanya usaha sungguh-sungguh dalam menyelesaikan tugas secara terus menerus dan ajeg/konsisten
+
+b. KompetensiPengetahuan: Penilaian Hasil
+
+Indikator Pencapaian Kompetensi
+
+Teknik Penilaian
+
+1. Memahami struktur isi teks memandu acara
+
+2. Mengidentifikasi kaidah-
+
+kaidah teks memandu acara
+
+Tes Tertulis
+
+3. Mengidentifikasi ciri-ciri bahasa dalam teks memandu acara
+
+1. Memahami langkahlangkah menyusun teks memandu acara
+2. Mendeskripsikan teks memandu acara dengan cara membuat teks memandu acara
+3. Menyajikan teks memandu acara secara lisan
+
+Tes Tertulis
+Tes Tertulis Portofolio
+
+4. Menginterpretasi teks memandu acara
+
+Tes Lisan Observasi
+
+Bentuk Penilaian
+
+Instrumen
+
+Tes Uraian
+
+1. Sebutkan struktur isi teks memandu acara!
+2. Jentrekeun mana yang termasuk ragam basa baku dina teks memandu acara
+3. Jelaskan ciri-ciri bahasa dalam teks memandu acara!
+
+Tes Uraian Tes Uraian
+Unjuk Kerja Tes Lisan
+
+4. Sebutkan langkahlangkah menyusun teks memandu acara
+5. Buatlah teks memandu acara dengan tema acara pilih: a. Acara Pinton Seni Agustusan b. Acara Halal Bihalal
+6. Coba peragakan teks memandu acara yang sudah kalian susun tersebut di depan kelas
+7. Coba interpretasikan bagaimana menurut pendapat kalian hasil penampilan teks memandu acara teman kalian tersebut?
+
+c. KompetensiKeterampilan: Teknik: tes lisan Bentuk Instrumen: unjuk kerja Coba peragakan teks memandu acara yang sudah kalian susun tersebut ke depan kelas dengan sikap dan bahasa yang santun
+68 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Nama : ................................... Kelas : ...................................
+
+Sasaran Basa Eusi
+Tehnik/sikep Jumlah
+
+Aspek a. Ucapan (artikulasi) b. Lentong (tekenan, wirahma, randegan) a. Hubunganeusi b. Pamekaraneusi c. Pamahamaneusi a. Pidanganbahan b. Rengkakjeungpeta
+
+Kriteria Jentre Merenah Saluyu Lengkep Paham Ngaguluyur Saregep/sopan
+
+Peunteun:
+
+a. Alus
+
+(80-100)
+
+b. Meujeuhna (60-79)
+
+c. Kurang (35-59)
+
+Pedoman Penskoran a. Penilaian Pengetahuan (NP)
+- Skala skor soal nomor 1 s.d. 4 = 5-10 - Skala skor soal nomor 5 s.d. 7 = 5-20 - Skor Maksimal = (4X10) + (3X20) = 100 - Nilai Pengetahuan = Skor Diperoleh/10
+
+b. Penilaian Keterampilan (NK) - Skala skor: 1-5 - Skor Maksimal masing-masing (a) dan (b) = 5X4 = 20 - Skor Diperoleh = (a)+(b) - Nilai Psikomotor = Skor Diperoleh/10
+
+c. Nilai Total Pengetahuan dan Keterampilan NT = NP + NK
+
+Skala 5-15 5-15 5-10 5-20 5-20 5-10 5-10 35-100
+
+Bab IV 69
+PITUDUH MEUNTEUN
+
+CONTO TABEL NGOLAH PEUNTEUN
+
+Sikap
+
+Skor Akhir
+
+Rata- Nilai
+
+1 2 3 4 5 6 7 8 9 10 Rata Akhir
+
+Jujur
+
+3.2 2.4 3.7 3.5 3 2.78 2.5 2.33 3.4 3.1 2.9 B
+
+Disiplin
+
+3.4 3.2 3.1 3.5 3.4 3.4 3.0 3.5 2.9 3.0 3.24 B+
+
+Percaya Diri 1.7 2.9 2.3 2.4 3.5 1.4 3.5 1.5 3.6 2.1 2.5 B-
+
+Skor Akhir
+
+2.88 B
+
+Skor
+
+KD
+
+Tes
+
+Penugasan
+
+3.1
+
+60
+
+65
+
+3.2
+
+76
+
+84
+
+3.3
+
+80
+
+70
+
+3.4
+
+84
+
+87
+
+Rata-Rata Skor Akhir
+
+Cara Konversi Skor ke skala 1 - 4
+
+Skor Akhir
+
+Skala 1 - 100 Skala 1 - 4
+
+62,5
+
+2,5
+
+80
+
+3.20
+
+75
+
+3.00
+
+85,5
+
+3.42
+
+3.03
+
+Deskripsi Catatan :
+
+Penilaian Proses dan Hasil Belajar
+
+70 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Skor
+
+Skor Akhir
+
+KD
+
+Tes Praktik Projek Portofolio Skala 1 - 100 Skala 1 - 4
+
+4.1
+
+84
+
+-
+
+90
+
+4.2
+
+76
+
+-
+
+84
+
+4.3
+
+-
+
+60
+
+70
+
+Rata-Rata Skor Akhir
+
+Cara Konversi ke skala 1 - 4
+
+Deskripsi Catatan :
+
+Bab IV 71
+PITUDUH MEUNTEUN
+
+PABUKON
+Baidillah, Drs.H. Idin, M.Pd,dkk. 2010. Aksara Sunda. Bandung: CV.Walatra. Dinas Pendidikan Provinsi Jawa Barat. 2013. Kurikulum 2013. Bandung. Hadi spk, Drs. Ahmad. 2005. Peperenian. Bandung: Geger Sunten. Hadish, Yétty Kusmiyati. 1979. Sastra Lisan Sunda Mite, Fabel, dan Légende 1.
+Jakarta: Pusat Pembinaan dan Pengembangan Bahasa Departemén Pendidikan dan Kebudayaan. Iskandar,Yoséph. 1982. Tumbal. Bandung: Rahmat Cijulang. Jurusan Basa jeung Sastra Sunda FPBS IKIP Bandung. 1990. Palanggeran Éjahan Basa Sunda. Bandung: Rahmat Cijulang. Karana, Rahmat M. Sas. 1979. Tepung di Bandung. Bandung: Rahmat Cijulang. Keraf, Dr. Gorys. 1980. Komposisi. Ende Florés: Nusa Indah. Kunto, Haryoto. 1984. Wajah Bandoeng Témpo Doeloe. Bandung: Granésia. Lembaga Basa & Sastra Sunda. 1985. Kamus Umum Basa Sunda. Bandung: Taraté. Muchtar, R.H. Uton, Ki Umbara. 1994. Modana. Bandung: Manglé Panglipur. Mustapa, Abdullah. 1985. Wirahma Sajak. Bandung: Medal Agung. No. 1574. 1996. Majalah Manglé. No. 51-52. 1996. Majalah Simpay. ---------------. 1986. Kedok Tangkorék. Bandung: Remadja Karya. Poerwadarminta, W.J.S. 1977. Kamus Umum Bahasa Indonésia. Jakarta: PN Balai Pustaka. Prawirasumantri, Drs. H. Abud, dkk. 2003. Pedoman Pengembangan Kurikulum Berbasis Kompeténsi Mata Pelajaran Bahasa Daérah (Sunda). Bandung: Geger Sunten. Pusat Pembinaan dan Pengembangan Bahasa. 1977. Pedoman Éjaan Bahasa Sunda yang Disempurnakan. Jakarta.
+72 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX
+
+Rosidi, Ajip. 1966. Kesusastraan Sunda Déwasa Ini. Jatiwangi:Tjupumanik. --------------, 1969. Djalan ke Surga. Djakarta: Gunung Agung --------------, 1983. Ngalanglang Kasusastraan Sunda. Jakarta: Pustaka Jaya. --------------, 1984. Manusia Sunda. Jakarta: Inti Idayu Préss. --------------, 1989. Janté Arkidam. Bandung: Pustaka. Resmana, Min. 1973. Hujan di Girang Caah di Urang. Bandung: Mitra Kencana. Ruhimat, Asep. 2006. Sambel Jaer. Bandung: Puspawarna. Rusyana, Dr.Yus. 1982. Métode Pengajaran Sastra. Bandung: Gunung Larang. --------------, 1982. Pedaran Paribasa Sunda. Bandung: Gunung Larang. --------------, 1982. Panyungsi Sastra. Bandung: Gunung Larang. Salmun, M.A. 1963. Kandaga Kasusastraan Sunda. Bandung: Ganaco.
+PABUKON 73
+
+74 Pamekar Diajar BASA SUNDA
+Buku Tuturus Guru SMP/MTs Kelas IX

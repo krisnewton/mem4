@@ -1,0 +1,641 @@
+Offprint From:
+The Words of the Wise Are like Goads
+Engaging Qohelet in the 21st Century
+edited by Mark J. Boda, Tremper Longman III, and Cristian G. Rata
+Winona Lake, Indiana Eisenbrauns 2013
+
+Copyright © 2013 Eisenbrauns All rights reserved.
+Printed in the United States of America.
+www.eisenbrauns.com
+Library of Congress Cataloging-in-Publication Data The words of the wise are like goads : engaging Qohelet in the 21st century /
+edited by Mark J. Boda, Tremper Longman III, and Cristian G. Rata. pagescm Includes bibliographical references and index. ISBN 978-1-57506-265-5 (hardback : alk. paper) 1. Bible. O.T. Ecclesiastes--Criticism, interpretation, etc. I. Boda, Mark J. II. Longman, Tremper. III. Rata, Cristian G., editor of compilation. BS1475.52.W672013 223.806--dc23 2012045746
+The paper used in this publication meets the minimum requirements of the American National Standard for Information Sciences--Permanence of Paper for Printed Library Materials. ANSI Z39.48-1984.© 
+
+Contents
+Preface .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . vii
+Part 1 Early History of Interpretation Ecclesiastes in Premodern Reading: Before 1500 c.e. .  .  .  .  .  .  .  .  .  .  .  .  . 3 Eric S. Christianson Qohelet and the Rabbis .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 37 Ruth Sandberg Ecclesiastes and the Reformers.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 55 Al Wolters Sweet and Lawful Delights: Puritan Interpretations of Ecclesiastes .  .  .  .  . 69 Cristian G. Rata
+Part 2 History, Form, and Rhetoric Determining the Historical Context of Ecclesiastes .  .  .  .  .  .  .  .  .  .  .  .  .  . 89 Tremper Longman III The Book of Qohelet "Has the Smell of the Tomb about It": Mortality in Qohelet and Hellenistic Skepticism .  .  .  .  .  .  .  .  .  .  .  . 103 Leo G. Perdue Qohelet and Royal Autobiography  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 117 Martin A. Shields Framed! Structure in Ecclesiastes .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 137 David J. H. Beldman The Poetry of Qohelet.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 163 John F. Hobbins
+Part 3 Key Concepts and Passages Epistemology in Ecclesiastes: Remembering What It Means to Be Human  .  .  .  .  .  .  .  .  .  .  .  .  .  . 195 Ryan P. O'Dowd
+v
+
+vi
+
+Contents
+
+"Riddled with Ambiguity": Ecclesiastes 7:23­8:1 as an Example .  .  .  .  .  .  . 219 Doug Ingram
+The Meaning of  in Qohelet: An Intertextual Suggestion .  .  .  .  .  .  .  . 241 Russell L. Meek
+Speaking into the Silence: The Epilogue of Ecclesiastes .  .  .  .  .  .  .  .  .  .  .  . 257 Mark J. Boda
+Part 4 Language and Grammar
+The Grammar of  and  in Qohelet  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 283 Robert Holmstedt
+The Verb in Qohelet  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 309 John Cook
+"Aramaisms" in Qohelet: Methodological Problems in Identification and Interpretation .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 343
+Eva Mroczek
+Part 5 Interpreting Qohelet
+The Theology of Ecclesiastes .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 367 Craig G. Bartholomew
+Ecclesiastes and the Canon .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 387 Stephen G. Dempster
+Fresh Perspectives on Ecclesiastes: "Qohelet for Today"  .  .  .  .  .  .  .  .  .  .  . 401 Iain Provan
+Preaching Qohelet.  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 417 Daniel C. Fredericks
+Solomon's Sexual Wisdom: Qohelet and the Song of Songs in the Postmodern Condition .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 443
+Peter J. Leithart
+Works Cited .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 461
+Indexes  Index of Authors  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 491  Index of Scripture .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  499  Index of Other Sources .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  513
+
+Offprint from: Mark J. Boda, Tremper Longman III, and Cristian G. Rata (ed.), The Words of the Wise Are like Goads: Engageing Qohelet in the 21st Century © Copyright 2013 Eisenbrauns. All rights reserved.
+The Verb in Qohelet
+John A. Cook Asbury Theological Seminary
+The language of the book of Qohelet has long attracted attention, not only because of its philological significance for dating the book but because of the insights it potentially affords into the linguistic development of ancient Hebrew. As with most languages, the verbal system is a central and ubiquitous feature of the grammar of ancient Hebrew. In many respects, the verb in Qohelet is unremarkable in comparison with other portions of the Hebrew Bible: about 200 verbs occur a total of some 700 times in Qohelet, which is consistent with the density of verbs in the other books of the Hebrew Bible;1 these verbs consist of 526 Qal, 55 each of Piel and Hiphil, 4 Niphal, 8 Pual, 5 Hithpael, and 1 each of Pilpel, Poel, Poal, and Hithpolel, which is also in keeping with the pattern in other biblical writings. By contrast, most of the scholarly interest in the verb in Qohelet has centered on the distribution of verbal conjugations: 222 Imperfects (yiqtols), 206 Perfects (qatals), 117 Active Participles and 10 Passive Participles, 29 Imperatives, 3 Past Narratives (wayyiqtols), and 110 Infinitives Construct and 4 Infinitives Absolute.2 Most striking in this list are the 3 Past Narratives, compared with the form's preponderance in most other biblical books, and the relative frequency of the Active Participle, which accounts for about twice the percentage of conjugations in Qohelet as it does in Genesis­Kings. The question that confronts every analysis of the verb in Qohelet, given these statistics, is to what extent these particular data should be attributed to changes in the verbal system (that is, Qohelet was late, and the Past Narrative was falling into disuse, while the Participle was becoming more prominent) versus attributing them to the genre and literary peculiarities of Qohelet (that is, non-narrative wisdom/philosophical treatise).
+1. Approximate numbers are given due to some textual questions that affect the final tally. 2. I am using capitalized traditional terminology for the verbal conjugations (for example, Perfect, Imperfect, Imperative, Jussive, and Participle). I depart from the traditional nomenclature only with respect to the consecutive forms (that is, Past Narrative for Waw-Consecutive Imperfect, Irrealis Perfect for Waw-Consecutive Perfect), since these terms reflect a significant misunderstanding of the TAM of these forms (J. A. Cook, "The Semantics of Verbal Pragmatics: Clarifying the Roles of Wayyiqtol and Weqatal in Biblical Hebrew Prose," JSS 49 [2004] 247­73). These statistics are based on the Westminster tagged text; the statistics are altered somewhat by textual judgments that I make in the course of my investigation (below).
+309
+
+310
+
+John A. Cook
+
+The main focus of this essay is to describe the tense-aspect-mood (TAM) system in Qohelet. My approach is to examine the various conjugations and their interrelationships in Qohelet in light of the TAM patterns found throughout the Hebrew Bible, noting consistencies and divergences. This descriptive task provides the basis for drawing conclusions regarding the place of the TAM in Qohelet in the development of the ancient Hebrew verbal system. I proceed by outlining my theory of the TAM in Biblical Hebrew and then examining the TAM system of Qohelet in several sections: the Past Narrative and Perfect and the autobiographical foreground; the Participle and Imperfect; the Directive-volitive (that is, Imperative, Jussive, and Cohortative) forms; and the infinitive forms. The final section fleshes out the linguistic conclusions arising from the preceding description of the TAM in Qohelet.
+
+A Sketch of the Biblical Hebrew Verbal System
+The following sketch of the Biblical Hebrew TAM system is the basis of my analysis of the verb in Qohelet.3 TAM distinctions in Biblical Hebrew are indicated primarily by the verbal conjugations; however, word order is also relevant to mood distinctions, reinforcing the morphological distinction of modality in some cases and disambiguating mood distinctions within a single conjugation in other cases. The two most frequently occurring verbal conjugations, the Perfect and Imperfect, form a perfective-imperfective aspectual distinction. The semantic identification of this pair is based on comparison with the perfective-imperfective opposition throughout the world's languages, in which it constitutes the most common type of verbal system according to the studies by Bybee and Dahl:4 the perfective member of the opposition is largely confined to past-time expressions--either (absolute) perfective or (relative) perfect or anterior--whereas the "unmarked" imperfective member may express imperfective events in the past as well as general non-past events.5 The next most frequent conjugation in Biblical Hebrew is the literary Past Narrative form (the so-called waw-consecutive imperfect), which predominates in the extensive narrative material in the Bible and
+3. For further details, see especially my Time and the Biblical Hebrew Verb: The Expression of Tense, Aspect, and Modality in Biblical Hebrew (Winona Lake, IN: Eisenbrauns. 2012); see also idem, "Hebrew Verb: A Grammaticalization Approach," ZAH 14 (2001) 117­43; idem, "The Semantics of Verbal Pragmatics"; idem, "The Finite Verbal Forms in Biblical Hebrew Do Express Aspect," JANES 30 (2006) 21­35; idem, "The Participle and Stative in Typological Perspective," JNSL 34 (2008) 1­19.
+4. J. L. Bybee and Ö. Dahl, "The Creation of Tense and Aspect Systems in the Languages of the World," Studies in Language 13 (1989) 83; see discussion in my Time and the Biblical Hebrew Verb, 199­201.
+5.J. Bybee, R. Perkins, and W. Pagliuca (The Evolution of Grammar: Tense, Aspect, and Modality in the Languages of the World [Chicago: University of Chicago Press, 1994] 126) argue that an imperfective in a non-past temporal sphere is identical with present tense.
+
+The Verb in Qohelet
+
+311
+
+is found much less frequently in the poetic portions. This narrative form occurs with a distinctive waw-conjunction (with following gemination) prefixed to it. The conjugation always appears in verb-subject word order through a syntactic triggering that is probably associated with the peculiar conjunction and analogous to triggered inversion of word order found after most of the clausal function words in Biblical Hebrew (for example,  , ,, etc.).6
+The Participle in Biblical Hebrew is an adjective that encodes event predicates.7 Thus, it is partially marked for verbal distinctions (that is, it distinguishes binyanim), but it uses nominal agreement markers of gender and number (that is, it lacks person agreement). Thus, when used predicatively, the Participle is always "supported" by a copula, though it is rarely overt because Biblical Hebrew allows null copula strategies.8 This predicative Participle construction (that is, a copular predicate complement) expresses progressive aspect in the past, present, or future--the latter mainly in the sense of expected future (for example, "I am giving you this land" = "I am going to give you this land").
+Finally, there is a morphologically distinct Directive-volitive modal system consisting of an Imperative form and a Jussive (including Cohortative) system: the Imperative is restricted to second-person positive directives, whereas the Jussive system appears in all three persons and complements the positive Imperative by encoding negative directives with the distinct "directive" negative word .9
+In addition to these morphological and morphosyntactic TAM distinctions, Biblical Hebrew has a Realis : Irrealis syntactic mood distinction: Realis (or Indicative) expressions are subject-verb word order, whereas Irrealis expressions are verb-subject word order.10 This Irrealis word order applies not only to the (Irrealis) Directive-volitive modal system but to the two most frequent conjugations, the Perfect and Imperfect: as Realis-mood forms expressing perfective and imperfective aspect, respectively, they have subject-verb word order; however, when they express Irrealis mood, they appear in verb-subject word order. The Irrealis Perfect (which encompasses the traditional category of the waw-consecutive Perfect
+
+6. See R. D. Holmstedt, "Word Order and Information Structure in Ruth and Jonah," JSS 59 (2009) 124­25.
+7. For a detailed argument see my "Participle and Stative." 8. See ibid., 15 n. 23. 9. The category of Cohortative is of questionable value: it complements the second- and third-person Jussive forms as a first-person jussive; the "distinctive" -suffix is of dubious "volitive" significance and admits to other explanations that better unite its diverse use, including on about 100 nonvolitive Past Narrative forms and its "conventionalization" on all first-person forms in post-BH (see discussion in my Time and the Biblical Hebrew Verb, 238­41). 10. Although the Realis : Irrealis distinction is typologically equivalent to Indicative : Subordinate, the former terminology has the advantage of being clearly technical terms and avoids possible confusion with traditional grammatical categories of Indicative and Subjunctive mood. So F. R. Palmer, Mood and Modality (2nd ed.; Cambridge Textbooks in Linguistics; Cambridge: Cambridge University Press, 2001) 4).
+
+312
+
+John A. Cook
+
+plus other uses, such as following  or  in conditional protases), and Irrealis Imperfect forms are predominantly subordinate (subjunctive) mood forms. However, the Irrealis Perfect also frequently expresses past habitual and procedural directives (for example, do this, then do this, etc.), while the Irrealis Imperfect expresses categorical prohibitions in contrast to the immediacy of the negativeJussive prohibitions.
+The above sketch is an adequate description of the TAM system of Biblical Hebrew; however, it is inadequate as an explanation of the system, because it does not account for the overlaps of meaning and function among the forms. The only way to achieve this sort of explanation is to turn to evidence outside the language system itself, such as typological and diachronic data.11 Bybee, Perkins, and Pagliuca have posited two paths of development exhibited among the world's TAM systems, one associated with perfective/past conjugations and another associated with progressive/imperfective forms.12
+
+(1)(a) resultative ("be"/"have") completive ("finish")
+
+perfect (anterior)  perfective/past
+
+(b)progressive imperfective
+
+Given these two paths of development, we may reasonably hypothesize that the Past Narrative and Perfect forms in Biblical Hebrew belong to the first (1a), and the Imperfect and predicatively used Participle belong to the second (1b). The suitability of these two hypotheses is rooted in a number of pieces of evidence. For the Past Narrative and Perfect, there are the following considerations. First, the interaction of these forms with stative verbs seems to confirm the past tense versus perfective aspect identification of the forms on the path of development.13 Second, the expression of both perfect (anterior) and perfective aspects by the Perfect conjugation may be explained by the adherence of the older anterior meaning beyond the development of a new perfective meaning.14 Third, the restriction of the Perfect largely to past-time expressions (exceptions are the instantaneous
+
+11. See M. Haspelmath, "Does Linguistic Explanation Presuppose Linguistic Description?" Studies in Language 28 (2004) 574.
+12. Bybee, Perkins, and Pagliuca, The Evolution of Grammar, 105, 127. 13. Namely, the Past Narrative yields only past-time expressions' stative verbs, whereas the Perfect can express either past or non-past temporal expressions (for example,   "He knew/ came to know" versus   "He knows/he knew"; see discussion in my Time and the Biblical Hebrew Verb, 194­99). This difference is a key behavioral distinction between past tense and perfective aspect verbs according to Bybee, Perkins, and Pagliuca, The Evolution of Grammar, 92. 14. On the development of multiple meanings in this way, see discussion of English wolde/ would in P. J. Hopper and E. C. Traugott (Grammaticalization [2nd ed.; Cambridge Textbooks in Linguistics; Cambridge: Cambridge University Press, 2003] 48).
+
+The Verb in Qohelet
+
+313
+
+performative in the sphere of the present and the infrequent future perfect in future time) results from the close association (implication) of perfective aspect and past tense,15 whereby perfective verbs may be said to "default" for past temporal interpretations.16 Finally, the disappearance of the Past Narrative form in postBiblical Hebrew is explained by the further development of the Perfect form into a new and competing past tense.17
+The following evidence supports my identification of the Imperfect and Participle with the path in (1b). First, the two forms are semantically similar enough to alternate in the same passage (2) and thus belong to the same path of development.
+
+(2) Genesis 37:15                      
+And a man found him wandering in the field; and the man asked him, "What are you looking for?"
+
+Second, the Imperfect exhibits a wider range of meanings/functions, which is the main distinguishing feature between it and the Participle.18 Third, the Participle "gains ground" against the Imperfect in post-Biblical Hebrew, where the Imperfect becomes restricted mainly to its Irrealis subordinate functions, and the Participle's meanings and functions broaden (for example, more regularly used for generic, future, and present performative expressions in post-Biblical Hebrew).
+
+The Past Narrative, the Autobiographical Foreground, and the Perfect
+I am following Isaksson's lead by turning first to the verbs in the "autobiographical thread,"19 which entails analyses of the three Past Narrative forms and the distribution of the Perfect conjugation within and outside this "thread." My investigation into this autobiographical thread, however, is independent of the intractable questions of the literary structure and genre of the book.20 My focus
+
+15. See Ö. Dahl, Tense and Aspect Systems (Oxford: Blackwell, 1985), 79. 16. C. S. Smith, "The Pragmatics and Semantics of Temporal Meaning," in Proceedings, Texas Linguistic Forum 2004 (ed. P. Denis et al.; Somerville, MA: Cascadilla, 2006) 92. 17. The etymology usually proposed for the Perfect conjugation in West Semitic--namely, an adjectival copular expression--further supports this explanation by paralleling the lexical source of perfects in other languages. See J. Huehnergard, "Languages: Introductory Survey," ABD 4.156. 18.See Bybee, Perkins, and Pagliuca, The Evolution of Grammar, 40­41, 127. 19.B. Isaksson, Studies in the Language of Qoheleth, with Special Emphasis on the Verbal System (Studia Semitica Upsaliensia 10; Uppsala: Almqvist & Wiksell, 1987) chap. 2. 20. Compare with ibid., 39­42; Isaksson lets himself get caught up in genre considerations. Although his recent treatment ("The Syntax of the Narrative Discourse in Qohelet," in The Language of Qoheleth in Its Context: Essays in Honor of Prof. A. Schoors on the Occasion of
+
+314
+
+John A. Cook
+
+is on the linguistic contours of this autobiographical thread as defined by the role of the participating verb forms, which include the Past Narratives, most of the first-person Perfect verbs, and a few other Perfect forms. Linguistically, I am identifying this "thread" as the foreground of the book. Although the concept of foreground is customarily encountered in treatments of narrative discourse, the organization of events into foreground and background based on their relative saliency is a universal psycholinguistic trait of all human discourse.21 While this foreground structure gives the book a certain literary "cohesiveness . . . in the constant presence of a single brooding consciousness mediating all the book's observations, counsels, and evaluations,"22 it is not a "narrative" foreground inasmuch as it lacks any consistent temporal succession between events.23
+The Past Narrative
+In light of the non-narrative character of the book, it is not surprising that some scholars have attributed the paucity of Past Narrative verbs in the book to literary or genre considerations rather than to (the traditional diachronic explanation of) the lateness of its language.24 However, Schoors has questioned the sufficiency of this literary explanation, because the book does contain passages, most notably 9:14­15 (3), in which Past Narrative forms are more expected than the Perfects that are employed.25 Although a number of scholars have argued for an
+
+His Seventieth Birthday [ed. A. Berlejung and P. van Hecke; Leuven: Peeters, 2007] 35­46) seems more linguistically aware, my approach remains divergent from his insofar as I do not treat the thread as narrative and therefore do not intermingle the foreground-background distinction with issues of temporal succession, on which see my "Semantics of Verbal Pragmatics."
+21. See ibid., 254­55. 22. M. V. Fox, A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes (Grand Rapids, MI: Eerdmans, 1999) 151. 23. See D. C. Fredericks, Qoheleth's Language: Re-evaluating Its Nature and Date (Near Eastern Texts and Studies 3; Lewiston, NY: Edwin Mellen, 1988) 30; compare with J. L. Crenshaw (Ecclesiastes [OTL; Philadelphia: Westminster, 1987] 30), who refers to this thread as the "autobiographical narrative" (emphasis mine). On temporal succession as the defining feature of narrative, see my "Semantics of Verbal Pragmatics," 251­54, and linguistic sources cited there. 24.O. Loretz (Qohelet und die Alte Orient: Untersuchungen zu Stil und theologischer Thematik des Buches Qohelet [Freiburg: Herder, 1964] 26 n. 34) claims that Past Narrative verbs are unexpected because the book is not prose narrative; Crenshaw (Ecclesiastes, 50) states that "the literary types in the book do not lend themselves to the frequent use of this verb form" (though he retains the "narrative" of the autobiographical foreground; see n. 23 above); Isaksson (Studies in the Language of Qoheleth, 60) attributes the lack to the "philosophical approach" of the book; Fredericks (Qoheleth's Language, 78), agreeing with Loretz, adds that the author consciously avoided the Past Narrative in order to avoid "temporal and logical ambiguity" among successively reported events. 25.A. Schoors, The Preacher Sought to Find Pleasing Words: A Study of the Language of Qoheleth (OLA 41; Leuven: Peeters, 1992) 86­87. Other passages do not so clearly demand an anecdotal narrative interpretation as 9:14­15 but may be so understood (for example, 4:14­16,
+
+The Verb in Qohelet
+
+315
+
+irrealis interpretation of this passage,26 the most natural interpretation of the passage is as a realis anecdotal narrative.27
+(3) Qohelet 9:14­15                                                            
+There was a city and the men in it were few, and a great king came against it and surrounded it and built great siege works against it. And a poor wise man was found in it, and he delivered the city by his wisdom, yet no one remembered that poor man.
+What makes this passages stand out is that the events make sense only if interpreted in ordo naturalis--that is, as occurring in the order in which they are recounted. By contrast, for example, the extensive series of first-person Perfect verbs in 2:5­8 demand no such ordo naturalis interpretation. Schoors, however, notes that even within the autobiographical foreground there are sequences of verbs that imply a successive interpretation, such as the sequence of Perfects in 2:12­13, 15 (4).28
+(4) Qohelet 2:12­13, 15        . . .                    . . .       
+I turned to examine wisdom and madness and folly . . . and I saw that there is advantage to wisdom more than folly . . . then I said in my heart . . .
+
+Not only are Past Narrative verbs absent in places where they might be expected, but the three occurrences of the Past Narrative form in the book (5a­c) exhibit significant peculiarities.
+
+(5)(a) Qohelet 1:17 I gave my mind to know wisdom . . .
+
+. . .         
+
+5:12­16, 7:27­29, 10:5­7); however, none of these other passages has as extensive a string of Perfects as 9:14­15.
+26. See ibid., 86 n. 285. 27. Schoors (ibid., p. 86) points approvingly to Fox's (A Time to Tear Down and a Time to Build Up, 299) argument that Qohelet treated the event as historical. On anecdotal narrative in wisdom literature, see my "Genericity, Tense, and Verbal Patterns in the Sentence Literature of Proverbs," in Seeking out the Wisdom of the Ancients: Essays Offered to Honor Michael V. Fox on the Occasion of His Sixty-Fifth Birthday (ed. R. L. Troxel, K. G. Friebel, and D. R. Magary; Winona Lake, IN: Eisenbrauns, 2005) 130­31. 28.See Schoors, The Preacher Sought to Find Pleasing Words, 87.
+
+316
+
+John A. Cook
+
+(b) Qohelet 4:1                 
+I looked again at all the oppression that occurs under the sun.
+(c) Qohelet 4:7              
+Again I saw an absurdity under the sun.
+
+To begin with, the grammatical forms of these examples are peculiar. The first-person Past Narrative of  (as in [5a]) occurs 12 out of 37× with the "paragogic he" suffix,29 and about 100 examples of the Past Narrative with the "paragogic he" occur in the Hebrew Bible--all but 2 of which are first-person forms.30 Significantly, Qumran Hebrew exhibits the conventionalization of the "paragogic/ cohortative he" on first-person prefix-pattern (that is, Past Narrative or Imperfect) forms when preceded by a waw-conjunction.31
+The other two Past Narrative examples are morphologically and lexically identical but unique.32 The construction in each case is a verbal hendiadys, "I looked again," but it contrasts with the usual collocation, which forms both verbs as Past Narratives, as in examples (6a­b).
+
+(6)(a) Genesis 14:7 They returned to En-Mishpat . . .
+
+. . .     
+
+(b) Nehemiah 2:15 I returned through the valley gate.
+
+        
+
+29. Numbers 8:19; Judg 6:9; 1 Sam 2:28; 2 Sam 12:8; Ezek 16:11; Ps 69:12; Eccl 1:17; Dan 9:3; Neh 2:1, 6, 9.
+30. Counts vary: P. J. Gentry ("The System of the Finite Verb in Classical Biblical Hebrew," HS 39 [1998] 24 n. 67) lists 99 instances, but he notes that his list varies from L. McFall (The Enigma of the Hebrew Verbal System [Sheffield: Almond, 1982] 211­14). A search of the Westminster electronic text yields 104 examples: 95 first-person singular forms (Gen 32:6; Num 8:19; Josh 24:8; Judg 6:9­10, 10:12, 12:3; 1 Sam 2:28, 28:15; 2 Sam 4:10, 7:9, 12:8, 22:24; Jer 11:18, 32:9; Ezek 3:3, 9:8, 16:11; Zech 11:13; Pss 3:6; 7:5; 69:12, 21; 73:16; 119:55, 59, 106, 131, 147, 158; Job 1:15­17, 19; 19:20; 29:17; Qoh 1:17; Dan 8:13, 15, 17; 9:3­4; 10:16, 19; 12:8; Ezra 7:28; 8:15­17, 24­26, 28; 9:3, 5­6; Neh 1:4; 2:1, 6, 9, 13; 5:7­8, 13; 6:3, 8, 11­12; 7:5; 12:31; 13:7­11, 13, 17, 19, 21­22, 30), 6 first-person plural forms (Gen 41:11, 43:21; Ps 90:10; Ezra 8:23 [2×], 31), and 2 non-first-person forms (Ezek 23:16, 20).
+31.E. Qimron, The Hebrew of the Dead Sea Scrolls (HSS 29; Atlanta: Scholars Press, 1986) 44; S. Morag, "Qumran Hebrew: Some Typological Observations," VT 38 (1988) 154­55.
+32. Jeremiah 18:4 (      , "so he remade it into another vessel") is perhaps the closest parallel.
+
+The Verb in Qohelet
+
+317
+
+In addition, alternate constructions exist in Qohelet that express this same sense: the Perfect of  with Infinitive Absolute of  in 9:11 (7a); and  with the Perfect of  in 3:16 (7b).
+
+(7)(a) Qohelet 9:11 I looked again under the sun . . .
+(b) Qohelet 3:16 I looked again under the sun . . .
+
+. . .          . . .         
+
+Seow thinks that the  pattern (7b) indicates continuity with the preceding material, whereas the pattern in 4:1, 7 (5b­c) emphasizes discontinuity.33 Alternatively, the pattern in 2:12 (8), which belongs to this same semantic domain, may indicate that all of these (that is, 5b­c, 7a­b, and 8) are simply stylistic variants of the author's transitional formula involving a metaphorical use of "turn" and "see/ look" together (compare with the metaphorical use of "turn [to another topic]" and "look into [some issue]" in English).
+
+(8) Qohelet 2:12 I turned to look at wisdom . . .
+
+. . .        
+
+But this hypothesis does not address why the writer chose to use the Past Narrative at all, given the preponderance of Perfect forms in the book. No semantic difference is discernible between the Past Narrative  in 1:17 (5a) and the Perfect form  in 1:13 (9), and the "stylistic" explanation simply begs the question.
+
+(9) Qohelet 1:13 . . .             
+I gave my mind to seek and to explore by wisdom . . .
+
+None of the three Past Narrative examples appears to indicate any particular salience (foregrounding) compared with the surrounding foreground Perfects, and there is no clear inference of temporal succession between these and their preceding verbs, except perhaps 1:17 (5a), which Murphy translates "So I applied my mind. . . ."34 Thus the most that we can conclude is that the writer of the book uses
+
+33. C. L. Seow, Ecclesiastes (AB 18C; Garden City, NY: Doubleday, 1997) 177. 34. R. E. Murphy, Ecclesiastes (WBC 23A; Dallas: Word, 1992) 11.
+
+318
+
+John A. Cook
+
+the Past Narrative in peculiar but recognizable constructions insofar as they are close variants of Past Narrative syntagms elsewhere in the Hebrew Bible. However, why the author chose to employ the form in these three instances alone does not admit a ready explanation.
+The Autobiographical Foreground
+The Perfect conjugation predominates in the autobiographical foreground material. Isaksson lists 82 Perfect verbs in the foreground material, including 61 without a prefixed waw and 21 with it.35 Apart from these Perfects and the Past Narrative forms, Isaksson identifies only 6 other verbs as part of the foreground material.36 Because I have defined this autobiographical thread as the nonnarrative foreground in the book, my catalog of verbs belonging to it differs from Isaksson's.
+First, foreground by definition excludes subordinate clause material, which Isaksson has excluded for the most part as well. However, he retains as part of the autobiographical thread the following relative-clause Perfects:   (2:10);  (2:11);   (2:19);  (2:20);  (unmarked, 5:12);    (5:17);   (6:1);   (8:16);  (unmarked, 10:5).37 Except for the example in 2:19, these relative expressions are subordinate directly to foregrounded material; particularly after ch. 2, they appear subordinate to transitional statements introducing new topics (that is, 5:12, 17; 6:1; 8:16; and 10:5).
+Second, Isaksson does not distinguish between first-person foreground material and first-person reported speech, which must be excluded from the foreground:      . . .   (1:16);38   (2:15);  (7:23);  . . .   . . .  . . .     . . .  (7:27­29). Although the foreground-background distinction still holds within reported speech, it has a separate deictic center from its surrounding discourse
+
+35. Isaksson, Studies in the Language of Qoheleth, 43. Without waw (first-person unless marked otherwise): 1:12, 14, 16 (3× 1s, 1× 3ms), 17; 2:1, 2, 3, 4 (3×), 5, 6, 7 (1× 1s, 2× 3ms), 8 (2×), 9 (3fs), 10 (1× 3p, 1× 3ms, 2× 1s), 11 (1× 1s, 1× 3cp), 15, 19 (2×), 20, 24; 3:10, 12, 14, 16, 17, 18; 4:15; 5:12, 17; 6:1, 3; 7:15, 23 (2×), 25, 27, 28 (1× 3fs, 3× 1s), 29; 8:9, 10, 14, 16; 9:1, 11, 13; 10:5, 7. With waw: 1:13, 16; 2:5, 9 (2×), 11, 12, 13, 14, 15 (2×), 17, 18, 20; 3:22; 4:1, 4, 7; 8:15, 17; 9:16.
+36.Ibid., 58:   (Infinitive Absolute, 4:2);  (Cohortative, 7:23);   (Participle, 7:26);  (Infinitive Absolute, 8:9);   (Participle, 8:12); and  (Infinitive Absolute, 9:11).
+37. I retain the  clause in 9:1 as part of the foreground, treating  as asseverative rather than as a subordinating conjunction:    , "Indeed, all this I have taken to heart" (so also Seow, Ecclesiastes, 296).
+38. Commentators differ about whether the final clause (    , "and my heart has seen much wisdom and knowledge") is part of the reported speech (see Crenshaw, Ecclesiastes, 69; R. Gordis, Koheleth, the Man and His World: A Study of Ecclesiastes [3rd ed.; New York: Shocken, 1968] 148; Murphy, Ecclesiastes, 11) or not (see Fox, A Time to Tear Down and a Time to Build Up, 170; Seow, Ecclesiastes, 116).
+
+The Verb in Qohelet
+
+319
+
+context, and therefore the foreground-background distinction within the speech is separate from the distinction of the speech frame.39 Thus, in 7:27­29, the speech frame in the narrator's voice ( ) is foreground, but the first-person verbs form a separate (subsidiary) foreground within the reported speech itself.40
+Third, two verbs that Isaksson lists as part of the foreground are better interpreted as apostrophes or asides with respect to the foreground material:    , "Also, my wisdom stood by me" (2:9) and    , "And this was my apportionment from all my labor" (2:10). Similarly, if  in 6:3 is interpreted as a performative (as most interpret it), "(in that case,) I say . . . ," it diverges from the past deictic center and stands outside the autobiographical foreground thread.
+Finally, although stative and negative expressions are generally excluded from discourse foreground,41 there are several examples of both types of statements in the foreground material of Qohelet:  in Qohelet's self-introduction (1:12); the   possessive expressions (twice) in 2:7; inchoative statives , "I came to realize" (1:17; 3:12, 14),42 , "I became great" (2:9), and , "I came to hate" (2:17, 18); and the negatives  . . .   in 2:10.
+In light of these points, the autobiographical foreground in Qohelet consists of the verb forms listed in table 1 (see p. 320). I have classified the Perfect forms based on whether they have a waw conjunction (following Isaksson) and whether they have a following subject pronoun. The latter feature Fredericks suggests is a key to their interpretation: "When Qoh[eleth] wished to describe an act or thought as simple past (preterite), he added  to the conjugated perfect, thus referring to his specific quest."43 However, his hypothesis is not borne out by the data, which show Perfects with and without pronouns functioning alike in the foreground (compare with  in 2:17 and   in 2:18), and the postverbal pronoun appears with the Perfect in the nonforegrounded relative clause in 5:17 (  ). The central question regarding the foregrounded Perfects is whether they should be interpreted as perfective (for example, "I did great things . . . I built . . . I planted") or perfect (for example, "I have done great things . . . I have built . . . I have planted"). Both interpretations are available to the Perfect conjugation and, because the foreground is non-narrative (that is, no continuous temporal succession), the "bounded" perfective interpretation is not required.44 Commentaries
+
+39. C. L. Miller, The Representation of Speech in Biblical Hebrew Narrative: A Linguistic Analysis (HSM 55; Winona Lake, IN: Eisenbrauns, 2003) 74.
+40. On subsidiary foreground, see T. Reinhart, "Principles of Gestalt Perception in the Temporal Organization of Narrative Texts," Linguistics 22 (1984) 785.
+41. See ibid., 786. 42.The  clause in 1:17 may alternatively be treated as an apostrophe: "I know that...." 43. Fredericks, Qoheleth's Language, 69. 44. A perfective, as opposed to perfect, interpretation creates "bounded" events, which are thereby eligible to stand in temporal succession with one another (see my "Semantics of Verbal Pragmatics," 252­53).
+
+320
+
+John A. Cook
+
+Table 1. Verbal Forms in the Autobiographical Foreground in Qohelet
+
+­waw, ­pronoun ­waw, +pronoun +waw, ­pronoun +waw, +pronoun
+
+Perfects (58×)
+
+1:12, 14, 17; 2:2, 3, 4 1:16; 2:1, 24; 3:17, 1:13; 2:5, 9 (2×), 2:11­15, 18, 20;
+
+(3×), 5, 6, 7 (1× 1s, 18; 7:25
+
+15, 17; 3:22; 8:17 4:1, 4, 7; 8:15;
+
+2× 3ms), 8 (2×), 10
+
+9:16
+
+(2×); 3:10, 12, 14, 16;
+
+4:15; 7:15, 23 (2×),
+
+27 (3fs); 8:9, 10, 14;
+
+9:1, 11, 13; 10:7
+
+Past Narr. 1:17; 4:1, 7 (3×)
+
+Other (5×)
+
+  (Infinitive Absolute, 4:2);   (Participle, 7:26);  (Infinitive Absolute, 8:9);   (Participle, 8:12);  (Infinitive Absolute, 9:11)
+
+and translations show a good deal of variation, not only among each other, but also in their own analyses. Among the variety of treatments, however, there is one consistency: the foregrounded Perfect verbs in ch. 2 are treated as perfectives (that is, English Simple Pasts) while, beginning with ch. 2, increasingly perfect (that is, English Present Perfect) renderings of the foregrounded Perfects appear.45
+This trend points to the crux of the issue: ch. 2 comes across as a "report" of Qohelet's "experiment" in which he recounts discreet actions completed some time ago--long ago enough to reflect back on their significance--hence the tradition that the book came from the end of Solomon's life. However, increasingly this "report" model breaks down, just as the literary persona of King Solomon does. This is evident simply from the decline of foregrounded Perfects after ch. 2.46 Although the foreground is non-narrative, as already noted, the events are usually discrete rather than overlapping (that is, "I did this, I did that, I did this other thing" versus "I did this while also doing that during the time I was doing this other thing"). Thus, while not temporally successive, these discrete events are nevertheless interpreted as "bounded," a status attributable to their perfectivity. Thus, with few exceptions, the foregrounded dynamic verbs should be analyzed as perfective and the handful of foregrounded stative verbs as inchoative states (see table 1 and the list of statives on p. 319). Although states cannot be "bounded" by perfectivity as dynamic events can, the inchoative stative interpretation represents
+45. For example, note the variation among and within translations and commentaries between a perfective and perfect analysis of  in the foreground passages: 1:14; 2:13; 3:10, 16, 22; 4:4, 15; 8:9­10, 17; 9:13; 10:7.
+46. The distribution of foregrounded Perfects in the book is as follows: 6 in ch. 1; 28 in ch. 2; 7 in ch. 3; 6 in ch. 4; none in chs. 5­6; 5 each in chs. 7 and 8; 4 in ch. 9; 1 in ch. 10; and none in chs. 11­12.
+
+The Verb in Qohelet
+
+321
+
+a partially "bounded" state by indicating a point in time when the state was entered into (that is, "I became" versus "I was").47
+There are a few exceptions to the aforementioned pattern, which are discussed here. First, the two foregrounded  forms in 2:7 do not exhibit an inchoative sense; however, neither are they clearly stative. Rather, with the following  preposition they express possession ("I had/possessed this . . . I had/possessed that"). This idiomatic sense accounts for their non-inchoative meaning as well as their presence in the foregrounded thread. Second, the Perfect verb in 7:15 is widely treated as a perfect (10).
+
+(10) Qohelet 7:15 Both I have seen in my absurd life.
+
+           
+
+Here, the temporal expression   constrains the perfect interpretation, because the bounded sense of the perfective interpretation would imply (pragmatic implicature) that the speaker is dead at the time of speaking: "Both I saw in my absurd life."
+As mentioned, after ch. 2, there is increased variation in the interpretation of the Perfect verbs because of the breakdown of the "report" mode. Instead of the perfective expressions in independent clauses that predominate in ch. 2 (for example,  , "I saw," 2:13, 24), a number of first-person Perfects appear in relative clauses subordinated to foregrounded copular expressions:    . . .  , "There is an evil that I have seen under the sun . . ." (10:5; see list of relative clause Perfects, p. 318). The subordination of these Perfects to present-time (stative) expressions constrains the perfect interpretation (in the same manner as the speaker's deictic anchor in reported speech within past narrative frequently constrains the perfect interpretation of Perfect verbs) and in turn may influence the way scholars have rendered verbs in neighboring verses:  , "I saw slaves" in 10:7 is interpreted by some as perfect ("I have seen slaves") but without good reason other than the influence of the perfect rendering "I have seen" in v. 5.
+One of the central cruxes of the book is  in 1:12 (11). The judgment of most scholars is upheld by the above analysis: on the one hand, scholars agree that it should not be interpreted as a present state, "I am king"; on the other hand, the past-stative interpretation ("I was king") adopted by many translations (for example, the asv, niv, and njps) implies that Qohelet is no longer king, which seems at odds with the role of his persona as giving him a vantage point from which to give the following reflections. A present-perfect interpretation therefore makes the best sense, and inasmuch as the perfect sense connects Qohelet's past (the time when he undertook his experiment) and present (the time he reflects on his experiment), it is ideally suited to this lead-in to the "report" that follows.
+47. On boundedness and states, see my "Semantics of Verbal Pragmatics," 252­53.
+
+322
+
+John A. Cook
+
+(11) Qohelet 1:12
+
+            
+
+I, Qohelet, have been king over Israel in Jerusalem.
+
+It is difficult to draw any clear conclusions regarding the other five verbal forms in the foreground that are neither Perfects nor Past Narratives. The use of Infinitives Absolute in place of finite verbs is known from other parts of the Hebrew Bible and Phoenician. In Qohelet, they are of three sorts: in 4:2, the Infinitive stands in place of a Perfect verb with a preceding pronoun:  , "I praised the dead."48 In 8:9, the Infinitive Absolute  follows a leading Perfect as a sort of "serial" verb: "I saw and (then) gave my mind to. . . ." Other examples of the Infinitive Absolute following and continuing the sense of a finite verb are found elsewhere in the Hebrew Bible (for example, Zech 7:5; Esth 2:2­3, 9:1).49 Finally, the Infinitive Absolute  in 9:11 forms a verbal hendiadys with the lead Perfect  to form an expression synonymous with    (with Past Narrative) in 4:1 (see discussion on pp. 316­318 above).
+The above portrayal of the autobiographical thread is admittedly an incomplete picture inasmuch as copular expressions are used to transition between topics, especially after ch. 2 (cf. 3:10, "I have seen the task . . . ," and 6:1, "There is an evil that I have seen under the sun"). Unfortunately, beyond recognizing the copular clauses with subordinate first-person Perfect verbs (5:12, 17; 6:1; 10:5), identifying foregrounded copular clauses is hampered by the intractable problems of literary structure.50
+The Perfects outside the Autobiographic Foreground
+Schoors criticizes Isaksson for his tendency "to multiply the instances of a perfect tense with a present force."51 This "tendency" derives in part from Isaksson's dependence on Rundgren's model of the Semitic verb, which overemphasizes the stative origin of the Perfect verb, which Isaksson is at some pains to show retains
+
+48. In every instance, the first-person pronoun as verbal subject follows the verb, except in this instance and the Perfect expression in the reported speech in 1:16:   , "And I, behold, I have increased." On the significance of Qohelet's preference for postverbal pronouns, see R. D. Holmstedt, "  : The Syntactic Encoding of the Collaborative Nature of Qohelet's Experiment," JHS 9 (2009) 19, http://www.jhsonline.org.
+49.A. Rubinstein, "A Finite Verb Continued by an Infintive Absolute in Hebrew," VT 1 (1952) 362­67.
+50. Isaksson does not address these sorts of copular clauses with respect to the autobiographical thread in his book, but in his recent study ("The Syntax of the Narrative Discourse in Qohelet"), he treats "nominal clauses" as background material in principle. However, his judgment in this regard seems affected by his view that the autobiographical thread is actually a "narrative," which generally excludes such nontemporally successive expressions as copular clauses.
+51. Schoors, The Preacher Sought to Find Pleasing Words, 174.
+
+The Verb in Qohelet
+
+323
+
+its stative (present) semantics in Qohelet.52 But this "tendency" is also a result of Isaksson's conflation of present perfect and present stative meanings. Altogether, he examines 18 Perfects with present-time reference outside the foreground material.53 My redefinition of what constitutes the "autobiographical thread" results in a larger number of Perfects outside the foreground than Isaksson's list of 18 present-time Perfects. Nevertheless, Isaksson's treatment conveniently exemplifies four issues that I use to frame my discussion of the remaining Perfect forms.
+First, as mentioned, Isaksson misleadingly groups together the Perfect forms that express a present perfect sense with those that express a general present sense. The former is the more frequent, less restricted meaning of the Perfect conjugation and therefore unproblematic. But it remains desirable (and absent in Isaksson's treatment) to explain the basis by which a present perfect versus a pastperfective meaning is assigned to these Perfects. I submit that the principle that disambiguates a past or a perfect interpretation of the Perfect conjugation lies in the temporal deixis of the surrounding discourse. Unfortunately, the numerous levels of temporal deixis created by the pastiche texture of the book complicates the interpretation of the verb forms. Consider that the motto of the book is a quotation by Qohelet that is introduced by a narrator:  , ". . . Qohelet said . . ." (1:2). Beginning in 1:12, the deictic center shifts to Qohelet himself, who describes what he has done in the past (ch. 2 especially), what the world is like (which introduces a generic [universal] temporal deixis), and addresses the audience directly with imperatives and other second-person forms. These shifts in temporal deixis throughout the book dictate how the Perfect conjugation should be interpreted. The Perfect forms that express perfective-past in the nonforeground material reside mainly in subsidiary "foreground" threads, such as anecdotal narratives (  . . . , 4:14; 9:15­16; see example [3] above) or the narrator's statements about Qohelet's activities (1:2, above; and the epilogue in 12:8­11 [7×]). The remaining Perfects with a perfective-past meaning appear in subordinate clauses. The Perfects in 2:10 ( , "which they asked") and 8:16 ( , "when I applied") are subordinate to verbs in the autobiographical foreground. The relative clause in 8:9 ( ) modifies a past null copula clause beginning an anecdotal narrative: "There was a time when a man had power over another man to harm him." In 5:15 and 6:4, the Perfect  contrasts as a perfective-past with a future Imperfect : "just as he came, he will go"; "for he came in absurdity, and in darkness he will go." Similarly, the contrast between  and the subordinate   in 12:7 makes the perfective-past interpretation unavoidable: "The spirit returns/will return to God who gave it." Finally, the relative Perfects   and
+52. For a summary and critique of Rundgren's model, see my Biblical Hebrew Verbal System, 125­27.
+53. Qohelet 1:9; 2:23, 26; 3:11, 15; 4:3; 5:10, 17; 6:3, 10; 7:10, 14, 19, 24, 27­28; 8:15; and 9:9 (Isaksson, Studies in the Language of Qoheleth, 75­92). Two other forms he discusses,  (1:12) and  (2:18), are part of the foreground material, discussed above (pp. 319, 321­322).
+
+324
+
+John A. Cook
+
+ in 5:14 create a past-future contrast with Imperfects: "Just as he came forth . . . he will return . . . just as he came."
+The relative Perfects in 2:11 ( . . . ) allow for either a past or a past-perfect interpretation: "that which my hands did/had done . . . which I labored to do/had labored to do." The contrast between these examples and the relative Perfect in 2:10 ( , "which they asked"), which is also subordinate to the foreground material, has to do with the situation aspect of the verbs: in 2:10, the activity  is almost coincidental with the action of not withholding ( ) of the main clause, thus making a perfective-past interpretation more suitable; by contrast, in 2:11, the accomplishment verbs presume the completion of the event prior to examining it (main clause), thus allowing a more nuanced pastperfect interpretation. A similar ambiguity holds for the stative relatives  and  in 2:7, 9, which admit a past-stative or past-perfect stative understanding: "who were/had been in Jerusalem before me." The latter rendering more strongly underscores that the former kings are now dead by creating a bounded end-point to the stative copular (that is, "they had been there but are not now," versus "they were there and may still be"). Finally, although the text of 8:10 makes it difficult to decide how to interpret  , most scholars treat the preceding Imperfects as past habitual: "they would come and go . . . ," which shifts the temporal deixis of the subordinate clause to past or past perfect: "where they acted/had acted thus" (see example [32] below).
+By contrast, the Perfects that are interpretable as present perfect (apart from the foregrounded  in 7:15, discussed above) appear either in clauses subordinated to present-time (mostly copular) clauses (2:21; 4:3 [2×]; 5:2, 12, 17 [2×], 18 [2×]; 6:1; 7:13; 8:15; 10:5) or in reported speech, where the temporal deictic center shifts to the speaker's present (1:16 [3×]), or in addresses to the implied audience (second-person contexts), in which case the deixis is shifted to the reader's present (7:10, 14, 22; 9:7, 9). The Perfect , "has passed away," in 9:6 may be treated as a perfect, conjoined with a copular clause (, v. 5) (12).
+
+(12) Qohelet 9:5­6
+                                              
+They have no more reward, for even the memory of them has been forgotten. Their love, their hatred, their jealousy has already passed away.
+
+Similarly, the null-copular relative clauses in 2:26 ( . . .  , "who is pleasing before him . . . who is displeasing") leads to a present-perfect interpretation of the two Perfect forms () that describe God's actions.
+A number of Perfect forms in the book are ambiguous between a perfectivepast and a present-perfect interpretation: the forms in 3:10­14 ( 2×,  3×)
+
+The Verb in Qohelet
+
+325
+
+describe God's actions in bringing about the present state of affairs; the string of Perfects in 7:27­29 ( 5×,  2×,  1×) are ambiguous because it is unclear whether these verses are to be read as a anecdotal narrative of discrete events (like the autobiographical foreground), or as events related to a current reflection, thus more suitably conveyed with the perfect interpretation (13).
+
+(13) Qohelet 7:27­29
+                                                                     
+"Look! This I found/have found," said Qohelet, "(adding) one thing to another to find a solution--what my soul still sought/has sought, but I did not find/have not found: one man among a thousand I found/have found; but a woman among all those I did not find/ have not found. Only this did I find/have I found: that God made/ has made humans upright; but they sought/have sought for many solutions."
+
+Second, Isaksson assumes that the Perfect of  regularly expresses a present state. However, a glance at the data from the rest of the Hebrew Bible shows that this interpretation is actually marginal--and with good reason: Hebrew allows a null-copula strategy for present-time copular expressions,54 which creates a threeway tense distinction with the Perfect and Imperfect of : the Perfect (and Past Narrative) of  marks past tense, null copula marks present, and Imperfect of  marks future tense.55
+The data in Qohelet support this pattern: the 23 Perfect and 20 Imperfect forms of  contrast in terms of tense--past versus present--often in close succession (for example, 1:9­11 [see example 14]; 12:7). Several Perfect forms of  unambiguously express a past state:   (1:10),  (2:10),56  (4:16),  (7:10),  (12:7), and  (12:9). And the two examples in the foreground material in 2:7 () and 2:9 () are ambiguous between past and past-perfect statives: "Who were/had been before me in Jerusalem" (compare with 1:16 below in reported speech). About an equal number are ambiguous between a past-stative and present-perfect stative interpretation (that is, "were" and "have been"):  (1:9, 6:10, 7:24),   (1:10, 3:15),  (1:12),  (1:16),
+
+54. Cook, "The Participle and Stative," 9. 55.The difference between the Perfect and Past Narrative of  is not semantic but discourse-pragmatic: the Past Narrative of  is used either in a narrative foreground or as a discourse-pragmatic tense indicator at the beginning of a new "episode." 56. The parenthetical relationship of this construction with the past autobiographical foreground leads Seow to render it as a past-perfect: "This had been . . ." (Seow, Ecclesiastes, 118).
+
+326
+
+John A. Cook
+
+  (4:3),  (7:10). The ambiguity in these forms stems, as in the case of the non-stative Perfects, from their present temporal deixis, whether in reported speech (1:12, 16; 7:10) or in the context of talking about the present state of affairs (1:9, 10).
+Fox argues that the phrase  (1:9, 3:15, 6:10, and 7:24) is equivalent to  and that both phrases are generic in all their occurrences: "that which happens."57 However, Fox appears to demand too much consistency in translating the construction identically throughout the book--a consistency that he even fails to carry through when he translates the construction in 6:10 as "Whatever has happened."58 It is preferable to recognize the construction as ambiguous in 6:10 and 7:24 between the present perfect and present stative interpretations, but the context of 1:10­11 disambiguates the interpretation of the phrase in 1:9 by clearly reinforcing a past-future rather than a present-future contrast (14).
+
+(14) Qohelet 1:9­11
+                                                          
+    
+What was is what will be, and what happened is what will happen; there is nothing new under the sun. Is there anything of which one might say, "Look, this is new"? It already existed in the ages that were before us. There is no remembrance of those who were long ago, and also of those yet to come who will be there will not be any remembrance with those who will be after them.
+
+If we want to find some consistency in Qohelet's use of this phrase, therefore, we should take 1:9 and its restriction to a past or present-perfect stative interpretation as our lead and interpret the other instances accordingly. In other instances, the contrast is more between past and generic, as in 3:20, which contains generic Participles (15a). However, the "before" construction ( , v. 6) with Imperfect forms in the similar passage in 12:7 makes the past-present/future contrast more evident (15b). In both of these cases, the  should be interpreted as past or perhaps present-perfect but not generic present.59
+
+57. Fox, A Time to Tear Down and a Time to Build Up, 169, 265. On the Niphal Perfect of , see point 3 below, in this section.
+58. Ibid., 247. 59. The meaning of  in both passages seems close to its use in designating the event of a prophetic word: "The word of Yhwh came to. . . ."
+
+The Verb in Qohelet
+
+327
+
+(15) (a) Qohelet 3:20                         
+All go to the same place; all came from dust and all return to dust.
+(b) Qohelet 12:7                    
+[Before . . . ] and the dust returns to the earth accordingly, whence it came, and the spirit returns to the God, who gave it.
+The same construction, , in 3:15 is not as readily explained: the Infinitive and Perfect of  in the second part make the past-future contrast set up by the verse obvious: "and what is to be already was." But the initial part of the verse is startling for its apparent use of the Perfect to designate what is and a verbless clause with  to designate what was (16).
+(16) Qohelet 3:15                   
+That which is, already was; that which is to be, already was; and God seeks out what has been pursued.
+Given that the contrast of past-future is already apparent from the latter portion of the verse, I suggest that the need for a "landing site" for the proclitic relative - is what led to the marginal use of the Perfect of  for present stative while the use of the verbless clause following is to avoid the confusion of two Perfect  forms in a row, which would invite a tautological interpretation:   ? "Whatever has happened has already happened."
+The remaining Perfect forms (  in 6:3 and  in 7:19) are cruxes. Coming as the final phrase in a conditional protasis after several Imperfects, the Perfect form in 6:3 seems out of place, though perhaps the irreal conditional context accounts for it (on the basis of the past tense-irreal metaphor in language) (17a). In 7:19, the  likewise appears odd if all that is intended is a present-time locative expression, "who are in the city." Perhaps it conveys that the former rulers are gone, after the wisdom of the wise has prevailed: "that were/had been in the city" (17b).
+(17)(a) Qohelet 6:3                                        If a man begets a hundred children, and lives many years, however many might be the days of his years, but his appetite is not satisfied by some of the good things, and even a burial were not his, I say that a stillborn child is better off than he.
+
+328
+
+John A. Cook
+
+(b) Qohelet 7:19                 
+Wisdom strengthens the wise more than ten rulers that had been in the city.
+
+In contrast to these uncertain uses of stative , the other stative verbs are consistently interpretable as present states:60  (4:2);61  (2:23);62  (4:13);  (5:10);  (7:22);   (8:11);  (9:3);  (9:9);   (10:15); and   (12:3).63 The only two exceptions are  in 6:5, which may be interpreted as past or perhaps a present perfect: "and did not know/ has not known,"64 and the reported speech   in 2:15, which makes best sense as a perfect inchoative: "Why have I become so wise?"
+Third, the Niphal Perfect verbs require particular attention because of the distinct treatment they have been given by Isaksson and others. There are 21 Niphal Perfects in the book, 12 of which are forms of , all in relative clauses. Isaksson and others claim that this has a stative present sense, "which happens," analogous with the treatments of  (see above, this section).65 This interpretation seems suspiciously influenced by the similarities between passive voice and stative situation aspect. The other 9 Niphal Perfects are less ambiguous than the Niphal  forms, and thus it is methodologically more sound to examine these 9 first and follow their lead in interpreting the more ambiguous Niphal . Setting aside the Irrealis Perfect  (12:6), to be treated below, we find several Niphal Perfects express perfective-past ( in the narrator's report in 12:11;  in 4:14 and  in 10:6, both part of anecdotal narratives). The Nifal Perfect  (2:16) is arguably the only verb in the book with a future perfect meaning: "for their memory will have been forgotten." The remaining 4 forms express present perfect: , "a field that has been tilled" (5:8);66 , "has been designated" (6:10); ,
+60. The form   (2:18, 22; 3:9; 4:8; 9:9) may be interpreted as stative Perfect (see HALOT, s.v.), in which case it expresses a present state in all but 2:18, which is a past state subordinate to the autobiographical foreground.
+61. Or a present perfect "have died," if treated as an achievement "die" instead of stative "be dead."
+62. I am inclined to treat this verb as a stative, with Schoors (The Preacher Sought to Find Pleasing Words, 174): "even at night his mind is not at rest." Note the stative a-class prefix pattern:  .
+63. Gesenius and Kautzsch (GKC §52k) note that the (only) Piel of this stative is intransitive here: "are few."
+64. The present perfect is somewhat awkward with the "stillborn" subject, about which a continued state of "knowing" seems out of place.
+65. Isaksson, Studies in the Language of Qoheleth, 69­74; Fox, A Time to Tear Down and a Time to Build Up, 169, 265.
+66. The interpretation of the verb is clear despite textual problems with the verse; see ibid., 234; Seow, Ecclesiastes, 204, for emendations.
+
+The Verb in Qohelet
+
+329
+
+"for their memory has been forgotten" (9:5); , "everything has been heard" (12:13). Given these unexceptional meanings for the Niphal Perfect of perfective past and present perfect, a present stative interpretation of the Niphal Perfects of  is questionable. Instead, a present perfect interpretation of the Niphal Perfects of  should be followed: "that which has happened under the sun" (1:9; see example [14] above; 1:13­14; 2:17; 4:3; 8:9, 11, 14, 16­17; 9:3, 6).
+Fourth, Isaksson entertains the idea that the aforementioned verbs may be Niphal Participles instead of Perfect forms, and indeed a case might be made in 8:11 where the form is preceded by .67 However, the unambiguous Perfect in 1:14 () and Participle in 4:1 () make it evident that both may equally be a part of Qohelet's grammar. This state of affairs raises the question of whether an adequate explanation of variation such as this among verb forms in the book is possible. Generally, the answer to such a question has been negative: there is no distinguishable difference between the Niphal Perfect and Participle of  within the context of this favorite phrase of Qohelet's. I concur with this conclusion, seeing in this alternation an analogy to the stylistic variations in the topic-transition formula with , which I noted above (p. 317). However, difficulties arise when stylistic variants of this sort are treated as semantically equivalent, leading many commentators and translators to ignore TAM distinctions in the book. Indicative of this inattention to TAM distinctions is the penchant for general-present renderings of Perfects, Imperfects, and Participles in commentaries and translations, a penchant that arises in large part from the unconscious connection between generic expressions and the general present. However, there is no such correlation in language generally, even though many English proverbs use general present tense: "That's the way the cookie crumbles"; "Like father, like son"; "Boys will be boys"; "Faint heart never won fair lady." More crucially, and to return to the specific case of the Niphal of , a significant stumbling block in treating this form is that both perfect and progressive in English tend to force a particular rather than generic reading.68 Thus, English-speaking commentators and translators especially tend to level the Perfects in generic expressions in Qohelet (and Proverbs) and read them as general presents. A case in point is 5:2 (18):
+
+(18) Qohelet 5:2              
+For the dream came/has come with much preoccupation, and the voice of fools with many words.
+
+67.See Fox, A Time to Tear Down and a Time to Build Up, 285. 68. Cook, "Genericity, Tense, and Verbal Patterns," 122.
+
+330
+
+John A. Cook
+
+As awkward as the rendering in (18) appears in English, I think it is out of place to simply treat  as a general present (or read it as a Participle).69 Rather, if we take the normal perfect sense seriously, we might see a proverbial deduction from past experience as a warning for the present or future. To paraphrase: "Because just as the dreams came/have come with much preoccupation, so the voice of fools (will come) with many words." The shift from reflection to warning in the comparison makes use of the elliptical play on the verb and is something that can be seen in the sentence literature of Proverbs as well (for example, 19:29). We should recognize, however, that this is a target-language issue, not the actual TAM value of these verb forms in Qohelet, which should be read in ways that are in keeping with their use elsewhere in ancient Hebrew.
+As I noted in previous studies,70 in the past some scholars have failed to recognize the occurrence of the so-called Waw-consecutive Perfect in Qohelet. Based on the above theory of the Hebrew verbal system (pp. 310­313), I am reanalyzing these forms as Irrealis Perfect. The customary waw conjunction has to do with the frequent clause-initial position brought about by the verb-subject order of the form. In fact, several examples of Irrealis Perfects appear in the book without the conjunction, preceded instead by a condition marker:   . . .   (6:6) and   . . . (10:10). Most of the Irrealis forms with the conjunction likewise appear in conditional clauses: the temporal protasis that makes up the allegorical passage in 12:1­7, beginning with  (8 verbs altogether); the temporal apodosis  in 4:11 (following the  protasis); in 5:13, the pair of Irrealis Perfects   . . . mark the temporal protasis and apodosis, respectively. In addition to these conditional Irrealis Perfects, the form expresses a final or result idea in 5:5 () and appears in the repeated judgment of what is good in life, conjoined to relative Imperfect verbs and expressing a subjunctive or optative sort of idea: "there is nothing better than that . . ." (2:24 [2×], 3:13 [2×]). Similarly, a final interpretation fits  ("so that he says . . .") well in 10:3. The only truly problematic Irrealis Perfects appear in 1:5 ( and ), where they are out of place among the preponderance of Participles. A possible, though quite uncertain, explanation is that they are subordinate to the preceding statement, contrasting the immovable earth with the rising and setting sun (19).71
+
+69. The inverted word order of verb-subject after  is unexpected if it is a Participle; see R. D. Holmstedt, The Relative Clause in Biblical Hebrew: A Linguistic Analysis (Ph.D. diss., University of Wisconsin, 2002) 156­57.
+70.See Schoors, The Preacher Sought to Find Pleasing Words, 88. 71.See Seow (Ecclesiastes, 106­7) on the certainty of the text and the word order as indicating Irrealis Perfect versus Participle. However, the anomalous use of the Irrealis Perfects in this passage dominated by Participles makes a Participle reading of both forms quite plausible (the corruption of  being explained as a result of metathesis), despite the uniform textual evidence (see Crenshaw, Ecclesiastes, 64).
+
+The Verb in Qohelet
+
+331
+
+(19) Qohelet 1:4­5                               
+A generation goes and a generation comes, but the earth remains forever, while the sun rises and the sun goes down, panting to its place, where it rises.
+
+The Participle and Imperfect
+
+The Participle
+As I described above and in detail elsewhere,72 the Participle is essentially an adjectival encoding of an event predicate. When used predicatively, it is supported by a copula, which is more frequently covert than overt.73 Although the overt copula becomes more frequent in Rabbinic Hebrew, Qohelet shows no increase in this direction. The Participle in Qohelet appears as a predicate complement in both main and subordinate clauses, and it frequently fills a nominal slot functioning as a "headless" relative clause.74
+When the Participle appears in main clauses in Qohelet, it generally exhibits a generic sense; that is, it characterizes a certain state of affairs (20).75
+
+(20) Qohelet 1:4
+
+             
+
+A generation goes and a generation comes, but the earth remains forever.
+
+72. Cook, "The Participle and Stative"; idem, Time and the Biblical Hebrew Verb, 223­33. 73. That is, even when not phonologically present, the predicatively used Participle is supported by a covert/zero or "implied" copula. Minimal pairs such as those in 2 Sam 7:16 (with  copula) and 1 Chr 17:24 (with zero copula) demonstrate that there is no distinction in meaning, and the copula is implied in the latter case. The weaknesses of the alternative explanation, that zero-copula expressions consist of a juxtaposed subject and predicate, are discussed by L. Stassen (Intransitive Predication [Oxford Studies in Typology and Linguistic Theory; Oxford: Clarendon, 1997] 65­76). See also my "Genericity, Tense, and Verbal Patterns," 126 n. 35; and idem, "The Hebrew Participle and Stative," 9 n. 12. 74. Discerning between a qotel-pattern agentive noun and a headless relative Participle is not straightforward. See my article "The Participle and Stative," 3 n. 4. Here the issue is mostly moot, my concern being simply whether the "Participle" fills a nominal or verbal slot. 75. See also Qoh 1:4 (3×), 5, 6 (6×), 7 (3×); 2:14; 3:20 (2×); 4:5 (2×); 5:9 (2×), 11; 6:6, 10, 11; 8:1, 12 (2×); 9:1, 5 (2×), 16, 17; 10:19.
+
+332
+
+John A. Cook
+
+By contrast, the Participle in a main clause epresses a "real" present sense in only a few instances and always in rhetorical questions. One is reported speech (21a); the others are questions posed by Qohelet to the implied reader (21b).76
+
+(21) (a) Qohelet 4:8              
+For whom, now, am I toiling77 while denying my soul good things?
+(b) Qohelet 2:19            
+And who knows whether he will be wise or a fool?
+
+Three notable examples of the Participle in a main clause depart from this pattern. In 2:3,  appears to demand a past-progressive sense (22). Alternatively, this Participle could be translated as a small clause, similar to the way the preceding Infinitive Construct is treated by some.78
+
+(22) Qohelet 2:3
+
+                   
+
+I went about in my heart, leading my body by wine and my heart leading by wisdom . . .
+
+The other two notable exceptions appear within the autobiographical foreground, which suggests an interpretation of nonprogressive past, which is anomalous for the Participle (23).
+
+(23) (a) Qohelet 8:1279               
+. . . yet I know/I came to know that it will go well for those who fear God.
+(b) Qohelet 7:26                  I find/found more bitter than death the woman who is a trap, and whose heart is snares, whose hands are fetters.
+76. Qohelet 2:2 (2×), 19, 22; 3:21; 4:8; 6:8, 12. 77. The form   here and elsewhere in the book (2:18, 22; 3:9; 9:9) is identified as an adjective (HALOT, s.v.), but it may arguably be interpreted as a stative Perfect verb. 78. For example, Fox, A Time to Tear Down and a Time to Build Up, 178. 79. See also 6:8, 12, both within a question, "Who knows . . . ?"
+
+The Verb in Qohelet
+
+333
+
+Both of these examples are significant. In 8:12, the Participle appears where we would expect a Perfect,  (compare with Qoh 1:17; 2:14; 3:12, 14), and may indicate the increased use of the Participle for stative roots that is evident in Rabbinic Hebrew.80 In this case, the Participle would demand an interpretation as the present stative "I know," in contrast to the inchoative "I came to know" of the Perfect. Given that the Participle does not admit a perfective-past rendering, if the text of 7:26 is correct, it may be best to treat the Participle as a general present with almost a performative sense: "I find. . . ." This too is significant, since the Participle comes to displace the Perfect in performative expressions in Rabbinic Hebrew.81
+The two primary meanings for the Participle, the generic present and real present, appear likewise in subordinate and relative clauses, except that in these cases the temporality of the Participle clause is determined by the main clause to which it is subordinate or in which it serves as a nominal element (that is, a headless relative clause). The majority of the nominal examples appear in generic contexts,82 while only a few are found in reported speech (3:9, 5:7, 12:1) or in past foregrounded material (4:2). In the latter case, the stative meaning of the verb is "unbounded" by the past temporal deixis of the foreground, so that it is present rather than past stative (24).83
+
+(24) Qohelet 4:2 I praised those who are dead.
+
+           
+
+The Participles in 4:1 illustrate the occasional difficulty in distinguishing generic and real present (25): is Qohelet describing something that he observed happening (that is, a specific episode) or something that generally happens (generic)? It is also possible that 4:1 belongs to the category of anecdotal narratives, which are by definition "specific" episodes illustrating generic truths, in which case Qohelet may be describing some specific act of oppression. However, the character of the passage is far from being made specific through the portrayal with Participles.84
+
+80. M. Pérez Fernández, An Introductory Grammar of Rabbinic Hebrew (trans. J. Elwolde; Leiden: Brill, 1997) 137.
+81.F. W. Dobbs-Allsopp, "(More) on Performatives in Semitic," ZAH 17­20 (2004­7) 65­66.
+82. Qohelet 1:15; 2:8 (2×), 26; 3:15; 4:1 (6×), 14; 5:10, 11; 7:11, 26; 8:5, 12; 9:2 (3×), 3, 5 (2×), 11 (2×), 17, 18; 10:1, 4, 8 (2×), 9 (2×); 11:4 (2×); 12:3 (2×), 5, 11.
+83.On "boundedness" and statives, see Cook, "The Semantics of Verbal Pragmatics," 250­54.
+84. Other Participles about which it is difficult to decide between generic and real present include:  (4:1);  (4:15);  (5:12);  (5:12, 15);  (5:19);  and  (7:15);  (10:5);  (10:7).
+
+334
+
+John A. Cook
+
+(25) Qohelet 4:1                                             
+When I turned, I observed all the oppressions that happen under the sun. Look at the tears of the oppressed--and they have no comforter! Their oppressors have the power--and they have no comforter.
+
+Relative participles also usually express a generic meaning.85 However, there are exceptions to this pattern. In 2:6 the relative  is bound in the past time of the autobiographical foreground (26).
+
+(26) Qohelet 2:6
+
+                 
+
+I made pools of water to irrigate a forest (that was) sprouting trees.
+
+Though set within a present temporal deixis, the Participles in 2:16 and 9:10 have an expected future meaning: an implied future event based on the present state (note well: the analogy with the present perfect, an implied present state based in a past event) (27).
+
+(27) (a) Qohelet 2:16                    
+For no remembrance of the wise or of fools remains forever, because, in the days that are coming/going to come, all will have been forgotten.
+
+(b) Qohelet 9:10                          
+     
+Whatever your hand finds to do, perform with your might; for there is no work or thought or knowledge or wisdom in Sheol, whence you are going.
+
+A good number of the Participles in other (nonrelative) subordinate clauses have a reader-based temporal deixis, indicated by second-person statements or Qohelet's rhetorical questions.86 Three of the four remaining examples in nonrelative subordinate clauses are in generic contexts (4:17, 8:7, 12:5), and 8:16, if the reading is correct, appears to have a past progressive-habitual sense (28).
+
+85. Qohelet 1:5; 3:2; 4:1, 12, 15; 5:12, 15; 6:8; 7:5, 15 (2×); 8:14 (2×); 9:4, 12; 10:3, 5, 7, 12; 12:11.
+86. Qohelet 2:19, 22; 3:9, 21 (2×); 4:8; 5:7 (2×); 7:21; 11:5, 6; 12:1.
+
+The Verb in Qohelet
+
+335
+
+(28) Qohelet 8:16               
+For also by day and by night his eyes were not seeing any sleep.
+
+A final category that overlaps with the above categories but is of particular interest for the dating of the book is the participial encoding of stative roots.87 It appears significant that Qohelet uses the active Participle with stative roots 19×, given that this is the strategy used for many stative roots in Rabbinic Hebrew after the grammar no longer permitted the expression of present states with stative roots in the Perfect.88 Particularly noteworthy are the following: the Participle form of  (2:22), which is 1 of only 2 in the Hebrew Bible (see Neh 6:6) but which is a form that appears some 96× in Qumran texts; and , which is more frequently encoded by the Perfect than the Participle in the Hebrew Bible (500 Perfects versus 99 Participles) but shows a reversal in the Mishnah (112 Participles versus 51 Perfects) that parallels the pattern in Qohelet: 15 Participles versus 8 Perfects.89
+The Imperfect
+Approximately the same number of Imperfect forms appear in Qohelet as Perfect forms, and together, they comprise well over half of all the verbs in the book. These Imperfect forms are about equally distributed between the two mood categories of Realis and Irrealis meanings. Realis Imperfects include generic expressions as well as statements with future, present, or past temporal deixis. The meaning of the Imperfect in generic expressions in Qohelet, as in Proverbs90 expresses a typical situation or an inevitability, as in (29).91
+
+(29) (a) Qohelet 7:3             
+Better vexation than laughter, for by a sad face the heart is made well.
+
+87. Qohelet 2:19, 22; 3:21; 4:2, 14, 17; 5:7, 9 (2×); 6:10, 12; 8:1, 7, 12; 9:1, 5 (2×); 11:5, 6. These cases feature just five roots (, , , , ).
+88.See my "Detecting Development in Biblical Hebrew Using Diachronic Typology," in Diachrony in Biblical Hebrew (ed. C. L. Miller-Naudé and Z. Zevit; Linguistic Studies in Ancient West Semitic 8; Winona Lake, IN: Eisenbrauns, 2012) 83­96.
+89.These statistics are based on searches in the Accordance texts (Westminster BHS, Qumran sectarian texts and Mishnah Kaufmann A 50 manuscript prepared by M. Abegg).
+90.See my "Genericity, Tense, and Verbal Patterns," 127­29. 91. Generic Imperfects: Qoh 1:3 (or general present), 18 (2×); 2:3 (or general present), 16, 21 (or future); 3:14 (2×), 15, 17; 4:10 (2×), 11, 12; 5:9 (stative), 11, 17 (or general present); 6:7 (stative), 12; 7:3, 7 (2×), 9, 12, 18, 19, 20 (2×), 26 (2×); 8:1 (2×), 3 (2×), 5 (2×), 12, 13, 15; 9:4, 11; 10:1 (2×), 8 (2×), 9 (2×), 12, 14, 15, 18 (2×), 19 (2×), 20 (2×); 11:3 (2×), 4 (2×), 5.
+
+336
+
+John A. Cook
+
+(b) Qohelet 7:7            
+Surely oppression makes a fool of the wise, and a bribe corrupts the heart.
+
+What is notable compared with Proverbs is the ratio of Imperfects to Participles in generic expressions in Qohelet: the sentence literature of Proverbs contains 272 generic Imperfects and 73 generic Participles; by contrast, Qohelet contains only about 51 generic Imperfects versus 110 generic Participles.92 Another notable point is that, apart from 12 relative clauses, these generic Imperfects occur in main/independent rather than subordinate clauses. By contrast, the Imperfect has become frequent in subordinate clauses in Rabbinic Hebrew.93
+There are 15 examples of Imperfect expressing a variety of present-time expressions, including general and habitual, which both differ from generic only by their expression of particular events or episodes and differ from each other by the contextual implication of regular repetition.94
+
+(30) (a) Qohelet 5:4            
+Better that you do not make a vow than that you make a vow and do not fulfill it.
+(b) Qohelet 10:16­17                               
+              Woe to you, O land whose king is a lackey and whose princes dine in the morning! Happy are you, O land whose king is a nobleman and whose princes dine at the proper time--in a manly fashion without drunkenness!
+
+Only one present-imperfective (8:4) and one present-stative expression with the Imperfect appear in the book (4:8) (31). The latter combination of stative root with Imperfect (versus Perfect) may alternatively be interpreted as future, but in
+
+92. This comparison is slightly exaggerated because the numbers from Proverbs (Cook, "Genericity, Tense, and Verbal Patterns," 124) do not distinguish Irrealis (for example, dynamic and epistemic) Imperfects from generic Realis Imperfects, whereas I have distinguished these categories in the Qohelet data. However, these Irrealis examples account for less than 50 of the 272 Imperfects in Proverbs, so the point is still valid: Qohelet shows a significantly increased use of the Participle in generic expressions versus the Imperfect.
+93.Pérez Fernández, An Introductory Grammar of Rabbinic Hebrew, 125. 94. General present Imperfects: Qoh 5:3, 4 (3×), 15, 16; 6:2 (3×). Habitual present Imperfects: 7:21; 9:10; 10:16, 17.
+
+The Verb in Qohelet
+
+337
+
+either case seems to serve to reinforce the negative by its sense of eventuality: "His eyes are not satisfied (Pf.)" versus "His eyes are never/will never be satisfied (Ipf.)."
+
+(31) (a) Qohelet 8:4
+
+               
+
+. . . inasmuch as the word of the king is authority, and who will dare say to him, "What are you doing?"
+
+(b) Qohelet 4:8         
+Also his eyes are not sated with riches.
+
+Similarly, few--only two past habitual and one past imperfective--examples of the Imperfect appear in Qohelet (8:10 [2×], 10:6). The former examples (8:10 [2×]) appear in a passage of uncertain interpretation, while the latter (10:6) occurs within a past anecdotal context.
+
+(32) (a) Qohelet 8:10                              And then I saw the wicked buried. They used to come and go from the holy place! But those would be forgotten in the city who had acted justly. This also is absurd.95
+(b) Qohelet 10:6               
+Folly was placed on lofty heights, and rich men were sitting in low estate.
+
+Of the 31 Imperfects that denote a future-time event,  accounts for 17
+examples, while 5 others appear in the context of a Perfect-Imperfect past-future contrast.96 Finally, the 2 Imperfect forms in the past anecdotal context of 4:15­16 seem to call for a relative future (future-in-the-past) interpretation (33).97
+
+95. First half-verse translation is from Murphy, Ecclesiastes, 79. 96.Future  forms: 1:9, 11 (3×); 2:18­19; 3:14, 22; 6:12; 8:7 (2×), 12­13; 10:14 (2×); 11:2, 8. The usage in 3:14 could alternatively be analyzed as simply generic or as having a particularly future sense: "exists/will exist forever." Past-future contrast: 1:9; 5:14­15; 6:4 (2×). Remaining future Imperfects: 2:12, 14­15, 19; 4:15­16; 11:6, 9; 12:14. 97. See comments in F. Delitzsch, Commentary on the Old Testament: Ecclesiastes and Song of Solomon (trans. M. G. Easton; reprint ed.; Peabody, MA: Hendrickson, 1989) 6.280.
+
+338
+
+John A. Cook
+
+(33) Qohelet 4:15­16
+                                             
+I saw all the living who were walking under the sun with the second youth who would step into his place. There was no end to all the people who were before him; and those who come after him would not praise him.
+
+The largest category of Irrealis Imperfect is the expression of dynamic modality (that is, ability). In several cases, it is lexically based (),98 but various other roots, both stative and dynamic, also appear (34).99
+
+(34) Qohelet 8:17                                
+Indeed, man is unable to discover what occurs under the sun, so that man toils to seek but cannot discover (it).
+
+Other modalities are modestly represented, including deontic necessity and permission,100 and epistemic necessity and possibility.101 A final category, which may be referred to simply as Irrealis Imperfect, consists mainly of Imperfects appearing in subordinate clauses (for example, conditional and temporal protases)102 in addition to three counterfactual interrogative clauses: "Why should this be the case (when it is not now)?" (5:5).103
+
+The Directive-Volitive System: Imperative, Jussive (and Cohortative)
+Semantically there is nothing strikingly unique about the directive modal system in Qohelet. There are 29 Imperatives, 18 second-person Jussives (all negated by ), and 7 third-person Jussives (3 negated by  and 4 in coordinate structures
+98. Qohelet 1:8, 15 (2×); 6:10; 7:13; 8:17 (2×). 99. Qohelet 1:8 (3×), 15 (2×); 2:25 (2×); 3:11, 13, 22; 6:10, 12; 7:13, 14, 24; 8:7, 17 (3×); 9:1, 18; 10:4, 14 (2×); 11:2, 5. 100. Deontic necessity ("must"): Qoh 2:24; 3:22; 7:2, 18; 10:10; 11:8 (2×). Deontic permission ("may"/ "let"): 6:2; 7:21; 8:8. 101. Epistemic possibility ("may"): Qoh 1:1; 2:3; 3:14; 5:14; 8:17; 11:1. Epistemic necessity ("must"): 2:18. 102. Subordinate clauses: Qoh 4:10, 11, 12, 17; 5:3, 7, 19; 6:3 (4×); 8:17; 9:12; 10:4, 11; 11:3 (3×), 8; 12:1, 2, 3, 4 (2×), 5 (4×), 6 (3×), 7 (2×). 103. Counterfactual questions: Qoh 5:5; 7:16, 17.
+
+The Verb in Qohelet
+
+339
+
+with negated Jussives or Imperatives),104 all of which express directive modality. Two first-person Jussives (Cohortatives) occur, both expressing volitive modality.105
+More significantly, the syntax of the directive system in Qohelet shows notable peculiarities, as outlined by Joosten; however, he makes some notable misstatements that obscure the patterns.106 For example, he claims that 9× the Imperative is clause initial, and 9× it is not; but he seems to be counting verses rather than occurrences. The data actually show that the Imperative occurs clause initially 18× in the book, and 11× it appears in a position other than clause initial.107 Nevertheless, this is significant in contrast to Genesis­2 Kings, in which Shulman finds that 96% of Imperatives occur clause initially.108 Similarly, Joosten finds that negated (with ) Jussives occur 10× clause initially and 9× non­clause initially. However, we obtain a more complete picture if we include the two first-person Jussives (Cohortatives) and 4 positive Jussives (above), in which case there are 17 Jussive clauseinitial examples versus 10 non-clause-initial examples in the book.109 Again, these data are significant in either case. Especially notable is the subject-verb order for the negative Jussive in 5:1 (35).
+
+(35) Qohelet 5:1                  
+Do not be rash with your mouth, and let not your heart rush to bring forth a word before God.
+
+Joosten also examines the Imperfect with waw conjunction, noting that, in Standard Biblical Hebrew, clause-initial, waw-prefixed Imperfects are generally Irrealis mood. In Qohelet, however, this pattern of clause-initial waw-marking of Irrealis Imperfects does not seem to exist. By my own count of data, excluding the negative and other conjunctions (for example, ) there are 5 examples of Realis Imperfect with waw conjunction versus 9 examples of Irrealis Imperfect with waw conjunction.110 The significance of these data, Joosten notes, is that Qohelet exhibits
+
+104. Third-person Jussive negative: Qoh 5:1, 9:8, 11:6. Third-person Jussive: 5:1, 8:3, 9:8. 105. Schoors (The Preacher Sought to Find Pleasing Words, 89­90) misses the form in Qoh 2:1, treating the form in 7:23 as the only Cohortative. 106.J. Joosten, "The Syntax of Volitive Verb Forms in Qoheleth in Historical Perspective," in The Language of Qoheleth in Its Context: Essays in Honor of Prof. A. Schoors on the Occasion of His Seventieth Birthday (ed. A. Berlejung and P. van Hecke; OLA; Leuven: Peeters, 2007) 47­61. 107. Clause-initial Imperatives: Qoh 1:10; 2:1 (2×); 4:17; 7:13, 27; 9:7 (3×), 9; 11:1, 2, 9 (3×), 10 (2×); 12:1. Non-clause-initial Imperatives: 5:3, 6; 7:14 (2×), 29; 8:2; 9:10; 11:6; 12:12, 13 (2×). 108.A. Shulman, The Use of Modal Verb Forms in Biblical Hebrew Prose (Ph.D. diss., University of Toronto, 1996) 138. 109. Clause-initial Jussives: Qoh 2:1; 5:1 (2×), 5 (2×), 7; 7:9, 10, 16 (2×), 17 (2×), 23; 8:3 (3×); 11:9. Non-clause-initial Jussives: Qoh 5:1, 3; 7:18, 21; 9:8 (2×); 10:4, 20 (2×); 11:6. 110. Realis Imperfect with waw conjunction: 1:18; 2:19; 6:12; 7:7; 8:10. Irrealis Imperfect with waw conjunction: 11:8; 12:4 (2×), 5 (3×), 6 (2×), 7.
+
+340
+
+John A. Cook
+
+a "loosening" of word-order conventions that is diachronically significant given the freer word order evident in the Qumran writings and beyond, which loosening was predicated by the loss of distinction between the Imperfect and Jussive.111
+
+The Infinitive Forms
+Qohelet has 108 Infinitives Construct and 3 Infinitives Absolute.112 The Infinitives Construct are used in predictable ways, mostly as the predicate of subordinate complement or adjunct clauses. More significantly, the Infinitive Construct in Qohelet behaves most like the form in Rabbinic Hebrew. First, 94 of the examples occur with the  preposition, as in Rabbinic Hebrew: "In practice, the infinitive construct simply does not occur except with the prefixed -."113 Of the remaining cases, the  preposition is gapped in 2 instances (1:17 and 7:25), 5 occur with the  preposition (Qoh 1:8, 3:5, 4:17, 6:9, 7:2), and 2 occur with the temporal preposition  (5:10 and 12:4), and one is preceded by the construct  with a temporal sense: "since the day of . . ." (7:1). Second, the dearth of temporal expressions using  or  with the infinitive is also similar to Rabbinic Hebrew, in which these constructions are unknown.114
+The Infinitive Absolute cases, though few, have attracted more attention than the Construct cases. Much has been made of both their use in the book and their paucity. That there are only 3 may be understood as indicative of the lateness of the book, given that the Infinitive Absolute disappears in later Hebrew.115 At the same time, Qohelet's use of the Infinitive Absolute in place of a finite verb (8:9, 9:11) and in temporal succession (4:2) are in keeping with its use elsewhere in the Hebrew Bible and cannot convincingly be taken as evidence of Phoenician influence.116
+
+111. Joosten, "The Syntax of Volitive Verb Forms in Qoheleth," 59­60. 112. Infinitive Construct: 1:7­8, 13, 15­17; 2:3, 6, 11­12, 20, 26; 3:2­8, 10, 12, 14­15, 18, 22; 4:10, 13­14, 17­5:1; 5:3, 5, 10­11, 14, 17­18; 6:2, 8­10; 7:1­2, 5, 9, 13, 25, 27; 8:8, 11, 15­9:1; 9:10; 10:10, 15; 11:7; 12:4, 10, 12. Infinitive Absolute: 4:2; 8:9; 9:11. A fourth Infinitive Absolute should be read in 12:10 in place of the passive-Participle pointing:  (so Fox, A Time to Tear Down and a Time to Build Up, 352­53). I have discounted two Construct examples and one Absolute: the Kethiv reading in 6:10 is Infinitive Construct, but the Qere   adjective reading is preferred; and   (only 1:16) is not properly an infinitive but a speech complementizer (see C. L. Miller, The Representation of Speech in Biblical Hebrew Narrative, 199­200); the form  in 4:17 may be parsed as an Infinitive Absolute or an adjective with the sense of "suitable, appropriate" (Fox, A Time to Tear Down and a Time to Build Up, 230; Seow, Ecclesiastes, 194). 113.Pérez Fernández, An Introductory Grammar of Rabbinic Hebrew, 144. 114.Ibid. 115.Ibid. 116. Fredericks, Qoheleth's Language, 84­85; Schoors, The Preacher Sought to Find Pleasing Words, 180.
+
+The Verb in Qohelet
+
+341
+
+(36) (a) Qohelet 4:2            
+Then I praised those who are already dead.
+
+(b) Qohelet 8:9                 
+All these things I saw and gave my heart to everything that occurs under the sun.
+
+(c) Qohelet 9:11 I turned and saw under the sun. . . .
+
+        
+
+Significance of the Findings
+The longstanding view of a majority of scholars is that Qohelet represents some of the latest Biblical Hebrew.117 Several conclusions of this study uphold this judgment on the basis that the verbal system in Qohelet exhibits not simply dialectal differences but evidence of diachronic change away from the pattern of earlier Biblical Hebrew toward the grammar of post-Biblical Hebrew (for example, Qumran and/or Rabbinic Hebrew). These findings include the following points. First, the paucity of Past Narrative cannot be explained fully on the basis of genre or stylistic grounds. It seems reasonable that there is an element of diachronic change that led to the use of Perfect verbs, even in anecdotal narratives in the book, where one might well expect the Past Narrative form.
+Second, the decline of the Irrealis Perfect in Qohelet, which subsequently disappears in Hebrew just as the Past Narrative does, also seems to admit a diachronic explanation.
+Third, the ratio of Perfect to Participle encoding of statives aligns Qohelet with Qumran and Rabbinic Hebrew against the rest of the Hebrew Bible. This too seems to be diachronically significant as evidence of a change that cannot easily be explained as register or dialectal variation.
+Fourth, the Imperfect form occurs less frequently in subordinate clauses in Qohelet than in Rabbinic Hebrew, in which it approaches becoming a subordinate and volitive verb form, but it also appears more frequently in subordinate clauses in Qohelet than it does in other biblical books.118 The ratio in Qohelet may be evidence of the gradual restriction of the Imperfect to subordinate clauses.
+117. See discussion and sources cited in my "Hebrew Language" (in Dictionary of the Old Testament: Wisdom, Poetry and Writings [ed. T. Longman III and P. Enns; Downers Grove, IL: InterVarsity, 2008] 265­66) as well as in the standard commentaries and introductions.
+118. The Imperfects in independent clauses versus subordinate clauses in Qohelet is about 1.5 : 1 (135/87). A search of Accordance's initial syntax data shows a ratio ranging from 2.6 : 1 to
+
+342
+
+John A. Cook
+
+Fifth, the reversal in dominance of the Imperfect and Participle in generic expressions between Proverbs and Qohelet may point to the encroachment of the Participle on the Imperfect as a contributing factor in the increasing restriction of the Imperfect to subordinate clauses.119
+Sixth, the loosening of restrictions on word order in the Directive-volitive system and Imperfects may also be diachronically significant, as Joosten claims.
+Seventh, and finally, the ubiquity of the  preposition on Infinitives Construct in Qohelet hints at the conventionalization of the construction, as in Rabbinic Hebrew.
+Although any of these findings might be individually challenged with respect to my claim that they are diachronically significant, together they constitute a strong argument that Qohelet lies diachronically between earlier portions of the Hebrew Bible and later, post-Biblical Hebrew (that is, it is exemplary of Late Biblical Hebrew). The case is strengthened when these changes are viewed within the context of the diachronic typological models presented in (1): the decline of the Past Narrative and Irrealis Perfect are attributable to the gradual displacement of the older Past Narrative by the Perfect form, which precipitated the exclusion of non-past Irrealis meanings for the Perfect; the restriction of the Imperfect to subordinate clauses and increased use of the Participle for generic expressions are results of the Participle's gradual appropriation of meanings earlier associated with the Imperfect; the loosening of word order among the Jussives and Imperfects points to the merger of these categories evident in later Hebrew. From the perspective of Qohelet's verbal system, Delitzsch's famous quip about the book can hardly be denied: "If the book of Koheleth were of old Solomonic origin, then there is no history of the Hebrew language."120
+4.6 : 1--4.1 : 1 in Genesis (533/130); 2.6 : 1 in Joshua (142/54); 2.7 : 1 in Judges (186/70); 3.8 : 1 in Psalms (828/219); and 4.5 : 1 in Proverbs (606/133).
+119. Bybee, Perkins, and Pagliuca (The Evolution of Grammar, 148) note that generic is one of the last meanings retained by a present/imperfective verb when a progressive form begins to take over the former's functions.
+120. Delitzsch, Ecclesiastes and Song of Solomon, 190.

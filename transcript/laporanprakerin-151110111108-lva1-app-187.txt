@@ -1,0 +1,1046 @@
+PEMASANGAN PENERANGAN JALAN UMUM DENGAN SISTEM JARINGAN BAWAH TANAH DAN
+OPTIMALISASI LAMPU DI JALAN MURADI SEMARANG BARAT
+LAPORAN Diajukan Guna Memenuhi Sebagai Persyaratan Dalam Rangka Menempuh Ujian Akhir Sekolah Menengah Kejuruan Negeri 7 Semarang Kompetensi
+Keahlian Teknik Instalasi Tenaga Listrik Tahun Pelajaran 2015 / 2016
+Disusun Oleh : RIFQI RENALDY DEVA SAPUTRA
+NIS : 1211995
+KOMPETENSI KEAHLIAN TEKNIK INSTALASI TENAGA LISTRIK
+SEKOLAH MENENGAH KEJURUAN NEGERI 7 (STM PEMBANGUNAN) SEMARANG 2015
+i
+
+ii
+
+LEMBAR PENGESAHAN INDUSTRI
+Laporan dengan judul "PEMASANGAN PENERANGAN JALAN UMUM DENGAN SISTIM JARINGAN BAWAH TANAH DAN OPTIMALISASI LAMPU DI JALAN MURADI SEMARANG BARAT OLEH CV. NATRIUM NUSANTARA" yang ditulis oleh Rifqi Renaldy Deva Saputra ini telah diperiksa oleh Pembimbing Lapangan dan telah diserahkan oleh CV. Natrium Nusantara.
+
+Pada tanggal :
+
+Di
+
+: Semarang
+
+Pembimbing Industri
+
+EKO HADI PRASETIYO.STP,MM Direktur Utama CV. Natrium Nusantara
+
+UTOMO,SIP
+
+iii
+
+LEMBAR PENGESAHAN SEKOLAH
+
+Laporan dengan judul "PEMASANGAN PENERANGAN JALAN UMUM DENGAN SISTIM JARINGAN BAWAH TANAH DAN OPTIMALISASI LAMPU DI JALAN MURADI SEMARANG BARAT OLEH CV. NATRIUM NUSANTARA" yang ditulis oleh Rifqi Renaldy Deva Saputra ini telah diperiksa oleh Pembimbing Lapangan dan telah diserahkan oleh CV. Natrium Nusantara.
+
+Pada tanggal :
+
+Di
+
+: Semarang
+
+Ketua Program Keahlian Teknik Instalasi Tenaga Listrik
+
+Guru Pembimbing
+
+ALBASORI, S.Pd NIP. 197307292002121003
+
+Drs. SISWANTO, M.T NIP. 196006271986031012
+
+Kepala SMK Negeri 7 Semarang
+
+Drs. M. SUDARMANTO, M.Pd NIP. 196108241987031009
+
+iv
+KATA PENGANTAR Puji syukur dipanjatkan kehadirat Tuhan Yang Maha Esa, yang telah melimpahkan rahmat dan Hidayah-Nya, sehingga tugas praktik kerja industri dapat diselesaikan beserta laporannya.
+Praktik kerja industri dilaksanakan guna memenuhi sebagian persyaratan dalam rangka menempuh Ujian Akhir Sekolah Menengah Kejuruan Negeri 7 Semarang Program Keahlian Teknik Instalasi Tenaga Listrik tahun ajaran 20152016.
+Selama melaksanakan Praktik Kerja Industri maupun proses penyusunan Laporan, terdapat berbagai kendala dan hambatan, namun berkat dukungan dan bantuan dari berbagai pihak, maka pada akhirnya laporan praktik kerja industri dapat diselesaikan dengan baik. Maka dari itu dalam kesempatan ini disampaikan terima kasih kepada :
+1. Bapak Drs. M. Sudarmanto,M.Pd. selaku Kepala SMK Negeri 7 (STM Pembangunan) Semarang yang telah memberikan izin kepada siswanya untuk melaksanakan Praktek Kerja Industri selama 4 (Empat) bulan.
+2. Bapak Utomo,SIP selaku Direktur Utama CV. Natrium Nusantara yang telah memberi izin untuk melaksanakan Praktek Kerja Industri di Perusahaan-Nya.
+3. Bapak Albasori,S.pd selaku Ketua Program Keahlian Teknik Instalasi Tenaga Listrik SMK Negeri 7 (STM Pembangunan) Semarang yang telah membina Praktik Kerja Industri.
+4. Bapak Drs. Siswanto, M.T selaku guru pembimbing yang telah memberikan bimbingan dan dorongan selama penyusunan laporan.
+5. Bapak Eko Hadi Prasetyo, STP,MM selaku pembimbing di industri yang telah memberikan bimbingan dan pengarahan selama penyusunan laporan.
+6. Karyawan CV. Natrium Nusantara yang telah memberi semangat serta perhatiannya selama pelaksanaan Praktik Kerja Industri.
+
+v
+7. Bapak dan Ibu guru SMK Negeri 7 Semarang, serta semua pihak yang secara langsung telah membantu terlaksananya Praktik Kerja Industri dan penyusunan laporan.
+8. Orang tua dan keluarga yang telah mendukung dan menyemangati dalam pelaksanaan Praktik Kerja Industri.
+9. Serta semua pihak yang telah membantu, baik secara langsung maupun tidak langsung. Dalam penyusunan laporan ini masih terdapat kekurangan, maka dari itu
+segala kritik dan saran sangat diperlukan. Semoga laporan yang sederhana ini bermanfaat bagi Almamater SMK
+Negeri 7 Semarang Semarang, November 2015
+Penulis
+
+vi
+ABSTRAKSI Penerangan Jalan Umum merupakan aspek penting dalam penataan suatu daerah/kota. Penerangan jalan umum ini memiliki peranan sebagai pedoman navigasi pengguna jalan di malam hari, meningkatkan keamanan dan keselamatan pengguna jalan, menambah unsur estetika, dan juga dapat memberikan nilai tambah ekonomi bagi suatu daerah. Pada perencanaan sistim penerangan jalan harus memperhatikan berbagai aspek diantaranya yaitu, spesifikasi lampu yang digunakan, illuminitas cahaya yang dihasilkan, keadaan lingkungan sekitar. Pada penerangan jalan umum ini menggunakan lampu merkuri yang dinilai lebih efisien dari segi harga akan tetapi lampu merkuri ini tidak efesien dari segi daya jika dibandingkan dengan lampu LED. Kata kunci : Merkuri, LED,Efisien
+
+vii
+ABSTRACTION
+Street lighting are important aspects in the arrangement of a region / city. The street lighting has a role as a guide to navigating the roads at night, increasing the security and safety of road users, adding aesthetics, and also can provide added value to the economy of a region. On the street lighting system planning must consider the various aspects among which, the specifications of lamps used, illuminitas light generated, the state of the environment. At this public street lighting using mercury lamps which is considered more efficient in terms of price but mercury lamp is not efficient in terms of power when compared with LED lights.
+Keywords: Mercury, LED,Iluminitas
+
+viii
+DAFTAR ISI
+HALAMAN JUDUL.................................................................................................i LEMBAR PENGESAHAN INDUSTRI .................................................................. ii LEMBAR PENGESAHAN SEKOLAH ................................................................. iii KATA PENGANTAR............................................................................................. iv ABSTRAKSI........................................................................................................... vi ABSTRACTION .................................................................................................... vii DAFTAR ISI ..........................................................................................................viii DAFTAR GAMBAR ............................................................................................. xii DAFTAR TABEL.................................................................................................. xv DAFTAR LAMPIRAN ......................................................................................... xvi BAB I PENDAHULUAN .....................................................................................1
+1.1 Latar Belakang Praktik Kerja Indrustri......................................................1 1.2 Tujuan Praktek Kerja Industri....................................................................2 1.3 Tujuan Penulisan Laporan .........................................................................3 1.4 Alasan Pemilihan Judul..............................................................................4 1.5 Pembatasan Laporan ..................................................................................4 1.6 Metode Pengambilan Data .........................................................................5 1.7 Sistematika Penyusunan Laporan ..............................................................6 BAB II TINJAUAN UMUM PERUSAHAAN ......................................................8 2.1 Administrasi Perusahaan............................................................................8
+2.1.1 Sejarah Singkat Perusahaan ...........................................................8 2.2 Struktur Organisasi CV. Natrium Nusantara ...........................................14 2.3 Lokasi Perusahaan....................................................................................15
+2.3.1 Kondisi Lingkungan.....................................................................15 2.3.2 Denah Lokasi CV. Natrium Nusantara ........................................16 BAB III LANDASAN TEORI ..............................................................................17 3.1 Sistem Pembangunan Penerangan Jalan Umum ......................................17 3.1.1 Pertimbangan Pembangunan Penerangan Jalan Umum ...............17 3.2 Pengenalan Penerangan Jalan Umum ......................................................19
+
+ix
+3.2.1 Penerangan Jalan Umum ..............................................................19 3.2.2 Fungsi Penerangan Jalan Umum ..................................................20 3.2.3 Dasar Perencanaan Penerangan Jalan Umum ..............................20 3.2.4 Penentuan Kualitas Lampu...........................................................21 3.2.5 Metode Perhitungan Pencahayaan ...............................................23 3.2.6 Kualitas Pencahayaan dan Penempatan .......................................26
+3.2.5.3 Pencahayaan Pada Tempat Parkir ..................................28 3.2.5.4 Pencahayaan Pada Rambu Lalu Lintas ..........................28 3.2.7 Pemilihan Jenis dan Kualitas Lampu Penerangan Jalan ..............29 3.2.8 Sistem Penempatan Lampu Penerangan Jalan .............................29 3.2.9 Penataan Letak Lampu Penerangan Jalan Umum ........................32 3.2.10 Penataan Letak Lampu Pada Perlintasan Kereta Api...................35 3.2.11 Penataan Lampu Penerangan Jalan Terhadap Tanaman Jalan .....38 3.3 Peralatan dan Komponen Yang Digunakan Pada Penerangan Jalan Umum.......................................................................................................39 3.3.1 Tiang Lampu ................................................................................39 3.3.2 Rumah Lampu Penerangan ..........................................................41 3.3.3 Lampu...........................................................................................44 3.3.3.1 Jenis ­ Jenis Lampu........................................................44 3.3.4 Ballast ...........................................................................................50 3.3.5 Ignitor ...........................................................................................50 3.3.6 Kapasitor ......................................................................................52 3.3.7 Panel .............................................................................................52 3.4 Komponen Pada Panel Penerangan Jalan Umum ....................................53 3.4.1 Box Panel .....................................................................................53 3.4.2 Busbar...........................................................................................53 3.4.3 Kontaktor......................................................................................54 3.4.4 TDR..............................................................................................55 3.4.5 KWH ............................................................................................55 3.4.6 MCB.............................................................................................58 3.5 Kabel Pada Penerangan Jalan Umum ......................................................59
+
+x
+3.5.1 Jenis ­ Jenis Kabel Yang Digunakan Pada Penerangan Jalan Umum ...........................................................................................59 3.5.1.1 Kabel LVTC / AAAC ....................................................59 3.5.1.2 Kabel NYCY ..................................................................60 3.5.1.3 Kabel NYFGbY..............................................................60 3.5.1.4 Kabel NYM ....................................................................61 3.5.1.5 Kabel NYY.....................................................................62
+BAB IV PEMBAHASAN .....................................................................................63 4.1 Sistem Pembangunan Penerangan Jalan Umum di Jalan Muradi Semarang Barat ........................................................................................63 4.1.1 Pertimbangan Pembangunan Penerangan Jalan Di Jalan Muradi Semarang Barat ............................................................................63 4.1.2 Persiapan Administrasi.................................................................63 4.1.3 Persiapan Teknis ..........................................................................63 4.1.4 Pelaksanaan Teknis ......................................................................64 4.2 Mengenai Pembangunan Penerangan Jalan Di Jalan Muradi Semarang Barat .........................................................................................................64 4.2.1 Persiapan Pekerjaan......................................................................64 4.2.1.1 Persiapan SDM Sesuai Persyaratan................................65 4.2.2 Survei Lokasi................................................................................66 4.2.3 Pembagian APP............................................................................67 4.2.4 Spesifikasi Teknis dan Bahan Material........................................67 4.2.3.1 Tiang PJU .......................................................................67 4.2.3.2 Stang Ornament ..............................................................69 4.2.3.3 Klasifikasi Armature Lampu PJU ..................................70 4.2.3.4 Klasifikasi Lampu PJU...................................................72 4.2.3.5 Kabel ..............................................................................73 4.2.3.6 Pipa Subduct HDPE .......................................................73 4.2.3.7 Miniatur Circuit Breaker (MCB)....................................74 4.2.3.8 Box Panel .......................................................................74 4.2.3.9 Timer ..............................................................................74 4.2.3.10 Magnetic Contactor ......................................................74
+
+xi
+4.2.3.11 Arde ..............................................................................74 4.2.5 Gambar Perencanaan....................................................................75 4.2.6 Rekapitulasi Biaya........................................................................76 4.3 Ruang Lingkup Pelaksanaan Pekerjaan ...................................................77 4.3.1 Pekerjaan Sipil..............................................................................77
+4.3.1.1 Penggalian Lubang Pondasi ...........................................77 4.3.1.2 Pembuatan Pondasi ........................................................78 4.3.1.3 Penggalian Kabel Tanah.................................................82 4.3.2 Pekerjaan Elektrikal .....................................................................84 4.3.2.1 Pemasangan Tiang..........................................................84 4.3.2.2 Pemasangan Lampu PJU ................................................86 4.3.2.3 Pemasangan Jaringan Bawah Tanah ..............................88 4.3.2.4 Pemasangan Panel ..........................................................90 4.3.2.5 Connecting Jaringan dan Testing ...................................92 4.4 Gangguan .................................................................................................94 4.4.1 Pengertian Gangguan ...................................................................94 4.4.2 Jenis Gangguan ............................................................................95 4.4.3 Sistem Perbaikan..........................................................................96 4.5 Pemeliharaan Penerangan Jalan...............................................................97 4.5.1 Proses Pemeliharaan Penerangan Jalan Umum............................97 4.5.2 Jadwal Pelaksanaan Pemeliharaan ...............................................97 4.5.3 Proses Uji Kelayakan ...................................................................98 BAB V PENUTUP..............................................................................................100 5.1 Kesimpulan .............................................. Error! Bookmark not defined. 5.2 Saran.......................................................................................................102 5.2.1 Saran Untuk Industri ..................................................................102 5.2.2 Saran Untuk Sekolah..................................................................103 5.2.3 Saran Untuk Siswa .....................................................................103 DAFTAR PUSTAKA ..........................................................................................104
+
+xii
+DAFTAR GAMBAR
+Gambar 2.1Struktur Organisasi CV. Natrium Nusantara.......................................14 Gambar 2.2Lokasi CV. Natrium Nusantara ...........................................................16 Gambar 3.1Perencanaan dan Penempatan Lampu Jalan Umum............................31 Gambar 3.2Penempatan Lampu PJU K iri/Kanan Jalan di Jalan Dua Arah ...........33 Gambar 3.3Penempatan Lampu PJU di Kanan dan Kiri Jalan Secara Berselang ­
+seling di Jalan Dua Arah .....................................................................33 Gambar 3.4Penempatan Lampu PJU di Kanan dan Kiri Jalan Secara Berhadapan
+di Jalan Dua Arah................................................................................34 Gambar 3.5Penempatan Lampu PJU di Median Jalan di Jalan Dua Arah.............34 Gambar 3.6Area Perlintasan Kereta Api................................................................35 Gambar 3.7Penataan 6 Lampu di Perlintasan Kereta Api......................................35 Gambar 3.8Penataan 6 Lampu Alternatif di Perlintasan Kereta Api .....................36 Gambar 3.9Penataan 4 Lampu di Perlintasan Kereta Api......................................36 Gambar 3.10 Penataan 4 Lampu Alternatif di Perlintasan Kereta Api ..................37 Gambar 3.11 Penataan 2 Lampu di Perlintasan Kereta Api...................................37 Gambar 3.12 Penempatan PJU Terhadap Tanaman Jalan......................................38 Gambar 3.13 Tipikal Tiang Lampu Lengan Tunggal ............................................39 Gambar 3.14 Tipikal Tiang Lampu Lengan Ganda ...............................................40 Gambar 3.15 Tipikal Lampu Tegak Tanpa Lengan ...............................................41 Gambar 3.16 Rumah Lampu Penerangan ..............................................................42 Gambar 3.17 Lampu HPL - N................................................................................45 Gambar 3.18 Lampu SON ­ T ...............................................................................47 Gambar 3.19 Lampu HPI ­ T.................................................................................49 Gambar 3.20 Lampu LED ......................................................................................50 Gambar 3.21 Ballast Philips...................................................................................50 Gambar 3.22 Ignitor Philips ...................................................................................51 Gambar 3.23 Kapasitor Philips ..............................................................................52 Gambar 3.24 Box Panel PJU..................................................................................53 Gambar 3.25 Busbar...............................................................................................54
+
+xiii
+Gambar 3.26 Kontaktor ..........................................................................................54 Gambar 3.27 Time Delay Relay.............................................................................55 Gambar 3.28 KWH Analog....................................................................................57 Gambar 3.29 KWH Digital ....................................................................................58 Gambar 3.30 Kabel AAAC ....................................................................................59 Gambar 3.31 Kabel NYCY ...................................................................................60 Gambar 3.32 Kabel NYFGBY ...............................................................................60 Gambar 3.33 Kabel NYM ......................................................................................61 Gambar 3.34 Kabel NYY .......................................................................................62 Gambar 4.1Peta Lokasi Pekerjaan Penerangan Jalan Umum ................................66 Gambar 4.2Kontruksi Tiang Oktagonal Satu Lengan...........................................68 Gambar 4.3Detail Base Plate Tiang Oktagonal .....................................................69 Gambar 4.4Perencanaan PJU Jalan Muradi Semarang Barat ................................75 Gambar 4.5Penggalian Lubang..............................................................................77 Gambar 4.6Lubang Galian PJU .............................................................................78 Gambar 4.7Detail Pondasi Plat ..............................................................................80 Gambar 4.8Detai Pondasi.......................................................................................80 Gambar 4.9Desain Kerangka Pondasi....................................................................81 Gambar 4.10 Proses Pengecoran Pondasi ..............................................................81 Gambar 4.11 Bentuk Pondasi Tampak Atas ..........................................................82 Gambar 4.12 Penggalian Kabel Tanah...................................................................83 Gambar 4.13 Proses Pemasangan Subduct ............................................................83 Gambar 4.14 Tiang Oktagonal ...............................................................................85 Gambar 4.15 Proses Pemasangan Tiang Oktagonal PJU .......................................85 Gambar 4.16 Penempatan Penerangan Jalan..........................................................86 Gambar 4.17 Pantulan Cahaya Yang Dihasilkan...................................................87 Gambar 4.18 Testing Lampu..................................................................................87 Gambar 4.19 Detail Jaringan Bawah Tanah...........................................................88 Gambar 4.20 Detail Jaringan Bawah Tanah...........................................................89 Gambar 4.21 Proses Pemasangan Kabel Bawah Tanah.........................................89 Gambar 4.22 Penarikan Jaringan Bawah Tanah ....................................................90
+
+xiv
+Gambar 4.23 Desain Panel PJU .............................................................................91 Gambar 4.24 Panel PJU .........................................................................................91 Gambar 4.25 Layout Panel PJU .............................................................................92 Gambar 4.26 Proses Connecting Kabel..................................................................93 Gambar 4.27 Proses Connecting Pada Pengaman Lampu .....................................93 Gambar 4.28 Pengaman Pada PJU .........................................................................94
+
+xv
+DAFTAR TABEL
+Tabel 3.1 Kualitas Pencahayaan Normal ............................................................ 26 Tabel 3.2 Batas Kuat Pencahayaan Pada Terowongan ........................................ 27 Tabel 3.3 Kuat Pencahayaan Pada Tempat Parkir .............................................. 28 Tabel 3.4 Batas Kuat Pencahayaan Untuk Rambu Lalu Lintas .......................... 29 Tabel 3.5 Sistem Penempatan Lampu Penerangan Jalan .................................... 30 Tabel 3.6 Penataan letak lampu penerangan jalan .............................................. 32 Tabel 3.7 Tinggi Pemangkasan Pohon Terhadap Sudut dibawah Cahaya
+Lampu ................................................................................................. 38 Tabel 3.8 Kode Indek Perlindungan IP ( Index of Protection)............................ 43
+
+xvi
+DAFTAR LAMPIRAN
+1. Lembar identitas siswa praktik kerja industry 2. Lembar identitas industri 3. Jadwal program kegiatan prakerin 4. Laporan kegiatan siswa secara berkala 5. Lembar konsultasi laporan praktik kerja industri 6. Sertifikat praktik kerja industri
+
+BAB I PENDAHULUAN
+1.1 Latar Belakang Praktik Kerja Indrustri Pada era globalisasi ini, perkembangan ilmu pengetahuan dan
+teknologi berkembang dengan sangat pesat, terlebih pada dunia industri yang semakin banyak ditemukannya teknologi-teknologi baru. Kemajuan ini tidak terjadi di negara-negara maju saja , melainkan juga terjadi di negara-negara berkembang, dan salah satunya yaitu Indonesia.
+Kemajuan-kemajuan tersebut oleh Indonesia digunakan untuk menunjang program pembangunan nasional, sehingga untuk menghadapi situasi tersebut, dunia industri membutuhkan tenaga kerja yang memiliki profesionalisme yang sangat tinggi.
+Keahlian yang professional pada dasarnya mengandung unsur ilmu pengetahuan, teknik dan etos kerja. Unsur ilmu pengetahuan dan teknik adalah suatu unsur yang dapat dipelajari melalui pelajaran-pelajaran dilembaga pendidikan dan juga dapat melalui referensi buku-buku pengetahuan.
+Sedangan unsur etos kerja adalah suatu unsur yang tidak dapat diajarkan seperti halnya ilmu pengetahuan dan teknik. Akan tetapi dapat diperoleh secara langsung melalui pelaksanaan suatu bidang kerja yang sesuai dengan profesi itu sendiri.
+Selanjutnya penguasaan keahlian suatu profesi diselenggarakan dengan memadukan program pendidikan disekolah dengan program pengembangan keahlian di lapangan kerja yang dinamis dan serasi, dalam hal ini perlu adanya suatu hubungan kerjasama antara pihak sekolah dengan dunia industri.
+Pemaduan dua hal tersebut menggambarkan adanya sistem ganda. Sistem ganda inilah yang sekarang dinamakan Praktik Kerja Industri dan menjadi suatu bentuk pendidikan yang paling efektif guna mencari bibitbibit yang telah siap diterjunkan kedunia industri.
+1
+
+2
+Pelaksanaan Praktik Kerja Industri di Sekolah Menengah Kejuruan Negeri 7 Semarang adalah sebagai kebijaksanaan dari proses cara belajar Link and Match, dalam perwujudannya dilakukan pada dua tempat yang berbeda, yaitu sekolahan dan dunia industri,
+Upaya yang dilakukan dalam rangka meningkatkan mutu almamater Sekolah Menengah Kejuruan Negeri 7 Semarang dalam mencapai relevansi pendidikan dengan kebutuhan kerja.
+Harapan utama dari penyelenggaraan Praktik Kerja Industri ini disamping meningkatkan keahlian dari masing-masing siswa, juga diharapkan agar siswa mendapatkan gambaran langsung mengenai dunia kerja.
+Praktik Kerja Industri bagi siswa Sekolah Menengah Kejuruan Negeri 7 Semarang sebagaimana tertuang dalam buku petnjuk kurikulum 1999, bagi siswa SMK adalah dimaksudkan untuk mendekatkan siswa pada dunia industri atau mendapat masukan-masukan yang berarti bagi perkembangan mutu pendidikan Sekolah Menengah Kejuruan. Dan dengan diperolehnya pengalaman industri dari Praktik Kerja Industri ini diharapkan program pemerintah dalam rangka pengadaan tenaga kerja tingkat menengah dapat terpenuhi sesuai apa yang telah tercantum diatas.
+1.2 Tujuan Praktek Kerja Industri Praktek Pengenalan Industri merupakan suatu sistem pembelajaran
+yang dilakukan diluar Proses Belajar Mengajar yang dilaksanakan pada perusahaan atau instansi yang relevan. Adapun tujuan pelaksanaan praktik kerja industri meliputi : 1. Sebagai salah satu syarat untuk dapat menempuh Ujian Akhir Sekolah
+(UAS) dan kelulusan siswa. 2. Meningkatkan efesiensi proses pendidikan dan pelatihan tenaga kerja
+yang berkualitas dan profesional
+
+3
+3. Meningkatkan, memperluas dan mengembangkan pengetahuan serta keterampilan yang akan membentuk kemampuan siswa sebagai bekal untuk memasuki dunia kerja.
+4. Memperoleh bahan masukan dan pengetahuan baru sebagai tolak ukur untuk menambang pengetahan yang belum didapatkan di sekolah
+5. Melatih sikap disiplin dan tanggung jawab yang akan diperlukan siswa untuk memasuki dunia kerja
+6. Memberi kesempatan kepada siswa untuk memasyarakatkan diri kepada suasana di lingkungan kerja yang sebenarnya terutama yang berkaitan dengan disiplin kerja.
+7. Menumbuhkan serta memantapkan sikap professional yang diperlukan siswa untuk menempuh di dunia kerja.
+8. Menambah kepekaan siswa dalam mencari solusi dari suatu masalah yang terjadi di lapangan.
+1.3 Tujuan Penulisan Laporan Penulisan laporan ini sebagai hasil kegiatan program pengenalan
+industri oleh sekolah untuk melatih siswa agar memiliki jiwa disiplin, mandiri, berani dan bertanggung jawab. Selain itu, agar siswa dapat mengkaji ilmu terapan antara di lapangan dengan di sekolah. Adapun tujuan penulisan laporan adalah : 1. Siswa dapat melaporkan hasil Praktik Kerja Industri secara ilmiah
+dalam bentuk karya tulis dengan aturan dan ketentuan yang baik dan benar. 2. Siswa mampu mencari alternatif pemecahan permasalahan kerja sesuai dengan program studi yang dipilih secara luas dan mendalam yang tertuang dalam karya tulis yang disusunnya. 3. Menambah pengetahuan khususnya mengenai Penerangan Jalan Umum dengan sistim jaringan bawah tanah. 4. Memperdalam materi sebelum menghadapi evaluasi belajar tahap akhir
+
+4
+5. Menambah wawasan ilmu guna menunjang peningkatan tahap belajar siswa khususnya siswa jurusan Teknik Instalasi Tenaga Listrik
+6. Menambah perbendaharaan perpustakaan sekolah dan menunjang peningkatan mutu dari angkatan lanjutan.
+7. Memenuhi sebagai persyaratan dalam rangka menempuh Ujian Akhir Sekolah
+8. Memaparkan apa yang kerjakan selama melaksanakan prakerin di CV. Natrium Nusantara
+1.4 Alasan Pemilihan Judul Setelah melaksanakan praktik kerja industri di CV. Natrium
+Nusantara selama empat bulan, Maka diajukan judul "PEMASANGAN PENERANGAN JALAN UMUM DENGAN SISTEM JARINGAN BAWAH TANAH DAN OPTIMALISASI LAMPU DI JALAN MURADI SEMARANG BARAT" dengan beberapa alasan sebagai berikut :
+1. Memberikan pengetahuan tentang cara pemasangan Penerangan Jalan Umum yang efesien energi, sesuai dengan persyaratan yang dikaji dan biaya yang lebih ekonomis.
+2. Memberikan pengetahuan baru tentang syarat-syarat Penerangan Jalan Umum yang baik dan benar yang belum pernah dilakukan di sekolahan.
+Pembahasan karya tulis ini, mendalami dan memahami tentang "PEMASANGAN PENERANGAN JALAN UMUM DENGAN SISTIM JARINGAN BAWAH TANAH DAN OPTIMALISASI LAMPU DI JALAN MURADI SEMARANG BARAT"
+1.5 Pembatasan Laporan Dalam penyusunan sebuah laporan perlu sekali adanya pembatasan
+laporan. Pada penyusunan laporan ini juga dilakukan pembatasan materi untuk menghindari penyampaian masalah yang menyimpang dari tema
+
+5
+pokok yaitu tentang "PEMASANGAN PENERANGAN JALAN UMUM DENGAN SISTEM JARINGAN BAWAH TANAH DAN OPTIMALISASI LAMPU DI JALAN MURADI SEMARANG BARAT".
+Adapun beberapa tujuan dari pembatasan laporan sebagai berikut : 1. Agar tidak menampilkan pembahasan yang bertele-tele. 2. Agar sesuai dengan inti permasalahan yang dibahas. 3. Agar tidak terjadi pembahasan masalah yang kelihatan tidak teratur. 4. Agar pembaca dengan mudah mengerti isi dan pembahasan laporan.
+1.6 Metode Pengambilan Data Metode pengambilan data yang digunakan penulis untuk menyusun
+laporan praktik kerja industri adalah sebagai berikut : 1. Metode Observasi
+Metode ini diambil sebagai langkah pertama dalam pengambilan data. Metode observasi yaitu metode pengambilan data memalui pengamatan secara langsung kepada objek yang telah ditentukan. 2. Metode Interview (wawancara)
+Metode kedua adalah metode interview / wawancara yang dilakukan untuk mendapatkan data dengan melakukan sesi tanya jawab dengan teknisi, direktur perusahaan dan narasumber lain yang mempunyai pengetahuan di bidangnya. 3. Metode Browsing
+Metode pengambilan data yang ketiga yaitu metode browsing / searching di internet, dikumpulkan data mengenai penerangan jalan umum dengan mengunduh dokumen ­ dokumen yang berkaitan tentang hal tersebut yang bertujuan untuk menambah wawasan dan memperkaya isi laporan.
+
+6
+4. Metode Literatur Metode ini merupakan metode pengumpulan data yang dilakukan
+dengan cara membaca dan mempelajari buku ­ buku pedoman serta katalog yang ada kaitanya dengan praktik kerja yang dlaksanakan. 5. Metode Eksperiment (Praktik)
+Merupakan metode untuk mengumpulkan data dengan cara melakukan praktik dengan terjun kelapangan secara langsung dan melaksanakan pekerjaan terhadap objek kerja tersebut. 6. Metode Konsultasi
+Metode konsultasi ini merupakan metode pengumpulan data dengan cara membuat ringkasan laporan terlebih dahulu yang kemudian dikonsultasikan kepada guru pembimbing di sekolahan maupun di lapangan dalam hal pengolahan data yang diperoleh dari industri dan pembuatan laporan.
+1.7 Sistematika Penyusunan Laporan Dalam laporan praktik kerja industri ini, telah disusun secara
+sistematis menjadi 5 (lima) bab yaitu sebagai berikut :
+BAB I PENDAHULUAN Pada bagian ini terdiri dari latar belakang praktik kerja industri,
+tujuan praktik kerja industri, tujuan penulisan laporan, alasan pemilihan judul, pembatasan masalah, metode pengumpulan data, dan sistimatika penyusunan laporan.
+BAB II TINJAUAN UMUM PERUSAHAAN Bab ini diuraikan sejarah sigkat berdirinya perusahaan, misi dan
+tujuan perusahaan, kondisi lingkungan, struktur organisasi dan keterangannya, denah lokasi CV. Natrium Nusantara, sistem penerimaan tenaga kerja, jam kerja karyawan, keselamatan dan kesehatan kerja, tugas
+
+7
+dan kewajiban pekerja, pimbinaan pekerja serta fasilitas yang disediakan oleh perusahaan. BAB III LANDASAN TEORI Bab ini diuraikan tentang berbagai teori yang berkaitan dengan pemasangan penerangan jalan umum.
+BAB IV PEMBAHASAN Bab ini diuraikan tentang proyek pembangunan penerangan jalan umum di jalan Muradi Semarang Barat secara detail.
+BAB V PENUTUP Bab ini diuraikan tentang kesimpulan dari laporan yang ada dan saran.
+
+8
+BAB II TINJAUAN UMUM PERUSAHAAN
+2.1 Administrasi Perusahaan
+2.1.1 Sejarah Singkat Perusahaan CV. NATRIUM NUSANTARA adalah perusahaan
+permodalan sendiri yang didirikan pada tanggal 22 Januari 2001, sesuai dengan akte pendirian perusahaan No.13 Notaris : Lenie S. Hardjanto Loebis, SH. CV. NATRIUM NUSANTARA beralamat di Jln. KH. Surajudin No.28 Tembalang - Semarang. Perusahaan ini bergerak dalam bidang elektrikal, mekanikal, jasa pemasangan jaringan listrik, penangkal petir dan instalasi listrik. Pendiri perusahaan ini adalah Bapak Utomo, SIP yang sebelumnya beliau bekerja pada sebuah perusahaan milik negara yaitu PT. PLN (Persero).
+Beliau bekerja pada bagian pengawasan lapangan. Pada saat beliau bekerja pada bagian pengawasan. Beliau belum mengetahui banyak tentang Jaringan Listrik sehingga beliau sadar harus belajar lebih banyak tentang Jaringan Listrik. Setelah beberapa tahun beliau bekerja sebagai pengawas lapangan, beliau mulai mengetahui banyak tentang Jaringan Listrik, sehingga dengan tekat yang bulat beliau mengajukan pengunduran diri dari PT. PLN (Persero) untuk menempuh jalan berwiraswasta dengan mendirikan sebuah perusahaan yang berkutat di bidang Jaringan Listrik. Dan pada tanggal yang telah tercantum diatas perusahaan tersebut diberi nama CV. NATRIUM NUSANTARA.
+Perusahaan ini telah banyak menangani berbagai macam Jaringa Listrik baik jaringan udara maupun bawah tanah. Hampir setiap perumahan baru dan penerangan jalan di Kota Semarang pemasangan jaringan listriknya dikerjakan oleh CV. Natrium
+
+9
+Nusantara. Untuk pegawainya sendiri, berasal dari daerah Semarang dan Ambarawa. Setiap pegawainya telah memiliki sertifikasi kompetensi keahlian di bidang kelistrikan.
+2.1.2 Misi dan Tujuan Perusahaan CV. Natrium Nusantara didirikan dengan misi dan tujuan : 1. Memenuhi kebutuhan jaringan distribusi pada perumahan. 2. Melakukan pemasangan penerangan jalan umum secara optimal. 3. Mendukung program penataan jaringan distribusi di Kota Semarang yang telah dibuat oleh PT PLN (Persero). 4. Ikut memecahkan masalah perekonomian masyarakat, karena CV. Natrium Nusantara adalah perusahaan listrik yang upah kerjanya bias dikatakan cukup untuk kebutuhan pegawainya. 5. Bertambah dinamisnya social ekonomi masyarakat dengan banyak munculnya usaha kecil oleh penduduk yang berpengaruh terhadap pertumbuhan ekonomi. 6. Memberikan arahan dan pendidikan pada pekerja agar pekerja dapat mengikuti jejak pimpinan CV. Natrium Nusantara
+2.1.3 Sistem Penerimaan Tenaga Kerja Perusahaan akan menerima pekerja baru dengan kriteria sebagai berikut : 1. Berpendidikan minimal SLTA atau sederajat. 2. Minimal berusia 18 tahun. 3. Berpengalaman kerja di bidang kelistrikan 4. Berkelakuan baik 5. Berbadan sehat dengan surat keterangan dokter. 6. Telah dinyatakan lulus ujian praktik kerja oleh perusahaan. 7. Telah lulus psikotest yang diadakan oleh perusahaan.
+
+10
+2.1.4 Jam Kerja Karyawan Setiap pekerja di CV. Natrium Nusantara diberi ketentuan
+untuk tiba di perusahaan pada pukul 08.00. Kemudia setelah semua pekerja tiba di lokasi perusahaan, maka direktur utama akan memberikan tugas kepada setiap pegawai. Tugas ­ tugas tersebut berupa pemasangan jaringan distribusi, pemasangan lampu penerangan jalan umum, pembuatan panel, pemasangan instalasi listrik dan pemasangan penagkal petir pada perumahan baruataupun yang lainnya. Setelah pembagian tugas selesai, para pegawai berangkat menuju lokasi yang telah ditentukan oleh direktur. Kerika pukul 12.00. maka seluruh pegawai istirahat hingga pukul 13.00. Karyawan diperbolehkan pulang setelah semua pekerjaan selesai dikerjakan dan jam maksimal kepulangan pegawai adalah pukul 16.00. jika karyawan pulang lebih dari pukul 16.00 maka dinyatakan lembur.
+2.1.5 Keselamatan dan Kesehatan Pekerja Sesuai dengan undang - undang keselamatan dan kesehatan
+pekerja, perusahaan memberikan perintah untuk senantiasa membawa alat pelindung diri seperti : sarung tangan, sepatu safety, kaos lengan panjang, masker, helm, kacamata, safety belt dan jenis perlengkapan safety lainnya. Dan untuk kesehatan pekerja, perusahaan telah menjamin kesehatan pekerja dengan mendaftarkan para pekerja dan keluarganya ke BPJS
+2.1.6 Tugas dan Kewajiban Pekerja Tugas dan kewajiban pekerja yang ditetapkan oleh perusahaan antara lain : 1. Pekerja yang akan bekerja diwajibkan memakai pakaian seragam pada waktu memasuki lingkungan kerja.
+
+11
+2. Pekerja diwajibkan hadir di tempat kerja paling lambat 30 menit sebelum jam kerja.
+3. Pekerja diwajibkan melakukan absensi kehadiran. 4. Pekerja diwajibkan menggunakan alat ­ alat kerja sesuai
+prosedur yang telah ditetapkan oleh perusahaan. 5. Pekerja diwajibkan memakai alat pelindung keselamatan dan
+kesehatan kerja selama bekerja. 6. Pekerja dilarang berjualan/berdagang di lingkungan kerja. 7. Pekerja diwajibkan dalam kondisi fisik yang sehat dan dapat
+berkonsentrasi penuh ketika dalam bekerja.
+2.1.7 Pembinaan Pekerja Pembinaan pekerja yaitu suatu tindakan yang dilakukan
+oleh direktur utama perusahaan untuk memotivasi para pekerja dengan cara memberikan pembinaan secara lisan/tulisan kepada para pekerja dengan tujuan agar pekerja tidak melakukan kesalahan yang ada hubungannya dengan pelanggaran berat maupun ringan terhadap tugas dan tanggung jawab pekerja, kedisiplinan kerja, kesalahan kerja, pakaian kerja, keselamatan kerja dan kesehatan kerja.
+2.1.8 Fasilitas 1. Perusahaan menyediakan 2 buah mobil proyek yang digunakan untuk pergi ke proyek / ke lapangan. 2. Perusahaan juga memberikan subsidi uang makan, uang transportasi, dan uang gaji untuk semua pekerja lapangan yang tinggal di luar maupun di lingkungan perusahaan setiap minggu 3. Perusahaan juga memberikan gaji untuk pegawai kantor setiap bulan 4. Perusahaan setiap tahun akan member tunjangan hari raya kepada setiap pekerja
+
+12
+5. Perusahaan juga member tunjangan hari natal untuk setiap pekerja
+6. Perusahaan memfasilitasi seluruh alat yang digunakan untuk pegawai yang berada di lapangan
+7. Perusahaan juga memberikan liburan bersama dengan keluarga dan rekan ­ rekan kantor setiap 2 tahun sekali
+2.1.9 Struktur Organisasi Dalam melaksanakan organisasi, perusahaan perlu
+melakukan pengaturan mekanisme kerja yang jelas dan rapi. Masing ­ masing karyawan mempunyai batasan pembagian tugas dan wewenang yang jelas. Dengan demikian diharapkan terjalin hubungan antar individu yang terintegrasi dan mampu mendukung tercapainya tujuan perusahaan.
+Tugas dan wewenang masing ­ masing jabatan adalah : 1. Direktur Utama
+Memegang kebijakan umum dalam perusahaan yang meliputi perencanaan, pelaksanaan / pembagian tugas untuk pegawai, pemeriksaan dan mempunyai hak penuh dalam pengambilan keputusan. 2. Wakil Direktur
+Memegang kepemimpinan perusahaan apabila direktur utama sedang tidak ada di tempat, beliau dapat menggantikan kinerja Direktur Utama, tetapi dalam pengambilan keputusan harus berkonsultasi dengan Direktur Utama terlebih dahulu. 3. Site Manager a. Melakukan pengawasan pada pekerja lapangan. b. Mensurvei lokasi kerja. c. Meminta ijin kepada pengawas lapangan . d. Membuat gambar perencanaan / denah lokasi.
+
+13
+e. Menghibahkan pekerjaan listrik yang telah dibuat oleh PLN.
+4. Ahli Teknik a. Mengadakan pengawasan dan pemantauan terhadap jalannya pekerjaan listrik. b. Mengecek kelayakan pekerjaan listrik yang telah dibuat. c. Bertanggung jawab atas semua kerusakan atau gangguan yang terjadi di lapangan.
+5. Administrasi Keuangan a. Mengatur pemasukan dan pengeluaran uang perusahaan. b. Membuat rancangan anggaran biaya terhadap proyek yang akan dibuat. c. Membuat Administrasi Teknik (AT) yang akan diajukan kepada PLN.
+
+14
+2.2 Struktur Organisasi CV. Natrium Nusantara DIREKTUR UTAMA UTOMO, SIP
+Wakil Direktur DYAH
+PUSPITANINGRUM
+
+Site Manager EKO HADI P,STP,MM
+
+Adm. Keuangan EMILA KARTIKA
+
+Ahli Teknik BANUS CAHYO
+NOVIANTO
+Gambar 2.1 Struktur Organisasi CV. Natrium Nusantara
+
+15
+2.3 Lokasi Perusahaan
+2.3.1 Kondisi Lingkungan Pada tiap pendirian suatu perusahaan maka akan timbul
+pengaruh besar kecilnya dan baik buruknya terhadap lingkungan sekitar. Pada dasarnya maksyarakat disekitar perusahaan ini adalah seorang pegawai negeri. Sehingga perekonomian mereka dapat dikatakan cukup, namun hal ini tidak menutup kemungkinan pada masyarakat sekitar untuk membuka usaha kecil ­ kecilan seperti warung makan, tempat kost, dan usaha ­ usaha kecil lainnya.
+Pada sekitar perusahaan banyak sekali terhadap masyarakat yang membuka tempat kost dan warung makan, hal ini dikarenakan lokasi perusahaan banyak terdapat mahasiswa dari luar kota.
+Kemudian dari segi kepegawaian sendiri perusahaan ini tidak banyak merekrut masyarakat sekitar perusahaan, melainkan masyarakat yang beradi di luar daerah perusahaan, yang telah dinyatakan lulus uji kompetensi keahlian oleh pemimpin perusahaan. Hal ini dikarenakan disekitar perusahaan hanya terdapat mahasiswa yang pengetahuan dan keterampilan mereka masih belum dapat memenuhi syarat untuk dapat bekerja pada perusahaan ini.
+Selain itu dalam rangka menjalin hubungan baik dengan masyarakat, perusahaan selalu aktif membantu kegiatan sosial dilingkungan sekitar, seperti menyumbang dana untuk kegiatan perayaan hari besar nasional maupu hari besar keagamaan, pembangunan masjid, pengadaan air bersih, pembangunan dan perbaikan jalan dan lain ­ lain.
+Dampak positif didirikannya CV. Natrium Nusantara adalah : a. Terbukanya lapangan kerja bagi masyarakat baik disekitar
+maupun diluar perusahaan.
+
+16
+b. Dapat membantu konsumen dalam pembuatan jaringan distribusi baik udara maupun bawah tanah.
+c. Meningkatka pendapatan masyarakat. d. Membantu kegiatan sosial dilingkungan sekitar. e. Membantu program pemerintah dalam pengentasan
+kemiskinan. f. Mengurangi angka pengangguran. Selain dampak positif pasti juga terdapat dampak negatif dari didirikannya CV. Natrium Nusantara antara lain : a. Seringnya terjadi kerusakan jalan yang diakibatkan oleh mobil
+dan truk pengangkut pal beton yang sering keluar masuk di lokasi perusahaan. b. Sering timbulnya kema c. cetan di lokasi perusahaan. 2.3.2 Denah Lokasi CV. Natrium Nusantara
+Gambar 2.2 Lokasi CV. Natrium Nusantara
+
+17
+BAB III LANDASAN TEORI
+3.1 Sistem Pembangunan Penerangan Jalan Umum Dalam pembangunan suatu proyek penerangan jalan, pasti ada
+beberapa pertimbangan / alasan yang mengacu kepada pembangunan suatu proyek tersebut, dan berikut ini adalah pertimbangan dan persiapan pekerjaan yang harus dilakukan.
+3.1.1 Pertimbangan Pembangunan Penerangan Jalan Umum a. Belum terdapat penerangan jalan didaerah tersebut. b. Sistim penerangan jalan di daerah tersebut sudah tidak begitu efektif lagi akibat dari intensitas cahaya yang dihasilkan sangat minim. c. Terjadi pelebaran jalan pada daerah tersebut, sehingga memaksa penerangan jalan yang lama harus di pindah / diganti dengan penerangan yang baru. d. Lalu lintas di jalan tersebut sudah mulai padat sehingga harus menambah jumlah penerangan yang ada untuk meminimalisir angka kecelakaan lalu lintas.
+3.1.2 Persiapan Pekerjaan 1. Semua pihak yang terlibat dengan pelaksanaan pekerjaan penerangan jalan umum (khususnya pelaksana pekerjaan/kontraktor), harus melakukan semua persiapan dengan baik. 2. Kontraktor harus memiliki tenaga kerja yang professional dalam melakukan pembangunan penerangan jalan 3. Kontraktor harus memiliki semua peralatan kerja dalam kondisi baik.
+
+18
+4. Dalam melaksanakan pekerjaan harus berpedoman pada ketentuan teknis dan administrasi yang telah ditentukan.
+5. Informasi detail tentang pelaksanaan pembangunan penerangan jalan umum ini penekanannya lebih difokuskan pada pekerjaan kelistrikan, pekerjaan sipil hanya disampaikan secara garis besar.
+6. Persiapan administrasi : a. Mempersiapkan ijin ­ ijin yang terkait dengan pekerjaan di lapangan. b. Menyiapkan jadwal pelaksanaan pekerjaan untuk dipasang dilokasi pekerjaan c. Mempelajari petunjuk pelaksanaan pekerjaan dengan benar dan teliti, sesuai yang ditentukan dalam rencana kerja dan syarat ­ syarat (RKS). d. Menyiapkan form ­ form laporan harian, laporan mingguan, dan lain ­ lain.
+7. Persiapan teknis : a. Membuat gambar ­ gambar kerja /gambar pelaksanaan dengan baik dan benar. b. Menyiapkan rencana kerja yang dibutuhkan dan menyiapkan peralatan dan material kerja yang akan digunakan. c. Mobilisasi peralatan kerja dan material yang akan dipasang d. Menyiapkan buku pedoman pemasangan yang baik dan informasi lainnya yang berkaitan dengan pelaksanaan pekerjaan.
+
+19
+3.2 Pengenalan Penerangan Jalan Umum
+3.2.1 Penerangan Jalan Umum Penerangan Jalan Umum/PJU merupakan aspek penting
+dalam penataan suatu daerah/kota. PJU memiliki peranan sebagai pedoman navigasi pengguna jalan di malam hari, meningkatkan keamanan dan keselamatan pengguna jalan, menambah unsur estetika, dan juga dapat memberikan nilai tambah ekonomi bagi suatu daerah. Namun sayangnya banyak Pemerintah Daerah yang masih mengalami kendala dalam menyediakan fasilitas publik yang sangat penting ini terutama dalam hal perencanaan sistem PJU yang efisien energi.
+Tidak sedikit Pemerintah Daerah mengalami kesulitan dalam pembiayaan untuk pengelolaan operasonal PJU yang dimilikinya dikarenakan tingginya biaya energi yang harus dibayarkan kepada perusahaan penyedia tenaga listrik PJU, apalagi untuk ekspansi pembangunan PJU yang baru. Kondisi ini menyebabkan masyarakat tidak dapat menikmati layanan pencahayaan di jalan umum pada malam hari dengan optimal, karenanya efisiensi energi PJU adalah keharusan.
+PJU yang efisien energi diawali dari perencanaan dan desain dari sistem PJU itu sendiri. Jika rencana dan desain awal PJU gagal menghasilkan desain yang efisien energi, maka bisa dipastikan bahwa PJU yang tidak efisien energi yang akan diperoleh jika rencana tersebut direalisasikan. Sebelum melangkah pada desain teknis, perencanaan harus dimulai dari analisa kebutuhan. Salah satu prinsip dari efisiensi adalah alokasikan sumber daya yang terbatas hanya untuk keperluan yang dibutuhkan, karenanya analisa kebutuhan menjadi dasar dari perencanaan pemasangan PJU baru.
+
+20
+
+3.2.2
+
+Fungsi Penerangan Jalan Umum a. Menghasilkan kekontrasan antara obyek dan permukaan jalan. b. Meningkatkan keselamatan dan kenyamanan pengguna jalan,
+khususnya pada malam hari. c. Mendukung keamanan lingkungan dari tindak kriminalitas. d. Menjaga kualitas jarak pandang pengguna jalan. e. Memberikan keindahan lingkungan jalan. f. Sebagai alat bantu navigasi pengguna jalan.
+
+3.2.3
+
+Dasar Perencanaan Penerangan Jalan Umum 1. Perencanaan penerangan jalan umum terkait dengan hal-hal
+berikut ini : a. Volume lalu-lintas, baik kendaraan maupun lingkungan
+yang bersinggungan seperti : pejalan kaki, pengayuh sepeda, dan lain ­ lain. b. Tipikal potongan melintang jalan, situasi (lay-out) jalan dan persimpangan jalan. c. Geometri jalan, seperti alinyemen horisontal, alinyemen vertikal, dan lain ­ lain. d. Beberapa hal yang mempengaruhi pantulan cahaya lampu penerangan. e. Pemilihan jenis dan kualitas sumber cahaya/lampu menurut data fotometrik lampu dan lokasi sumber listrik. f. Tingkat kebutuhan, biaya operasi, biaya pemeliharaan, dan lain-lain, agar perencanaan sistem lampu penerangan efektif dan ekonomis. g. Rencana jangka panjang pengembangan jalan dan pengembangan daerah sekitarnya. h. Data kecelakaan dan kerawanan di lokasi.
+
+21
+2. Beberapa tempat yang memerlukan perhatian khusus dalam perencanaan penerangan jalan antara lain sebagai berikut : a. Lebar ruang jalan yang bervariasi dalam satu ruas jalan; b. Tempat-tempat dimana kondisi lengkung horisontal (tikungan) tajam. c. Tempat yang luas seperti persimpangan, interchange, tempat parkir, dan lain ­ lain. d. Terdapat pepohonan di sekitar jalan. e. Jalan-jalan dengan lebar median yang sempit, terutama untuk pemasangan lampu dibagian tengah jalan. f. Jembatan sempit/panjang, jalan layang dan jalan bawah tanah (terowongan). g. Tempat-tempat lain dimana lingkungan jalan banyak berinterferensi dengan jalannya.
+3.2.4 Penentuan Kualitas Lampu Penentuan kualitas lampu penerangan jalan umum perlu
+mempertimbangkan 6 aspek yaitu : a. Kuat rata-rata penerangan (Erata ­ rata)
+Kuat rata ­ rata penerangan yaitu besarnya kuat penerangan didasarkan pada kecepatan maksimal yang diijinkan terhadap kendaraan yang melaluinya. b. Distribusi cahaya
+Distribusi cahaya berkaitan dengan kerataan cahaya pada jalan raya. Untuk itu ditentukan faktor kerataan cahaya yang merupakan perbandingan kuat penerangan pada bagian tengah lintasan kendaraan dengan pada tepi jalan. Kerataan cahaya dapat diukur dengan rasio kemerataan pencahayaan ( uniformity ratio ) yang merupakan rasio maksimum antara kemerataan pencahayaan maksimum dan minimum menurut lokasi penempatan tertentu.
+
+22
+c. Cahaya yang silau Cahaya yang menyilaukan mata dapat menyebabkan
+keletihan mata, perasaan tidak nyaman dan kemungkinan kecelakaan. Untuk mengurangi silau yang disebabkan cahaya lampu maka digunakan akrilik atau gelas pada armature yang berfungsi sebagai filter cahaya. d. Arah pancaran cahaya dan pembentukan bayangan Sumber penerangan untuk jalan raya dipasang menyudut 5° 15°. e. Warna dan perubahan warna
+Warna cahaya lampu pelepasan gas tekanan tinggi (khususnya lampu merkuri) berpengaruh terhadap warna tertentu, misalnya: warna merah. f. Lingkungan
+Lingkungan yang berkabut maupun berdebu mempunyai faktor absorbsi terhadap cahaya yang dipancarkan oleh lampu. Cahaya kuning kehijauan mempunyai panjang gelombang paling sensitif terhadap mata sehingga tepat digunakan pada daerah berkabut. Lampu HPS tepat untuk penerangan jalan pada daerah berkabut. Pada sistem penerangan jalan raya, digunakan faktor daya guna luminair yang ditentukan dari rasio antara lebar jalan dengan tinggi luminairnya. Untuk penghitungan koefisien daya guna ini, lebar jalan dibedakan menjadi dua bagian : 1. bagian depan luminair (street side) 2. bagian belakang luminair (house side) Berdasarkan rasio lebar jalan dan tinggi luminairnya dapat ditentukan besar CU-nya. Selanjutnya jarak dan tinggi luminair jalan raya dapat dihitung dengan persamaan sebagai berikut :
+
+23
+
+Jarak =
+
+ L 
+
+   
+
+Keterangan : Em = iluminasi yang dibutuhkan dengan faktor pemeliharaan
+
+3.2.5
+
+Metode Perhitungan Pencahayaan 1. Menghitung besarnya fluks cahaya
+Fluks adalah besarnya energi cahaya yang dihasilkan pada setiap satuan waktu. Jika dirumuskan menjadi :
+=
+
+Keterangan :
+ = fluks cahaya dalam lumen (lm)
+
+Q = energi cahaya dalam lumen jam/dtk t = waktu dalam jam/dtk
+
+2. Intensitas Cahaya Intensitas cahaya adalah arus cahaya yang dipancarkan oleh
+sumber cahaya dalam satu kerucut (cone) cahaya, dinyatakan dalam satuan unit candela. Dirumuskan dengan :
+
+ = 
+
+
+ =  ×
+
+Keterangan : i = Intensitas cahaya dalam candela (cd)  = Fluks cahaya dalam lumen (lm) = Sudut ruang dalam steridian (sr)
+
+24
+
+3. Iluminasi (lux) Illuminasi atau lux merupakan satuan metrik ukuran cahaya
+pada suatu permukaan. Cahaya rata-rata yang dicapai adalah rata-rata tingkat lux pada berbagai titik pada area yang sudah ditentukan. Satu lux setara dengan satu lumen per meter persegi. Dirumuskan dengan :
+
+
+
+=
+
+ 
+
+Keterangan : E = iluminasi dalam lux (lx) lm/m2 A = luas bidang dalam m2
+ = fluks cahaya, dalam satuan lumen (lm)
+
+Intensitas penerangan E pada suatu titik P umumnya tidak sama untuk setiap titik pada bidang tersebut. Intensitas penerangan suatu bidang karena suatu sumber cahaya dengan intensitas I, berkurang dengan kuadrat dari jarak (r) antara sumber cahaya dan bidang itu (inverse square law). Hal ini dapat ditulis dalam persamaan sebagai berikut :
+
+Ep
+
+=
+
+ 2
+
+lux
+
+25
+4. Luminasi Luminasi adalah permukaan benda yang
+mengeluarkan/memantulkan intensitas cahaya yang tampak pada satuan luas permukaan benda tersebut, dinyatakan dalam lumens per watt. Dirumuskan dengan :
+  =  ( ×  ) = 
+× 
+Keterangan : L = luminasi (nit (nt) = cd/m2) = sudut antara penglihatan dengan bidangnormal permukaan ( derajat)
+5. Efikasi Cahaya Efikasi cahaya adalah perbandingan antar fluks cahaya
+yang dihasilkan lampu dengan daya listrik yang dipakainya, secara matematis dapat ditulis sebagai berikut :
+= 
+
+Keterangan : K = efikasi cahaya, dalam satuan lumen /watt (lm/watt)
+ = fluks cahaya (lm)
+P = daya listrik, dalam satuan Watt (W)
+
+26
+
+3.2.6 Kualitas Pencahayaan dan Penempatan
+
+3.2.5.1
+
+Pencahayaan Pada Ruas Jalan Kualitas pencahayaan pada suatu jalan diukur
+berdasarkan metode iluminasi atau luminasi. Meskipun demikian lebih mudah menggunakan metode iluminasi, karena dapat diukur langsung di permukaan jalan dengan menggunakan alat ukur kuat cahaya. Berikut ini table kualitas pencahayaan normal menurut jenis/klasifikasi fungsi jalan.
+
+Tabel 3.1 Kualitas Pencahayaan Normal
+
+27
+3.2.5.2 Pencahayaan Pada Terowongan 1. Kuat pencahayaan pada terowongan harus mencakup dan member kenyamanan baik untuk penglihatan siang maupun malam hari. 2. Beberapa hal yang perlu diperhatikan dalam pencahayaan terowongan : a. Memberi adaptasi pencahayaan yang baik. b. Tingkat kesilauan seminimal mungkin. c. Memberikan pantulan yang cukup dan warna yang kontras pada permukaan terowongan. d. Memberikan pencahayaan yang jelas pada rambu ­ rambu lalu lintas.
+Tabel 3.2 Batas Kuat Pencahayaan Pada Terowongan
+
+28
+
+3.2.5.3
+
+Pencahayaan Pada Tempat Parkir Kuat pencahayaan pada tempat parkir ditentukan pada tabel berikut.
+
+Tabel 3.3 Kuat Pencahayaan Pada Tempat Parkir
+
+3.2.5.4
+
+Pencahayaan Pada Rambu Lalu Lintas Batas kuat pencahayaan (iluminasi) dan luminasi
+pada rambu ­ rambu lalu lintas yang dipasang berdekatan dengan lampu penerangan jalan atau papan reklame ditentukan pada tabel berikut, yang bertujuan agar lebih menarik perhatian bagi pengguna jalan.
+
+29
+Tabel 3.4 Batas Kuat Pencahayaan Untuk Rambu Lalu Lintas
+
+3.2.7
+
+Pemilihan Jenis dan Kualitas Lampu Penerangan Jalan Pemilihan jenis dan kualitas lampu penerangan jalan didasarkan pada : 1. Nilai efesiensi dari lampu tersebut. 2. Pencahayaan yang dibutuhkan dari daerah tersebut. 3. Lokasi didirikannya penerangan jalan umum. 4. Kekontrasan permukaan jalan dan objek sekitar. 5. Umur rencana lampu yang digunakan.
+
+3.2.8
+
+Sistem Penempatan Lampu Penerangan Jalan 1. Penempatan lampu penerangan jalan harus direncanakan
+sedemikian rupa sehingga dapat memberikan : a. Kemerataan pencahayaan sesuai tabel 2. b. Keselamatan dan keamanan bagi pengguna jalan c. Pencahayaan yang lebih tinggi diarea tikungan atau
+persimpangan, dibandingkan pada bagian jalan yang lurus d. Arah dan petunjuk yang jelas bagi pengguna jalan dan
+pejalan kaki 2. Sistem penempatan lampu penerangan jalan yang disarankan
+sesuai ketentuan pada tabel 5.
+
+30
+3. Pada sistem penempatan parsial, lampu penerangan jalan harus memberikan adaptasi yang baik bagi penglihatan pengendara, sehingga elek kesilauan dan ketidaknyamanan penglihatan dapat diminimalisir.
+Tabel 3.5 Sistem Penempatan Lampu Penerangan Jalan
+
+31 4. Perencanaan dan penempatan lampu penerangan jalan dapat
+dilihat pada gambar berikut ini.
+Gambar 3.1 Perencanaan dan Penempatan Lampu Jalan Umum
+
+32
+
+3.2.9
+
+Penataan Letak Lampu Penerangan Jalan Umum Penataan atau pengaturan letak lampu penerangan jalan
+diatur seperti pada tabel berikut. Di daerah ­ daerah atau kondisi dimana median sangat lebar (>10meter) atau pada jalan dimana jumlah jalur sangat banyak (> 4 lajur setiap arah) perlu pertimbangan dengan pemilihan penempatan lampu penerangan jalan kombinasi dari cara ­ cara tersebut diatas dan pada kondisi seperti ini, pemilihan penempatan lampu penerangan jalan direncanakan sendiri ­ sendiri untuk setiap arus lalu lintas.
+
+Tabel 3.6 Penataan letak lampu penerangan jalan
+
+33
+Gambar 3.2 Penempatan Lampu PJU Kiri/Kanan Jalan di Jalan Dua Arah
+Gambar 3.3 Penempatan Lampu PJU di Kanan dan Kiri Jalan Secara Berselang ­ seling di
+Jalan Dua Arah
+
+34
+Gambar 3.4 Penempatan Lampu PJU di Kanan dan Kiri Jalan Secara Berhadapan di Jalan
+Dua Arah
+Gambar 3.5 Penempatan Lampu PJU di Median Jalan di Jalan Dua Arah
+
+35
+3.2.10 Penataan Letak Lampu Pada Perlintasan Kereta Api 1. Penataan lampu penerangan jalan pada perlintasan kereta api, apabila kereta api pada perlintasan tersebut beroperasi pada malam hari 2. Persyaratan kuat pencahayaan yang ditetapkan pada suatu area perlintasan kereta api seperti pada gambar berikut :
+Gambar 3.6 Area Perlintasan Kereta Api 3. Penataan menggunakan 6 lampu di perlintasan kereta api diilustrasikan seperti gambar berikut.
+Gambar 3.7 Penataan 6 Lampu di Perlintasan Kereta Api
+
+36 4. Penataan alternatif dengan menggunakan 6 lampu
+diperlintasan kereta api diilustrasikan pada gambar berikut.
+Gambar 3.8 Penataan 6 Lampu Alternatif di Perlintasan Kereta Api
+5. Penataan dengan 4 lampu diperlintasan kereta api diilustrasikan pada gambar berikut.
+Gambar 3.9 Penataan 4 Lampu di Perlintasan Kereta Api
+
+37 6. Perlintasan alternatif dengan 4 lampu pada perlintasan kereta
+api diilustrasikan pada gambar berikut.
+Gambar 3.10 Penataan 4 Lampu Alternatif di Perlintasan Kereta Api
+7. Penataan dengan 2 lampu pada perlintasan kereta api diilustrasikan pada gambar sebagai berikut.
+Gambar 3.11 Penataan 2 Lampu di Perlintasan Kereta Api
+
+38 3.2.11 Penataan Lampu Penerangan Jalan Terhadap Tanaman Jalan
+Dalam penempatan lampu penerangan jalan harus dipertimbangkan terhadap tanaman jalan yang akan ditanam maupun yang telah ada, sehingga perlu adanya pemangkasan pohon dengan batasan seperti pada tabel berikut
+Tabel 3.7 Tinggi Pemangkasan Pohon Terhadap Sudut dibawah Cahaya Lampu
+Penempatan Lampu Jalan Terhadap Tanaman Jalan
+Gambar 3.12 Penempatan PJU Terhadap Tanaman Jalan
+
+39
+3.3 Peralatan dan Komponen Yang Digunakan Pada Penerangan Jalan Umum 3.3.1 Tiang Lampu Tiang merupakan komponen yang digunakan untuk menopang lampu. Ada beberapa jenis tiang yang digunakan untuk lampu jalan yaitu tiang besi dan tiang oktagonal. Berdasarkan jenis lengannya (stang ornament), tiang lampu jalan dapat dibedakan menjadi 3 jenis yaitu : 1. Tiang lampu dengan lengan tunggal Tiang lampu ini pada umumnya diletakkan pada sisi kiri atau kanan jalan. Tipikal bentuk dan struktur tiang lampu dengan lengan tunggal seperti ini diilustrasikan pada gambar berikut.
+Gambar 3.13 Tipikal Tiang Lampu Lengan Tunggal
+
+40
+2. Tiang lampu dengan lengan ganda Tiang lampu ini khususnya diletakkan pada bagian tengah
+atau median jalan. Tipikal bentuk dan struktur tiang lampu lengan ganda seperti diilustrasikan pada gambar.
+Gambar 3.14 Tipikal Tiang Lampu Lengan Ganda 3. Tiang lampu tegak tanpa lengan
+Tiang lampu ini terutama diperlkan untuk menopang lampu menara, yang pada umumnya ditempatkan di persimpangan ­ persimpangan jalan ataupun tempat ­ tempat yang luas seperti taman, jenis tiang lampu ini sangat tinggi sehingga sistem penggantian atau perbaikan lampu dilakukan di bawah dengan menurunkan dan menaikan lampu tersebut menggunakan kabel suspensi.
+
+41
+Gambar 3.15 Tipikal Lampu Tegak Tanpa Lengan 3.3.2 Rumah Lampu Penerangan Rumah lampu penerangan (lantern) berfungsi untuk melindungi lampu beserta komponen lainnya pelindung terhadap air, debu dan benda lainnya. Berikut ini klasifikasi rumah lampu menurut tingkat Perlindungan terhadap debu dan air. Hal ini dapat diindikasikan dengan istilah IP (Index of Protection) atau indek perlindungan, yang memiliki 2 (dua) angka, angka pertama menyatakan indek perlindungan terhadap debu/benda, dan angka kedua menyatakan indek perlindungan terhadap air. Sistem IP merupakan penggolongan yang lebih awal terhadap penggunaan peralatan
+
+42
+yang tahan hujan dan sebagainnya, dan ditandai dengan lambang. Semakin tinggi indek perlindungan (IP), semakin baik standar perlindungannya. Ringkasan pengkodean IP mengikuti tabel (A Manal of Road Lighting in Developing Countries). Pada umumnya indek perlindungan (IP) yang sering dipakai untuk klasifikasi lampu penerangan adalah : IP 23, IP 24, IP 25, IP 54, IP 55, IP 64, IP 65, dan IP 66.
+Gambar 3.16 Rumah Lampu Penerangan
+
+43
+Tabel 3.8 Kode Indek Perlindungan IP ( Index of Protection)
+
+44
+
+3.3.3 Lampu
+
+3.3.3.1
+
+Jenis ­ Jenis Lampu 1. Lampu HPM ( High Pressure Mercury )
+Pada jenis lampu merkuri tekanan tinggi, pembatas arus pelepasan menggunakan ballast, karena itu factor dayanya relatif rendah yaitu 0,5. Tabung dalam terbuat dari gelas keras sehingga mampu digunakan pada temperatur relatif tinggi. Cara kerja lampu merkuri terdiri dari 3 tahapan yaitu pengapian,proses pencapaian stabil dan stabil. Pada saat suplai tegangan diberikan terjadi medan listrik antara elektroda kerja awal dengan salah satu elektroda utama. Hal ini menyebabkan pelepasan muatan kedua elektroda dan memanaskan merkuri yang ada disekelilingnya. Untuk menguapkan merkuri tersebut diperlukan waktu 4 hingga 8 menit. Setelah semua merkuri menjadi gas, resistansi elektroda kerja awal naik karena panas dan arus mengalir antar elektroda utama melalui gas. Warna kerja awal kemerahan dan setelah kerja normal sinar yang dihasilkan berwarna putih. Kelemahan lampu HPM adalah semakin sering pensaklaran ( switching ) akan memperpendek umur lampu karena pada awal penyalaan terjadi panas yang melebihi normal. Contoh : Lampu HPL ­ N ( Produk dari Philips ). Spesifikasi :  Efficacy : 50 - 60 lumens / Watt  Indeks Perubahan Warna : 3  Suhu Warna : Menengah
+
+45
+ Umur Lampu : 16.000 ­ 24.000 jam, perawatan lumen Buruk.
+ Gir pengendali alat elektroda ketiga lebih sederhana dan lebih mudah dibuat.
+ Tabung pemancar mengandung 100 mg gas merkuri dan argon. Pembungkusnya adalah pasir kwarsa.
+ Tidak terdapat pemanas awal katoda, elektroda ketiga dengan celah yang lebih pendek untuk memulai pelepasan.
+ Bola lampu bagian luar dilapisi fospor. Hal ini akan memberi cahaya merah tambahan dengan menggunakan UV, untuk mengkoreksi bias pelepasan merkuri.
+ Pembungkus kaca bagian luar mencegah lepasnya radiasi UV.
+Gambar 3.17 Lampu HPL - N
+
+46
+2. Lampu HPS ( High Pressure Sodium ) Lampu HPS lebih kecil dan mengandung
+unsure tambahan seperti raksa, dan menghasilkan cahaya oranye kemerahjambuan. Beberapa bola lampu juga menghasilkan cahaya putih kebiruan. Ini mungkin dari cahaya raksa sebelum natrium menguap sempurna. Jalur-D natrium adalah sumber cahaya utama dari lampu HPS, dan spektrum sempit ini dilebarkan oleh natrium tekanan tinggi dalam lampu, karena pelebaran ini dan pancaran dari raksa, warna benda yang diterangi dapat dibedakan. Ini membuatnya digunakan di tempat yang diinginkan pembedaan warna yang baik. Lampu HPS disukai untuk penyinaran tumbuhan dalam ruang karena lebarnya spektrum suhu warna yang dihasilkan dan efisiensinya yang relatif tinggi. Contoh : Lampu SON ­ T ( Produk dari Philips ) Ciri ­ ciri :  Efficacy : 50 - 90 lumens/Watt (CRI lebih baik,
+Efficacy lebih rendah)  Indeks Perubahan Warna : 1 ­ 2  Suhu Warna : Hangat  Umur Lampu : 24.000 jam, perawatan lumen
+yang luar biasa  Pemanasan : 10 menit, pencapaian panas :
+dalam waktu 60 detik  Mengoperasikan sodium pada suhu dan tekanan
+yang lebih tinggi menjadikan sangat reaktif.  Mengandung 1 - 6 mg sodium dan 20mg
+merkuri.
+
+47
+ Gas pengisinya adalah Xenon. Dengan meningkatkan jumlah gas akan menurunkan merkuri, namun membuat lampu jadi sulit dinyalakan.
+ Arc tube (tabung pemacar cahaya) didalam bola lampu mempunyai lapisan pendifusi untuk mengurangi silau.
+ Makin tinggi tekanannya, panjang gelombangnya lebih luas, dan CRI nya lebih baik, efficacy nya lebih rendah.
+Gambar 3.18 Lampu SON ­ T
+
+48
+3. Lampu Metal Halide Lampu discharge dimana sebagian besar
+dari cahaya dihasilkan oleh radiasi dari campuran uap logam (misalnya: air raksa ) dan penguraian ( dissosiasi ) halide ( halide thallium, indium atau natrium ) Contoh : Lampu HPI ­ T ( Produk dari Philips ) Ciri ­ cirri :  Efficacy : 80 lumens / Watt  Indeks Perubahan Warna : 1A ­ 2 tergantung
+pada campuran halide  Suhu Warna : 3.000K ­ 6.000K  Umur Lampu : 6.000 ­ 20.000 jam, perawatan
+lumen buruk  Pemanasan : 2 ­ 3 menit, pencapaian panas :
+dalam waktu 10 ­ 20 menit.  Jenis ini merupakan versi yang dikembangkan
+dari dua lampu pelepas dengan intensitas tinggi, dan cenderung memiliki efficacy yang lebih baik.  Dengan menambahkan logam lain ke merkuri, spektrum yang berbeda dapat dipancarkan.
+
+49
+
+Gambar 3.19 Lampu HPI ­ T
+
+4. Lampu LED ( Light Emiting Diode )
+
+LED didefinisikan sebagai salah satu
+
+semikonduktor yang mengubah energi listrik
+
+menjadi cahaya. Sebagaimana dioda lainnya LED
+
+terdiri dari bahan semikonduktor P dan N. Bila
+
+sumber diberikan pada LED kutub negatif
+
+dihubungkan dengan N dan kutub positif dengan P
+
+maka lubang ( hole ) akan mengalir kearah N dan
+
+elektron mengalir kearah P. LED merupakan
+
+perangkat keras dan padat ( solid-state component )
+
+sehingga unggul dalam hal ketahanan ( durability ).
+
+Umur Lampu LED dapat mencapai 50.000 jam, hal
+
+ini dikarenakan tegangan kerja arus searah
+
+(
+
+VDC ) konstan, meskipun di suplai dari arus AC,
+
+namun di dalam LED terdapat stabiliser yang
+
+menstabilkan suplai arus AC tersebut.
+
+50
+Gambar 3.20 Lampu LED
+3.3.4 Ballast a. Ballast sebagai komponen penting pada sistem penyalaan lampu pelepas gas (gas discharge) berfungsi untuk membatasi arus melalui lampu yang dilayani. b. ballast induktif (inductive ballast) yang berfungsi sebagai pembatas arus. c. Konstruksi harus sedemikian hingga dapat terkunci pada dudukan komponen dan mudahdirakit/prosespenyambungan. d. Pada tiap ballast harus diengkapi dengan marking petunjuk wiring, merk, model, arus nominal. e. Ballast dilengkapi dengan perlindungan terhadap panas (heat) berlebih yang dapat mencegah terbakarnya sirkuit
+Gambar 3.21 Ballast Philips
+
+51
+3.3.5 Ignitor a. Digunakan pada sistem tegangan 220 V - 50 Hz dengan toleransi tegangan +/- l0% untuk keperluanlampupelepas gas seperti Sodium, tegangan pulsa awal antara 2.8 ­ 5 KV. b. Fungsi ignitor adalah sebagai super posisi dari satu atau lebih tegangan pulsa yang diberikan padasuatulampu dengan tegangan beban nol sebelum lampu tersebut bekerja/menyala. c. Untuk lampu dengan katode dingin maka penyalaannya (ignitor) setelah tegangan pulsa terjadi.Untuk lampudengan katoda panas bila lampu telah menyala dan kemudian tiba-tiba kehilangan daya listrik makalampuakan padam, selanjutnya percepatan penyalaan (ignitor) akan terjadi setelah lampu menjadi dingin.Contoh: lampu sodium tekanan tinggi memerlukan waktu setelah +/- 5 menit. d. Elemen pensakelan (switching elements) menggunakan sistem elektronik. e. Type: Serial atau superimposed. f. Mempunyai tingkat isolasi yang baik agar mampu menahan tegangan pulsa hingga maksimal 5 KV.Jarakpemasangan ignitor dengan lampu harus dekat dan dipasang dekat pemegang lampu (lamp holder)
+Gambar 3.22 Ignitor Philips
+
+52
+3.3.6 Kapasitor a. Berfungsi sebagao perbaikan faktor daya listrik yang disebabkan oleh ballast. b. Digunakan pada sistem tegangan maksimal 400 V c. Bahan pembungkus terbuat dari aluminium atau plastik. d. Frekuensi nominal 50Hz batas toleransi nominal +/- l0% e. Besar dan jumlah kapasitansi kapasitor tidak ditentukan sepanjang dapat menghasilkan cos-phiminimal 0.85dalam suatu rangkaian listrik luminer.
+Gambar 3.23 Kapasitor Philips
+3.3.7 Panel Panel listrik dibedakan menjadi dua, yaitu panel daya dan panel distribusi listrik. 1. Penel distribusi listrik berguna untuk mengalirkan energi dari pusat/gardu induk step down. 2. Panel daya adalah tempat untuk menyalurkan dan mendistribusikan energi listrik dari gardu induk step down kepanel-panel distribusinya.
+Panel daya dan distribusi listrik digunakan untuk memudahkan pembagian energi listrik secara merata.
+
+53
+3.4 Komponen Pada Panel Penerangan Jalan Umum 3.4.1 Box Panel Box panel adalah bagian luar dari panel yang berfungsi sebagai tempat dari rangkaian-rangkaian panel itu sendiri. Box panel ini terbuat dari bahan logam, oleh karena itu dalam rangkaian panel diberi ground agar aman bagi pengguna
+Gambar 3.24 Box Panel PJU
+3.4.2 Busbar Busbar merupakan komponen penghantar listrik yang dapat
+memadai arus dan tegangan listrik kaoasitas besar. Busbar memang sudah lazim dipakai untuk perakitan panel terbuat dari tembaga, dipilih tembaga karena tembaga memiliki tingkat korosi yang sangat kecil atau bahkan 0% korosi, akan tetapi ada yang lebih baik dari tembaga yaitu emas. Emas merupakan penghantar yang paling bagus karena tingkat karat yang lebih rendah atau sama sekali tidak memiliki tingkatan karat.
+
+54
+Gambar 3.25 Busbar
+3.4.3 Kontaktor Kontaktor adalah jenis saklar yang bekerja secara magnetik
+yaitu kontak bekerja apabila kumparan diberi tegangan, kontaktor dirancang untuk menyambung dan membuka rangkaian daya listrik tanpa merusak beban-beban tersebut. Sebuah kontaktor terdiri dari koil, beberapa kontak Normally Open (NO) dan beberapa Normally Close (NC).
+Gambar 3.26 Kontaktor
+
+55
+3.4.4 TDR TDR singkatan dari Time Delay Relay berfungsi untuk
+mengatur waktu bagi peralatan yang dikendalikan. Timer ini dimaksudkan untuk mengatr waktu hidup atau mati dari kontaktor atau untuk merubah sistim dalam delay waktu tertentu.
+Gambar 3.27 Time Delay Relay
+3.4.5 KWH KWH meter adalah alat yang digunakan oleh pihak PLN
+untuk menghitung besar pemakaian daya konsumen. Bagian utama dari sebuah KWH adalah kumparan tegangan, kumparan arus, piringan aluminium, magnet tetap yang tugasnya menetralkan piringan aluminium dari induksi medan magnet dan gear mekanik yang mencatat jumlah putaran piringan aluminium. Alat ini bekerja menggunakan metode induksi medan magnet dimana medan magnet tersebut menggerakan piringan yang terbuat dari aluminium. Putaran piringan tersebut akan menggerakan counter digit sebagai tampilan jumlah KWHnya.
+
+56
+KWH Meter terdiri dari sebuah kepingan berinduksi dan terbuat dari alminium. Diatas kepingan tersebut tersebut terdapat sepasang kumparan yang menimbulkan induksi. Kumparan tersebut terdiri 2 macam :
+ KumparanArus (Kawatnya besar)  Kumparan Tegangan (Kawatnya Kecil)
+Kumparan arus dihubung seri dengan sumber tegangan. Kumparan tegangan dihubung pareral dengan beban. Jika kumparan arus terhubung dengan sumber PLN dan kumparan tegangan terhubung dengan beban (lampu, TV, dll) maka pada kumparan arus akan timbul garis gaya-gaya magnet, dan berlawanan dengan garis gaya-gaya magnet pada kumparan tegangan sehingga menyebabkan torsi yang membuat piringan berputar. Piringan yang berputar akan memutar gear-gear KWH dan kemudian akan memutar angka-angka baca.
+KWH meter sediri memiliki dua jenis yaitu KWH meter pascabayar dan KWH meter prabayar. Perbedaan kWh analog dan digital  Analog
+1. Mengunakan gelombang elektronik yang bervariasidan secara kontinyu di transmisikan melalui beragam media tergantung frekuensinya
+2. Kelebihan analog 3. Mudah dalam pemasanganya 4. Mudah dalam pembayaran  Kelemahan sinyal analog :
+ semakin jauh jarak semakin lemah sinyal. (bisa diatasi dengan penguat sinyal atau amplifier)
+
+57
+ rentan terhadap intrefensi listrik atau noise" dari dalam jalur. Kabel listrik, petir dan mesin-mesin listrik semua menginjeksikan noise dalam bentuk elektrik pada signal analog
+ rentan terhadap pencurian listrik
+Gambar 3.28 KWH Analog
+ Digtal Sinyal Digital disebut juga baseband .Sebagai ganti
+gelombang maka signal pada sistem digital ditransmisikan dalam bentuk bit bit biner. Sistem biner adalah sistem on ­ off (atau sistem 1 ­ 0 ), jadi bila ada tegangan atau on maka di angkakan 1, sedang bila tidak ada tegangan atau off maka diangkakan 0. 1. Kelebihan
+ Mudah dalam pengawasan  Dapat mengetahui secara langsung besaran daya yang
+diperlukan  Sulit terjadi pencurian listrik 2. Kelemahan
+
+58
+ Boros biaya karena kepotong oleh biaya administrasi yang tinggi sebesar 25%
+ Bila netral di hub dengan ground dapat merusak Kwh itu sendiri
+Gambar 3.29 KWH Digital 3.4.6 MCB MCB adalah singkatan dari Miniature Circuit Breaker, fungsi MCB adalah sebagai peralatan pengaman terhadap gangguan hubung singkat dan beban lebih yang mana akan memutskan secara otomatis apabila melebihi dari arus nominalnya, dan MCB biasanya dipakai PLN untuk pembatas daya pada pelanggan.
+
+59
+
+3.5 Kabel Pada Penerangan Jalan Umum
+
+3.5.1 Jenis ­ Jenis Kabel Yang Digunakan Pada Penerangan Jalan Umum
+
+3.5.1.1
+
+Kabel LVTC / AAAC Kabel ini terbuat dari aluminium-magnesium-silicon
+campuran logam. Keterhantaran elektris tinggi yang berisi magnesium silicide, untuk member sifat yang lebih baik. Kabel ini biasanya dibuat dari paduan aluminium 6201. AAAC mempunyai bahan anti karat dan kekuatan yang baik, sehingga daya hantar lebih baik.
+
+Gambar 3.30 Kabel AAAC
+
+60
+
+3.5.1.2
+
+Kabel NYCY Kabel ini dirancang untuk jaringan listrik dengan
+penghantar konsentris dalam tanah, dalam ruangan, saluran kabel di alam terbuka. Kabel protodur dengan 2 (dua) lapis pelindung pita CU kabel. Instalasi ini bisa ditempatkan diluar atau didalam bangunan, baik pada kondisi lembab maupun kering.
+
+Gambar 3.31 Kabel NYCY
+
+3.5.1.3
+
+Kabel NYFGbY Kabel ini dirancang khusus untuk instalasi tetap
+dalam tanah yang ditanam langsung tanpa memerlukan perlindungan tambahan (kecuali harus crossing jalan) pada kondisi normal pemasangan dibawah tanah adalah 80 cm.
+
+Gambar 3.32 Kabel NYFGBY
+
+61
+
+3.5.1.4
+
+Kabel NYM Kabel jenis ini hanya direkomendasikan khusus
+untuk instalasi tetap di dalam bangunan yang dimana penempatannya biasa diluar/didalam tembok ataupun didalam pipa (conduit). Kabel NYM berinti lebih dari 1 (satu), memiliki lapisan isolasi PVC (biasanya warnanya putih atau abu-abu) ada yang berinti 2, 3 atau 4. Kabel NYM memiliki lapisan isolasi dua lapis,sehingga tingkat keamananannya lebih baik dari kabel NYA. Kabel ini dapat dipergunakan di lingkungan yang kering/basah namun tidak boleh ditanam.
+
+Gambar 3.33 Kabel NYM
+
+62
+
+3.5.1.5
+
+Kabel NYY Kabel ini dirancang untuk instalasi tetap didalam
+tanah yang dimana harus tetap diberikan perlindungan khusus (misalnya : subduct, pipa PVC atau pipa besi). Kabel protodur tanpa sarung logam. Instalasi bias ditempatkan didalam dan diluar ruangan dalam kondisi lembab ataupun kering, memiliki lapisan isolasi PVC (biasanya warna hitam) ada yang berinti 2, 3 atau 4. Dan memiliki lapisan isolasi yang lebih kuat dari NYM. Kebel NYY memiliki isolasi yang terbuat dari bahan yang tidak disukai oleh tikus.
+
+Gambar 3.34 Kabel NYY
+
+63
+BAB IV PEMBAHASAN
+4.1 Sistem Pembangunan Penerangan Jalan Umum di Jalan Muradi Semarang Barat
+4.1.1 Pertimbangan Pembangunan Penerangan Jalan Di Jalan Muradi Semarang Barat a. Kondisi lalu lintas yang mulai padat sehingga membutuhkan penerangan yang optimal. b. Terjadi pelebaran jalan sehingga penerangan jalan yang lama harus diganti dengan yang baru dengan intensitas cahaya yang lebih besar.
+4.1.2 Persiapan Administrasi a. Menyiapkan ijin ­ ijin yang terkait dengan pekerjaan di lapangan. b. Menyiapkan dan menetukan jadwal pelaksanaan pekerjaan. c. Mempelajari petunjk pelaksanaan pekerjaan dengan benar dan teliti, sesuai yang ditentukan dalam rencana kerja dan syaratsyarat (RKS). d. Menyiapkan form-form laporan harian, laporan mingguan, dan lain-lain.
+4.1.3 Persiapan Teknis a. Mempersiapkan dan membuat gambar kerja dengan baik dan benar. b. Menyiapkan rencana kerja sesuai dengan jenis pekerjaan, rencana personil yang dilibatkan, dan lain sebagainya. c. Menyiapkan peralatan kerja yang layak digunakan. d. Menyiapkan buku-buku petunjuk pemasangan dan informasi yang berkaitan dengan jenis pekerjaan.
+
+64
+4.1.4 Pelaksanaan Teknis a. Menyiapkan gambar teknis pekerjaan sebagai acuan kerja. b. Menentukan titik lokasi pembangunan lampu penerangan jalan. c. Melakukan penggalian lubang untuk pondasi tiang lampu penerangan jalan. d. Melakukan pengecoran pada galian lubang. e. Melakukan penggalian untuk penarikan kabel jaringan bawah tanah. f. Pemasangan tiang lampu penerangan jalan. g. Pemasangan rumah lampu. h. penarikan jaringan bawah tanah. i. Pemasangan Box APP j. Pemasukan tegangan listrik, connecting dan testing.
+4.2 Mengenai Pembangunan Penerangan Jalan Di Jalan Muradi Semarang Barat
+4.2.1 Persiapan Pekerjaan Yang dimaksud dengan persiapan pekerjaan disini adalah kegiatan/pekerjaan awal yang harus dilakukan untuk mempersiapkan segala sesuatu yang dibutuhkan dalam menunjang pekerjaan-pekerjaan pokok, yaitu pembangunan penerangan jalan umum
+Persiapan pekerjaan ini meliputi sebagai berikut
+3. Persiapan kantor dan sarana kantor. 4. Persiapan SDM yang sesuai dengan persyaratan dan
+kebutuhan. 5. Persiapan survei lokasi letak pemasangan lampu penerangan
+jalan. 6. Mempersiapkan gambar kerja secara rinci.
+
+65
+
+7. Persiapan pembelian perangkat/material. 8. Perijinan untuk melaksanakan pekerjaan. 9. Mempersiapkan peralatan dan sarana kerja.
+
+4.2.1.1
+
+Persiapan SDM Sesuai Persyaratan Kesiapan tenaga ahli dan teknisi dibidang
+kelistrikan khususnya penerangan jalan, serta tenaga administrasi, keuangan dan logistik sudah siap kerja saat penandatanganan kontrak. Tenaga ahli dan teknisi dibidang kelistrikan diperlukan untuk mempersiapkan sistem penerangan jalan umum yang benar serta perangkat/material yang berkualitas baik. Tenaga teknisi ini akan mensupervisi pelaksanaan pekerjaan.
+
+Tenaga logistik, administrasi dan keuangan akan melakukan pemesanan/pembelian material/perangkat sehingga menjamin ketersediaan material/perangkat agar sesuai dengan waktu yang diperlukan. Disamping itu diperlukan juga keteraturan administrasi pekerjaan.
+
+SDM yang disiapkan menangani proyek terdiri dari :
+
+1. Site Manager 2. Supervisor Teknisi 3. Administrasi dan Keuangan 4. Logistik 5. Tenaga Pelaksana Lapangan
+
+1 Orang 2 Orang 2 Orang 1 Orang 10 Orang
+
+66
+4.2.2 Survei Lokasi Survei ini dilakuakan untuk memastikan kesesuaian
+lokasi dengan gambar DED (Detail Engineering Design) yang diterima dari panitia lelang. Jika diperlukan, akan dilakukan pengukuran jarak untuk menetapkan letak pemasangan tiang. Disamping itu untuk memeriksa perangkat /material apa saja yang harus dipasang dilokasi tersebut serta bagaimana situasi sekitar lokasi. Pengamatan situasi ini perlu antara lain untuk antisipasi mempermudah pengiriman material. Juga antisipasi kebutuhan peralatan kerja untuk mempermudah pekerjaan. Antara lain kemungkinan diperlukannya alat khusus untuk mempermudah penggalian pondasi tiang. Terkait dengan perijinan ke PLN, perlu juga mendata letak lokasi tiang dan nomor tiang (kalau ada) yang dipakai untuk pemasangan box panel distribusi, nomor Identitas Pelanggan yang terdekat dan copy rekening pelanggan terdekat.
+Gambar 4.1 Peta Lokasi Pekerjaan Penerangan Jalan Umum
+
+67
+
+4.2.3 Pembagian APP Telah kita ketahui ruas Jalan Muradi yang menghubungkan
+Jalan Abdul Rahman Saleh dan Jalan Siliwangi Semarang Barat terdapat 1 unit APP yang masing-masing memiliki daya terpasang sebesar 5500 VA dengan jumlah lampu 16 buah pada APP.
+
+Tabel 4.1 Pembagian APP
+
+Lokasi Jalan Muradi
+
+APP
+Jl Muradi Semarang Barat
+Id PLN 52302 ­ 0599362
+
+Daya Tersambung
+5500 VA
+
+Jumlah Titik Lampu
+16 Unit HPIT 150 Watt
+
+4.2.4 Spesifikasi Teknis dan Bahan Material
+
+4.2.3.1
+
+Tiang PJU a. Tiang PJU octagonal 1 (satu) tangan galvanis tipe
+parabola dengan t = 6m, 7m, 8m, 9m, 11m, ketebalan minimum 3.2 mm dengan proses finishing hot dip galvanized. b. Sudut kemiringan lengan tiang lampu antara 10o ­ 50o. c. Diameter tiang : 3 ­ 6 inch. d. Tiang PJU dipasang diatas umpak pondasi dengan struktur beton K-225 yang mempunyai ukuran 40cmx40cmx160cm. e. Untuk tiang PJU, pembengkokan dengan sistem parabolik f. Tiang harus dibuat dengan kontruksi yang kuat agar tidak mudah berkarat.
+
+68 g. Tiang harus dilapisi dengan galvanis agar tahan karat
+dan tidak mudah keropos h. Tiang PJU di produksi dalam negeri i. Pada tiang diberi tulisan tahun anggaran pekerjaan
+tersebut dilaksanakan
+Gambar 4.2 Kontruksi Tiang Oktagonal Satu Lengan
+
+69
+
+Gambar 4.3 Detail Base Plate Tiang Oktagonal
+
+4.2.3.2
+
+Stang Ornament a. Terbuat dari pipa galvanis medium A ketebalan
+minimum 3.2 mm, ukuran Ø = 2" dengan proses finishing hot dip galvanized. b. Bentuk stang konsul. c. Begel stang terpasang dengan jarak ±25 cm antar begel ( jumlah begel 2 buah untuk panjang stang 1,5m ­ 4m, sedangkan untuk stang 6m menggunakan begel sebanyak 3 buah )
+
+70
+
+d. Begel terbuat dari bahan plat besi dengan ketebalan 3 mm dengan finishing hot dip galvanized.
+e. Panjang dan sudut stang diatur sehingga proyeksi titik lampu ke jalan jatuh pada jarak sepersepuluh lebar jalan apabila diukur dari badan jalan.
+f. Stang diproduksi dalam negeri.
+
+4.2.3.3
+
+Klasifikasi Armature Lampu PJU a. Armature yang ditawarkan harus terbuat dari bahan
+high pressure full die cast aluminium yang tahan karat. b. Armature yang ditawarkan harus sesuai dengan standart LMK tentang Persyaratan Umum Instalasi Listrik (PUIL). c. Sistem optik : bagian terpenting dari bagian ini adalah adanya reflektor yang berfungsi untuk memantulkan cahaya sehingga cahaya yang dihasilkan sumber dapat dipantulkan dan dipancarkan ke lokasi objek serta dapat diatur penyebarannya, bahan reflektor terbuat dari aluminium. d. Penutup rumah lampu (cover) terbuat dari bahan tempered clear glass sehingga tidak mudah pecah dan mencegah menempelnya kotoran/debu. e. Gear compartmenet adalah tempat menyimpan komponen-komponen elektrik yang berfungsi sebagai pemegang dan penahan lampu-lampu terhadap getaran-getaran yang disebabkan oleh lalu lintas kendaraan bermotor serta angin. f. Pertimbangan kualitas pemilihan lampu untuk penerangan jalan umum diklasifikasikan dalam pada
+
+71
+jenis lampu High Intensity Discarge dengan memilih lampu hemat energi untuk penerangan jalan umum lampu ini mempunyai sistem elektrik yang terdiri dari :  Balast
+Berfungsi sebagai pembatasan dan stabilitas arus listrik. Harus mampu dialiri tegangan kerja 220 V ­ 240 V dan besar dayanya sesuai dengan lampu yang dipasang.  Kapasitor Berfungsi sebagai perbaikan faktor daya listrik (minimal 0,85) yang disebabkan oleh ballast. Mampu dialiri tegangan kerja 220 V ­ 230 V dan besarnya sesuai dengan daya lampu yang terpasang.  Ignitor Berfungsi sebagai alat bantu penyalaan lampu. Mampu dialiri tegangan kerja 220 V ­ 230 dan besarnya sesuai dengan daya lampu yang terpasang. g. Untuk melindungi terhadap debu, benda padat, kelembapan dan air pada armature maka (IP) sebagai berikut :  Ruang lampu/Optik : Minimum IP 65  Ruang Control Gear : Minimum IP 43 h. Ruang lampu harus sesuai dengan standart yang tahan panas.
+
+72
+
+4.2.3.4
+
+Klasifikasi Lampu PJU a. Mampu dialiri tegangan 220 V ­ 240 V. b. Jenis lampu yang digunakan merupakan lampu hemat
+energi dengan ketentuan sebagai berikut  Spesifikasi teknis meliputi :
+Spesifikaasi High Pressure Lamp ( HPI-T dengan daya 150 watt)  Lumen Output Adalah banyaknya energi cahaya yang dipancarkan dari sumber cahaya dalam satu detik dengan satuan lumen (lm) lumen output 18000 lumens.  Efikasi Adalah banyaknya energi cahaya yang dipancarkan dari sumber cahaya dibagi dengan tenaga yang diperlukan. Satuan yang digunakan adalah lumen/daya atau lm/W. Nilai efikasi HPI-T adalah  72 lm/W.  Color Rendering Adalah kemampuan dari sumber cahaya untuk menimbulkan/mendekati warna asli dari obyek, satuan yang digunakan adalah Ra. Color Rendering lampu jenis HPI-T adalah 65 Ra ­ 90 Ra.  Color Temperature Adalah warna cahaya, satuan yang digunakan adalah derajat Kelvin ©, harus memenuhi standart cahaya untuk lampu penerangan jalan dengan nilai  4000 K.
+
+73
+
+4.2.3.5
+
+Kabel a. Kabel yang digunakan harus memenuhi standart PLN
+dan LMK, serta standart Industri Indonesia. b. Mampu dialiri tegangan 500 V. c. Sekualitas Supreme, Kabel Metal, Trankakabel. d. Instalasi pada semua komponen yang terpasang dan
+yang terhubung dengan pengkabelan wajib dilakukan dengan pemberian terminal yang terisolasi dan dipastikan dengan cukup baik seperti sealer konektor. e. Bahan / material yang diadakan harus memenuhi syarat-syarat sebagai berikut : 1) Kabel NYY 4x6 mm
+a. Luas penampang kabel 6 mm2 b. Insulasi dalam  1.0 mm c. Insulasi luar  1.8 mm d. Kapasitas aliran arus maksimum  50 A e. Hambat jenis maksimum 3.08 ohm/km f. Mampu dialiri voltase sampai dengan 500 V
+
+4.2.3.6
+
+Pipa Subduct HDPE a. Pipa subduct yang digunakan berjenis High Density
+Poly Ethilen / HDPE b. Pipa subduct berukuran OD (Outside Diameter) 40
+mm ( 1 ¼ ") c. Standart pipa subduct minimal OD 40/34 (Standart
+Telkom) d. Pipa subduct tahan terhadap benturan/impact dari
+luar, tahan terhadap tekanan/beban berat dngan kelas pipa minimal PE 80 (tahan tekanan sampai dengan 12,5 BAR) e. Standart industri Indonesia
+
+74
+
+4.2.3.7
+
+Miniatur Circuit Breaker (MCB) a. MCB berfungsi untuk sistem proteksi terhadap
+hubungan arus pendek / beban lebih b. MCB yang digunakan dengan besar ampere 25 A
+
+4.2.3.8
+
+Box Panel a. Box Panel berfungsi untuk tempat panel agar panel
+terlindung dari benda-benda, air dan lainnya. b. Ukuran box panel 80x60x30 cm terbuat dari plat besi
+dengan ketebalan 1,8-2 mm untuk pelindung panel gantung. c. Dicat dengan powder coating dan diberi tulisan NO.ID Pelanggan dan Daya Terpasang.
+
+4.2.3.9
+
+Timer Merupakan sakelar arus listrik yang dikendalikan
+oleh fungsi waktu penyalaan atau pemutusan, timer yang digunakan yaitu theben sull 181 h sulciha tegangan nominal 230 volt ± 10% dengan Standart Nasional Indonesia (SNI)
+
+4.2.3.10 Magnetic Contactor Peralatan yang berfungsi untuk memutus dan
+menghubungkan aliran listrik masing- masing phase mampu dialiri arus 29 A ­ 65 A dengan tegangan 220 V ­ 240 V.
+
+4.2.3.11 Arde Arde yang digunakan dengan sebatang coper rood
+12 mm2 dan BC 6 mm2 dengan hasil pengukuran hambatan tanah maksimal 5 ohm.
+
+75 4.2.5 Gambar Perencanaan
+Gambar 4.4 Perencanaan PJU Jalan Muradi Semarang Barat
+
+76
+
+4.2.6
+
+Rekapitulasi Biaya Kegiatan : Optimalisasi dan Pemasangan PJU di
+Kecamatan Semarang Barat Pekerjaan : Pemasangan PJU baru dan Optimalisasi
+Lampu di Jalan Muradi Volume : 16 Titik Lampu Pasang Baru
+
+77
+
+4.3 Ruang Lingkup Pelaksanaan Pekerjaan Ruang lingkup pekerjaan untuk pemasangan penerangan jalan
+umum di jalan Muradi Semarang Barat ini terdiri dari pekerjaan sipil dan pekerjaan elektrikal.
+
+Pekerjaan Sipil terdiri dari penggalian lubang, penyiapan pondasi dan galian kabel tanah.
+
+Sedangkan Pekerjaan Elektrikal terdiri dari pemasangan lampu PJU, penarikan kabel (kabel tanah dan kabel udara), pemasangan box APP, pentanahan (grounding) dan pemasukan tegangan listrik.
+
+4.3.1 Pekerjaan Sipil
+
+4.3.1.1
+
+Penggalian Lubang Pondasi Penggalian lubang pondasi harus berdasarkan titik-
+titik lokasi yang telah ditentukan, ukuran kedalaman 160cm
+
+Gambar 4.5 Penggalian Lubang
+
+78
+
+Gambar 4.6 Lubang Galian PJU
+
+4.3.1.2
+
+Pembuatan Pondasi Pembuatan pondasi bertujuan untuk menahan beban
+vertikal dan beban momen tiang lampu dengan ukuran 40 cm x 40 cm x 160 cm, berikut ini syarat-syarat yang harus diperhatikan dalam pembuatan pondasi.
+
+Syarat-syarat pelaksanaan :
+
+a. Mutu Beton Mutu beton yang digunakan adalah K-225 Ready Mix dan harus memenuhi ketentuan sesuai dengan Peraturan Beton Bertulang Indonesia.
+b. Pembesian  Pembuatan tulangan harus sesuai dengan persyaratan yang tercantum pada PBI-1971  Pemasangan tulangan beton harus diikat dengan kuat untuk menjamin besi tersebut tidak.
+
+79
+berubah tempat selama pengecoran dan harus bebas dari papan acuan dengan memasang beton decking sesuai ketentuan dalam PBI-1971.  Besi beton yang tidak memenuhi syarat harus segera dikeluarkan dari lapangan kerja dalam waktu 24 jam setelah ada perintah tertulis dari pengawas. c. Pengecoran Beton  Penyedia barang/jasa diwajibkan melaksanakan pekerjaan persiapan dengan membersihkan dan menyiram cetakan-cetakan sampai jenuh, serta pemeriksaan ketinggian dan penempatan.  Pengecoran beton harus dilakukan sebaik mungkin, dengan menggunakan alat penggetar untuk menjamin beton cukup padat dan harus dihindarkan terjadinya cacat pada beton seperti keropos dan sarang-sarang koral/split yang dapat memperlemah kontruksi  Beton yang telah dicor dihindarkan dari benturan benda keras selama 3 x 24 jam setelah proses pengecoran selesai.
+
+80
+Gambar 4.7 Detail Pondasi Plat
+Gambar 4.8 Detai Pondasi
+
+81
+Gambar 4.9 Desain Kerangka Pondasi
+Gambar 4.10 Proses Pengecoran Pondasi
+
+82
+
+Gambar 4.11 Bentuk Pondasi Tampak Atas
+
+4.3.1.3
+
+Penggalian Kabel Tanah pada lokasi-lokasi tertentu dibuat galian kabel untuk
+pemasangan kabel bawah tanah, galian kabel tersebut digali dengan kedalaman 80cm ­ 100cm.
+
+83
+Gambar 4.12 Penggalian Kabel Tanah
+Gambar 4.13 Proses Pemasangan Subduct
+
+84
+
+4.3.2 Pekerjaan Elektrikal
+
+4.3.2.1
+
+Pemasangan Tiang Tiang PJu yang digunakan adalah jenis tiang
+octagonal 1 (satu) tangan dengan ketinggian 7 meter. Tiang oktagonal dibuat dari besi dan finishing hot dip galvanized. Sebelum dipasang dilakukan penentuan titik/letak tiang terlebih dahulu dengan koordinasi tim teknis dan pengawas lapangan. Titik yang telah ditentukan digali dengan kedalaman 180 cm, dilakukan pembuatan pondasi tiang oktagonal dengan tulangan besi beton polos U-24 diikat dengan kawat beton dan dipasang angkur tiang 4 bah. Pondasi dicor dengan agregat K 225, pondasi ukuran 160x40x40 cm.
+
+Pemasangan tiang PJU ini harus menggunakan mobil crane karena beban tiang yang sangat berat dan untuk mengantisipasi terjadinya kecelakaan kerja, pemasangan tiang dipastikan lot (tegak lurus) dan diperhitungkan juga beban tarik karena kabel jaringan dan lampu PJU.
+
+85
+Gambar 4.14 Tiang Oktagonal
+Gambar 4.15 Proses Pemasangan Tiang Oktagonal PJU
+
+86
+
+Gambar 4.16 Penempatan Penerangan Jalan
+
+4.3.2.2
+
+Pemasangan Lampu PJU Setelah tiang PJU terpasang, baru dilakukan
+pemasangan PJU HPI-T 150 W menggunakan mobil crane. Daya lampu disalurkan dengan kabel NYM 2 x 2,5 mm dan diperkuat dengan bunled alcoa, dilakukan juga pemasangan lampu PJU HPI-T 150 W sejumlah 16 titik, bila lampu PJU telah terpasang maka harus diconnect menggunakan kabel NYM 2 x 2,5 mm
+
+87
+Gambar 4.17 Pantulan Cahaya Yang Dihasilkan
+Gambar 4.18 Testing Lampu
+
+88
+
+4.3.2.3
+
+Pemasangan Jaringan Bawah Tanah Pemasangan jaringan menggunakan kabel NYY
+ukuran 4x6 mm dan dilindungi oleh subduct, sebelum kabel ditanam dilakukan penggalian dengan kedalaman 80 cm ­ 100 cm dan lebar 20 cm, untuk kabel yang memotong jalan dilakukan pemasangan crossing jalan dengan sistim bor, sistem bor dilakukan pada kedalaman 100 cm melintang dan dipasang subduct untuk jalur kabel, setelah siap kabel dipasang dalam subduct, kemudian dilakuakan pentupan dan pemadatan tanah kembali. Kabel NYY 4 x 6 mm dikonek ke kabel NYM 2 x 2,5 mm di tiang PJU dan diberi pengaman MCB di masing- masing tiang.
+
+Gambar 4.19 Detail Jaringan Bawah Tanah
+
+89
+Gambar 4.20 Detail Jaringan Bawah Tanah
+Gambar 4.21 Proses Pemasangan Kabel Bawah Tanah
+
+90
+
+Gambar 4.22 Penarikan Jaringan Bawah Tanah
+
+4.3.2.4
+
+Pemasangan Panel Box APP lama diganti dengan Box APP baru
+ukuran 80x60x30 cm, pada saat penggantian, catu daya dimatikan terlebih dahulu sebagai langkah pengamanan. Pada APP yang baru terpasang Timer dan Kontaktor untuk otomatisasi penyalaan Lampu PJU. Sebagai pengaman dipasang MCB dan dilakukan Grounding Instalasi, dan setelah terpasang aman catu daya kembali dialirkan untuk mengisi tegangan listrik APP dan Jaringan PJU
+
+91
+Gambar 4.23 Desain Panel PJU
+Gambar 4.24 Panel PJU
+
+92
+
+Gambar 4.25 Layout Panel PJU
+
+4.3.2.5
+
+Connecting Jaringan dan Testing Pemasangan tegangan listrik dilakukan sepenuhnya
+dalam pengawasan langsung dari pengawas lapangan, connecting dilakukan mulai kabel power, Box APP dan Instalasi. Setelah connecting selanjutnya melakukan testing dan commissioning dengan pengukuran voltase catu daya ampere dan iluminasi lampu untuk memastikan aliran listrik telah sampai ke KWH meter dan instalasi lampu PJU sesuai dengan kebutuhan serta aman bagi keselamatan penggunanya.
+
+93
+Gambar 4.26 Proses Connecting Kabel
+Gambar 4.27 Proses Connecting Pada Pengaman Lampu
+
+94
+Gambar 4.28 Pengaman Pada PJU 4.4 Gangguan 4.4.1 Pengertian Gangguan Dalam operasi sistem tenaga listrik sering terjadi gangguangangguan yang dapat mengakibatkan terganggunya penyaluran tegangan listrik ke konsumen. Gangguan adalah penghalang dari suat sistem yang sedang beroprasi atau suatu keadaan dari sistem penyaluran tenaga listrik yang menyimpang dari kondisi normal. Suatu gangguan didalam peralatan listrik didefinisikan sebagai terjadinya suatu kerusakan didalam jaringan listrik yang menyebabkan aliran arus listrik keluar dari saluran yang seharusnya. Berdasarkan ANSI/IEEE std. 100-1992 gangguan didefinisikan sebagai suatu kondisi fisis yang disebabkan
+
+95
+kegagalan suatu perangkat, komponen atau suatu elemen untuk bekerja sesuai dengan fungsinya. Gangguan hampir ditimbulkan oleh gangguan hubung singkat antar fase atau hubung singkat fase ke tanah. Suatu gangguan hampir selalu berupa hubung langsung atau melalui impedansi. Istilah gangguan identik dengan hubung singkat, ANSI/IEEE std. 100-1992.
+Hubung singkat merupakan suatu hubungan abnormal (termasuk busur api) pada impedansi yang relative rendah terjadi secara kebetulan atau disengaja antara dua titik yang mempunyai potensial yang berbeda.
+4.4.2 Jenis Gangguan Pada dasarnya gangguan yang sering terjadi pada sistim
+penerangan jalan dapat digolongkan menjadi dua macam yaitu gangguan dari dalam sistem dan gangguan dari luar sistem. Gangguan yang disebabkan dari luar sistem disebabkan oleh sentuhan daun/pohon pada penghantar, sambaran petir, dan lainnya. Sedangkan gangguan yang dating dari dalam sistem dapat berupa kegagalan dari fungsi peralatan/komponen jaringan dan lampu.
+a. Gangguan yang bersifat temporer
+Gangguan yang bersifat temporer ini apabila terjadi gangguan, maka gangguan tersebut tidak akan lama dan dapat normal kembali. Gangguan ini dapat hilang dengan sendirinya atau dengan memutus sesaat bagian yang terganggu dari sumber tegangannya. Kemudian disusul dengan penutupan kembali peralatan hubungannya, apabila gangguan temporer ini sering terjadi dapat menimbulkan kerusakan pada peralatan dan akhirnya menimbulkan gangguan permanen.
+
+96
+b. Gangguan yang bersifat permanen
+Gangguan permanen tidak dapat hilang sebelum penyebab gangguannya dihilangkan terlebih dahulu, gangguan yang bersifat permanen dapat disebabkan oleh kerusakan peralatan, sehingga gangguan ini baru hilang setelah kerusakan ini diperbaiki atau karena ada suatu yang mengganggu secara permanen. Untuk membebaskannya diperlukan tindakan perbaikan atau menyingkirkan penyebab gangguan tersebut. Terjadi gangguan ditandai dengan jatuhnya proteksi tenaga tersebut.
+4.4.3 Sistem Perbaikan Ada beberapa penyebab terjadinya gangguan dalam suatu
+pembangkit listrik tertentu sehingga menyebabkan suplai tegangan yang masuk ke peralatan / komponen tidak stabil sehingga menyebabkan peralatan akan cepat rusak. Gangguan ini dapat diminimalisir sekecil mungkin dengan cara antara lain : 1. Memperbaiki desain sistem 2. Memperbaiki kualitas komponen 3. Menggunakan alat proteksi yang lebih baik 4. Pengoprasian dan pemeliharaan secara baik dan rutin Akan tetapi gangguan yang terjadi tidak dapat seluruhnya dihilangkan begitu saja. Gangguan dapat diperkecil lagi beberapa tingkat dengan mengambil langkah-langkah sebagai berikut : 1. Perbaikan kualitas mesin, peralatan, instalasi dan lain-lain,
+dengan perbaikan dalam desain teknik pembuatan material, quality control dan testing yang memadahi. 2. Perbaikan desain tata letak yang benar dan pemilihan komponen. 3. Keadaan pengamanan sistem yang susuai standart. 4. Sumber daya manusia yang kompeten.
+
+97
+4.5 Pemeliharaan Penerangan Jalan Dalam operasi, penerangan jalan umum dapat terjadi pengotoran
+peralatan instalasi oleh lingkungan, debu, dan serangga. Kotoran itu berterbangan dan menempel di permukaan komponen dan di permukaan isolator dan konduktor. Akibat konduktor bertegangan dan panas, debudebu itu terbakar dan berubah menjadi karbon, karbon yang terbentuk di permukaan isolator dapat menjadi jembatan terjadinya loncatan bunga api listrik yang kemudian menjadi gangguan bagi sistem. Oleh sebab itu kontruksi penerangan jalan dan pemeliharaannya harus diperhatikan terhadap pengaruh lingkungan.
+4.5.1 Proses Pemeliharaan Penerangan Jalan Umum Proses pemeliharaan penerangan jalan umum dilakukan dengan cara sebagai berikut :
+ Panel penerangan jalan umum secara rutin dibersihkan dari kotoran/debu dan lainnya sehingga permukaan isolator selalu bersih dari karbon yang terbentuk.
+ Rumah lampu secara rutin dibersihkan dari debu dan kotoran lainnya agar pencahayaan terlihat maksimal dan efektif
+ Semua komponen pada penel penrangan jalan umum harus selalu terpantau dan terhindar dari hewan/serangga agar awat dan tidak cepat rusak
+ Mengukur iluminasi cahaya yang dipancarkan oleh lampu penerangan jalan, jika iluminisi sudah terlalu rendah dan kurang baik diharapkan terjadi peremajaan bolham lampu.
+4.5.2 Jadwal Pelaksanaan Pemeliharaan Masa pemeliharaan atas hasil pekerjaan ditetapkan selama 180
+(seratus delapan puluh) hari kalender terhitung sejak tanggal serah terima pertama pekerjaan (Provisional Hand Over / PHO)
+
+98
+a. Pemeliharaan preventif : pemeliharaan dilakukan antar selang waktu tertentu untuk mengurangi kemungkinan peralatan mengalami perubahan kondisi.
+b. Pemeliharaan Korektif : pemeliharaan untuk memulihkan peralatan kembali kepada keadaan normal (termasuk penyetelan/perbaikan peralatan yang sudah menyimpang dari keadaan normal) untuk pemeliharaan ini kadang-kadang diluar rencana.
+c. Pemeliharaan darurat : pemeliharaan / perbaikan yang perlu segera diperbaiki untuk mencegah kerusakan yang lebih besar.
+d. Pemeliharaan berjalan : pemeliharaan yang dilakukan pada waktu peralatan masih dalam keadaan beroprasi.
+e. Pemeliharaan berhenti : pemeliharaan yang dilakukan pada waktu peralatan dalam keadaan tidak beroprasi
+f. Perbaikan : dilakukan setelah terjadi kerusakan, tetapi sudah diperkirakan sebelumnya, sehingga persiapan perbaikan sudah dilakukan.
+4.5.3 Proses Uji Kelayakan Setelah semua pekerjaan selesai maka harus dilakukan proses
+uji kelayakan, yang dilakukan oleh Pemerintah Kota Semarang yang disini sebagai Pemberi pekerjaan pemasangan Penerangan Jalan Umum di Jalan Muradi Semarang Barat. 1. Uji Verifikasi Rencana
+ Meneliti kesesuaian hasil pelaksanaan dengan rancangan bahan referensi adalah persyaratan-persyaratan teknis pada rancangan surat perintah kerja.
+ Meneliti kesesuaian spesifikasi teknis dengan material yang terpasang.
+2. Uji Fisik Hasil Pelaksanaan
+
+99
+ Meneliti apakah hasil pelaksanaan telah memenuhi persyaratan fisik hasil pekerjaan (kokoh, tidak goyang) tekukan, belokan kabel, dan lain-lain
+ Meneliti mekanisme kerja peralatan  Meneliti kebenaran pengkabelan (wiring), pengawatan
+instalasi control dan instalasi tenaga.  Meneliti kekencangan ikatan mur, baut dan konektor.  Meneliti kabel-kabel instalasi tidak menahan beban
+mekanik selain beban sendiri. 3. Uji Ketahanan Isolasi
+ Melakukan uji ketahanan isolasi menggunakan megger .  Melakukan uji pentanahan pada panel APP. 4. Uji Alat Proteksi 5. Uji Komponen 6. Uji Alat Kontrol 7. Melakukan Uji Pengukuran Pencahayaan
+
+100
+
+BAB V PENUTUP 5.1 Simpulan Dari bab-bab sebelumnya dapat diambil simpulan sebagai berikut :
+
+1. Penerangan Jalan Umum/PJU merupakan aspek penting dalam penataan suatu daerah/kota. PJU memiliki peranan sebagai pedoman navigasi pengguna jalan di malam hari, meningkatkan keamanan dan keselamatan pengguna jalan, menambah unsur estetika, dan juga dapat memberikan nilai tambah ekonomi bagi suatu daerah.
+2. Untuk mendapatkan hasil pencahayaan yang baik maka harus memperhatikan aspek-aspek sebagai berikut : a. Lokasi Penempatan Penerangan Jalan Umum b. Ketinggian Penerangan Jalan Umum c. Pemakaian Komponen dan material
+
+Dan juga harus melakukan perhitungan pencahayaan yang detail dengan dasar rumus sebagai berikut :
+
+a. Menghitung besarnya fluks cahaya
+
+=
+
+
+b. Intensitas Cahaya
+
+ = 
+
+c. Iluminasi (lux)
+ = 
+
+ =  ×
+
+101
+d. Luminasi
+  =  ( ×  ) = 
+× 
+e. Efikasi Cahaya
+= 
+
+3. Pada pembangunan Penerangan Jalan Umum di Jalan Muradi Semarang Barat menggunakan sistem jaringan bawah tanah, maka semua komponen termasuk kabel harus menggunakan kabel yang khusus dengan kriteria kabel yang mampu ditanam ditanah dan agar meminimalisir terjadinya gangguan jaringan pada kabel yang ditanam maka kabel tersebut dilindungi oleh pipa subduct untuk menambah keamanan pada kabel yang ditanam.
+4. Gagguan pada penerangan lampu jalan biasaya disebabkan oleh hubung singkat, terkelupasnya jaringan kabel utama, dan kerusakan komponen yang terdapat pada rumah lampu.
+
+102
+5.2 Saran
+5.2.1 Saran Untuk Industri 1. Pada pengadaan proyek Penerangan Jalan Umum harus tetap berpedoman pada ketentuan yang telah berlaku agar nantinya Penerangan Jalan Umum tersebut dapat beroperasi secara efektif, efesien energi, tahan lama, dan efesien biaya. 2. Perlu adanya pemahaman yang mendasar baik teori maupun praktek dalam melaksanakan pekerjaan tertentu, hal ini akan mempermudah dalam melakukan perawatan dan pengecekan kerusanan untuk kedepannya. 3. Jika terdapat kondisi yang tidak normal terhadap jaringan, maka harus segera diinvestigasi agar tidak terjadi kerusakan komponen. 4. Dalam pemilihan pengaman/proteksi harus sesuai dengan perhitungan yang valid dan benar agar tidak terjadi kerusakan dan terbakarnya komponen. 5. Gunakanlah komponen yang telah teruji kelayakannya agar nantinya komponen tidak akan cepat rusak. 6. Dalam pengecoran pondasi tiang Penerangan Jalan Umum harus didasari dengan teori-teori sipil yang tepat agar nantinya pondasi akan awet dan kokoh. 7. Dalam melaksanakan pekerjaan gunakanlah perlengkapan keamanan yang sesuai.
+
+103
+5.2.2 Saran Untuk Sekolah 1. Dalam pelaksanaan praktik kerja industri pihak sekolah harus membekali siswa dengan sikap disiplin dan rasa tanggung jawab. 2. Pembimbing sekolah melakukan monitoring terhadap siswa dan membekalinya dengan pengetahahuan yang memadahi. 3. Peralatan praktik yang ada disekolahan sebaiknya menyesuakan peralatan yang telah ada di industri
+5.2.3 Saran Untuk Siswa 1. Dalam melaksanakan Praktik Kerja Industri siswa harus membekali dirinya dengan sikap disiplin dan rasa tanggung jawab. 2. Dalam melaksanakan Praktik Kerja Industri siswa harus mempunyai bekal ilmu pengetahuan yang baik. 3. Saat melaksanakan Praktik Kerja Industri siswa harus mentaati semua peraturan yang telah ditetapkan oleh industri
+
+104
+DAFTAR PUSTAKA
+1. http://mukhtarkaryaamalia.blogspot.co.id/p/metode-pelaksanaanpekerjaan-1.html
+2. http://elektro-unimal.blogspot.co.id/2013/06/jenis-jenis-kabellistrik.html
+3. http://mhaikal.mywapblog.com/jenis-jenis-kabel- listrik.xhtml 4. Effendi, Asnal. 2014. Perencanaan Penerangan Jalan Umum Jala
+Lingkar Utara Kota solok. Solok : Perencanaan Penerangan Jalan.

@@ -1,0 +1,8432 @@
+Aslimeri, dkk.
+TEKNIK TRANSMISI TENAGA LISTRIK
+JILID 3 SMK
+Direktorat Pembinaan Sekolah Menengah Kejuruan Direktorat Jenderal Manajemen Pendidikan Dasar dan Menengah
+Departemen Pendidikan Nasional
+
+Hak Cipta pada Departemen Pendidikan Nasional Dilindungi Undang-undang
+
+TEKNIK
+
+TRANSMISI
+
+TENAGA
+
+LISTRIK
+JILID 3
+Untuk SMK
+
+Penulis
+
+: Aslimeri Ganefri Zaedel Hamdi
+
+Perancang Kulit
+
+: TIM
+
+Ukuran Buku
+
+: 18,2 x 25,7 cm
+
+ASL ASLIMERI
+
+t
+
+Teknik Transmisi Tenaga Listrik Jilid 3 untuk SMK /oleh
+
+Aslimeri, Ganefri, Zaenal Hamdi ---- Jakarta : Direktorat Pembinaan
+
+Sekolah Menengah Kejuruan, Direktorat Jenderal Manajemen
+
+Pendidikan Dasar dan Menengah, Departemen Pendidikan
+
+Nasional, 2008.
+
+ix, 121 hlm
+
+Daftar Pustaka : Lampiran. A
+
+ISBN
+
+: 978-979-060-159-8
+
+ISBN
+
+: 978-979-060-161-1
+
+Diterbitkan oleh Direktorat Pembinaan Sekolah Menengah Kejuruan Direktorat Jenderal Manajemen Pendidikan Dasar dan Menengah Departemen Pendidikan Nasional
+Tahun 2008
+
+KATA SAMBUTAN
+Puji syukur kami panjatkan kehadirat Allah SWT, berkat rahmat dan karunia Nya, Pemerintah, dalam hal ini, Direktorat Pembinaan Sekolah Menengah Kejuruan Direktorat Jenderal Manajemen Pendidikan Dasar dan Menengah Departemen Pendidikan Nasional, pada tahun 2008, telah melaksanakan penulisan pembelian hak cipta buku teks pelajaran ini dari penulis untuk disebarluaskan kepada masyarakat melalui website bagi siswa SMK.
+Buku teks pelajaran ini telah melalui proses penilaian oleh Badan Standar Nasional Pendidikan sebagai buku teks pelajaran untuk SMK yang memenuhi syarat kelayakan untuk digunakan dalam proses pembelajaran melalui Peraturan Menteri Pendidikan Nasional Nomor 12 tahun 2008.
+Kami menyampaikan penghargaan yang setinggi-tingginya kepada seluruh penulis yang telah berkenan mengalihkan hak cipta karyanya kepada Departemen Pendidikan Nasional untuk digunakan secara luas oleh para pendidik dan peserta didik SMK di seluruh Indonesia.
+Buku teks pelajaran yang telah dialihkan hak ciptanya kepada Departemen Pendidikan Nasional tersebut, dapat diunduh (download), digandakan, dicetak, dialihmediakan, atau difotokopi oleh masyarakat. Namun untuk penggandaan yang bersifat komersial harga penjualannya harus memenuhi ketentuan yang ditetapkan oleh Pemerintah. Dengan ditayangkannya soft copy ini akan lebih memudahkan bagi masyarakat untuk mengaksesnya sehingga peserta didik dan pendidik di seluruh Indonesia maupun sekolah Indonesia yang berada di luar negeri dapat memanfaatkan sumber belajar ini.
+Kami berharap, semua pihak dapat mendukung kebijakan ini. Selanjutnya, kepada para peserta didik kami ucapkan selamat belajar dan semoga dapat memanfaatkan buku ini sebaik-baiknya. Kami menyadari bahwa buku ini masih perlu ditingkatkan mutunya. Oleh karena itu, saran dan kritik sangat kami harapkan.
+Jakarta, Direktur Pembinaan SMK
+
+Kata Pengantar Akhir-akhir ini sudah banyak usaha penulisan dan pengadaan bukubuku teknik dalam Bahasa Indonesia. Namun untuk Teknik Elektro, hal ini masih saja dirasakan keterbatasan-keterbatasan terutama dalam mengungkapkan topik atau materi yang betul-betul sesuai dengan kompetensi dalam bidang Transmisi Tenaga Listrik untuk Sekolah Menengah Kejuruan. Hal inilah yang mendorong penulis untuk menyusun buku ini agar dapat membantu siapa saja yang berminat untuk memperdalam ilmu tentang Transmisi Tenaga Listrik.
+Dalam buku ini dibahas tentang : pemeliharaan sistim DC, pengukuran listrik, tranformator, gandu induk ,saluran udara tegangan tinggi, kontruksi kabel tenaga dan pemeliharaan kabel tenaga .
+Penulis menyadari masih banyak kekurangan- kekurangan baik dalam materi maupun sistematika penulisan, untuk itu saran-saran dan kritik yang membangun guna memperbaiki buku ini akan diterima dengan senang hati.
+Pada kesempatan ini penulis mengucapkan banyak-banyak terima kasih kepada Direktur Pembinaan Sekolah Menengah Kejuruan Direktorat Jenderal Manajemen Pendidikan Dasar dan Menengah Depertemen Pendidikan Nasional yang telah memberikan kesempatan kepada penulis untuk menulis buku ini dan Drs.Sudaryono, MT yang telah bersedia menjadi editor buku ini. Juga penulis megucapkan terima kasih kepada Maneger PLN (persero) Udiklat Bogor yang telah banyak membatu penulis dalam menyediakan bahan untuk penulisan buku ini .
+Harapan penulis semoga buku ini ada mamfaatnya untuk meningkatkan kecerdasan bangsa terutama dalam bidang teknik elektro .
+Penulis
+i
+
+Daftar Isi
+
+Kata Pengantar
+
+...................................................................
+
+i
+
+Daftar isi
+
+.....................................................
+
+ii
+
+Diagram Pencapaian Kompetensi ...............................................
+
+ix
+
+JILID 1
+
+BAB. I. PEMELIHARAAN DC POWER ..................................
+
+1
+
+1.1. Hukum Ohm
+
+................................
+
+1
+
+1.2. Hukum Kirchoff
+
+......... ........................
+
+3
+
+1.3. Daya Dalam Rangkaian DC
+
+...............................
+
+6
+
+1.3.1. Prinsip Dasar Rangkaian DC
+
+..................................
+
+7
+
+1.3.2. Hubungan Antara Arus Tegangan dan Tahanan .............
+
+8
+
+1.4. Komponen Semikonduktor
+
+....................................
+
+15
+
+1.5. Sistem DC Power ........................................................
+
+20
+
+1.6. Charger (Rectifier)
+
+............................................
+
+25
+
+1.6.1. Jenis Charger
+
+..........................................................
+
+25
+
+1.6.2. Prinsip Kerja Charger
+
+...........................................
+
+26
+
+1.6.3. Bagian-Bagian Charger
+
+...............................
+
+27
+
+1.7. Automatic Voltaga Regulator ..........................................
+
+29
+
+1.7.1. Komponen Pengantar Seting Tegangan .......................
+
+30
+
+1.7.2. Komponen Pengantar Seting Floating
+
+.......................
+
+31
+
+1.7.3. Komponen Pengantar Seting Equalizing .......................
+
+31
+
+1.7.4. Komponen Pengantar Seting Arus
+
+.......................
+
+31
+
+1.8. Rangkaian voltage Dropper ..............................................
+
+33
+
+1.9. Rangkaian Proteksi Tegangan Surja Hubung.......................
+
+34
+
+1.10. Pengertian beterai
+
+.....................................................
+
+37
+
+1.10.1. Prinsip kerja baterai
+
+...............................................
+
+37
+
+1.10.2. Prinsip kerja baterai asam-timah .................................
+
+38
+
+1.10.3. Poses pengisian baterai ....................... ......................
+
+38
+
+1.10.4. Prinsip kerja baterai alkali....................................................
+
+39
+
+1.11. Jenis-jenis Baterai
+
+..................................... ...
+
+39
+
+1.12. Bagian-bagian Utama Baterai ...........................................
+
+46
+
+1.13. Instalasi Sel Baterai ........................................................
+
+48
+
+1.14. Pentilasi Ruang Baterai ............................................
+
+52
+
+1.15. Pengertian pemeliharaan DC power ...................................
+
+54
+
+1.15.1. Tujuan Pemeliharaan
+
+...............................................
+
+54
+
+1.15.2. Jenis Pemeliharaan
+
+...............................................
+
+54
+
+1.15.3. Pelaksanaan Pemeliharaan
+
+....................... ..........
+
+55
+
+1.15.4. Kegiatan Pemeliharaan
+
+.......................
+
+56
+
+1.15.5. Pemeliharaan Charger ....................................................
+
+58
+
+1.15.6 Pengukuran Arus Output Maksimum ....................................
+
+61
+
+1.16 Jadwal dan Chek list Pemeliharaan Charger ........................
+
+63
+
+1.16.1. Pemeliharaan Baterai
+
+...............................................
+
+63
+
+1.16.2. Cara pelaksanaan pengukuran tegangan .......................
+
+64
+
+1.16.3. Pengukuran Berat Jenis Elektrolit ..................................
+
+65
+
+ii
+
+1.16.4. Pengukuran Suhu Elektrolit
+
+...................................
+
+68
+
+1.16.5. Jadwal pemeliharaan periodik baterai
+
+.......................
+
+70
+
+1.17. Pengujian dan shooting pada DC Power.................................
+
+73
+
+1.17.1. Pengujian Indikator Charger .....................................
+
+73
+
+1.17.2. Pengujian Kapasitas Baterai ...............................................
+
+75
+
+1.17.3. Pengujian kadar Potassium Carbonate ( KZC03 ) .............
+
+81
+
+1.18. Trouble shooting
+
+...................................
+
+90
+
+1.18.1. Kinerja Baterai
+
+....................................................
+
+91
+
+1.19. Keselamatan kerja ......................................................
+
+95
+
+BAB. II. PENGKURAN LISTRIK
+
+................................
+
+97
+
+2.1. Pengertian Pengukuran
+
+.............................................
+
+97
+
+2.2. Besaran Satuan dan dimensi ............................................
+
+98
+
+2.3. Karaktaristik dan Klasifikasi Alat Ukur ...............................
+
+101
+
+2.4. Frekuensi Meter
+
+.........................................................
+
+109
+
+2.5. Kwh Meter ....................... .................................................... 111
+
+2.6. Megger
+
+....................................................... 111
+
+2.7. Fase Squensi ..............................................................
+
+112
+
+2.8. Pengukuran Besaran Listrik .............................................
+
+114
+
+2.9. Prinsip kerja Kumparan Putar ............................................
+
+116
+
+2.10. Sistem Induksi ..................................................................
+
+117
+
+2.11. Sistem Elektro Dinamis
+
+..............................................
+
+118
+
+2.12. Sistem Kawat Panas
+
+................................................ 120
+
+2.13. Alat Ukur Elektronik
+
+......................................................
+
+120
+
+2.14. Alat Ukur dengan Menggunakan Transformator
+
+...........
+
+121
+
+2.15. Macam-macam alat ukur untuk keperluan pemeliharaan........
+
+123
+
+2.15.1.Meter Tahanan Isolasi ...........................................................
+
+123
+
+2.15.2.Meter Tahanan Pentanahan
+
+....................................
+
+123
+
+2.15.3.Tester Tegangan tinggi
+
+....................................
+
+125
+
+2.15.4.Tester Tegangan tembus
+
+....................................
+
+127
+
+BAB. III. TRANSFORMATOR
+
+...........................................
+
+128
+
+3.1. Prinsip induksi
+
+.......................................................
+
+128
+
+3.2. Kumparan Transformator
+
+...........................................
+
+130
+
+3.3. Minyak Transformator .......................................................
+
+131
+
+3.4. Bushing ..............................................................................
+
+132
+
+3.5. Tangki Konservator ..........................................................
+
+132
+
+3.6. Peralatan Bantu Pendingin Transformator ....................
+
+133
+
+3.7. Tap Changer ...................................................................
+
+135
+
+3.8. Alat Pernapasan Transformator ............................. ..............
+
+135
+
+3.9. Alat Indikator Transformator ...........................................
+
+137
+
+3.10.Peralatan Proteksi Internal
+
+...............................................
+
+137
+
+3.11.Peralatan Tambahan Untuk Pengaman Transformator ...........
+
+142
+
+3.12.Rele Proteksi Transformator dan Fungsinya .......................
+
+144
+
+3.13.Announciator Sistem Instalasi Tegangan Tinggi ...............
+
+150
+
+3.13.Parameter/Pengukuran Transformator ...................................
+
+153
+
+iii
+
+JILID 2
+
+BAB IV. SALURAN UDARA TEGANGAN TINGGI .....................
+
+4.1. Saluran Udara ....................................................................
+
+4.2. Saluran Kabel ........................................... ........................
+
+4.3. Perlengkapan SUTT/SUTETI
+
+....................................
+
+4.3.1.Tower ....................................................................................
+
+4.3.2.Bagian-bagian tower .........................................................
+
+4.4. Kondukror
+
+.........................................................
+
+4.5. Kawat Tanah
+
+.................................. .........................
+
+4.5.1.Bahan Kawat Tanah
+
+................................................
+
+4.5.2.Jumlah dan Posisi Kawat Tanah ........................................
+
+4.5.3.Pentanahan Tower ............................................................
+
+4.6. Isolator ..............................................................................
+
+4.6.1.Isolator Piring
+
+............................................................
+
+4.6.2.Nilai Isolator .......................................................................
+
+4.6.3.Jenis Isolator ......................................................................
+
+4.6.4.Speksifikasi isolator. ...........................................................
+
+159 160 160 161 161 165 170 172 173 173 173 174 174 178 178 180
+
+BAB V. GARDU INDUK
+
+................................................. 184
+
+5.1. Busbar
+
+..................................................................... 184
+
+5.1.1. Jenis Isolasi Busbar ........................................................... 184
+
+5.1.2. Sistem Busbar (Rel)
+
+.................................................. 184
+
+5.1.3. Gardu Induk dengan single busbar ..................................... 185
+
+5.1.4. Gardu Induk dengan Doble busbar ..................................... 186
+
+5.1.5. Gardu Induk dengan satu setengah / one half busbar ............ 186
+
+5.2. Arrester ................................................................................. 187
+
+5.3. Transformator Instrumen
+
+................................................ 188
+
+5.3.1. Transformator Tegangan ................................................ 188
+
+5.3.2. Transformator Arus
+
+................................................ 190
+
+5.3.3. Transformator Bantu
+
+................................................ 191
+
+5.3.4 Indikator Unjuk kerja Transformator Ukur ......................... 192
+
+5.4. Pemisah (PMS)
+
+............................................................ 194
+
+5.4.1. Pemisah Engsel
+
+........................................................... 195
+
+5.4.2. Pemisah Putar
+
+.............................................................. 195
+
+5.4.3. Pemisah Siku ..............................................................
+
+195
+
+5.4.4. Pemisah Luncur
+
+........................................................... 196
+
+5.5. Pemutus tenaga listrik (PMT)
+
+...................................... 199
+
+5.5.1. Jenis Isolasi Pemutus Tenaga ............................................ 199
+
+5.5.2, PMT dengan Media pemutus menggunakan udara ............. 201
+
+5.5.3. PMT dengan Hampa Udara ................................................. 204
+
+5.5.4. PMT dengan Media pemutus menggunakan Minyak..........
+
+206
+
+5.5.5. PMT dengan Sedikit Minyak
+
+..................................... 207
+
+5.6. Jenis Penggerak Pemutus Tenaga ....................................
+
+209
+
+5.6.1. Mekanik Jenis Spering .................................................... 209
+
+5.6.2. Mekanik Jenis Hidrolik ........................................................... 212
+
+iv
+
+5.6.3. Penutupan PMT ..................................................................
+
+5.6.4. Pembukaan PMT .................................................................
+
+5.7. Kompesator ........................................................................
+
+5.7.1. Kompensator shunt
+
+.................................................
+
+5.7.2. Kompensator reaktor shunt
+
+....................................
+
+5.8. Peralatan SCADA dan Telekomunikasi.................................
+
+5.8.1. Prinsip Dasar PLC
+
+................................................
+
+5.8.2. Peralatan Kopling
+
+................................................
+
+5.8.3. Kapasitor Kopling
+
+................................................
+
+5.8.4. Wave trap
+
+.................................. .........................
+
+5.8.5. Prinsip Kerja Dasar Wave trap
+
+....................................
+
+5.8.6. Line Matching Unit ............................................................
+
+5.9 . Peralatan Pengaman ............................................................
+
+5.9.1. Lightning Arester
+
+.................................................
+
+5.10. Aplikasi PLC
+
+.............................................................
+
+5.10.1. Komunikasi Suara
+
+.................................................
+
+5.10.2. Penggunaan Kanal Suara
+
+.....................................
+
+5.10.3. Teleproteksi Protection Signalling ...............................
+
+5.10.4. Ramute Terminal Unit (RTU) Tipe EPC 3200........................
+
+5.11. Simbul-simbul yang ada pada Gardu Induk ..................... ...
+
+5.12. Rele Proteksi dan Annunsiator
+
+....................................
+
+BAB VI. SISTEM PENTANAHAN TITIK NETRAL
+
+............
+
+6.1. Sistem Pentanahan Titik Netral
+
+...................................
+
+6.2. Tujuan Pentanahan Titik Netral
+
+....................................
+
+6.2.1. Sistem Yang tidak Ditanahkan
+
+.....................................
+
+6.2.2. Metode Pentanahan titik Netral
+
+.....................................
+
+6.3. Pentanahan Titik Netral Tampa Impedansi ..........................
+
+6.4. Pentanahan Titik Netral Melalui Tahanan ........................
+
+6.5. Pentanahan Titik Netral Melalui Kumparan Peterson..............
+
+6.6. Tranformator Pentanahan
+
+....................................
+
+6.7. Penerapan Sistem Pentanahan di Indonesia
+
+..............
+
+6.8. Pentanahan Peralatan
+
+...............................................
+
+6.9. Exposur tegangan
+
+................................................
+
+6.10. Pengaruh Busur Tegangan Terhadap Tenaga Listrik..........
+
+6.10.1.Pengaruh tahanan Pentanahan Terhadap Sistem ...............
+
+6.10.2.Macam-macam Elektroda Pentanahan
+
+.............. ..........
+
+6.11. Metode Cara Pentanahan .................................................
+
+6.11.1.Pentanahan dengan Driven Ground.
+
+..........................
+
+6.11.2.Pentanahan Dengan Mesh atau Jala .............. ..................
+
+6.12. Tahanan Jenis Tanah .............................................................
+
+6.13. Pengkuran Tahanan Pentanahan ....................................
+
+BAB VII. KONTRUKSI KABEL TENAGA
+
+........................
+
+7.1. Kabel Minyak ..........................................................................
+
+7.1.1. Bagian-bagian Kabel Minyak
+
+......................................
+
+216 216 220 221 222 223 223 224 225 226 227 230 231 232 233 233 234 234 235 236 238
+246 246 247 247 247 247 248 251 252 253 254 256 258 258 258 260 260 261 262 263
+265 265 265
+v
+
+7.1.2. Konduktor
+
+.................................................
+
+7.1.3. Isolasi Kabel ........................................................................
+
+7.1.4. Data Kimia ........................................................................
+
+7.2. Karakteristik Minyak .............................................................
+
+7.3. Macam-macam Minyak Kabel .................................................
+
+7.4. Tangki Minyak
+
+.............................................................
+
+7.5. Perhitungan Sistem Hidrolik
+
+.....................................
+
+7.6. Keselamatan Kerja
+
+.................................................
+
+7.7. Crossbonding dan Pentanahan
+
+..........................
+
+7.8. Cara Kontruksi Solid bonding
+
+....................................
+
+7.9. Tranposisi dan sambung Silang
+
+...................................
+
+7.10. Alat Pengukur Tekakan
+
+...................... ..............
+
+7.11. Tekanan Pada Kabel Minyak
+
+.....................................
+
+7.12. Kabel Tenaga XLPE
+
+.................................................
+
+7.13. Kontruksi Kabel Laut
+
+.................................................
+
+JILID 3
+
+BAB VIII. PEMELIHARAAN KABEL TEGANGAN TINGGI .........
+
+8.1. Manajemen Pemeliharaan .................................................
+
+8.1.1. Manajemen Pemeliharaan Peralatan ..................................
+
+8.1.2. Perencanaan
+
+................................................
+
+8.1.3. Pengorganisasian ...........................................................
+
+8.1.4. Penggerakan ........................................................................
+
+8.1.5. Pengendalian ........................................................................
+
+8.2. Pengertian dan tujuan Pemeliharan ....................................
+
+8.3. Jenis-jenis Pemeliharaan ...............................................
+
+8.4. Pemeliharaan Yang Dilakukan Terhadap Kabel Laut
+
+Tegangan Tinggi ................................................................
+
+8.5. Prosedur Pemeliharaan
+
+................................................
+
+8.6. Dekumen Prosedur Pelaksanan Pekerjaan ..........................
+
+8.7. Pemilihan Instalasi Kabel Tanah Jenis Oil Fillied ..............
+
+8.8. Spare Kabel ........................................................................
+
+8.9. Termination .......................................................................
+
+8.10. Tank Chanber Umum .............................................................
+
+8.11. Anti Crossbonding Coverting
+
+.....................................
+
+7.12. Cara mengukur Tekanan Minyak Dengan Manometer.........
+
+8.13. Penggelaran Kabel
+
+................................................
+
+8.14. Regangan maksimum yang diizinkan pada Kabel .............
+
+8.15. Perhitungan Daya tarik Horizontal
+
+........................
+
+8.16. Peralatan Pergelaran kabel
+
+....................................
+
+8.17. Jadwal Pemeliharaan
+
+................................................
+
+8.18. Kebocoran minyak Kabel Tenaga
+
+.........................
+
+8.19. Gangguan kabel pada lapisan pelindung P.E. oversheath.....
+
+8.19.1.Methoda mencari lokasi gangguan pada lapisan pelindung
+
+kabel.......................................................................................
+
+8.19.2.Methoda Murray
+
+.............................................................
+
+265 266 267 268 270 272 278 280 290 292 294 299 300 303 307
+310 310 310 311 312 313 314 314 315
+318 321 330 332 335 335 337 338 342 348 349 350 353 353 354 360
+360 360
+vi
+
+8.20. Memperbaiki Kerusakan Kabel
+
+......................... 366
+
+8.20.1.Memperbaiki kerusakan lead sheath kabel .......................... 366
+
+8.20.2.Mengganti Kabel yang rusak
+
+...................................... 367
+
+8.21. Auxiliary Cable. .................................................................... 370
+
+BAB . IX. PROTEKSI SISTEM PENYALURAN ........................
+
+372
+
+9.1. Perangkat Sistem Proteksi
+
+....................................
+
+373
+
+9.1.1. Elemen Pengindra
+
+.............................. ..............
+
+373
+
+9.1.2 Elemen Pembanding
+
+...............................................
+
+373
+
+9.1.3 Elemen Pengukur ............................................................ 373
+
+9.2. Fungsi dan Peralatan Rele Proteksi ..................................... 374
+
+9.2.1. Sensitif.
+
+.............................. ................................
+
+374
+
+9.2.2. Selektif
+
+..........................................................
+
+374
+
+9.2.3. Cepat .................................................................................... 374
+
+9.2.4. Handal.................................................................................... 375
+
+9.2.5. Ekonomis ..................................................................... ... 375
+
+9.2.6. Sederhana ........................................................................ 375
+
+9.3. Penyebab Terjadinya Kegagalan Proteksi .........................
+
+375
+
+9.4. Gangguan pada sistem Penyaluran ..................................... 376
+
+9.4.1. Gangguan Sistem
+
+......................... ....................
+
+376
+
+9.4.2 Gangguan Non Sistem
+
+.................................... 376
+
+9.5. Proteksi Pengantar ............................................................. 376
+
+9.6. Sistem Proteksi SUTET ................................................. 378
+
+9.7. Media Telekomunikasi
+
+................................................. 379
+
+9.8. Relai Jarak ........................................................................
+
+379
+
+9.8.1. Prinsip Kerja Relai Jarak
+
+............................. ................
+
+379
+
+9.8.2. Pengukuran Impedansi Gangguan Oleh Relai Jarak ............ 381
+
+9.8.3 Gangguan Hubung Singkat Tiga Fasa
+
+......................... 381
+
+9.8.4 Gangguan Hubung Singkat Dua Fasa
+
+......................... 381
+
+9.8.5 Gangguan Hubung Singkat Satu Fasa Ke Tanah.................. 382
+
+9.9. Karakteristik Rele Jarak ................................................. 383
+
+9.9.1. Karakteristik Impedansi ............................. ..................
+
+383
+
+9.9.2. Karakteristik Mho ............................................................
+
+383
+
+9.9.3 Karakteristik Reaktance ................................................. 384
+
+9.9.4 Karakteristik Quadrilateral
+
+....................................
+
+385
+
+9.10. Pola Proteksi
+
+...........................................................
+
+386
+
+9.10.1. Pola Dasar
+
+...........................................................
+
+386
+
+9.10.2. Pola PUTT
+
+...........................................................
+
+386
+
+9.10.3. Pola Permissive Underreach Transfer Trip ......................... 387
+
+9.10.4. Pola Blocking .......................................................................
+
+387
+
+9.11. Current Differential Relay ................................................ 390
+
+9.12. Proteksi Transformator Tenaga ..................................... 397
+
+9.13. Rele Arus Lebih
+
+................................................ 400
+
+9.14. Proteksi Penyulang 20 KV ...............................................
+
+401
+
+9.15. Disturbance Fault ............................................................
+
+402
+
+9.16. Basic Operation
+
+................................................
+
+404
+
+vii
+
+9.17. Auto Recloser
+
+............................................................
+
+405
+
+BAB . X. PEMELIHARAAN SUTT/SUTETI BEBAS TEGANGAN.. 410
+
+10.1. Tujuan Pemeliharaan ...........................................................
+
+410
+
+10.2. Jenis-jensi pemeliharaan
+
+.............................................
+
+410
+
+10.2.1. Pemeliharaan Rutin : ...........................................................
+
+410
+
+10.2.2. Pemeriksaan Rutin................................................................
+
+410
+
+10.2.3. Pemeriksaan Sistematis........................................................
+
+411
+
+10.2.4. Pemeliharaan Korektif............................................................ 412
+
+10.2.5. Pemeliharaan Darurat...........................................................
+
+412
+
+10.3. Prosedur Pemeliharaan SUTT/SUTET
+
+.........................
+
+413
+
+10.3.1. Peralatan yang dipelihara ....................................................
+
+413
+
+10.3.2. Peralatan Kerja
+
+...........................................................
+
+418
+
+10.3.3. Petunjuk Pemeliharaan Peralatan ................................. .. 420
+
+10.3.4. Pelaporan Pekerjan Pemeliharaan ................................. .. 421
+
+LAMPIRAN :
+
+Daftar Pustaka . .......................................................................
+
+A
+
+viii
+
+DIAGRAM PENCAPAIAN KOMPETENSI
+menunjukan tahapan atau tata urutan kompetensi yang diajarkan dan dilatihkan kepada peserta didik dalam kurun waktu yang dibutuhkan serta kemungkinan multi exit-multi entry yang dapat diterapkan.
+
+TIG.CIF.0
+3 4
+
+TGM.HRB
+3 2
+TGM.HRB
+3 2
+TGM.HRB
+3 2
+TGM.CIF.
+1 2
+TIG.CIF.0
+1 5
+
+TGM.HRE
+3 4
+TIG.CIP.0
+1 2
+TIG.CIF.0
+2 2
+
+Teknisi Konstr uksi & Pemeli
+TIG.CBH.
+3 5
+
+Asist en Tekn isi P
+
+Tekn isi Instal asi Listri k
+
+TMP.HPN.
+2 4
+TMP.HPN.
+2 4
+TMP.PN.0
+3 4
+
+TMP HPN
+2 4
+
+TIG.CIF.0
+1 8
+
+TMC.Mmc
+2 2
+
+TSU.HSC.
+3 1
+TIG.CIS.0
+2 8
+
+Asiste n Teknis i Konstr
+
+TIG.CBH.
+5 8
+TIG.CIS.0
+1 8
+TIG.CBH.
+4 4
+TIG.CIT.0
+9 4
+TIG CIT 0
+7 4
+TIG CIT 0
+1 8
+TIG.CIT.0
+1 4
+TGU.HW
+3 2
+TGC.HWC
+3 8
+
+Asisten Teknisi Konstruks i & Pemelihar
+
+TIG.CBH.0
+4 4
+TIG.CIT.0
+9 4
+Asisten Teknisi Konstruks i & Pemelihar
+
+2 TIG.CIC.0 1
+TIG CIT 0
+8 4
+TIG CIF 0
+2 1
+TIG.CIT.0
+1 4
+TIG CIP 0
+1 4
+TIG.CIP.0
+1 4
+
+1 TIG.CIP.0 4
+
+Asist en Tekn isi Kons tk
+
+Keterangan :
+Nomor Kompetensi dari daftar keseluruhan kompetensi program keahlian teknik transmisi
+
+= Outlet
+
+TIG.CIF.0
+2 4
+TIG.CIT.0
+6 4
+
+Nomor Kode KJaommpPeetnecnaspi aian Kompetensi
+
+2 TNP.HPG. 1
+Asisten Teknisi Konstruksi & P lih
+
+ix
+
+BAB VIII PEMELIHARAAN KABEL TEGANGAN TINGGI
+
+8.1. Manajemen Pemeliharaan Pada umumnya lokasi sumber
+energi primer konvensional tidak selalu dekat dengan pusat beban sehingga pusat pembangkit listrik dibangun pada lokasi yang terpisah jauh dari pusat beban maka penyaluran daya diselenggarakan melalui instalasi penyaluran (saluran transmisi dan gardu Induk). Instalasi penyaluran ini melalui daerah perkotaan atau melalui laut. Untuk itu instalasi penyaluran didaerah ini terpaksa menggunakan Kabel Tenaga yang berupa Kabel tanah maupun kabel laut.
+
+Perkembangan
+
+selanjutnya,
+
+beberapa sistem tenaga listrik
+
+(sebagai contoh : Jawa barat, Jawa
+
+Tengah, Jawa Timur dan bali)
+
+diinterkoneksikan membentuk satu
+
+grup operasi. Peranan instalasi
+
+penyaluran semakin penting,
+
+konfigurasi jaringan semakin
+
+kompleks dan peralatan semakin
+
+banyak, baik dari segi jumlah
+
+maupun ragamnya.
+
+Peralatan
+
+utama yang
+
+terpasang di gardu induk dan
+
+saluran transmisi adalah :
+
+Sebagaimana peralatan pada umumnya, peralatan yang dioperasikan dalam instalasi penyaluran tenaga listrik perlu dipelihara agar unjuk kerjanya dapat dipertahankan.
+
+Pemeliharaan
+
+peralatan
+
+penyaluran tenaga listrik diperlukan
+
+untuk mempertahankan unjuk
+
+kerjanya namun di lain pihak
+
+sebagian besar pemeliharaan itu memerlukan pembebasan tegangan yang berarti bahwa peralatan yang dipelihara harus dikeluarkan dari operasi.
+
+Keluarnya beberapa peralatan
+
+dari operasi selama pemeliharaan
+
+dapat menyebabkan berkurangnya
+
+keandalan penyaluran, berkurang-
+
+nya kemampuan penyaluran
+
+bahkan padamnya daerah yang
+
+dipasok oleh peralatan tersebut.
+
+Permasalahan
+
+tersebut juga
+
+dialami oleh pemeliharaan Kabel
+
+Tenaga dengan memelihara Kabel
+
+Tenaga menyebabkan pemadaman
+
+Kabel Tenaga tersebut. Untuk
+
+mempercepat pekerjaan tersebut
+
+maka diperlukan managemen
+
+pemeliharaan.
+
+8.1.1.Manajemen Pemeliharaan Peralatan Penyaluran
+
+Suatu sistem tenaga listrik mempunyai jumlah dan jenis peralatan instalasi penyaluran yang sangat banyak yang dihubungkan satu dengan lainnya membentuk suatu sistem penyaluran.
+
+Peralatan dengan jumlah dan jenis yang banyak itu harus dipelihara untuk mempertahankan unjuk kerjanya.
+
+Sehubungan
+
+dengan
+
+pemeliharaan peralatan sistem
+
+tenaga listrik pada umumnya
+
+membutuhkan
+
+dikeluarkannya
+
+peralatan tersebut dari operasi
+
+serta menyangkut jumlah yang
+
+sangat
+
+banyak,
+
+maka
+
+penanganannya perlu didasari
+
+310
+
+pemikiran manajemen yang baik.
+
+Dalam hal ini perlu perencanaan
+
+(planning),
+
+pengorganisasian
+
+(organizing),
+
+penggerakan
+
+(actuating) dan pengendalian
+
+(controlling) dengan baik.
+
+8.1.2. Perencanaan
+
+Perencanaan
+
+pemeliharaan
+
+peralatan penyaluran tenaga listrik
+
+meliputi
+
+koordinasi
+
+antara
+
+kebutuhan akan pemeliharaan dan
+
+kondisi (keandalan) sistem. Dalam
+
+hal ini diupayakan agar kedua
+
+kebutuhan itu terpenuhi sebaik
+
+mungkin.
+
+Hasil dari perencanaan ini adalah jadual dan jenis pekerjaan yang akan dilaksanakan untuk setiap peralatan antara lain :
+
+- Setiap Peralatan Memerlukan Pemeliha- raan
+
+- Petunjuk pabrik pembuat peralatan pada umumnya memberikan periode dan jenis pemeliharaan untuk peralatan tersebut.
+
+- Dalam hal tidak ada petunjuk dari pabrik maka pengalaman masa lalu (Statistik kerusakan) dapat dipakai sebagai dasar perencanaan jadwal dan jenis pemeliharaan.
+
+- Kondisi lokal dimana Peralatan Tersebut Terpasang
+
+Perlu dipertimbangkan, apakah
+
+ada
+
+alternatif
+
+pemasokan
+
+menghindari pemadaman selama
+
+peralatan
+
+yang
+
+dipelihara
+
+dikeluarkan dari operasi.
+
+- Jenis penggunaan listrik yang dipasok
+
+Ada penggunaan listrik sebagai
+
+penggerak suatu proses yang
+
+tidak
+
+boleh
+
+terganggu.
+
+Prosesnya hanya berhenti pada
+
+jadwal yang telah ditentukan
+
+Apabila tidak ada alternatif
+
+pasokan daya listrik selama
+
+pelaksanaan
+
+pemeliharaan,
+
+maka diperlukan kompromi yang
+
+dapat diperoleh dari hasil
+
+koordinasi.
+
+- Hal Khusus
+
+Ada keadaan-keadaan khusus
+
+yang menyangkut acara-acara
+
+kenegaraan yang harus
+
+dipertimbangkan
+
+dalam
+
+perencanaan pemeliharaan.
+
+Dalam hal ini diupayakan untuk
+
+menghindari segala sesuatu
+
+yang kemumingkinan dapat
+
+menyebabkan
+
+menurunnya
+
+keandalan atau terjadinya
+
+pemadaman,
+
+termasuk
+
+pemeliharaan.
+
+Hasil perencanaan pemeliharaan peralatan instalasi penyaluran ini adalah Rencana Pemeliharaan yang mencakup
+
+ Jenis Pemeliharaan  Jadwal Pelaksanaan
+
+ Keterangan lain berupa perlu/
+
+tidaknya
+
+peralatan
+
+dikeluarkan dari operasi.
+
+ Efisiensi Pemeliharaan
+
+Selama ini pedoman dasar untuk melakukan pemeliharaan peralatan instalasi listrik adalah SE
+
+311
+
+Direksi No.032/PST/1984 tanggal
+
+23 Mei 1984 tentang Himpunan
+
+Buku Petunjuk Operasi dan
+
+Pemeliharaan
+
+Peralatan
+
+Penyaluran Tenaga Listrik dimana
+
+yang menjadi dasar utama untuk
+
+melakukan pemeliharaan adalah
+
+rekomendasi
+
+pabrik
+
+serta
+
+instruction manual dari masing-
+
+masing peralatan instalasi listrik.
+
+Dengan pengurangan siklus pemeliharaan ini dapat dipastikan akan memberikan efisiensi dalam bidang pemeliharaan, antara lain :  Mengurangi biaya pemeliharaan.  Mengurangi kebutuhan man-
+haurs per peralatan.  Mengurangi waktu pemadaman.  Meningkatkan mutu pelayanan
+dengan tingkat keandalan dan kesiapan peralatan yang lebih tinggi.  Berikut ini merupakan langkah efisiensi yang dilakukan berupa perubahan siklus pemeliharaan peralatan.
+
+Hal yang sama diberlakukan juga terhadap PMT.
+
+8.1.3. Pengorganisasian
+
+Rencana pemeliharaan sebagai
+
+hasil
+
+perencanaan
+
+diatas
+
+merupakan
+
+dasar
+
+dalam
+
+pengaturan orang, alat, tugas,
+
+tanggungjawab dan wewenang
+
+untuk terlaksananya pekerjaan
+
+pemeliharaan.
+
+Pengorganisasian ini perlu dalam mengalokasikan sumber daya yang ada atas pekerjaanpekerjaan yang diperlukan agar dapat dimanfaatkan seefisien dan seefektif mungkin.
+
+- Rincian Pekerjaan Yang Harus
+
+Dilaksanakan
+
+Rincian ini perlu dibuat untuk
+
+membantu
+
+kelancaran
+
+pelaksanaan
+
+sekaligus
+
+menghindari kesalahan.
+
+Dalam hal ini tingkat rincian yang
+
+diperlukan tergantung kesiapan
+
+yang akan melaksanakan
+
+pekerjaan itu.
+
+- Pembagian Pekerjaan
+
+Kegiatan-kegiatan spesifik yang
+
+sejenis dikelompokkan dengan
+
+memperhatikan
+
+kesamaan
+
+pelaksanaan.
+
+Diupayakan agar dalam
+
+pelaksanaan pekerjaan, tidak
+
+ada seseroang yang berbeban
+
+terlalu berat atau terlalu ringan
+
+serta tidak ada yang dibebani
+
+pekerjaan diluar kemampuan-
+
+nya.
+
+- Mengalokasikan sumber Daya
+
+'Who does what' disusun agar
+
+seluruh tahapan pekerjaan
+
+terlaksana dengan baik atau
+
+tidak terjadi saling mengelak
+
+diantara
+
+personil
+
+untuk
+
+melaksanakan suatu pekerjaan.
+
+Pengalokasian personil ini harus
+
+mempertimbangkan :
+
+x Kemampuan masing-masing
+
+personil
+
+x Beban kerja yang menjadi
+
+tanggung jawab masing-masing
+
+personil.
+
+x Urutan tahapan pekerjaan.
+
+Peralatan yang diperlukan untuk
+
+tiap
+
+tahapan
+
+pekerjaan
+
+diinventarisir dengan jumlah yang
+
+memadai.
+
+Tidak lengkapnya peralatan,
+
+selain mengakibatkan waktu
+
+pelaksanaan lebih panjang juga
+
+mutu pekerjaan yang lebih rencah.
+
+Demikian juga halnya dengan
+
+312
+
+material.
+
+Dasar penyusunan yang utama
+
+adalah pengalaman dalam
+
+pelaksanaan yang lalu.
+
+- Koordinasi Pekerjaan
+
+Mekanisme koordinasi harus
+
+jelas, mengingat :
+
+x Tuntutan waktu pelaksanaan
+
+seminimum mungkin
+
+x Menghindari
+
+kecelakaan
+
+tegangan listrik
+
+x Menghindari gangguan
+
+Kesalahan koordinasi dapat
+
+berakibat fatal pada instalasi
+
+bahkan jiwa personil yang
+
+melaksanakan pekerjaan.
+
+8.1.4. Penggerakan
+
+Setelah ada rencana kerja,
+
+kemudian pengalokasian sumber
+
+daya, tibalah saatnya pada
+
+pelaksanaan
+
+pekerjaan
+
+pemeliharaan. Untuk mencapai
+
+sasaran dengan baik seorang
+
+atasan/pimpinan melakukan proses
+
+mempengaruhi kegiatan seseorang
+
+atau suatu kelompok kerja dalam
+
+usaha melaksanakan rencana kerja
+
+yang telah disusun.
+
+Proses
+
+ini
+
+disebut
+
+penggerakan. Pada tahap ini
+
+sumber daya manusia merupakan
+
+salah satu penentu bagi
+
+keberhasilan pencapaian sasaran
+
+sehingga kepemimpinan, motivasi
+
+dan komunikasi.
+
+- Persiapan Personil
+
+Kondisi personil harus dalam
+
+keadaan baik, mental dan
+
+jasmani. Kesiapan ini harus
+
+dinyatakan saat sebelum
+
+memulai pekerjaan dan masing-
+
+masing personil menyatakan
+
+kesiapannya secara tertulis
+
+dalam blanko-blanko yang sudah
+
+disiapkan.
+
+Kondisi yang tidak baik
+
+(pusing, kurang tidur, letih dan lain-
+
+lain) dapat membahayakan dirinya
+
+serta orang lain. Selanjutnya
+
+diskusi mengenai apa yang akan
+
+dikerjakan akan sangat membantu
+
+pelaksanakan pekerjaan.
+
+- Persiapan Peralatan
+
+Kondisi dan kesiapan
+
+peralatan perlu diperiksa
+
+sebelum saat pelaksanaan,
+
+terutama yang menyangkut
+
+keselamatan jiwa seperti
+
+sabuk pengaman, pelindung
+
+tubuh, tangga, alat uji
+
+tegangan,Gas
+
+cheker,Blower,Baju tahan api
+
+dan lain-lain.
+
+- Kepemimpinan dan Motivasi
+
+Dalam rangka pelaksanaan
+
+pemeliharaan mulai dari
+
+persiapan sampai akhir
+
+pekerjaan diperlukan proses
+
+mempengaruhi
+
+dan
+
+mengarahkan orang menuju
+
+ke pencapaian tujuan yaitu
+
+terlaksananya
+
+pekerjaan
+
+pemelihara an dengan baik.
+
+Ada
+
+berbagai
+
+gaya
+
+kepemimpinan yang secara
+
+umum dikenal namun sulit
+
+untuk menyatakan satu gaya
+
+yang terbaik.
+
+Pemimpin yang efektif
+
+menyesuaikan tingkah laku
+
+kepemimpinannya
+
+pada
+
+kebutuhan yang dipimpin dan
+
+lingkungannya. Dalam hal ini
+
+perlu diperhatikan tingkat
+
+kedewasaan serta perilaku
+
+manusia yang dipimpin.
+
+Ciptakanlah situasi yang
+
+memungkinkan timbulnya
+
+motivasi pada setiap personil
+
+untuk berperilaku sesuai
+
+dengan tujuan. Salah satu
+
+313
+
+faktor penting disini adalah unsur kewibawaan.
+
+8.1.5. Pengendalian
+
+Dalam upaya tercapainya
+
+sasaran seperti yang direncanakan,
+
+seorang atasan / pimpinan perlu
+
+melakukan pengendalian karena
+
+pada umumnya terjadi perubahan
+
+situasi dan lingkungan serta
+
+kesalahan pada saat pelaksanaan.
+
+Melalui pengendalian ini,
+
+penyimpangan yang terjadi dapat
+
+dideteksi sedini mungkin sehingga
+
+tindakan
+
+koreksi
+
+dapat
+
+memperbaiki pelaksanaan
+
+Dalam mencapai tujuan sesuai
+
+dengan yang direncanakan,
+
+diperlukan pengendalian agar
+
+penyimpangan dapat dideteksi
+
+sedini mungkin. Penyimpangan
+
+dalam pelaksanaan dapat saja
+
+terjadi oleh kemungkinan-
+
+kemungkinan :
+
+x Adanya perubahan karena
+
+lingkungan,
+
+x Terjadinya kesalahan karena
+
+informasi kurang jelas,
+
+x Terjadi kesalahan karena
+
+kemampuan personil yang tidak
+
+memadai,
+
+x Ditemukan masalah lain diluar
+
+yang sudah direncanakan.
+
+Untuk dapat melaksanakan
+
+pengendalian diperlukan sasaran
+
+pengendalian, indikator - indikator
+
+dan standar yang jelas.
+
+Pelaksanaan pekerjaan dievaluasi,
+
+hasil yang dicapai dibandingkan
+
+terhadap
+
+standar
+
+dan
+
+melaksanakan tindakan koreksi bila
+
+diperlukan. Unsur manusia adalah
+
+hal yang paling utama dalam
+
+pengendalian yang menyangkut :
+
+x Kelemahan
+
+(kesalahan,
+
+kemalasan, ketidaktahuan ),
+
+x Kecurangan, x Perbedaan pemahaman/
+penafsiran atas sesuatu, x Keengganan merubah sesuatu
+yang sudah dianggap mapan (kebiasaan cara kerja ).
+
+8.2. Pengertian Dan Tujuan Pemeliharaan
+
+Pemeliharaan peralatan listrik tegangan tinggi adalah serangkaian tindakan atau proses kegiatan untuk mempertahankan kondisi dan meyakinkan bahwa peralatan dapat berfungsi sebagaimana mestinya sehingga dapat dicegah terjadinya gangguan yang menyebabkan kerusakan.
+Tujuan pemeliharaan peralatan listrik tegangan tinggi adalah untuk menjamin kontinyunitas penyaluran tenaga listrik dan menjamin keandalan, antara lain :
+
+1. Untuk meningkatkan reliability, availability dan effiency.
+
+Faktor yang paling dominan
+
+dalam pemeliharaan peralatan
+
+listrik tegangan tinggi adalah pada
+
+sistem isolasi. Isolasi disini meliputi
+
+isolasi minyak, udara dan gas atau
+
+vacum. Suatu peralatan akan
+
+sangat mahal bila isolasinya sangat
+
+bagus, dari isolasi inilah dapat
+
+ditentukan
+
+sebagai
+
+dasar
+
+pengoperasian peralatan.dengan
+
+demikian isolasi merupakan bagian
+
+yang terpenting dan sangat
+
+menentukan umur dariperalatan.
+
+Untuk itu kita harus memperhatikan
+
+/memelihara sistem isolasi sebaik
+
+mungkin, baik terhadap isolasinya
+
+maupun penyebab kerusakan
+
+314
+
+isolasi.
+Dalam pemeliharaan peralatan listrik tegangan tinggi kita membedakan antara pemeriksaan / monitoring (melihat, mencatat, meraba serta mendengar) dalam keadaan operasi dan memelihara (kalibrasi / pengujian, koreksi / resetting serta memperbaiki / membersihkan ) dalam keadaan padam.
+
+Pemeriksaan atau monitoring
+
+dapat dilaksanakan oleh operator
+
+atau petugas patroli setiap hari
+
+dengan sistem check list atau
+
+catatan
+
+saja.
+
+Sedangkan
+
+pemeliharaan harus dilaksanakan
+
+oleh regu pemeliharaan.
+
+8.3. Jenis jenis Pemeliharan
+
+Jenis jenis Pemeliharan pada kabel adalah sebagai berikut :
+
+1. Pemeliharaan harian
+
+Pemeliharaan harian seperti tabel 8.1
+
+Tabel 8.1.Pemeliharaan harian
+
+Jadwal
+
+: HARIAN
+
+: OPERASI
+
+DILAKSANAKAN DALAM KEADAAN
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+URAIAN PELAKSANAAN
+
+1
+
+2
+
+1. Manometer tekanan Minyak
+
+Kabel
+
+2. ROW
+
+3. Terminasi Kabel head (sealing end)
+
+3
+Periksa secara visual dan catat tekanan minyak pada sealing end pada manometernya. Periksa secara visual : rambu (patok-patok), jembatan kabel, tutup crosbonding dan box culvert serta kegiatan pembangunan atau kegiatan diatas/sekitar jalur sktt. a Periksa secara visual klem terminasi kabel head dan bagian yang bertegangan dari benda asing.
+b Periksa sistem pentanahan sealing end (kabel head).
+
+2. Pemeliharan Mingguan. 315
+
+Pemeliharaan berupa monitoring saluran Kabel Tanah Tegangan Tinggi yang dilakukan oleh petugas patroli setiap Mingguan serta dilaksanakan dalam keadaan operasi, seperti tabel 8.2.
+Tabel 8.2.Pemeliharaan Mingguan
+
+JADWAL DILAKSANAKAN DALAM KEADAAN
+
+: MINGGUAN : OPERASI
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+1
+
+2
+
+URAIAN PELAKSANAAN 3
+
+1. Manometer tekanan Minyak Kabel
+2. ROW
+
+Periksa tekanan minyak pada sealing end secara visual pada manometernya.
+Periksa secara visual : rambu (patok-patok), jembatan kabel, tutup crosbonding dan box culvert serta kegiatan pembangunan atau kegiatan diatas/sekitar jalur sktt.
+
+3. Terminasi Kabel head (sealing a Periksa secara visual klem terminasi
+
+end)
+
+kabel head dan bagian yang
+
+bertegangan dari benda asing.
+
+b Periksa sistem pentanahan sealing
+
+end (kabel head).
+
+Manometer tekanan Minyak Periksa secara visual dan catat
+
+4 Kabel
+
+tekanan minyak pada manometer di setiap Stop Joint yang dapat
+
+diperiksa.
+
+3. Pemeliharaan Semesteran 316
+
+Pemeliharaan berupa monitoring saluran Kabel Tanah Tegangan Tinggi yang dilakukan oleh petugas patroli setiap Semester serta dilaksanakan dalam keadaan operasi. seperti tabel 8.3.
+
+Tabel 8.3. Pemeliharaan Semester
+
+JADWAL
+
+: SEMESTER
+
+DILAKSANAKAN DALAM KEADAAN
+
+: OPERASI
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+URAIAN PELAKSANAAN
+
+1
+
+2
+
+3
+
+1. Minyak Kabel
+
+Periksa secara visual dan catat
+
+tekanan minyak pada Stop Joint dan
+
+Sealing end (kabel head) .
+
+2. Terminasi Sealing End (Kabel a Pengukuran noktah panas pada
+
+head) dan bagian yang klem sealing end (kabel head) dan
+
+bertegangan
+
+bagian berteganan dengan infrared
+
+thermovision.
+
+b Pengukuran Partial Discharge pada
+
+Sealing end (kabel head) dengan
+
+alat uji Partial Discharge
+
+4. Pemeliharaan Tahunan
+
+Pemeliharaan yang berupa Pengukuran dan pengujian untuk Kabel Tanah Tegangan Tinggi dan dilakukan oleh petugas Pemeliharaan setiap tahun dan dilaksanakan dalam keadaan Padam, seperti tabel 8.4.
+
+JADWAL
+
+Tabel 8.4. Pemeliharaan Tahunan : Tahunan
+
+DILAKSANAKAN DALAM KEADAAN
+
+: Padam
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+1
+
+2
+
+1. Tahanan Isolasi Kabel
+
+2. Cable Covering Protection Unit (Non Linier Resistor)
+
+URAIAN PELAKSANAAN
+3
+Pengukuran tahanan isolasi kabel dengan Megger dan dengan metoda polarisasi indeks (PI). Pengukuran arus bocor pada CCPU dan mengukur tahanan isolasinya
+
+317
+
+3 Lead Sheath. (timah pelindung)
+
+Pengukuran arus bocor pada lead sheath dan mengukur tahanan isolasinya
+
+4. Mano Meter
+5. Boks Cross bonding dan Stop Join serta Oil Tank Chamber maupun Oil Tank Sunseal
+6. Kabel pilot. 7 Pressure Control Cabinet (Panel
+Box kontrol tekanan)
+
+Pengetesan fungsi penunjukan tekanan minyak dan sistem pengaman tekanan minyak kabel (alarm dan tripping). Pemeriksaan dan pembersihan terhadap Manometer, Tangki minyak, instalasi pipa minyak, kandungan Gas berbahaya maupun kelembaban . Pengukuran tahanan isolasi kabel pilot. Pemberihan kabinet, seal pintu panel, pengukuran tahanan variabel untuk mengatur tegangan sistem pengaman (proteksi tekanan minyak/supervisi).
+
+8.4. Pemeliharaan yang dilakukan terhadap Kabel Laut Tegangan Tinggi adalah:
+
+1. Pemeliharaan Kabel Laut Harian.
+
+Pemeliharaan berupa monitoring untuk Kabel Laut Tegangan Tinggi yang dilakukan oleh petugas Patroli dan dilaksanakan secara Harian dalam keadaan operasi, seperti tabel 8.5.
+
+Tabel 8.5. Pemeliharaan Kabel Laut Harian
+
+JADWAL
+
+: HARIAN
+
+DILAKSANAKAN DALAM KEADAAN
+
+: OPERASI
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+1
+
+2
+
+1. R.O.W
+
+2. Lampu Suar 3. Pelampung suar
+
+URAIAN PELAKSANAAN
+3
+Pantau lalu lintas kapal agar tidak lego jangkar pada daerah koridor kabel laut Pantau kedipan lampu rambu suar apakah masih bekerja baik. Periksa pelampung suar apakah masih berada pada tempat yang ditentukan.
+318
+
+2. Pemeliharaan kabel laut mingguan
+
+Pemeliharaan berupa monitoring untuk Kabel Laut Tegangan Tinggi yang dilakukan oleh petugas Patroli dan dilaksanakan setiap Mingguan dalam keadaan operasi, seperti tabel 8.6.
+
+Tabel 8.6. Pemeliharaan Kabel Laut mingguan
+
+JADWAL
+
+: MINGGUAN
+
+DILAKSANAKAN DALAM KEADAAN : OPERASI
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+1. Terminasi Kabel head dan bagian
+
+yang bertegangan
+
+2. Tegangan Suplay AC/DC untuk alat bantu.
+3. Tekanan minyak 4. Terminasi.
+
+URAIAN PELAKSANAAN
+Periksa terminasi kabel head dan bagian yang bertegangan dari benda asing secara visual. Periksa tegangan suplay AC maupun DC untuk alat bantu apakah masih normal. Periksa tekanan minak kabel Periksa terminasi kabel apakah masih baik secara visual.
+
+319
+
+3. Pemeliharaan kabel laut Semester
+
+Pemeliharaan yang berupa monitoring untuk Kabel Tanah Tegangan Tinggi dan dilakukan oleh petugas Patroli setiap Semester dan dilaksanakan dalam keadaan operasi, seperti tabel 8.7.
+
+Tabel 8.7. Pemeliharaan Kabel Laut Semester
+
+JADWAL
+
+: Semester
+
+DILAKSANAKAN DALAM KEADAAN
+
+: OPERASI
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+1
+
+2
+
+1. Terminasi Kabel head dan bagian yang bertegangan
+
+2. Terminasi Kabel head dan bagian yang bertegangan
+
+3. Terminasi Kabel head dan bagian yang bertegangan
+4. Terminasi Kabel head dan bagian yang bertegangan
+5. Peralatan kontrol minyak dan alat bantu khusus
+
+URAIAN PELAKSANAAN
+3
+Pengukuran noktah panas pada kabel head dan bagian berteganan dengan infrared thermovision.
+Pengukuran Partial Discharge pada kabel head dengan alat uji Partial Discharge
+Pembersihan bushing kabel head terdapap kristal garam serta pembersihan isolator string pada gantry, dead end tower. Pembersihan terminasi/sealing end kabel. Periksa apakah peralatan kontrol daan alat bantu khusus dapat berfungsi dengan baik.
+
+320
+
+4. Pemeliharaan Kabel Laut Tahunan.
+
+Pemeliharaan yang berupa Pengukuran dan pengujian untuk Kabel Tanah Tegangan Tinggi dan dilakukan oleh petugas Pemeliharaan setiap tahun dan dilaksanakan dalam keadaan Padam, seperti tabel 8.8.
+
+Tabel 8.8. Pemeliharaan Kabel Laut Tahunan
+
+JADWAL DILAKSANAKAN DALAM KEADAAN
+
+: Tahunan : Padam
+
+NO.
+
+PERALATAN/KOMPONEN YANG DIPERIKSA
+
+1
+
+2
+
+URAIAN PELAKSANAAN 3
+
+1. Sistem pentanahan
+2. Tahanan isolasi Kabel Laut 3. Mano Meter 4 Boks Cross bonding dan Stop
+Join serta Oil Tank Chamber maupun Oil Tank Sunseal. 5 Tahanan isolasi kabel pilot
+7 Rambu-rambu
+8 ROW
+
+Pemeriksaan dan pengukuran sistem pentanahan kabel laut dengan Megger pentanahan. Ukur tahanan isolasi kabel laut dengan Megger. Uji fungsi manometer apakah masih bekerja baik.
+Pemeriksaan dan pembersihan terhadap Manometer, Tanki, Gas berbahaya maupun kelembaban dalam kondisi operasi a Ukur tahanan isolasi dari kabel pilot apakah masih baik. b Ukur tahanan kabel pilot (Rdc). a Periksa kelengkapan rambu-rambu dan pelampung suar seperti Batere, lampu dan panel solar sel. b Pelihara kelengkapan rambu-rambu dan pelampung suar penggantian elektroda anti korosi setiap 5 tahun.. Periksa ROW kabel dengan Scan sonar apakah kabel masih tetap pada posisi nya setiap 5 tahun.
+
+321
+
+8.5. Prosedur Pemeliharaan Prosedur pemeliharaan kabel dan kabel laut dapat dilihat pada tabel 8.9 Tabel 8.9. Prosedur pemeliharaan kabel dan kabel laut
+
+LATAR BELAKANG
+MAKSUD DAN TUJUAN
+
+Kesinambungan penyaluran energi listrik yang dikelola oleh PLN UBS P3B salah satunya ditentukan oleh kesiapan operasi gardu induk dan saluran transmisi. Kesiapan operasi gardu induk dan saluran transmisi harus didukung oleh pemeliharaan peralatan secara aman, baik dan benar. Didalam pelaksanaannya, jika terjadi kesalahan prosedur, akan mengakibatkan gangguan pada sistem tenaga listrik dan kerusakan pada peralatan bahkan dapat mengakibatkan kecelakaan manusia.
+Untuk lebih meningkatkan keamanan dan keselamatan dalam melaksanakan pekerjaan di instalasi listrik, maka perlu dibuat prosedur pelaksanaan pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi sebagai penyem- purnaan dari buku "Manuver Peralatan Instalasi Tegangan Tinggi & Ekstra Tinggi serta Dokumen Keselamatan Kerja".
+Sesuai Surat Keputusan General Manager PT. PLN (Persero) UBS P3B No. 005.K / 021 / GM.UBS. P3B / 2002, tanggal 07 Januari 2002, perihal "Pembentukan Tim Penyempurnaan Prosedur Operasi Sistem dan Pemeliharaan PT. PLN (Persero) UBS P3B", maka diterbitkan buku "Prosedur Pelaksanaan Pekerjaan Pada Instalasi Listrik Tegangan Tinggi / Ekstra Tinggi".
+x Prosedur Pelaksanaan Pekerjaan Pada Instalasi Listrik Tegangan Tinggi / Ekstra Tinggi ini adalah prosedur yang harus ditaati dan dilaksanakan oleh semua personil dalam melaksanakan tugas pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi.
+x Dengan prosedur ini setiap pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi dapat terlaksana dengan aman dan lancar serta selamat (safety process) sehingga tercapai Zero Accident.
+
+Ruang Lingkup Prosedur Pelaksanaan Pekerjaan Pada Instalasi 322
+
+Listrik Tegangan Tinggi / Ekstra Tinggi ini berlaku untuk semua pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi yang meliputi :
+Manuver pembebasan tegangan.
+Pelaksanaan pekerjaan pada instalasi dalam keadaan tidak bertegangan.
+Manuver pemberian tegangan.
+
+1. PENGORGANISASIAN KERJA
+
+Pengorganisasian Kerja
+
+Dalam melaksanakan pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi, diperlukan pengorganisasian kerja yang melibatkan unsur / personil sebagai berikut :
+x Penanggung Jawab Pekerjaan.
+x Pengawas K3. x Pengawas Manuver. x Pelaksana Manuver. x Pengawas Pekerjaan. x Pelaksana Pekerjaan.
+Pengawas Manuver, Pengawas Pekerjaan dan Pengawas K3 tidak boleh dirangkap dan harus berada dilokasi selama pekerjaan berlangsung.
+
+Peranan Personil
+PENANGGUNG JAWAB PEKERJAAN
+
+Peranan personil pada butir 2.1 adalah sebagai berikut :
+Bertanggung jawab terhadap seluruh rangkaian pekerjaan yang akan dan sedang dilaksanakan pada instalasi listrik tegangan tinggi / ekstra tinggi. Penanggung Jawab Pekerjaan adalah kuasa pemilik asset yaitu Manager UPT.
+
+PENGAWAS K3 PENGAWAS
+
+Bertugas sebagai pengawas Keselamatan dan Kesehatan Kerja (K3) pada pekerjaan instalasi listrik tegangan tinggi / ekstra tinggi, sehingga keselamatan manusia dan keselamatan instalasi listrik terjamin. Personil yang ditunjuk sebagai Pengawas K3 harus memiliki kualifikasi Pengawas K3. Bertugas sebagai pengawas terhadap proses manuver (pembebasan / pengisian tegangan) pada instalasi listrik tegangan tinggi / ekstra tinggi, se-
+323
+
+MANUVER
+PELAKSANA MANUVER
+PENGAWAS PEKERJAAN
+PELAKSANA PEKERJAAN TUGAS DAN TANGGUNG JAWAB
+
+hingga keselamatan peralatan dan operasi sistem terjamin. Personil yang ditunjuk sebagai Pengawas Manuver harus memiliki kualifikasi keahlian setingkat Operator Utama. Bertindak selaku eksekutor manuver pada instalasi tegangan tinggi / ekstra tinggi. Pelaksana Manuver adalah Operator Gardu Induk / Dispatcher Region / Dispatcher UBOS yang dinas pada saat pekerjaan berlangsung. Bertugas sebagai pengawas terhadap proses pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi. Personil yang ditunjuk sebagai Pengawas Pe- kerjaan harus memiliki kualifikasi minimal setingkat Juru Utama Pemeliharaan. Bertugas melaksanakan pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi. Personil Pelaksana Pekerjaan ditunjuk oleh Pengawas Pekerjaan. Tugas dan tanggung jawab masing-masing personil pada butir 2.2. adalah sebagai berikut :
+
+x Mengelola seluruh kegiatan pekerjaan yang
+
+PENANGGUNG
+
+meliputi : personil, peralatan kerja, perlengkapan
+
+JAWAB PEKERJAAN
+
+K3 dan material pekerjaan.
+
+PENGAWAS K3
+
+x Melakukan koordinasi dengan Unit lain yang terkait.
+
+Mencegah terjadinya kecelakaan kerja dengan cara sebagai berikut :
+
+x
+
+Memeriksa kondisi personil sebelum bekerja.
+
+x Mengawasi kondisi / tempat-tempat yang berbahaya.
+
+x Mengawasi pemasangan dan pelepasan taging, gembok dan rambu pengaman.
+
+x Mengawasi tingkah laku / sikap personil yang membahayakan diri sendiri atau orang lain.
+
+PENGAWAS
+
+x Mengawasi penggunaan perlengkapan keselamatan kerja.
+Menjaga keamanan instalasi dan menghindari kesalahan manuver yang dilakukan oleh Operator Gardu Induk dengan cara sebagai berikut :
+324
+
+MANUVER
+PELAKSANA MANUVER
+PELAKSANA PEKERJAAN
+
+x Mengawasi pelaksanaan manuver.
+x Mengawasi pemasangan dan pelepasan taging di panel kontrol serta rambu pengaman / gembok di switch yard.
+x Mengawasi pemasangan dan pelepasan sistem pentanahan.
+x Melakukan eksekusi manuver peralatan instalasi listrik tegangan tinggi / ekstra tinggi.
+x Melakukan pemasangan dan pelepasan taging di panel kontrol serta rambu pengaman / gembok di switch yard.
+x Melakukan penutupan dan pembukaan PMS tanah.
+x Menunjuk personil Pelaksana Pekerjaan sebagai Pelaksana Pengamanan Instalasi listrik untuk memasang dan melepas taging, gembok, dan rambu pengaman.
+x Memasang dan melepas pentanahan lokal.
+x Memasang dan melepas taging, gembok dan rambu pengaman.
+x Melaksanakan pekerjaan.
+
+PENDELEGASIAN TUGAS
+PENANGGUNG JAWAB PEKERJAAN
+PENGAWAS
+
+Pendelegasian tugas dapat diberikan kepada pejabat atau personil yang mempunyai kemampuan (Formulir 8), dalam hal : x Personil yang ditunjuk berhalangan melak-
+sanakan tugasnya. x Dalam satu pekerjaan diperlukan beberapa
+pengawas.
+Pelaksanaan pendelegasian dilaksanakan sebagai berikut : Asisten Manager Pemeliharaan atau Ahli Muda bidang terkait dengan catatan kedua pejabat tersebut tidak sedang menjadi pengawas lainnya (tidak merangkap).
+Operator Utama atau Personil yang mempunyai pengalaman dan keahlian dalam bidang manuver.
+325
+
+MANUVER
+
+PENGAWAS PEKERJAAN PENGAWAS K3
+
+Personil yang mempunyai ketrampilan, pengalaman dan keahlian dalam bidang pemeliharaan. Personil yang mempunyai pengalaman serta keahlian dalam bidang K3.
+
+2. TAHAPAN PELAKSANAAN PEKERJAAN
+
+Tahapan yang Diperlukan Persiapan
+
+Tahapan pelaksanaan prosedur pekerjaan pada instalasi listrik tegangan tinggi / ekstra tinggi adalah sebagai berikut : a. Briefing tentang rencana kerja yang akan
+dilaksanakan kepada seluruh personil yang terlibat dalam pekerjaan dilaksanakan oleh :
+Pengawas Pekerjaan :
+x Memberikan penjelasan mengenai pekerjaan yang akan dilaksanakan dengan baik dan aman.
+x Membagi tugas sesuai dengan kemampuan dan keahlian personil (Formulir 3).
+Pengawas K3 :
+
+326
+
+x Memberikan penjelasan mengenai penggunaan alat pengaman kerja / pelindung diri yang harus dipakai (Formulir 1).
+x Memberikan penjelasan pengamanan instalasi yang akan dikerjakan.
+x Menjelaskan tempat-tempat yang berbahaya dan rawan kecelakaan terhadap Pelaksana Pekerja.
+Pengawas Manuver :
+x Menyampaikan hasil koordinasi dengan unit terkait.
+x Menjelaskan langkah-langkah untuk manu- ver pembebasan dan pengisian tegangan (Formulir 4 dan 7).
+b. Pengawas Pekerjaan memeriksa alat kerja dan material yang diperlukan.
+c. Pengawas K3 memeriksa peralatan keselamatan kerja yang diperlukan (Formulir 1).
+d. Pengawas K3 memeriksa kesiapan jasmani / rohani personil yang akan melaksanakan pekerjaan (Formulir 2).
+
+Izin Pembebasan Instalasi Dispatcher (UBOS / Region) memberi izin pembeuntuk Dikerjakan
+basan instalasi kepada Pengawas Manuver.
+
+Pelaksanaan Manuver Pembebasan Tegangan
+
+Pelaksana Manuver melaksanakan :
+a. Memposisikan Switch Lokal / Remote ke posisi Lokal.
+b. Manuver pembebasan tegangan, sesuai rencana manuver yang telah dibuat (Formulir 4).
+c. Pemasangan taging pada panel kontrol dan memasang gembok pengaman pada box PMT, PMS Line, PMS Rel dan PMS Tanah.
+Semua pekerjaan manuver tersebut diatas diawasi oleh Pengawas Manuver dan Pengawas
+327
+
+K3.
+Apabila lokasi pekerjaan di luar jangkauan pengamatan Operator Gardu Induk, maka Pengawas Manuver dan Pengawas Pekerjaan agar menjalin komunikasi.
+
+Pernyataan Bebas Tegangan
+
+Pengawas Manuver membuat pernyataan bebas tegangan diserahkan kepada Pengawas Pekerjaan disaksikan oleh Pengawas K3
+
+Pelaksanaan Pekerjaan
+
+Pelaksana Pekerjaan melaksanakan :
+a. Pemeriksaan tegangan pada peralatan / instalasi yang akan dikerjakan dengan menggunakan tester tegangan.
+b. Pemasangan pentanahan lokal pada peralatan / instalasi listrik yang akan dikerjakan.
+Perhatikan urutan pemasangan (kawat pentanahan lokal dipasang pada sistem grounding / arde terlebih dahulu, baru kemudian dipasang pada bagian instalasi yang akan dikerjakan), jangan terbalik urutannya.
+c. Pengaman tambahan (pengaman berlapis) seperti : memasang gembok, lock-pin, dan memblokir rangkaian kontrol dengan membuka MCB / Fuse / Terminal.
+d. Pemasangan taging, gembok dan rambu pengaman di switchyard pada daerah berbahaya dan daerah aman.
+e. Pekerjaan dilaksanakan sesuai rencana.
+Semua pekerjaan tersebut diatas diawasi oleh Pengawas Pekerjaan dan Pengawas K3. Jika pekerjaan belum selesai dan akan diserahkan ke regu yang lain,
+
+Pekerjaan Selesai
+
+Bila pekerjaan telah selesai Pelaksana Pekerjaan melaksanakan :
+a. Melepas pentanahan lokal. Perhatikan urutan melepas (kawat pentanahan lokal pada bagian instalasi
+328
+
+dilepas terlebih dahulu, kemudian kawat pentanahan lokal pada bagian sistem grounding / arde dilepas).
+b. Melepas pengaman tambahan seperti gembok dan lock-pin, mengaktifkan rangkaian kontrol dengan menutup MCB / Fuse / terminal.
+c. Melepas taging, gembok dan rambu pengaman di switchyard.
+d. Merapikan peralatan kerja.
+Semua pekerjaan tersebut diatas diawasi oleh Pengawas Pekerjaan dan Pengawas K3.
+
+Pernyataan Pekerjaan Selesai
+
+Pengawas Pekerjaan membuat Pernyataan Pekerjaan Selesai dan diserahkan kepada Pengawas Manuver disaksikan oleh Pengawas K3
+
+Pernyataan Instalasi Siap Pengawas Manuver menyatakan kepada
+
+Diberi Tegangan
+
+Dispatcher (UBOS / Region) bahwa instalasi
+
+listrik siap diberi tegangan kembali.
+
+Pelaksanaan Manuver Pemberian Tegangan
+
+Pelaksana Manuver melaksanakan : a. Melepas gembok pengaman pada PMS Line
+dan PMS Rel serta PMS Tanah.
+b. Membuka PMS Tanah.
+c. Melepas taging pada panel kontrol.
+d. Memposisikan switch Lokal / Remote pada posisi Remote.
+Jika remote kontrol Dispatcher gagal, maka berdasarkan perintah Dispatcher, posisi switch Lokal / Remote diposisikan Lokal dan Pelaksana Manuver melaksanakan manuver penutupan PMT untuk pemberian tegangan.
+Semua pekerjaan tersebut diatas diawasi oleh Pengawas Pekerjaan dan Pengawas K3.
+
+329
+
+8.6. Dokumen Prosedur Pelasanaan Pekerjaan ( DP3 ) Dokumen Prosedur Pelasanaan Pekerjaan dapat dilihat pada tabel 8.10
+
+Tabel 8.10 Dokumen Prosedur Pelasanaan Pekerjaan
+
+1. Daerah Berbahaya dan Daerah Aman.
+
+Daerah berbahaya (danger area) adalah suatu tempat (daerah) disekitar peralatan (bagian) bertegangan, yang batasnya (jaraknya) tidak boleh dilanggar.
+
+Batas (jarak) daerah berbahaya tergantung pada besarnya tegangan nominal sistem.
+
+Sedangkan jarak aman (safety distance) adalah jarak di luar daerah bahaya, dimana orang dapat bekerja dengan aman dari bahaya yang ditimbulkan oleh peralatan (bagian) yang bertegangan.
+
+Untuk berjalan melintas disekitar daerah peralatan / instalasi yang bertegangan, harus sangat berhati-hati. Pastikan bahwa peralatan yang dibawa tidak mencuat / menonjol keatas ataupun kesamping , usahakan untuk tidak dipanggul atau dibawa secara melintang.
+
+Jarak aman minimum diperlihatkan pada tabel
+
+berikut ini :
+
+Sistem tegangan
+
+Jarak aman*
+
+(kV)
+
+(cm)
+
+20
+
+70
+
+30
+
+85
+
+70
+
+100
+
+150
+
+150
+
+500
+
+500
+
+4 * mengacu pada Electrical Safety Advices
+
+(ESA) dan PUIL 1987
+
+330
+
+2 Formulir DP3 ( Formulir Terlampir )
+
+Formulir-formulir yang digunakan untuk menerapkan prosedur pelaksanaan pekerjaan pada instalasi tegangan tinggi / ekstra tinggi ini yang disebut DP3 adalah terdiri dari :
+x Formulir 1 : Prosedur pengamanan pada instalasi tegangan tinggi / ekstra tinggi. Lampiran formulir 1 : Rencana pengamanan pekerjaan pada instalasi tegangan tinggi / ekstra tinggi.
+x Formulir 2 : Pemeriksaan kesiapan pelaksana sebelum bekerja pada instalasi tegangan tinggi / ekstra tinggi.
+x Formulir 3 : Pembagian tugas dan penggunaan alat keselamatan kerja.
+x Formulir 4 : Manuver pembebasan tegangan instalasi tegangan tinggi / ekstra tinggi.
+
+331
+
+x Formulir 5 :
+3.10.1 Pernyataan bebas tegangan.
+x Formulir 5 lanjutan : Serah terima pekerjaan.
+x Formulir 6 :
+.10.2 Pernyataan pekerjaan selesai.
+x Formulir 7 :
+.10.3 Manuver pemberian tegangan instalasi listrik tegangan tinggi / ekstra tinggi.
+x Formulir 8 : Surat pendelegasian tugas.
+x Formulir 9 :
+.10.4 Permintaan izin kerja, berlaku untuk pekerjaan yang dilaksanakan oleh pihak diluar PT PLN UBS P3B. Jika ada pihak luar yang akan melaksanakan suatu pekerjaan di Unit Pelayanan Transmisi, maka harus mengisi formulir Permintaan Ijin Kerja sebelum mengisi formulir / dokumen K3 lainnya.
+
+8.7. Pemelihaan Instalasi Kabel Tanah Jenis Oil Filled
+
+Operasi dan pemeliharaan
+
+yang baik akan menghilangkan
+
+penyebab kabel beroperasi secara
+
+darurat. Operator yang baik akan
+
+mengetahui sistem kabel,sehingga
+
+secara cepat operator akan
+
+mengetahui
+
+maslah
+
+yang
+
+timbul,operator akan mengetahui
+
+langkah-langkah yang harus
+
+dilakukan untuk memisahkan yang
+
+ada masalah, periksa dan lakukan
+
+perbaikan
+
+atau
+
+pembetulan.umumnya
+
+tanpa
+
+membahayakan sistem atau harus memadamkan kabel. Walaupun sistem instalasi kabel sebenarnya bebas pemeliharaan, pentingnya operasi yang tepat memerlukan pemeriksaan pemeliharaan yang hati-hati dari pada memelihara secara rutin peralatan. Apabila diperlukan pemeliharaan tingkat pemeliharaan dan keahlian pelaksana harus mempunyai kompetensi yang tinggi.
+332
+
+1. Pemelihaan Instalasi Kabel
+Pemeliharaan kabel tanah secara periodik sebenarnya tidak diperlukan,tetapi karena kabel tersebut berisi minyak sebagai isolasi maka tekanannya harus selalu dipantau.Pemasok minyak untuk mempertahankan sifat isolasi kabel tetap kondisi baik,maka bergantung pada panjang rute kabel,makin panjang instalasi kabel, maka jumlah seksi pemasok minyak akan bertambah,misalnya instalasi dengan satu seksi tekanan minyak,dua seksi dan tiga seksi. Masing-masing seksi perlu diperiksa tekanannya setiap minggu untuk mengetahui kenaikan dan atau penurunan masing-masing seksi tekanan
+2. Peralatan yang digunakan.
+Untuk melaksanakan pemeliharaan tekanan minyak diperlukan peralatan kerja sebagai berikut:
+a. Alat kerja dan Alat K3
+
+1. Kaki segitiga 2. Helm 3 Takel rantai 4 Sepatu karet 5..pompa lumpur/air 6. sarung tangan 7..generator 8. masker 9 .tangga aluminium/bambu 10 tabung oksigen 11 .blower 12 .baju tahan api 13 .batere/senter
+3. Pelaksanaan Pemeriksaan
+Sebelum melakukan pekerjaan pemeliharaan tekanan minyak,jika tangki berada didalam ruang bawah tanah maka yakinkan bahwa tidak ada gas didalam ruangan bawah tanah. 1.Bersihkan pcc(panel control kabinet) 2.Bersihkan manometer 3.catat penunjukan manometer a.setting b.Alarem c.tripping
+
+4. Daftar pemeriksaan tekanan minyak
+
+SKTT
+
+: .......................................
+
+Joint /OTC :
+
+UPT
+
+:
+
+No Tangga Tekanan minyak
+
+l
+
+1
+
+2
+
+R S TRS T
+
+3
+
+4
+
+5
+
+Keterang an
+
+334
+
+8.8. Spare Kabel
+Kabel cadangan merupakan material yang harus tersedia di gudang .Umumnya material ini panjangnya kurang lebih 500 m dan terpasang pada haspel serta dilengkapi dengan tangki tekanan minyak . Besarnya tekanan tangki tersebut antara 0,8 sampai 1,2 bar dan dilengkapi dengan manometer
+
+Instalasi kabel tanah tegangan
+
+tinggi 70 kV maupun 150 kV
+
+umumnya digunakan pada saluran
+
+transmisi tegangan tinggi didaerah
+
+perkotaan. Jalur kabel untuk
+
+menanam dan menggelar instalasi
+
+malalui daerah pemukiman dan
+
+atau disisi jalan raya. Adanya
+
+kegiatan pembangunan yang
+
+hampir berlangsuing tanpa
+
+kordinasi membuat instalasi kabel
+
+tegangan tinggi tersebut terancam
+
+terkena gangguan.
+
+Bedasarkan
+
+pengalaman
+
+instalasi kabel sering mendapat
+
+gangguan dari pekerjaan proyek
+
+maupun kegiatan rumah tangga, contohnya terkena bor pembuatan arde telkom,bor sumur warga dan ,terkena begho .
+Tujuan memelihara kabel cadangan adalah untuk mengetahui kondisi kesiapan kabel cadangan tersebut kapan diperlukan.
+1. Peralatan yang digunakan
+Peralatan kerja Tidak diperlukan peralatan kerja untuk memeriksa tekanan minyak kabel cadangan.
+2. Peralatan K3
+a. Helm b Sepatu tahan benturan c. kaca mata d. Baterre senter e.Tangga aluminium panjang 3
+m f. Jas hujan
+
+Daftar Hasil tekanan minyak kabel spare Gudang /Upt : ......................... Bulan / tahun : ..........................
+
+No Tanggal Merk/Type Penampang Tekanan
+
+Keterangan
+
+/panjang (m) Minyak (bar)
+
+8.9. Termination.
+Sealing end atau terminasi merupakan peralatan yang digunakan untuk mengeluarkan konduktor (inti kabel) dari kabel
+
+yang tertanam di bawah tanah, atau mengeluarkan konduktor yang terpasang di dalam kompartemen GIS. Ada dua jenis sealing end pada instalasi kabel yaitu indoor
+335
+
+sealing end dan outdoor sealing
+
+end. Perbedaan fisik yang nyata
+
+antara kedua terminasi tersebut
+
+adalah pada bagian luar terminasi
+
+menggunakan
+
+porselen.
+
+Pemeliharaan terminasi adalah
+
+sebagai berikut:
+
+1. Kondisi bertegangan
+
+Pada kondisi bertegangan pemeliharaan yang dilakukan adalah memeriksa secara fisik bushing tersebut apakah kondisinya normal atau ada gangguan.
+
+2. Kondisi tidak bertegangan.
+
+Pada waktu pemeliharaan preventive bersamaan dengan pemeliharaan peralatan yang lain, maka yang dilakukan terhadap
+
+terminasi atau sealing end adalah membersihkan porselin isolator.
+a. Peralatan dan material yang digunakan 1.tool kit 2.lap kain yang tidak berserat 3.sakapen 4.alkohol 90 % 5.semen remover 6.Sabun rumah tangga
+3. Cara Pelaksanaan pemeliharaan
+Pemeliharaan bushing pada waktu beroperasi yaitu pengecekan secara fisik apakah kondisinya baik,dan pada kondisi tidak bertegangan ialah dengan cara membersihkan permukaan bushing menggunakan sabun rumah tangga atau sakapen.
+
+4. Hasil Pemeliharaan out door termination
+
+SKTT 70/150 kV
+
+: ............................................
+
+Pelaksana
+
+: .............................................
+
+UPT
+
+: .........................................
+
+LOKASI GI
+
+: .............................................
+
+No Tanggal Terminasi Bushing Fasa
+
+Kabel I
+
+Kabel II
+
+R
+
+S
+
+T
+
+R
+
+S
+
+Keterangan T
+
+5. Hasil Pemeliharaan indoor termination
+
+SKTT 70/150 kV
+
+: ............................................
+
+Pelaksana
+
+: .............................................
+
+UPT
+
+: .........................................
+
+LOKASI GI
+
+: .............................................
+
+No Tanggal
+
+Terminasi Bushing Fasa
+
+Tekanan minyak Kabel Tekanan Minyak Kabel
+
+I
+
+II
+
+R
+
+S
+
+T
+
+R
+
+S
+
+T
+
+Keteranga n
+
+8.10. Tank Chamber Umum 336
+
+Instalasi kabel tanah tegangan tinggi jenis menggunakan minyak dilengkapi dengan instalasi pemasok minyak yang berfungsi menjaga kondisi tekanan didalam kabel selalu positip. Pemasok minyak menggunakan tangki-tangki yang bertekanan, yang akan memberikan tekanan pada kondisi kabel bebannya rendah dan tangki juga berfungsi untuk menampung kelebihan tekanan pada waktu kabel tersebut dibebani .
+
+Fungsi tangki minyak pada
+
+instalasi kabel tegangan tinggi terisi
+
+minyak sangat penting . Umumnya
+
+pemasangan tangki berada
+
+ruangan dibawah tanah,sehingga
+
+seacara fisik tangki minyak berada
+
+pada tempat yang lembab dan
+
+kemungkinan terendam air.Tangki
+
+minyak
+
+ini
+
+tertentu
+
+jumlahnya,bergantung pada profile
+
+kabel,makin rendah kabel tersebut
+
+ditanam,maka tangki minyak yang
+
+harus disediakan bertambah dan
+
+karakteristi- nyapun berbeda.Untuk
+
+menjaga peralatan ini bekerja
+
+dengan baik dan andal serta terjaga
+
+kondisinya maka perlu dilakukan
+
+pemeliharaannya.
+
+Baik yang dipasang diatas
+
+maupun dibawah tanah harus
+
+selalu dilakukan pemeliharaannya,
+
+namun untuk tangki yang dipasang
+
+dibawah tanah lebih sering
+
+diperiksa khusunya pada musim
+
+hujan.
+
+Untuk
+
+melakukan
+
+pemeliharaan tangki-tangki tersebut
+
+dapat dilakukan dengan kondisi
+
+ionstalai
+
+dalam
+
+keadaan
+
+bertegangan yaitu dapat dipakai
+
+tangki cadangan,untuk mengganti
+
+tangki
+
+yang
+
+dilakukan
+
+pemeliharaan.
+
+1. Peralatan kerja
+Untuk melaksanakan pekerjaan pemeliharaan tangki minyak perlu disediakan peralatan- peralatan sebagai berikut:
+a.Kaki tiga 3 ton b.Blower dan slang c.Tangga aluminium panjang 3 m d.Generator 5 kw e.Takel rantai f.Tool set g.Pompa lumpur
+2. Peralatan K3
+a.Baju tahan api b.Helm c.Oksigen d.Sepatu kerja e.Obat-obatan f. Senter
+3. Prosedur pemeliharaan a. tangki diatas tanah
+b. lakukan pembersihan fisik tangki dan karat
+c. Lakukan pengecatan(jika perlu)
+4. Dibawah tanah
+a. Buka tutup ruangan tangki b. Pasang pompa air c. Sedot air dalam ruangan tangki d. Pasang blower dan
+kelengkapannya e. Lakukan evakuasi ruangan f. Petugas masuk ke ruangan
+tangki menggunakan peralatan k3 lengkap g. Membersihkan ruang dan tangki h. Mengecat tangki (jika perlu) j. Mengganti tangki minyak (jika perlu)
+338
+
+k. Membersihkan pipa-pipa minyak
+
+dari lumpur dan karat.
+
+5. Hasil pemeliharaan
+
+SKTT 70/150 kV UPT UJT Pelaksana
+
+:..................................... : ..................................................... : ...................................................... :...........................................
+
+NO. Tanggal
+
+TANK Type A ..............
+
+B..................
+
+H.....................
+
+8.11. Anti crossbonding, Converting
+
+Anti corrosion covering
+
+merupakan perangkat srtuktur
+
+kabel yang penting fungsinya, yaitu
+
+sebagai pelindung karat susunan
+
+kabel dan sebagai jalan balik arus
+
+gangguan ke tanah apabila terjadi
+
+kebocoran arus konduktor utama ke
+
+tanah. Logam yang digunakan
+
+untuk kebutuhan struktur susunan
+
+kabel tersebut adalah logam yang
+
+sesuai,karena material tersebut
+
+akan terkena medan magnet dan
+
+medan listrik jika kabel
+
+bertegangan.
+
+Penampangnya disesuaiakn
+
+dengan besarnya arus gangguan
+
+satu fasa ke tanah sistem dimana
+
+kabel
+
+tersebut
+
+dipasang.
+
+Pemasangan instalasi kabel tanah
+
+150 kV single coremenggunakan
+
+sistem
+
+transposisi
+
+dan
+
+crossbonding, yaitu sistem
+
+pemasangan instalasi kabel yang
+
+diharapkan dapat menghilangkan
+
+atau mengurangi rugi-rugi transmisi
+
+menggunakan kabel.
+
+Pada
+
+kondisi
+
+kabel
+
+bertegangan ,maka akan timbul
+
+tegangan induksi pada anti
+
+corrosion covering. Besarnya
+
+tegangan induksi pada ketiga kabel
+
+dengan susunan flat formation tidak
+
+sama, yaitu kabel yang berada
+
+ditengah akan lebih tinggi
+
+dibandingkan dua kabel sebelahnya
+
+,maka pemasangannya dilakukan
+
+transposisi.
+
+Anticorrosion covering perlu dilakukan pengujiannya ,karena material ini sesuai fungsinya dalam sistem crosbonding harus dalam kondisi selalu mengambang yaitu tidak terkena tanah dalam satu major section. Untuk mengetahui apakah material ini kondisinya baik ,maka pengujian menggunakan HV test dilakukan setiap 6 bulan,yaitu untuk mengetahui apakah sistem crossbonding yang digunakan masih memenuhi syarat serta instalasi dilakukan pengujian dalam keadaan tidak bertegangan.
+
+339
+
+1. Peralatan yang digunakan
+Untuk melaksanakan pekerjaan pengujian anticorrosion covering diperlukan peralatan peralatan sebgai berikut: a. Kaki tiga 3 ton b. Blower dan slang c. Tangga aluminium panjang 3 m d. Generator 5 kw e. Takel rantai f. Tool set g. Pompa lumpur h. Meger 5000 vOlt i. Alat uji Hv test 0-30 kV,10 A j. Alat uji tahanan tanah
+2 Peralatan K3
+a. Baju tahan api b. Helm c. Oksigen d. Sepatu kerja e. Obat-obatan f. Senter g. Tenda h. tandu i. Masker j. Alat Pemadam Api
+3 Material
+a. kain Majun b. Nitrogen c. Anti karat d. paking karet e. kompon f. gas LPG + blender g. Amplas
+Untuk melaksanakan pekerjaan pengujian peralatan ini,dapat dilakukan satu sistem (major section,Joint 0 sampai joint 3) dan jika tidak dapat dilakukan maka diuji seksi yang pendek (minor section,joint 0 sampai joint 1) sebagai berikut:
+
+Instalasi kondisi off (ditanahkan sesuai kebutuhan)
+
+Pasang pagar pengaman antara lokasi yang diuji
+
+Buka tutup crossbonding (kedua boks yang diuji)
+
+(untuk boks pentanahan buka link dan pentanahan,untuk boks tahanan crosbonding, buka link dan CCPU)
+
+Pompa air keluar(jika ada)
+
+Periksa tekanan N2
+
+buka tutupnya boks crossbonding pada dua sisi yang diuji
+
+pasang pentanahan lokal jika perlu
+
+buka pisau-pisau crossbonding(r,s,t)
+
+Lakukan uji per fasa (misal fasa R)
+
+pasang Hv test
+
+.kabel tegangan tinggi pada konduktor acc dan kabel yang lain ke tanah
+
+atur tegangan sampai 5 kV
+
+catat arus bocornya
+
+.lakukan selama satu menit
+
+(jika tidak dapat dilakukan pengujian berarti ada kebocoran ke tanah)
+
+Setelah selesai pasang link bar
+
+(sebelum memasang tutupnya uji dahulu CCPU seperti par 7)
+
+Pemeliharaan CCPU
+
+Cable covering protection unit
+
+(CCPU) adalah peralatan instalasi
+
+kabel menggunakan sistem
+
+cosbonding yang berfungsi
+
+mengamankan
+
+selubung
+
+339
+
+logam(acc) dari tegangan lebih
+
+akibat
+
+tegangan
+
+surja.Pemasangannya
+
+didalam
+
+boks crossbonding bersamaan
+
+dengan link bar crossbonding.
+
+Masing ­masing fasa sebelum
+
+selubung logam dihubungkan ke
+
+tanah pada boks crosbonding
+
+terlebih dahulu dihubungkan
+
+dengan
+
+CCPU. Karakteristik CCPU adalah sejenis arrester yaitu menggunakan prinsip tahanan tak linier, pada kondisi tegangan normal maka berfungsi sebgai isolator dan pada kondisi ada tegangan lebih surja atau sejenis maka bersifat sebagai konduktor.
+
+3. Tujuan pemeliharaan
+
+Pemeliharaan
+
+CCPU
+
+dalakukan bersamaan dengan
+
+pengujian acc karena kedua-
+
+duanya perlu memadamkan
+
+instalasi.Kondisi CCPU yang baik
+
+akan berfungsi mengamankan
+
+kabel dari tekanan tegangan lebih
+
+yang dapat merusak sistem
+
+crossbonding. Pemeliharaan CCPU
+
+tidak hanya dilakukan pada waktu
+
+pemeliharaan kabel dilaksanakan
+
+namun
+
+perlu
+
+dilakukan
+
+pemeriksaan apabila instalasi kabel
+
+mengalami gangguan yang berat.
+
+a. Peralatan yang digunakan
+Untuk melaksanakan pekerjaan pengujian anticorrosion covering diperlukan peralatan peralatan sebgai berikut:
+a.Kaki tiga 3 ton b.Blower dan slang
+
+c.tangga aluminium panjang 3 m d.Generator 5 kw e.takel rantai f.tool set g.pompa lumpur h.Megeer 5000 volt i.Alat uji Hv test 0-30 kV,10 A 10.Alat uji tahanan tanah
+4 . Peralatan K3
+a.Baju tahan api b.Helm c.Oksigen d.sepatu kerja e.Obat-obatan f.gas LPG + blender g.Amplas
+5. Metarial yang digunakan
+a.kain Majun b.Nitrogen c.Anti karat d.paking karet e.kompon f.senter g.Tenda 8.tandu
+4.Cara pemeliharaan
+Bersamaan dengan pekerjaan pemeliharaan dan pengujian anticorrosion covering (ACC) sebagai berikut: a. buka ccpu dari dudukannya b. Lakukan pengujian per buah
+(satu fasa) c. lakukan pengukuran tahanan
+isolasi dengan megger 1000 volt antara koonduktor dengan tanah d. pasangkan HV test antara konduktor dengan tanah (ujungujungnya) e. atur tegangan dari 0 sampai 2 kV*
+340
+
+f. Catat arus bocornya * Ref kabel produksi china
+
+g.Jika selesai pasang kembali.
+
+VOLTAGE TEST ONCORROSION COVERING AND CCPU
+
+SKTT ( LINK) : .......................................................
+
+Tanggal/Bln /Th : ............/................../.........................
+
+Pelaksana/P.Jawab : ......................................................
+
+UPT
+
+:.........................................................
+
+A.Anti Corossion Covering
+
+I.Tahanan Isolasi
+
+Peralatan
+MEGGER Merk :
+
+Merah
+( (0:)
+
+Kuning
+( (0:)
+
+Biru
+( (0:)
+
+IITegangan tinggi ( 5 kV DC)
+
+Peralatan BICCO Test 103
+
+Merah (mA)
+
+Kuning (mA)
+
+Biru (mA)
+
+Keterangan
+
+B .Uji CCPU
+
+1. Uji Tegangan Tinggi
+
+Tegangan
+
+Fasa
+
+uji dan arus
+
+R
+
+(mA)
+
+S
+
+T
+
+Harga yang diharapkan (mA) *) Periksa manual book Kabel
+
+3,5 kV* I<0,1
+
+6 kV*
+
+Keterangan *)
+
+I>1
+
+2.MEGGER CCPU 1000 Volt Isolasi CCPU harus lebih besar 10 M:
+
+Peralatan
+
+FASA R (M:)
+
+FASA S (M:)
+
+Megger
+
+FASA T (M:) 341
+
+1000Volt
+
+* Ref.kabel STK
+
+8.12. Cara Memeriksa Tekanan Minyak Dengan Manometer
+
+8.12.1.Manometer biasa
+
+Manometer biasa adalah
+
+tabung yang dipasangkan pada
+
+suatu bejana, pipa atau kanal untuk
+
+mengukur tekanan. Persamaan
+
+hydrostatic digunakan untuk
+
+menentukan tekanannya. Sehingga
+
+dari manometer ini dapat diketahui
+
+besarnya tekanan bahkan dapat
+
+digunakan untuk mengetahui
+
+tekanan dari benda cair yang
+
+mengalir.
+
+Untuk menjamin terhadap
+
+pembacaan tekanan karena
+
+akselerasi/percepatan
+
+pada
+
+manometer diperlukan suatu tabung
+
+yang pada didingnya diberi skala
+
+dan angka yang terpasang secara
+
+parallel dengan garis aliran dan
+
+tidak terganggu pada saat
+
+pembukaan. Jika manometer berisi
+
+cairan pada suatu bejana
+
+berhubungan seperti pada gambar
+
+8.1(d). sehingga diperlukan bejana
+
+yang cukup panjang(tinggi) jika
+
+tekanannya tinggi maka dibuat
+
+suatu manometer dengan bentuk
+
+khusus dilengkapi jarum penunjuk
+
+yang bebas bergerak sesuai
+
+dengan tekanan dari benda cair
+
+yang diukur.
+
+Tekanan minyak ditunjukan
+
+nilainya oleh jarum pada
+
+manometer yang mempunyai
+
+prinsip kerja berdasarkan tekanan
+
+minyak dan pegas yang porosnya
+
+dipasangkan jarum penunjuk,
+
+dimana pada kondisi seimbang
+
+angka yang ditunjukan sebagai tekanan yang sebenarnya dari minyak kabel. Gambar 8.2(c). dengan teknologi maka manometer ini dilengkapi dengan saklar yang difungsikan sebagai alat pemutus atau penyambung arus dan dihubungkan dengan indicator atau rele proteksi sehingga manometer akan berbungsi sebagai alat Bantu untuk mengindikasikan tekanan alarm dan trip atau tekanan berlebih.
+
+Nilai
+
+absolute
+
+adalah
+
+penunjukan atau nilai tekanan yang
+
+berbasis pada tekanan nol bar,
+
+pada umumnya manometer
+
+menunjukan nilainya berdasarkan
+
+tekanan udara 1 bar sebagai
+
+tekanan atsmosfer.
+
+8.12.2. Manometer
+
+Manometer Vacuun adalah
+
+manometer
+
+yang
+
+dapat
+
+menunujukan kevacuuman suatu
+
+ruangan yang secara absolute
+
+(referensinya 0 bars) berarti vakum
+
+disini adalah nilai tekanan ruang
+
+dibawah nilai 1 bar dari tekanan
+
+atsmosfer. Satuan nya seperseribu
+
+bar atau millibars. Walaupun tidak
+
+ada ruang hampa yang mutlak
+
+kosong/hampa atau vacuum.
+
+Tujuan mevacuum suatu peralatan seperti kabel TT, trafo dan alat-alat lain adalah untuk mengupayakan setelah kondisi vacuum atau kondisi tidak ada benda asing berada didalam ruang
+342
+
+tsb sehingga pada saat diisi dengan minyak atau gas isolasi (sf6) akan dapat mengisi ruang-ruang hingga terkecil maka didapat pengisian yang baik tanpa ada ruang yang berisi udara atau terdapat udara
+P
+
+terjebak yang sering berakibat panas dan terjadi flash over/gangguan yang cukup fatal serta kerusakan breakdown isolasi peralatan.
+
+p wh
+
+hb
+
+hb
+
+pa w
+
+
+
+pv w
+
+Pa
+
+m o
+n (a)
+
+w=berat jenis.
+
+kPa
+Valve (c)
+
+h c
+c l
+
+c
+
+hm
+
+hp
+
+l
+
+r
+
+p c
+(b)
+
+wh c
+
+pl w php  pc
+Gambar 8.1. dasar manometer (d)
+
+343
+
+Gambar 8.2. dasar Manometer tekanan minyak
+
+8.12.3. Pemeliharaan Pilot Kabel dan Manometer
+
+Pada instalasi kabel tanah
+
+tegangan tinggi selain kabel power
+
+yang tertanam dibawah tanah ,juga
+
+memerlukan kabel lain dalam satu
+
+saluran,yaitu kabel pilot. Kabel pilot
+
+merupakan
+
+instalasi yang
+
+digunakan sebagai kabel-kabel
+
+pengaman yaitu : kabel 7 pair untuk
+
+mengamankan tekanan minyak baik
+
+tekanan yang memberikan alrem
+
+maupun mentripkan kabel,kabel 19
+
+pair merupakan kabel penghubung
+
+pengaman kabel terhadap
+
+gangguan listrik yaitu sebagai
+
+pemasok power ke proteksi
+
+diferential kabel dan kabel 28 pair
+
+digunakan sebagai fasilitas untuk
+
+komunikasi data dan suara. Kabel
+
+tersebut tertanam dekat dengan
+
+kabel
+
+power
+
+sehingga
+
+memungkinkan terkena induksi
+
+,untuk itu memerlukan desain yang
+
+khusus. Desain khusus dimaksud
+
+adalah kabel pilot dilengkapi
+
+dengan isolasi yang mampu
+
+terhadap tegangan tinggi lebih dari
+
+15 kV.
+
+Kabel pilot secara khusus tidak memerlukan pemeliharaan, namun dengan adanya perubahan akibat umur dan lokasi sekitar ,sehingga kabel pilot perlu dilakukan pemeliharaan. Sebagai contoh bahwa nilai dari tahanan konduktor
+
+berubah,sehingga
+
+akan
+
+mempengaruhi kinerja proteksi.
+
+Agar perubahan nilai tahanan dan
+
+tahanan isolasi kabel pilot dapat
+
+diketahui maka kabel tersebut perlu
+
+dilakukan pengukuran dan
+
+pengujian dengan waktu tertentu.
+
+1. Peralatan kerja dan K3
+Untuk memelihara kabel pilot diperlukan peralatan sebagai berikut:
+a Meger 0 sampai 5000 Volt b. Meger 0 sampai 1000 Volt c. Pompa air d. Pompa Lumpur e. Alat kaki tiga f. Takel rantai
+2. Material
+a. Contact cleaner b. anti karat c. Majun Pembersih
+
+3. Cara Pemeliharaan Manometer
+
+Manometer sebagai pengindera
+
+tekanan minyak sepanjang waktu
+
+harus mempunyai kinerja yang
+
+benar, karena ketidakakuratan
+
+manometer dapat menyebabkan
+
+salah kerja yang mengakibatkan
+
+kerugian atau dapat mengurangi
+
+keandalan sistem operasi kabel
+
+tanah tegangan tinggi.
+
+Manometer
+
+dimaksud
+
+mempunyai jarum penunjuk yang
+
+berfungsi menjalankan alarem
+
+345
+
+(tingkat 1) dan tripping (tingkat 2).
+
+Kedua posisi jarum tersebut harus
+
+akurat
+
+penunjukkannya,karena
+
+berkaitan dengan naik dan turunnya
+
+tekanan minyak sepanjang kabel.
+
+Tekanan
+
+Minyak
+
+akan
+
+mengembang pada saat beban
+
+kabel tinggi dan akan turun pada
+
+waktu beban turun /rendah atau
+
+suhu luar rendah.
+
+Jarum yang lain adalah jarum
+
+berwarna merah,yang berfungsi
+
+untuk mengetahui tekanan tertitnggi
+
+yang pernah dicapai sepanjang
+
+operasi kabel. Dari pengalaman
+
+dilapangan diketahui beberapa
+
+manometer tidak berfungsi dengan baik yang menyebabkan gangguan dan kerusakkan kabel.
+8.12.4.Pemelihharaan yang dilakukan pada manometer adalah :
+x Pengujian terhadap kinerja jarum penunjuk
+x Pengujian setting tekanan normal
+x Pengujian terhadap setting tekanan alalrem
+x Pengujian setting tripout
+
+Hasil pemeliharaan Manometer
+
+SKTT 70/150 kV UPT UJT Pelaksana
+
+: :..................................... : ..................................................... :...... ...................................................... :...........................................
+
+No Tanggal
+
+Tekanan(bar, Manometer fasa Kpa,Kg/cm/,p R S T R S si,mmbar) Normal Alarem Tripping Tertingggi pernah dicapai
+
+Keterangan T *)
+
+1. Pilot Kabel.
+
+Seperti kabel instalasi yang
+
+lain,apalagi kabel pilot tertanam
+
+dengan kedalaman kurang lebih 2,5
+
+meter dibawah tanah dengan suhu
+
+tanah yang panas maka akan
+
+terpengaruh
+
+oleh
+
+kondisi
+
+lingkungan disekitarnya. Khususnya
+
+pada terminal kabel pada panel
+
+control cabinet yang ada didalan underground tank chamber maupun yang ada di sunshilled tank atau panel kontrol. Semua terminal klem tersebut mempunyai resiko kelembaban atau bersentuhan /berhubungan dengan peralatan yang lain yang dapat menyebabkan kondisi isolasi kabel pilot menurun atau nol sama sekali. Untuk mmengetahui perubahan kinerja
+346
+
+kabel pilot harus dilakukan
+
+pengukuran-pengukurannya.
+
+2. HASIL PEMELIHARAAN KABEL PILOT
+
+SKTT 70/150 kV UPT UJT Pelaksana
+
+:........................................................ : ..................................................... :...... ...................................................... :...........................................
+
+1. Kabel pilot 7 pair
+
+Cable pair
+
+Keterangan
+
+P1 P2 P3 P4 P5 P6 P7 *)
+
+No Tanggal Karakteristi
+
+k
+
+1. Tahanan
+
+isolasi
+
+2.Tahanan
+
+DC
+
+*) Menggunakan meger 5000V 2.Kabel pilot 19 pair
+
+No Tanggal Karakteristik
+
+Cable pair
+
+1 2 3 4 5 6 7 8 9 10
+
+Tahanan isolasi
+
+Tahanan DC
+
+31
+
+3.Kabel pilot 28 pair
+
+No Tanggal Karakteristik
+
+Cable pair
+
+1 2 3 4 5 6 7 8 9 10 1 1 1 1 1 2 3 4
+
+Tahanan isolasi
+
+Tahanan DC
+
+8.13. Penggelaran kabel
+8.13.1. Penggelaran kabel Penarikan dengan mesin Winch
+Penarikan kabel yang biasa dilaksanakan dimaksud adalah menggunakan tenaga mesin Winch (mesin bensin atau motor listrik) dengan menempatkan `roler kabel' sepanjang rute dengan jarak antara 2+3 M pada porsi kelurusan dengan titik belok max 0,4 m
+Pembuatan belokan biasa dilakukan dengan menyesuaikan roler yang umum yang diatur baik secara horizontal maupun vertikal (sesuai kebutuhan); secara teknik adalah penyelesaian yang lebih andal, karena dapat menekan keregangan langsung antara kabel dan rolernya , bisa didapatkan dengan menggunakan struktur yang
+
+diperlihatkan pada kertas lampiran
+
+no. 2272/78/A
+
+Belokan ditempatkan terutama
+
+pada salah satu ujung sambungan
+
+yang pada umumnya dapat dipilh
+
+pada waktu penempatan `cable
+
+drums' pada
+
+ujung,
+
+ini
+
+dimaksudkan melewati daerah
+
+belokan2 ini dengan pengurangan
+
+peregangan langsung.
+
+`Cable Drum' ini dapat diatur di
+
+dua sisi arah secara bertahap dan
+
+berlanjut. Kekencangan penerikan
+
+harus secara terus menerus
+
+dikontrol dengan menggunakan
+
+sebuah dynamometer. Karena
+
+kekencangan ini ditimbulkan oleh
+
+konduktor kabel, dimana mata(titik)
+
+tarikan dikaitkan
+
+hal ini kadang kadang dapat
+
+menjadi gangguan terhadap
+
+komponen kabel yang lain
+
+sebagaimana terlihat pada tabel
+
+(mengidikasikan
+
+keregangan
+
+347
+
+maksimum yang diizikan untuk bebagai kmponen kabel).
+Dari semua kasus antara titik(mata) tarikan kabel dan tambang(tali) penarikan, harus digunakan sebuah alat kusus yang bernama "swivel", alat ini mempunya fungsi ganda dapat meringankan kenaikan torsi tarikan tambang dan memudahkan dalam meliwati roler rolel.
+Pada rute yang penggelaran berbelok belok dan penghitungan regangan tarikan mungkin melebihi angka reganganya ini diindikasikan pada poin 3.0 berikut yang perlu diikuti, kemudian ini perlu juga untuk mengikuti sistem penarikan alternative yang lain dan disini akan diuraikan
+
+8.13.2. Penarikan dengan roler bertenaga.
+
+Ini bisa jadi mengadopsi kedua bagian bagian yang diandalkan dengan tujuan menekan regangan tarikan mesin Winch, dan sebagai bagian andalan, apabila diatur sesuai dengan keadaan parit (galian)
+
+1. Metoda ikat berlanjut
+
+Regangan
+
+tarikan
+
+yg
+
+diakibatkan oleh sebuah tambang
+
+baja dimana kabel diikatkan pada
+
+jarak 2 m tali penarik yang dibuat
+
+supaya kabel bergerak.
+
+Hal ini perlu untuk
+
+mempersiapkan tambang yang
+
+sesuai dengan belokan belokan
+
+dan jalan-jalan raya persimpangan.
+
+Dengan tujuan untuk melaksanakan
+
+tipe ini , gelaran tambang
+
+panjangnya dua kali lipat terhadap rute yang dikehendaki.
+
+2. Peralatan gelar.
+
+Peralatan
+
+gelar
+
+yang
+
+diperlukan dalam penarikan kawat
+
+adalah katrol, meter dll
+
+8.14. Regangan maksimum yang diizinkan pada kabel.
+
+8.14.1. Porsi Lurus
+Ini adalah aturan yg baik dalam menggunakan regangan tarikan untuk konduktor, dimana secara umum adalah bagian yg paling rawan. Dia kadang baik dan cocok untuk menggunakan ukuran keregangan dan componen kabel lainnya.
+
+8.14.2. Tarikan ujung, dengan mata tarikan diikatkan pada konduktor
+
+- Kabel pole tunggal tembaga 6 kg/mm2 Cu . section
+- Alminium 3 kg/mm2 Al. section - Kabel tiga pole tembaga
+5 kg/mm2 total Cu section - Alminium 3 kg/mm2 total Al
+section nilai peregangan ini adalah sesuai untuk koduktor berpenguat, pada conductor berpenguat dimungkinkan menerima regangan yg lebih tinggi (14 kg/ mm2 Cu. dan 8 kg/mm2 untuk Al.) 8.14.3.Tarikan ujung dengan
+mata tarik diikatkan pada Armouring.
+
+349
+
+Tarikan ujung dengan mata tarik diikatkan pada Armouring dilakukan pada kawat tipe kawat lempengan baja 8 kg/mm2 total section dari amouring tsb.
+
+1.Ujung tarikan dengan bungkus baja
+
+- digunakan tarikan ujung dengan pembungkus baja pada kabel berbungkus almn.: 3 kg/mm2 sheat section
+- digunakan pada kabel ber `lead sheathed' : 1 kg/mm2 sheath section
+
+1. Porsi belok
+Aturan umum radius belok tidak boleh lebih kecil dari 30 kali dari lingkaran luar kabel
+
+2. Belokan dilengkapi dengan roler. Tekanan paksa antara kabel dengan roler tak boleh melebihi:
+
+x Kabel bebungkus almn. : 200 kg
+x Kabel ber `lead sheathed ' : 50 kg
+x Kabel tanpa bunkus metal : 50 kg
+x Tekanan paksa harus dihitung dengan rumus berikut:
+
+F0
+
+= T .d (kg) R
+
+Dimana :
+
+F0 = tekanan paksa antara kabel
+
+dan roler
+
+(m)
+
+T = kekencangan tarik setelah
+
+belokan (m)
+
+R = Radius belok kabel (m)
+
+d = Jarak antar roler(m)
+
+3. Belokan2 dengan penyangga bersambung ( peluncur dan pipa2)
+
+Tekanan paksa antara kabel
+
+dengan permukaan penyangga
+
+tidak boleh melebihi :
+
+- Kabel bungkus alminium :
+
+2000 kg/m
+
+- kabel ber`lead sheath'
+
+:
+
+500 kg/m
+
+- Kabel tanpa pembungkus metal:
+
+400 kg/m
+
+8.15. Perhitungan Daya Tarik Horizontal)
+1. Porsi lurus
+Daya tariknya adalah: F = l . p . f ( kg ) Dimana: F = regangan tarik l = panjang gelaran porsi lurus p = berat kabel per meter
+
+f = koifisien gesek ( ab. 0.1 )
+
+2. Porsi belok
+Dengan rumus berikut ini kita bisa melakukan evaluasi panjang rute lefel equifalen dengan sempurna, bersamaan dengan krtegangan tarikan yang sama yang akan terjadi, apabila penggelaran menggunakan roler :
+
+L2
+
+=
+
+L1
+
+.
+
+cos
+
+hk
+
+
+
++
+
+V1
+
++
+
+R kL.1
+
+sin
+
+hk
+
+
+
+dimana : L1 = panjang equifalen inlet K = koifisien gesek ( ab. O.1 )
+350
+
+ = sudut belok ( radiant ) L 2 = panjang equifalen outlet
+panjang equifalen dikalikan dengan berat kabel dan koifisien gesek, dengan cara ini besar tarikan setelah belokan dapat didapat.
+Hal ini perlu lebih jauh untuk menentukan jumlah roler yang dihitung yang ada, dengan tujuan untuk menghindari tekanan kabel terhadap roler melebihi nilai yang terindikasi. ; rumus hitungan sebagai berikut ;
+
+Yang mana arti simbol2 telah kita ketahui.
+3. Gelaran Didalam Saluran Atau Pipa
+Permukaan pipa/saluran harus halus/licin tanpa bendolan.
+Karena alasan ini maka plastic saluran/pipa tadi harus dipilih.
+Bagaimanapun juga kita berikan koifisien gesek yang berbeda untuk tipe permukaan pipa- saluran.
+
+Ft = L2 . p . f (kg) Tabel 8.11. Bahan pipa saluran
+
+Bahan pipa saluran gesek Pembungkus luar kabel
+
+P V C
+
+Lead
+
+P V C
+
+Polyethylene
+
+Asbestos- cement
+
+Lead
+
+Asbestos- cement
+
+Polyethylene
+
+Beton
+
+Jute
+
+Beton
+
+Lead
+
+Beton
+
+Polyethylene
+
+Koifisien 0,25 0,25 0,45 0,33 0,80 0,50 0,40
+
+Untuk menurunkan koifisien gesek bisa digunakan pelumas, seperti : - Air dengan bubuk grafit - Sabun bubuk dengan air dan grafit Dengan pelumasan seperti ini penurunan koifisien gesek sampai 30% dapat dicapai . Diameter dalam dari pipa saluran harus paling tidak 1,5 kali dari diameter luar cabel. Aturan yang baik adalah hanya diizinkan 1 kabel didalam 1 saluran . Radius belok yang diizinkan untuk pipa/saluran tergantung pada jumlah posisi belokan sepanjang rute dan peregangan bertahap terjadi antara kabel dan pipa saluran
+
+Radius belokan pipa harus tidak pernah lebih kecil dari 40 kali diameter lingkaran luar kabel.
+4.Porsi lurus
+Regangan tarik adala : F = l . p . f ( kg ) Dimana simbol2 mempunyai arti yang sama dengan rumus pada
+5, Porsi belok
+Regangan tarik setelah belokan dievaluasi kurang lebih seperti rumus berikut:
+F2 = F1 . e f ( kg) Dimana:
+F1 = kuat tarik pada inlet(masuk)
+351
+
+f = koifisien gesek  = sudut perubahan arah
+
+Jadi belokan2 dipertimbangkan sebagai ` titik2 perubahan
+
+(dalam radius)
+
+kecenderungan"; krena alasan
+
+Setelah itu perlu dicek bahwa
+
+inilah panjangnya dari porsi lurus
+
+regangan bertabah dalam batas
+
+antara dua belokan harus
+
+maksimum. Apa bila kasusnya
+
+diperpanjang sesuai dengan dua
+
+berlawanan hal ini perlu
+
+sisi panjangnya terhadap
+
+membesarkan radius belokan.
+
+belokannya.
+
+Perhitungan kuat tarik pada posisi miring .
+
+l
+
+P sin 
+
+h
+
+
+
+P cos  P
+
+Gambar 8.2 Kuat tarik pada posisi miring . Dimana : F1 = l . p . f . cos  ± 1 . p . h
+l = panjang porsi pada posisi miring p = berat kabel per meter f = koifisien gesek h = perbedaan level ± = sebagai fungsi arah tarikan apabila sudut  kecil, cos  = 1, kemudian
+F1 = l . p . f ± p . h ( kg )
+
+352
+
+8.16. Peralatan Pergelaran .
+
+Peralatan pergelaran dapat dilihat pada table 8.12.
+
+Tabel 8.12 Peralatan pergelaran
+
+Jumlah Uraian
+
+keterangan
+
+1
+
+Kawat penarik `winch' 10 H.P
+
+Kecepatan tarik 17 dan 23
+
+meter/menit
+
+Kekuatan 3000 kg
+
+1
+
+Dram besi tambang baja
+
+JUMLAH ISI ± 15 m3
+
+1
+
+Frame untuk said winch
+
+Jumlah berat ± 5.5000 kg
+
+1
+
+Pasang trestles penyangga dram
+
+300
+
+Pasang trestless lengkap (shaft
+
+dan hidrolik) jack untuk
+
+mengangkat dram dengan
+
+kemampuan diatas 20 ton
+
+1
+
+Dinamometer 3 ton dan
+
+timbangan
+
+2
+
+Roler kabel
+
+3
+
+Claher roler swivel
+
+1
+
+Gripn (pemegang) penarik
+
+pasang walkie - talkie Jackj
+
+pengangkat
+
+8.17. Jadwal Pemeliharan Saluran kabel Tegangan tinggi . Jadwal Pemeliharan Saluran kabel Tegangan tinggi seperti table 8.13.
+
+Tabel 8.13. Jadwal Pemeliharan Saluran kabel Tegangan tinggi .
+
+NO
+
+Nama Alat
+
+Pemeliharaan
+
+1
+
+Kabel minyak - tekanan minyak
+
+2
+
+Kabel minyak cadangan
+
+- tekanan minyak
+
+3
+
+Terminal Sealing - Visual inspeksi End
+
+- pembersihan isolator
+
+4
+
+Tank Chamber - Visual inspeksi
+
+Periode 1 minggu 1 minggu
+3 bulan 1 tahun 3 bulan
+353
+
+- pembersihan dan pengecatan
+
+1 tahun
+
+5
+
+Sistem crossbonding
+
+- HV DC test pada pelindung anti korosi
+
+6 bulan
+
+- HV DC Test pada CCPU
+
+6 bulan
+
+- Pembersihan crossbonding
+
+1 tahun
+
+Sistem Alarm - pemeriksaan lampu
+
+6
+
+indicator pada panal
+
+1 minggu
+
+kontrol
+
+- pemeriksaan kontak
+
+6 bulan
+
+signal dari manometer
+
+8.18. Kebocoran Minyak
+Bila alarm tentang kebocoran minyak terjadi maka penanggulangan dapat dilakukan seperti flowchart dibawah ini :
+
+proses
+
+354
+
+start
+Alarm terjadi dan diketahui operator
+Catatan tekanan sebelumnya
+
+Periksa dan analisa besarnya perubahan
+tekanan minyak.
+
+Perubahan tekanan minyak tidak dapat diperiksa/dianalisa dalam periode beberapa jam
+
+Jika perubahan tekanan minyak sangat besar atau tekanan minyak sudah menuju ke trip (switch out).
+
+Kebocoran minyak kecil jika perubahan tekanan < 1.00 kPa/hari
+
+Kebocoran minyak besar. Jika perubahan tekanan
+
+Gambar alir 8.3 : langkah bila terjadi kebocoran minyak kabel
+
+kebocoran minyak kecil jika
+
+perbedaan tekanan pada ketiga
+
+fasa pada seksi yang sama.
+
+Pemeriksaan
+
+dimulai
+
+jika
+
+perbedaan tekanannya adalah 30
+
+kPa.
+
+Nilai perubahan tekanan dinyatakan
+
+medium jika kebocoran minyaknya
+
+mengakibatkan tekanan berubah
+
+antara 1.0 kPa/hari <P<10.0
+
+kPa/hari.
+
+1. Kebocoran Kecil.
+Tindak lanjut yang lebih detail diperlukan untuk setiap terjadi kebocoran yang dijelaskan sebagai berikut : 2. Kebocoran minyak kecil.
+Bila terjadi kebocoran minyak kecil dari pengalaman disebabkan karena paking, konektor dan pada
+355
+
+saat pembersihan permukaan kabel dengan benda tajam. Tindakan yang paling penting dan segera tidak diperlukan, hasil pemantauan selama satu minggu baru dilakukan tindakan jika sudah
+
+diketahui lokasi kebocorannya. Tekanan minyak selalu di catat setiap jam sampai perbaikan selesai.
+
+3. Bagan Alir tindakan untuk kebocoran kecil :
+
+Kebocoran minyak kecil jika perubahan tekanan < 1.00 kPa/hari
+
+Apakah kebocoran diantara katup pd panel dan
+
+Sambungan sementara untuk pasokan minyak.
+
+Sambungan sementara untuk pasokan minyak.
+
+Dilokalisir dan perbaikan kebocoran. Reset rangkaian minyak.
+
+perbaikan kebocoran. Reset rangkaian minyak.
+
+Gambar alir 8.4 : langkah awal bila terjadi kebocoran minyak kabel
+4. Kebocoran Besar. Pada masalah ini penyebab utama kejadian ini harus diketahui terutama
+penyebab kerusakan dari luar (eksternal). Kecepatan tindakan sangat diperlukan untuk itu dapat dilakukan tindakan sesuai bagan alir dibawah ini :
+bagan alir kebocoran besar
+
+356
+
+Kebocoran minyak besar. Jika perubahan tekanan >
+10.00 kPa/hari
+
+Apakah tekanan minyak dibawah
+level
+
+Apakah kebocoran minyak diantara pipa pemasok minyak antara tangki bertekanan dan katup serta manometer
+pada panel ?
+
+Apakah tekanan minyak dibawah
+level alarm ?
+
+Apakah kabel harus
+Diproses dengan
+Cari lokasi
+
+Kabel operasi
+
+Kabel operasi
+
+Apakah kabel harus
+Diproses dengan operasi katup A
+
+Lanjutkan pasokan minyak
+Pencegahan kebocoran sementara
+
+Pencegahan kebocoran sementara
+
+1
+
+357
+
+1
+Perbaikan permanen atau mengganti kabel yang rusak atau accesories kabelnya
+Mengembalikan setting pengaman dari sistem minyak.
+Pengoperasian kembali kabel
+
+selesai
+Gambar alir 8.5 : langkah bila terjadi kebocoran minyak kabel cukup besar
+
+5. Memperbaiki kabel minyak yang bocor.
+Setelah diketemukan lokasi kebocoran maka segera dilakukan perbaikan dengan urutan sbb :
+
+Lokasi kebocoran minyak Perbaikan sementara
+
+Sealing end pada Gas a. Flange tembaga bagian
+bawah tabung b. kebocoran pada
+permukaan kabel
+c. Konektor pipa pemasok minyak.
+d. isolator penghubung
+
+Periksa kekencangan bautbautnya
+x Dengan menggunakan palu untuk memukul permukaan sehingga menutup kebocoran tsb
+x Melapisi permukaan dengan plastik tape.
+Periksa kekencangan bautbautnya Periksa kekencangan bautbautnya
+
+Perbaikan permanen
+Ganti gasketnya Instalasi kembali.
+Instalasi kembali. Ganti isolator penghubung
+
+358
+
+Tangki tekanan. a. Katup.
+b. Konektor
+Pipa pemasok minyak a. Konektor
+Kabel Tenaga a. Pelindung kabel (lead
+sheath)
+
+dengan yang baru.
+
+Bungkus dengan isolasi /plastik tape Periksa kekencangan bautbautnya
+
+Ganti katupnya
+Instalasi kembali.
+
+Periksa kekencangan baut- Ganti dgn yg
+
+bautnya
+
+baru atau
+
+Instalasi kembali
+
+x Dengan menggunakan palu untuk memukul permukaan sehingga menutup kebocoran tsb
+x Melapisi permukaan dengan plastik tape.
+
+Ganti bagian kabel yang bocor.
+
+Yang paling penting untuk perbaikan kabel dan alat bantunya (accesories) adalah tekanan yang agak sedikit rendah dari pada tekanan normal dan dipertahankan setiap saat sebagai usaha untuk menjaga agar kandungan udara yang lembab masuk kedalam sistem kabel.
+6. Tindakan yang dilakukan untuk minyak dengan tekanan tinggi.
+Prosedure pada kejadian gangguan minyak dengan tekanan tinggi sangat diperlukan karena tekanan minyak maka ke hati-hatian dan konsentrasi pada masalah sangat diperlukan. Adapun prosedurenya adalah sbb :
+Pengoperqasian katup(valve). Sebagai contoh adalah minyak tekanan tinggi pada salah satu phasa maka : 1. Katup no 4 harus selalu tertutup
+dengan baik.
+
+2. Pipa penghubung untuk pengeluaran minyak dari tangki dihubungkan dengan `chek conector' yang ditempatkan pada meter tekanan dan "valve panel".
+3. Katup no 4 dibuka. 4. Alrian minyak tekanan tinggi dari
+tangki akan terlihat pada meter dan "valvepanel" sehingga penunjukan meter tekanan berada dibawah batas dari tekanan minyak tertinggi yang perbolehkan. 5. perbaikan sehingga rangkaian menjadi seperti semula.
+8.19. Gangguan kabel pada lapisan pelindung P.E. oversheath.
+8.19.1. Methoda mencari lokasi gangguan pada lapisan pelindung kabel.
+
+359
+
+Sebagai hasil pemeriksaan rutine pada lapisan pelindung kabel diketahui terjadi kerusakan lapisan pelindung kabel maka perlu ditindaklanjuti dengan mencari lokasi kerusakan lapisan pelindung kabel.
+Untuk mengatasi kerusakan lapisan pelindung perlu mencari lokasi untuk itu diperlukan pengukuran, sehingga kabel tersebut harus tidak dioperasikan (bebas Tegangan). Digunkan bermacam ­macam metoda untuk mencari lokasi keruskan lapisan pelindung dari yang sederhana hingga yang paling modern dan cukup canggih. Disini akan dijelaskan cara sederhana yang
+L
+
+mana sebenarnya awal dari sederhana ini berkembang menjadi seperti kondisi sekarang.
+8.19.2. Methoda Murray. Methoda ini diketemukan oleh
+Jhon Murray yang berprinsip dari cara pengukuran tahanan dengan methoda jembatan Weatstone. Prinsip kerjanya dengan menghubungkan salah satu ujung kabel antara konduktornya dan lapisan pelindung dan diujung yang lain dipasangkan sumber tegangan DC lengkap dengan saklarnya dan tahanan geser yang center tapnya disambungkan ke galvanometer.
+R1
+
+X R2 G
+
+Gambar 8.6 : mencari lokasi kerusakan PE oversheath dgn jembatan Murray
+
+Jika galvanometer menunjuk angka nol setelah mengatur posisi center tap pada tahanan geser maka akan diperoleh persamaan seperti rumus pada sistem jembatan Weatstone :
+
+R 1
+
+2L  X
+
+R2
+
+X
+
+X
+
+R 2 .2 L
+
+R1  R 2
+
+360
+
+dimana ; R1 dan R2 = tahanan geser diantara c L = panjang kabel ( 2L karena
+rangkaian tertutup). X = Jarak lokasi kerusakan dari
+titik ukur.
+Tahanan geser mempunyai tingkat dari 0 ­ 100, yang akan dibaca dan menjadi acuan perhitungan prosentase jarak untuk menentukan jarak dari titik ukur ke
+
+lokasi gangguan pada lapisan pelindung kabel.
+1. Cara pengukuran.
+a. Mengisolasi kabel gangguan dengan cara melepas plat penghubung diantara kedua sisi pada links boxes.
+b. Hubungkan alat ukur jembatan Murray ke terminal dari lead sheath dari kabel yang rusak. Seperti gambar dibawah ini .
+
+S
+6 atau 12 Volt (aki mobil)
+
+sheath
+G E
+
++ -
+
+Gambar 8.7 : mencari lokasi kerusakan PE oversheath dgn jembatan Murray
+
+x Sambungkan kabel pelindung (PE oversheaths) pada terminal ` + ` dan konduktor utama disambungkan pada terminal ` ­ ` pada alat ukur Murray. Hubungkan batere sehingga menjadi rangkaian tertutup
+
+sistem Murrsay seperti pada gambar. x Nyalakan alat dengan menekan saklar on dan biarkan beberapa menit untuk pemanasan alat. x Masukan saklar `S' dari batere eksternal dan atur nilai R1 dan
+361
+
+R2 sehingga galvanometer menunjuk nilai `0'. Dan akan diperoleh prosentasi jarak lapisan pelindung kabel yang mengalami kerusakan. c. Mendeteksi lokasi gangguan PE oversheath di kabel dengan sistem elektrode.
+2. Prinsip kerja Metode ini menggunakan sifat
+karakteristik dari potensial listrik
+
+didalam diluar permukaan tanah yang disebabkan oleh mengalirnya arus ke dalam dan keluar dari titik gangguan, arus yang secara tibatiba menjadi besar atau maksimum maka arus sebagai indikasi yang berupa arah jarum dan besarnya tegangan (polarity) dan menjadi petunjuk perbedaan (arah dari arus bocor) arus DC antara konduktor dan lapisan pelindung dan dari tanah. Perbedaan potensial tsb diatas terjadi diatas permukaan jalur kabel sehingga dengan menggunakan voltmeter atau galvanometer yang dilengkapi dengan elektrode sebagai penghantar dan pendeteksi lokasi gangguan.
+
+362
+
+elektrode
+
+Galvanometer atau voltmeter
+
+Electric potential
+
+Power source
+
+Immediately above the fault point
+
+Electric difference
+
+Gambar 8.8 : mencari lokasi kerusakan PE
+
+c. metoda pengukuran.
+
+Tentukan arah arus dilihat dari
+
+x Kabel yang gangguan diisolir dengan cara melepas plat penghubung diantara kedua ujung link boxes.
+x Sambungkan sumber DC (generator DC tegangan tinggi) ke terminal pada link boxes yang tersambung dengan lapisan pelindung (leadsheath) dari kabel yang gangguan.
+x Alirkan arus DC dengan bentuk pulsa ke kabel yang gangguan.
+x Masukan batang elektroda diatas permukaan tanah
+
+arah penunjukan jarum dari voltmeter atau galvanometer sehingga dapat diketahui lokasi gangguan. (ketika tegangan sumber DC `+' tersambung pada salah satu elektrode dan pointer pada galvanometer akan membuat arah penyimpangan semakin besar berarti sudah dekat dengan lokasi gangguan dan akan berbalik jika lokasi gangguan terlewati). x Persempit electrode pada
+lokasi dimana penyimpangan jarum paling besar.
+
+dimana kabel yang gangguan.
+
+363
+
+kabel
+
+DC
+
+POWER SUPPLA
+
+-
+
+G
+
+G
+
+G
+
+G
+
++ diketanahkan
+
+Lokasi ggangguan
+
+Gambar 8.9. Metoda pengukuran
+
+Penyimpangan jarum
+
+Penyimpangan berbalik
+
+G
+
+G
+
+G
+
+G
+
+Lokasi
+
+PVC/ PE sheath
+
+Lead sheath Batere (DC /pulse)
+
+Pembacaan
+
+sisi
+
+l
+
+t
+
++
+
+_ Gambar 8.10. Metoda pengukuran
+
+364
+
+d. Memperbaiki P.E. oversheath pada kabel.
+Jika P.E. oversheath pada kabel mengalami kerusakan, dan telah dibuktikan maka prioritas selanjutnya adalah perbaikan. Setelah diperbaiki maka untuk membuktikan bahwa kabel sudah layak dioperasikan maka perlu dilakukan pengujian-pengujian untuk menjamin bahwa kabel laik untuk dioperasikan. aminannya adalah hasil pekerjaan yang benar yaitu langkah2 perbaikan yang baik dan benar seperti berikut :.
+
+X A
+X B
+
+Kerusakan pada P.E. over sheath dari suatu kabel.
+Pelapisan pelindung dengan resin / glass tape atau heat shrinkcabel tube.
+
+X C
+
+Anti ­ corrosion tape ( polyethylene) P.E. Adhesive tape.
+
+Adhesive tape Water proof tape. X
+D Gambar 8.11. Metoda pengukuran
+365
+
+Metoda perbaikan P.E. & PVC oversheath. 3.1. pertama bagian yang rusak
+pada P.E atau PVC over sheath berupa serabut kawat atau sejenis tape yang berserabut dibersihkan. 3.2. bersihkan dengan sikat dan bersihkan seluruh permukaan. 3.3. lakukan separuh (½) dari lapisan epoxy resin dan glass tape. 3.4. gunakan pelindung dari heatshrink tube atau PVC adhesive tape dan ½ lapis anti corrosive tape (polyethylene). 3.5. gunakan dua ½ lapis dari water-proof tape dan dua ½ lap lapisan P.E dan PVC adhesive tape.
+8.20. Memperbaiki kerusakan Kabel (kerusakan eksternal).
+8.20.1.Memperbaiki kerusakan lead sheath kabel.
+Perbaikan dapat dilaksanakan jika telah diketemukan lokasi kerusakan pada sheath dan dilakukan setelah memenuhi. petunjuk yang dijelaskan dibawah ini. x Kabel harus bebas tegangan. x Case A : Kerusakan
+diperkiraan tidak dari luar kabel. x Case B : Terdapat lubang atau keretakan pada lead sheath.
+
+1.Case A : Kerusakan diperkiraan tidak dari luar kabel.
+
+Pada kasus ini kabel harus
+
+dipadamkan segera (tidak
+
+dioperasikan).
+
+Lakukan pemeriksaan sebagai
+
+berikut :
+
+a. Perubahan yang terjadi pada
+
+bentuk lead sheath.
+
+b. Kerusakan pada screen/lapisan
+
+pelindung.
+
+c. Kerusakan pada isolasi kabel.
+
+d. Air didalam kabel.
+
+e. Benda asing yang
+
+mengakibatkan kontaminasi.
+
+f. Gas yang sudah terkontaminasi
+
+pada kabel.
+
+Berdasarkan
+
+penjelasan
+
+tersebut diatas ketentuan yang
+
+harus dilakukan dapat diputuskan.
+
+Jika kabel dengan kondisi
+
+dapat diperbaiki maka perbaikan
+
+sesuai dengan kondisinya, tetapi
+
+jika tidak dapat maka kabel baru
+
+digunakan untuk menyambung
+
+yang rusak.
+
+2. Case B:
+
+Terdapat lubang atau keretakan pada lead sheath. Setelah penggalian tanah diatas kabel selesai maka P.E over sheath dan serat pelindung maka perbaikan dapat dilaksanakan dengan langkah-langkah sbb :. a. Jika kondisi terjadi kebocoran
+kecil karena tertusuk benda runcing atau karena retak kecil maka. 1). Sumbat lubang bocor dan
+dengan menggunakan palu serta pemukulan yang tidak terlalu keras sehingga lubang
+366
+
+tertutup. Sama caranya untuk menutup keretakan digunakan palu dan lubang keretakan ditutup dulu kemudian dapat digunakan cara plumbing yang disapukan disekitar lokasi yang retak. 2). Gunakan fibrous tape dan reinforcement tape untuk melapisi lead sheath cp. ada lokasi kerusakan sie. rta
+
+3). Perbaikan oversheath dari kabel tsb. Langkah tersebut diatas sudah
+mencukupi untuk mengatas kebocoran karena lubang atau retak pada lead sheath sehingga tidak terjadi kebocoran.
+
+b. Jika kondisi tersebut diatas,
+
+walaupun sedikit kebocoran
+
+tetapi
+
+mempunyai
+
+kecenderungan
+
+menjadi
+
+kebocoran yang lebih besar
+
+maka.
+
+1). Setelah mengupas P.E.
+
+oversheath, fibrous tape dan
+
+reinforcement , diperlukan
+
+penguat
+
+dengan
+
+cara
+
+mensolder pada daerah yg
+
+mengalami kerusakan.
+
+2). Gunakan 6 lapisan tape yang
+
+tahan minyak dari pita plastik
+
+pada pada daerah yg
+
+mengalami kerusakan.
+
+3). Kemudian gunakan 4 lapisan
+
+tape epoxy resin impregnated
+
+glass diatas semua permukaan
+
+lapisan tahan minyak.
+
+4). Gunakan 4 lapis lembaran dari
+
+F-CO tape (anti corrosive
+
+tape/polyenthylene)
+
+dan
+
+ditambah 2 lapisan lembaran
+
+BALCO (waterproof tape) dan 2
+
+lapisan lembaran P.E adhesive
+
+tape.
+
+Multymetal.
+
+Setelah
+
+melapisi
+
+P.E
+
+oversheath, fibrous tape dan
+
+reinforcement,
+
+dilakukan
+
+pembersihan ditempat terjadi
+
+kerusakan.
+
+5). Tutup valve dikedua sisi
+
+pengisian minyak kabel dan
+
+gunakan campuran multymetal
+
+untuk melapisi di daerah yg
+
+mengalami kerusakan.
+
+6). (lakukan langkah seperti pada
+
+kasus 2) ­ (3 ­ 4).
+
+8.20.2. Mengganti Kabel yang rusak.
+
+Jika kerusakan terjadi pada kabelnya sendiri, tetapi jika screen dan insulation paper tidak rusak maka kabel dapat dioperasikan dalam waktu yang cukup lama setelah lead sheath, P.E. oversheath dan pembersihan/filter minyak isolasi telah dilakukan pada kabel tsb. Kabel yang telah mengalami kerusakan maka kabel dipotong dan tidak digunakan lagi sehingga perlu kabel baru sebagai pengganti.
+
+367
+
+Kabel lama
+
+Lokasi gangguan X Kabel yang diganti
+Sambungan Kabel
+Kabel baru
+
+Gambar 8.12. Metoda pengukuran
+
+panjang kabel pengganti sangat tergantung dengan kondisi kerusakan seperti kandungan air pada isolasi, tingkat kontaminasi minyak kabel dan kondisi disekitar permukaan tanah dari jalur kabel tersebut.
+
+1. Testing setelah kabel diperbaiki.
+
+Pelaksanaan testing dilakukan oleh petugas yang berkompetensi enginir untuk menjamin kelayakan kabel tersbut apakah dapat dioperasikan apa tidak setelah diperbaiki. Semua hasil pengujian dicatat dan dianalisa untuk menentukan kelayakan kabel tsb.
+
+a. Kabel minyak
+1). Pengujian tahanan isolasi kabel.
+
+Pengukuran
+
+isolasi
+
+dilaksanakan
+
+dengan
+
+mengukur tahanan isolasi
+
+diantara konduktor terhadap
+
+pentanahan menggunakan alat yang bertegangan 1000 volt dc, hasil ukurnya harus lebih besar 100 M. Pengukuran ini pertama kali dilakukan setelah kabel selesai disambung.
+2). Tahanan DC dari konduktor.
+Pengukuran tahanan dc sambungan konduktor yang setelah diperbaiki, hasil pengukuran tahanan dc pada 20º C adalah 0.0754 /Km (max) pada kabel minyak uk 240 mm². Jenis Pengukuran yang kedua dilakukan setelah kabel selesai disambung.
+3). Pengujian oversheath.
+Pengujian dilakukan setelah surge diverters dilepas agar pada saat pengujian tidak mengakibatkan kerusakan akibat tegangan uji. Semua instalasi yang menjadi ketentuan seperti sheats insulatios, external joint insulation, terminal base insulation pada bonding leads dan link boxes, insulation sections pada pipa minyak serta yang lainnya dari kabel yang perbaiki
+368
+
+akan menjadi subyek pengujian tahanan dengan memberikan tegangan DC 10 kV selama 5 menit. Jenis Pengukuran yang ketiga dilakukan setelah kabel selesai disambung dan telah teriisi minyak kembali.
+
+b. Test tegangan tinggi.
+Perbaikan sirkit kabel yang rusak setelah selesai perbaikan tekanan minyak telah normal harus dilakukan pengujian dengan tegangan tinggi DC antara konduktor dan sheats selama 15 menit. Pengujian ini semua seksi dari kabel harus disambung walaupun secara temporary. Arus tegangan searah akan mengalir pada kabel melalui alat test uang disambung pada ujung kabel (sealing end) baik yang sf6 maupun yang konvensional yang telah dilepas dengan sambungan ke GIS atau peralatan lain.
+
+c. Pengujian aliran Minyak. (oil flow test).
+
+Setelah perbaikan, setiap seksi
+
+minyaknya harus diukur alirannya,
+
+hal tersbut untuk menjamin tidak
+
+ada ketidak normalan aliran minyak
+
+pada saluran Kabel minyak tsb.
+
+Pengukuran
+
+dilaksanakan
+
+dengan menuangkan/mengalirkan
+
+minyak bertekanan keluar sebagai
+
+salah satu mengukur aliran minyak
+
+bertekanan.
+
+Teori drop tekanan dengan
+
+rumus sbb :
+
+P QbL
+
+Dimana : P = perbedaan tekanan pada seksi kabel tsb.
+
+(tergantung route dan profil dan
+
+satuannya (KN/m²).
+
+Q = nilai aliran (liter per detik).
+
+L = panjang seksi kabel (m).
+
+b = koefisien gesekan minyak pada kabel (MN/m6 ).
+
+atau pipa bulat adalah:
+
+b
+
+2 ,54 n u 10 3 r4
+
+Dimana n = viskositas dari minyak 9centipoise) pada temperatur pengujian.
+
+r = radius bagiandalam (mm) daratau
+
+kabel diukur bagian dalam (r = 7 mm)
+
+Jika Kabelnya single core maka secara teori tekanan nya aliran minyak akan memberikan tekanan pada setiap kabel adalah sbb :
+
+P QbL u 10 (  2 )
+
+Dimana : P = perbedaan tekanan
+
+pada seksi kabel tsb. (tergantung route
+
+dan profil dan satuannya (KN/m²).
+
+Q = nilai aliran (liter per detik).
+
+L = panjang seksi kabel (m).
+
+b = koefisien gesekan minyak pada kabel (MN S/m6 ).
+
+Untuk kabel atau pipa bulat
+
+adalah:
+
+b
+
+2,54 n u 10 3 r4
+
+Dimana n = viskositas dari minyak 9centipoise) pada temperatur pengujian. r = radius bagian dalam (mm) dari pipa
+atau kabel diukur bagian dalam (r = 7 mm)
+perbandingan aliran yang diperoleh dari kabel yang baru selesai dipasang harus diingatkan bahwa hal tsb sudah termasuk semua sambungan pada seksi
+
+369
+
+kabel tsb dan hal tersebut hanya
+
+menjadi
+
+gambaran
+
+dalam
+
+pemeliharaan dan petunjuk.
+
+Perhitungan itu tidak menunjukan
+
+gangguan tak semestinya dari
+
+sistem kabel tsb.
+
+d. Test kooefisient impregnasi.
+
+Setelah selesai secara
+
+lengkap penggelaran kabel dan
+
+penyambungannya, setiap seksi
+
+minyaknya harus diperiksa dengan
+
+tujuan efisiensi dari minyak
+
+impregnasi dengan cara sbb :
+
+manometer air raksa (mercury)
+
+dihubungkan ke kabel dimana
+
+sistim instalasi minyaknya ditutup
+
+dan sisakan sedikit minyak,
+
+biarkan beberapa menit agar
+
+stabil, kemudian diukur jumlahnya
+
+minyak
+
+yang
+
+tarikannya
+
+menyebabkan penurunan tekanan
+
+yang telah diketahui. Koefisient
+
+impregnasi K didifinisikan sebagai
+
+berikut, tidak boleh leibih besar dari 4.5x 10-4 :
+
+K
+
+dV
+
+1
+
+V u dP
+
+Dimana :
+
+dV = volume minyak yang tersisa
+
+(liter)
+
+dP = dorpnya tekanan (mmHg).
+
+V = volume minyak didalam seksi
+
+kabel (liter) termasuk isolasi
+
+penghubung tangki.
+
+Ketika kondisi kabel dalam keadaan alat monitornya terpasang setiap kabel akan diuji secara terpisah.
+
+1 Kg cm 2 7.35559 u 10 2 mmHg 
+1 Kg cm 2 98.067 KN m 2 1 Bar 1.02 kg cm 2
+Dalam membandingkan aliran yang diperoleh pada kabel yang sehat, harus diingat bahwa semua joint akan ikut terukur dan secara gambaran teoritis hanya beberapa saja yang kondisinya baik dan dijadikan referensi.
+Hasil pengujian menunjukan tak semestinya tidak ada gangguan pada sistim. Tetsting ini akan dikerjakan setelah penggantian kabel atau isolasi sambungan.
+8.21. Auxiliary Cable. 1. Continyuity Test
+Setelah kabel digelar maka sebelum disambung diperlukan periksa kontinyuitas dari semua konduktor sebagai konfirmasi.
+2. test tegangan pada lapisan anti karat (anti corrosion sheath)
+Panjang kabel kabel akan tetap setelah digelar dan sebelum disambung tegangan DC 4 kV per mm dari tebalnya lapisan (seperti yang tertulis pada spesifikasi teknik dari kabel tsb) digunakan untuk menguji ketahanan lapisan terhadap armour dan permukaan luar untuk beberapa menit.
+3. test tahanan isolasi
+Setelah kabel digelar maka sebelum disambung harus diukur tahanan isolasi secara individu diantara setiap kabel serta terhadap armour.
+370
+
+Menggunakan alat ukur tahanan dengan tegangan operasi 500 Volt DC untuk satu menit dan jangan menggunakan alat dengan tegangan 5000 V dan temperatur 20ºC. Pengukuran tahanan isolasi dilanjutkan lagi setiap kabel telah tersambung dengan kabel yang lain dan hasil tidak boleh lebih kecil dari 50 M/km dan lebih kecil 90 % jika hasil pengukuran lebih besar dari 1000 M/km.
+4. Test Ketahanan Tegangan.
+Setelah lengkap memasang kabel maka kabel tersebut harus diuji ketahanan terhadap tegangan. Ketahanan Tegangan kabel adalah antara konduktor dan konduktor lainnya dan terhadap armournya yang terhubung ketanah. Tegangan dinaikan secara bertahap dan dipertahanankan selama 1 (satu) menit. Beberapa hal yang harus diperhatikan yaitu : Kabel type 15 kV. Maka digunakan tegangan 15 kV DC antara konduktor dan armour. Jika kabel telah dihubungan dengan beban yang mungkin berbentuk koil maka spesifikasi koil dan beban lain sangat diperhatikan dan jika perlu didiskusikan terlebih dulu dengan engineer yang lebih ahli.
+5. Cross Talk.
+Cross talk antara urat (pair) kabel diukur dan tidak boleh lebih jelek lagi dari nilai 74 dB pada frekuensi 1300 Hz dan kondisi kabel pada keadaan seimbang.
+371
+
+BAB IX. PROTEKSI SISTEM PENYALURAN
+
+Relai adalah suatu alat yang bekerja secara otomatis untuk mengatur/ memasukan suatu rangkaian listrik (rangkaian trip atau alarm) akibat adanya perubahan lain.
+
+9.1.Perangkat Sistem Proteksi.
+
+Proteksi
+
+terdiri
+
+dari
+
+seperangkat peralatan yang
+
+merupakan sistem yang terdiri dari
+
+komponen-komponen berikut :
+
+1. Relai, sebagai alat perasa untuk
+
+mendeteksi adanya gangguan
+
+yang selanjutnya memberi
+
+perintah trip kepada Pemutus
+
+Tenaga (PMT).
+
+2. Trafo arus dan/atau trafo
+
+tegangan sebagai alat yang
+
+mentransfer besaran listrik
+
+primer dari sistem yang
+
+I
+
+diamankan ke Relai (besaran listrik sekunder) 3. Pemutus Tenaga (PMT) untuk memisahkan bagian sistem yang terganggu. 4. Baterai beserta alat pengisi (bateray charger) sebagai sumber tenaga untuk bekerjanya relai, peralatan bantu triping. 5. Pengawatan (wiring) yang terdiri dari sirkit sekunder (arus dan/atau tegangan), sirkit triping dan sirkit peralatan bantu.
+Secara garis besar bagian dari Relai proteksi terdiri dari tiga bagian utama, seperti pada blok diagram (gambar.9.1), dibawah ini :
+Ke rangkaian Pemutus/sinyal
+
+Elemen Pembanding
+
+Elemen Pengindera
+
+Elemen Pengukur
+
+Gambar 9.1 . Blok Diagram Relai proteksi
+
++ 372
+
+Masing-masing elemen/bagian mempunyai fungsi sebagai berikut :
+9.1.1.Elemen pengindera.
+Elemen ini berfungsi untuk merasakan besaran-besaran listrik, seperti arus, tegangan, frekuensi, dan sebagainya tergantung relai yang dipergunakan.
+Pada bagian ini besaran yang masuk akan dirasakan keadaannya, apakah keadaan yang diproteksi itu mendapatkan gangguan atau dalam keadaan normal, untuk selanjutnya besaran tersebut dikirimkan ke elemen pembanding.
+9.1.2. Elemen pembanding.
+Elemen ini berfungsi menerima besaran setelah terlebih dahulu besaran itu diterima oleh elemen oleh elemen pengindera untuk membandingkan besaran listrik pada saat keadaan normal dengan besaran arus kerja relai.
+9.1.3. Elemen pengukur/penentu. Elemen ini berfungsi untuk
+mengadakan perubahan secara cepet pada besaran ukurnya dan akan segera memberikan isyarat untuk membuka PMT atau memberikan sinyal.
+Pada sistem proteksi menggunakan Relai proteksi sekunder seperti gambar 9. 2
+Transformator arus ( CT ) berfungsi sebagai alat pengindera yang merasakan apakah keadaan yang diproteksi dalam keadaan normal atau mendapat gangguan.
+
+Sebagai alat pembanding sekaligus alat pengukur adalah relai, yang bekerja setelah mendapatkan besaran dari alat pengindera dan membandingkan dengan besar arus penyetelan dari kerja relai.
+Apabila besaran tersebut tidak setimbang atau melebihi besar arus penyetelannya, maka kumparan Relai akan bekerja menarik kontak dengan cepat atau dengan waktu tunda dan memberikan perintah pada kumparan penjatuh (trip-coil) untuk bekerja melepas PMT. Sebagai sumber energi/penggerak adalah sumber arus searah atau baterai.
+Gambar 9.2. Rangkaian Relai proteksi sekunder
+Relai
+C
+Rangkaian
+9.1.4. Fungsi dan Peranan Relai Proteksi
+Maksud dan tujuan pemasangan Relai proteksi adalah untuk mengidentifikasi gangguan dan memisahkan bagian jaringan yang terganggu dari bagian lain yang masih sehat serta sekaligus mengamankan bagian yang masih
+373
+
+sehat dari kerusakan atau kerugian
+
+yang lebih besar, dengan cara :
+
+1. Mendeteksi adanya gangguan
+
+atau keadaan abnormal lainnya
+
+yang dapat membahayakan
+
+peralatan atau sistem.
+
+2. Melepaskan
+
+(memisahkan)
+
+bagian sistem yang terganggu
+
+atau yang mengalami keadaan
+
+abnormal lainnya secepat
+
+mungkin sehingga kerusakan
+
+instalasi yang terganggu atau
+
+yang dilalui arus gangguan
+
+dapat dihindari atau dibatasi
+
+seminimum mungkin dan
+
+bagian sistem lainnya tetap
+
+dapat beroperasi.
+
+3. Memberikan
+
+pengamanan
+
+cadangan bagi instalasi lainnya.
+
+4. Memberikan
+
+pelayanan
+
+keandalan dan mutu listrik yang
+
+tbaik kepada konsumen.
+
+5. Mengamankan
+
+manusia
+
+terhadap bahaya yang
+
+ditimbulkan oleh listrik.
+
+9.2. Syarat-syarat Relai Proteksi
+Dalam perencanaan sistem proteksi, maka untuk mendapatkan suatu sistem proteksi yang baik diperlukan persyaratan-persyaratan sebagai berikut :
+
+9.2.1. Sensitif.
+Suatu Relai proteksi bertugas mengamankan suatu alat atau suatu bagian tertentu dari suatu sisitem tenaga listrik, alat atau bagian sisitem yang termasuk dalam jangkauan pengamanannya.
+Relai proteksi mendetreksi adanya gangguan yang terjadi di daerah pengamanannya dan harus cukup sensitif untuk mendeteksi
+
+gangguan tersebut dengan rangsangan minimum dan bila perlu hanya mentripkan pemutus tenaga (PMT) untuk memisahkan bagian sistem yang terganggu, sedangkan bagian sistem yang sehat dalam hal ini tidak boleh terbuka.
+
+9.2.2. Selektif.
+
+Selektivitas dari relai proteksi
+
+adalah suatu kualitas kecermatan
+
+pemilihan dalam mengadakan
+
+pengamanan. Bagian yang terbuka
+
+dari suatu sistem oleh karena
+
+terjadinya gangguan harus sekecil
+
+mungkin, sehingga daerah yang
+
+terputus menjadi lebih kecil.
+
+Relai proteksi hanya akan
+
+bekerja selama kondisi tidak normal
+
+atau gangguan yang terjadi
+
+didaerah pengamanannya dan tidak
+
+akan bekerja pada kondisi normal
+
+atau pada keadaan gangguan yang
+
+terjadi
+
+diluar
+
+daerah
+
+pengamanannya
+
+9.2.3. Cepat.
+
+Makin cepat relai proteksi
+
+bekerja, tidak hanya dapat
+
+memperkecil kemungkinan akibat
+
+gangguan,
+
+tetapi
+
+dapat
+
+memperkecil
+
+kemungkinan
+
+meluasnya akibat yang ditimbulkan
+
+oleh gangguan.
+
+9.2.4. Andal.
+Dalam keadaan normal atau sistem yang tidak pernah terganggu relai proteksi tidak bekerja selama berbulan-bulan mungkin bertahuntahun, tetapi relai proteksi bila diperlukan harus dan pasti dapat
+374
+
+bekerja, sebab apabila relai gagal
+
+bekerja dapat mengakibatkan
+
+kerusakan yang lebih parah pda
+
+peralatan yang diamankan atau
+
+mengakibatkan bekerjanya relai lain
+
+sehingga daerah itu mengalami
+
+pemadaman yang lebih luas.
+
+.Untuk
+
+tetap
+
+menjaga
+
+keandalannya, maka relai proteksi
+
+harus dilakukan pengujian secara
+
+periodik.
+
+9.2.5. Ekonomis.
+
+Dengan biaya yang sekecilnya-
+
+kecilnya diharapkan relai proteksi
+
+mempunyai
+
+kemampuan
+
+pengamanan yang sebesar-
+
+besarnya.
+
+9.2.6. Sederhana.
+Perangkat relai proteksi disyaratkan mempunyai bentuk yang sederhana dan fleksibel.
+
+9.3. Penyebab Terjadinya Kegagalan Poteksi
+
+Jika
+
+proteksi
+
+bekerja
+
+sebagaimana mestinya, maka
+
+kerusakan yang parah akibat
+
+gangguan mestinya dapat
+
+dihindari/dicegah sama sekali, atau
+
+kalau gangguan itu disebabkan
+
+karena sudah adanya kerusakan
+
+(insulation break down di dalam
+
+peralatan), maka kerusakan itu
+
+dapat dibatasi sekecilnya.
+
+Proteksi yang benar harus
+
+dapat bekerja cukup cepat, selektif
+
+dan andal sehingga kerusakan
+
+peralatan yang mungkin timbul
+
+akibat busur gangguan atau pada
+
+bagian sistem/peralatan yang
+
+dilalalui arus gangguan dapat
+
+dihindari dan kestabilan sistem dapat terjaga.
+Sebaliknya jika proteksi gagal bekerja atau terlalu lambat bekerja, maka arus gangguan ini berlangsung lebih lama, sehingga panas yang ditimbulkannya dapat mengakibatkan kebakaran yang hebat, kerusakan yang parah pada peralatan instalasi dan ketidak stabilan sistem.
+Tangki trafo daya yang menggelembung atau jebol akibat gangguan biasanya karena kegagalan kerja atau kelambatan kerja proteksi. Kegagalan atau kelambatan kerja proteksi juga akan mengakibatkan bekerjanya proteksi lain disebelah hulunya (sebagai remote back up) sehingga dapat mengakibatkan pemadaman yang lebih luas atau bahkan runtuhnya sistem (collapse).
+Kegagalan atau kelambatan kerja proteksi dapat disebabkan antara lain oleh :
+- Relainya telah rusak atau tidak konsisten bekerjanya.
+- Setelan (seting) Relainya tidak benar(kurang sensitif atau kurang cepat).
+- Baterainya lemah atau kegagalan sistem DC suply sehingga tidak mampu mengetripkan PMT-nya.
+- Hubungan kotak kurang baik pada sirkit tripping atau terputus.
+- Kemacetan mekanisme tripping pada PMT-nya karena kotor, karat, patah atau meleset.
+- Kegagalan PMT dalam memutuskan arus gangguan
+375
+
+yang bisa disebabkan oleh arus
+
+gangguanya terlalu besar
+
+melampaui
+
+kemampuan
+
+pemutusan
+
+(interupting
+
+capability), atau kemampuan
+
+pemutusannya telah menurun,
+
+atau karena ada kerusakan.
+
+- Kekurang
+
+sempurnaan
+
+rangkaian sistem proteksi
+
+antara lain adanya hubungan
+
+kontak yang kurang baik.
+
+- Kegagalan saluran komunikasi
+
+tele proteksi.
+
+- Trafo arus terlalu jenuh.
+
+9.4. Gangguan Pada Sistem Penyaluran
+
+Jaringan tenaga listrik yang
+
+terganggu harus dapat segera
+
+diketahui dan dipisahkan dari
+
+bagian jaringan lainnya secepat
+
+mungkin dengan maksud agar
+
+kerugian yang lebih besar dapat
+
+dihindarkan.
+
+Gangguan pada jaringan
+
+tenaga listrik dapat terjadi
+
+diantaranya pada pembangkit,
+
+jaringan transmisi atau di jaringan
+
+distribusi. Penyebab gangguan
+
+tersebut
+
+tersebut
+
+dapat
+
+diakibatkan oleh gangguan sistem
+
+dan non sistem.
+
+9.4.1. Gangguan Sistem
+Gangguan sistem adalah gangguan yang terjadi di sistem tenaga listrik seperti pada generator, trafo, SUTT, SKTT dan lain sebagainya. Gangguan sistem dapat dikelompokkan sebagai gangguan permanen dan gangguan temporer. Gangguan temporer adalah gangguan yang hilang
+
+dengan sendirinya bila PMT terbuka, misalnya sambaran petir yang menyebabkan flash over pada isolator SUTT. Pada keadaan ini PMT dapat segera dimasukan kembali, secara manual atau otomatis dengan AutoRecloser.
+Gangguan permanen adalah gangguan yang tidak hilang dengan sendirinya, sedangkan untuk pemulihan diperlukan perbaikan, misalnya kawat SUTT putus.
+9.4.2. Gangguan Non Sistem
+PMT terbuka tidak selalu disebabkan oleh terjadinya gangguan pada sistem, dapat saja PMT terbuka oleh karena relai yang bekerja sendiri atau kabel kontrol yang terluka atau oleh sebab interferensi dan lain sebagainya. Gangguan seperti ini disebut gangguan bukan pada sistem, selanjutnya disebut gangguan non­ sistem.
+Jenis gangguan non-sistem antara lain :  kerusakan komponen relai ;  kabel kontrol terhubung singkat ;  interferensi / induksi pada kabel
+kontrol.
+9.5. Proteksi Penghantar
+Jaringan tenaga listrik secara garis besar terdiri dari pusat pembangkit, jaringan transmisi (gardu induk dan saluran transmisi) dan jaringan distribusi, seperti diperlihatkan pada gambar 9.3.
+376
+
+PUSAT LISTRIK
+
+TRANSMISI
+
+GARDU INDUK
+
+DISTRIBUSI
+
+P
+
+G
+
+M
+
+Gambar 9.3. Jaringan sistem tenaga listrik
+
+Dalam usaha untuk meningkatkan keandalan penyediaan energi listrik, kebutuhan sistem proteksi yang memadai tidak dapat dihindarkan.
+
+Blok diagram Sistem proteksi Penghantar diperlihatkan pada Gambar 9. 4.
+
+Perintah buka
+
+Transmisi
+
+Masukan besaran arus dan tegangan
+
+Relai Proteksi
+
+Sinyal kirim Sinyal terima
+
+Relai Proteksi
+
+Catu Daya (battere)
+
+Indikasi relai Data Scada Disturbance Recorder
+
+Evaluasi
+
+Gambar 9.4. Blok diagram sistem proteksi Penghantar 377
+
+Sistem proteksi jaringan (SUTT dan SUTET) terdiri dari Proteksi Utama dan Proteksi Cadangan. Relai untuk proteksi utama yang dikenal saat ini : a) Distance Relai
+ Basic atau Step  PUTT  POTT  Blocking b) Differential Relai  Pilot  Current  Phase c) Directional Comparison Relai  Impedance  Current  SuperImposed Proteksi Cadangan adalah sebagai berikut :  Sistem proteksi cadangan lokal : OCR & GFR  Sistem proteksi cadangan jauh : Zone 2 GI remote
+9.6. Sistem Proteksi SUTET
+Pada dasarnya, hanya ada satu pola pengaman SUTET yang dipakai pada sistem transmisi 500 kV di pulau Jawa, yaitu suatu pola yang menggunakan dua Line Protection (LP) berupa Distance Relai (Z) + Tele Proteksi (TP) yang identik, disebut LP(a) dan LP(b). Pada setiap LP terdapat Directional Earth Fault Relai (DEF) sebagai komplemennya. Pola ini selanjutnya dilengkapi dengan Reclosing Relai untuk melakukan SPAR. Pola ini dipakai di hampir seluruh SUTET PLN di
+
+Jawa dan untuk selanjutnya akan disebut sebagai pola standar. Namun demikian, disamping pola yang standar terdapat dua pola lain yang non standar.
+Pola non standar yang pertama mempunyai dua LP, yaitu : i) LP(a) berupa Directional Comparison (DC) dari jenis Non-Impedance Relai, yang di-backup oleh sebuah Distance Relai tanpa Tele Proteksi, ii) LP(b) berupa distance Relai + DEF dengan Tele Proteksi, yang dibackup oleh sebuah Distance Relai tanpa Tele Proteksi. Pola ini hanya digunakan pada SUTET Saguling Cirata 1.
+Pola non standar yang kedua mempunyai LP(a) berupa Phase Comparison yang di backup oleh Distance Relai tanpa Tele Proteksi, dan LP(b) berupa Distance Relai + DEF dengan Tele Proteksi yang dibackup oleh Distance Relai tanpa Tele Proteksi. Pola ini hanya digunakan pada SUTET Saguling Cirata 2.
+
+378
+
+Tabel 9.1. Pola Standar
+
+Pola
+
+Pola standar
+
+Pola
+
+non
+
+standar I
+
+Pola
+
+non
+
+standar II
+
+LPa
+
+Main
+
+Backup
+
+Z+DEF+TP
+
+Z
+
+DC
+
+Z
+
+PC
+
+Z
+
+LPb
+
+Main
+
+Backup
+
+Z+DEF+TP
+
+Z
+
+Z+DEF+TP
+
+Z
+
+Z + TP
+
+Z
+
+9.7. Media Telekomunikasi
+Media PLC dapat digunakan untuk Distance Relai, Comparison Directional Relai, dan Comparison Phase Relai. Media Fibre Optic dapat digunakan untuk Distance Relai, relai directional comparison, relai phase comparison, dan relai current differential.
+Media Micro Wave dapat digunakan untuk distance Relai, relai directional comparison, relai phase comparison, dan relai current differential. Kabel Pilot dapat digunakan untuk relai pilot differential.
+
+9.8. Distance Relai ( Relai Jarak)
+Relai jarak digunakan sebagai pengaman utama (main protection) pada SUTT/SUTET dan sebagai backup untuk seksi didepan. Relai jarak bekerja dengan mengukur besaran impedansi (Z) transmisi dibagi menjadi beberapa daerah cakupan yaitu Zone-1, Zone-2, Zone-3, serta dilengkapi juga dengan teleproteksi (TP) sebagai upaya agar proteksi bekerja selalu cepat dan selektif di dalam daerah pengamanannya.
+Zone-3
+
+Zone-2
+
+Zone-1
+
+Gambar .9.5. Daerah pengamanan relai jarak
+
+9.8.1. Prinsip Kerja Relai Jarak
+Relai jarak mengukur tegangan pada titik relai dan arus gangguan yang terlihat dari relai, dengan membagi besaran tegangan dan
+
+arus, maka impedansi sampai titik terjadinya gangguan dapat di tentukan. Perhitungan impedansi dapat dihitung menggunakan rumus sebagai berikut :
+379
+
+Zf = Vf/If Dimana : Zf = Impedansi (ohm) Vf = Tegangan (Volt) If =Arus gangguan
+Relai jarak akan bekerja dengan cara membandingkan impedansi gangguan yang terukur dengan impedansi seting, dengan ketentuan :
+
+HV APPARATUS
+
+MK
+
+ Bila harga impedansi ganguan lebih kecil dari pada impedansi seting relai maka relai akan trip.
+ Bila harga impedansi ganguan lebih besar dari pada impedansi seting relai maka relai akan tidak trip.
+Gambar 9.6. merupakan block diagram relai jarak yang terpasang di instalasi yang terdiri dari :
+PANEL RELAI
+
+M PMS REL
+PMT
+CT
+M PMS LINE
+
+MCB VT Bus
+
+Close
+
+Trip Rang. Arus
+
+Posisi PMT
+
+PMS
+
+Mekanik PMT
+
+TANAH
+
+Syncro Chek (25)
+Auto Rec (79)
+Distance Relai (21)
+
+MCB VT Line
+
+PANEL PLC
+CR CS
+
+Gambar 9.6. Block diagram relai jarak 280
+
+1. Peralatan tegangan tinggi (HV
+apparatus)  PMT  PMS  CT  PT Line dan Bus
+2. Marshalling Kios  MCB PT  MCB sumber AC/DC  Terminal rangkaian arus (CT)
+dan tegangan (PT).  Terminal limit switch PMT dan
+PMS  Terminal rangkaian trip dan
+reclose
+3. Panel Relai  MCB AC dan DC  Relai Jarak  Relai Lock Out  Aux. Relai 
+4. Panel PLC  Sinyal Kirim (carrier send)  Sinyal terima (carrer reciept)  Sinyal CIS
+
+9.8.2. Pengukuran Impedansi Gangguan Oleh Relai Jarak
+
+Menurut jenis gangguan pada
+
+sistem tenaga listrik, terdiri dari
+
+gangguan hubung singkat tiga fasa,
+
+dua fasa, dua fasa ke tanah dan
+
+satu fasa ke tanah. Relai jarak
+
+sebagai pengaman utama harus
+
+dapat mendeteksi semua jenis
+
+gangguan
+
+dan
+
+kemudian
+
+memisahkan sistem yang terganggu
+
+dengan sistem yang tidak terganggu.
+
+Pada saat terjadi gangguan
+
+tiga fasa yang simetris maka
+
+amplitudo
+
+tegangan
+
+fasa
+
+VR,VS,VT turun dan beda fasa
+
+tetap 120 derajat. Impedansi yang
+
+diukur relai jarak pada saat terjadi
+
+gangguan hubung singkat tiga fasa
+
+adalah sebagai berikut :
+
+Vrelai = VR Irelai=IR ZR= VR /IR
+
+Dimana, ZR = impedansi terbaca oleh relai VR = Tegangan fasa ke netral IR = Arus fasa
+
+9.7.4.Gangguan Hubung Singkat Dua Fasa
+
+Untuk mengukur impedansi
+
+pada saat terjadi gangguan
+
+hubung singkat dua fasa,
+
+tegangan yang masuk ke
+
+komparator relai adalah tegangan
+
+fasa yang terganggu, sedangkan
+
+arusnya adalah selisih (secara
+
+vektoris)
+
+arus-arus
+
+yang
+
+terganggu. Maka pengukuran
+
+impedansi untuk hubung singkat
+
+antara fasa S dan T adalah
+
+sebagai berikut :
+
+V relai I relai
+
+= VS ­ VT = IS - IT
+
+9.8.3. Gangguan Hubung Singkat Tiga Fasa
+381
+
+Sehingga,
+
+ZR
+
+=
+
+VS IS
+
+ VT  IT
+
+Tabel. 9.2. Tegangan dan arus masukan relai untuk gangguan hubung singkat dua fasa
+
+Fasa terganggu R-S S-T T-R
+
+yang Tegangan
+VR-VS VS-VT VT-VR
+
+Arus
+IR - IS IS - IT IR - IT
+
+9.8.5. Gangguan Hubung Singkat Satu Fasa Ke Tanah
+Untuk mengukur impedansi pada saat hubung singkat satu fasa ke tanah, tegangan yang dimasukkan ke relai adalah tegangan yang
+
+terganggu, sedangkan arus fasa terganggu di tambah arus sisa dikali factor kompensasi. Misalnya terjadi gangguan hubung singkat satu fasa R ke tanah, maka pengukuran impedansi dilakukan dengan cara sebagai berikut :
+
+Tegangan pada relai Arus pada relai Arus netral Kompensasi urutan nol Z1=VR/(IR+K0.In)
+
+: Vrelai = VR : I relai = IR+K0.In : In = IR + IS + IT : K0=1/3(Z0 - Z1/Z2)
+
+Tabel.9.3.Tegangan dan arus masukan relai untuk gangguan hubung singkat satu fasa ke tanah
+
+Fasa yang terganggu
+R - N S - N T - N
+
+Tegangan
+VR VS VT
+
+Arus
+IR + K0.In IS + K0.In IS + K0.In
+
+Impedansi urutan nol akan timbul pada gangguan tanah. Adanya K0 adalah untuk mengkompensasi adanya impedansi urutan nol
+
+tersebut. Sehingga impedansi yang terukur menjadi benar.
+382
+
+9.9. Karakteristik Relai Jarak
+Karakteristik relai jarak merupakan penerapan langsung dari prinsip dasar relai jarak, karakteristik ini biasa digambarkan didalam diagram R-X.
+9.9.1. Karakteristik impedansi
+Ciri-ciri nya :
+ Merupakan lingkaran dengan titik pusatnya ditengah-tengah,
+X
+
+sehingga mempunyai sifat non
+
+directional. Untuk diaplikasikan
+
+sebagai pengaman SUTT perlu
+
+ditambahkan relai directional.
+
+ Mempunyai
+
+keterbatasan
+
+mengantisipasi gangguan tanah
+
+high resistance.
+
+ Karakteristik impedan sensitive
+
+oleh perubahan beban,
+
+terutama untuk SUTT yang
+
+panjang sehingga jangkauan
+
+lingkaran impedansi dekat
+
+dengan daerah beban.
+
+ZL
+
+Z1 Z2 Z3 R
+
+Directional
+
+Gambar 9.7. Karakteristik Impedansi
+
+9.9.2. Karakteristik Mho
+Ciri-ciri :
+ Titik pusatnya bergeser sehingga mempunyai sifat directional.
+
+ Mempunyai keterbatasan untuk
+
+mengantisipasi gangguan tanah
+
+high resistance.
+
+ Untuk SUTT yang panjang
+
+dipilih
+
+Zone-3
+
+dengan
+
+karakteristik Mho lensa geser.
+
+383
+
+X ZL
+
+Z1 Z2 Z3 R
+Gambar 9.8. Karakteristik Mho X
+ZL
+
+Z1 Z2 Z3 R
+
+Gambar 9.9. Karakteristik Mho Z1,Z2 parsial Cross-polarise Mho, Z3 Lensa geser
+
+9.9.3. Karakteristik Reaktance
+
+Ciri-ciri :
+
+ Karateristik
+
+reaktance
+
+mempunyai sifat non directional.
+
+Untuk aplikasi di SUTT perlu
+
+ditambah relai directional.
+
+ Dengan seting jangkauan
+
+resistif cukup besar maka relai
+
+reactance dapat mengantisipasi
+
+gangguan tanah tahanan tinggi.
+
+dengan 384
+
+X
+
+Z
+
+Z3 Z2
+R
+
+Gambar 9. 10. Karakteristik Reaktance dengan Starting Mho
+
+9.9.4. Karakteristik Quadrilateral
+
+Ciri-ciri :
+
+ Karateristik
+
+quadrilateral
+
+merupakan kombinasi dari 3
+
+macam komponen yaitu :
+
+reactance, berarah dan resistif.
+
+ Dengan seting jangkauan
+
+resistif cukup besar maka
+
+X
+
+ZL
+
+karakteristik relai quadrilateral
+dapat mengantisipasi gangguan
+tanah dengan tahanan tinggi.  Umumnya kecepatan relai lebih
+lambat dari jenis mho.
+
+Z3
+
+Z2
+
+Z1
+
+R
+
+Gambar 9.11. Karakteristik Quadrilateral
+
+385
+
+9.10. Pola Proteksi
+Agar gangguan sepanjang SUTT dapat ditripkan dengan seketika pada kedua sisi ujung saluran, maka relai jarak perlu dilengkapi fasilitas teleproteksi.
+
+9.10.1. Pola Dasar
+Ciri-ciri Pola dasar :  Tidak ada fasilitas sinyal PLC  Untuk lokasi gangguan antara
+80 ­ 100 % relai akan bekerja zone-2 yang waktunya lebih lambat (tertunda).
+
+Z1
+
+Z2
+
+TZ2
+
+T
+
+Z3
+
+TZ3
+
+TRIP OR
+
+TRIP
+OR
+
+Z1
+
+TZ2
+
+Z2
+
+TZ3
+
+Z3
+
+Z2 = Timer zone 2 TZ3 = Timer zone 3
+
+Gambar 9.12. Rangkaian logic Basic Scheme
+
+9.10.2. Pola PUTT (Permissive
+
+zone-2 bekerja disertai dengan
+
+Underreach Transfer Trip)
+
+menerima sinyal. (carrier
+
+receipt).
+
+Prinsip Kerja dari pola PUTT :
+
+ Bila terjadi kegagalan sinyal
+
+ Pengiriman sinyal trip (carrier
+
+PLC maka relai jarak kembali ke
+
+send) oleh relai jarak zone-1.
+
+pola dasar.
+
+ Trip seketika oleh teleproteksi
+
+ Dapat menggunakan berbeda
+
+akan terjadi bila relai jarak
+
+type dan relai jarak.
+
+.
+
+CS
+
+CS
+
+Z1
+
+Z2
+
+TZ2
+
+TRIP OR
+
+Z1 TRIP
+
+OR
+
+TZ2
+
+Z2
+
+C
+
+AND
+
+AND
+
+C
+
+CS = sinyal kirim CR = sinyal terima
+
+Z2 = trip zone 2 TZ2 = waktu trip zone 2
+
+Gambar 9. 13. Rangkaian logic Pola PUTT 386
+
+9.10.3. Permissive Overreach transfer Trip
+
+Prinsip Kerja dari pola POTT :  Pengiriman sinyal trip (carrier
+send) oleh relai jarak zone-2.  Trip seketika oleh teleproteksi
+akan terjadi bila relai jarak
+
+CS
+
+Z1
+
+Z2
+
+TZ2
+
+TRIP OR
+
+zone-2 bekerja disertai dengan
+menerima sinyal (carrier
+receipt).  Bila terjadi kegagalan sinyal
+PLC maka relai jarak kembali ke
+pola dasar.  Dapat menggunakan berbeda
+type dan relai jarak.
+
+CS
+
+Z1 TRIP
+
+OR
+
+TZ2
+
+Z2
+
+CR
+
+AND
+
+AND
+
+CR
+
+CR = sinyal terima
+
+tZ2 = waktu trip zone 2
+
+Gambar 9.14. Rangkaian logic Pola POTT
+
+9.10.4. Pola Blocking (Blocking
+Scheme) Prinsip Kerja dari pola Blocking :
+ Pengiriman sinyal block (carrier
+send) oleh relai jarak zone-3 reverse.  Trip seketika oleh teleproteksi
+akan terjadi bila relai jarak
+zone-2 bekerja disertai dengan
+
+Z1
+
+Z2
+
+TZ2
+
+TRIP OR
+
+tidak ada penerimaan sinyal
+block. (carrier receipt).  Bila terjadi kegagalan sinyal
+PLC maka relai jarak akan
+mengalami mala kerja.  Membutuhkan sinyal PLC
+cukup half duplex.  Relai jarak yang dibutuhkan
+merk dan typenya sejenis.
+
+Z1 TRIP
+
+OR
+
+TZ2
+
+Z2
+
+CR
+
+AND
+
+AND
+
+CR
+
+Z3
+
+TZ3
+
+Rev
+
+AND
+
+CS
+
+TZ2
+
+Z3
+
+Re
+
+v
+
+CS
+
+AND
+
+Gambar 9. 15. Ranglaian Logic Blocking Scheme 287
+
+9.10.5. Penyetelan Daerah Jangkauan pada Relai Jarak
+
+Local bus
+
+Near and bus
+
+far and bus
+
+Zone-1(A)
+
+Zone-2(A) Zone-1(B)
+
+Zone-3(A) Zone-2(B)
+
+Zone-3(B)
+
+A
+
+B
+
+C
+
+Gambar 9.16. Daerah penyetelan Relai jarak tiga tingkat
+
+Relai jarak pada dasarnya
+
+bekerja mengukur impadansi
+
+saluran, apabila impedansi yang
+
+terukur / dirasakan relai lebih kecil
+
+impedansi tertentu akibat gangguan
+
+( Zset < ZF ) maka relai akan bekerja.
+
+Prinsip ini dapat memberikan
+
+selektivitas pengamanan, yaitu
+
+dengan mengatur hubungan antara
+
+jarak dan waktu kerja relai.
+
+Penyetelan relai jarak terdiri dari
+
+tiga
+
+daerah
+
+pengamanan,
+
+Penyetelan zone-1 dengan waktu
+
+kerja relai t1, zone-2 dengan waktu
+
+kerja relai t2 , dan zone-3 waktu
+
+kerja relai t3 .
+
+9.10.6. Penyetelan Zone-1
+Dengan mempertimbangkan adanya kesalahan-kesalahan dari data saluran, CT, PT, dan peralatan penunjang lain sebesar 10% - 20 % , zone-1 relai disetel 80 % dari panjang saluran yang diamankan. Zone-1 = 0,8 . Z L1 (Saluran) .... Waktu kerja relai seketika, (t1= 0) tidak dilakukan penyetelan waktu .
+9.10.7. Penyetelan Zone-2
+Prinsip peyetelan Zone-2 adalah berdasarkan pertimbanganpertimbangan sebagai berikut :
+
+Zone-2 min = 1,2 . ZL1
+
+388
+
+Zone-2 mak = 0,8 (Z L1 + 0,8. ZL2)
+Dengan : ZL1 = Impedansi saluran yang diamankan.
+ZL1 = Impedansi saluran berikutnya yang terpendek (: )
+Waktu kerja relai t2= 0.4 s/d 0.8 dt.
+9.10.8. Penyetelan zone-3
+Prinsip penyetelan zone-3 adalah berdasarkan pertimbanganpertimbangan sebagai berikut :
+Zone-3min = 1.2 ( ZL1 + 0,8.ZL2 )
+Zone-3mak1 = 0,8 ( ZL1 + 1,2.ZL2 )
+Zone-3mak2 = 0,8 ( ZL1 + k.ZTR )
+Dengan : L1 = Impedansi saluran yang diamankan ZL2 = Impedansi saluran berikutnya
+yang terpanjang Waktu kerja relai t3= 1.2 s/d 1.6 dt.
+9.10.9. Peyetelan zone-3 reverse
+Fungsi penyetelan zone-3 reverse adalah digunakan pada saat pemilihan teleproteksi pola blocking. Dasar peyetelan zone-3 reverse ada dua jenis : x Bila Z3 rev memberi sinyal trip.
+Zone-3 rev = 1.5 Z2-ZL1 x Bila Z3 rev tidak memberi sinyal
+trip. Zone-3 rev = 2 Z2-ZL1.
+9.10.10. Penyetelan Starting
+Fungsi starting relai jarak adalah :
+
+1. Mendeteksi
+
+adanya
+
+gangguan.
+
+2. Menentukan jenis gangguan
+
+dan memilih fasa yang
+
+terganggu.
+
+Prinsip penyetelan starting di bagi
+
+2, yaitu :
+
+1. Starting arus lebih :
+
+I fasa-fasa = 1.2 CCC atau ct
+
+I fasa-netral = 0.1. CCC atau ct
+
+2. Starting impedansi
+
+Zsmin = 1.25 x Zone-3
+
+Zs max= 0.5 x kV/(CCC atau
+
+Ct x¥3)
+
+9.10.11. Penyetelan Resistif reach
+Fungsi penyetelan resistif reach adalah mengamankan gangguan yang bersifat high resistance. Prinsip penyetelan resistif reach (Rb) tidak melebihi dari kreteria setengah beban (1/2 Z beban ). x Untuk system 70 kV :
+Rb = 15 x Zone-1 x k0 x 2. x Untuk system 150 dan 500 kV :
+Rb = 8 x Zone-1 x k0 x 2
+
+9.10.12. Directional Comparison Relai.
+
+Relai penghantar yang prinsip
+
+kerjanya membandingkan arah
+
+gangguan, jika kedua relai pada
+
+penghantar merasakan gangguan
+
+di depannya maka relai akan
+
+bekerja. Cara kerjanya ada yang
+
+menggunakan
+
+directional
+
+impedans, directional current dan
+
+superimposed.
+
+389
+
+A
+
+B
+
+t
+
+DIR
+
+DIR
+
+t
+
+T
+
+T
+
+&
+
+R
+
+Signalling channel
+
+R
+
+&
+
+Gambar 9.17. Directional comparison relai
+
+9.11. Current Differential Relai
+Prinsip kerja pengaman differensial arus saluran transmisi mengadaptasi prinsip kerja diferensial arus, yang membedakannya adalah daerah yang diamankan cukup panjang sehingga diperlukan :  Sarana komunikasi antara ujung-ujung saluran.  Relai sejenis pada setiap ujung saluran.
+Karena ujung-ujung saluran transmisi dipisahkan oleh jarak yang jauh maka masing-masing sisi dihubungkan dengan :  kabel pilot  saluran telekomunikasi : microwave, fiber optic.
+
+End A
+
+End B
+
+I
+
+IA
+
+IB
+
+Relai A
+
+Relai B
+
+Gambar 9.18. Relai arus differensial Transmisi
+
+390
+
+ Tanpa gangguan atau gangguan eksternal IA +IB = 0
+ Keadaan gangguan internal IA +IB z 0 (= IF)
+9.11.1. Pilot Relai
+
+OP
+B
+v
+
+OP
+B
+v
+
+Gambar 9. 19. Balanced Voltage
+
+B I OP
+
+B OP
+
+I
+Gambar 9. 20. Circulating Current
+
+Umumnya diterapkan untuk mengatasi kesulitan koordinasi dengan relai arus lebih pada jaringan yang kompleks atau sangat pendekdan kesulitan koordinasi dengan relai jarak untuk jaringan yang sangat pendek. Pada saluran udara faktor pembatas dari relai ini adalah panjang dari rangkaian pilot, sedangkan pada saluran kabel adalah arus charging kabel dan sistem pentanahan.
+Prinsip kerja relai diferensial arus saluran transmisi yaitu relai
+
+diferensial dengan circulating current atau relai diferensial dengan balanced voltage seperti pada gambar.9.21.
+9.11.2. Phase Comparison Relai
+Prinsip kerja membandingkan sudut fasa antara arus yang masuk dengan arus yang keluar daerah pengaman. Prinsip kerja diperlihatkan pada gambar, 9.21. dimana pada saat gangguan internal output dari comparator memberikan nilai 1
+
+.. 391
+
+A
+
+B
+
+A
+
+B
+
+a. Fasa arus di A
+
+b. Logic fasa arus di A
+
+c. Fasa arus di B
+d. Logic fasa arus di B
+
+Output comparator di A : e = b + d
+Output discriminator
+
+Stability
+
+Gangguan eksternal
+
+Gangguan internal
+
+Gambar 9. 21. Gelombang sudut fasa pada Phase Comparison Relai
+
+9.11.3. Super Imposed Directional Relai
+Elemen directional menggunakan sinyal superimposed
+Superimposed = faulted - unfaulted
+Selama gangguan tegangan dan arus berubah sebesar 'Vr dan 'ir, perubahan ini dikenal sebagai besaran superimposed.
+
+Untuk gangguan di depan : ' Vr
+
+-ø rep dan ' ir mempunyai
+
+polaritas yang berlawanan
+
+sedangkan untuk gangguan di
+
+belakang : ' Vr  -ø rep dan ' ir
+
+mempunyai polaritas yang sama
+
+Arah ditentukan dari persamaan :
+
+Dop = | ' Vr  -ø rep - ' ir | - | '
+
+Vr  -ø rep + ' ir |
+
+Dop positip untuk gangguan arah
+
+depan dan Dop negatip untuk
+
+gangguan
+
+arah
+
+belakang
+
+392
+
+Forward Fault
+
+t = 0
+
+' ir = R
+
+- ' Vr Zs
+' ir
+
+t = 0
+
+' Vr
+
+' ir
+' Vr Zs
+
+' ir =
+
+- ' Vr |Zs|
+
+ -ø s
+
+ZL
+
+Zs
+
+' ir =
+
++ ' Vr Zs + ZL
+
+' ir =
+
++ ' Vr  -ø LS |Zs + ZL|
+
+Gambar 9. 22. Prinsip pengukuran superimposed tegangan dan arus
+
+67G 50G
+67G
+
+Pht 1 Pht 2
+
+Gambar 9. 23. Rangkaian pengukuran Relai tanah selektif
+
+393
+
+9.11.4. Relai tanah selektif (selection ground Relai)
+
+Rangkaian relai tanah selektif
+
+(50G) dihubungkan seperti pada
+
+gambar. Jika ada gangguan satu
+
+fasa ke tanah pada penghantar 1
+
+maka relai 50G akan merasakan
+
+gangguan demikian juga relai
+
+directional
+
+ground
+
+(67G).
+
+Penghantar 1 akan trip karena 50G
+
+kerja dan arus yang dirasakan 67G
+
+penghantar 1 > 67G penghantar 2. Apabila salah satu pmt penghantar lepas relai 50 G tidak akan bekerja. Setting waktu relai 50G umumnya < setting waktu 67G.
+Relai ini dipasang pada penghantar dengan sirkit ganda dan tidak dapat dioperasikan jika ada pencabangan dalam penghantar tersebut (single phi atau single T).
+
+9.11.5. Relai tanah terarah (directional ground Relai) A B C
+
+VRES Gambar 9. 24. Rangkaian open delta trafo tegangan
+
+Relai arah hubung tanah memerlukan operating signal dan polarising signal. Operating signal diperoleh dari arus residual melalui rangkaian trafo arus penghantar (Iop = 3Io) sedangkan polarising signal diperoleh dari tegangan residual. Tegangan residual dapat diperoleh dari rangkaian sekunder open delta trafo tegangan seperti pada Gambar 9.25.
+VRES = VAG + VBG + VCG = 3Vo
+
+9.11.6 Relai Cadangan (Back Up Protection)
+Diperlukan apabila proteksi utama tidak dapat bekerja atau terjadi gangguan pada sistem proteksi utama itu sendiri. Pada dasarnya sistem proteksi cadangan dapat dibagi menjadi dua katagori, yaitu a. Sistem proteksi cadangan lokal
+(local back up protection system)
+394
+
+Proteksi cadangan lokal adalah
+
+proteksi yang dicadangkan
+
+bekerja bilamana proteksi
+
+utama yang sama gagal
+
+bekerja.
+
+Contohnya
+
+:
+
+penggunaan OCR atau GFR.
+
+b. Sistem proteksi cadangan jauh
+
+(remote back up protection
+
+system)
+
+Proteksi cadangan jauh
+
+adalah
+
+proteksi
+
+yang
+
+dicadangkan bekerja bilamana
+
+proteksi utama di tempat lain
+
+gagal bekerja. Proteksi cadangan
+
+lokal dan jauh diusahakan
+
+koordinasi waktunya dengan
+
+proteksi utama di tempat
+
+berikutnya. Koordinasi waktu
+
+dibuat sedemikian hingga
+
+proteksi cadangan dari jauh
+
+bekerja lebih dahulu dari proteksi
+
+cadangan lokal. Hal ini berarti
+
+bahwa kemungkinan sekali
+
+bahwa proteksi cadangan dari
+
+jauh akan bekerja lebih efektif
+
+dari proteksi cadangan lokal.
+
+Dengan penjelasan di atas
+
+berarti bahwa waktu penundaan
+
+bagi proteksi cadangan lokal cukup
+
+lama sehingga mungkin sekali
+
+mengorbankan kemantapan sistem
+
+demi keselamatan peralatan.
+
+Dengan demikian berarti pula
+
+bahwa proteksi cadangan lokal
+
+hanya sekedar proteksi cadangan
+
+terakhir demi keselamatan
+
+peralatan.
+
+9.11.7. Operating Time dan Fault Clearing Time
+
+Kecepatan pemutusan gangguan (fault clearing time) terdiri dari
+
+kecepatan kerja (operating time) Relai, kecepatan buka pemutus tenaga (circuit breaker) dan waktu kirim sinyal teleproteksi. Fault clearing time menurut SPLN 52-1 1984 untuk sistem 150 kV sebesar 120 ms dan untuk sistem 70 kV sebesar 150 ms.
+Besaran fault clearing time berhubungan dengan mutu tenaga listrik di sisi konsumen, batasan Kedip menurut SE Direksi PT PLN (PERSERO) No. 12.E / 012 / DIR / 2000 adalah 140 ms untuk bekerjanya proteksi utama sistem 150 kV dan 170 ms untuk bekerjanya proteksi utama di sistem 70 kV, sedangkan untuk proteksi cadangan maksimum sebesar 500 ms.
+Fault clearing time proteksi cadangan sebesar 500 ms dapat dicapai dengan memanfaatkan proteksi cadangan zone 2 distance Relai dari GI remote. Dari kedua hal di atas maka untuk PLN UBS P3B fault clearing time di sistem 150 kV adalah 120 ms untuk bekerja proteksi utama dan 500 ms untuk bekerja proteksi cadangan, sedangkan di sistem 70 kV adalah 150 ms untuk bekerja proteksi utama dan 500 ms untuk bekerja proteksi cadangan.
+Untuk memenuhi fault clearing time di atas maka perlu ditetapkan batasan operating time dari relai itu sendiri. Dengan mempertimbangkan waktu kerja pmt dan waktu yang diperlukan teleproteksi maka operating time relai proteksi utama di sistem 150 kV adalah tipikal  30 ms dan pada SIR 10 dan reach setting 80 % sebesar  40 ms, sedangkan di sistem 70 kV adalah
+395
+
+tipikal  35 ms dan pada SIR 10
+
+antara lain adalah a/. kerusakan
+
+dan reach setting 80 % sebesar 
+
+instalasi b/. timbulnya masalah
+
+50 ms.
+
+stabilitas
+
+transient,
+
+c/.
+
+9.11.8. Relai Proteksi Busbar.
+
+dimungkinkan OCR dan GFR di sistem bekerja sehingga pemutusan
+
+Sebagai proteksi utama Busbar
+
+menyebar.
+
+adalah relai Differensial, yang
+
+Persyaratan yang diperlukan
+
+berfungsi mengamankan pada
+
+untuk proteksi busbar adalah :
+
+busbar tersebut terhadap gangguan
+
+1. Waktu pemutusan yang cepat
+
+yang terjadi di busbar itu sendiri.
+
+(pada basic time)
+
+Konfigurasi Busbar ada 3 macam :
+
+2. Bekerja untuk gangguan di
+
+1. Busbar tunggal ( Single Busbar ).
+
+daerah proteksinya.
+
+2. Busbar ganda ( Double Busbar ). 3. Tidak bekerja untuk gangguan di
+
+3. Busbar 1,5 PMT.
+
+luar daerah proteksinya.
+
+Gangguan pada busbar relatif
+
+4. Selektfi, hanya mentripkan pmt-
+
+jarang (kurang lebih 7 % )
+
+pmt yang terhubung ke seksi
+
+dibandingkan dengan gangguan
+
+yang terganggu.
+
+pada penghantar (kurang lebih 60
+
+5. Imune terhadap malakerja,
+
+%) dari keseluruhan gangguan [1]
+
+karena proteksi ini mentripkan
+
+tetapi dampaknya akan jauh lebih
+
+banyak PMT.
+
+besar dibandingkan pada gangguan
+
+Jenis/pola proteksi busbar
+
+penghantar, terutama jika pasokan
+
+banyak ragamnya, tetapi yang akan
+
+yang terhubung ke pembangkit
+
+di bahas disini adalah proteksi
+
+tersebut cukup besar.
+
+busbar diferensial dengan jenis low
+
+Dampak yang dapat ditimbulkan
+
+impedans dan high impedans
+
+oleh gangguan di bus jika
+
+gangguan tidak segera diputuskan
+
+..
+
+12
+
+3 45 6
+
+78
+
+12
+
+34
+
+56
+
+78
+
+1
+
+2
+
+R
+
+R
+
+Gambar.9. 25. Wiring diagram sistem proteksi untuk konfigurasi double busbar
+
+396
+
+9. 12. Proteksi Transformator Tenaga
+
+Proteksi transrmator daya
+
+terutama bertugas untuk mencegah
+
+kerusakan transformator sebagai
+
+akibat adanya gangguan yang
+
+terjadi
+
+dalam
+
+petak/bay
+
+transformator, disamping itu
+
+diharapkan juga agar pengaman
+
+transformator dapat berpartisipasi
+
+dalam penyelenggaraan selektifitas
+
+sistem, sehingga pengamanan
+
+transformator hanya melokalisasi
+
+gangguan yang terjadi di dalam
+
+petak/bay transformator saja.
+
+9.12.1. Tujuan pemasangan Relai proteksi Trafo Tenaga.
+
+Maksud
+
+dan
+
+tujuan
+
+pemasangan relai proteksi pada
+
+transformator daya adalah untuk
+
+mengamankan peralatan /sistem
+
+sehingga kerugian akibat gangguan
+
+dapat dihindari atau dikurangi
+
+menjadi sekecil mungkin dengan
+
+cara :
+
+1. Mencegah
+
+kerusakan
+
+transformator akibat adanya
+
+gangguan/ketidak normalan
+
+yang terjadi pada transformator
+
+atau gangguan pada bay
+
+transformator.
+
+2. Mendeteksi adanya gangguan
+
+atau keadaan abnormal lainnya
+
+yang dapat membahayakan
+
+peralatan atau sistem.
+
+3. Melepaskan
+
+(memisahkan)
+
+bagian sistem yang terganggu
+
+atau yang mengalami keadaan
+
+abnormal lainnya secepat
+
+mungkin sehingga kerusakan
+
+instalasi yang terganggu atau
+
+yang dilalui arus gangguan
+
+dapat dihindari atau dibatasi
+
+seminimum mungkin dan
+
+bagian sistem lainnya tetap
+
+dapat beroperasi.
+
+4. Memberikan
+
+pengamanan
+
+cadangan bagi instalasi lainnya.
+
+5. Memberikan
+
+pelayanan
+
+keandalan dan mutu listrik yang
+
+terbaik kepada konsumen.
+
+6. Mengamankan
+
+manusia
+
+terhadap bahaya yang
+
+ditimbulkan oleh listrik.
+
+9.12.2. Gangguan pada Trafo Tenaga
+
+Gangguan pada transformator daya tidak dapat kita hindari, namun akibat dari gangguan tersebut harus diupayakan seminimal mungkin dampaknya. Ada dua jenis penyebab gangguan pada transformator, yaitu gangguan eksternal dan gangguan internal.
+
+1. Ganggauan eksternal.
+
+Gangguan eksternal sumber gangguan- nya berasal dari luar pengamanan transformator, tetapi dampaknya dirasakan oleh transformator tersebut, diantaranya - gangguan hubung singkat pada
+jaringan - beban lebih - surja petir .
+
+2. Gangguan internal
+
+Gangguan internal adalah gangguan yang bersumber dari
+
+397
+
+daerah pengamanan/petak bay
+
+transformator, diantaranya :
+
+- gangguan antar fasa pada
+
+belitan
+
+- fasa terhadap ground antar
+
+belitan transformator
+
+- gangguan
+
+pada
+
+inti
+
+transformator
+
+- gangguan tap changer
+
+- kerusakan bushing
+
+- kebocoran
+
+minyak
+
+atauminyak terkontaminasi
+
+- suhu lebih.
+
+9.12.3. Sistem Pentanahan Titik Netral Trafo Tenaga.
+
+Adapun tujuan pentanahan titik
+
+netral transformator daya adalah
+
+sebagai berikut :
+
+1. Menghilangkan gejala-gejala
+
+busur api pada suatu sistem.
+
+2. Membatasi tegangan-tegangan
+
+pada fasa yang tidak terganggu
+
+(pada fasa yang sehat).
+
+3. Meningkatkan
+
+keandalan
+
+(realibility) pelayanan dalam
+
+penyaluran tenaga listrik.
+
+4. Mengurangi/membatasi
+
+tegangan lebih transient yang
+
+disebabkan oleh penyalaan
+
+bunga api yang berulang-ulang
+
+(restrike ground fault).
+
+5. Memudahkan
+
+dalam
+
+menentukan sistem proteksi
+
+serta memudahkan dalam
+
+menentukan lokasi gangguan
+
+9.12.4. Metoda Pentanahan Titik Netral Trafo Tenaga.
+
+Metoda-metoda pentanahan
+
+titik netral transformator daya
+
+adalah sebagai berikut :
+
+a) Pentanahan
+
+mengambang
+
+(floating grounding)
+
+b) Pentanahan melalui tahanan
+
+(resistance grounding)
+
+c) Pentanahan melalui reaktor
+
+(reactor grounding)
+
+d) Pentanahan langsung (effective
+
+grounding)
+
+e) Pentanahan melalui reaktor
+
+yang impedansinya dapat
+
+berubah-ubah
+
+(resonant
+
+grounding) atau pentanahan
+
+dengan kumparan Petersen
+
+(Petersen Coil).
+
+9.12.5. Jenis Proteksi Trafo Tenaga.
+
+Trafo tenaga diamankan dari berbagai macam gangguan, diantaranya dengan peralatan proteksi (sesuai SPLN 52-1:1983 Bagian Satu, C) :
+x Relai arus lebih x Relai arus hubung tanah x Relai beban lebih x Relai tangki tanah Relai
+ganggauan tanah terbatas (Restricted Earth Fault) x Relai suhu x Relai Bucholz x Relai Jansen x Relai tekanan lebih x Relai suhu x Lightning arrester x Relle differensial
+
+398
+
+.
+
+P51N
+
+NP51
+
+96T
+
+26
+
+87T
+
+63
+
+S51-1 S51-2
+
+PU
+
+64V Gambar 9. 26. Blok Diagram Proteksi Trafo Tenaga
+399
+
+9.13. Relai Arus Lebih (Over Current Relay)
+
+Relai ini berfungsi untuk
+
+mengamankan
+
+transformator
+
+terhadap gangguan hubung singkat
+
+antar fasa didalam maupun diluar
+
+daerah pengaman transformator,
+
+seperti terlhat pada foto dibawah ini
+
+Gambar 8.26 Relai arus lebih
+
+Juga diharapkan relai
+
+ini
+
+mempunyai sifat komplementer
+
+dengan relai beban lebih. relai ini
+
+berfungsi pula sebagai pengaman
+
+cadangan bagi bagian instalasi
+
+lainnya.
+
+9.13.1. Relai Gangguan Tanah Terbatas (Restricted Earth fault Relay )
+
+Mengamankan transformator terhadap tanah didalam daerah pengaman transformator khususnya untuk gangguan didekat titik netral yang tidak dapat dirasakan oleh Relai differensial.
+
+9.13.2. Relai arus lebih Berarah .
+Directional over current Relai atau yang lebih dikenal dengan Relai arus lebih yang mempunyai arah tertentu merupakan Relai
+
+Pengaman yang bekerja karena adanya besaran arus dan tegangan yang dapat membedakan arah arus gangguan. Relai ini terpasang pada Jaringan Tegangan tinggi, Tegangan menengah juga pada pengaman Transformator tenaga dan berfungsi untuk mengamankan peralatan listrik akibat adanya gangguan phasa-phasa maupun Phasa ketanah.
+
+Relai Ini Mempunyai 2 buah parameter ukur yaitu Tegangan dan Arus yang masuk ke dalam Relai untuk membedakan arah arus ke depan atau arah arus ke belakang.
+
+Pada pentanahan titik netral trafo dengan menggunakan tahanan, relai ini dipasang pada penyulang 20 KV. Bekerjanya relai ini berdasarkan adanya sumber arus dari ZCT (Zero Current Transformer) dan sumber tegangan dari PT (Potential Transformers).
+
+Sumber tegangan PT
+
+umumnya
+
+menggunakan
+
+rangkaian Open-Delta, tetapi
+
+tidak menutup kemungkinan ada
+
+yang menggunakan koneksi
+
+langsung 3 Phasa. Untuk
+
+membedakan arah tersebut
+
+maka salah satu phasa dari arus
+
+harus dibandingakan dengan
+
+Tegangan pada phasa yang lain.
+
+x Relai connections
+Adalah sudut perbedaan antara arus dengan tegangan masukan relai pada power faktor satu.
+
+x Relai maximum torque angle
+Adalah perbedaan sudut antara arus dengan tegangan pada relai
+
+400
+
+yang menghasilkan torsi
+
+maksimum.
+
+Max. torque line
+RESTRAIN
+
+Reference V
+Ii
+
+T
+
+I
+
+I
+
+D Iv
+Iv
+
+RESTRAIN
+
+Zero torque line
+
+Gambar 9.28 Diagram phasor Torsi
+
+9.13.3. Relai gangguan hubung tanah.
+Relai ini berfungsi untuk mengamankan transformator gangguan hubung tanah, didalam dan diluar daerah pengaman transformator. Relai arah hubung tanah memerlukan operating signal dan polarising signal. Operating signal diperoleh dari arus residual melalui rangkaian trafo arus penghantar (Iop = 3Io) sedangkan polarising signal diperoleh dari tegangan residual. Tegangan residual dapat diperoleh dari rangkaian sekunder open delta trafo tegangan seperti pada Gambar 9.24
+VRES = VAG + VBG + VCG = 3Vo
+
+9.14. Proteksi Penyulang 20 KV
+Jenis Relai proteksi yang terdapat pada penyulang 20 kV adalah sebagai berikut :
+9.14.1.Relai Arus Lebih ( Over Current Relai )
+Relai ini berfungsi untuk memproteksi SUTM terhadap gangguan antar fasa atau tiga fasa.
+9.14.2. Relai Arus Lebih berarah ( Directional OCR )
+Relai ini berfungsi untuk memproteksi SUTM terhadap gangguan antar fasa atau tiga
+401
+
+fasa dan hanya bekerja pada satu arah saja. Karena Relai ini dapat membedakan arah arus gangguan.
+9.14.3. Relai Hubung Tanah (Ground Fault Relay)
+Relai ini berfungsi untuk memproteksi SUTM atau SKTM dari gangguan tanah. Relai Beban Lebih (Over Load Relai). Relai ini dipasang pada SKTM yang berfungsi untuk memproteksi SKTM dari kondisi beban lebih.
+9.14.4. Relai Penutup Balik Reclosing Relay ).
+Relai ini berfungsi untuk memproteksi SUTM terhadap gangguan antar fasa atau tiga fasa dan hanya bekerja pada satu arah saja. Karena Relai ini dapat membedakan arah arus gangguan.
+9.14.5. Relai Frekwensi Kurang (Under Freqwency Relay)
+Relai ini berfungsi untuk melepas SUTM atau SKTM bila terjadi penurunan frekwensi system.
+9.15. Disturbance Fault Recorder (DFR )
+Disturbance Fault Recorder (DFR) suatu alat yang dapat mengukur dan merekam besaran listrik seperti arus ( A ), tegangan ( V ) dan frekuensi ( Hz ) pada saat sebelum, selama dan setelah gangguanDisturbance Fault Recorder ( DFR ) yang saat ini sudah merupakan suatu kebutuhan, yang dapat membantu merekam data dari
+
+sistem tenaga listrik termasuk
+
+sistem proteksi serta peralatan
+
+terkait lainnya yang pada
+
+akhirnya membantu dalam
+
+analisa dan memastikan bahwa
+
+sistem telah bekerja dengan baik.
+
+DFR akan bekerja secara real
+
+time untuk memonitor kondisi
+
+listrik dan peralatan terkait
+
+lainnya pada saat terjadi
+
+gangguan, karena menggunakan
+
+sistem digital maka semua data
+
+dikonversikan ke bentuk digital
+
+dan disimpan di memori., hasil
+
+monitor tersebut akan tersimpan
+
+secara permanen dalam bentuk
+
+hasil cetakan di kertas dan data
+
+memori.
+
+Manfaat Disturbance Fault
+
+Recorder (DFR )
+
+ Mendeteksi
+
+penyebab
+
+gangguan
+
+ Mengetahui
+
+lamanya
+
+gangguan ( fault clearing time
+
+)
+
+ Mengetahui besaran listrik
+
+seperti Arus (A),Tegangan(V)
+
+dan Frekuensi (F)
+
+ Mengetahui unjuk kerja
+
+sistem proteksi terpasang
+
+ Melihat harmonik dari sistem
+
+tenaga Listrik
+
+ Melihat apakah CT normal /
+
+tidak ( jenuh)  Memastikan bahwa PMT
+
+bekerja dengan baik  Dokumentasi
+
+Pengembangan DFR :  Time Synchronizing (GPS)  Master Station  Monitoring Frekuensi  DC Monitoring
+
+Bagian
+
+dari
+
+DFR
+
+(Disturbance Fault Recorder) :
+
+402
+
+DAU (Data Acquisition Unit), AC/DC Power Supply Communication Channel, Sistem Alarm
+
+ANALOG 16 Channel
+EVENT 32 Channel
+HANNE
+SYNCHR
+
+DAU
+Data Acquisition
+Unit
+
+PRINTER
+COMM
+ALARM RELAi
+
+KE MASTER DFR
+
+DC POWER AC POWER EXTERNAL
+
+KEY BOARD
+& SCREEN
+
+Gambar 9.29 Disturbance Fault Recorder
+
+Mencetak / print out ulang
+
+Record gangguan yang pernah
+
+direkam :
+
+ DFR II harus dalam kondisi
+
+Manual Mode
+
+ Tekan tombol Record Select
+
+display akan tampil Record
+
+Select
+
+ Tekan kunci panah kebawah,
+
+display tampil : Rec No ....
+
+ Setelah ini tekan / masukkan
+
+nomor yang diinginkan kemudian
+
+tekan tombol Enter. Printer akan
+
+bekerja, dan layar akan terbaca
+
+Printing.
+
+ Tunggu
+
+sampai
+
+selesai
+
+mencetak, atau Cancel untuk
+
+membatalkan.
+
+ Jangan lupa kembali ke Auto
+
+setelah selesai, dengan tombol
+
+Auto
+
+ Kita dapat juga memilih nomor
+
+record dengan menggunakan
+
+tombol Panah
+
+Keatas /
+
+Kebawah.
+
+ Apabila nomor record yang akan
+
+dicetak sudahdiperagakan, maka
+
+kita cukup menekan tombol
+
+Enter.
+
+Mencetak Setup Parameter  DFR II harus dalam kondisi
+Manual Mode  Tekan tombol Print Setup  Tekan tombol Panah Kebawah
+kemudian printer akan bekerja
+403
+
+ Tekan sampai selesai mencetak, atau Cancel untuk membatalkan
+ Jangan lupa kembali ke Auto setelah selesai, dengam tombol Auto.
+9.16. Basic Operation
+Switch on : Menyalakan DFR
+Pertama kali dinyalakan DFR II akan memeriksa keadaan didalam rangkaian elektroniknya dan menghitung Memorinya sampai 4096 KB. Setelah semuanya dalam kondisi baik, maka secara otomatis display/peragaan di DFR II akan menampilkan Jam dan Nomor Record yang ada didalam DFR.
+Apabila kita ingin mempercepat pemeriksaan dan test memory, tekan tombol Panah Kebawah dan display akan menampilkan Jam dan Rec No. Misalnya : JJ : MM : SS REC .... 15 : 06:32 REC 041
+Setelah itu tekan tombol Reset Alarm Indicator, maka seluruh lampu Alarm Indicator harus padam/tidak menyal. Apabila ada Alarm Indicator yang menyala, maka lihat petunjuk bagian Trouble Shooting.
+9.16.1 Automatic Mode : Posisi DFR siap/otomatis
+Pada kondisi Jam dan Nomor Record tampil dilayar, dan Status Indicator Led Auto menyala, kondisi ini disebut Automatic Mode. Dalam kondisi ini semua key kecuali Manual Mode dan Reset Alarm dan Sensor Target tidak dapat difungsikan. Pada posisi ini DFR
+
+dalam keadaan siap akan merekam data gangguan/fault secara otomatis. Catatan :
+Dalam kondisi ini Lampu Status Indicator yang menyala adalah: Auto dan Data Memory (kalau ada data ). Apabila Lampu Status Indicator lain ada yang menyala, berarti ada gangguan didalam DFR, contoh lampu Off Line, artinya DFR dalam keadaan tidak siap merkam. Lihat bagian Trouble Shooting.
+
+9,16.2 Manual Mode : Posisi manual operation :
+
+Merubah ke kondisi manual
+
+untuk dirubah / dioperasikan oleh
+
+operator / manusia Pada posisi ini
+
+kita dapat :
+
+ Merubah Parameter dari DFR
+
+ Melakukan
+
+pengetesan/
+
+pemeriksaan
+
+komponen
+
+elektronis
+
+ Meminta rekaman data, ataupun
+
+memanipulasikan data rekaman
+
+Dari kondisi Automatic kita dapat
+
+merubah ke kondisi manual dengan
+
+cara :
+
+Tekan tombol Manual, pada display akan tampil Manual Mode. Berarti kita sudah ada pada posisi Manual dan Lampu Status Manual akan menyala.
+
+9.16.4. Kembali ke posisi / kondisi Automatic mode
+
+Untuk kembali ke posisi Automatic mode, setelah kita selesai dengan posisi Manual mode, kita harus kembali ke tampilan layar Manual Mode, yaitu
+404
+
+dengan menekan tombol Cancel
+
+beberapa kali(tergantung diposisi
+
+mana kita sedang berada). Lalu
+
+tekan tombol Auto, maka pada layar
+
+akan tampil JAM dan Record No
+
+untuk mempercepat peragaan,
+
+tekan tombol Panah Kebawah atau
+
+Cancel.
+
+Cara menganalisa :
+
+1. Pada kondisi normal, arus dan
+
+tegangan akan menggambarkan
+
+sinusoidal ( 50 Hz ) yang
+
+sempurna.
+
+2. Besaran arus dan tegangan
+
+tersebut dapat diukur dengan
+
+memperhatikan skala rekaman,
+
+serta ratio CT dan PT.
+
+3. Setiap trigger karena besaran
+
+analog yang diluar normal, DFR
+
+akan menggambarkan pada
+
+bagian sensor digital, serta
+
+bentuk sinusoidal arus/tegangan
+
+akan berubah menjadi lebih
+
+besar atau Lebih kecil.
+
+4. Apabila perubahan besaran
+
+analog ini diikuti dengan
+
+bekerjanya proteksi maka diikuti
+
+dengan perubahan status input
+
+digital.
+
+5. Bila PMT juga bekerja, maka
+
+dapat dilihat status PMT sebagai
+
+input digital yang berubah.
+
+6. Setiap trigger karena perubahan
+
+status input digital, DFR akan
+
+menggambarkannya
+
+pada
+
+bagian digital, dimana garisnya
+
+akan berubah menjadi terputus
+
+9.17. Auto Recloser.
+
+Saluran udara tegangan tinggi (SUTT/SUTET) merupakan salah satu bagian sistem yang paling sering mengalami gangguan, sebagian besar dari sumber
+
+gangguan tersebut (sekitar 80 %) bersifat temporer[2] yang akan segera hilang setelah Pemutus Tenaga (PMT) trip. Agar kesinambungan pelayanan/ suplai energi listrik tetap terjaga serta batas stabilitas tetap terpelihara maka PMT dicoba masuk kembali sesaat setelah kejadian trip diatas. Dengan memasukan kembali PMT ini diharapkan dampak gangguan yang bersifat temporer tersebut dapat dikurangi Untuk mengurangi dampak gangguan tersebut terhadap keandalan penyediaan tenaga listrik, khususnya pada saat terjadi gangguan temporer, maka pada SUTT/ SUTET tersebut dipasang auto recloser (A/R).
+Pengoperasian auto-recloser diharapkan dapat meningkatkan availability (ketersediaan) SUTT/ SUTET, hal ini berarti peluang (lama dan frekuensi) konsumen terjadi padam dapat dikurangi. Namun sebaliknya, pengoperasian A/R secara tidak tepat dapat menimbulkan kerusakan pada peralatan, sehingga dapat menimbulkan dampak pemadaman meluas serta waktu pemulihan yang lebih lama.
+
+9.17.1. Kaidah Penyetelan A/R Penentuan dead time.
+
+Penentuan dead time harus mempertimbangkan hal berikut :
+
+a. Stabilitas dan sinkronisasi sistem.
+
+x Tidak berpengaruh pada
+
+jaringan
+
+radial
+
+tetapi
+
+berpengaruh pada jaringan
+
+405
+
+yang memiliki lebih dari satu sumber (pembangkit atau IBT). x Dead time dipilih sesuai dengan kebutuhan sistem dan keamanan peralatan.
+
+b. Karakteristik PMT.
+Waktu yang diperlukan oleh PMT untuk trip dan reclose harus diperhitungkan, khususnya untuk A/R cepat. x Waktu de-ionisasi udara seperti tabel 9.4
+
+Tabel 9.4. Waktu de-ionisasi udara Tegangan Sistem (kV) Waktu De-ionisi (detik)
+
+66 110 132 220 275 400
+x Operating time PMT (0.05 - 0.1 detik).
+x Waktu reset mekanik PMT (0.2 detik). Selain itu pengaruh penurunan
+kemampuan PMT karena umur harus dipertimbangkan dalam menentukan pola dan waktu operasi ( lambat atau cepat) A/R.
+c. Karakteristik peralatan proteksi.
+Harus diperhitungkan waktu yang dibutuhkan untuk reset peralatan proteksi.
+d. Penentuan reclaim time.
+1) Reclaim time harus lebih lama dari waktu kerja relai proteksi, namun untuk basic time
+
+0.1 0.15 0.17 0.28 0.3 0.5
+(instanteneous) pertimbangan ini tidak diperlukan. 2) Reclaim time harus memperhitungkan waktu yang diperlukan oleh mekanisme closing PMT agar PMT tersebut siap untuk reclose kembali. Umumnya untuk sistem hidraulik memerlukan waktu 10 detik.
+e. Kriteria Seting Untuk SPAR :
+1). Dead time :
+- lebih kecil dari seting discrepancy dan seting GFR
+- lebih besar dari operating time pmt, waktu reset mekanik pmt, dan waktu pemadaman busur api + waktu deionisasi udara.
+- Tipikal set 0.5 s/d 1 detik.
+
+406
+
+2). Reclaim time :
+- Memberi kesempatan pmt untuk kesiapan siklus O-C-O berikutnya.
+- Tipikal 40 detik.
+f. Kriteria Seting Untuk TPAR
+1). Dead time :
+- lebih besar dari operating time pmt, waktu reset mekanik pmt, dan waktu pemadaman busur api + waktu deionisasi udara.
+- Tipikal set 5 s/d 60 detik.
+2). Seting berbeda untuk kedua sisi :
+- Untuk sumber di kedua sisi maka sisi dengan fault level rendah reclose terlebih dahulu baru kemudian sisi lawannya.
+- Untuk sumber di satu sisi (radial double sirkit) bila tidak terdapat S/C untuk operasi manual yang terpisah dari S/C untuk A/R maka untuk keperluan manuver operasi, reclose pertama dapat dilakukan dari sisi sumber.
+3) SUTT yang tersambung ke pembangkit :
+- A/R untuk SUTT yang kedua sisi tersambung ke Pembangkit maka pola yang dipilih TPAR (inisiate gangguan 1 fasa) dengan seting dead time lebih lama.
+- SUTT yang hanya satu sisi tersambung ke pembangkit maka pola yang dipilih TPAR dengan pola S/C di sisi pembangkit diseting DL/DB out.
+
+4). Reclaim time :
+
+- Memberi kesempatan pmt untuk
+
+kesiapan
+
+siklus
+
+O-C-O
+
+berikutnya.
+
+- Tipikal 40 detik.
+
+g. Faktor Teknis Dalam Pengoperasian Auto Reclose (A/R)
+
+Auto Recloser tidak boleh bekerja pada kondisi, sebagai berikut :
+a. PMT dibuka secara manual atau beberapa saat setelah PMT ditutup secara manual.
+b. PMT trip oleh Circuit Breaker Failure (CBF) atau Direct Transfer Trip (DTT).
+c. PMT trip oleh pengaman cadangan (Z2, Z3, OCR/GFR).
+d. PMT trip oleh Switch On To Fault (SOTF).
+e. Bila relai proteksi SUTT tidak dilengkapi dengan fungsi SOTF, maka perlu ditambahkan sirkit A/R blok untuk menunda fungsi A/R setelah PMT dimasukan secara manual. Lama waktu tunda sirkit A/R blok akan ditentukan kemudian.
+f. PMT trip oleh out of step protection.
+g. Terjadi ketidak normalan peralatan teleproteksi di sisi terima Auto Reclosertidak boleh
+dioperasikan pada : - SKTT - SUTT yang tersambung ke trafo
+dengan sambungan T. Mempertimbangkan dampak terhadap kerusakan peralatan pada saat gangguan permanen maka A/R dioperasikan hanya dengan single shot.
+
+407
+
+Pola A/R yang dapat diterapkan
+
+adalah :
+
+- Auto Recloser cepat untuk 1
+
+(satu) fasa, 3 (tiga) fasa dan 1+3
+
+(satu atau tiga) fasa.
+
+- Auto Recloser lambat untuk 3
+
+(tiga) fasa
+
+Pemilihan pola diatas dengan
+
+mempertimbangkan
+
+batasan-
+
+batasan yang dijelaskan di bawah
+
+ini.
+
+h. Faktor Yang Mempengaruhi Pola
+
+Auto Recloser Pemilihan pola single phase auto reclosing (SPAR) atau three phase auto reclosing (TPAR) dengan waktu reclose cepat atau lambat harus mempertimbangkan batas stabilitas sistem, karaktesitik PMT dan peralatan proteksi yang digunakan. Pertimbangan ini menyangkut besarnya nilai setelan untuk dead time dan reclaim time.
+Pemilihan pola single phase auto reclosing (SPAR) atau three phase auto reclosing (TPAR) dengan waktu reclose cepat atau lambat harus mempertimbang- kan konfigurasi jaringan seperti dibawah ini a. Jaringan radial sirkit tunggal. b. Jaringan radial sirkit ganda. c. Jaringan looping sirkit tunggal. d. Jaringan looping sirkit ganda.
+
+Pemilihan pola A/R dengan
+
+waktu reclose cepat atau lambat
+
+harus
+
+mempertimbangkan
+
+persyaratan pada kedua ujung
+
+saluran antara lain
+
+a. kemungkinan reclose pada
+
+gangguan permanen.
+
+b. kemungkinan gagal sinkron
+
+pada saat reclose.
+
+c. salah satu sisi tersambung ke unit pembangkit.
+d. penutupan dua pmt yang tidak serentak
+
+i Pengoperasian High Speed Auto Recloser
+
+Pengoperasian A/R cepat dapat
+
+diterapkan bila persyaratan di
+
+bawah ini dipenuhi, sebagai berikut:
+
+a. Siklus kerja (duty cycle) dari
+
+PMT sesuai untuk operasi
+
+dengan A/R cepat.
+
+b. Sistem proteksi di semua ujung
+
+saluran bekerja pada basic
+
+time/ instantenous.
+
+c. Kemampuan poros turbin
+
+(terutama yang berporos
+
+panjang) dan belitan stator
+
+generator perlu diperhatikan ,
+
+sehingga pengoperasian high
+
+speed A/R 3 fasa pada
+
+SUTT/SUTET di GI pembangkit
+
+atau yang dekat pembangkit
+
+dilakukan setelah ada
+
+kepastian bahwa operasi high
+
+speed A/R 3 fasa tidak
+
+membahayakan turbin dan
+
+generator.
+
+d. Operasi high speed A/R 3 (tiga)
+
+fasa khususnya pada sistem
+
+500 KV (SUTET) tidak boleh
+
+diterapkan bila hasil studi
+
+menunjukan bahwa high speed
+
+reclosing
+
+akan
+
+dapat
+
+menimbulkan tegangan lebih
+
+transien yang melebihi nilai
+
+desain yang diijinkan.
+
+Penerapan A/R cepat 1(satu) fasa
+
+Dapat diterapkan pada konfigurasi
+
+atau sistem berikut :
+
+a. SUTET
+
+b. SUTT jaringan radial sirkit
+
+tunggal atau ganda.
+
+c. SUTT jaringan looping sirkit
+
+tunggal atau ganda.
+
+408
+
+a. Penerapan A/R cepat 3 (tiga)
+
+fasa Dapat diterapkan pada
+
+konfigurasi atau sistem berikut :
+
+x SUTT jaringan radial sirkit
+
+x tunggal atau ganda.
+
+x SUTT jaringan looping sirkit
+
+tunggal atau ganda.
+
+x Pengoperasian high speed A/R 3
+
+fasa , disamping memberikan
+
+keuntungan pada sistem yaitu
+
+memperbaiki stability margin,
+
+mengurangi
+
+terjadinya
+
+pembebanan kritis akibat
+
+gangguan pada SUTT/SUTET
+
+maupun
+
+pada
+
+saluran
+
+interkoneksi, juga memberikan resiko berupa kemungkian terjadinya gangguan yang lebih parah bila operasi A/R pada saat ada gangguan permanen. Dengan demikian maka
+pengoperasian high speed A/R 3 (tiga) fasa harus didahului dengan keyakinan (berupa hasil studi) bahwa pengoperasian A/R akan memberi manfaat yang besar dengan resiko yang kecil
+
+409
+
+BAB X PEMELIHARAAN SUTT/SUTETI BEBAS TEGANGAN
+
+Saluran Udara Tegangan Tinggi (SUTT) dan Saluran Udara Tegangan Ekstra Tinggi (SUTETI) adalah sarana instalasi tenaga listrik diatas tanah untuk menyalurkan tenaga listrik dari Pusat Pembangkit ke Gardu Induk (GI) atau dari GI ke GI lainnya (antar GI).
+
+SUTT/SUTETI
+
+merupakan
+
+peralatan buatan manusia.
+
+Peralatan ini pada dasarnya bisa
+
+rusak baik karena salah
+
+pengoperasian, kesalahan saat
+
+konstruksi maupun telah melampaui
+
+masa kerjanya (life time).
+
+Pengertian Pemeliharaan adalah
+
+kegiatan yang meliputi:
+
+- Perawatan/pemeriksaan
+
+- Perbaikan
+
+- Penggantian
+
+- Pengujian
+
+10.1. Tujuan Pemeliharaan
+
+paling sederhana hingga yang rumit. Beberapa jenis pemeliharaan antara lain : - Pemeliharaan rutin (Preventive
+Maintenance) - Pemeliharaan Korektif
+(Corrective Maintenance) - Pemeliharaan darurat
+(Emergency Maintenance) - Pemeliharaan yang berdasar
+kondisi / karakter peralatan (Condition Base Maintenance / CBM)
+
+10.2.1. Pemeliharaan Rutin :
+
+Pemeliharaan rutin merupakan
+
+kegiatan / usaha yang secara
+
+periodik
+
+dilakukan
+
+untuk
+
+mempertahankan kondisi jaringan
+
+agar selalu dalam keadaan baik
+
+dengan keandalan dan daya guna
+
+yang optimal.
+
+Dalam
+
+pelaksanaannya
+
+pemeliharaan rutin terdiri dari :
+
+- Mempertahankan kemampuan kerja peralatan
+- Memperpanjang live time peralatan
+- Menghilangkan, mengurangi resiko kerusakan
+- Mengembalikan kemampuan kerja peralatan
+- Mengurangi kerugian secara ekonomis
+- Memberi keyakinan keandalan operasinya
+10.2. Jenis-jensi pemeliharaan
+Banyak metoda pemeliharaan yang dilakukan mulai dari yang
+
+- Pemeliharaan tahunan - Pemeliharan lima tahunan
+
+10.2.2. Pemeriksaan Rutin
+
+Pemeriksaan rutin merupakan pemeriksaan secara visual (inspeksi): - Ground patrol - Climb up inspection
+
+Hasil pemeriksaan merupakan
+
+data yang dapat dipakai:
+
+- Evaluasi / perencanaan/
+
+pengembangan
+
+- Penanggulangan
+
+dan
+
+pencegahan
+
+410
+
+-
+
+Perbaikan / perubahan/
+
+kerusakan
+
+dapat
+
+segera
+
+modifikasi
+
+ditanggulangi yang pada akhirnya
+
+- Penggantian
+
+keandalan penyaluran tenaga listrik
+
+tetap terjaga dengan baik.
+
+10.2.2.1. Ground patrol
+
+10.2.3. Pemeriksaan Sistematis
+
+Ground patrol adalah jenis
+
+pekerjaan
+
+Pemeriksaan
+
+Sistematis
+
+pemantauan/pemeriksaan harian
+
+adalah pekerjaan pengujian yang
+
+terhadap jalur transmisi tanpa
+
+dimaksudkan untuk menemukan
+
+memanjat tower dilakukan oleh Line
+
+kerusakan atau gejala kerusakan
+
+walker secara terjadwal. Obyek
+
+yang tidak dapat ditemukan atau
+
+yang diperiksa adalah :
+
+diketahui pada saat inspeksi untuk
+
+kemudian disusun saran-saran
+
+- Kawat penghantar
+
+perbaikannya.
+
+- Ground wire
+
+- Ruang bebas (Right of
+
+Pelaksanaan Pemeriksaan
+
+Way/ROW)
+
+Sistematis ini lebih luas dan lebih
+
+- Tower dan halamannya
+
+teliti dari pada pemeriksaan rutin.
+
+-
+
+Lingkungan dan aktifitas
+
+Untuk memperoleh tingkat ketelitian
+
+masyarakat sekitarnya
+
+yang tinggi dipergunakan peralatan
+
+bantu.
+
+10.2.2.2. Climb up inspection
+
+Contoh dari pemeriksaan ini
+
+Climb up inspection adalah jenis
+
+misalnya adalah pengujian
+
+pekerjaan pemeriksaan terhadap
+
+kemampuan
+
+isolator
+
+di
+
+tower berikut perlengkapannya
+
+laboratorium, pemeriksaan kondisi
+
+dilakukan oleh Climber dengan cara
+
+sambungan dengan menggunakan
+
+memanjat
+
+tower
+
+pada
+
+Infra red thermovision, pemeriksaan
+
+SUTT/SUTETI yang dalam keadaan
+
+tegangan tembus isolator dengan
+
+bertegangan.
+
+corona detector,
+
+Obyek yang diperiksa adalah: - Besi Tower dan kelengkapannya - Kawat penghantar sekitar tower - Ground wire sekitar tower - Klem pemegang kawat dan
+asesorisnya - Isolator dan asesorisnya - Benda asing yang terdapat
+pada tower , isolator dan kawat
+Melalui pemeriksaan ini diharapkan secara dini dapat ditemukan abnormaly atau kelainan-kelainan yang dapat menimbulkan gangguan. sehingga
+
+Beberapa hal yang mempengaruhi pola pemeliharaan rutin antara lain :
+
+- Kondisi alam setempat
+
+polutif alami, polutif industri,
+
+gempa, kondisi normal,
+
+pertumbuhan
+
+tanaman
+
+sepanjang jalur dan disekitar
+
+jalur, petir, longsoran dan lain
+
+sebagainya.
+
+- Karakteristik kerja peralatan
+
+biasanya berdasarkan buku
+
+petunjuk
+
+pabrik
+
+atau
+
+pengalaman yang terjadi
+
+411
+
+selama ini: isolator gelas yang sering pecah - Sosial kemasyarakatan penggalian liar, pencurian : grounding ­ member tower dan lain sebagainya.
+
+10.2.4. Pemeliharaan Korektif
+
+Pemeliharaan
+
+Korektif
+
+(corrective maintenance) adalah
+
+pekerjaan pemeliharaan yang
+
+dilakukan karena peralatan
+
+mengalami kerusakan atau
+
+memerlukan penyempurnaan.
+
+Pemeliharaan korektif kebanyakan
+
+terjadi karena jarang atau tidak
+
+pernah dilakukan pemeriksaan
+
+rutin.
+
+10.2.5. Pemeliharaan Darurat
+
+Pemeliharaan
+
+Darurat
+
+dilakukan karena telah terjadi
+
+kerusakan pada SUTT/SUTET yang
+
+disebabkan oleh hal-hal diluar
+
+rencana seperti : banjir, gempa
+
+bumi, longsor, gunung meletus,
+
+kebakaran, tertabrak kendaraan
+
+dan lain sebagainya.
+
+Pemeliharaan jenis ini
+
+sifatnya darurat dan memerlukan
+
+penanganan ekstra serta segera
+
+untuk mengatasinya. Biayanya
+
+tentu saja tidak bisa direncanakan
+
+dan mungkin bisa dimasukkan
+
+dalam katagori biaya tak terduga
+
+karena memang kejadiannya diluar
+
+kendali manusia. Salah satu
+
+solusinya ialah memasang tower
+
+emergency.
+
+10.2.6. Pemeliharaan berdasarkan kondisi/karakter peralatan (CBM)
+Pemeliharaan ini tidak lagi berdasar waktu, namun berdasar kondisi/karakter peralatan. Dalam satu tahun bisa saja dilakukan beberapa kali kunjungan atau pemeriksaan tergantung tingkat potensi gangguan.
+Kerusakan yang terjadi menjadi statistik dan dapat disimpulkan sebagai trend peralatan. Namun adakalanya kerusakan akibat fenomena alam yang tidak terlihat sewaktu patroli. Contoh yang dapat dilakukan CBM adalah :
+- Pemeriksaan isolator dan asesoris isolator maupun clamp pada daerah yang polusinya tinggi.
+- Pemeriksaan jarak tower dan lendutan kawat pada kawasan luas yang mengalami longsor secara perlahan
+- Pemeriksaan kondisi pondasi pada daerah longsoran
+- Pemeriksaan isolator pada daerah yang sering tersambar petir
+- Pengukuran nilai pentanahan tower pada daerah pegunungan atau musim kemarau.
+10.2.7. Contoh Pemeliharaan SUTT / SUTET
+Berbagai macam pemeliharaan yang pernah terjadi di jaringan SUTT/ SUTET antara lain : a. Penggantian isolator pecah atau
+rusak lapisan permukaannya
+412
+
+b. Pembersihan isolator karena
+
+polusi
+
+c. Perbaikan kawat rantas
+
+d. Perbaikan kawat putus
+
+e. Pengencangan
+
+klem-klem
+
+jumper
+
+f. Pembersihan kawat dari layang-
+
+layang
+
+g. Ground patrol
+
+h. Climb up inspection
+
+i. Pemeriksaan stabilatas pondasi
+
+tower (leveling, retak)
+
+j. Pemeriksaan
+
+kelengkapan
+
+tapak tower (patok tanda batas
+
+tanah PLN, urugan tanah tapak
+
+tower)
+
+k. Pengecekan
+
+Tahanan
+
+Pembumian
+
+l. Pemeriksaan jarak bebas
+
+konduktor dengan benda di
+
+sekitarnya
+
+m. Perbaikan
+
+tower
+
+yang
+
+mengalami deformasi /
+
+bengkok-bengkok akibat tanah
+
+sekeliling pondasi longsor
+
+n. Pondasi turun/amblas karena
+
+tanah dasar pondasi mengalami
+
+sliding/gelincir oleh arus air
+
+bawah tanah
+
+o. Pengelasan baut-baut tower
+
+untuk mencegah pencurian
+
+p. Perbaikan spacer yang le[pas
+
+dari konduktor
+
+q. Penggantian pentanahan tower
+
+/grounding
+
+r. Penebangan pohon atau antena
+
+komunikasi yang tumbang ke
+
+arah konduktor (diluar row)
+
+s. Penggantian besi tower karena
+
+pencurian
+
+t. Penggantian Tension clamp
+
+konduktor
+
+u. Pemasangan kembali / reposisi
+
+damper yang melorod ke
+
+tengah gawang
+
+v. Penggantian lampu aviasi yang
+
+mati/rusak
+
+w. Penyambungan kembali kawat
+
+yang putus atau rusak berat
+
+x. Penggantian asesoris / clamp
+
+yang karatan
+
+y. Perbaikan klem kawat jumper
+
+yang putus
+
+z. Pemasangan
+
+pengaman
+
+halaman tower
+
+10.3. Prosedur Pemelihan SUTT/SUTET
+
+Langkah kerja pemeliharaan
+
+SUTT/SUTETI adalah :
+
+1. Adanya laporan dari petugas
+
+lapangan maupun masyarakat
+
+atau hasil evaluasi data laporan
+
+yang masuk
+
+2. Melakukan
+
+Analisa
+
+Keselamatan Pekerjaan dengan
+
+meninjau lapangan
+
+3. Membahas hasil AKP dan
+
+rencana tindak lanjut yang
+
+diperlukan
+
+4. Mempersiapkan:
+
+SDM;
+
+peralatan; metoda pengerjaan;
+
+material pengganti maupun
+
+pendukung lainnya dan
+
+organisasi kerja
+
+5. Menjadwalkan pekerjaan dan
+
+persetujuannya
+
+6. Melakukan persiapan pekerjaan
+
+setelah adanya persetujuan
+
+7. Melaksanakan pekerjaan
+
+8. Melakukan evaluasi
+
+9. Membuat laporan kerja
+
+413
+
+10.3.1. Peralatan yang dipelihara
+Peralatan yang dipelihara pada saluran udara tegangan tinggi dan saluran udara tegangan ektra tinggi seperti tabel 10.1. berikut ini
+Tabel 10.1. Peralatan yang dipelihara pada saluran udara tegangan tinggi dan saluran udara tegangan ektra tinggi
+I Ruang Bebas / Lingkungan 1 Jarak pepohonan thd kawat fasa 2 Jarak bangunan thd kawat fasa 3 Jarak pohon terhadap kawat fasa bila tumbang ke arah kawat 4 Jarak bangunan thd kawat fasa bila roboh ke arah kawat 5 Jarak jaring pengaman thd kawat 6 Jarak kawat ke tanah 7 Jarak kawat ke tiang perahu/kapal bila air pasang 8 Kegiatan layang-layang 9 Struktur tanah dekat tiang
+II Tiang / Menara / Tower 1 Konstruksi tiang 2 Batang rangka besi 3 Tangga / baut panjat 4 Penghalang panjat (ACD) 5 Plat rambu bahaya 6 Plat nomor / pht / tanda fasa 7 Baut sambungan rangka 8 Indicator lamp (air traffict light) 9 Cat / galvanis badan tiang 10 Klem kawat grounding 11 Kawat grounding 12 Batang penangkal petir 13 Alat penangkal petir lainnya
+III Isolator 1 Piringan isolator 2 Arcing horn sisi tiang 3 Arcing horn sisi kawat pht. 4 Assesories isolator (pin, dll) 5 Suspension clamp 6 Tension clamp 7 Ikatan isolator 8 Armour rod
+414
+
+9 Posisi rencengan isolator
+IV Pondasi & Halaman Tiang 1 Pondasi / chimney 2 Kaki tiang / stub 3 Tumbuhan di halaman tiang 4 Pagar pengaman halaman tiang 5 Patok batas halaman tiang 6 Stabilitas tanah sekitar hal. tiang 7 Talud pengaman 8 Kegiatan pihak lain di halaman tiang
+V kawat penghantar 1 Kawat fasa 2 Peredam getaran (Vibr. damper) 3 Spacer 4 Midspan compression joint 5 Repair sleeve 6 Jumper wire 7 Sagging 8 Armour rod 9 Jarak antar kawat fasa 10 Indicator lamp (induction)
+VI Kawat Petir & Kawat Optik 1 Kawat petir 2 Peredam getaran (Vibr. damper) 3 Midspan compression joint 4 Repair sleeve 5 Tension clamp 6 Suspension clamp 7 Jumper wire 8 Sagging 9 Armour rod 10 Sign ball (bola pengaman) 11 Klem sambungan ke grounding 12 Kotak sambungan kawat optik 13 Kawat yang turun ke kotak kwt optik
+415
+
+10.3.1.1. Jenis-jenis kelainan.
+
+Jenis-jenis kelainan pada saluran udara tegangan tinggi dan saluran udara tegangan ektra tinggi seperti tabel 10.2
+
+Tabel 10.2 Jenis-jenis kelainan pada saluran udara tegangan tinggi dan saluran udara tegangan ektra tinggi
+
+No. Jenis Kelainan
+
+1
+
+Amblas
+
+2
+
+Andongan rendah
+
+3
+
+Bahaya I
+
+4
+
+Bahaya II
+
+5
+
+Bahaya III
+
+6
+
+Bengkok
+
+7
+
+Benda asing
+
+8
+
+Cat pudar
+
+9
+
+Dekat jalan
+
+10
+
+Erosi
+
+11
+
+Hilang
+
+12
+
+Karatan
+
+13
+
+Kendor
+
+14
+
+Kotor
+
+15
+
+Kritis
+
+16
+
+Longsor
+
+17
+
+Mekar / rantas
+
+18
+
+Melorod
+
+19
+
+Miring
+
+20
+
+Pecah / retak
+
+21
+
+Putus
+
+22
+
+Rusak
+
+23
+
+Semak belukar
+
+24
+
+Tertimbun
+
+25
+
+Tergenang
+
+26
+
+Tidak seimbang
+
+416
+
+10.3.1.2. Jenis-jenis penanggulangan
+Jenis-jenis penanggulangan pada saluran udara tegangan tinggi dan saluran udara tegangan ektra tinggi, seperti tabel 10.3
+
+Tabel 10.3 Jenis-jenis penanggulangan pada saluran udara tegangan tinggi dan saluran udara tegangan ektra tinggi
+
+1
+
+Ditinggikan chimneynya
+
+2
+
+Dinaikkan kawatnya
+
+3
+
+Dibongkar
+
+4
+
+Ditebang / dipangkas
+
+5
+
+Diluruskan
+
+6
+
+Dibersihkan
+
+7
+
+Digalvanis / dicat ulang
+
+8
+
+Ditanggul
+
+9
+
+Diganti
+
+10 Dikencangkan
+
+11 Dibabat
+
+12 Dipasang patok
+
+13 Dinormalkan
+
+14 Diarmor rod / dipress
+
+15 Disambung
+
+16 Diposisikan kembali seperti semula
+
+17 Diperbaiki
+
+18 Diperiksa
+
+19 Diseimbangkan
+
+10.3.1.3. Contoh Abnormality Peralatan 1. Kerusakan pada isolator
+Kerusakan pada isolator dapat dilihat pada gambar 10.1
+
+Gambar 10.1 Kerusakan pada Isolator 417
+
+2. Kerusakan pada menara Kerusakan pada menara dapat dilihat pada gambar 10.2
+Gambar 10. 2 Kerusakan pada menara 3. Kerusakan pada Kerusakan pada isolator gantung
+Kerusakan pada Kerusakan pada isolator gantung dapat dilihat pada gambar 10.3
+Gambar 10. 3 Kerusakan pada isolator gantung 418
+
+3. Kerusakan pada kawat pentanahan Kerusakan pada kawat pentanahan dapat dilihat pada gambar 10.3
+
+Gambar 10. 4 Kerusakan pada kawat pentanahan
+
+10.3.2. Peralatan kerja
+10.3.2.1. Peralatan kerja Pemeliharaan
+- Transportasi peralatan ke-atas/ bawah : tali, katrol dll
+- Lever hoist - Sling - Karpet - Pengait pin isolator - Palu plastik - Kunci-kunci ( Inggris dan
+pas/ring) - Came along (tiang tension) - Conductor lifter (tiang
+suspension) - Shackle - Peralatan bantu - BV lier - Sling panjang - Tambang - Kunci ring-pas - Angle level - Parang - Tang kombinasi
+
+- Ranging meter - Obeng minus besar - Stop meter (5 meter) - Clinometer - Palu godam 5 kilogram - Theodolit - Water pas - Gimpole/ tiang pengangkat - Sling mata itik - Shackle 5/8" - Alat ukur pentanahan (tahanan
+kaki tiang ) - Gergaji besi - Corona detector - Mesin press hydraulic - Infra red thermovision - Kikir plat besar - Rol meter - Chain saw - Teropong - Pakaian kerja - HT bagi koordinator dan
+pengendali mutu Pekerjaan - Mesin potong - Mesin bor - Mesin las
+419
+
+- Tir for - Capstan winch - Capstan hoist - Kunci ring - Kunci sok
+10.3.2.2. Peralatan K3
+- Grounding + stick - Voltage detector - Alat komunikasi / HT - Buku working permit - APD :
+x Topi pengaman
+
+x Kacamata UV x Pakaian kerja x Sabuk pengaman x Lanyard x Sepatu pengaman x Sarung tangan - Rambu-rambu peringatan - Rambu K3 - Kotak P3K - Tandu - Jas hujan - Lampu penerangan
+
+1 2
+
+8
+3 4
+
+3
+
+6
+
+5
+
+1. TOPI PENGAMAN
+2. KACAMATA ULTRA VIOLET (U.V) 3. PAKAIAN KERJA (WERK PACK) 4. LANYARD
+5. SABUK PENGAMAN
+6. SARUNG TANGAN
+7. SEPATU PANJAT
+8. HANDY TALKY (HT)
+
+7
+Gambar 10.5 Peralatan kerja pemeliharaan jaringan 420
+
+10.3.2.3. Meterial Pemeliharaan
+1. Material pengganti existing: isolator; besi diagonal, kawat penghantar, ground wire, dan lain sebagainya
+2. Repair sleeve 3. Mid span joint 4. Armor rod 5. BBM mesin 6. Minyak hydraulic 7. Sakapen 8. Majun 9. Minyak WD4
+
+10.3.3. Petunjuk Pemeliharaan Peralatan
+
+10.3.3.1. Pemeliharaan alat kerja.
+
+1. Setiap peralatan kerja yang
+
+berupa mesin maupun alat ukur
+
+wajib mengikuti buku instruksi
+
+yang dikeluarkan oleh pabrikan
+
+2. Setiap alat kerja wajib diketahui
+
+Safe Working Loadnya (SWL)
+
+3. Setiap beban yang akan
+
+ditanggung oleh alat kerja wajib
+
+diketahui besarannya
+
+4. Setiap
+
+petugas
+
+wajib
+
+mengetahui Safety faktor (SF)
+
+5. Setiap
+
+petugas
+
+wajib
+
+mengetahui
+
+tanda-tanda
+
+kerusakan pada alat kerja
+
+6. Setiap alat kerja tidak boleh
+
+digunakan kecuali sebagai
+
+fungsinya
+
+10.3.3.2. Pemeliharaan Peralatan Transmisi
+
+Pemeliharaan
+
+peralatan
+
+transmisi wajib mengikuti prosedur
+
+kerjanya atau Instruksi Kerja, agar
+
+tercapai satu kesepakatan untuk
+
+meyelesaikan pekerjaan secara runtut/bertahap; tertib; lancar dan aman.
+Instruksi Kerja Peralatan transmisi antara lain:
+1. Pemeliharaan isolator 2. Pemeliharaan kawat
+penghantar 3. Pemeliharaan ground wire 4. Pemeliharaan rangka tower 5. Pemeliharaan halaman tower 6. Pemeliharaan ruang bebas
+10.3.4. Pelaporan Pekerjan Pemeliharan
+Pekerjaan pemeliharaan yang telah diselesaikan harus dilaporkan ke pemberi tugas yang memuat : - Proses persiapan - Tanggal, hari, jam pelaksanaan - Personel yang terlibat - Organisasi kerjanya - Peralatan yang dipakai - Material yang digunakan - Tata laksana kerja - Kendala yang dihadapi - Solusi yang telah diterapkan - Pelaksanaan/penerapan K3 - Masalah lingkungan - Biaya yang telah dikeluarkan - Saran dan usulan untuk
+perbaikan - Kesimpulan
+Manfaat laporan pekerjaan : 1. Data 2. Bahan analisa untuk pebaikan
+dan pengembangan 3. Penilaian unjuk kerja 4. Lain-lain
+
+421
+
+Lampiran : A
+DAFTAR PUSTAKA Bernad Grad ( 2002) Basic Electronic Mc Graw Hill Colage New- York David E Johnson (2006) Basic Electric Circuit Analisis John Wiley & Sons.Inc New- York Diklat PLN Padang . (2007) Transmisi Tenaga Listrik Padang Diklat PLN Pusat . (2005) Transmisi Tenaga Listrik Jakarta Fabio Saccomanno (2003) Electric Power System and Control John Wiley & Sons.Inc New- York John D. McDonald (2003) Electric Power Substation Engginering CRC Press London Jemes A.Momoh (2003) Electric Power System CRC Press London Luces. M . (1996) Electric Power Distribution and Transmision Prantice Hall New- York Oswald (2000) Electric Cables for Pewer Transmision John Wiley & Sons.Inc New- York Paul M Anderson (2000) Analisis of Faulted Power System John Wiley & Sons.Inc New- York Panagin.R.P ( 2002) Basic Electronic Mc Graw Hill Colage New- York Stan Stawart (2004) Distributet Swichgear John Wiley & Sons.Inc New- York Stepen L. Herman (2005) Electrical Transformer John Wiley & Sons.Inc New- York Hutauruk (2000)Tranmisi Daya listrik Erlangga Jakarta.
+A - 1

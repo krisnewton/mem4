@@ -1,0 +1,324 @@
+BAGIAN PENGEMBANGAN PEGAWAI SETDITJEN PERBENDAHARAAN
+2011
+Modul Pembelajaran Microsoft Excel 2007 Tingkat Mahir
+© 2011 Bagian Pengembangan Pegawai
+
+Daftar Isi
+Contents
+Daftar Isi............................................................................................................................................................. 2 MODUL 1. BEKERJA DENGAN TABEL ..................................................................................................... 4
+1. Format Style ....................................................................................................................................... 4 1.1 Conditional Formatting............................................................................................................ 4 1.2 Format as Table......................................................................................................................... 5 Untuk merubah tampilan tabel atau sel, perubahan berupa warna, garis, dan sangat cocok untuk isi tabel yang berupa angka. Hasil akhir bisa Sort dan Filter Data....................................... 5 1.3 Cell Styles ................................................................................................................................... 6
+MODUL 2. MENGATUR LEMBAR KERJA ................................................................................................. 7 1. Split, Freeze Table ............................................................................................................................ 7 1.1 Split Table ................................................................................................................................... 7 1.2 Frezee Table ............................................................................................................................... 7
+MODUL 3. FUNGSI-FUNGSI LANJUTAN .................................................................................................. 9 1. Fungsi-Fungsi Matematika ............................................................................................................. 9 2. Fungsi-fungsi Teks......................................................................................................................... 10 3. Fungsi-fungsi tanggal dan waktu ............................................................................................... 11 4. Fungsi-fungsi logika ...................................................................................................................... 12 5. Fungsi-fungsi lookup dan Referensi ......................................................................................... 13 6. Fungsi-fungsi Statistik ................................................................................................................. 14 7. Fungsi-fungsi Finansial................................................................................................................. 15
+Modul 4. Mencari data................................................................................................................................ 19 1. Menggunakan Find ......................................................................................................................... 19 2. Menggunakan Replace .................................................................................................................. 20 3. Mengurutkan data ........................................................................................................................... 20 4. Menyaring data ................................................................................................................................ 21 5. Validasi data ..................................................................................................................................... 22 6. Konsolidasi data ............................................................................................................................. 24 7. Mengelompokan data..................................................................................................................... 25 8. Membuat Subtotal........................................................................................................................... 26
+MODUL 5. SORT, FILTER, SUBTOTAL, PIVOTTABLE ........................................................................ 28 1. Sort ..................................................................................................................................................... 28 2. Filter.................................................................................................................................................... 29 3. Group dan UnGroup....................................................................................................................... 30
+
+4. SubTotal ............................................................................................................................................ 30 5. Pivot Table & Pivot Chart.............................................................................................................. 32 MODUL 6. SHARING WORKBOOK .......................................................................................................... 35 1. Cara membuat sharing workbook adalah sebagai berikut :................................................ 35 2. Penyuntingan shared workbook : .............................................................................................. 36 3. Menghapus Pengguna dari shared workbook ........................................................................ 37 4. Penyelesaian konflik perubahan di shared workbook .......................................................... 37 5. Menghapus sharing a workbook ................................................................................................ 38
+
+MODUL 1. BEKERJA DENGAN TABEL
+Pada bagian ini, kita akan membahas, bagaimana bekerja menggunakan sel, dimana data-data yang ada didalamnya bisa kita rubah dan disesuaikan dengan keinginan kita. Karena angka dalam pandangan Excel berbeda dengan angka dalam pandangan kita, karena yang dibaca Excel adalah Code.
+1. Format Style
+1.1 Conditional Formatting
+Untuk merubah tampilan tabel atau sel, perubahan berupa warna dan garis sangat cocok untuk isi tabel yang berupa angka. Bisa disesuaikan dengan berbagai kondisi dan menyebabkan warna tiap sel berbeda, sesuai dengan nilai tiap sel.
+Cara menggunakannya : 1. Blok tabel
+2. Pilih Conditional Formatting
+
+3. Pilih list option yang tersedia : a. Highlight Sels Rules, menampilan warna sel yang berbeda dengan syarat nilai tertentu. b. Top/Bottom Rules, Menampilkan warna sel yang berbeda dengan syarat 10 teratas atau terbawah. c. Data Bars, Menampilkan warna bar dengan syarat dari nilai terendah sampai tertinggi. d. Color Scales, Menampilkan skala warna yang berbeda dengan syarat dari nilai terendah sampai tertinggi. e. Icon Sets, Menampilkan icon dengan syarat dari nilai terendah sampai tertinggi. f. New Rule, membuat syarat baru g. Clear Rules, menghapus syarat yang sudah ada. h. Manage Rules, mengatur syarat-syarat yang sudah ada.
+4. Klik pada pilihan style
+1.2 Format as Table
+Untuk merubah tampilan tabel atau sel, perubahan berupa warna, garis, dan sangat cocok untuk isi tabel yang berupa angka. Hasil akhir bisa Sort dan Filter Data.
+Cara Menggunakannya, 1. Blok Area Tabel
+2. Klik Format as Table
+
+3. Klik Style yang ada, atau buat Style baru di New Table Style
+1.3 Cell Styles
+Untuk merubah tampilan tabel atau sel yang ada dalam tabel, perubahan berupa warna, garis, warna latar, isi tabel bisa berupa teks dan angka. Cara menggunakannya 1. Blok Area Tabel
+2. Klik Cell Style
+3. Klik Style yang ada, atau buat Style baru di New Cell Style.
+
+MODUL 2. MENGATUR LEMBAR KERJA
+1. Split, Freeze Table
+1.1 Split Table Salah satu fungsi dari Excel untuk membagi tampilan menjadi 4 (empat) bagian sehingga kita bisa bekerja dengan 4 posisi workbook yang berbeda.
+Cara melakukannya Split, Klik View > Split
+1.2 Frezee Table
+Berfungsi untuk membekukan beberapa kolom atau baris dari tabel, sehingga bagian yang dibekukan tidak akan hilang dari tampilan ketika workbook dikerjakan. Caranya sebagai berikut:
+
+1. Blok Kolom atau baris yang akan di Freeze
+2. Klik Icon Frezze Panes
+- Freeze Panes untuk Freeze Standar - Freeze Top Row untuk Freeze Baris teratas - Freeze First Column untuk Freeze Kolom Pertama
+
+MODUL 3. FUNGSI-FUNGSI LANJUTAN
+Pada bagian ini, akan dibahas mengenai fungsi-fungsi yang disediakan oleh Excel 2007 disertai dengan contoh dan studi kasus. Ingat bahwa input data, dengan fungsi dilakukan dengan klik tombol Function yang terletak disebelah kiri formula bar. Atau dengan melihat dari Icon di Menu Formulas (Function Library).
+1. Fungsi-Fungsi Matematika
+1. Klik Insert Function, Maka akan keluar form
+2. Untuk menggunakan fungsi Matematika, pilihlan drop down Or Select a Category, pilihlah Math & Trig.
+
+3. Misal : Isilah kolom A mulai dari baris pertama hingga ke 10. Lalu masukkan suatu formula di kolom B (lihat tabel dibawah ini ). Dan anda dapat mencoba cara memasukkannya, dengan melihat contoh dibawah. Hasil perhitungan dapat dilihat didalam tabel
+2. Fungsi-fungsi Teks
+Fungsi-fungsi teks digunakan dalam pengolahan nilai sel yang berupa string atau teks. Dan dapat melihat kategori fungsi teks dengan mengklik drop down Or Select A Category pada Text. Ini beberapa fungsi dalam teks
+- LEFT (mengambil beberapa karakter isi sel yang berupa teks dari kiri) Contoh : =LEFT("BEBEK";3) hasilnya "BEB", karena diambil 3 karakter dari kiri
+- RIGHT (mengambil beberapa karakter isi sel yang berupa teks dari kanan) Contoh : =RIGHT("BEBEK";3) hasilnya "BEK", karena diambil 3 karakter dari kanan
+- MID (mengambil beberapa karakter isi sel yang berupa teks dari tengah) Contoh : =MID("BEBEK";3;2) hasilnya "BE", karena diambil 2 karakter, dimulai dari karakter ke 3.
+- UPPER (mengubah karakter isi sel menjadi Kapital)
+
+Contoh : =UPPER("bebek";3) hasilnya "BEBEK" - LOWER (mengubah karakter isi sel menjadi kecil)
+Contoh : =LOWER("BEBEK") hasilnya "bebek" - PROPER ( mengubah karakter isi sel, huruf depan Besar)
+Contoh : =PROPER("BEBEK") hasilnya "Bebek" - TEXT (mengubah angka menjadi teks dengan jumlah desimal sesuai yang dinyatakan pada
+argumen format_teks.) Contoh : =TEXT (100/4;"0.00") hasilnya 25.00 - CHAR (mengubah angka antara 1 sampai 255 menjadi karakter kode ASCII) Contoh : =CHAR(125) menghasilkan }. - DOLLAR (mengubah angka menjadi teks mata uang dolar, disertai pembulatan dan jumlah desimal menurut argumen jumlah_desimal) Contoh : DOLLAR(22/7,6) menghasilkan $3.142857 - CODE (mengubah karakter pertama menjadi kode ASCII) Contoh : =CODE("Infor") menghasilkan 73, =CODE("Ikan") menghasilkan 73 juga. - LEN (Menghitung banyaknya karakter dalam satu sel) Contoh : =LEN("BEBEK") hasilnya 5 - CONCATENATE (menggabungkan isi 2 sel menjadi 1) Contoh : =CONCATENATE ("BEBEK ","BAKAR") hasilnya BEBEK BAKAR
+3. Fungsi-fungsi tanggal dan waktu
+Fungsi tanggal dan waktu digunakan untuk memanipulasi tipe data yang berupa tanggal dan waktu. Caranya pilih drop down Or Select A Category pada Date &Time, yang meliputi fungsi :
+- DATE, Memasukkan angka, menjadi tahun, bulan, tanggal - NOW, Untuk mengetahui tanggal dan waktu sekarang - DATEVALUE, Untuk mengetahui nilai dari suatu tanggal yang dirubah dari Teks - DAY, Untuk mengetahui nilai dari suatu hari yang dirubah dari Code - DAYS360, Untuk mengetahui jarak antara 2 tanggal, diasumsikan 1 bulan ada 30 hari - MONTH, Untuk mengetahui nilai dari Bulan yang dirubah dari Code
+
+- HOUR, Untuk mengetahui nilai dari Jam yang dirubah dari Code - MINUTE, Untuk mengetahui nilai dari Menit yang dirubah dari Code - SECOND, Untuk mengetahui nilai dari Detik yang dirubah dari Code - TIME, Merubah angka, menjadi jam, menit, detik - TIMEVALUE, Untuk mengetahui nilai dari suatu tanggal yang dirubah dari Teks - TODAY, Untuk mengetahui tanggal sekarang. - WEEKDAY, Untuk mengetahui nilai dari Minggu yang dirubah dari Code - YEAR, Untuk mengetahui nilai dari Tahun yang dirubah dari Code - NETWORKDAYS, mencari hari kerja antara 2 tanggal - WORKDAYS, menjelaskan jumlah hari kerja setelah tanggal
+=NOW()
+=TODAY()
+4. Fungsi-fungsi logika
+1. Fungsi logika digunakan untuk membandingkan dua atau lebih argument untuk menghasilkan nilai True atau False
+2. Bentuk penulisan logika adalah IF(logical test,value_if_true,value_if_false - IF adalah fungsi logika - Logical test adalah nilai atau ekspresi yang dipakai untuk mengevaluasi benar atau salah - Value_if_true adalah nilai yang dihasilkan jika evaluasi benar - Value_if_false adalah nilai yang dihasilkan jika evaluasi salah - Sebagai pembanding anatarargumen gunakan tanda =, >, <, <=, dan >=.
+3. Contoh : =IF(J5>=8;"baik Sekali";IF(J5>=7;"baik";IF(J5>=6;"cukup";IF(J5>=5;"kurang"))))
+
+Pilihlah drop down or Select A Category, pilihlah LOGICAL, yang meliputi kategori :
+- AND, menggabungkan logika1 dengan logika lainnya, bersifat dependen, saling bergantung antar syaratnya
+- OR, menggabungkan logika1 dengan logika lainnya, bersifat independen, saling terpisah, jika salah satu syarat sudah terpenuhi, maka syarat lain tidak berlaku
+- NOT, pilihan dari hasil logika, jika tidak terpenuhi, maka hasil outputnya yang akan keluar. - FALSE, syarat dari logika, jika dalam kondisi salah - TRUE, syarat dari logika, jika dalam kondisi benar - IF, membdaningkan 2 kondisi dengan syarat tertentu - SUMIF, menjumlahkan, dengan syarat bergantung dengan kondisi. 5. Fungsi-fungsi lookup dan Referensi 1. Fungsi Lookup & Reference adalah untuk mengambil atau membaca informasi dari table lain untuk
+dijadikan referensi ke dalam table yang sedang dianalisis 2. Rumus yang harus diisi dalam menggunakan Lookup adalah:
+a. =VLOOKUP(lookup_value,table_array,col_index_num), Apabila data refrensi dalam bentuk kolom (Vertical)
+
+b. =HLOOKUP (lookup_value,table_array,col_index_num), Apabila data refrensi dalam bentuk baris (Horizontal)
+- =Vlookup atau =Hlookup adalah rumus menggunakan fungsi lookup - Lookup_value, adalah nilai yang digunakan sebagai dasar awal melakukan refrensi pada table
+yang sedang dianalisis - Table_Array, adalah rangkaian sel pada table informasi (table yang dipakai untuk mencari
+informasi) - Col_index_num, adalah posisi nomor kolom untuk Vlookup) atau baris untuk Hlookup, yang
+dipakai untuk pencarian informasi
+6. Fungsi-fungsi Statistik
+Untuk menggunakan fungsi Statistik, maka pilihlah drop down Or Select A Category pada Statistikal. Bagi orang yang berkutat dimasalah statistik, maka fungsi-fungsi tersebut tidak akan asing lagi. - Max (Range) : mencari nilai terbesar dari suatu range.
+
+- Min (Range) : mencari nilai terkecil dari suatu range. - Sum (Range) : mencari jumlah dari isi data yang terdapat pada suatu range. - Average (Range) : mencari nilai rata-rata dari suatu range. - Count (Range) : mencari jumlah data yang terdapat pada suatu range - Ceiling (Sel,Signifikan) : mencari pembulatan keatas, yang mendekati angka signifikan, misal 2,5
+dibulatkan mendekati 1, hasilnya 3 - Floor (Sel,Signifikan) : mencari pembulatan keatas, yang mendekati angka signifikan, misal 2,5
+dibulatkan mendekati 1, hasilnya 2 - Roundup (Sel,digit) : mencari pembulatan keatas bilangan desimal. Misal 3,2 dibulatkan desimalnya
+0, maka hasilnya 4 - Rounddown (Sel,digit) : mencari pembulatan kebawah bilangan desimal. Misal 3,2 dibulatkan
+desimalnya 0, maka hasilnya 3
+Cara pengerjaan : Jumlah Nilai pada cell F6 adalah "=Sum(C6:E6)" atau "+C6+D6+E6" Total Nilai Kelas pada cell C16 adalah "=Sum(C6:C15)" Rata-rata Nilai Kelas pada cell C17 adalah "=Average(C6:C15)" Nilai Terendah pada cell C18 adalah "=Min(C6:C15)" Nilai Terbesar pada cell C19 adalah "=Max(C6:C15)" Jumlah Data pada cell C20 adalah "=Count(C6:C15)"
+7. Fungsi-fungsi Finansial
+Menu Finansial dilakukan dengan menklik drop down Or Select A Category pada Finansial. Berikut disajikan beberapa kasus penggunaan fungsi Finansial.
+
+Contoh : Dani memiliki target untuk membeli sebuah sepeda motor seharga Rp. 10.000.000,- satu tahun mendatang. Jika bunga bank 15 % per tahun berapa jumlah uang yang harus ditabung Dani sekarang Untuk menjawabnya, gunakanlah fungsi PV (Present Value).
+Contoh : Dani akan meminjam dana ke bank, tiap bulan dia akan menyicil sebesar Rp.2.000.000,- , sedangkan bunga per tahun dari bank adalah 5%, dan Dani akan meminjam selama 5 tahun, berapa besar bunga yang harus dibayar Dani tiap bulan? Untuk menjawabnya, gunakanlah fungsiPMT.
+
+Kasus 1:
+
+Suatu kelas I SD ABC, ditentukan bahwa naik tidaknya siswa di SD tersebut bila menjalani 4 kali ujian, yaitu Ujian I,Ujian II, Ujian III, dan Ujian ke IV. Kebijakan dari sekolahan tersebut menentukan presentase nilai ujian untuk menentukan nilai akhir adalah sebagai berikut :
+- Ujian I 15% - Ujian II 30% - Ujian III 15 % - Ujian IV 40 %
+
+Jika nilai akhir lebih dari atau sama dengan 60, maka siswa tersebut naik kelas. Berikut daftar nilai siswa yang ada disekolah.
+
+No.absen
+1.
+2. 3. 4. 5. 6. 7. 8. 9. 10.
+
+Nama
+Anton
+Budi Cinta Dina Edi Fina Komar Hardi Ian Joko
+
+Ujian I
+85
+56 66 43 73 91 37 64 75 76
+
+Ujian II
+80
+75 65 65 75 85 54 60 56 69
+
+Ujian III
+82
+70 69 63 77 85 55 62 87 71
+
+Ujian IV
+81
+62 67 52 74 88 49 58 90 73
+
+Dengan fungsi Logika, buatlah tabel nilai akhir, dan tentukan siapa yang naik atau tidak naik kelas. Buatlah kolom G untuk menentukan nilai akhir. Kemudian gunakanlah kolom H dengan fungsi IF untuk menetukan naik atau tidak !
+
+Kasus 2:
+Dari daftar nilai seperti tabel dibawah ini, ubahlah daftar nilai terakhir dengan diubah menjadi nilai A, B, C, D, E, dengan uraian sebagai berikut :
+
+NIM NAMA 1 Anton 2 Budi 3 Mega 4 Cinta 5 Edi 6 Fina 7 Teguh 8 Yudi 9 Ion 10 Sugeng
+
+Daftar Nilai Ujian I 85 56 66 43 73 92 37 67 75 76
+
+Ujian II 80 75 65 65 75 85 54 60 58 69
+
+Ujian III 82 70 69 63 77 85 55 63 56 89
+
+Komposisi penentuan nilai akhir adalah Ujian I, 25%, Ujian II, 25% dan Ujian III, 50%. Daftar nilai akhir dikonversi menjadi huruf A,B,C,D dan E dengan aturan sebagai berikut :
+
+Daftar Referensi Nilai Lebih besar dari 85 Antara 70 ­ 85 Antara 55 ­ 70 Antara 40- 55 Kurang dari 40
+
+Huruf A B C D E
+
+Status Sangat Bagus Bagus Cukup Kurang Buruk
+
+Modul 4. Mencari data
+Aktifkan ribbon Home, klik dropdown Find & Select, akan muncul menu bar yang berisi:
+- Find , untuk mencari data tertentu - Repalce , mengganti data tertentu - Go to , menuju ke sel tertentu dengan cepat, dengan cara mengetikan nama sel tersebut - Go to special , mencari data yang mengandung karakterisitik khusus - Formulas, untuk mencari sel yang mengandung formula - Comments, untuk mencari sel yang mengandung komentar - Conditional Formatting, digunakan untuk menyeleksi sel yang mengandung conditional formatting - Constants, untuk mencari sel yang mengandung konstanta - Data Validation, digunakan untuk menyeleksi sel yang mengandung validasi data - Select Object, digunakan untuk menyeleksi objek-objek tertentu selain sel - Selection pane , untuk melakukan pengaturan pada objek-objek tertentu
+1. Menggunakan Find 1. Klik ribbon Home, kemudian pada grup Editing pilih Find & Select Find 2. Akan muncul kotak dialog, pada bagian Find What, isikan dengan data yang ingin dicari kemudian klik Find Next, maka kursor excel akan menunjukan pada sel yang mengandung data tersebut 3. Jika tidak ditemukan data yang dimaksud maka akan muncul kotak dialog. 4. Jika dipilih Find All, maka akan muncul tambahan pada kotak dialog yang akan menjelaskan tempat data tersebut ditemukan, apabila di klik kursor excel akan langsung menunjuk data tersebut.
+
+2. Menggunakan Replace 1. Klik ribbon Home, kemudian pada grup Editing pilih Find & Select Replace 2. Pada bagian Find What, isi data yang akan diganti 3. Pada bagian Replace with, isikan dengan data pengganti 4. Klik replace jika ingin mengganti data tersebut, jika ingin mengganti semuanya, klik Repace All 5. Tekan close untuk mengakhirinya
+3. Mengurutkan data 1. Caranya mengurutkan data ialah, seleksi table yang akan diurutkan, maka secara otomatis kolom pertama yang akan dijadikan sebagai kunci pengurutan data. 2. Klik ribbon Home, kemudian pada grup Editing pilih Sort & Filter klik dropdown, maka akan muncul menu yang berisi: - Sort A to Z, untuk Mengurutkan data mulai dari yang terkecil ke yang terbesar - Sort Z to A, untuk Mengurutkan data mulai dari yang terbesar ke yang terkecil - Custom Sort , untuk Mengurutkan data dengan criteria tertentu
+3. Jika data yang akan diurutkan bukan berdasarkan pada kolom pertama, maka sorot kolom yang akan dijadikan kunci pengurutan, akan muncul kotak dialog Sort Warning - Expand the selection, untuk pengurutan yang diikuti oleh kolom lainnya - Continue with the current selection, pengurutan pada kolom yang yang diseleksi saja, sedangkan kolom yang lainnya tetap.
+
+4. Menyaring data 1. Caranya menyaring data ialah, seleksi table yang akan disaring, 2. Klik ribbon Home, kemudian pada grup Editing pilih Sort & Filter klik dropdown, maka akan muncul menu yang berisi: - Filter, untuk melakukan penyaringan data dengan criteria tertentu - Clear, untuk mengembalikan data yang telah dilakukan penyaringan - Reapply, untuk melakukan penyariangan kembali terhadap data yang baru masuk
+3. Klik Filter, maka pada setiap judul kolom akan muncul dropdown. 4. Dropdown tersebut berisi jenis-jenis data yang termaktub di dalam kolom, jika ingin melihat
+beberapa jenis data saja, maka ceklis data tersebut, secara otomatis data yang lain akan disembunyikan.
+
+5. Validasi data 1. Validasi data adalah untuk membuat peraturan khusus pada sel yang akan diisi. Misalkan untuk table isian kode pos, hanya berlaku isian berbentuk angka dan hanya 5 angka saja, sehingga apabila diisi selain angka akan muncul kotak peringatan. 2. Seleksi sel yang akan di validasi 3. Aktifkan ribbon Data, pada grup Data tools, pilih Data Validation, sehingga akan muncul kotak dialog Data Validation.
+4. Pada bagian dropdown Allow, ada beberapa pilihan, yaitu: - Any Value, data dapat berupa nilai apapun - Whole Number, keseluruhan data harus berupa angka - Decimal, data harus berupa pecahan - List, data harus berupa daftar - Date, data harus berupa tanggal - Time, data harus berupa waktu - Text length, membatasi panjang text - Custom, membuat kriteria sendiri
+
+- Between, diantara - Not between, tidak diantara - Equal to, sama dengan - Not equal to, tidak sama dengan - Greater than, lebih besar daripada - Less than, lebih kecil daripada - Greater than or equal to, lebih besar atau sama dengan - Less than or equal to, lebih kecil atau sama dengan
+5. Klik tab Input Massage, untuk pengisian pesan apabila sel tersebut aktif, atau diseleksi
+
+6. Klik tab Error Alert, untuk memberikan pesan jika data yang dimasukan tidak sesuai dengan kriteria. Untuk mengakhiri klik OK.
+6. Konsolidasi data 1. Konsolidasi data digunakan untuk menggabungkan beberapa data di beberapa worksheet yang berbeda, tetapi mempunyai isi yang sama. 2. Buatlah worksheet baru, kemudian beri nama Konsolidasi 3. Pada ribbon Bata, grup Data tools pilih Consolidate, maka akan muncul kotak dialog 4. Pada bagian Function pilih operasi perhitungan yang diinginkan 5. Bagian References, untuk mengambil data range dari worksheet yang lain, buka worksheet yang akan diambil datanya, seleksi kemudian Add satu per satu.
+
+Kemudian tekan OK, maka data akan baru hasil perhitungan akan muncul.
+7. Mengelompokan data 1. Pengelompokan data digunakan apabila ingin melihat data per kelompok, biasanya pada pembuatan range yang panjang 2. Kelompok data harus dipisahkan dengan minimal satu kolom atau satu baris. 3. Seleksi table yang akan dikelompokan. Aktifkan ribbon Data, pada grup Outline pilih ikon Group, klik maka akan muncul kotak dialog, Rows untuk pengelompokan barisan dan Columns untuk pengempokan dalam betuk kolom. Pilih salah satu klik OK.
+
+4. Setelah itu akan muncul panel disamping worksheet, berbentuk garis dan diakhiri tanda (-), apabila tanda itu di klik maka kelompok data itu akan tersembunyi, dan tandanya akan berubah (+), untuk menampilkan kembali, klik tanda (+)
+5. Untuk mengahpus pengelompokan, masih pada ribbon Data grup Outline, klik dropdown Ungroup pilih Ungroup , untuk mengahpus semua pengelompokan pilih Clear Outline.
+8. Membuat Subtotal 1. Seleksi table yang akan di beri subtotal 2. Pada ribbon Data grup Outline. Klik tombol Subtotal, maka akan muncul kotak dialog yang berisi:
+
+a. At each change in, untuk menentukan kriteria perhitungan sub total b. Use Function, operasi perhitungan c. Ad subtotal to, untuk menambah kolom yang akan dihitung sub totalnya d. Replace current subtotals, untuk mengganti subtotal tang sudah ada sebelumnya e. Page Break between groups, setiap grup subtotal dibuat terpisah pada halaman tersendiri f. Summary below data, untuk memberikan ringkasan subtotal 3. Setelah diisi kriteria yang diinginkan, klik OK.
+
+MODUL 5. SORT, FILTER, SUBTOTAL, PIVOTTABLE
+Dalam bab ini, kita akan membahas, bagaimana mengolah data tabel yang sudah ada, agar memudahkan dalam pembuatan laporan, diantara menggunakan fasilitas Sort, Filter, Subtotal dan PivotTable. 1. Sort
+Salah satu pengolahan data yang berfungsi untuk mengurutkan data, baik secara Ascending (A-Z) ataupun Descending(Z-A). Cara menggunakannya sebagai berikut : 1. Blok Area Table, Hanya Isi Tabel tanpa Header Tabel. 2. Klik Icon seperti gambar disamping, 3. Untuk pengaturan lebih detail, klik Icon 4. Akan muncul window, seperti dibawah
+- Sort by diisi kolom-kolom apa saja yang akan diurutkan - Sort on, dipilih Values, Cell Color, Font Color, Cell Icon - Order, pilih Ascending atau Descending - Tekan OK Sebelum di sort :
+Sesudah di Sort :
+
+2. Filter Salah satu pengolahan data yang berfungsi untuk menyaring data, dan menampilkan data-data yang dibutuhkan. - Blok Header Table, tanpa Isi Tabel. - Klik Icon seperti gambar disamping, - Untuk pengaturan lebih detail, klik Icon Advance - Akan muncul window, seperti dibawah
+1. Action 2. Filter the list, in-place (Filter dilakukan diworkbook yang sama) 3. Copy to another location (Filter dilakukan diworkbook yang berbeda) 4. List Range (Area yang akan di FIlter) 5. Criteria Range (Area yang dijadikan Kriteria Filter) 6. Tekan OK
+Hasilnya, pada Header akan muncul tanda segitiga yang berisi list
+
+Jika diKlik tanda segitiganya, maka akan muncul option
+Untuk filter, bisa diklik pada nilai-nilai yang muncul pada list, kalau data yang diinginkan muncul, maka tinggal beri tanda check, jika tidak, maka hilangkan tanda checknya. Lalu tekan OK, Setelah di filter :
+3. Group dan UnGroup Group dan UnGroup adalah salah satu fasilitas dari Excel yang dapat digunakan untuk mengelompokkan Isi tabel secara otomatis, hampir sama dengan Sort.
+Caranya : 1. Blok Area Tabel, 2. Klik Icon Group, pilih Rows atau Columns 3. Klik OK 4. SubTotal Subtotal adalah salah satu pengolahan data, hasil gabungan dari Sort, Filter atau Group dan Summary, jadi yang diolah bertujuan untuk mencari Sub Total dan Total keseluruhan dari sebuah tabel.
+
+Cara melakukan Subtotal adalah 1. Urutkan data terlebih dahulu, dengan menggunakan Sort, disesuaikan dengan kategori. 2. Blok Area Tabel. Dari Header sampai Isi Tabel 3. Klik Icon 4. Maka akan muncul kotak dialog Subtotals, yang berisi beberapa pilihan Drop Down , yakni :
+- At Each change in, digunakan untuk menentukan criteria subtotal. Dalam hal ini adalah Sales Use Function, digunakan untuk menentukan fungsi Subtotal yang digunakan. Karena ingin mengetahui jumlah total hasil penjualan per Sales maka gunakan Sum
+- Add total to, digunakan untuk memilih field yang ingin dihitung subtotalnya. Klik item jumlah karena yang ingin dihitung adalah field jumlah
+- replace current subtotals, mengganti subtotal yang telah ada - Page Break between groups, setiap group subtotal terpisah pada halaman tersendiri - Summary below data, memberi ringkasan pada subtotal 5. Dapat dilihat hasil Subtotalnya
+Hasil Akhirnya seperti gambar dibawah
+
+Perhatikan tombol 1,2,3 disebelah kiri atas, dan tombol ­ atau + disebelah kiri.Cobalah diklik, Dan anda akan paham maksudnya 5. Pivot Table & Pivot Chart Pivot Table merupakan hasil manipulasi suatu tabel tertentu sehingga mudah untuk dianalisa. Sedangkan Pivot Chart adalah hasil dari Pivot Table yang berbentuk Chart. Cara melakukannya adalah sebagai berikut : - Blok Area Tabel - Klik Menu Insert, Klik Icon Pivot Table - Maka akan muncul window baru, seperti yang tampak pada gambar
+-
+
+- Ada 2 pertanyaan, Choose the data that you want to analyse (memilih data yang akan dianalisa) - Select a table or range (memilih area table pada workbook yang aktif) - User an external data source (mengambil data dari file lain, selain file Excel) - Choose where you want the Pivot Table report to be placed (memilih lokasi dimana hasil
+pengolahan Pivot Tabel akan ditempatkan) - New Worksheet (worksheet baru) - Existing Worksheet (worksheet yang sudah tersedia) - Jika sudah, tekan tombol OK - Tampilan berubah menjadi seperti di gambar - Tinggal pilih, fields apa saja yang akan dimasukkan dalam laporan
+- Untuk filter, kolom, baris, dan value bisa dengan cara drag saja pada field (Header Tabel) - Report Filter, berfungsi untuk menyaring data yang akan ditampilkan dalam laporan - Column Labels, berfungsi untuk menampilkan data dalam kolom dalam laporan - Row Labels, berfungsi untuk menampilkan data dalam baris dalam laporan - Values, berfungsi untuk menampilkan jumlah data yang muncul dalam laporan - Contoh Pivot Table, dalam kasus ini menampilkan Khusus Bagian "Akunting"
+
+Sedangkan Cara melakukan pembuatan Pivot Chart, hampir sama dengan Pivot Table, tapi icon yang
+
+dipilih adalah
+
+.
+
+MODUL 6. SHARING WORKBOOK
+Sharing Workbook dan Tracking Changes adalah salah satu fungsi yang baru dalam Office Excel 2007, yaitu berbagi file, dalam jaringan, dan bisa mendeteksi perubahan apa saja yang terjadi dalam file tersebut. Pihakpihak yang bisa mengaksespun tidak serta sembarang orang, melainkan hanya orang-orang tertentu saja.
+1. Cara membuat sharing workbook adalah sebagai berikut : - Buat Workbook baru dan masukkan beberapa data yang akan dibagim atau buka file yang sudah ada yang tersedia untuk multiuser. - dalam menu Review tab, in the Changes group,klik Share Workbook.
+- dalam Editing tab, pilih Allow Changes by more than one user at the same time. Beri tanda check
+Tidak semua fasilitas didukung dalam shared workbook. Jika mau menambahkannya, maka tambahkan sebelum kamu menyimpan menjadi shared workbook : merged cells, conditional formats, data validation, charts, pictures, objek termasuk drawing hyperlinks, scenarios, outlines, subtotals, data tables, PivotTable reports, workbook dan worksheet protection, dan macros. Tidak dapat dilakukan perubahan dengan menggunakan fasilitas ini, ketika file sudah disharing.
+- dalam tab Advance, pilih yang akan di tracking dan updating changes, tekan OK - Lakukan salah satu: - Jika file baru, ketik nama pada kotak File Name. - Jika file sudah ada, klik OK untuk menyimpan, atau Klik Microsoft Office Button , dan Save As. - Dalam Save in box,pilih network location yang tersedia untuk pengguna.dan Klik Save. Gunakan
+Shared network folder, buka Web server. - Jika dalam workbook terdapat links ke workbook atau file yang lain, periksa link dan perbarui link
+yang rusak, dan klik Save di Quick Access Toolbar, atau tekan CTRL+S.
+Bagaimana memeriksa dan memperbarui link ke file lainnya - Dalam Menu Data , di grup Connections, klik Edit Links.
+
+- Klik Check Status untuk memperbarui status untuk semua link dalam daftar.
+Notes Semua pengguna yang mengakses jaringan mempunyai hak penuh akan file yang disharing, kecuali file diberi proteksi dengan cara Klik Protect dan Share Workbook dalam Changes group di Review tab. Ketika diamankan shared workbook, kita dapat membuat password, dan penggna harus memasukkan password untuk membuka workbook.
+
+2. Penyuntingan shared workbook :
+
+- Buka file shared workbook.
+
+- Klik Microsoft Office Button , dan kemudian Klik Open. - Dalam kotak Look in, cari lokasi dari workbook yang di share, dan Klikfile - Klik Open. - Tip You can also go to the network location where the shared workbook is stored and double-click
+the shared workbook to open it.
+
+- Klik the Microsoft Office Button , dan kemudian Klik Excel Options. - Dalam Popular category, bawah Personalize your copy of Office, dalam kotak User Name,
+masukkan username yang digunakan, dan kemudian Klik OK. - Masuk dan edit data seperti biasa.
+
+- Untuk menyimpan, , Klik Save
+
+on the Quick Access Toolbar, or press CTRL+S.
+
+Menggunakan Filter dan Setting Print Dalam tab Review, dalam group Changes, Klik Share Workbook.
+Dalam tab Advanced , dibawa Include in personal view, hapus checkbox Print settings atau Filter settings, dan kemudian Klik OK.
+
+3. Menghapus Pengguna dari shared workbook
+Jika dibutuhkan, kita dapat menghapus pengguna dari workbook yang disharing.. - Dalam tab Review,dalam group Changes, Klik Share Workbook. - Dalam tab Editing tab, di daftar Who has this workbook open now, perhatikan nama pengguna. - Pilih nama pengguna yang akan dihapus, dan kemudian Klik Remove User. - Untuk menghapus setting personal dari pengguna yang dihapus, caranya adalah - Dari tab View, dalam grup Workbook Views group, Klik Custom Views.
+- Di daftar View, pilih the view of another user, dan kemudian Klik Delete.
+4. Penyelesaian konflik perubahan di shared workbook
+Konflik terjadi ketika 2 pengguna merubah workbook yang sama dan mencoba menyimpan perubahan tersebut dengan sel yang sama. Excel hanya dapat menyetujui 1 saja. Ketika hal ini terjadi, Excel akan memunculkan kotak dialog Resolve Conflicts . - Dalam kotak dialog Resolve Conflicts, baca informasi tentang tiap perubahan dan konflik-konflik
+yang dibuat oleh pengguna. - Untuk menyimpan yang kamu rubah atau yang orang lain ubah, Klik Accept Mine atau Accept Other. - Untuk menyimpan semua yang kamu rubah atau semua yang orang lain ubah,, Klik Accept All Mine
+atau Accept All Others. - Untuk menjaga semua perubahan tanpa dimunculkan lagi kotak dialog Resolve Conflicts, lakukan: - Dalam tab Review, di grup Changes , Klik Share Workbook. - Di tab Advanced, dibawah Conflicting changes between users, Klik The changes being saved win,
+dan kemudian Klik OK. - Untuk melihat bagaimana kita dan yang lain menyelesaikan konflik yang sebelumnya, lakukan : - Di tab Review tab, grup Changes, Klik Track Changes, dan kemudian Klik Highlight Changes. - Dalam daftar When list, pilih All. - Hilangkan tanda check Who dan Where. - Pilih check box List changes on a new sheet dan kemudian Klik OK. - Dalam History worksheet (History worksheet: A separate worksheet that lists changes being tracked
+in a shared workbook, including the name of the person who made the change, when and where it was made, what data was deleted or replaced, and how conflicts were resolved.), lihat Action Type dan Kolom Losing Action. - Untuk menyimpan hasil perubaha, Klik Cancel di kotak dialog Resolve Conflicts. Klik Microsoft
+Office Button , Klik Save As, dan kemudian ketik nama baru untuk file.
+
+5. Menghapus sharing a workbook
+- Di Review tab, di grup Changes, Klik Share Workbook. - Dalam tab Editing, pastikan bahwa hanya kamu yang sedang membuka shared Workbook. - Bersihkan Allow changes by more than one user at the same time. This also allows workbook
+merging. - Klik Yes. - Note Jika checkbox tidak ada, lakukan prosedur UnProtect Shared Workbook: - Klik OK untuk menutup kotak dialog Share Workbook. - Di TabReview,di grup Changes, Klik Unprotect Shared Workbook. - Masukkan Password, tekan OK
+
+Contoh Kasus :
+
+Suatu kelas I SD ABC, ditentukan bahwa naik tidaknya siswa di SD tersebut bila menjalani 4 kali ujian, yaitu Ujian I,Ujian II, Ujian III, dan Ujian ke IV. Kebijakan dari sekolahan tersebut menentukan presentase nilai ujian untuk menentukan nilai akhir adalah sebagai berikut :
+- Ujian I 15% - Ujian II 30% - Ujian III 15 % - Ujian IV 40 %
+
+Jika nilai akhir lebih dari atau sama dengan 60, maka siswa tersebut naik kelas. Berikut daftar nilai siswa yang ada disekolah.
+
+No.absen
+1.
+2. 3. 4. 5. 6. 7. 8. 9. 10.
+
+Nama
+Anton
+Budi Cinta Dina Edi Fina Komar Hardi Ian Joko
+
+Ujian I
+85
+56 66 43 73 91 37 64 75 76
+
+Ujian II
+80
+75 65 65 75 85 54 60 56 69
+
+Ujian III
+82
+70 69 63 77 85 55 62 87 71
+
+Ujian IV
+81
+62 67 52 74 88 49 58 90 73
+
+Dengan fungsi Logika, buatlah tabel nilai akhir, dan tentukan siapa yang naik atau tidak naik kelas. Buatlah kolom G untuk menentukan nilai akhir. Kemudian gunakanlah kolom H dengan fungsi IF untuk menetukan naik atau tidak !
+
+Contoh :
+Dari daftar nilai seperti tabel dibawah ini, ubahlah daftar nilai terakhir dengan diubah menjadi nilai A, B, C, D, E, dengan uraian sebagai berikut :
+
+NIM NAMA 1 Anton 2 Budi 3 Mega 4 Cinta 5 Edi 6 Fina 7 Teguh 8 Yudi 9 Ion 10 Sugeng
+
+Daftar Nilai Ujian I 85 56 66 43 73 92 37 67 75 76
+
+Ujian II 80 75 65 65 75 85 54 60 58 69
+
+Ujian III 82 70 69 63 77 85 55 63 56 89
+
+Komposisi penentuan nilai akhir adalah Ujian I, 25%, Ujian II, 25% dan Ujian III, 50%. Daftar nilai akhir dikonversi menjadi huruf A,B,C,D dan E dengan aturan sebagai berikut :
+
+Daftar Referensi Nilai Lebih besar dari 85 Antara 70 ­ 85 Antara 55 ­ 70 Antara 40- 55 Kurang dari 40
+
+Huruf A B C D E
+
+Status Sangat Bagus Bagus Cukup Kurang Buruk
+
+Penyelesaian : Masukkan data tersebut ke dalam worksheet (lihat gambar) Pada sel F2 masukkan formula untuk menentukan nilai akhir (lihat gambar). Gunakan AutoCorrect untuk menentukan nilai akhir F3-F10 Untuk menggunakan VLOOKUP maka aturannya : VLOOKUP(lookup_value,table_array,col_index_num,range_lookup) Aturannya sebagai berikut : Lookup_value, nilai pada tabel aktif (tabel yang sedang dianalisa) yang menjadi dasar pencarian informasi pada tabel informasi Table_array, rangkaian sel dari tabel informasi tidak termasuk judul field(kolom). Col_index_num, merupakan indexs (nomor) kolom dari tabel informasi yang menyajikan nilai yang dicari Range_lookup, berupa nilai logika TRUE atau FALSE. Jika bernilai TRUE (atau tidak disebutkan nilainya) , maka table informasi harus diurutkan secara Ascending. Pertama, tabel informasi (Status Nilai) harus diurutkan terlebih dahulu secara ascending. Gunakan menu Data > Sort Pada sel G2 masukkan formula : =VLOOKUP (F2,A15:C19,2). Kolom index diisi 2 karena tabel informasi huruf nilai berada pada kolom 2
+
+Pada H2, masukkan formula : = VLOOKUP (F2, A15:C19,3). Lihatlah hasilnya.
+
+Namun, bila hasil tersebut kita copy-kan dan paste-kan ke G3 hingga H11, maka hasilnya akan error. Mengapa hal ini terjadi ? karena, posisi juga berubah. Agar menetap gunakanlah =VLOOKUP(F2;$A$15:$C$19;2)
